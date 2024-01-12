@@ -1,0 +1,564 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "gradeGroupId": 1,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 50,
+            "awardDropList": [
+                261025
+            ],
+            "awardDropViewList": {
+                "2": 1500
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 2,
+            "gradeGroupId": 1,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 100,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 150
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 3,
+            "gradeGroupId": 1,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 160,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 150
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 4,
+            "gradeGroupId": 1,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 240,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 150
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 5,
+            "gradeGroupId": 2,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 60,
+            "awardDropList": [
+                261025
+            ],
+            "awardDropViewList": {
+                "2": 1650
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 6,
+            "gradeGroupId": 2,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 120,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 165
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 7,
+            "gradeGroupId": 2,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 180,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 165
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 8,
+            "gradeGroupId": 2,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 240,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 165
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 9,
+            "gradeGroupId": 3,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 80,
+            "awardDropList": [
+                261025
+            ],
+            "awardDropViewList": {
+                "2": 2400
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 10,
+            "gradeGroupId": 3,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 150,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 240
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 11,
+            "gradeGroupId": 3,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 200,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 240
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 12,
+            "gradeGroupId": 3,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 240,
+            "awardDropList": [
+                261026
+            ],
+            "awardDropViewList": {
+                "2": 240
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 13,
+            "gradeGroupId": 4,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 100,
+            "awardDropList": [
+                261030
+            ],
+            "awardDropViewList": {
+                "2": 2600
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 14,
+            "gradeGroupId": 4,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 150,
+            "awardDropList": [
+                261031
+            ],
+            "awardDropViewList": {
+                "2": 260
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 15,
+            "gradeGroupId": 4,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 300,
+            "awardDropList": [
+                261031
+            ],
+            "awardDropViewList": {
+                "2": 260
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 16,
+            "gradeGroupId": 4,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 330,
+            "awardDropList": [
+                261031
+            ],
+            "awardDropViewList": {
+                "2": 260
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 17,
+            "gradeGroupId": 5,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 120,
+            "awardDropList": [
+                261035
+            ],
+            "awardDropViewList": {
+                "2": 3000
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 18,
+            "gradeGroupId": 5,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 250,
+            "awardDropList": [
+                261036
+            ],
+            "awardDropViewList": {
+                "2": 300
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 19,
+            "gradeGroupId": 5,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 400,
+            "awardDropList": [
+                261036
+            ],
+            "awardDropViewList": {
+                "2": 300
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 20,
+            "gradeGroupId": 5,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 510,
+            "awardDropList": [
+                261036
+            ],
+            "awardDropViewList": {
+                "2": 300
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 21,
+            "gradeGroupId": 6,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 120,
+            "awardDropList": [
+                261040
+            ],
+            "awardDropViewList": {
+                "2": 3400
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 22,
+            "gradeGroupId": 6,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 250,
+            "awardDropList": [
+                261041
+            ],
+            "awardDropViewList": {
+                "2": 340
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 23,
+            "gradeGroupId": 6,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 400,
+            "awardDropList": [
+                261041
+            ],
+            "awardDropViewList": {
+                "2": 340
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 24,
+            "gradeGroupId": 6,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 710,
+            "awardDropList": [
+                261041
+            ],
+            "awardDropViewList": {
+                "2": 340
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 25,
+            "gradeGroupId": 7,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 120,
+            "awardDropList": [
+                261045
+            ],
+            "awardDropViewList": {
+                "2": 4000
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 26,
+            "gradeGroupId": 7,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 250,
+            "awardDropList": [
+                261046
+            ],
+            "awardDropViewList": {
+                "2": 400
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 27,
+            "gradeGroupId": 7,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 400,
+            "awardDropList": [
+                261046
+            ],
+            "awardDropViewList": {
+                "2": 400
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 28,
+            "gradeGroupId": 7,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 740,
+            "awardDropList": [
+                261046
+            ],
+            "awardDropViewList": {
+                "2": 400
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 29,
+            "gradeGroupId": 8,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 180,
+            "awardDropList": [
+                261050
+            ],
+            "awardDropViewList": {
+                "2": 4600
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 30,
+            "gradeGroupId": 8,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 380,
+            "awardDropList": [
+                261051
+            ],
+            "awardDropViewList": {
+                "2": 460
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 31,
+            "gradeGroupId": 8,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 620,
+            "awardDropList": [
+                261051
+            ],
+            "awardDropViewList": {
+                "2": 460
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 32,
+            "gradeGroupId": 8,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 1020,
+            "awardDropList": [
+                261051
+            ],
+            "awardDropViewList": {
+                "2": 460
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 33,
+            "gradeGroupId": 9,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 190,
+            "awardDropList": [
+                261055
+            ],
+            "awardDropViewList": {
+                "2": 5200
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 34,
+            "gradeGroupId": 9,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 410,
+            "awardDropList": [
+                261056
+            ],
+            "awardDropViewList": {
+                "2": 520
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 35,
+            "gradeGroupId": 9,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 690,
+            "awardDropList": [
+                261056
+            ],
+            "awardDropViewList": {
+                "2": 520
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 36,
+            "gradeGroupId": 9,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 1090,
+            "awardDropList": [
+                261056
+            ],
+            "awardDropViewList": {
+                "2": 520
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 37,
+            "gradeGroupId": 10,
+            "gradeId": 1,
+            "gradeIcon": "Icon_SimcombatGold_Rated_1_S",
+            "minScore": 200,
+            "awardDropList": [
+                261060
+            ],
+            "awardDropViewList": {
+                "2": 6000
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 38,
+            "gradeGroupId": 10,
+            "gradeId": 2,
+            "gradeIcon": "Icon_SimcombatGold_Rated_2_S",
+            "minScore": 480,
+            "awardDropList": [
+                261061
+            ],
+            "awardDropViewList": {
+                "2": 600
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 39,
+            "gradeGroupId": 10,
+            "gradeId": 3,
+            "gradeIcon": "Icon_SimcombatGold_Rated_3_S",
+            "minScore": 720,
+            "awardDropList": [
+                261061
+            ],
+            "awardDropViewList": {
+                "2": 600
+            },
+            "autoOpen": true
+        },
+        {
+            "id": 40,
+            "gradeGroupId": 10,
+            "gradeId": 4,
+            "gradeIcon": "Icon_SimcombatGold_Rated_4_S",
+            "minScore": 1120,
+            "awardDropList": [
+                261061
+            ],
+            "awardDropViewList": {
+                "2": 600
+            },
+            "autoOpen": true
+        }
+    ]
+}

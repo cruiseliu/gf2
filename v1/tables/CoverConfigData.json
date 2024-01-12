@@ -1,0 +1,3502 @@
+{
+    "data": [
+        {
+            "id": 900,
+            "coverName": "可升降掩体I·未启动",
+            "coverInfo": "启动后上升为半身掩体",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.01
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                5
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                0,
+                0
+            ],
+            "blockIdletype": [
+                0
+            ],
+            "passiveBlocktype": [
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "isNullcover": 1,
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 901,
+            "coverName": "可升降掩体II·未启动",
+            "coverInfo": "启动后上升为全身掩体",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.01
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                5
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                0,
+                0
+            ],
+            "blockIdletype": [
+                0
+            ],
+            "passiveBlocktype": [
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "isNullcover": 1,
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 902,
+            "coverName": "无掩体",
+            "coverInfo": "可变为窄边半身掩体",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.01
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                5
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                0,
+                0
+            ],
+            "blockIdletype": [
+                0
+            ],
+            "passiveBlocktype": [
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "isNullcover": 1,
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 903,
+            "coverName": "无掩体",
+            "coverInfo": "可变为窄边全身掩体",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.01
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                5
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                0,
+                0
+            ],
+            "blockIdletype": [
+                0
+            ],
+            "passiveBlocktype": [
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "isNullcover": 1,
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 904,
+            "coverName": "可升降掩体I·已启动",
+            "coverInfo": "关闭后下降为掩体基座",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 905,
+            "coverName": "可升降掩体III·未启动",
+            "coverInfo": "启动后上升为全身掩体",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 906,
+            "coverName": "可升降掩体II·已启动",
+            "coverInfo": "关闭后下降为掩体基座",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 907,
+            "coverName": "可升降掩体III·已启动",
+            "coverInfo": "关闭后下降为半身掩体",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 908,
+            "coverName": "可升降边界掩体I·已启动",
+            "coverInfo": "关闭后下降为边界掩体基座",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                6
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 909,
+            "coverName": "可升降边界掩体III·未启动",
+            "coverInfo": "启动后上升为全身边界掩体",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                6
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 910,
+            "coverName": "可升降边界掩体II·已启动",
+            "coverInfo": "关闭后下降为边界掩体基座",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                2
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 911,
+            "coverName": "可升降边界掩体III·已启动",
+            "coverInfo": "关闭后下降为半身边界掩体",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                2
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 10,
+            "coverName": "半身边界掩体",
+            "coverInfo": "可翻越",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                6
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 11,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 12,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                6
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 13,
+            "coverName": "易损半身边界掩体",
+            "coverInfo": "可翻越，可破坏",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                200,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                6,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 14,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                6
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 15,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                2
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 16,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                6,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 17,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                0
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 18,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                2
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 19,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 20,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                6
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 21,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                5,
+                5
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 22,
+            "coverName": "铁栅栏",
+            "coverInfo": "限制近距离攻击",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                4,
+                4
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 23,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 24,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 25,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 26,
+            "coverName": "全身边界掩体",
+            "coverInfo": "不可翻越",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                2
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 27,
+            "coverName": "易损全身边界掩体",
+            "coverInfo": "不可翻越，可破坏",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                200,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 28,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                2
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 29,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                200,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                6,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 30,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                6
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 31,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 32,
+            "coverName": "老旧矮栅墙",
+            "coverInfo": "不可翻越，可破坏",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                200,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 33,
+            "coverName": "矮栅墙",
+            "coverInfo": "不可翻越",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 34,
+            "coverName": "低掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 35,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                21
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                5,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 301,
+            "coverName": "便携半身掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                0
+            ],
+            "passiveBlocktype": [
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 302,
+            "coverName": "掩体单位",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                2
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 1000,
+            "coverName": "无掩体",
+            "coverInfo": "可变为半身掩体",
+            "showCoverType": "<color=#a8d7ea>动态地形</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.01
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                5
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                0,
+                0
+            ],
+            "blockIdletype": [
+                0
+            ],
+            "passiveBlocktype": [
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "isNullcover": 1,
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 1001,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 1002,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 1003,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                0
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 1004,
+            "coverName": "不稳定燃气罐",
+            "coverInfo": "全格全身延时破坏",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "countDestroy": 1,
+            "destroySkill": "900012",
+            "shapeIcon": "Buff/gird_warnning_fire",
+            "stillEffect": false,
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0
+        },
+        {
+            "id": 1005,
+            "coverName": "废旧管道",
+            "coverInfo": "窄边半身延时破坏",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                200,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                6,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "countDestroy": 1,
+            "destroySkill": "900011",
+            "shapeIcon": "Buff/gird_warnning_fire",
+            "stillEffect": false,
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0
+        },
+        {
+            "id": 1006,
+            "coverName": "坚固高墙",
+            "coverInfo": "不可翻越",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                0
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                7,
+                7
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 1007,
+            "coverName": "半身掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                200
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 10000,
+            "coverName": "高地",
+            "coverInfo": "高地",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                1,
+                1
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 1,
+            "coverName": "易损半身掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 2,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75,
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 3,
+            "coverName": "易损全身掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 4,
+            "coverName": "半身掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 5,
+            "coverName": "全身掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4,
+                21
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                2,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 6,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0,
+                0.0
+            ],
+            "coverDodgeRateArray": [
+                1000,
+                0
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                250,
+                0
+            ],
+            "damageReduceShow": "1,1",
+            "crossCodeArray": [
+                4,
+                17
+            ],
+            "isDestroy": 1,
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                6,
+                0
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true,
+                false
+            ],
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 7,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                4
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 8,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                2.0
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                350
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                0
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                6,
+                6
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        },
+        {
+            "id": 9,
+            "coverName": "掩体",
+            "coverInfo": "不可通行",
+            "showCoverType": "<color=#a8d7ea>地形</color>",
+            "canShowCoverInfo": "0",
+            "propertyId": 2002,
+            "coverHeightArray": [
+                0.75
+            ],
+            "coverDodgeRateArray": [
+                1000
+            ],
+            "coverDamdecrRateArray": [
+                0
+            ],
+            "coverDamageReduceRateArray": [
+                300
+            ],
+            "damageReduceShow": "1",
+            "crossCodeArray": [
+                6
+            ],
+            "initialDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "destroyedDodgeRateFix": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "coverType": [
+                3,
+                3
+            ],
+            "blockIdletype": [
+                3,
+                0
+            ],
+            "passiveBlocktype": [
+                3,
+                0
+            ],
+            "isLean": [
+                true
+            ],
+            "isDestroy": 0,
+            "stillEffect": false,
+            "countDestroy": 0,
+            "destroySkill": "",
+            "responseSkill": "",
+            "responseSkillLimits": 0,
+            "isNullcover": 0,
+            "shapeIcon": ""
+        }
+    ]
+}

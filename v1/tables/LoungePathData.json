@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "id": 601,
+            "name": "A1",
+            "endPoint": "A1",
+            "ifReturn": true,
+            "ifLoop": true,
+            "point": "M1.M2;",
+            "mark": "扫地循环路径"
+        },
+        {
+            "id": 102,
+            "name": "A1",
+            "endPoint": "A2",
+            "ifReturn": true,
+            "point": "B1,B2;",
+            "mark": "多功能区到沙发",
+            "ifLoop": false
+        },
+        {
+            "id": 103,
+            "name": "A1",
+            "endPoint": "A3",
+            "ifReturn": true,
+            "mark": "多功能区到床",
+            "ifLoop": false,
+            "point": ""
+        },
+        {
+            "id": 104,
+            "name": "A1",
+            "endPoint": "A4",
+            "ifReturn": true,
+            "mark": "多功能区到二楼工作台",
+            "ifLoop": false,
+            "point": ""
+        },
+        {
+            "id": 105,
+            "name": "A1",
+            "endPoint": "A5",
+            "ifReturn": true,
+            "mark": "多功能区到二楼擦枪台",
+            "ifLoop": false,
+            "point": ""
+        }
+    ]
+}

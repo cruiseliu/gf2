@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "powerSkill": {
+                "3": 1001
+            },
+            "name": "制胜追进",
+            "image": "WeaponPart_ModPower_Attack01",
+            "powerSuit": {}
+        },
+        {
+            "id": 2,
+            "powerSkill": {
+                "3": 1002
+            },
+            "name": "双重对策",
+            "image": "WeaponPart_ModPower_Attack02",
+            "powerSuit": {}
+        },
+        {
+            "id": 3,
+            "powerSkill": {
+                "3": 1003
+            },
+            "name": "异位打击",
+            "image": "WeaponPart_ModPower_Critical01",
+            "powerSuit": {}
+        },
+        {
+            "id": 4,
+            "powerSkill": {
+                "3": 1004
+            },
+            "name": "异位提振",
+            "image": "WeaponPart_ModPower_Current01",
+            "powerSuit": {}
+        },
+        {
+            "id": 5,
+            "powerSkill": {
+                "3": 1005
+            },
+            "name": "应急修复",
+            "image": "WeaponPart_ModPower_Support01",
+            "powerSuit": {}
+        },
+        {
+            "id": 6,
+            "powerSkill": {
+                "3": 1006
+            },
+            "name": "减伤支援",
+            "image": "WeaponPart_ModPower_Defend01",
+            "powerSuit": {}
+        }
+    ]
+}

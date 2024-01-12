@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "id": 6873701,
+            "type": 2,
+            "shapeParam": [
+                3000,
+                0
+            ],
+            "target": 1,
+            "condition": "6873701",
+            "transmitFunction": 1,
+            "targetIgnore": 1,
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "resultTransmit": ""
+        },
+        {
+            "id": 6951201,
+            "type": 2,
+            "shapeParam": [
+                3000,
+                0
+            ],
+            "target": 1,
+            "condition": "6951201",
+            "transmitFunction": 1,
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "resultTransmit": "",
+            "targetIgnore": 0
+        },
+        {
+            "id": 10010411,
+            "type": 1,
+            "transmitFunction": 3,
+            "shapeParam": [],
+            "target": 0,
+            "condition": "",
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "resultTransmit": "",
+            "targetIgnore": 0
+        },
+        {
+            "id": 1,
+            "type": 1,
+            "targetIgnore": 1,
+            "shapeParam": [],
+            "target": 0,
+            "condition": "",
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "transmitFunction": 0,
+            "resultTransmit": ""
+        },
+        {
+            "id": 2,
+            "type": 3,
+            "targetIgnore": 1,
+            "shapeParam": [],
+            "target": 0,
+            "condition": "",
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "transmitFunction": 0,
+            "resultTransmit": ""
+        },
+        {
+            "id": 6242300,
+            "type": 1,
+            "transmitFunction": 2,
+            "targetIgnore": 1,
+            "shapeParam": [],
+            "target": 0,
+            "condition": "",
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "resultTransmit": ""
+        },
+        {
+            "id": 6481201,
+            "type": 1,
+            "transmitFunction": 2,
+            "targetIgnore": 1,
+            "shapeParam": [],
+            "target": 0,
+            "condition": "",
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "resultTransmit": ""
+        },
+        {
+            "id": 6851901,
+            "type": 2,
+            "shapeParam": [
+                3000,
+                0
+            ],
+            "target": 1,
+            "condition": "230",
+            "transmitFunction": 2,
+            "targetIgnore": 1,
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "resultTransmit": ""
+        },
+        {
+            "id": 6856501,
+            "type": 2,
+            "shapeParam": [
+                3000,
+                0
+            ],
+            "target": 1,
+            "transmitFunction": 3,
+            "targetIgnore": 1,
+            "condition": "",
+            "effectBeforeTransmit": "",
+            "effectAfterTransmit": "",
+            "resultTransmit": ""
+        }
+    ]
+}

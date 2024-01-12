@@ -1,0 +1,1186 @@
+{
+    "data": [
+        {
+            "id": 24101,
+            "chapter": 101,
+            "nextId": 24102,
+            "code": "1-1",
+            "name": "1-1",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "keyItem": {
+                "8119": 1
+            },
+            "parse": 20,
+            "unlockContent": [
+                10101
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9006": 3,
+                "2": 500,
+                "25": 40
+            },
+            "preId": 0,
+            "unlock": false,
+            "unlockItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24102,
+            "chapter": 101,
+            "preId": 24101,
+            "nextId": 24103,
+            "code": "1-2",
+            "name": "1-2",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8119": 1
+            },
+            "keyItem": {
+                "8119": 1
+            },
+            "parse": 40,
+            "unlockContent": [
+                10102
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9006": 3,
+                "2": 500,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24103,
+            "chapter": 101,
+            "preId": 24102,
+            "nextId": 24104,
+            "code": "1-3",
+            "name": "1-3",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8119": 1
+            },
+            "keyItem": {
+                "8119": 1
+            },
+            "parse": 60,
+            "unlockContent": [
+                10103
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9006": 4,
+                "2": 500,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24104,
+            "chapter": 101,
+            "preId": 24103,
+            "nextId": 24105,
+            "code": "1-4",
+            "name": "1-4",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8119": 1
+            },
+            "keyItem": {
+                "8119": 1
+            },
+            "parse": 80,
+            "unlockContent": [
+                10104
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9006": 4,
+                "2": 500,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24105,
+            "chapter": 101,
+            "preId": 24104,
+            "code": "1-5",
+            "name": "1-5",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 2,
+            "unlock": true,
+            "unlockItem": {
+                "8119": 1
+            },
+            "parse": 100,
+            "unlockContent": [
+                10105,
+                10106
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9006": 5,
+                "2": 500,
+                "25": 40
+            },
+            "nextId": 0,
+            "keyItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24201,
+            "chapter": 102,
+            "nextId": 24202,
+            "code": "2-1",
+            "name": "2-1",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "keyItem": {
+                "8121": 1
+            },
+            "parse": 20,
+            "unlockContent": [
+                10201
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9007": 3,
+                "2": 600,
+                "25": 40
+            },
+            "preId": 0,
+            "unlock": false,
+            "unlockItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24202,
+            "chapter": 102,
+            "preId": 24201,
+            "nextId": 24203,
+            "code": "2-2",
+            "name": "2-2",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8121": 1
+            },
+            "keyItem": {
+                "8121": 1
+            },
+            "parse": 40,
+            "unlockContent": [
+                10202
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9007": 3,
+                "2": 600,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24203,
+            "chapter": 102,
+            "preId": 24202,
+            "nextId": 24204,
+            "code": "2-3",
+            "name": "2-3",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8121": 1
+            },
+            "keyItem": {
+                "8121": 1
+            },
+            "parse": 60,
+            "unlockContent": [
+                10203
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9007": 4,
+                "2": 600,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24204,
+            "chapter": 102,
+            "preId": 24203,
+            "nextId": 24205,
+            "code": "2-4",
+            "name": "2-4",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8121": 1
+            },
+            "keyItem": {
+                "8121": 1
+            },
+            "parse": 80,
+            "unlockContent": [
+                10204
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9007": 4,
+                "2": 600,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24205,
+            "chapter": 102,
+            "preId": 24204,
+            "code": "2-5",
+            "name": "2-5",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 2,
+            "unlock": true,
+            "unlockItem": {
+                "8121": 1
+            },
+            "parse": 100,
+            "unlockContent": [
+                10205,
+                10206
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9007": 5,
+                "2": 600,
+                "25": 40
+            },
+            "nextId": 0,
+            "keyItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24301,
+            "chapter": 103,
+            "nextId": 24302,
+            "code": "3-1",
+            "name": "3-1",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "keyItem": {
+                "8125": 1
+            },
+            "parse": 20,
+            "unlockContent": [
+                10301
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9008": 3,
+                "2": 700,
+                "25": 40
+            },
+            "preId": 0,
+            "unlock": false,
+            "unlockItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24302,
+            "chapter": 103,
+            "preId": 24301,
+            "nextId": 24303,
+            "code": "3-2",
+            "name": "3-2",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8125": 1
+            },
+            "keyItem": {
+                "8125": 1
+            },
+            "parse": 40,
+            "unlockContent": [
+                10302
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9008": 3,
+                "2": 700,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24303,
+            "chapter": 103,
+            "preId": 24302,
+            "nextId": 24304,
+            "code": "3-3",
+            "name": "3-3",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8125": 1
+            },
+            "keyItem": {
+                "8125": 1
+            },
+            "parse": 60,
+            "unlockContent": [
+                10303
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9008": 4,
+                "2": 700,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24304,
+            "chapter": 103,
+            "preId": 24303,
+            "nextId": 24305,
+            "code": "3-4",
+            "name": "3-4",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 2,
+            "unlock": true,
+            "unlockItem": {
+                "8125": 1
+            },
+            "keyItem": {
+                "8125": 1
+            },
+            "parse": 80,
+            "unlockContent": [
+                10304,
+                10305
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9008": 4,
+                "2": 700,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24305,
+            "chapter": 103,
+            "preId": 24304,
+            "code": "3-5",
+            "name": "3-5",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 2,
+            "unlock": true,
+            "unlockItem": {
+                "8125": 1
+            },
+            "parse": 100,
+            "unlockContent": [
+                10306,
+                10307
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9008": 5,
+                "2": 700,
+                "25": 40
+            },
+            "nextId": 0,
+            "keyItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24401,
+            "chapter": 104,
+            "nextId": 24402,
+            "code": "4-1",
+            "name": "4-1",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "keyItem": {
+                "8123": 1
+            },
+            "parse": 20,
+            "unlockContent": [
+                10401
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9009": 3,
+                "2": 800,
+                "25": 40
+            },
+            "preId": 0,
+            "unlock": false,
+            "unlockItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24402,
+            "chapter": 104,
+            "preId": 24401,
+            "nextId": 24403,
+            "code": "4-2",
+            "name": "4-2",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8123": 1
+            },
+            "keyItem": {
+                "8123": 1
+            },
+            "parse": 40,
+            "unlockContent": [
+                10402
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9009": 3,
+                "2": 800,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24403,
+            "chapter": 104,
+            "preId": 24402,
+            "nextId": 24404,
+            "code": "4-3",
+            "name": "4-3",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8123": 1
+            },
+            "keyItem": {
+                "8123": 1
+            },
+            "parse": 60,
+            "unlockContent": [
+                10403
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9009": 4,
+                "2": 800,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24404,
+            "chapter": 104,
+            "preId": 24403,
+            "nextId": 24405,
+            "code": "4-4",
+            "name": "4-4",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8123": 1
+            },
+            "keyItem": {
+                "8123": 1
+            },
+            "parse": 80,
+            "unlockContent": [
+                10404
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9009": 4,
+                "2": 800,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24405,
+            "chapter": 104,
+            "preId": 24404,
+            "code": "4-5",
+            "name": "4-5",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8123": 1
+            },
+            "parse": 100,
+            "unlockContent": [
+                10405
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9009": 5,
+                "2": 800,
+                "25": 40
+            },
+            "nextId": 0,
+            "keyItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24501,
+            "chapter": 105,
+            "nextId": 24502,
+            "code": "5-1",
+            "name": "5-1",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "keyItem": {
+                "8115": 1
+            },
+            "parse": 20,
+            "unlockContent": [
+                10501
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9010": 3,
+                "2": 900,
+                "25": 40
+            },
+            "preId": 0,
+            "unlock": false,
+            "unlockItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24502,
+            "chapter": 105,
+            "preId": 24501,
+            "nextId": 24503,
+            "code": "5-2",
+            "name": "5-2",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8115": 1
+            },
+            "keyItem": {
+                "8115": 1
+            },
+            "parse": 40,
+            "unlockContent": [
+                10502
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9010": 3,
+                "2": 900,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24503,
+            "chapter": 105,
+            "preId": 24502,
+            "nextId": 24504,
+            "code": "5-3",
+            "name": "5-3",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8115": 1
+            },
+            "keyItem": {
+                "8115": 1
+            },
+            "parse": 60,
+            "unlockContent": [
+                10503
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9010": 4,
+                "2": 900,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24504,
+            "chapter": 105,
+            "preId": 24503,
+            "nextId": 24505,
+            "code": "5-4",
+            "name": "5-4",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8115": 1
+            },
+            "keyItem": {
+                "8115": 1
+            },
+            "parse": 80,
+            "unlockContent": [
+                10504
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9010": 4,
+                "2": 900,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24505,
+            "chapter": 105,
+            "preId": 24504,
+            "code": "5-5",
+            "name": "5-5",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 2,
+            "unlock": true,
+            "unlockItem": {
+                "8115": 1
+            },
+            "parse": 100,
+            "unlockContent": [
+                10505,
+                10506
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9010": 5,
+                "2": 900,
+                "25": 40
+            },
+            "nextId": 0,
+            "keyItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24601,
+            "chapter": 106,
+            "nextId": 24602,
+            "code": "6-1",
+            "name": "6-1",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "keyItem": {
+                "8116": 1
+            },
+            "parse": 20,
+            "unlockContent": [
+                10601
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9011": 3,
+                "2": 1000,
+                "25": 40
+            },
+            "preId": 0,
+            "unlock": false,
+            "unlockItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24602,
+            "chapter": 106,
+            "preId": 24601,
+            "nextId": 24603,
+            "code": "6-2",
+            "name": "6-2",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8116": 1
+            },
+            "keyItem": {
+                "8116": 1
+            },
+            "parse": 40,
+            "unlockContent": [
+                10602
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9011": 3,
+                "2": 1000,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24603,
+            "chapter": 106,
+            "preId": 24602,
+            "nextId": 24604,
+            "code": "6-3",
+            "name": "6-3",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8116": 1
+            },
+            "keyItem": {
+                "8116": 1
+            },
+            "parse": 60,
+            "unlockContent": [
+                10603
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9011": 4,
+                "2": 1000,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24604,
+            "chapter": 106,
+            "preId": 24603,
+            "nextId": 24605,
+            "code": "6-4",
+            "name": "6-4",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 1,
+            "unlock": true,
+            "unlockItem": {
+                "8116": 1
+            },
+            "keyItem": {
+                "8116": 1
+            },
+            "parse": 80,
+            "unlockContent": [
+                10604
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9011": 4,
+                "2": 1000,
+                "25": 40
+            },
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        },
+        {
+            "id": 24605,
+            "chapter": 106,
+            "preId": 24604,
+            "code": "6-5",
+            "name": "6-5",
+            "icon": "icon_stagetest",
+            "type": 4,
+            "unlockNum": 2,
+            "unlock": true,
+            "unlockItem": {
+                "8116": 1
+            },
+            "parse": 100,
+            "unlockContent": [
+                10605,
+                10606
+            ],
+            "position": "0",
+            "sweepsOpen": true,
+            "sweepsCost": {
+                "101": 20
+            },
+            "uidExp": 20,
+            "sweepsReward": {
+                "9011": 5,
+                "2": 1000,
+                "25": 40
+            },
+            "nextId": 0,
+            "keyItem": {},
+            "startPoint": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": 0,
+            "battleGroupId": 0,
+            "sweepsNum": 0
+        }
+    ]
+}

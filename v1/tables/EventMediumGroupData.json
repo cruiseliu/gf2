@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "icon": "Icon_Guiding_Vx",
+            "reward": {
+                "1": 100
+            },
+            "notes": "微信",
+            "mobileUrls": "",
+            "urls": ""
+        },
+        {
+            "id": 2,
+            "icon": "Icon_Guiding_Wb",
+            "mobileUrls": "sinaweibo://userinfo?luicode=10000360&lfid=OP_573585794&uid=7367502517&launchid=10000360-OP_573585794",
+            "urls": "https://weibo.com/u/7367502517",
+            "reward": {
+                "1": 100
+            },
+            "notes": "微博"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "range": [
+                0,
+                3600
+            ],
+            "percentage": 2000,
+            "itemId": [
+                11
+            ]
+        },
+        {
+            "id": 2,
+            "range": [
+                3600,
+                999999999
+            ],
+            "percentage": 1350,
+            "itemId": [
+                11
+            ]
+        },
+        {
+            "id": 3,
+            "percentage": 1000,
+            "itemId": [
+                110008
+            ],
+            "range": []
+        },
+        {
+            "id": 4,
+            "percentage": 1000,
+            "itemId": [
+                110009
+            ],
+            "range": []
+        },
+        {
+            "id": 5,
+            "percentage": 1000,
+            "itemId": [
+                110010
+            ],
+            "range": []
+        },
+        {
+            "id": 6,
+            "percentage": 1000,
+            "itemId": [
+                110010,
+                110012
+            ],
+            "range": []
+        }
+    ]
+}

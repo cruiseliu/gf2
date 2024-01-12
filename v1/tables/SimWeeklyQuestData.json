@@ -1,0 +1,436 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 1,
+            "name": "讯段采集：标记校验·一",
+            "description": "突破模拟场景“悍敌一”",
+            "conditionKey": "71101200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71101,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "name": "讯段采集：标记校验·二",
+            "description": "突破模拟场景“暴骸一”",
+            "conditionKey": "71201200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71201,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "name": "讯段采集：标记校验·三",
+            "description": "突破模拟场景“千造一”",
+            "conditionKey": "71301200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71301,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "name": "讯段采集：标记校验·四",
+            "description": "突破模拟场景“悍敌三”",
+            "conditionKey": "71103200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71103,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "name": "讯段采集：标记校验·五",
+            "description": "突破模拟场景“暴骸三”",
+            "conditionKey": "71203200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71203,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 6,
+            "type": 1,
+            "name": "讯段采集：标记校验·六",
+            "description": "突破模拟场景“千造三”",
+            "conditionKey": "71303200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71303,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 7,
+            "type": 1,
+            "name": "讯段采集：途中校验·一",
+            "description": "突破模拟场景“悍敌·途中检测”",
+            "conditionKey": "71105200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71105,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 8,
+            "type": 1,
+            "name": "讯段采集：途中校验·二",
+            "description": "突破模拟场景“暴骸·途中检测”",
+            "conditionKey": "71205200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71205,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 9,
+            "type": 1,
+            "name": "讯段采集：途中校验·三",
+            "description": "突破模拟场景“千造·途中检测”",
+            "conditionKey": "71305200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71305,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 10,
+            "type": 1,
+            "name": "讯段采集：容积标准·一",
+            "description": "在超频拟练中采集点数达到1000点",
+            "conditionKey": "1000350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 1000,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 11,
+            "type": 1,
+            "name": "讯段采集：容积标准·二",
+            "description": "在超频拟练中采集点数达到2000点",
+            "conditionKey": "2000350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 2000,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 12,
+            "type": 1,
+            "name": "讯段采集：容积标准·三",
+            "description": "在超频拟练中采集点数达到3000点",
+            "conditionKey": "3000350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 3000,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 13,
+            "type": 1,
+            "name": "讯段采集：容积标准·四",
+            "description": "在超频拟练中采集点数达到4000点",
+            "conditionKey": "4000350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 4000,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 14,
+            "type": 1,
+            "name": "讯段采集：容积标准·五",
+            "description": "在超频拟练中采集点数达到5000点",
+            "conditionKey": "5000350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 5000,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 15,
+            "type": 1,
+            "name": "讯段采集：容积标准·六",
+            "description": "在超频拟练中采集点数达到6000点",
+            "conditionKey": "6000350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 6000,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 16,
+            "type": 2,
+            "name": "2-打架1",
+            "description": "完成路线1的检查点",
+            "conditionKey": "71105200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71105,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 17,
+            "type": 2,
+            "name": "2-凹分1",
+            "description": "玩法B积分达到500分",
+            "conditionKey": "500350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 500,
+            "reward": {
+                "8050": 10
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 18,
+            "type": 2,
+            "name": "2-打架2",
+            "description": "完成路线2的检查点",
+            "conditionKey": "71205200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71205,
+            "reward": {
+                "8050": 15
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 19,
+            "type": 2,
+            "name": "2-凹分2",
+            "description": "玩法B积分达到1000分",
+            "conditionKey": "1000350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 1000,
+            "reward": {
+                "8050": 15
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 20,
+            "type": 2,
+            "name": "2-打架3",
+            "description": "完成路线3的检查点",
+            "conditionKey": "71305200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71305,
+            "reward": {
+                "8050": 20
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 21,
+            "type": 2,
+            "name": "2-凹分3",
+            "description": "玩法B积分达到1500分",
+            "conditionKey": "1500350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 1500,
+            "reward": {
+                "8050": 20
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 22,
+            "type": 2,
+            "name": "2-打架4",
+            "description": "玩成路线1boss关卡",
+            "conditionKey": "71106200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71106,
+            "reward": {
+                "8050": 30
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 23,
+            "type": 2,
+            "name": "2-凹分4",
+            "description": "玩法B积分达到2000分",
+            "conditionKey": "2000350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 2000,
+            "reward": {
+                "8050": 30
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 24,
+            "type": 2,
+            "name": "2-打架5",
+            "description": "玩成路线2boss关卡",
+            "conditionKey": "71206200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71206,
+            "reward": {
+                "8050": 50
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 25,
+            "type": 2,
+            "name": "2-凹分5",
+            "description": "玩法B积分达到2100分",
+            "conditionKey": "2100350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 2100,
+            "reward": {
+                "8050": 50
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 26,
+            "type": 2,
+            "name": "2-打架6",
+            "description": "玩成路线3boss关卡",
+            "conditionKey": "71306200",
+            "conditionClass": 200,
+            "conditionNum": 1,
+            "conditionArg0": 71306,
+            "reward": {
+                "8050": 60
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 27,
+            "type": 2,
+            "name": "2-凹分6",
+            "description": "玩法B积分达到2300分",
+            "conditionKey": "2300350",
+            "conditionClass": 350,
+            "conditionNum": 1,
+            "conditionArg0": 2300,
+            "reward": {
+                "8050": 60
+            },
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        }
+    ]
+}

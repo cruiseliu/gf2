@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "id": 90001,
+            "orderName": "目标地点",
+            "orderDetail": "需要将铁壁护卫至该地点。",
+            "effectPath": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
+            "skillId": 1001,
+            "specialOrderType": 0
+        },
+        {
+            "id": 90002,
+            "orderName": "收集",
+            "orderDetail": "抵达该区域，收集炸药。",
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/bomb_bundle/bomb_bundle.prefab",
+            "skillId": 1014,
+            "specialOrderType": 0
+        },
+        {
+            "id": 90003,
+            "orderName": "test",
+            "orderDetail": "test",
+            "specialOrderType": 2,
+            "effectPath": "ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_Landmine_01/Dz_dio_Landmine_01.prefab",
+            "skillId": 1015
+        },
+        {
+            "id": 1,
+            "orderName": "撤离",
+            "orderDetail": "抵达该区域，撤离战场。",
+            "specialOrderType": 1,
+            "effectPath": "ArtsResource/Scene/Items/GuideArea.prefab",
+            "skillId": 1001
+        },
+        {
+            "id": 2,
+            "orderName": "拾取",
+            "orderDetail": "拾取1个指定物品。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1002,
+            "specialOrderType": 0
+        },
+        {
+            "id": 3,
+            "orderName": "接入",
+            "orderDetail": "抵达该区域，接入数据流。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1008,
+            "specialOrderType": 0
+        },
+        {
+            "id": 4,
+            "orderName": "交互",
+            "orderDetail": "与目标物件交互。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1002,
+            "specialOrderType": 0
+        },
+        {
+            "id": 5,
+            "orderName": "探索",
+            "orderDetail": "抵达该区域，探索附近地区。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1009,
+            "specialOrderType": 0
+        },
+        {
+            "id": 6,
+            "orderName": "埋设",
+            "orderDetail": "抵达该区域，设置爆破点。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1010,
+            "specialOrderType": 0
+        },
+        {
+            "id": 7,
+            "orderName": "回收",
+            "orderDetail": "抵达该区域，回收零件。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1011,
+            "specialOrderType": 0
+        },
+        {
+            "id": 8,
+            "orderName": "收集",
+            "orderDetail": "抵达该区域，收集炸药。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1013,
+            "specialOrderType": 0
+        },
+        {
+            "id": 101,
+            "orderName": "弹药补给",
+            "orderDetail": "停留时自动拾取，本回合及下回合内伤害增加<color=#f0af14>30%</color>。",
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+            "skillId": 1004
+        },
+        {
+            "id": 102,
+            "orderName": "维修组件",
+            "orderDetail": "停留时自动拾取，立刻回复<color=#f0af14>50%</color>的生命。",
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+            "skillId": 1005
+        },
+        {
+            "id": 103,
+            "orderName": "修整装置",
+            "orderDetail": "刷新所有技能冷却时间。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 99000005,
+            "specialOrderType": 0
+        },
+        {
+            "id": 104,
+            "orderName": "分析单元V",
+            "orderDetail": "停留时自动拾取，获得<color=#f0af14>20点</color>导染指数。",
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "skillId": 1007
+        },
+        {
+            "id": 106,
+            "orderName": "清除程序",
+            "orderDetail": "停留时自动拾取，立刻清除战场内所有友方单位被施加的减益效果。",
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+            "skillId": 1006
+        },
+        {
+            "id": 107,
+            "orderName": "干扰装置",
+            "orderDetail": "侵入指定的机枪塔，使其成为友军，同时刷新其生命值。",
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+            "skillId": 99000005,
+            "specialOrderType": 0
+        },
+        {
+            "id": 108,
+            "orderName": "拾取",
+            "orderDetail": "拾取1个指定物品。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1003,
+            "specialOrderType": 0
+        },
+        {
+            "id": 109,
+            "orderName": "侵入",
+            "orderDetail": "抵达该区域，侵入系统。",
+            "effectPath": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+            "skillId": 1008,
+            "specialOrderType": 0
+        },
+        {
+            "id": 110,
+            "orderName": "单次机关",
+            "orderDetail": "交互后将改变炮台的开关状态，只能使用一次。",
+            "effectPath": "ConfigPrefab/OtherPrefab//Caifa_Turret_Switch.prefab",
+            "skillId": 1042,
+            "specialOrderType": 0
+        },
+        {
+            "id": 111,
+            "orderName": "不限次机关",
+            "orderDetail": "交互后将改变炮台的开关状态，不限次数。",
+            "effectPath": "ConfigPrefab/OtherPrefab//Caifa_Turret_Switch.prefab",
+            "skillId": 1043,
+            "specialOrderType": 0
+        },
+        {
+            "id": 112,
+            "orderName": "转换阵营机关",
+            "orderDetail": "交互后将改变炮台的阵营状态。",
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "skillId": 1042,
+            "specialOrderType": 0
+        },
+        {
+            "id": 1041,
+            "orderName": "分析单元I",
+            "orderDetail": "停留时自动拾取，获得<color=#f0af14>5点</color>导染指数。",
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Add.prefab",
+            "skillId": 1007,
+            "specialOrderType": 0
+        },
+        {
+            "id": 1042,
+            "orderName": "分析单元VI",
+            "orderDetail": "停留时自动拾取，获得<color=#f0af14>40点</color>导染指数。",
+            "specialOrderType": 2,
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+            "skillId": 50703
+        },
+        {
+            "id": 1087,
+            "orderName": "纳米附甲",
+            "orderDetail": "停留时自动拾取，本回合内受到的生命伤害降低<color=#f0af14>30%</color>。",
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+            "skillId": 1097,
+            "specialOrderType": 0
+        },
+        {
+            "id": 1088,
+            "orderName": "稳态增强",
+            "orderDetail": "停留时自动拾取，本回合内受到的压制伤害降低<color=#f0af14>30%</color>。",
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+            "skillId": 1098,
+            "specialOrderType": 0
+        },
+        {
+            "id": 1089,
+            "orderName": "战术补给",
+            "orderDetail": "停留时自动拾取，立刻获得1次<color=#00a0e9>行动追加</color>。",
+            "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_AP.prefab",
+            "skillId": 1099,
+            "specialOrderType": 0
+        }
+    ]
+}

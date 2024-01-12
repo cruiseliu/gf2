@@ -1,0 +1,246 @@
+{
+    "data": [
+        {
+            "id": 14,
+            "labelName": "讯段采集",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "icon": "",
+            "bg": "",
+            "unlock": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 15,
+            "labelName": "峰值推定",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "icon": "",
+            "bg": "",
+            "unlock": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 16,
+            "labelName": "深度搜索",
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_ChrExp",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_ChrExp",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "unlock": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 17,
+            "labelName": "标准同调",
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_Gold",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_Gold",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "unlock": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 18,
+            "labelName": "决策构象",
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+            "unlock": 11501,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 19,
+            "labelName": "超频拟练",
+            "labelSequence": 1,
+            "unlock": 11801,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "icon": "",
+            "bg": "",
+            "dutyId": 0
+        },
+        {
+            "id": 20,
+            "labelName": "适性拟练",
+            "labelSequence": 2,
+            "unlock": 11802,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "icon": "",
+            "bg": "",
+            "dutyId": 0
+        },
+        {
+            "id": 25,
+            "labelName": "实兵演习",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "icon": "",
+            "bg": "",
+            "unlock": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 26,
+            "labelName": "困难本",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "icon": "",
+            "bg": "",
+            "unlock": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 30,
+            "labelName": "突击与霰弹枪",
+            "labelSequence": 4,
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponPart",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponPart",
+            "unlock": 11006,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 31,
+            "labelName": "冲锋枪与机枪",
+            "labelSequence": 3,
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponPart",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponPart",
+            "unlock": 11006,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 32,
+            "labelName": "狙击枪与刀",
+            "labelSequence": 2,
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponPart",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponPart",
+            "unlock": 11006,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 33,
+            "labelName": "手枪",
+            "labelSequence": 1,
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponPart",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponPart",
+            "unlock": 11006,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 1,
+            "labelName": "防卫(已废弃)",
+            "extraDropCost": 355,
+            "extraDropTimer": 26,
+            "labelSequence": 3,
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+            "unlock": 11501,
+            "dutyId": 1
+        },
+        {
+            "id": 2,
+            "labelName": "尖兵(已废弃)",
+            "extraDropCost": 356,
+            "extraDropTimer": 26,
+            "labelSequence": 4,
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+            "unlock": 11502,
+            "dutyId": 2
+        },
+        {
+            "id": 3,
+            "labelName": "支援(已废弃)",
+            "extraDropCost": 357,
+            "extraDropTimer": 26,
+            "labelSequence": 2,
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+            "unlock": 11503,
+            "dutyId": 3
+        },
+        {
+            "id": 4,
+            "labelName": "火力(已废弃)",
+            "extraDropCost": 358,
+            "extraDropTimer": 26,
+            "labelSequence": 5,
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_Equip",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_Equip",
+            "unlock": 11504,
+            "dutyId": 4
+        },
+        {
+            "id": 5,
+            "labelName": "弃用1",
+            "labelSequence": 1,
+            "unlock": 11009,
+            "dutyId": 5,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "icon": "",
+            "bg": ""
+        },
+        {
+            "id": 6,
+            "labelName": "弃用2",
+            "unlock": 11009,
+            "dutyId": 6,
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "icon": "",
+            "bg": ""
+        },
+        {
+            "id": 7,
+            "labelName": "金币本（已弃用）",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "icon": "",
+            "bg": "",
+            "unlock": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 8,
+            "labelName": "爬塔",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "icon": "",
+            "bg": "",
+            "unlock": 0,
+            "dutyId": 0
+        },
+        {
+            "id": 9,
+            "labelName": "军备解析",
+            "icon": "SimCombatCom/Img_SimCombat_TitleBg_WeaponExp",
+            "bg": "SimCombatCom/Img_SimCombat_ItemBg_WeaponExp",
+            "extraDropCost": 0,
+            "extraDropTimer": 0,
+            "labelSequence": 0,
+            "unlock": 0,
+            "dutyId": 0
+        }
+    ]
+}

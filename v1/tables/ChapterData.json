@@ -1,0 +1,698 @@
+{
+    "data": [
+        {
+            "id": 4001,
+            "name": "循乐录",
+            "difficultyType": 1,
+            "difficultyGroup": 401,
+            "type": 4,
+            "stageGroup": 3001,
+            "relation": 1,
+            "notes": 1,
+            "planId": 50002,
+            "unlock": [
+                10997
+            ],
+            "chapterRewardValue": [
+                15,
+                30,
+                45
+            ],
+            "chapterDes": "",
+            "background": "Img_Branch_Daiyan",
+            "mapBackground": "Img_Daiyan_ChapterBg_1",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind",
+            "chapterRewardShow": {
+                "1": 1,
+                "2": 1,
+                "3": 1
+            },
+            "chapterReward": "1:50|1:100|1:150",
+            "tab": 0,
+            "tabName": "",
+            "difficultyId": 0,
+            "level": 0,
+            "unlockHint": "",
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "preChapter": [],
+            "globalTab": 0
+        },
+        {
+            "id": 91001,
+            "name": "双摆推演",
+            "difficultyType": 2,
+            "difficultyGroup": 101,
+            "type": 1,
+            "stageGroup": 91001,
+            "unlock": [
+                99104
+            ],
+            "unlockHint": "指挥官等级25级解锁",
+            "chapterRewardValue": [
+                5,
+                10,
+                15
+            ],
+            "chapterDes": "短暂分离的指针不断摇摆，即使奋力挣脱，\n也终将被拉扯回既定的起点。",
+            "background": "Img_BattleIndexBg_Story1",
+            "mapBackground": "Img_ChapterBg_1",
+            "chapterRewardShow": {
+                "3": 12,
+                "1": 1,
+                "2": 12
+            },
+            "chapterReward": "12:1,1:50,25:1000|12:1,1:100,8301:1000|12:2,1:150,2:1000",
+            "globalTab": 91,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "preChapter": [],
+            "decoration": "",
+            "effects": ""
+        },
+        {
+            "id": 91002,
+            "name": "第二信号",
+            "difficultyType": 2,
+            "difficultyGroup": 102,
+            "type": 1,
+            "stageGroup": 91002,
+            "unlock": [
+                99105,
+                91001
+            ],
+            "unlockHint": "完成战役“双摆推演”困难关卡1-5后解锁",
+            "chapterRewardValue": [
+                5,
+                10,
+                15
+            ],
+            "preChapter": [
+                91001
+            ],
+            "chapterDes": "隐藏在平静表象下的紊乱信息，正以不可预料的方式悉数出现。",
+            "background": "Img_BattleIndexBg_Story2",
+            "mapBackground": "Img_ChapterBg_2",
+            "chapterRewardShow": {
+                "3": 12,
+                "1": 1,
+                "2": 12
+            },
+            "chapterReward": "12:1,1:50,25:1000|12:1,1:100,8301:1000|12:2,1:150,2:1000",
+            "globalTab": 92,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "decoration": "",
+            "effects": ""
+        },
+        {
+            "id": 91003,
+            "name": "缺位拟合",
+            "difficultyType": 2,
+            "difficultyGroup": 103,
+            "type": 1,
+            "stageGroup": 91003,
+            "unlock": [
+                99106,
+                91002
+            ],
+            "unlockHint": "完成战役“第二信号”困难关卡1-5后解锁",
+            "chapterRewardValue": [
+                5,
+                10,
+                15
+            ],
+            "preChapter": [
+                91002
+            ],
+            "chapterDes": "缺失的拼图已被定位。\n摩挲着碎块边缘的手指，将把它推向何处？",
+            "background": "Img_BattleIndexBg_Story3",
+            "mapBackground": "Img_ChapterBg_3",
+            "chapterRewardShow": {
+                "3": 12,
+                "2": 12,
+                "1": 1
+            },
+            "chapterReward": "12:1,1:50,25:2000|12:1,1:100,8301:2000|12:2,1:150,2:2000",
+            "globalTab": 93,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "decoration": "",
+            "effects": ""
+        },
+        {
+            "id": 91004,
+            "name": "逆序矩阵",
+            "difficultyType": 2,
+            "difficultyGroup": 104,
+            "type": 1,
+            "stageGroup": 91004,
+            "unlock": [
+                99107,
+                91003
+            ],
+            "unlockHint": "完成战役“缺位拟合”困难关卡1-5后解锁",
+            "chapterRewardValue": [
+                5,
+                10,
+                15
+            ],
+            "preChapter": [
+                91003
+            ],
+            "chapterDes": "在乱序的壁障之中，逆流而上。",
+            "background": "Img_BattleIndexBg_Story4",
+            "mapBackground": "Img_ChapterBg_4",
+            "chapterRewardShow": {
+                "3": 12,
+                "1": 1,
+                "2": 12
+            },
+            "chapterReward": "12:1,1:50,25:3000|12:1,1:100,8301:3000|12:2,1:150,2:3000",
+            "globalTab": 94,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "decoration": "",
+            "effects": ""
+        },
+        {
+            "id": 91005,
+            "name": "异频共振",
+            "difficultyType": 2,
+            "difficultyGroup": 105,
+            "type": 1,
+            "stageGroup": 91005,
+            "unlock": [
+                99108,
+                91004
+            ],
+            "unlockHint": "完成战役“逆序矩阵”困难关卡1-5后解锁",
+            "chapterRewardValue": [
+                5,
+                10,
+                15
+            ],
+            "preChapter": [
+                91004
+            ],
+            "chapterDes": "频率各异的元素，在洪流的席卷下，抗争、逐流、汇聚，\n形成振聋发聩的声音。",
+            "background": "Img_BattleIndexBg_Story5",
+            "mapBackground": "Img_ChapterBg_5",
+            "chapterRewardShow": {
+                "1": 1,
+                "3": 12,
+                "2": 12
+            },
+            "chapterReward": "12:1,1:50,25:6000|12:1,1:100,8301:6000|12:2,1:150,2:6000",
+            "globalTab": 95,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "decoration": "",
+            "effects": ""
+        },
+        {
+            "id": 91006,
+            "name": "简谐周期",
+            "difficultyType": 2,
+            "difficultyGroup": 106,
+            "type": 1,
+            "stageGroup": 91006,
+            "unlock": [
+                91005
+            ],
+            "unlockHint": "完成战役“逆序矩阵”困难关卡1-5后解锁",
+            "chapterRewardValue": [
+                5,
+                10,
+                15
+            ],
+            "preChapter": [
+                91005
+            ],
+            "chapterDes": "峰与谷，通过平滑的曲线连接。下一个周期开始之前，\n是相对缓和的坡度。",
+            "background": "Img_BattleIndexBg_Story6",
+            "mapBackground": "Img_ChapterBg_6",
+            "chapterRewardShow": {
+                "2": 12,
+                "3": 12,
+                "1": 1
+            },
+            "chapterReward": "12:1,1:50,25:6000|12:1,1:100,8301:6000|12:2,1:150,2:6000",
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "decoration": "",
+            "effects": "",
+            "globalTab": 0
+        },
+        {
+            "id": 93001,
+            "name": "循乐录",
+            "difficultyType": 2,
+            "difficultyGroup": 301,
+            "type": 3,
+            "stageGroup": 93001,
+            "relation": 2,
+            "tab": 1,
+            "tabName": "番外",
+            "planId": 70001,
+            "unlock": [
+                99105
+            ],
+            "unlockHint": "30级",
+            "chapterRewardValue": [
+                5,
+                10,
+                15
+            ],
+            "chapterDes": "",
+            "background": "Img_Branch_Daiyan",
+            "mapBackground": "Img_Daiyan_ChapterBg_1",
+            "chapterRewardShow": {
+                "2": 1,
+                "3": 1,
+                "1": 1
+            },
+            "chapterReward": "1:50|1:100|1:150",
+            "notes": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "preChapter": [],
+            "decoration": "",
+            "effects": "",
+            "globalTab": 0
+        },
+        {
+            "id": 94001,
+            "name": "循乐录",
+            "difficultyType": 2,
+            "difficultyGroup": 401,
+            "type": 4,
+            "stageGroup": 93001,
+            "relation": 2,
+            "notes": 1,
+            "planId": 50002,
+            "unlock": [
+                99105
+            ],
+            "unlockHint": "30级",
+            "chapterRewardValue": [
+                5,
+                10,
+                15
+            ],
+            "chapterDes": "",
+            "background": "Img_Branch_Daiyan",
+            "mapBackground": "Img_Daiyan_ChapterBg_1",
+            "chapterRewardShow": {
+                "1": 1,
+                "3": 1,
+                "2": 1
+            },
+            "chapterReward": "1:50|1:100|1:150",
+            "tab": 0,
+            "tabName": "",
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "preChapter": [],
+            "decoration": "",
+            "effects": "",
+            "globalTab": 0
+        },
+        {
+            "id": 994001,
+            "name": "循乐录",
+            "difficultyType": 3,
+            "difficultyGroup": 401,
+            "type": 4,
+            "stageGroup": 994001,
+            "planId": 50002,
+            "unlock": [
+                99107
+            ],
+            "unlockHint": "40级",
+            "chapterDes": "",
+            "background": "Img_Branch_Daiyan",
+            "mapBackground": "Img_Daiyan_ChapterBg_1",
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "difficultyId": 0,
+            "level": 0,
+            "chapterRewardValue": [],
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "preChapter": [],
+            "decoration": "",
+            "effects": "",
+            "chapterRewardShow": {},
+            "chapterReward": "",
+            "globalTab": 0
+        },
+        {
+            "id": 1,
+            "name": "双摆推演",
+            "difficultyType": 1,
+            "difficultyGroup": 101,
+            "type": 1,
+            "stageGroup": 1,
+            "chapterRewardValue": [
+                14,
+                28,
+                42
+            ],
+            "chapterDes": "短暂分离的指针不断摇摆，即使奋力挣脱，\n也终将被拉扯回既定的起点。",
+            "background": "Img_BattleIndexBg_Story1",
+            "mapBackground": "Img_ChapterBg_1",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind",
+            "chapterRewardShow": {
+                "3": 12,
+                "1": 1,
+                "2": 12
+            },
+            "chapterReward": "12:1,1:50,25:1000|12:1,1:100,8301:1000|12:2,1:150,2:1000",
+            "globalTab": 81,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "unlock": [],
+            "unlockHint": "",
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "preChapter": []
+        },
+        {
+            "id": 2,
+            "name": "第二信号",
+            "difficultyType": 1,
+            "difficultyGroup": 102,
+            "type": 1,
+            "stageGroup": 2,
+            "unlock": [
+                99001
+            ],
+            "unlockHint": "完成战役“双摆推演”关卡1-8后解锁",
+            "chapterRewardValue": [
+                16,
+                32,
+                48
+            ],
+            "preChapter": [
+                1
+            ],
+            "chapterDes": "隐藏在平静表象下的紊乱信息，正以不可预料的方式悉数出现。",
+            "background": "Img_BattleIndexBg_Story2",
+            "mapBackground": "Img_ChapterBg_2",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind",
+            "chapterRewardShow": {
+                "1": 1,
+                "3": 12,
+                "2": 12
+            },
+            "chapterReward": "12:1,1:50,25:1000|12:1,1:100,8301:1000|12:2,1:150,2:1000",
+            "globalTab": 82,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {}
+        },
+        {
+            "id": 3,
+            "name": "缺位拟合",
+            "difficultyType": 1,
+            "difficultyGroup": 103,
+            "type": 1,
+            "stageGroup": 3,
+            "unlock": [
+                99002
+            ],
+            "unlockHint": "完成战役“第二信号”关卡SL-2-5",
+            "chapterRewardValue": [
+                16,
+                32,
+                48
+            ],
+            "preChapter": [
+                2
+            ],
+            "chapterDes": "缺失的拼图已被定位。\n摩挲着碎块边缘的手指，将把它推向何处？",
+            "background": "Img_BattleIndexBg_Story3",
+            "mapBackground": "Img_ChapterBg_3",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind",
+            "chapterRewardShow": {
+                "1": 1,
+                "2": 12,
+                "3": 12
+            },
+            "chapterReward": "12:1,1:50,25:2000|12:1,1:100,8301:2000|12:2,1:150,2:2000",
+            "globalTab": 83,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {}
+        },
+        {
+            "id": 4,
+            "name": "逆序矩阵",
+            "difficultyType": 1,
+            "difficultyGroup": 104,
+            "type": 1,
+            "stageGroup": 4,
+            "unlock": [
+                99003
+            ],
+            "unlockHint": "完成战役“缺位拟合”关卡3-10",
+            "chapterRewardValue": [
+                16,
+                32,
+                48
+            ],
+            "preChapter": [
+                3
+            ],
+            "chapterDes": "在乱序的壁障之中，逆流而上。",
+            "background": "Img_BattleIndexBg_Story4",
+            "mapBackground": "Img_ChapterBg_4",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind",
+            "chapterRewardShow": {
+                "2": 12,
+                "3": 12,
+                "1": 1
+            },
+            "chapterReward": "12:1,1:50,25:3000|12:1,1:100,8301:3000|12:2,1:150,2:3000",
+            "globalTab": 84,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {}
+        },
+        {
+            "id": 5,
+            "name": "异频共振",
+            "difficultyType": 1,
+            "difficultyGroup": 105,
+            "type": 1,
+            "stageGroup": 5,
+            "unlock": [
+                99004
+            ],
+            "unlockHint": "完成战役“逆序矩阵”关卡SL-4-6后解锁",
+            "chapterRewardValue": [
+                16,
+                32,
+                48
+            ],
+            "preChapter": [
+                4
+            ],
+            "chapterDes": "频率各异的元素，在洪流的席卷下，抗争、逐流、汇聚，\n形成振聋发聩的声音。",
+            "background": "Img_BattleIndexBg_Story5",
+            "mapBackground": "Img_ChapterBg_5",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind",
+            "chapterRewardShow": {
+                "1": 1,
+                "3": 12,
+                "2": 12
+            },
+            "chapterReward": "12:1,1:50,25:6000|12:1,1:100,8301:6000|12:2,1:150,2:6000",
+            "globalTab": 85,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {}
+        },
+        {
+            "id": 6,
+            "name": "简谐周期",
+            "difficultyType": 1,
+            "difficultyGroup": 106,
+            "type": 1,
+            "stageGroup": 6,
+            "unlock": [
+                99005
+            ],
+            "unlockHint": "完成战役“异频共振”关卡5-10后解锁",
+            "chapterRewardValue": [
+                16,
+                32,
+                48
+            ],
+            "preChapter": [
+                5
+            ],
+            "chapterDes": "峰与谷，通过平滑的曲线连接。下一个周期开始之前，\n是相对缓和的坡度。",
+            "background": "Img_BattleIndexBg_Story6",
+            "mapBackground": "Img_ChapterBg_6",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind",
+            "chapterRewardShow": {
+                "3": 12,
+                "2": 12,
+                "1": 1
+            },
+            "chapterReward": "12:1,1:50,25:9000|12:1,1:100,8301:9000|12:2,1:150,2:9000",
+            "globalTab": 86,
+            "relation": 0,
+            "notes": 0,
+            "tab": 0,
+            "tabName": "",
+            "planId": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {}
+        },
+        {
+            "id": 3001,
+            "name": "循乐录",
+            "difficultyType": 1,
+            "difficultyGroup": 301,
+            "type": 3,
+            "stageGroup": 3001,
+            "relation": 1,
+            "tab": 1,
+            "tabName": "番外",
+            "planId": 70001,
+            "unlock": [
+                10997
+            ],
+            "unlockHint": "活动结束后解锁",
+            "chapterRewardValue": [
+                15,
+                30,
+                45
+            ],
+            "chapterDes": "",
+            "background": "Img_Branch_Daiyan",
+            "mapBackground": "Img_Daiyan_ChapterBg_1",
+            "decoration": "UIChapterDecoration1Item",
+            "effects": "story_sandwind",
+            "chapterRewardShow": {
+                "1": 1,
+                "2": 1,
+                "3": 1
+            },
+            "chapterReward": "1:50|1:100|1:150",
+            "notes": 0,
+            "difficultyId": 0,
+            "level": 0,
+            "chapterReward1": {},
+            "chapterReward2": {},
+            "chapterReward3": {},
+            "preChapter": [],
+            "globalTab": 0
+        }
+    ]
+}

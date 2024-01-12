@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "id": 401,
+            "name": "佩妮泽",
+            "npcDesc": "测试npc1号",
+            "type": 1,
+            "favorItem": {
+                "1": 1200
+            },
+            "unlockDescribe": "",
+            "npcSort": 1,
+            "npcImg": "Darkzone_Avatar_Whole_Poludnitsa",
+            "npcHeadImg": "Darkzone_Avatar_Head_Poludnitsa",
+            "unlock": 0,
+            "unlockParameter1": 0,
+            "unlockParameter2": 0
+        },
+        {
+            "id": 402,
+            "name": "格琳喵",
+            "npcDesc": "测试npc2号",
+            "type": 1,
+            "favorItem": {
+                "2": 1200
+            },
+            "unlock": 2,
+            "unlockParameter1": 403,
+            "unlockParameter2": 4,
+            "unlockDescribe": "",
+            "npcSort": 3,
+            "npcImg": "Darkzone_Avatar_Whole_Kalinia",
+            "npcHeadImg": "Darkzone_Avatar_Head_Kalinia"
+        },
+        {
+            "id": 403,
+            "name": "阿米达",
+            "npcDesc": "测试npc3号",
+            "type": 1,
+            "favorItem": {
+                "3": 1200
+            },
+            "unlock": 2,
+            "unlockParameter1": 401,
+            "unlockParameter2": 4,
+            "unlockDescribe": "",
+            "npcSort": 4,
+            "npcImg": "Darkzone_Avatar_Whole_Aminda",
+            "npcHeadImg": "Darkzone_Avatar_Head_Aminda"
+        },
+        {
+            "id": 404,
+            "name": "巴鲁克",
+            "npcDesc": "测试npc4号",
+            "type": 1,
+            "favorItem": {
+                "4": 1200
+            },
+            "unlock": 2,
+            "unlockParameter1": 402,
+            "unlockParameter2": 4,
+            "unlockDescribe": "",
+            "npcSort": 6,
+            "npcImg": "Darkzone_Avatar_Whole_Baruch",
+            "npcHeadImg": "Darkzone_Avatar_Head_Baruch"
+        }
+    ]
+}

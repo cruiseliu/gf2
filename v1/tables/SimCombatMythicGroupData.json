@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "goupName": "第一阶群",
+            "groupBg": "Img_SimCombatMythic_Battle_1",
+            "groupDesc": "在战斗中，不择手段也许是一种夸奖。",
+            "config": [
+                101
+            ],
+            "level": 0
+        },
+        {
+            "id": 2,
+            "goupName": "第二阶群",
+            "groupBg": "Img_SimCombatMythic_Battle_2",
+            "groupDesc": "怯懦者通常是战场上第一个牺牲品。",
+            "config": [
+                201
+            ],
+            "level": 0
+        },
+        {
+            "id": 3,
+            "goupName": "第三阶群",
+            "groupBg": "Img_SimCombatMythic_Battle_3",
+            "groupDesc": "耐心，就是不要在敌人犯错时打断他们。",
+            "config": [
+                301
+            ],
+            "level": 0
+        }
+    ]
+}

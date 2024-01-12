@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "name": "束流护甲",
+            "nameEn": "Shield",
+            "icon": "Icon_Special_Shield",
+            "color": "333333FF",
+            "id": 0
+        },
+        {
+            "id": 1,
+            "name": "硬质护甲",
+            "nameEn": "PhysicalShield",
+            "icon": "Icon_Physical_Shield",
+            "color": "333333FF"
+        },
+        {
+            "id": 2,
+            "name": "离子涂层",
+            "nameEn": "MagicalShield",
+            "icon": "Icon_Magical_Shield",
+            "color": "333333FF"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 1,
+            "rewardList": {
+                "8000": 20,
+                "2": 200
+            },
+            "name": "每日指标：签到",
+            "description": "完成本日签到",
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "behaviorType": 0,
+            "behaviorParameter": "",
+            "preQuest": 0,
+            "link": "",
+            "unlockOn": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "rewardList": {
+                "8000": 20,
+                "2": 200
+            },
+            "link": "4015",
+            "name": "每日指标：休息室",
+            "description": "进入休息室1次",
+            "conditionClass": 750,
+            "conditionNum": 1,
+            "behaviorType": 0,
+            "behaviorParameter": "",
+            "preQuest": 0,
+            "unlockOn": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "rewardList": {
+                "8000": 20,
+                "2": 200
+            },
+            "link": "1000",
+            "name": "每日指标：作战一",
+            "description": "累计消耗情报拼图60个",
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "behaviorType": 0,
+            "behaviorParameter": "",
+            "preQuest": 0,
+            "unlockOn": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "rewardList": {
+                "8000": 20,
+                "2": 200
+            },
+            "link": "1000",
+            "name": "每日指标：作战二",
+            "description": "累计消耗情报拼图120个",
+            "conditionClass": 2,
+            "conditionNum": 120,
+            "behaviorType": 0,
+            "behaviorParameter": "",
+            "preQuest": 0,
+            "unlockOn": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "rewardList": {
+                "2": 200,
+                "8000": 10
+            },
+            "link": "1098",
+            "name": "每日指标：补给作战",
+            "description": "在补给作战中获胜1次",
+            "conditionClass": 209,
+            "conditionNum": 1,
+            "unlockOn": 10998,
+            "behaviorType": 0,
+            "behaviorParameter": "",
+            "preQuest": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 6,
+            "type": 1,
+            "rewardList": {
+                "8000": 10,
+                "2": 200
+            },
+            "link": "1099",
+            "name": "每日指标：模拟作战",
+            "description": "在模拟作战中获胜1次",
+            "conditionClass": 210,
+            "conditionNum": 1,
+            "unlockOn": 10999,
+            "behaviorType": 0,
+            "behaviorParameter": "",
+            "preQuest": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 7,
+            "type": 1,
+            "rewardList": {
+                "8000": 10,
+                "2": 200
+            },
+            "link": "3801",
+            "name": "每日指标：定向精研",
+            "description": "在定向精研中获胜2次",
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "unlockOn": 11012,
+            "behaviorType": 0,
+            "behaviorParameter": "",
+            "preQuest": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 8,
+            "type": 1,
+            "rewardList": {
+                "2": 200,
+                "8000": 10
+            },
+            "link": "2",
+            "name": "每日指标：情报购买",
+            "description": "消耗坍塌晶条兑换情报拼图1次",
+            "conditionClass": 407,
+            "conditionNum": 1,
+            "behaviorType": 0,
+            "behaviorParameter": "",
+            "preQuest": 0,
+            "unlockOn": 0,
+            "unlockOff": 0
+        }
+    ]
+}

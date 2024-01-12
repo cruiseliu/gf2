@@ -1,0 +1,2215 @@
+{
+    "data": [
+        {
+            "id": 61,
+            "orderClass": 6,
+            "className": "地锁",
+            "name": "地锁 Lv.1",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将前后<color=#f26c1c>3</color>格范围（<color=#f26c1c>升级后使用范围扩大</color>）内1个地格变为我方占领状态（若地格已经是我方占领则无法选择）",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "targetType": "4",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 3,
+            "orderGene": [
+                601
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "upClass": {},
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 62,
+            "orderClass": 6,
+            "className": "地锁",
+            "name": "地锁 Lv.2",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将前后<color=#f26c1c>6</color>格范围（<color=#f26c1c>升级后范围变为全图</color>）内1个地格变为我方占领状态（若地格已经是我方占领则无法选择）",
+            "orderIcon": "Item_Icon_monopoly_order6_2",
+            "level": 2,
+            "upClass": {
+                "61": 2
+            },
+            "targetType": "4",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 6,
+            "orderGene": [
+                602
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 63,
+            "orderClass": 6,
+            "className": "地锁",
+            "name": "地锁 Lv.3",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将全图<color=#f26c1c>任意</color>范围内1个地格变为我方占领状态（若地格已经是我方占领则无法选择）",
+            "orderIcon": "Item_Icon_monopoly_order6_3",
+            "level": 3,
+            "upClass": {
+                "62": 2
+            },
+            "targetType": "4",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                603
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1091,
+            "orderClass": 9,
+            "className": "1%威慑-1~2",
+            "name": "1%威慑-1~2",
+            "orderDesc": "1%威慑-1~2",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                9001
+            ],
+            "section": [
+                1,
+                2
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1092,
+            "orderClass": 9,
+            "className": "2%威慑-1",
+            "name": "2%威慑-1",
+            "orderDesc": "2%威慑-1",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                9002
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1094,
+            "orderClass": 9,
+            "className": "3%威慑-1~3",
+            "name": "3%威慑-1~3",
+            "orderDesc": "3%威慑-1~3",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                9003
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1095,
+            "orderClass": 9,
+            "className": "3%威慑-0",
+            "name": "3%威慑-0",
+            "orderDesc": "3%威慑-0",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                9003
+            ],
+            "section": [
+                0,
+                0
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1096,
+            "orderClass": 9,
+            "className": "2%威慑-2",
+            "name": "2%威慑-2",
+            "orderDesc": "2%威慑-2",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                9002
+            ],
+            "section": [
+                2,
+                2
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1097,
+            "orderClass": 29,
+            "className": "1限速-6",
+            "name": "1限速-6",
+            "orderDesc": "1限速-6",
+            "orderIcon": "Item_Icon_monopoly_order13_3",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                1304
+            ],
+            "section": [
+                6,
+                6
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1098,
+            "orderClass": 29,
+            "className": "限速指令",
+            "name": "测:限速 Lv.1",
+            "orderDesc": "降低速度buff",
+            "orderIcon": "Item_Icon_monopoly_order13_3",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                1304
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1099,
+            "orderClass": 1,
+            "className": "移动-6",
+            "name": "移动-6",
+            "orderDesc": "移动-6",
+            "orderIcon": "Item_Icon_monopoly_order1_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                6,
+                6
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "orderGene": [],
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9902,
+            "orderClass": 1,
+            "className": "移动指令",
+            "name": "移动指令 Lv.1",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后可获得3~6点移动点数。",
+            "orderIcon": "Item_Icon_monopoly_order1_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                3,
+                6
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "orderGene": [],
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9903,
+            "orderClass": 17,
+            "className": "应急电源",
+            "name": "应急电源 Lv.1",
+            "orderDesc": "总是在电量不足的时候，才能显出它的珍贵。\n使用后恢复小队中1名人形<color=#f26c1c>10%</color>生命值。\n（恢复生命值不会大于该人形最大生命值，死亡人形无法恢复生命）",
+            "orderIcon": "Item_Icon_monopoly_order17_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1701
+            ],
+            "section": [
+                3,
+                6
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9904,
+            "orderClass": 14,
+            "className": "遥控指令",
+            "name": "遥控指令 Lv.1",
+            "orderDesc": "只是指定步数而已，可不算出千啊？\n使用后，可指定本回合的移动点数，该点数不受增减益效果影响。",
+            "orderIcon": "Item_Icon_monopoly_order14_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "orderType": 1,
+            "upClass": {},
+            "range": 0,
+            "orderGene": [],
+            "isshow": 0,
+            "igoreType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9905,
+            "orderClass": 20,
+            "className": "迷彩护盾",
+            "name": "迷彩护盾 Lv.1",
+            "orderDesc": "能提供的保护不多，但总比没有好。\n使用后，获得防御效果，减少<color=#f26c1c>20%</color>敌方地图攻击造成伤害，持续2回合",
+            "orderIcon": "Item_Icon_monopoly_order11_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                2301
+            ],
+            "section": [
+                3,
+                6
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9906,
+            "orderClass": 1,
+            "className": "移动指令",
+            "name": "移动指令 Lv.1",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后可获得3~6点移动点数。",
+            "orderIcon": "Item_Icon_monopoly_order1_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                5,
+                6
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "orderGene": [],
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9907,
+            "orderClass": 6,
+            "className": "地锁",
+            "name": "地锁 Lv.1",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将前后<color=#f26c1c>3</color>格范围内1个地格变为我方占领状态（若地格已经是我方占领则无法选择）",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "targetType": "4",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 6,
+            "orderGene": [
+                601
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9908,
+            "orderClass": 1,
+            "className": "超级移动",
+            "name": "超级移动",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后本回合可获得(1~6)<color=#f26c1c>+4</color>点移动点数。",
+            "orderIcon": "Item_Icon_monopoly_order1_3",
+            "level": 3,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1302
+            ],
+            "section": [
+                99,
+                99
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9909,
+            "orderClass": 20,
+            "className": "测试用愈合",
+            "name": "测试用愈合",
+            "orderDesc": "愈合",
+            "orderIcon": "Item_Icon_monopoly_order20_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                2507
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 211,
+            "orderClass": 21,
+            "className": "引雷针",
+            "name": "引雷针 Lv.1",
+            "orderDesc": "迅速定位，精准打击。\n使用后，可选择地图任意地点1个敌方目标造成<color=#f26c1c>20%</color>（<color=#f26c1c>升级后移动更快，伤害大幅提升</color>）基于最大生命值的伤害\n被引雷针移除的怪物无法获得战斗奖励\n该指令无法对伊伯生效，请注意",
+            "orderIcon": "Item_Icon_monopoly_order21_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                701
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "enemyIgone": [
+                3
+            ],
+            "upClass": {},
+            "igoreType": 0,
+            "orderType": 0
+        },
+        {
+            "id": 212,
+            "orderClass": 21,
+            "className": "引雷针",
+            "name": "引雷针 Lv.2",
+            "orderDesc": "迅速定位，精准打击。\n使用后，可选择地图任意地点1个敌方目标造成<color=#f26c1c>50%</color>（<color=#f26c1c>升级后伤害大幅提升，可秒杀敌人</color>）基于最大生命值的伤害\n被引雷针移除的怪物无法获得战斗奖励\n该指令无法对伊伯生效，请注意",
+            "orderIcon": "Item_Icon_monopoly_order21_2",
+            "level": 2,
+            "upClass": {
+                "211": 2
+            },
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                702
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "enemyIgone": [
+                3
+            ],
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0
+        },
+        {
+            "id": 213,
+            "orderClass": 21,
+            "className": "引雷针",
+            "name": "引雷针 Lv.3",
+            "orderDesc": "迅速定位，精准打击。\n使用后，可选择地图任意地点1个敌方目标造成<color=#f26c1c>100%</color>基于最大生命值的伤害\n被引雷针移除的怪物无法获得战斗奖励\n该指令无法对伊伯生效，请注意",
+            "orderIcon": "Item_Icon_monopoly_order21_3",
+            "level": 3,
+            "upClass": {
+                "212": 2
+            },
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                703
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "enemyIgone": [
+                3
+            ],
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0
+        },
+        {
+            "id": 1011,
+            "orderClass": 9,
+            "className": "移动-1",
+            "name": "移动-1",
+            "orderDesc": "移动-1",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                0
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1012,
+            "orderClass": 9,
+            "className": "1%威慑-1~6",
+            "name": "1%威慑-1~6",
+            "orderDesc": "1%威慑-1~6",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                9001
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1013,
+            "orderClass": 9,
+            "className": "怪物1~6格移动",
+            "name": "怪物1~6格移动",
+            "orderDesc": "怪物1~6格移动",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                0
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1014,
+            "orderClass": 9,
+            "className": "3图boss威慑",
+            "name": "威慑，2~5移动",
+            "orderDesc": "全图5%",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                9001
+            ],
+            "section": [
+                2,
+                5
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1015,
+            "orderClass": 6,
+            "className": "全图1地锁-2~6",
+            "name": "全图1地锁-2~6",
+            "orderDesc": "全图1地锁-2~6",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "targetType": "4",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                601
+            ],
+            "section": [
+                2,
+                6
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 51,
+            "orderClass": 5,
+            "className": "全自动压路机",
+            "name": "全自动压路机 Lv.1",
+            "orderDesc": "压过去，就什么都没有了。\n使用后，可以清除地图上任意范围内<color=#f26c1c>1</color>个地形效果（<color=#f26c1c>升级后将移动得更快</color>）",
+            "orderIcon": "Item_Icon_monopoly_order5_1",
+            "level": 1,
+            "targetType": "3:9",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                501
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "upClass": {},
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 52,
+            "orderClass": 5,
+            "className": "全自动压路机",
+            "name": "全自动压路机 Lv.2",
+            "orderDesc": "压过去，就什么都没有了。\n使用后，可以清除地图上任意范围内<color=#f26c1c>1</color>个地形效果（<color=#f26c1c>升级后可清除的地形数量提升</color>）",
+            "orderIcon": "Item_Icon_monopoly_order5_2",
+            "level": 2,
+            "upClass": {
+                "51": 2
+            },
+            "targetType": "3:9",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                502
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 53,
+            "orderClass": 5,
+            "className": "全自动压路机",
+            "name": "全自动压路机 Lv.3",
+            "orderDesc": "压过去，就什么都没有了。\n使用后，可以清除地图上任意范围内<color=#f26c1c>2</color>个地形效果",
+            "orderIcon": "Item_Icon_monopoly_order5_3",
+            "level": 3,
+            "upClass": {
+                "52": 2
+            },
+            "targetType": "3:9",
+            "targetParam": [
+                1,
+                2
+            ],
+            "range": -1,
+            "orderGene": [
+                503
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 152,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.2",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.1</color>或<color=#f26c1c>Lv.2</color>协奏指令1个（<color=#f26c1c>升级后获得的指令等级提升</color>）",
+            "orderIcon": "Item_Icon_monopoly_order15_2",
+            "level": 2,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15200
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 153,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.3",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.2</color>或<color=#f26c1c>Lv.3</color>协奏指令1个",
+            "orderIcon": "Item_Icon_monopoly_order15_3",
+            "level": 3,
+            "upClass": {
+                "152": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15300
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 183,
+            "orderClass": 18,
+            "className": "净化剂",
+            "name": "净化剂 Lv.3",
+            "orderDesc": "净化，由内而外。\n使用后净化我方身上的减益状态。",
+            "orderIcon": "Item_Icon_monopoly_order18_3",
+            "level": 3,
+            "upClass": {
+                "182": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1803
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "isshow": 1,
+            "orderDesc2": "",
+            "range": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 201,
+            "orderClass": 20,
+            "className": "临时护盾",
+            "name": "临时护盾 Lv.1",
+            "orderDesc": "能提供的保护不多，但总比没有好。\n使用后，获得减伤效果，减少<color=#f26c1c>20%</color>敌方地图攻击造成伤害，持续2回合\n（<color=#f26c1c>升级后减伤效果和持续回合数提升</color>）",
+            "orderIcon": "Item_Icon_monopoly_order20_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                2301
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 202,
+            "orderClass": 20,
+            "className": "临时护盾",
+            "name": "临时护盾 Lv.2",
+            "orderDesc": "能提供的保护不多，但总比没有好。\n使用后，获得减伤效果，减少<color=#f26c1c>35%</color>敌方地图攻击造成伤害，持续3回合\n（<color=#f26c1c>升级后减伤效果和持续回合数提升</color>）",
+            "orderIcon": "Item_Icon_monopoly_order20_2",
+            "level": 2,
+            "upClass": {
+                "201": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                2302
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 203,
+            "orderClass": 20,
+            "className": "临时护盾",
+            "name": "临时护盾 Lv.3",
+            "orderDesc": "能提供的保护不多，但总比没有好。\n使用后，获得减伤效果，减少<color=#f26c1c>50%</color>敌方地图攻击造成伤害，持续4回合",
+            "orderIcon": "Item_Icon_monopoly_order20_3",
+            "level": 3,
+            "upClass": {
+                "202": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                2303
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1521,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.2",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.1</color>或<color=#f26c1c>Lv.2</color>协奏指令1个（<color=#f26c1c>升级后获得的指令等级提升</color>）",
+            "orderIcon": "Item_Icon_monopoly_order15_2",
+            "level": 2,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15210
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 30,
+            "isshow": 1,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1522,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.2",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.1</color>或<color=#f26c1c>Lv.2</color>协奏指令1个（<color=#f26c1c>升级后获得的指令等级提升</color>）",
+            "orderIcon": "Item_Icon_monopoly_order15_2",
+            "level": 2,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15220
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1523,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.2",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.1</color>或<color=#f26c1c>Lv.2</color>协奏指令1个（<color=#f26c1c>升级后获得的指令等级提升</color>）",
+            "orderIcon": "Item_Icon_monopoly_order15_2",
+            "level": 2,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15230
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1524,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.2",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.1</color>或<color=#f26c1c>Lv.2</color>协奏指令1个（<color=#f26c1c>升级后获得的指令等级提升</color>）",
+            "orderIcon": "Item_Icon_monopoly_order15_2",
+            "level": 2,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15240
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1531,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.3",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.2</color>或<color=#f26c1c>Lv.3</color>协奏指令1个",
+            "orderIcon": "Item_Icon_monopoly_order15_3",
+            "level": 3,
+            "upClass": {
+                "1521": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15310
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1532,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.3",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.2</color>或<color=#f26c1c>Lv.3</color>协奏指令1个",
+            "orderIcon": "Item_Icon_monopoly_order15_3",
+            "level": 3,
+            "upClass": {
+                "1522": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15320
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1533,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.3",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.2</color>或<color=#f26c1c>Lv.3</color>协奏指令1个",
+            "orderIcon": "Item_Icon_monopoly_order15_3",
+            "level": 3,
+            "upClass": {
+                "1523": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15330
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1534,
+            "orderClass": 15,
+            "className": "惊喜背包",
+            "name": "惊喜背包 Lv.3",
+            "orderDesc": "掏出什么都是惊喜！使用后，可随机获得<color=#f26c1c>Lv.2</color>或<color=#f26c1c>Lv.3</color>协奏指令1个",
+            "orderIcon": "Item_Icon_monopoly_order15_3",
+            "level": 3,
+            "upClass": {
+                "1524": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                15340
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 9999,
+            "orderClass": 1,
+            "className": "挂机，无行动",
+            "name": "挂机，无行动",
+            "orderDesc": "挂机，无行动",
+            "orderIcon": "Item_Icon_monopoly_order1_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                0,
+                0
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "orderGene": [],
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 82,
+            "orderClass": 8,
+            "className": "速冻剂",
+            "name": "速冻剂 Lv.2",
+            "orderDesc": "封住敌人的脚步，抢占胜利的先机。\n使用后，可选择地图任意地点1个敌方目标造成<color=#f26c1c>10%</color>基于最大生命值的伤害，并造成冰冻效果，持续2回合（<color=#f26c1c>升级后伤害和效果持续回合数提升</color>）。该指令无法对伊伯生效，请注意\n冰冻效果：无法行动，该效果再次获取回合不会叠加，效果不会叠加，战斗中不生效",
+            "orderIcon": "Item_Icon_monopoly_order8_2",
+            "level": 2,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                801,
+                804
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "isshow": 1,
+            "orderDesc2": "",
+            "enemyIgone": [
+                3
+            ],
+            "upClass": {},
+            "igoreType": 0,
+            "orderType": 0
+        },
+        {
+            "id": 83,
+            "orderClass": 8,
+            "className": "速冻剂",
+            "name": "速冻剂 Lv.3",
+            "orderDesc": "封住敌人的脚步，抢占胜利的先机。\n使用后，可选择地图任意地点1个敌方目标造成<color=#f26c1c>20%</color>基于最大生命值的伤害，并造成冰冻效果，持续3回合\n该指令无法对伊伯生效，请注意\n冰冻效果：无法行动，该效果再次获取回合不会叠加，效果不会叠加，战斗中不生效",
+            "orderIcon": "Item_Icon_monopoly_order8_3",
+            "level": 3,
+            "upClass": {
+                "82": 2
+            },
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                802,
+                803
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "enemyIgone": [
+                3
+            ],
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0
+        },
+        {
+            "id": 112,
+            "orderClass": 11,
+            "className": "强力护盾",
+            "name": "强力护盾 lv.2",
+            "orderDesc": "长效保护，行动更有底气。\n使用后，获得持续<color=#f26c1c>1</color>回合的横行效果（<color=#f26c1c>升级后效果持续回合数提升</color>）\n横行：免疫所有异位地格和敌方地图攻击",
+            "orderIcon": "Item_Icon_monopoly_order11_2",
+            "level": 2,
+            "upClass": {
+                "111": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1102
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "isshow": 1,
+            "orderDesc2": "",
+            "range": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 113,
+            "orderClass": 11,
+            "className": "强力护盾",
+            "name": "强力护盾 lv.3",
+            "orderDesc": "长效保护，行动更有底气。\n使用后，获得持续<color=#f26c1c>3</color>回合的横行效果\n横行：免疫所有异位地格和敌方地图攻击",
+            "orderIcon": "Item_Icon_monopoly_order11_3",
+            "level": 3,
+            "upClass": {
+                "112": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1103
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 162,
+            "orderClass": 16,
+            "className": "禁行标识",
+            "name": "禁行标识 Lv.2",
+            "orderDesc": "行车时最让人讨厌的标志。\n可选择地图任意地点创造<color=#f26c1c>1</color>个路障。（<color=#f26c1c>升级后创造的路障数量提升</color>）\n\n路障：移动被阻挡1回合，触发阻挡后路障销毁",
+            "orderIcon": "Item_Icon_monopoly_order16_2",
+            "level": 2,
+            "targetType": "2",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                1602
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "isshow": 1,
+            "orderDesc2": "",
+            "igoreType": 3,
+            "upClass": {},
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 163,
+            "orderClass": 16,
+            "className": "禁行标识",
+            "name": "禁行标识 Lv.3",
+            "orderDesc": "行车时最让人讨厌的标志。\n可选择地图任意地点创造<color=#f26c1c>2</color>个路障。\n\n路障：移动被阻挡1回合，触发阻挡后路障销毁",
+            "orderIcon": "Item_Icon_monopoly_order16_3",
+            "level": 3,
+            "upClass": {
+                "162": 2
+            },
+            "targetType": "2",
+            "targetParam": [
+                1,
+                2
+            ],
+            "range": -1,
+            "orderGene": [
+                1603
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "igoreType": 3,
+            "isshow": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1100,
+            "orderClass": 9,
+            "className": "1%威慑-0",
+            "name": "1%威慑-0",
+            "orderDesc": "1%威慑-0",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                9001
+            ],
+            "section": [
+                0,
+                0
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1102,
+            "orderClass": 9,
+            "className": "燃烧指令",
+            "name": "燃烧指令",
+            "orderDesc": "",
+            "orderIcon": "Item_Icon_monopoly_order9_2",
+            "level": 2,
+            "targetType": "1",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                904
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1106,
+            "orderClass": 1,
+            "className": "移动-3",
+            "name": "移动-3",
+            "orderDesc": "移动-3",
+            "orderIcon": "Item_Icon_monopoly_order1_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                3,
+                3
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "orderGene": [],
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1107,
+            "orderClass": 6,
+            "className": "6,1地锁-6",
+            "name": "6,1地锁-6",
+            "orderDesc": "6,1地锁-6",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "targetType": "4",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 6,
+            "orderGene": [
+                601
+            ],
+            "section": [
+                6,
+                6
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1108,
+            "orderClass": 6,
+            "className": "6,1地锁-1~3",
+            "name": "6,1地锁-1~3",
+            "orderDesc": "6,1地锁-1~3",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "targetType": "4",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 6,
+            "orderGene": [
+                601
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1109,
+            "orderClass": 6,
+            "className": "6,1地锁-1",
+            "name": "6,1地锁-1",
+            "orderDesc": "6,1地锁-1",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "targetType": "4",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 6,
+            "orderGene": [
+                601
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 271,
+            "orderClass": 27,
+            "className": "稳态组件",
+            "name": "稳态组件 Lv.1",
+            "orderDesc": "设计轻便的小型组件，使用后可快速恢复稳态指数。\n使用后恢复小队中所有人形稳态<color=#f26c1c>3</color>点（<color=#f26c1c>升级后恢复量提升</color>）\n（恢复稳态值不可大于该人形最大稳态，死亡人形无法恢复）",
+            "orderIcon": "Item_Icon_monopoly_order27_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                2201
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 272,
+            "orderClass": 27,
+            "className": "稳态组件",
+            "name": "稳态组件 Lv.2",
+            "orderDesc": "设计轻便的小型组件，使用后可快速恢复稳态指数。\n使用后恢复小队中所有人形稳态<color=#f26c1c>5</color>点（<color=#f26c1c>升级后恢复量提升</color>）\n（恢复稳态值不可大于该人形最大稳态，死亡人形无法恢复）",
+            "orderIcon": "Item_Icon_monopoly_order27_2",
+            "level": 2,
+            "upClass": {
+                "271": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                2202
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 273,
+            "orderClass": 27,
+            "className": "稳态组件",
+            "name": "稳态组件 Lv.3",
+            "orderDesc": "设计轻便的小型组件，使用后可快速恢复稳态指数。\n使用后恢复小队中所有人形稳态<color=#f26c1c>10</color>点\n（恢复稳态值不可大于该人形最大稳态，死亡人形无法恢复）",
+            "orderIcon": "Item_Icon_monopoly_order27_3",
+            "level": 3,
+            "upClass": {
+                "272": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                2203
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1031,
+            "orderClass": 3,
+            "className": "3,1纵火-1",
+            "name": "3,1纵火-1",
+            "orderDesc": "3,1纵火-1",
+            "orderIcon": "Item_Icon_monopoly_order3_1",
+            "level": 1,
+            "targetType": "2",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 3,
+            "orderGene": [
+                301
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "igoreType": 3,
+            "upClass": {},
+            "isshow": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1032,
+            "orderClass": 3,
+            "className": "4,1纵火-1",
+            "name": "4,1纵火-1",
+            "orderDesc": "4,1纵火-1",
+            "orderIcon": "Item_Icon_monopoly_order3_1",
+            "level": 1,
+            "targetType": "2",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 4,
+            "orderGene": [
+                301
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "igoreType": 3,
+            "upClass": {},
+            "isshow": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1033,
+            "orderClass": 3,
+            "className": "6,1纵火-1",
+            "name": "6,1纵火-1",
+            "orderDesc": "6,1纵火-1",
+            "orderIcon": "Item_Icon_monopoly_order3_1",
+            "level": 1,
+            "targetType": "2",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 6,
+            "orderGene": [
+                301
+            ],
+            "section": [
+                1,
+                1
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "igoreType": 3,
+            "upClass": {},
+            "isshow": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 1110,
+            "orderClass": 9,
+            "className": "移动-1~2",
+            "name": "移动-1~2",
+            "orderDesc": "移动-1~2",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                0
+            ],
+            "section": [
+                1,
+                2
+            ],
+            "sold": 10,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 11,
+            "orderClass": 1,
+            "className": "移动指令",
+            "name": "移动指令 Lv.1",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后可获得1~6点移动点数（<color=#f26c1c>升级后将移动得更快</color>）",
+            "orderIcon": "Item_Icon_monopoly_order1_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "orderGene": [],
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 12,
+            "orderClass": 1,
+            "className": "移动指令",
+            "name": "移动指令 Lv.2",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后本回合可获得(1~6)<color=#f26c1c>+2</color>点移动点数（<color=#f26c1c>升级后将移动得更快</color>）",
+            "orderIcon": "Item_Icon_monopoly_order1_2",
+            "level": 2,
+            "upClass": {
+                "11": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1302
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 13,
+            "orderClass": 1,
+            "className": "移动指令",
+            "name": "移动指令 Lv.3",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后本回合可获得(1~6)<color=#f26c1c>+4</color>点移动点数。",
+            "orderIcon": "Item_Icon_monopoly_order1_3",
+            "level": 3,
+            "upClass": {
+                "12": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1303
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 141,
+            "orderClass": 14,
+            "className": "遥控指令",
+            "name": "遥控指令 Lv.1",
+            "orderDesc": "只是指定步数而已，可不算出千啊？\n使用后，可指定本回合的移动点数，该点数不受增减益效果影响。（<color=#f26c1c>升级后可选点数区间扩大</color>）",
+            "orderIcon": "Item_Icon_monopoly_order14_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                1,
+                3
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "orderType": 1,
+            "upClass": {},
+            "range": 0,
+            "orderGene": [],
+            "igoreType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 142,
+            "orderClass": 14,
+            "className": "遥控指令",
+            "name": "遥控指令 Lv.2",
+            "orderDesc": "只是指定步数而已，可不算出千啊？\n使用后，可指定本回合的移动点数，该点数不受增减益效果影响。（<color=#f26c1c>升级后可选点数区间扩大</color>）",
+            "orderIcon": "Item_Icon_monopoly_order14_2",
+            "level": 2,
+            "upClass": {
+                "141": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                1,
+                4
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "orderType": 1,
+            "range": 0,
+            "orderGene": [],
+            "isshow": 0,
+            "igoreType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 143,
+            "orderClass": 14,
+            "className": "遥控指令",
+            "name": "遥控指令 Lv.3",
+            "orderDesc": "只是指定步数而已，可不算出千啊？\n使用后，可指定本回合的移动点数，该点数不受增减益效果影响。",
+            "orderIcon": "Item_Icon_monopoly_order14_3",
+            "level": 3,
+            "upClass": {
+                "142": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "orderType": 1,
+            "range": 0,
+            "orderGene": [],
+            "isshow": 0,
+            "igoreType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 171,
+            "orderClass": 17,
+            "className": "应急电源",
+            "name": "应急电源 Lv.1",
+            "orderDesc": "总是在电量不足的时候，才能显出它的珍贵。\n使用后恢复小队中所有人形<color=#f26c1c>10%</color>最大生命值。（<color=#f26c1c>升级后恢复量提升</color>）\n（恢复生命值不会大于该人形最大生命值，死亡人形无法恢复生命）",
+            "orderIcon": "Item_Icon_monopoly_order17_1",
+            "level": 1,
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1701
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "upClass": {},
+            "range": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 172,
+            "orderClass": 17,
+            "className": "应急电源",
+            "name": "应急电源 Lv.2",
+            "orderDesc": "总是在电量不足的时候，才能显出它的珍贵。\n使用后恢复小队中所有人形<color=#f26c1c>30%</color>最大生命值。（<color=#f26c1c>升级后恢复量提升</color>）\n（恢复生命值不会大于该人形最大生命值，死亡人形无法恢复生命）",
+            "orderIcon": "Item_Icon_monopoly_order17_2",
+            "level": 2,
+            "upClass": {
+                "171": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1702
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 173,
+            "orderClass": 17,
+            "className": "应急电源",
+            "name": "应急电源 Lv.3",
+            "orderDesc": "总是在电量不足的时候，才能显出它的珍贵。\n使用后恢复小队中所有人形<color=#f26c1c>50%</color>最大生命值。\n（恢复生命值不会大于该人形最大生命值，死亡人形无法恢复生命）",
+            "orderIcon": "Item_Icon_monopoly_order17_3",
+            "level": 3,
+            "upClass": {
+                "172": 2
+            },
+            "targetType": "0",
+            "targetParam": [
+                0
+            ],
+            "orderGene": [
+                1703
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "range": 0,
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 221,
+            "orderClass": 22,
+            "className": "清障套组",
+            "name": "清障套组 lv.1",
+            "orderDesc": "擅长扫清眼前的一切障碍。\n使用后，在前后<color=#f26c1c>3</color>格范围内清除1个路障（<color=#f26c1c>升级后使用范围扩大</color>）",
+            "orderIcon": "Item_Icon_monopoly_order22_1",
+            "level": 1,
+            "targetType": "3:99",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 3,
+            "orderGene": [
+                504
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 15,
+            "isshow": 1,
+            "orderDesc2": "",
+            "upClass": {},
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 222,
+            "orderClass": 22,
+            "className": "清障套组",
+            "name": "清障套组 lv.2",
+            "orderDesc": "擅长扫清眼前的一切障碍。\n使用后，在前后<color=#f26c1c>6</color>格范围内清除1个路障（<color=#f26c1c>升级后使用范围变为全图</color>）",
+            "orderIcon": "Item_Icon_monopoly_order22_2",
+            "level": 2,
+            "upClass": {
+                "221": 2
+            },
+            "targetType": "3:99",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": 6,
+            "orderGene": [
+                504
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 30,
+            "orderDesc2": "",
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        },
+        {
+            "id": 223,
+            "orderClass": 22,
+            "className": "清障套组",
+            "name": "清障套组 lv.3",
+            "orderDesc": "擅长扫清眼前的一切障碍。\n使用后，可在全图<color=#f26c1c>任意</color>范围内清除1个路障",
+            "orderIcon": "Item_Icon_monopoly_order22_3",
+            "level": 3,
+            "upClass": {
+                "222": 2
+            },
+            "targetType": "3:99",
+            "targetParam": [
+                1,
+                1
+            ],
+            "range": -1,
+            "orderGene": [
+                504
+            ],
+            "section": [
+                1,
+                6
+            ],
+            "sold": 60,
+            "orderDesc2": "",
+            "isshow": 0,
+            "igoreType": 0,
+            "orderType": 0,
+            "enemyIgone": []
+        }
+    ]
+}

@@ -1,0 +1,748 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "name": "灼烧",
+            "icon": "Buff_Tour_01",
+            "desc": "编队内全体成员回合结束时受到最大生命值上限<color=#f26c1c>5%</color>的伤害，持续3回合。该效果再次获取回合将刷新，效果不会叠加，战斗中不生效",
+            "buffType": 2,
+            "triggerTime": 7,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 6,
+            "param": 5,
+            "turn": 3,
+            "triggerdesc": "灼烧生效了！",
+            "triggerEffect": 1001,
+            "obtainDesc": "获得灼烧",
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 1002,
+            "name": "冰封",
+            "icon": "Buff_Tour_02",
+            "desc": "无法移动，持续2回合。",
+            "buffType": 2,
+            "triggerTime": 5,
+            "triggerParam": [
+                0,
+                0,
+                100
+            ],
+            "buffGet": 1,
+            "effectType": 7,
+            "turn": 2,
+            "triggerdesc": "冰封生效了！",
+            "triggerEffect": 1002,
+            "obtainDesc": "获得冰封",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 1003,
+            "name": "短路",
+            "icon": "Buff_Tour_03",
+            "desc": "受到攻击的伤害值提升",
+            "buffType": 2,
+            "triggerTime": 8,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 10,
+            "param": 100,
+            "turn": 3,
+            "triggerdesc": "短路生效了！",
+            "obtainDesc": "获得短路",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1004,
+            "name": "冲刺 lv.1",
+            "icon": "Buff_Tour_04",
+            "desc": "每回合获得的移动点数增加<color=#f26c1c>1</color>点，持续1回合。",
+            "buffType": 1,
+            "triggerTime": 4,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 3,
+            "param": 1,
+            "turn": 1,
+            "triggerdesc": "冲刺生效了！",
+            "obtainDesc": "获得冲刺",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1005,
+            "name": "冲刺 lv.2",
+            "icon": "Buff_Tour_04",
+            "desc": "每回合获得的移动点数增加<color=#f26c1c>2</color>点，持续1回合。",
+            "buffType": 1,
+            "triggerTime": 4,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 3,
+            "param": 2,
+            "turn": 1,
+            "triggerdesc": "冲刺生效了！",
+            "obtainDesc": "获得冲刺",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1006,
+            "name": "冲刺 lv.3",
+            "icon": "Buff_Tour_04",
+            "desc": "每回合获得的移动点数增加<color=#f26c1c>4</color>点，持续1回合。",
+            "buffType": 1,
+            "triggerTime": 4,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 3,
+            "param": 4,
+            "turn": 1,
+            "triggerdesc": "冲刺生效了！",
+            "obtainDesc": "获得冲刺",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1007,
+            "name": "限速 lv.1",
+            "icon": "Buff_Tour_05",
+            "desc": "每回合获得的移动点数减少<color=#f26c1c>1</color>点，持续1回合。",
+            "buffType": 2,
+            "triggerTime": 4,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 4,
+            "param": 1,
+            "turn": 2,
+            "triggerdesc": "限速生效了！",
+            "obtainDesc": "获得限速",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1008,
+            "name": "增值",
+            "icon": "Buff_Tour_06",
+            "desc": "每回合开始时，获得的伊伯剪画增加",
+            "buffType": 1,
+            "triggerTime": 1,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 1,
+            "param": 10,
+            "turn": 3,
+            "triggerdesc": "增值生效了！",
+            "obtainDesc": "获得增值",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1009,
+            "name": "增值",
+            "icon": "Buff_Tour_06",
+            "desc": "每回合开始时，获得的伊伯剪画增加",
+            "buffType": 1,
+            "triggerTime": 1,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 1,
+            "param": 20,
+            "turn": 3,
+            "triggerdesc": "增值生效了！",
+            "obtainDesc": "获得增值",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1010,
+            "name": "增值",
+            "icon": "Buff_Tour_06",
+            "desc": "每回合开始时，获得的伊伯剪画增加",
+            "buffType": 1,
+            "triggerTime": 1,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 1,
+            "param": 30,
+            "turn": 3,
+            "triggerdesc": "增值生效了！",
+            "obtainDesc": "获得增值",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1011,
+            "name": "贬值",
+            "icon": "Buff_Tour_07",
+            "desc": "每回合开始时，获得的伊伯剪画减少",
+            "triggerTime": 1,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 2,
+            "param": 30,
+            "turn": 3,
+            "triggerdesc": "贬值生效了！",
+            "obtainDesc": "获得贬值",
+            "buffType": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1012,
+            "name": "闪避",
+            "icon": "Buff_Tour_08",
+            "desc": "免疫地形效果，持续3回合。该效果再次获取回合将刷新，效果不会叠加，战斗中不生效",
+            "buffType": 1,
+            "triggerTime": 7,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 9,
+            "turn": 3,
+            "triggerdesc": "闪避生效了！",
+            "triggerEffect": 1014,
+            "obtainDesc": "获得闪避",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 1013,
+            "name": "迷彩",
+            "icon": "Buff_Tour_09",
+            "desc": "免疫敌方地图攻击，持续3回合。该效果再次获取回合将刷新，效果不会叠加，战斗中不生效",
+            "buffType": 1,
+            "triggerTime": 8,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 13,
+            "turn": 3,
+            "triggerdesc": "迷彩生效了！",
+            "triggerEffect": 1014,
+            "obtainDesc": "获得迷彩",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 1014,
+            "name": "减伤 lv.1",
+            "icon": "Buff_Tour_10",
+            "desc": "降低<color=#f26c1c>20%</color>受到的攻击伤害，持续2回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，战斗中同样生效",
+            "buffType": 1,
+            "triggerTime": 8,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 11,
+            "param": 20,
+            "turn": 2,
+            "triggerSlg": 1,
+            "relationBuff": 361203,
+            "triggerdesc": "减伤生效了！",
+            "triggerEffect": 1014,
+            "obtainDesc": "获得减伤"
+        },
+        {
+            "id": 1015,
+            "name": "横行",
+            "icon": "Buff_Tour_11",
+            "desc": "免疫所有地形效果和敌方地图攻击，持续3回合。",
+            "buffType": 1,
+            "triggerTime": 10,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 14,
+            "turn": 3,
+            "triggerdesc": "横行生效了！",
+            "triggerEffect": 1015,
+            "obtainDesc": "获得横行",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 1016,
+            "name": "眩晕",
+            "icon": "Buff_Tour_12",
+            "desc": "下一轮行动开始时跳过指令使用阶段",
+            "buffType": 2,
+            "triggerTime": 10,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 5,
+            "turn": 2,
+            "triggerdesc": "眩晕生效了！",
+            "triggerEffect": 1016,
+            "obtainDesc": "获得眩晕",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 1017,
+            "name": "重启",
+            "icon": "Buff_Tour_13",
+            "desc": "战斗失败时将触发重启效果，在出生点继续巡游",
+            "buffType": 1,
+            "triggerTime": 9,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 8,
+            "param": 30,
+            "turn": 99,
+            "triggerdesc": "重启生效了！",
+            "triggerEffect": 1017,
+            "obtainDesc": "获得重启",
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 1018,
+            "name": "愈合 lv.1",
+            "icon": "Buff_SelfHeal",
+            "desc": "每回合行动开始时小队全体成员恢复<color=#f26c1c>8%</color>血量，持续3回合。",
+            "buffType": 1,
+            "triggerTime": 1,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 12,
+            "param": 8,
+            "turn": 3,
+            "triggerdesc": "愈合生效了！",
+            "triggerEffect": 1018,
+            "obtainDesc": "获得愈合",
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 1019,
+            "name": "强化 lv.1",
+            "icon": "Buff_AtkUp",
+            "desc": "提高人形<color=#f26c1c>5%</color>攻击力，持续3回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，该效果只在战斗中生效",
+            "buffType": 1,
+            "triggerTime": 10,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 16,
+            "param": 20,
+            "turn": 3,
+            "triggerSlg": 1,
+            "relationBuff": 360053,
+            "triggerdesc": "",
+            "obtainDesc": "获得强化",
+            "triggerEffect": 0
+        },
+        {
+            "id": 1020,
+            "name": "监视",
+            "icon": "Buff_Monitor",
+            "desc": "敌人正在警戒，停留在监视区域将遭受攻击！",
+            "buffType": 2,
+            "triggerTime": 6,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 10,
+            "turn": 99,
+            "triggerdesc": "",
+            "obtainDesc": "",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1021,
+            "name": "冲刺 lv.3",
+            "icon": "Buff_Tour_04",
+            "desc": "每回合获得的移动点数增加<color=#f26c1c>4</color>点，持续1回合。",
+            "buffType": 1,
+            "triggerTime": 4,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 3,
+            "param": 4,
+            "turn": 25,
+            "triggerdesc": "冲刺生效了！",
+            "obtainDesc": "获得冲刺",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1022,
+            "name": "冲刺 lv.3",
+            "icon": "Buff_Tour_04",
+            "desc": "每回合获得的移动点数增加<color=#f26c1c>4</color>点，持续1回合。",
+            "buffType": 1,
+            "triggerTime": 4,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 3,
+            "param": 3,
+            "turn": 25,
+            "triggerdesc": "冲刺生效了！",
+            "obtainDesc": "获得冲刺",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 1023,
+            "name": "灼烧",
+            "icon": "Buff_Tour_01",
+            "desc": "编队内全体成员回合结束时受到最大生命值上限<color=#f26c1c>10%</color>的伤害，持续3回合。该效果再次获取回合将刷新，效果不会叠加，战斗中不生效",
+            "buffType": 2,
+            "triggerTime": 7,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 6,
+            "param": 10,
+            "turn": 3,
+            "triggerdesc": "灼烧生效了！",
+            "triggerEffect": 1001,
+            "obtainDesc": "获得灼烧",
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 10021,
+            "name": "冰封",
+            "icon": "Buff_Tour_02",
+            "desc": "无法移动，持续3回合。",
+            "buffType": 2,
+            "triggerTime": 5,
+            "triggerParam": [
+                0,
+                0,
+                100
+            ],
+            "buffGet": 1,
+            "effectType": 7,
+            "turn": 3,
+            "triggerdesc": "冰封生效了！",
+            "triggerEffect": 1002,
+            "obtainDesc": "获得冰封",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 10071,
+            "name": "限速 lv.2",
+            "icon": "Buff_Tour_05",
+            "desc": "每回合获得的移动点数减少<color=#f26c1c>2</color>点，持续1回合。",
+            "buffType": 2,
+            "triggerTime": 4,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 4,
+            "param": 2,
+            "turn": 3,
+            "triggerdesc": "限速生效了！",
+            "obtainDesc": "获得限速",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 10072,
+            "name": "限速 lv.3",
+            "icon": "Buff_Tour_05",
+            "desc": "每回合获得的移动点数减少<color=#f26c1c>3</color>点，持续1回合。",
+            "buffType": 2,
+            "triggerTime": 4,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 4,
+            "param": 3,
+            "turn": 3,
+            "triggerdesc": "限速生效了！",
+            "obtainDesc": "获得限速",
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
+            "id": 10141,
+            "name": "减伤 lv.2",
+            "icon": "Buff_Tour_10",
+            "desc": "降低<color=#f26c1c>35%</color>受到的攻击伤害，持续3回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，战斗中同样生效",
+            "buffType": 1,
+            "triggerTime": 8,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 11,
+            "param": 35,
+            "turn": 3,
+            "triggerSlg": 1,
+            "relationBuff": 361352,
+            "triggerdesc": "减伤生效了！",
+            "triggerEffect": 1014,
+            "obtainDesc": "获得减伤"
+        },
+        {
+            "id": 10142,
+            "name": "减伤 lv.3",
+            "icon": "Buff_Tour_10",
+            "desc": "降低<color=#f26c1c>50%</color>受到的攻击伤害，持续4回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，战斗中同样生效",
+            "buffType": 1,
+            "triggerTime": 8,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 11,
+            "param": 50,
+            "turn": 4,
+            "triggerSlg": 1,
+            "relationBuff": 361504,
+            "triggerdesc": "减伤生效了！",
+            "triggerEffect": 1014,
+            "obtainDesc": "获得减伤"
+        },
+        {
+            "id": 10143,
+            "name": "减伤 lv.1",
+            "icon": "Buff_Tour_10",
+            "desc": "降低<color=#f26c1c>10%</color>受到的攻击伤害，持续3回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，战斗中同样生效",
+            "buffType": 1,
+            "triggerTime": 8,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 11,
+            "param": 10,
+            "turn": 3,
+            "triggerSlg": 1,
+            "relationBuff": 361103,
+            "triggerdesc": "减伤生效了！",
+            "triggerEffect": 1014,
+            "obtainDesc": "获得减伤"
+        },
+        {
+            "id": 10144,
+            "name": "减伤 lv.2",
+            "icon": "Buff_Tour_10",
+            "desc": "降低<color=#f26c1c>15%</color>受到的攻击伤害，持续3回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，战斗中同样生效",
+            "buffType": 1,
+            "triggerTime": 8,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 11,
+            "param": 15,
+            "turn": 3,
+            "triggerSlg": 1,
+            "relationBuff": 361153,
+            "triggerdesc": "减伤生效了！",
+            "triggerEffect": 1014,
+            "obtainDesc": "获得减伤"
+        },
+        {
+            "id": 10145,
+            "name": "减伤 lv.3",
+            "icon": "Buff_Tour_10",
+            "desc": "降低<color=#f26c1c>20%</color>受到的攻击伤害，持续3回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，战斗中同样生效",
+            "buffType": 1,
+            "triggerTime": 8,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 11,
+            "param": 20,
+            "turn": 3,
+            "triggerSlg": 1,
+            "relationBuff": 361202,
+            "triggerdesc": "减伤生效了！",
+            "triggerEffect": 1014,
+            "obtainDesc": "获得减伤"
+        },
+        {
+            "id": 10151,
+            "name": "横行",
+            "icon": "Buff_Tour_11",
+            "desc": "免疫所有地形效果和敌方地图攻击，持续30回合。",
+            "buffType": 1,
+            "triggerTime": 10,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 14,
+            "turn": 30,
+            "triggerdesc": "横行生效了！",
+            "triggerEffect": 1015,
+            "obtainDesc": "获得横行",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 10152,
+            "name": "横行",
+            "icon": "Buff_Tour_11",
+            "desc": "免疫所有地形效果和敌方地图攻击，持续3回合。",
+            "buffType": 1,
+            "triggerTime": 10,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 14,
+            "turn": 1,
+            "triggerdesc": "横行生效了！",
+            "triggerEffect": 1015,
+            "obtainDesc": "获得横行",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 10181,
+            "name": "愈合 lv.2",
+            "icon": "Buff_SelfHeal",
+            "desc": "每回合行动开始时小队全体成员恢复<color=#f26c1c>12%</color>血量，持续3回合。",
+            "buffType": 1,
+            "triggerTime": 1,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 12,
+            "param": 12,
+            "turn": 3,
+            "triggerdesc": "愈合生效了！",
+            "triggerEffect": 1018,
+            "obtainDesc": "获得愈合",
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 10182,
+            "name": "愈合 lv.3",
+            "icon": "Buff_SelfHeal",
+            "desc": "每回合行动开始时小队全体成员恢复<color=#f26c1c>16%</color>血量，持续3回合。",
+            "buffType": 1,
+            "triggerTime": 1,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 12,
+            "param": 16,
+            "turn": 3,
+            "triggerdesc": "愈合生效了！",
+            "triggerEffect": 1018,
+            "obtainDesc": "获得愈合",
+            "triggerSlg": 0,
+            "relationBuff": 0
+        },
+        {
+            "id": 10191,
+            "name": "强化 lv.2",
+            "icon": "Buff_AtkUp",
+            "desc": "提高人形<color=#f26c1c>8%</color>攻击力，持续3回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，该效果只在战斗中生效",
+            "buffType": 1,
+            "triggerTime": 10,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 16,
+            "param": 20,
+            "turn": 3,
+            "triggerSlg": 1,
+            "relationBuff": 360083,
+            "triggerdesc": "",
+            "obtainDesc": "获得强化",
+            "triggerEffect": 0
+        },
+        {
+            "id": 10192,
+            "name": "强化 lv.3",
+            "icon": "Buff_AtkUp",
+            "desc": "提高人形<color=#f26c1c>10%</color>攻击力，持续3回合。该效果再次获取回合将刷新，效果不会叠加，新获得的效果将替代旧效果，该效果只在战斗中生效",
+            "buffType": 1,
+            "triggerTime": 10,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 16,
+            "param": 20,
+            "turn": 3,
+            "triggerSlg": 1,
+            "relationBuff": 360103,
+            "triggerdesc": "",
+            "obtainDesc": "获得强化",
+            "triggerEffect": 0
+        }
+    ]
+}

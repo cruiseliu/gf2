@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "id": 1010,
+            "des": "完成任意4个B.R.I.E.F.每日订单",
+            "conditionClass": 1002,
+            "conditionNum": 4,
+            "link": "7001",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1011,
+            "des": "通关补给作战关卡3次",
+            "conditionClass": 209,
+            "conditionNum": 3,
+            "link": "1098",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1012,
+            "des": "完成1次边界推进",
+            "conditionClass": 563,
+            "conditionNum": 1,
+            "link": "10000",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1001,
+            "des": "完成1次边界推进",
+            "conditionClass": 563,
+            "conditionNum": 1,
+            "link": "10000",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1002,
+            "des": "完成任意3个B.R.I.E.F.每日订单",
+            "conditionClass": 1002,
+            "conditionNum": 3,
+            "link": "7001",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1003,
+            "des": "挑战实兵演习2次",
+            "conditionClass": 2,
+            "conditionNum": 2,
+            "link": "3014",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1004,
+            "des": "通关补给战关卡2次",
+            "conditionClass": 209,
+            "conditionNum": 2,
+            "link": "1098",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1005,
+            "des": "通关心智勘测2次",
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "link": "2000",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1006,
+            "des": "配件精调完成1次",
+            "conditionClass": 144,
+            "conditionNum": 1,
+            "link": "8005",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1007,
+            "des": "配件精调完成2次",
+            "conditionClass": 144,
+            "conditionNum": 2,
+            "link": "8005",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1008,
+            "des": "通关心智勘测1次",
+            "conditionClass": 201,
+            "conditionNum": 1,
+            "link": "2000",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1009,
+            "des": "挑战实兵演习3次",
+            "conditionClass": 2,
+            "conditionNum": 3,
+            "link": "3014",
+            "counterType": 0,
+            "resetType": 0
+        }
+    ]
+}

@@ -1,0 +1,497 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "gunLevel": 1,
+            "weaponLevel": 1,
+            "exp": 0,
+            "upgradeReward": {},
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 2,
+            "exp": 10,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 2,
+            "weaponLevel": 2,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 3,
+            "exp": 15,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 3,
+            "weaponLevel": 3,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 4,
+            "exp": 20,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 4,
+            "weaponLevel": 4,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 5,
+            "exp": 25,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 5,
+            "weaponLevel": 5,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 6,
+            "exp": 30,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 6,
+            "weaponLevel": 6,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 7,
+            "exp": 35,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 7,
+            "weaponLevel": 7,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 8,
+            "exp": 40,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 8,
+            "weaponLevel": 8,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 9,
+            "exp": 50,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 9,
+            "weaponLevel": 9,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 10,
+            "exp": 81,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 10,
+            "weaponLevel": 10,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 11,
+            "exp": 101,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 11,
+            "weaponLevel": 11,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 12,
+            "exp": 122,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 12,
+            "weaponLevel": 12,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 13,
+            "exp": 142,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 13,
+            "weaponLevel": 13,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 14,
+            "exp": 152,
+            "upgradeReward": {
+                "101": 10
+            },
+            "gunLevel": 14,
+            "weaponLevel": 14,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 15,
+            "exp": 163,
+            "upgradeReward": {
+                "101": 20
+            },
+            "gunLevel": 15,
+            "weaponLevel": 15,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 16,
+            "exp": 163,
+            "upgradeReward": {
+                "101": 20
+            },
+            "gunLevel": 16,
+            "weaponLevel": 16,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 17,
+            "exp": 173,
+            "upgradeReward": {
+                "101": 20
+            },
+            "gunLevel": 17,
+            "weaponLevel": 17,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 18,
+            "exp": 184,
+            "upgradeReward": {
+                "101": 20
+            },
+            "gunLevel": 18,
+            "weaponLevel": 18,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 19,
+            "exp": 215,
+            "upgradeReward": {
+                "101": 20
+            },
+            "gunLevel": 19,
+            "weaponLevel": 19,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 20,
+            "exp": 246,
+            "upgradeReward": {
+                "101": 20
+            },
+            "gunLevel": 20,
+            "weaponLevel": 20,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 21,
+            "exp": 276,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 21,
+            "weaponLevel": 21,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 22,
+            "exp": 276,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 22,
+            "weaponLevel": 22,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 23,
+            "exp": 309,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 23,
+            "weaponLevel": 23,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 24,
+            "exp": 353,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 24,
+            "weaponLevel": 24,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 25,
+            "exp": 397,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 25,
+            "weaponLevel": 25,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 26,
+            "exp": 580,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 26,
+            "weaponLevel": 26,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 27,
+            "exp": 580,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 27,
+            "weaponLevel": 27,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 28,
+            "exp": 580,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 28,
+            "weaponLevel": 28,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 29,
+            "exp": 580,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 29,
+            "weaponLevel": 29,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 30,
+            "exp": 630,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 30,
+            "weaponLevel": 30,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 31,
+            "exp": 630,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 31,
+            "weaponLevel": 31,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 32,
+            "exp": 696,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 32,
+            "weaponLevel": 32,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 33,
+            "exp": 792,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 33,
+            "weaponLevel": 33,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 34,
+            "exp": 792,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 34,
+            "weaponLevel": 34,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 35,
+            "exp": 858,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 35,
+            "weaponLevel": 35,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 36,
+            "exp": 1056,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 36,
+            "weaponLevel": 36,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 37,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 37,
+            "weaponLevel": 37,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 38,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 38,
+            "weaponLevel": 38,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 39,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 39,
+            "weaponLevel": 39,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 40,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 40,
+            "weaponLevel": 40,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 41,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 41,
+            "weaponLevel": 41,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 42,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 42,
+            "weaponLevel": 42,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 43,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 43,
+            "weaponLevel": 43,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 44,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 44,
+            "weaponLevel": 44,
+            "extaStamina": 0,
+            "rewardShow": {}
+        },
+        {
+            "id": 45,
+            "exp": 1320,
+            "upgradeReward": {
+                "101": 30
+            },
+            "gunLevel": 45,
+            "weaponLevel": 45,
+            "extaStamina": 0,
+            "rewardShow": {}
+        }
+    ]
+}

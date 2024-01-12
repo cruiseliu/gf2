@@ -1,0 +1,674 @@
+{
+    "data": [
+        {
+            "id": 10101,
+            "dzMode": 3,
+            "season": 1001,
+            "map": [
+                30001,
+                30002,
+                30003,
+                30004,
+                30005
+            ],
+            "authorityDes": "临时权限",
+            "mapTitle": "校场",
+            "mapSubTitle": "外围区域",
+            "reward": [
+                140006,
+                140003,
+                140002,
+                140001,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "",
+            "authority": 0,
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10102,
+            "dzMode": 3,
+            "season": 1001,
+            "authority": 1,
+            "map": [
+                30101,
+                30201,
+                30301,
+                30401,
+                30501
+            ],
+            "authorityDes": "探索权限 等级1",
+            "mapTitle": "旧址",
+            "mapSubTitle": "旧日都市",
+            "reward": [
+                140007,
+                140006,
+                140005,
+                140004,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 精确打击I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10103,
+            "dzMode": 3,
+            "season": 1001,
+            "authority": 2,
+            "map": [
+                30102,
+                30202,
+                30302,
+                30402,
+                30502
+            ],
+            "authorityDes": "探索权限 等级2",
+            "mapTitle": "废墟",
+            "mapSubTitle": "无人遗址",
+            "reward": [
+                140013,
+                140007,
+                140008,
+                140009,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 强敌聚焦I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10104,
+            "dzMode": 3,
+            "season": 1001,
+            "authority": 3,
+            "map": [
+                30103,
+                30203,
+                30303,
+                30403,
+                30503
+            ],
+            "authorityDes": "探索权限 等级3",
+            "mapTitle": "荒地",
+            "mapSubTitle": "荒芜地域",
+            "reward": [
+                140014,
+                140011,
+                140012,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 多维协同I后解锁",
+            "normalDropList": [
+                8001,
+                8002,
+                8003,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014
+            ],
+            "unlock": []
+        },
+        {
+            "id": 10201,
+            "dzMode": 3,
+            "season": 1002,
+            "map": [
+                30001,
+                30002,
+                30003,
+                30004,
+                30005
+            ],
+            "authorityDes": "临时权限",
+            "mapTitle": "校场",
+            "mapSubTitle": "外围区域",
+            "reward": [
+                140006,
+                140003,
+                140002,
+                140001,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "",
+            "authority": 0,
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10202,
+            "dzMode": 3,
+            "season": 1002,
+            "authority": 1,
+            "map": [
+                30101,
+                30201,
+                30301,
+                30401,
+                30501
+            ],
+            "authorityDes": "探索权限 等级1",
+            "mapTitle": "旧址",
+            "mapSubTitle": "旧日都市",
+            "reward": [
+                140007,
+                140006,
+                140005,
+                140004,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 精确打击I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10203,
+            "dzMode": 3,
+            "season": 1002,
+            "authority": 2,
+            "map": [
+                30102,
+                30202,
+                30302,
+                30402,
+                30502
+            ],
+            "authorityDes": "探索权限 等级2",
+            "mapTitle": "废墟",
+            "mapSubTitle": "无人遗址",
+            "reward": [
+                140013,
+                140007,
+                140008,
+                140009,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 强敌聚焦I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10204,
+            "dzMode": 3,
+            "season": 1002,
+            "authority": 3,
+            "map": [
+                30103,
+                30203,
+                30303,
+                30403,
+                30503
+            ],
+            "authorityDes": "探索权限 等级3",
+            "mapTitle": "荒地",
+            "mapSubTitle": "荒芜地域",
+            "reward": [
+                140014,
+                140011,
+                140012,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 多维协同I后解锁",
+            "normalDropList": [
+                8001,
+                8002,
+                8003,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014
+            ],
+            "unlock": []
+        },
+        {
+            "id": 10301,
+            "dzMode": 3,
+            "season": 1003,
+            "map": [
+                30001,
+                30002,
+                30003,
+                30004,
+                30005
+            ],
+            "authorityDes": "临时权限",
+            "mapTitle": "校场",
+            "mapSubTitle": "外围区域",
+            "reward": [
+                140006,
+                140003,
+                140002,
+                140001,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "",
+            "authority": 0,
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10302,
+            "dzMode": 3,
+            "season": 1003,
+            "authority": 1,
+            "map": [
+                30101,
+                30201,
+                30301,
+                30401,
+                30501
+            ],
+            "authorityDes": "探索权限 等级1",
+            "mapTitle": "旧址",
+            "mapSubTitle": "旧日都市",
+            "reward": [
+                140007,
+                140006,
+                140005,
+                140004,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 精确打击I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10303,
+            "dzMode": 3,
+            "season": 1003,
+            "authority": 2,
+            "map": [
+                30102,
+                30202,
+                30302,
+                30402,
+                30502
+            ],
+            "authorityDes": "探索权限 等级2",
+            "mapTitle": "废墟",
+            "mapSubTitle": "无人遗址",
+            "reward": [
+                140013,
+                140007,
+                140008,
+                140009,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 强敌聚焦I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10304,
+            "dzMode": 3,
+            "season": 1003,
+            "authority": 3,
+            "map": [
+                30103,
+                30203,
+                30303,
+                30403,
+                30503
+            ],
+            "authorityDes": "探索权限 等级3",
+            "mapTitle": "荒地",
+            "mapSubTitle": "荒芜地域",
+            "reward": [
+                140014,
+                140011,
+                140012,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 多维协同I后解锁",
+            "normalDropList": [
+                8001,
+                8002,
+                8003,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014
+            ],
+            "unlock": []
+        },
+        {
+            "id": 10401,
+            "dzMode": 3,
+            "season": 1004,
+            "map": [
+                30001,
+                30002,
+                30003,
+                30004,
+                30005
+            ],
+            "authorityDes": "临时权限",
+            "mapTitle": "校场",
+            "mapSubTitle": "外围区域",
+            "reward": [
+                140006,
+                140003,
+                140002,
+                140001,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "",
+            "authority": 0,
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10402,
+            "dzMode": 3,
+            "season": 1004,
+            "authority": 1,
+            "map": [
+                30101,
+                30201,
+                30301,
+                30401,
+                30501
+            ],
+            "authorityDes": "探索权限 等级1",
+            "mapTitle": "旧址",
+            "mapSubTitle": "旧日都市",
+            "reward": [
+                140007,
+                140006,
+                140005,
+                140004,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 精确打击I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10403,
+            "dzMode": 3,
+            "season": 1004,
+            "authority": 2,
+            "map": [
+                30102,
+                30202,
+                30302,
+                30402,
+                30502
+            ],
+            "authorityDes": "探索权限 等级2",
+            "mapTitle": "废墟",
+            "mapSubTitle": "无人遗址",
+            "reward": [
+                140013,
+                140007,
+                140008,
+                140009,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 强敌聚焦I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10404,
+            "dzMode": 3,
+            "season": 1004,
+            "authority": 3,
+            "map": [
+                30103,
+                30203,
+                30303,
+                30403,
+                30503
+            ],
+            "authorityDes": "探索权限 等级3",
+            "mapTitle": "荒地",
+            "mapSubTitle": "荒芜地域",
+            "reward": [
+                140014,
+                140011,
+                140012,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 多维协同I后解锁",
+            "normalDropList": [
+                8001,
+                8002,
+                8003,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014
+            ],
+            "unlock": []
+        },
+        {
+            "id": 10501,
+            "dzMode": 3,
+            "season": 1005,
+            "map": [
+                30001,
+                30002,
+                30003,
+                30004,
+                30005
+            ],
+            "authorityDes": "临时权限",
+            "mapTitle": "校场",
+            "mapSubTitle": "外围区域",
+            "reward": [
+                140006,
+                140003,
+                140002,
+                140001,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "",
+            "authority": 0,
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10502,
+            "dzMode": 3,
+            "season": 1005,
+            "authority": 1,
+            "map": [
+                30101,
+                30201,
+                30301,
+                30401,
+                30501
+            ],
+            "authorityDes": "探索权限 等级1",
+            "mapTitle": "旧址",
+            "mapSubTitle": "旧日都市",
+            "reward": [
+                140007,
+                140006,
+                140005,
+                140004,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 精确打击I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10503,
+            "dzMode": 3,
+            "season": 1005,
+            "authority": 2,
+            "map": [
+                30102,
+                30202,
+                30302,
+                30402,
+                30502
+            ],
+            "authorityDes": "探索权限 等级2",
+            "mapTitle": "废墟",
+            "mapSubTitle": "无人遗址",
+            "reward": [
+                140013,
+                140007,
+                140008,
+                140009,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 强敌聚焦I后解锁",
+            "unlock": [],
+            "normalDropList": []
+        },
+        {
+            "id": 10504,
+            "dzMode": 3,
+            "season": 1005,
+            "authority": 3,
+            "map": [
+                30103,
+                30203,
+                30303,
+                30403,
+                30503
+            ],
+            "authorityDes": "探索权限 等级3",
+            "mapTitle": "荒地",
+            "mapSubTitle": "荒芜地域",
+            "reward": [
+                140014,
+                140011,
+                140012,
+                8302,
+                8301
+            ],
+            "useItem": {
+                "354": 1
+            },
+            "unlockDes": "完成进阶任务 多维协同I后解锁",
+            "normalDropList": [
+                8001,
+                8002,
+                8003,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014
+            ],
+            "unlock": []
+        }
+    ]
+}

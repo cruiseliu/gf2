@@ -1,0 +1,189 @@
+{
+    "data": [
+        {
+            "id": 11,
+            "name": "认购合约",
+            "sidetagType": 1,
+            "includeTag": [
+                102
+            ],
+            "npc": 101,
+            "globalTab": 101,
+            "sort": 1,
+            "unlock": 0
+        },
+        {
+            "id": 12,
+            "name": "信用兑换",
+            "sidetagType": 1,
+            "includeTag": [
+                101
+            ],
+            "npc": 101,
+            "globalTab": 102,
+            "sort": 4,
+            "unlock": 0
+        },
+        {
+            "id": 13,
+            "name": "品质甄选",
+            "sidetagType": 1,
+            "includeTag": [
+                104,
+                107
+            ],
+            "npc": 101,
+            "globalTab": 103,
+            "sort": 3,
+            "unlock": 0
+        },
+        {
+            "id": 14,
+            "name": "易物所",
+            "sidetagType": 1,
+            "includeTag": [
+                202,
+                203,
+                204
+            ],
+            "npc": 101,
+            "globalTab": 104,
+            "sort": 2,
+            "unlock": 0
+        },
+        {
+            "id": 21,
+            "name": "互通聚场",
+            "includeTag": [
+                201
+            ],
+            "sidetagType": 0,
+            "npc": 0,
+            "unlock": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 24,
+            "name": "核心武备",
+            "includeTag": [
+                206,
+                207
+            ],
+            "unlock": 16005,
+            "sidetagType": 0,
+            "npc": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 25,
+            "name": "通用物资",
+            "sidetagType": 10,
+            "includeTag": [
+                213,
+                220
+            ],
+            "unlock": 14001,
+            "npc": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 27,
+            "name": "充能枢纽",
+            "includeTag": [
+                217
+            ],
+            "sidetagType": 0,
+            "npc": 0,
+            "unlock": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 28,
+            "name": "兵械专区",
+            "sidetagType": 10,
+            "includeTag": [
+                223
+            ],
+            "unlock": 14003,
+            "npc": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 30,
+            "name": "基础产品",
+            "sidetagType": 11,
+            "includeTag": [
+                224
+            ],
+            "unlock": 16008,
+            "npc": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 41,
+            "name": "佩妮泽",
+            "sidetagType": 6,
+            "includeTag": [
+                401
+            ],
+            "npc": 401,
+            "unlock": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 42,
+            "name": "格琳喵",
+            "sidetagType": 6,
+            "includeTag": [
+                402
+            ],
+            "npc": 402,
+            "unlock": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 43,
+            "name": "阿米达",
+            "sidetagType": 6,
+            "includeTag": [
+                403
+            ],
+            "npc": 403,
+            "unlock": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 44,
+            "name": "巴鲁克",
+            "sidetagType": 6,
+            "includeTag": [
+                404
+            ],
+            "npc": 404,
+            "unlock": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 99,
+            "name": "不可见页签",
+            "sidetagType": 4,
+            "includeTag": [
+                999
+            ],
+            "npc": 0,
+            "unlock": 0,
+            "globalTab": 0,
+            "sort": 0
+        }
+    ]
+}

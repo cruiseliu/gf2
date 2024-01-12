@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "name": "物理",
+            "nameEn": "Physical",
+            "icon": "Icon_BulletHit_Physical",
+            "color": "c9c8ceFF",
+            "barrackAvaliable": 1,
+            "increase": 40,
+            "resist": 48,
+            "id": 0
+        },
+        {
+            "id": 1,
+            "name": "燃烧",
+            "nameEn": "Fire",
+            "icon": "Icon_BulletHit_Fire",
+            "color": "e56829FF",
+            "barrackAvaliable": 1,
+            "increase": 36,
+            "resist": 44
+        },
+        {
+            "id": 2,
+            "name": "电导",
+            "nameEn": "Electric",
+            "icon": "Icon_BulletHit_Electric",
+            "color": "ebbf21FF",
+            "barrackAvaliable": 1,
+            "increase": 37,
+            "resist": 45
+        },
+        {
+            "id": 3,
+            "name": "冷凝",
+            "nameEn": "Ice",
+            "icon": "Icon_BulletHit_Ice",
+            "color": "42cce0FF",
+            "barrackAvaliable": 1,
+            "increase": 38,
+            "resist": 46
+        },
+        {
+            "id": 4,
+            "name": "酸蚀",
+            "nameEn": "Poison",
+            "icon": "Icon_BulletHit_Poison",
+            "color": "877aebFF",
+            "barrackAvaliable": 1,
+            "increase": 39,
+            "resist": 47
+        },
+        {
+            "id": 5,
+            "name": "浊刻",
+            "nameEn": "Water",
+            "icon": "Icon_BulletHit_Water",
+            "color": "2caadbFF",
+            "barrackAvaliable": 1,
+            "increase": 43,
+            "resist": 51
+        },
+        {
+            "id": 6,
+            "name": "重势",
+            "nameEn": "Soil",
+            "icon": "Icon_BulletHit_Soil",
+            "color": "a57833FF",
+            "barrackAvaliable": 1,
+            "increase": 41,
+            "resist": 49
+        },
+        {
+            "id": 7,
+            "name": "寄生",
+            "nameEn": "Grass",
+            "icon": "Icon_BulletHit_Grass",
+            "color": "95cc43FF",
+            "barrackAvaliable": 1,
+            "increase": 42,
+            "resist": 50
+        }
+    ]
+}

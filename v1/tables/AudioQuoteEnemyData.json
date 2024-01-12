@@ -1,0 +1,1309 @@
+{
+    "data": [
+        {
+            "Id": 6201,
+            "typeCode": 2,
+            "model": "ELID_ThutoadIce",
+            "audioVoice": 14005,
+            "cuesheetUsed": [
+                "EN_ELID_Thutoad"
+            ]
+        },
+        {
+            "Id": 6210,
+            "typeCode": 2,
+            "model": "ELID_HammerThorn",
+            "audioVoice": 14002,
+            "cuesheetUsed": [
+                "EN_ELID_Thorn"
+            ]
+        },
+        {
+            "Id": 6211,
+            "typeCode": 2,
+            "model": "ELID_ThutoadPoison",
+            "audioVoice": 14005,
+            "cuesheetUsed": [
+                "EN_ELID_Thutoad",
+                "EN_ELID_Crocodeer"
+            ]
+        },
+        {
+            "Id": 6213,
+            "typeCode": 2,
+            "model": "ELID_Crismole",
+            "audioVoice": 14003,
+            "cuesheetUsed": [
+                "EN_ELID_Crismole",
+                "EN_ELID_Pitsard"
+            ]
+        },
+        {
+            "Id": 6214,
+            "typeCode": 2,
+            "model": "ELID_Crocodeer",
+            "audioVoice": 14001,
+            "cuesheetUsed": [
+                "EN_ELID_Crocodeer",
+                "EN_ELID_Thutoad",
+                "C_SSR01_Vepley"
+            ]
+        },
+        {
+            "Id": 6215,
+            "typeCode": 2,
+            "model": "ELID_BombBug",
+            "audioVoice": 14004,
+            "cuesheetUsed": [
+                "EN_ELID_LycosaSingoriensis",
+                "EN_ELID_BombBug"
+            ]
+        },
+        {
+            "Id": 6216,
+            "typeCode": 2,
+            "model": "ELID_Bat",
+            "audioVoice": 14006,
+            "cuesheetUsed": [
+                "EN_ELID_Bat"
+            ]
+        },
+        {
+            "Id": 6217,
+            "typeCode": 2,
+            "model": "ELID_Obshare",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6220,
+            "typeCode": 2,
+            "model": "ELID_HammerThornWater",
+            "audioVoice": 14002,
+            "cuesheetUsed": [
+                "EN_ELID_Thorn"
+            ]
+        },
+        {
+            "Id": 6224,
+            "typeCode": 2,
+            "model": "ELID_CrocodeerWater",
+            "audioVoice": 14001,
+            "cuesheetUsed": [
+                "EN_ELID_Crocodeer",
+                "EN_ELID_Thutoad"
+            ]
+        },
+        {
+            "Id": 6234,
+            "typeCode": 2,
+            "model": "ELID_CrocodeerPoison",
+            "audioVoice": 14001,
+            "cuesheetUsed": [
+                "EN_ELID_Crocodeer",
+                "EN_ELID_Thutoad"
+            ]
+        },
+        {
+            "Id": 6241,
+            "typeCode": 2,
+            "model": "ELID_ArrowThornElite",
+            "audioVoice": 14002,
+            "cuesheetUsed": [
+                "EN_ELID_Thorn"
+            ]
+        },
+        {
+            "Id": 6242,
+            "typeCode": 2,
+            "model": "ELID_CrismoleElite",
+            "audioVoice": 14003,
+            "cuesheetUsed": [
+                "EN_ELID_Crismole"
+            ]
+        },
+        {
+            "Id": 6243,
+            "typeCode": 2,
+            "model": "ELID_HammerThornElite",
+            "audioVoice": 14002,
+            "cuesheetUsed": [
+                "EN_ELID_Thorn"
+            ]
+        },
+        {
+            "Id": 6244,
+            "typeCode": 2,
+            "model": "ELID_Spider",
+            "audioVoice": 14004,
+            "cuesheetUsed": [
+                "EN_ELID_LycosaSingoriensis"
+            ]
+        },
+        {
+            "Id": 6245,
+            "typeCode": 2,
+            "model": "ELID_Spider_Little",
+            "audioVoice": 14004,
+            "cuesheetUsed": [
+                "EN_ELID_LycosaSingoriensis"
+            ]
+        },
+        {
+            "Id": 6246,
+            "typeCode": 2,
+            "model": "ELID_Nemertea",
+            "audioVoice": 14007,
+            "cuesheetUsed": [
+                "EN_ELID_Nemertea",
+                "EN_ELID_Crocodeer"
+            ]
+        },
+        {
+            "Id": 6247,
+            "typeCode": 2,
+            "model": "Elid_ScophinxMoths",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6248,
+            "typeCode": 2,
+            "model": "ELID_Nemertea",
+            "audioVoice": 14007,
+            "cuesheetUsed": [
+                "EN_ELID_Nemertea",
+                "EN_ELID_Crocodeer"
+            ]
+        },
+        {
+            "Id": 6273,
+            "typeCode": 2,
+            "model": "ELID_CrismoleSummon",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6851,
+            "typeCode": 2,
+            "model": "CF_Darture",
+            "audioVoice": 11003,
+            "cuesheetUsed": [
+                "EN_CF_Darture",
+                "EN_PLDS_Unitasion"
+            ]
+        },
+        {
+            "Id": 6852,
+            "typeCode": 2,
+            "model": "CF_Darture_evo",
+            "audioVoice": 11004,
+            "cuesheetUsed": [
+                "EN_CF_Darture",
+                "EN_PLDS_Unitasion"
+            ]
+        },
+        {
+            "Id": 6853,
+            "typeCode": 2,
+            "model": "CF_Sextans",
+            "audioVoice": 110001,
+            "cuesheetUsed": [
+                "EN_CF_Sextans",
+                "Gun_HG"
+            ]
+        },
+        {
+            "Id": 6858,
+            "typeCode": 2,
+            "model": "CF_LoseSextans",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6871,
+            "typeCode": 2,
+            "model": "Mecha_Support",
+            "cuesheetUsed": [
+                "EN_Mecha",
+                "C_SR01_Groza",
+                "C_SR_Cheeta"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6872,
+            "typeCode": 2,
+            "model": "Mecha_Supperess",
+            "cuesheetUsed": [
+                "EN_Mecha"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6873,
+            "typeCode": 2,
+            "model": "Mecha_Guard",
+            "cuesheetUsed": [
+                "EN_Mecha"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 20241,
+            "typeCode": 2,
+            "model": "Boss_Ravn_Stun",
+            "cuesheetUsed": [
+                "EN_FB_Ravn"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 69011,
+            "typeCode": 2,
+            "model": "None_TankBaseSummond",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 69012,
+            "typeCode": 2,
+            "model": "None_TankSummond",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6901,
+            "typeCode": 2,
+            "model": "None_TankBase",
+            "cuesheetUsed": [
+                "EN_TankBase",
+                "EN_Tank"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6902,
+            "typeCode": 2,
+            "model": "None_Tank",
+            "cuesheetUsed": [
+                "EN_TankBase",
+                "EN_Tank"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6903,
+            "typeCode": 2,
+            "model": "None_TankEvo",
+            "cuesheetUsed": [
+                "EN_TankBase",
+                "EN_Tank"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6931,
+            "audioVoice": 110,
+            "cuesheetUsed": [
+                "C_SR_Cheeta",
+                "Gun_SMG"
+            ],
+            "typeCode": 0,
+            "model": ""
+        },
+        {
+            "Id": 6936,
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_SMG"
+            ],
+            "typeCode": 0,
+            "model": ""
+        },
+        {
+            "Id": 6941,
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_SMG"
+            ],
+            "typeCode": 0,
+            "model": ""
+        },
+        {
+            "Id": 6951,
+            "typeCode": 2,
+            "model": "EberEvents",
+            "cuesheetUsed": [
+                "EN_Eber"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6952,
+            "typeCode": 2,
+            "model": "EberPig",
+            "cuesheetUsed": [
+                "EN_Eber"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6953,
+            "typeCode": 2,
+            "model": "EberBird",
+            "cuesheetUsed": [
+                "EN_Eber"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6954,
+            "typeCode": 2,
+            "model": "EberRhino",
+            "cuesheetUsed": [
+                "EN_Eber"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 7001,
+            "typeCode": 2,
+            "model": "MISC_Explosive",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7002,
+            "typeCode": 2,
+            "model": "CF_Turret_Gatling",
+            "cuesheetUsed": [
+                "EN_MISC_Turret",
+                "Gatling"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 7003,
+            "typeCode": 2,
+            "model": "MISC_TurretGrenade",
+            "cuesheetUsed": [
+                "EN_MISC_Turret"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 7004,
+            "typeCode": 2,
+            "model": "MISC_Jerrican",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7005,
+            "typeCode": 2,
+            "model": "MISC_GasCylinders",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7006,
+            "typeCode": 2,
+            "model": "MISC_TurretDefense",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7007,
+            "typeCode": 2,
+            "model": "MISC_TurretGrenade",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7008,
+            "typeCode": 2,
+            "model": "CF_MachineGun_orange",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7009,
+            "typeCode": 2,
+            "model": "CF_MachineGun_white",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7011,
+            "typeCode": 2,
+            "model": "MISC_EnemyTokenWarning",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7014,
+            "typeCode": 2,
+            "model": "ELID_Nemertea_Summon01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7016,
+            "typeCode": 2,
+            "model": "MISC_EnemyToken",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7017,
+            "typeCode": 2,
+            "model": "ELID_Thutoad_Summon01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7018,
+            "typeCode": 2,
+            "model": "CF_Darture_evo_Summon01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7021,
+            "typeCode": 2,
+            "model": "MISC_Landmine_01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 7022,
+            "typeCode": 2,
+            "model": "ELID_SpawnerLite",
+            "cuesheetUsed": [
+                "EN_Elid_Spawner"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 7023,
+            "typeCode": 2,
+            "model": "ELID_SpawnerStandard",
+            "cuesheetUsed": [
+                "EN_Elid_Spawner"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 7024,
+            "typeCode": 2,
+            "model": "ELID_MacrophageSpawner",
+            "cuesheetUsed": [
+                "EN_Elid_Spawner"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 9006,
+            "typeCode": 2,
+            "model": "CF_Sextans_Default_Summon01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 9008,
+            "typeCode": 2,
+            "model": "CF_Sextans_Default_Summon03",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 66347,
+            "typeCode": 2,
+            "model": "TX_SmallGoliath",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 68721,
+            "typeCode": 2,
+            "model": "Mecha_Device",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 68731,
+            "typeCode": 2,
+            "model": "Mecha_Device2",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 693601,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 693602,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 693603,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 693604,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5015,
+            "typeCode": 2,
+            "model": "RX_VepleySSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5031,
+            "typeCode": 2,
+            "model": "RX_CharolicSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5032,
+            "typeCode": 2,
+            "model": "RX_NemesisSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5033,
+            "typeCode": 2,
+            "model": "RX_ColphneSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5035,
+            "typeCode": 2,
+            "model": "RX_GrozaSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5036,
+            "typeCode": 2,
+            "model": "RX_PerityaSSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5039,
+            "typeCode": 2,
+            "model": "RX_SharkrySR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5040,
+            "typeCode": 2,
+            "model": "RX_CheetaSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5041,
+            "typeCode": 2,
+            "model": "RX_TololoSSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5042,
+            "typeCode": 2,
+            "model": "RX_NagantSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5043,
+            "typeCode": 2,
+            "model": "RX_QiongjiuSSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5044,
+            "typeCode": 2,
+            "model": "RX_CentaureissiSSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5045,
+            "typeCode": 2,
+            "model": "RX_SabrinaSSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 5046,
+            "typeCode": 2,
+            "model": "RX_DaiyanSSR01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6601,
+            "typeCode": 2,
+            "model": "None_MotorDrivenN1",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6602,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 62019,
+            "typeCode": 2,
+            "model": "FB_TargetMachineKing",
+            "cuesheetUsed": [
+                "EN_TargetMachineKing",
+                "EN_FB_Ravn",
+                "Common_EN_Gold"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 62020,
+            "typeCode": 2,
+            "model": "FB_TargetMachineN1",
+            "cuesheetUsed": [
+                "Common_EN_Gold"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 62021,
+            "typeCode": 2,
+            "model": "FB_TargetMachineN2",
+            "cuesheetUsed": [
+                "Common_EN_Gold"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 66021,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 68521,
+            "typeCode": 2,
+            "model": "MISC_EnemyBeTokenWarning",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 96345,
+            "typeCode": 2,
+            "model": "ELID_Thutoad_Summon02",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 96347,
+            "typeCode": 2,
+            "model": "Hole",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 693101,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 693102,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 693103,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 1000,
+            "typeCode": 1,
+            "model": "PlayerToken",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6110,
+            "typeCode": 2,
+            "model": "FB_Felade",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_SMG"
+            ]
+        },
+        {
+            "Id": 6111,
+            "typeCode": 2,
+            "model": "FB_Felaskju",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_RF"
+            ]
+        },
+        {
+            "Id": 6112,
+            "typeCode": 2,
+            "model": "FB_Felaste",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_HG"
+            ]
+        },
+        {
+            "Id": 6113,
+            "typeCode": 2,
+            "model": "FB_Svejk",
+            "cuesheetUsed": [
+                "EN_FB_Sevjk",
+                "Gun_MG"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6114,
+            "typeCode": 2,
+            "model": "FB_Guard",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "Gun_HG"
+            ]
+        },
+        {
+            "Id": 6115,
+            "typeCode": 2,
+            "model": "FB_Heal",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "Gun_HG",
+                "EN_FB_Heal"
+            ]
+        },
+        {
+            "Id": 6116,
+            "typeCode": 2,
+            "model": "FB_Pincer",
+            "audioVoice": 12001,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6120,
+            "typeCode": 2,
+            "model": "FB_Felade_Fire",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_SMG"
+            ]
+        },
+        {
+            "Id": 6121,
+            "typeCode": 2,
+            "model": "FB_Felaskju_Fire",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_RF"
+            ]
+        },
+        {
+            "Id": 6122,
+            "typeCode": 2,
+            "model": "FB_Felaste_Fire",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_HG",
+                "EN_FB_Felaste"
+            ]
+        },
+        {
+            "Id": 6130,
+            "typeCode": 2,
+            "model": "FB_Felade_Electric",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "Gun_SMG"
+            ]
+        },
+        {
+            "Id": 6131,
+            "typeCode": 2,
+            "model": "FB_Felaskju_Electric",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_ZY",
+                "Gun_RF"
+            ]
+        },
+        {
+            "Id": 6141,
+            "typeCode": 2,
+            "model": "FB_FeladeCaptain",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "Gun_SMG",
+                "EN_FB_Felaste",
+                "EN_FB_ZY"
+            ]
+        },
+        {
+            "Id": 6143,
+            "typeCode": 2,
+            "model": "FB_Commander",
+            "audioVoice": 12001,
+            "cuesheetUsed": [
+                "EN_FB_Commander"
+            ]
+        },
+        {
+            "Id": 6151,
+            "typeCode": 2,
+            "model": "Boss_Tosk",
+            "audioVoice": 12003,
+            "cuesheetUsed": [
+                "EN_FB_Ravn"
+            ]
+        },
+        {
+            "Id": 6169,
+            "typeCode": 2,
+            "model": "Boss_Ravn",
+            "audioVoice": 12003,
+            "cuesheetUsed": [
+                "EN_FB_Ravn"
+            ]
+        },
+        {
+            "Id": 6171,
+            "typeCode": 2,
+            "model": "FB_Oljefat",
+            "audioVoice": 12002,
+            "cuesheetUsed": [
+                "EN_FB_Oljefat"
+            ]
+        },
+        {
+            "Id": 6311,
+            "typeCode": 2,
+            "model": "TX_AegisFrontsight",
+            "cuesheetUsed": [
+                "EN_TX_AegisFrontsight"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6312,
+            "typeCode": 2,
+            "model": "TX_GolyatBlack",
+            "cuesheetUsed": [
+                "EN_TX_Golyat"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6313,
+            "typeCode": 2,
+            "model": "TX_Dinergate",
+            "cuesheetUsed": [
+                "EN_TX_Dinergate",
+                "EN_TX_Golyat"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6314,
+            "typeCode": 2,
+            "model": "TX_AegisWall",
+            "cuesheetUsed": [
+                "EN_TX_AegisWall"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6315,
+            "typeCode": 2,
+            "model": "TX_AegisMelee",
+            "cuesheetUsed": [
+                "EN_TX_AegisMelee"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6316,
+            "typeCode": 2,
+            "model": "TX_AegisSuppress",
+            "cuesheetUsed": [
+                "EN_TX_AegisSuppress"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6317,
+            "typeCode": 2,
+            "model": "TX_MachineSpider",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6321,
+            "typeCode": 2,
+            "model": "TX_AegisFrontsightElectric",
+            "cuesheetUsed": [
+                "EN_TX_AegisFrontsight"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6322,
+            "typeCode": 2,
+            "model": "TX_GolyatElectric",
+            "cuesheetUsed": [
+                "EN_TX_Golyat"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6332,
+            "typeCode": 2,
+            "model": "TX_GolyatIce",
+            "cuesheetUsed": [
+                "EN_TX_Golyat"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6334,
+            "typeCode": 2,
+            "model": "TX_AegisWallIce",
+            "cuesheetUsed": [
+                "EN_TX_AegisWall"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6340,
+            "typeCode": 2,
+            "model": "TX_AegisArtillery_SWAP",
+            "cuesheetUsed": [
+                "EN_TX_AegisArtillery"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6341,
+            "typeCode": 2,
+            "model": "TX_AegisEdgeSWAP",
+            "cuesheetUsed": [
+                "EN_TX_AegisMelee"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6342,
+            "typeCode": 2,
+            "model": "TX_ScoutBlack",
+            "cuesheetUsed": [
+                "EN_TX_ScoutElite",
+                "EN_TX_Scout"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6344,
+            "typeCode": 2,
+            "model": "TX_AegisWallSWAP",
+            "cuesheetUsed": [
+                "EN_TX_AegisWall"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6345,
+            "typeCode": 2,
+            "model": "TX_AegisJetpack",
+            "cuesheetUsed": [
+                "EN_TX_AegisWall",
+                "EN_TX_AegisJetpack"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6347,
+            "typeCode": 2,
+            "model": "TX_AegisLeah",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6410,
+            "typeCode": 2,
+            "model": "PLDS_U023Melee",
+            "cuesheetUsed": [
+                "EN_PLDS_U023"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6411,
+            "typeCode": 2,
+            "model": "PLDS_U047SMG",
+            "cuesheetUsed": [
+                "EN_PLDS_U047"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6412,
+            "typeCode": 2,
+            "model": "PLDS_U039Sniper",
+            "cuesheetUsed": [
+                "EN_PLDS_U039"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6413,
+            "typeCode": 2,
+            "model": "PLDS_U015Support",
+            "cuesheetUsed": [
+                "EN_PLDS_U015"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6414,
+            "typeCode": 2,
+            "model": "PLDS_U033Sniper",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 6420,
+            "typeCode": 2,
+            "model": "PLDS_U023Melee_Fire",
+            "cuesheetUsed": [
+                "EN_PLDS_U023"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6421,
+            "typeCode": 2,
+            "model": "PLDS_U047SMG_Fire",
+            "cuesheetUsed": [
+                "EN_PLDS_U047"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6422,
+            "typeCode": 2,
+            "model": "PLDS_U039Sniper_Fire",
+            "cuesheetUsed": [
+                "EN_PLDS_U039"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6423,
+            "typeCode": 2,
+            "model": "PLDS_U015Support_Fire",
+            "cuesheetUsed": [
+                "EN_PLDS_U015"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6430,
+            "typeCode": 2,
+            "model": "PLDS_U023Melee_Poison",
+            "cuesheetUsed": [
+                "EN_PLDS_U023"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6431,
+            "typeCode": 2,
+            "model": "PLDS_U047SMG_Poison",
+            "cuesheetUsed": [
+                "EN_PLDS_U047",
+                "EN_PLDS_U023"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6432,
+            "typeCode": 2,
+            "model": "PLDS_U039Sniper_Poison",
+            "cuesheetUsed": [
+                "EN_PLDS_U039",
+                "EN_PLDS_U023"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6433,
+            "typeCode": 2,
+            "model": "PLDS_U015Support_Poison",
+            "cuesheetUsed": [
+                "EN_PLDS_U015"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6441,
+            "typeCode": 2,
+            "model": "PLDS_Niter249",
+            "audioVoice": 13001,
+            "cuesheetUsed": [
+                "EN_PLDS_Niter"
+            ]
+        },
+        {
+            "Id": 6442,
+            "typeCode": 2,
+            "model": "PLDS_UnitasIon",
+            "audioVoice": 13003,
+            "cuesheetUsed": [
+                "EN_PLDS_Unitasion"
+            ]
+        },
+        {
+            "Id": 6443,
+            "typeCode": 2,
+            "model": "PLDS_UnitasIonN2",
+            "audioVoice": 13003,
+            "cuesheetUsed": [
+                "EN_PLDS_Unitasion"
+            ]
+        },
+        {
+            "Id": 6481,
+            "typeCode": 2,
+            "model": "PLDS_Bellator137",
+            "cuesheetUsed": [
+                "EN_PLDS_Unitasion"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 6482,
+            "typeCode": 2,
+            "model": "PLDS_Bellator212",
+            "cuesheetUsed": [
+                "EN_PLDS_Unitasion"
+            ],
+            "audioVoice": 0
+        },
+        {
+            "Id": 69511,
+            "typeCode": 2,
+            "model": "Eber_Summond01",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 69531,
+            "typeCode": 2,
+            "model": "Eber_Summond02",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 69532,
+            "typeCode": 2,
+            "model": "Eber_Summond03",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 69533,
+            "typeCode": 2,
+            "model": "Eber_Summond04",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 69534,
+            "typeCode": 2,
+            "model": "Eber_Summond05",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 96141,
+            "typeCode": 2,
+            "model": "FB_FeladeCaptain",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 694101,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 694102,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        },
+        {
+            "Id": 694103,
+            "typeCode": 0,
+            "model": "",
+            "audioVoice": 0,
+            "cuesheetUsed": []
+        }
+    ]
+}

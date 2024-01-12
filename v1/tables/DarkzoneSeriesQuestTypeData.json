@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 101,
+            "icon": "Img_DarkzoneMode_Type_1",
+            "name": "消灭",
+            "englishName": "darkzone_questtype_assassination"
+        },
+        {
+            "id": 102,
+            "icon": "Img_DarkzoneMode_Type_2",
+            "name": "全身而退",
+            "englishName": "darkzone_questtype_capture"
+        },
+        {
+            "id": 103,
+            "icon": "Img_DarkzoneMode_Type_2",
+            "name": "全身而退",
+            "englishName": "darkzone_questtype_annihilation"
+        },
+        {
+            "id": 104,
+            "icon": "darkzone_questtype_104",
+            "name": "劫持",
+            "englishName": "darkzone_questtype_hijack"
+        },
+        {
+            "id": 105,
+            "icon": "darkzone_questtype_105",
+            "name": "移动防御",
+            "englishName": "darkzone_questtype_mobile defense"
+        },
+        {
+            "id": 106,
+            "icon": "darkzone_questtype_106",
+            "name": "救援",
+            "englishName": "darkzone_questtype_rescue"
+        },
+        {
+            "id": 107,
+            "icon": "Img_DarkzoneMode_Type_3",
+            "name": "生存",
+            "englishName": "darkzone_questtype_existence"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 11000,
+            "name": "开始战役",
+            "type": 1,
+            "sort": 1,
+            "icon": "",
+            "globalTab": 0
+        },
+        {
+            "id": 12000,
+            "name": "整备室",
+            "type": 2,
+            "sort": 1,
+            "icon": "Icon_CommandCenter_Barrack",
+            "globalTab": 11
+        },
+        {
+            "id": 13000,
+            "name": "招募",
+            "type": 2,
+            "sort": 4,
+            "icon": "Icon_CommandCenter_Gashapon",
+            "globalTab": 14
+        },
+        {
+            "id": 16000,
+            "name": "商城",
+            "type": 2,
+            "sort": 5,
+            "icon": "Icon_CommandCenter_Gashapon",
+            "globalTab": 15
+        },
+        {
+            "id": 24000,
+            "name": "委托",
+            "type": 2,
+            "sort": 3,
+            "icon": "Icon_CommandCenter_DailyQuest",
+            "globalTab": 13
+        },
+        {
+            "id": 29202,
+            "name": "活动",
+            "type": 2,
+            "sort": 2,
+            "icon": "Icon_CommandCenter_Activity",
+            "globalTab": 12
+        }
+    ]
+}

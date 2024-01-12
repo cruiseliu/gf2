@@ -1,0 +1,652 @@
+{
+    "data": [
+        {
+            "id": 10,
+            "group": 11501,
+            "storeId": 4,
+            "weight": 100
+        },
+        {
+            "id": 11,
+            "group": 20401,
+            "storeId": 1,
+            "weight": 180
+        },
+        {
+            "id": 12,
+            "group": 20401,
+            "storeId": 15,
+            "weight": 180
+        },
+        {
+            "id": 13,
+            "group": 20401,
+            "storeId": 26,
+            "weight": 180
+        },
+        {
+            "id": 14,
+            "group": 20401,
+            "storeId": 22,
+            "weight": 180
+        },
+        {
+            "id": 15,
+            "group": 20401,
+            "storeId": 4,
+            "weight": 180
+        },
+        {
+            "id": 16,
+            "group": 20401,
+            "storeId": 29,
+            "weight": 50
+        },
+        {
+            "id": 17,
+            "group": 20401,
+            "storeId": 30,
+            "weight": 50
+        },
+        {
+            "id": 18,
+            "group": 21501,
+            "storeId": 1,
+            "weight": 180
+        },
+        {
+            "id": 19,
+            "group": 21501,
+            "storeId": 15,
+            "weight": 180
+        },
+        {
+            "id": 30,
+            "group": 21701,
+            "storeId": 29,
+            "weight": 50
+        },
+        {
+            "id": 31,
+            "group": 21701,
+            "storeId": 30,
+            "weight": 50
+        },
+        {
+            "id": 32,
+            "group": 30401,
+            "storeId": 1,
+            "weight": 140
+        },
+        {
+            "id": 33,
+            "group": 30401,
+            "storeId": 15,
+            "weight": 140
+        },
+        {
+            "id": 34,
+            "group": 30401,
+            "storeId": 26,
+            "weight": 140
+        },
+        {
+            "id": 35,
+            "group": 30401,
+            "storeId": 22,
+            "weight": 140
+        },
+        {
+            "id": 36,
+            "group": 30401,
+            "storeId": 35,
+            "weight": 140
+        },
+        {
+            "id": 37,
+            "group": 30401,
+            "storeId": 4,
+            "weight": 140
+        },
+        {
+            "id": 38,
+            "group": 30401,
+            "storeId": 29,
+            "weight": 100
+        },
+        {
+            "id": 39,
+            "group": 30401,
+            "storeId": 18,
+            "weight": 50
+        },
+        {
+            "id": 50,
+            "group": 40401,
+            "storeId": 26,
+            "weight": 140
+        },
+        {
+            "id": 51,
+            "group": 40401,
+            "storeId": 22,
+            "weight": 140
+        },
+        {
+            "id": 52,
+            "group": 40401,
+            "storeId": 35,
+            "weight": 140
+        },
+        {
+            "id": 53,
+            "group": 40401,
+            "storeId": 4,
+            "weight": 140
+        },
+        {
+            "id": 54,
+            "group": 40401,
+            "storeId": 29,
+            "weight": 100
+        },
+        {
+            "id": 55,
+            "group": 40401,
+            "storeId": 18,
+            "weight": 50
+        },
+        {
+            "id": 56,
+            "group": 50401,
+            "storeId": 1,
+            "weight": 105
+        },
+        {
+            "id": 57,
+            "group": 50401,
+            "storeId": 15,
+            "weight": 105
+        },
+        {
+            "id": 58,
+            "group": 50401,
+            "storeId": 26,
+            "weight": 105
+        },
+        {
+            "id": 59,
+            "group": 50401,
+            "storeId": 22,
+            "weight": 105
+        },
+        {
+            "id": 70,
+            "group": 60401,
+            "storeId": 29,
+            "weight": 200
+        },
+        {
+            "id": 71,
+            "group": 60401,
+            "storeId": 7,
+            "weight": 250
+        },
+        {
+            "id": 72,
+            "group": 60401,
+            "storeId": 32,
+            "weight": 150
+        },
+        {
+            "id": 73,
+            "group": 60401,
+            "storeId": 40,
+            "weight": 50
+        },
+        {
+            "id": 74,
+            "group": 60401,
+            "storeId": 20,
+            "weight": 150
+        },
+        {
+            "id": 75,
+            "group": 60501,
+            "storeId": 1,
+            "weight": 60
+        },
+        {
+            "id": 76,
+            "group": 60501,
+            "storeId": 15,
+            "weight": 60
+        },
+        {
+            "id": 77,
+            "group": 60501,
+            "storeId": 26,
+            "weight": 60
+        },
+        {
+            "id": 78,
+            "group": 60501,
+            "storeId": 22,
+            "weight": 60
+        },
+        {
+            "id": 79,
+            "group": 60501,
+            "storeId": 35,
+            "weight": 60
+        },
+        {
+            "id": 100,
+            "group": 72001,
+            "storeId": 26,
+            "weight": 100
+        },
+        {
+            "id": 101,
+            "group": 72001,
+            "storeId": 22,
+            "weight": 100
+        },
+        {
+            "id": 102,
+            "group": 72001,
+            "storeId": 35,
+            "weight": 100
+        },
+        {
+            "id": 103,
+            "group": 72001,
+            "storeId": 29,
+            "weight": 180
+        },
+        {
+            "id": 104,
+            "group": 72001,
+            "storeId": 7,
+            "weight": 80
+        },
+        {
+            "id": 105,
+            "group": 72001,
+            "storeId": 44,
+            "weight": 80
+        },
+        {
+            "id": 106,
+            "group": 72001,
+            "storeId": 20,
+            "weight": 0
+        },
+        {
+            "id": 107,
+            "group": 72001,
+            "storeId": 11,
+            "weight": 100
+        },
+        {
+            "id": 108,
+            "group": 72001,
+            "storeId": 25,
+            "weight": 200
+        },
+        {
+            "id": 1,
+            "group": 10401,
+            "storeId": 1,
+            "weight": 100
+        },
+        {
+            "id": 2,
+            "group": 10401,
+            "storeId": 15,
+            "weight": 100
+        },
+        {
+            "id": 3,
+            "group": 10401,
+            "storeId": 26,
+            "weight": 100
+        },
+        {
+            "id": 4,
+            "group": 10401,
+            "storeId": 22,
+            "weight": 100
+        },
+        {
+            "id": 5,
+            "group": 10401,
+            "storeId": 4,
+            "weight": 100
+        },
+        {
+            "id": 6,
+            "group": 11501,
+            "storeId": 1,
+            "weight": 100
+        },
+        {
+            "id": 7,
+            "group": 11501,
+            "storeId": 15,
+            "weight": 100
+        },
+        {
+            "id": 8,
+            "group": 11501,
+            "storeId": 26,
+            "weight": 100
+        },
+        {
+            "id": 9,
+            "group": 11501,
+            "storeId": 22,
+            "weight": 100
+        },
+        {
+            "id": 40,
+            "group": 31501,
+            "storeId": 1,
+            "weight": 140
+        },
+        {
+            "id": 41,
+            "group": 31501,
+            "storeId": 15,
+            "weight": 140
+        },
+        {
+            "id": 42,
+            "group": 31501,
+            "storeId": 26,
+            "weight": 140
+        },
+        {
+            "id": 43,
+            "group": 31501,
+            "storeId": 22,
+            "weight": 140
+        },
+        {
+            "id": 44,
+            "group": 31501,
+            "storeId": 35,
+            "weight": 140
+        },
+        {
+            "id": 45,
+            "group": 31501,
+            "storeId": 4,
+            "weight": 140
+        },
+        {
+            "id": 46,
+            "group": 31501,
+            "storeId": 29,
+            "weight": 100
+        },
+        {
+            "id": 47,
+            "group": 31501,
+            "storeId": 18,
+            "weight": 50
+        },
+        {
+            "id": 48,
+            "group": 40401,
+            "storeId": 1,
+            "weight": 140
+        },
+        {
+            "id": 49,
+            "group": 40401,
+            "storeId": 15,
+            "weight": 140
+        },
+        {
+            "id": 60,
+            "group": 50401,
+            "storeId": 35,
+            "weight": 105
+        },
+        {
+            "id": 61,
+            "group": 50401,
+            "storeId": 4,
+            "weight": 105
+        },
+        {
+            "id": 62,
+            "group": 50401,
+            "storeId": 29,
+            "weight": 100
+        },
+        {
+            "id": 63,
+            "group": 50401,
+            "storeId": 7,
+            "weight": 200
+        },
+        {
+            "id": 64,
+            "group": 50401,
+            "storeId": 38,
+            "weight": 50
+        },
+        {
+            "id": 65,
+            "group": 60401,
+            "storeId": 1,
+            "weight": 40
+        },
+        {
+            "id": 66,
+            "group": 60401,
+            "storeId": 15,
+            "weight": 40
+        },
+        {
+            "id": 67,
+            "group": 60401,
+            "storeId": 26,
+            "weight": 40
+        },
+        {
+            "id": 68,
+            "group": 60401,
+            "storeId": 22,
+            "weight": 40
+        },
+        {
+            "id": 69,
+            "group": 60401,
+            "storeId": 35,
+            "weight": 40
+        },
+        {
+            "id": 80,
+            "group": 60501,
+            "storeId": 30,
+            "weight": 200
+        },
+        {
+            "id": 81,
+            "group": 60501,
+            "storeId": 7,
+            "weight": 250
+        },
+        {
+            "id": 82,
+            "group": 60501,
+            "storeId": 32,
+            "weight": 30
+        },
+        {
+            "id": 83,
+            "group": 60501,
+            "storeId": 42,
+            "weight": 60
+        },
+        {
+            "id": 84,
+            "group": 60501,
+            "storeId": 20,
+            "weight": 30
+        },
+        {
+            "id": 85,
+            "group": 60501,
+            "storeId": 13,
+            "weight": 60
+        },
+        {
+            "id": 86,
+            "group": 60501,
+            "storeId": 11,
+            "weight": 60
+        },
+        {
+            "id": 87,
+            "group": 70401,
+            "storeId": 1,
+            "weight": 100
+        },
+        {
+            "id": 88,
+            "group": 70401,
+            "storeId": 15,
+            "weight": 60
+        },
+        {
+            "id": 89,
+            "group": 70401,
+            "storeId": 26,
+            "weight": 100
+        },
+        {
+            "id": 90,
+            "group": 70401,
+            "storeId": 22,
+            "weight": 100
+        },
+        {
+            "id": 91,
+            "group": 70401,
+            "storeId": 35,
+            "weight": 100
+        },
+        {
+            "id": 92,
+            "group": 70401,
+            "storeId": 29,
+            "weight": 180
+        },
+        {
+            "id": 93,
+            "group": 70401,
+            "storeId": 7,
+            "weight": 80
+        },
+        {
+            "id": 94,
+            "group": 70401,
+            "storeId": 44,
+            "weight": 80
+        },
+        {
+            "id": 95,
+            "group": 70401,
+            "storeId": 20,
+            "weight": 0
+        },
+        {
+            "id": 96,
+            "group": 70401,
+            "storeId": 11,
+            "weight": 100
+        },
+        {
+            "id": 97,
+            "group": 70401,
+            "storeId": 25,
+            "weight": 200
+        },
+        {
+            "id": 98,
+            "group": 72001,
+            "storeId": 1,
+            "weight": 100
+        },
+        {
+            "id": 99,
+            "group": 72001,
+            "storeId": 15,
+            "weight": 60
+        },
+        {
+            "id": 20,
+            "group": 21501,
+            "storeId": 26,
+            "weight": 180
+        },
+        {
+            "id": 21,
+            "group": 21501,
+            "storeId": 22,
+            "weight": 180
+        },
+        {
+            "id": 22,
+            "group": 21501,
+            "storeId": 4,
+            "weight": 180
+        },
+        {
+            "id": 23,
+            "group": 21501,
+            "storeId": 29,
+            "weight": 50
+        },
+        {
+            "id": 24,
+            "group": 21501,
+            "storeId": 30,
+            "weight": 50
+        },
+        {
+            "id": 25,
+            "group": 21701,
+            "storeId": 1,
+            "weight": 180
+        },
+        {
+            "id": 26,
+            "group": 21701,
+            "storeId": 15,
+            "weight": 180
+        },
+        {
+            "id": 27,
+            "group": 21701,
+            "storeId": 26,
+            "weight": 180
+        },
+        {
+            "id": 28,
+            "group": 21701,
+            "storeId": 22,
+            "weight": 180
+        },
+        {
+            "id": 29,
+            "group": 21701,
+            "storeId": 4,
+            "weight": 180
+        }
+    ]
+}

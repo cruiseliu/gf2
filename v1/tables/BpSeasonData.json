@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": 30001,
+            "name": "远航巡录",
+            "advanced1Name": "猎人捷径",
+            "advanced2Name": "暗商密径",
+            "levelupAdvanced2Name": "暗商密约",
+            "maxLevel": 50,
+            "upgradeExp": 100,
+            "extraExp": 100,
+            "extraReward": {
+                "110026": 1
+            },
+            "extraUnlockReward": {
+                "110027": 1
+            },
+            "rewardId": 1
+        },
+        {
+            "id": 30002,
+            "name": "远航巡录",
+            "advanced1Name": "猎人捷径",
+            "advanced2Name": "暗商密径",
+            "levelupAdvanced2Name": "暗商密约",
+            "maxLevel": 50,
+            "upgradeExp": 100,
+            "extraExp": 100,
+            "extraReward": {
+                "110026": 1
+            },
+            "extraUnlockReward": {
+                "110027": 1
+            },
+            "rewardId": 2
+        }
+    ]
+}

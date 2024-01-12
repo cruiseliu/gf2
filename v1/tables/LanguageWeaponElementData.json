@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "name": "轻型弹",
+            "nameEn": "A",
+            "icon": "Icon_BulletHit_Light",
+            "color": "95cc43FF",
+            "barrackAvaliable": 1,
+            "increase": 0,
+            "resist": 0
+        },
+        {
+            "id": 4,
+            "name": "中型弹",
+            "nameEn": "B",
+            "icon": "Icon_BulletHit_Middle",
+            "color": "95cc43FF",
+            "barrackAvaliable": 1,
+            "increase": 0,
+            "resist": 0
+        },
+        {
+            "id": 8,
+            "name": "重型弹",
+            "nameEn": "C",
+            "icon": "Icon_BulletHit_Heavy",
+            "color": "95cc43FF",
+            "barrackAvaliable": 1,
+            "increase": 0,
+            "resist": 0
+        },
+        {
+            "id": 16,
+            "name": "近战",
+            "nameEn": "D",
+            "icon": "Icon_BulletHit_Melee",
+            "color": "95cc43FF",
+            "barrackAvaliable": 1,
+            "increase": 0,
+            "resist": 0
+        },
+        {
+            "id": 32,
+            "name": "霰弹",
+            "nameEn": "E",
+            "icon": "Icon_BulletHit_Shot",
+            "color": "95cc43FF",
+            "barrackAvaliable": 1,
+            "increase": 0,
+            "resist": 0
+        }
+    ]
+}

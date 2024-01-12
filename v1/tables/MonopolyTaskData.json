@@ -1,0 +1,259 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "monopolyConfig": 1,
+            "name": "每日指标1",
+            "des": "进入<color=#f26c1c>1</color>次追缉协奏曲界面",
+            "sequence": 1,
+            "actionParam": true,
+            "conditionClass": 901,
+            "conditionNum": 1,
+            "rewardList": [
+                "2:500",
+                "170001:15"
+            ],
+            "unlock": 0
+        },
+        {
+            "id": 2,
+            "monopolyConfig": 1,
+            "name": "每日指标2",
+            "des": "完成<color=#f26c1c>1</color>次追缉协奏曲的任意关卡（包含自律）",
+            "sequence": 1,
+            "actionParam": true,
+            "conditionClass": 906,
+            "conditionNum": 1,
+            "rewardList": [
+                "2:500",
+                "170001:15"
+            ],
+            "unlock": 0
+        },
+        {
+            "id": 3,
+            "monopolyConfig": 1,
+            "name": "固定指标1",
+            "des": "解锁<color=#f26c1c>3</color>个指令图鉴（使用对应指令可解锁图鉴）",
+            "sequence": 1,
+            "conditionClass": 908,
+            "conditionNum": 3,
+            "rewardList": [
+                "2:1000",
+                "170003:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 4,
+            "monopolyConfig": 1,
+            "name": "固定指标2",
+            "des": "解锁<color=#f26c1c>5</color>个指令图鉴（使用对应指令可解锁图鉴）",
+            "sequence": 2,
+            "conditionClass": 908,
+            "conditionNum": 5,
+            "rewardList": [
+                "2:1000",
+                "170004:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 5,
+            "monopolyConfig": 1,
+            "name": "固定指标3",
+            "des": "解锁<color=#f26c1c>7</color>个指令图鉴（使用对应指令可解锁图鉴）",
+            "sequence": 3,
+            "conditionClass": 908,
+            "conditionNum": 7,
+            "rewardList": [
+                "2:1000",
+                "170005:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 6,
+            "monopolyConfig": 1,
+            "name": "固定指标4",
+            "des": "解锁<color=#f26c1c>9</color>个指令图鉴（使用对应指令可解锁图鉴）",
+            "sequence": 4,
+            "conditionClass": 908,
+            "conditionNum": 9,
+            "rewardList": [
+                "2:1000",
+                "170006:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 7,
+            "monopolyConfig": 1,
+            "name": "固定指标5",
+            "des": "解锁<color=#f26c1c>12</color>个指令图鉴（使用对应指令可解锁图鉴）",
+            "sequence": 5,
+            "conditionClass": 908,
+            "conditionNum": 12,
+            "rewardList": [
+                "2:1000",
+                "170007:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 8,
+            "monopolyConfig": 1,
+            "name": "固定指标6",
+            "des": "使用<color=#f26c1c>20</color>次任意等级的移动指令",
+            "sequence": 6,
+            "conditionClass": 910,
+            "conditionNum": 20,
+            "rewardList": [
+                "2:1000",
+                "170005:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 9,
+            "monopolyConfig": 1,
+            "name": "固定指标7",
+            "des": "使用<color=#f26c1c>10</color>次任意等级的遥控指令",
+            "sequence": 7,
+            "conditionClass": 910,
+            "conditionNum": 10,
+            "rewardList": [
+                "2:1000",
+                "170006:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 10,
+            "monopolyConfig": 1,
+            "name": "固定指标8",
+            "des": "使用<color=#f26c1c>10</color>次任意等级的稳态组件",
+            "sequence": 8,
+            "conditionClass": 910,
+            "conditionNum": 10,
+            "rewardList": [
+                "2:1000",
+                "170007:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 11,
+            "monopolyConfig": 1,
+            "name": "固定指标9",
+            "des": "使用<color=#f26c1c>10</color>次任意等级的应急电源",
+            "sequence": 9,
+            "conditionClass": 910,
+            "conditionNum": 10,
+            "rewardList": [
+                "2:1000",
+                "170003:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 12,
+            "monopolyConfig": 1,
+            "name": "固定指标10",
+            "des": "使用<color=#f26c1c>5</color>次任意等级的地锁",
+            "sequence": 10,
+            "conditionClass": 910,
+            "conditionNum": 5,
+            "rewardList": [
+                "2:1000",
+                "170004:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 13,
+            "monopolyConfig": 1,
+            "name": "固定指标11",
+            "des": "使用<color=#f26c1c>5</color>次任意等级的临时护盾",
+            "sequence": 11,
+            "conditionClass": 910,
+            "conditionNum": 5,
+            "rewardList": [
+                "2:1000",
+                "170007:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 14,
+            "monopolyConfig": 1,
+            "name": "固定指标12",
+            "des": "使用<color=#f26c1c>5</color>次任意等级的引雷针",
+            "sequence": 12,
+            "conditionClass": 910,
+            "conditionNum": 5,
+            "rewardList": [
+                "2:1000",
+                "170006:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 15,
+            "monopolyConfig": 1,
+            "name": "固定指标15",
+            "des": "使用<color=#f26c1c>5</color>次任意等级的全自动压路机",
+            "sequence": 15,
+            "conditionClass": 910,
+            "conditionNum": 5,
+            "rewardList": [
+                "2:1000",
+                "170003:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 16,
+            "monopolyConfig": 1,
+            "name": "固定指标13",
+            "des": "使用<color=#f26c1c>5</color>次任意等级的清障套组",
+            "sequence": 13,
+            "conditionClass": 910,
+            "conditionNum": 5,
+            "rewardList": [
+                "2:1000",
+                "170005:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        },
+        {
+            "id": 17,
+            "monopolyConfig": 1,
+            "name": "固定指标14",
+            "des": "使用<color=#f26c1c>5</color>次任意等级的禁行标识",
+            "sequence": 14,
+            "conditionClass": 910,
+            "conditionNum": 5,
+            "rewardList": [
+                "2:1000",
+                "170004:2"
+            ],
+            "actionParam": false,
+            "unlock": 0
+        }
+    ]
+}

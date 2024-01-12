@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "防卫",
+            "enName": "Guard",
+            "abbr": "Guard",
+            "icon": "Icon_Professional_Guard"
+        },
+        {
+            "id": 2,
+            "name": "尖兵",
+            "enName": "Scout",
+            "abbr": "Scout",
+            "icon": "Icon_Professional_Scout"
+        },
+        {
+            "id": 3,
+            "name": "支援",
+            "enName": "Assist",
+            "abbr": "Assist",
+            "icon": "Icon_Professional_Assist"
+        },
+        {
+            "id": 4,
+            "name": "火力",
+            "enName": "Suppress",
+            "abbr": "Suppress",
+            "icon": "Icon_Professional_Suppress"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "actionBuy": [
+                3
+            ],
+            "actionInteract": [
+                11
+            ],
+            "sum": 0,
+            "rewardItem": {},
+            "desc": ""
+        },
+        {
+            "id": 2,
+            "sum": 6,
+            "actionBuy": [
+                4
+            ],
+            "actionInteract": [
+                15,
+                21
+            ],
+            "rewardItem": {},
+            "desc": ""
+        },
+        {
+            "id": 3,
+            "sum": 30,
+            "actionInteract": [
+                22,
+                25
+            ],
+            "rewardItem": {},
+            "actionBuy": [],
+            "desc": ""
+        },
+        {
+            "id": 4,
+            "sum": 50,
+            "actionInteract": [
+                26,
+                35
+            ],
+            "rewardItem": {},
+            "actionBuy": [],
+            "desc": ""
+        },
+        {
+            "id": 5,
+            "sum": 100,
+            "actionBuy": [
+                9
+            ],
+            "actionInteract": [
+                1,
+                30
+            ],
+            "rewardItem": {},
+            "desc": ""
+        },
+        {
+            "id": 6,
+            "sum": 200,
+            "actionBuy": [
+                10
+            ],
+            "actionInteract": [
+                29,
+                31
+            ],
+            "rewardItem": {},
+            "desc": ""
+        },
+        {
+            "id": 7,
+            "sum": 300,
+            "actionInteract": [
+                37
+            ],
+            "rewardItem": {},
+            "actionBuy": [],
+            "desc": ""
+        }
+    ]
+}

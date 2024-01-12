@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "id": 2031,
+            "type": 2,
+            "fatherType": 2,
+            "icon": "WeaponPart_Muzzle_None",
+            "name": "霰弹枪口",
+            "weaponModDes": "适用：霰弹类",
+            "canSee": 1,
+            "hangingPoint": 2
+        },
+        {
+            "id": 13011,
+            "type": 2,
+            "fatherType": 13,
+            "icon": "WeaponPart_Stool_None",
+            "name": "机枪脚架",
+            "weaponModDes": "适用：机枪类",
+            "canSee": 1,
+            "hangingPoint": 5
+        },
+        {
+            "id": 13012,
+            "type": 2,
+            "fatherType": 13,
+            "icon": "WeaponPart_Stool_None",
+            "name": "狙击脚架",
+            "weaponModDes": "适用：狙击类",
+            "canSee": 1,
+            "hangingPoint": 5
+        },
+        {
+            "id": 1021,
+            "type": 2,
+            "fatherType": 1,
+            "icon": "WeaponPart_Scope_None",
+            "name": "狙击瞄准",
+            "weaponModDes": "适用：狙击类",
+            "canSee": 1,
+            "hangingPoint": 1
+        },
+        {
+            "id": 2041,
+            "type": 2,
+            "fatherType": 2,
+            "icon": "WeaponPart_Muzzle_None",
+            "name": "手枪枪口",
+            "weaponModDes": "适用：手枪类",
+            "canSee": 1,
+            "hangingPoint": 2
+        },
+        {
+            "id": 9011,
+            "type": 2,
+            "fatherType": 9,
+            "icon": "WeaponPart_Link_None",
+            "name": "霰弹链接",
+            "weaponModDes": "适用：霰弹类",
+            "canSee": 2,
+            "hangingPoint": 0
+        },
+        {
+            "id": 9012,
+            "type": 2,
+            "fatherType": 9,
+            "icon": "WeaponPart_Link_None",
+            "name": "手枪链接",
+            "weaponModDes": "适用：手枪类",
+            "canSee": 2,
+            "hangingPoint": 0
+        },
+        {
+            "id": 9013,
+            "type": 2,
+            "fatherType": 9,
+            "icon": "WeaponPart_Link_None",
+            "name": "特殊链接",
+            "weaponModDes": "适用：特殊武器类型",
+            "canSee": 2,
+            "hangingPoint": 0
+        },
+        {
+            "id": 11011,
+            "type": 2,
+            "fatherType": 11,
+            "icon": "WeaponPart_orbment_None",
+            "name": "霰弹卡榫",
+            "weaponModDes": "适用：霰弹类",
+            "canSee": 2,
+            "hangingPoint": 0
+        },
+        {
+            "id": 11012,
+            "type": 2,
+            "fatherType": 11,
+            "icon": "WeaponPart_orbment_None",
+            "name": "手枪卡榫",
+            "weaponModDes": "适用：手枪类",
+            "canSee": 2,
+            "hangingPoint": 0
+        },
+        {
+            "id": 11013,
+            "type": 2,
+            "fatherType": 11,
+            "icon": "WeaponPart_orbment_None",
+            "name": "特殊卡榫",
+            "weaponModDes": "适用：特殊武器类型",
+            "canSee": 2,
+            "hangingPoint": 0
+        },
+        {
+            "id": 8011,
+            "type": 2,
+            "fatherType": 8,
+            "icon": "WeaponPart_Adjust_None",
+            "name": "刀具调节",
+            "weaponModDes": "适用：特殊武器类型",
+            "canSee": 2,
+            "hangingPoint": 0
+        },
+        {
+            "id": 1031,
+            "type": 2,
+            "fatherType": 1,
+            "icon": "WeaponPart_Scope_None",
+            "name": "霰弹瞄准",
+            "weaponModDes": "适用：霰弹类",
+            "canSee": 1,
+            "hangingPoint": 1
+        },
+        {
+            "id": 1032,
+            "type": 2,
+            "fatherType": 1,
+            "icon": "WeaponPart_Scope_None",
+            "name": "手枪瞄准",
+            "weaponModDes": "适用：手枪类",
+            "canSee": 1,
+            "hangingPoint": 1
+        },
+        {
+            "id": 2011,
+            "type": 2,
+            "fatherType": 2,
+            "icon": "WeaponPart_Muzzle_None",
+            "name": "突击枪口",
+            "weaponModDes": "适用：突击类",
+            "canSee": 1,
+            "hangingPoint": 2
+        },
+        {
+            "id": 2012,
+            "type": 2,
+            "fatherType": 2,
+            "icon": "WeaponPart_Muzzle_None",
+            "name": "冲锋枪口",
+            "weaponModDes": "适用：冲锋类",
+            "canSee": 1,
+            "hangingPoint": 2
+        },
+        {
+            "id": 3011,
+            "type": 2,
+            "fatherType": 3,
+            "icon": "WeaponPart_Lightweight_None",
+            "name": "突击下挂",
+            "weaponModDes": "适用：突击类",
+            "canSee": 1,
+            "hangingPoint": 3
+        },
+        {
+            "id": 3012,
+            "type": 2,
+            "fatherType": 3,
+            "icon": "WeaponPart_Lightweight_None",
+            "name": "冲锋下挂",
+            "weaponModDes": "适用：冲锋类",
+            "canSee": 1,
+            "hangingPoint": 3
+        },
+        {
+            "id": 3013,
+            "type": 2,
+            "fatherType": 3,
+            "icon": "WeaponPart_Lightweight_None",
+            "name": "机枪下挂",
+            "weaponModDes": "适用：机枪类",
+            "canSee": 1,
+            "hangingPoint": 3
+        },
+        {
+            "id": 3014,
+            "type": 2,
+            "fatherType": 3,
+            "icon": "WeaponPart_Lightweight_None",
+            "name": "狙击下挂",
+            "weaponModDes": "适用：狙击类",
+            "canSee": 1,
+            "hangingPoint": 3
+        },
+        {
+            "id": 4011,
+            "type": 2,
+            "fatherType": 4,
+            "icon": "WeaponPart_Ensharp_None",
+            "name": "前端锋刃",
+            "weaponModDes": "适用：特殊武器类型",
+            "canSee": 1,
+            "hangingPoint": 2
+        },
+        {
+            "id": 12011,
+            "type": 2,
+            "fatherType": 12,
+            "icon": "WeaponPart_Grip_None",
+            "name": "突击握把",
+            "weaponModDes": "适用：突击类",
+            "canSee": 1,
+            "hangingPoint": 6
+        },
+        {
+            "id": 12012,
+            "type": 2,
+            "fatherType": 12,
+            "icon": "WeaponPart_Grip_None",
+            "name": "冲锋握把",
+            "weaponModDes": "适用：冲锋类",
+            "canSee": 1,
+            "hangingPoint": 6
+        },
+        {
+            "id": 1,
+            "type": 1,
+            "icon": "WeaponPart_Scope_None",
+            "name": "瞄准设备",
+            "weaponModDes": "",
+            "canSee": 1,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "icon": "WeaponPart_Muzzle_None",
+            "name": "枪口装置",
+            "weaponModDes": "",
+            "canSee": 1,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "icon": "WeaponPart_Hangdown_None",
+            "name": "下挂插件",
+            "weaponModDes": "",
+            "canSee": 1,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 4,
+            "type": 1,
+            "icon": "WeaponPart_Ensharp_None",
+            "name": "前端锋刃",
+            "weaponModDes": "",
+            "canSee": 1,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 8,
+            "type": 1,
+            "icon": "WeaponPart_Adjust_None",
+            "name": "调节组件",
+            "weaponModDes": "",
+            "canSee": 2,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 9,
+            "type": 1,
+            "icon": "WeaponPart_Link_None",
+            "name": "链接组件",
+            "weaponModDes": "",
+            "canSee": 2,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 10,
+            "type": 1,
+            "icon": "WeaponPart_Coating_None",
+            "name": "涂料涂层",
+            "weaponModDes": "",
+            "canSee": 2,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 11,
+            "type": 1,
+            "icon": "WeaponPart_orbment_None",
+            "name": "模块卡榫",
+            "weaponModDes": "",
+            "canSee": 2,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 12,
+            "type": 1,
+            "icon": "WeaponPart_Grip_None",
+            "name": "通用握把",
+            "weaponModDes": "",
+            "canSee": 1,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 13,
+            "type": 1,
+            "icon": "WeaponPart_Stool_None",
+            "name": "通用脚架",
+            "weaponModDes": "",
+            "canSee": 1,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 14,
+            "type": 1,
+            "icon": "WeaponPart_Chip_None",
+            "name": "工程芯片",
+            "weaponModDes": "",
+            "canSee": 2,
+            "fatherType": 0,
+            "hangingPoint": 0
+        },
+        {
+            "id": 1011,
+            "type": 2,
+            "fatherType": 1,
+            "icon": "WeaponPart_Scope_None",
+            "name": "突击瞄准",
+            "weaponModDes": "适用：突击类",
+            "canSee": 1,
+            "hangingPoint": 1
+        },
+        {
+            "id": 1012,
+            "type": 2,
+            "fatherType": 1,
+            "icon": "WeaponPart_Scope_None",
+            "name": "冲锋瞄准",
+            "weaponModDes": "适用：冲锋类",
+            "canSee": 1,
+            "hangingPoint": 1
+        },
+        {
+            "id": 1013,
+            "type": 2,
+            "fatherType": 1,
+            "icon": "WeaponPart_Scope_None",
+            "name": "机枪瞄准",
+            "weaponModDes": "适用：机枪类",
+            "canSee": 1,
+            "hangingPoint": 1
+        },
+        {
+            "id": 2021,
+            "type": 2,
+            "fatherType": 2,
+            "icon": "WeaponPart_Muzzle_None",
+            "name": "机枪枪口",
+            "weaponModDes": "适用：机枪类",
+            "canSee": 1,
+            "hangingPoint": 2
+        },
+        {
+            "id": 2022,
+            "type": 2,
+            "fatherType": 2,
+            "icon": "WeaponPart_Muzzle_None",
+            "name": "狙击枪口",
+            "weaponModDes": "适用：狙击类",
+            "canSee": 1,
+            "hangingPoint": 2
+        }
+    ]
+}

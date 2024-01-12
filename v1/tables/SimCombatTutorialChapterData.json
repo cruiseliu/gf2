@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "chapterName": "掩体相关教学",
+            "chapterIcon": "Icon_SimCombatTeaching_Chapter3",
+            "chapterBg": "Img_SimCombatTeaching_Pic1",
+            "chapterLevels": [
+                40101,
+                40102,
+                40103
+            ],
+            "chapterUnlock": 11010,
+            "unlcokTips": "指挥官等级达到13级后解锁",
+            "chapterMission": "完成掩体相关教学",
+            "chapterReward": {
+                "12": 1
+            },
+            "chapterRelation": []
+        },
+        {
+            "id": 2,
+            "chapterName": "基础战斗机制教学",
+            "chapterIcon": "Icon_SimCombatTeaching_Chapter2",
+            "chapterLevels": [
+                40111,
+                40112,
+                40113
+            ],
+            "chapterUnlock": 11010,
+            "chapterRelation": [
+                1
+            ],
+            "unlcokTips": "通关掩体相关专题后解锁",
+            "chapterMission": "完成基础战斗机制教学",
+            "chapterReward": {
+                "12": 1
+            },
+            "chapterBg": ""
+        },
+        {
+            "id": 3,
+            "chapterName": "玩法目标教学",
+            "chapterIcon": "Icon_SimCombatTeaching_Chapter12",
+            "chapterLevels": [
+                40121,
+                40122,
+                40123
+            ],
+            "chapterUnlock": 11010,
+            "chapterRelation": [
+                2
+            ],
+            "unlcokTips": "通关基础战斗机制专题后解锁",
+            "chapterMission": "完成玩法目标教学",
+            "chapterReward": {
+                "12": 1
+            },
+            "chapterBg": ""
+        }
+    ]
+}

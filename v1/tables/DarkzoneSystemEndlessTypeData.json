@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "type": 1,
+            "title": "AR",
+            "subTitle": "步枪类权限",
+            "icon": "Img_DarkzoneMode_Weapon_AR",
+            "unlock": [
+                10101
+            ],
+            "unlockDes": "通关【<color=#f26c1c>推进任务A01</color>】后解锁"
+        },
+        {
+            "type": 2,
+            "title": "SMG",
+            "subTitle": "冲锋枪类权限",
+            "icon": "Img_DarkzoneMode_Weapon_SMG",
+            "unlock": [
+                10102
+            ],
+            "unlockDes": "通关【<color=#f26c1c>推进任务A02</color>】后解锁"
+        },
+        {
+            "type": 3,
+            "title": "MG",
+            "subTitle": "机枪类权限",
+            "icon": "Img_DarkzoneMode_Weapon_MG",
+            "unlock": [
+                10103
+            ],
+            "unlockDes": "通关【<color=#f26c1c>推进任务A03</color>】后解锁"
+        },
+        {
+            "type": 4,
+            "title": "RF",
+            "subTitle": "狙击枪类权限",
+            "icon": "Img_DarkzoneMode_Weapon_RF",
+            "unlock": [
+                10104
+            ],
+            "unlockDes": "通关【<color=#f26c1c>推进任务A04</color>】后解锁"
+        },
+        {
+            "type": 5,
+            "title": "OTHER",
+            "subTitle": "特化类权限",
+            "icon": "Img_DarkzoneMode_Weapon_Other",
+            "unlock": [
+                10105
+            ],
+            "unlockDes": "通关【<color=#f26c1c>推进任务A05</color>】后解锁"
+        }
+    ]
+}

@@ -1,0 +1,537 @@
+{
+    "data": [
+        {
+            "targetId": 10020301,
+            "targetName": "击杀10020301",
+            "questType": 2,
+            "questNum": 16,
+            "questArgs": [
+                51641
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10020302,
+            "targetName": "击杀10020302",
+            "questType": 2,
+            "questNum": 17,
+            "questArgs": [
+                52641
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10020303,
+            "targetName": "击杀10020303",
+            "questType": 2,
+            "questNum": 18,
+            "questArgs": [
+                53641
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030101,
+            "targetName": "击杀10030101",
+            "questType": 2,
+            "questNum": 19,
+            "questArgs": [
+                54641
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030102,
+            "targetName": "击杀10030102",
+            "questType": 2,
+            "questNum": 20,
+            "questArgs": [
+                55641
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030103,
+            "targetName": "击杀10030103",
+            "questType": 2,
+            "questNum": 21,
+            "questArgs": [
+                51651
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030201,
+            "targetName": "击杀10030201",
+            "questType": 2,
+            "questNum": 22,
+            "questArgs": [
+                52651
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030202,
+            "targetName": "击杀10030202",
+            "questType": 2,
+            "questNum": 23,
+            "questArgs": [
+                53651
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030203,
+            "targetName": "击杀10030203",
+            "questType": 2,
+            "questNum": 24,
+            "questArgs": [
+                54651
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010201,
+            "targetName": "击杀4只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 4,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010202,
+            "targetName": "击杀5只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 5,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010203,
+            "targetName": "击杀6只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 6,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10050101,
+            "targetName": "击杀10050101",
+            "questType": 2,
+            "questNum": 31,
+            "questArgs": [
+                60101
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10060101,
+            "targetName": "击杀10060101",
+            "questType": 2,
+            "questNum": 32,
+            "questArgs": [
+                60102
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10060102,
+            "targetName": "击杀10060102",
+            "questType": 2,
+            "questNum": 33,
+            "questArgs": [
+                60103
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10070101,
+            "targetName": "击杀10070101",
+            "questType": 2,
+            "questNum": 34,
+            "questArgs": [
+                60201
+            ],
+            "branchArgs": 100702,
+            "guideType": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10070102,
+            "targetName": "击杀10070102",
+            "questType": 2,
+            "questNum": 35,
+            "questArgs": [
+                60202
+            ],
+            "branchArgs": 100703,
+            "guideType": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010301,
+            "targetName": "击杀7只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 7,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010302,
+            "targetName": "击杀8只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 8,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010303,
+            "targetName": "击杀9只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 9,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10020201,
+            "targetName": "击杀10020201",
+            "questType": 2,
+            "questNum": 13,
+            "questArgs": [
+                53631
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10020202,
+            "targetName": "击杀10020202",
+            "questType": 2,
+            "questNum": 14,
+            "questArgs": [
+                54631
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10020203,
+            "targetName": "击杀10020203",
+            "questType": 2,
+            "questNum": 15,
+            "questArgs": [
+                55631
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030301,
+            "targetName": "击杀10030301",
+            "questType": 2,
+            "questNum": 25,
+            "questArgs": [
+                55651
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030302,
+            "targetName": "击杀10030302",
+            "questType": 2,
+            "questNum": 26,
+            "questArgs": [
+                51661
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10030303,
+            "targetName": "击杀10030303",
+            "questType": 2,
+            "questNum": 27,
+            "questArgs": [
+                52661
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10070201,
+            "targetName": "击杀10070201",
+            "questType": 2,
+            "questNum": 37,
+            "questArgs": [
+                60301
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10070202,
+            "targetName": "击杀10070202",
+            "questType": 2,
+            "questNum": 38,
+            "questArgs": [
+                62000
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10070301,
+            "targetName": "击杀10070301",
+            "questType": 2,
+            "questNum": 40,
+            "questArgs": [
+                70121
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10070302,
+            "targetName": "击杀10070302",
+            "questType": 2,
+            "questNum": 41,
+            "questArgs": [
+                70131
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10070401,
+            "targetName": "击杀10070401",
+            "questType": 2,
+            "questNum": 43,
+            "questArgs": [
+                70151
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10080101,
+            "targetName": "击杀10080101",
+            "questType": 1,
+            "questNum": 2,
+            "questArgs": [
+                10002
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10020101,
+            "targetName": "击杀10020101",
+            "questType": 2,
+            "questNum": 10,
+            "questArgs": [
+                55621
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10020102,
+            "targetName": "击杀10020102",
+            "questType": 2,
+            "questNum": 11,
+            "questArgs": [
+                51631
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10020103,
+            "targetName": "击杀10020103",
+            "questType": 2,
+            "questNum": 12,
+            "questArgs": [
+                52631
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10040101,
+            "targetName": "击杀10040101",
+            "questType": 2,
+            "questNum": 28,
+            "questArgs": [
+                53661
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10040102,
+            "targetName": "击杀10040102",
+            "questType": 2,
+            "questNum": 29,
+            "questArgs": [
+                54661
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10040103,
+            "targetName": "击杀10040103",
+            "questType": 2,
+            "questNum": 30,
+            "questArgs": [
+                55661
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010101,
+            "targetName": "击杀1只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 1,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010102,
+            "targetName": "击杀2只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 2,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        },
+        {
+            "targetId": 10010103,
+            "targetName": "击杀3只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+            "questType": 1,
+            "questNum": 3,
+            "questArgs": [
+                900007
+            ],
+            "guideType": 0,
+            "branchArgs": 0,
+            "editorTag": 0,
+            "primeQuest": false
+        }
+    ]
+}

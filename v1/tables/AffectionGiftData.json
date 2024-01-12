@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "达夫巧克力",
+            "rank": 1,
+            "icon": "Gift_Temp",
+            "introduction": "达夫巧克力，纵享丝滑",
+            "likeCharacter": "1,2",
+            "dislikeCharacter": "3,4",
+            "affectionValue": "10,0,0,0",
+            "effectPreview": "优雅+"
+        },
+        {
+            "id": 2,
+            "name": "81年的拉菲",
+            "rank": 3,
+            "icon": "Gift_Temp",
+            "introduction": "苦酒入喉心作痛",
+            "likeCharacter": "3,4",
+            "affectionValue": "0,20,0,10",
+            "effectPreview": "坚毅+，智慧+",
+            "dislikeCharacter": ""
+        },
+        {
+            "id": 3,
+            "name": "德凡妮钻戒",
+            "rank": 5,
+            "icon": "Gift_Temp",
+            "introduction": "钻石恒久远，一颗永流传",
+            "dislikeCharacter": "3",
+            "affectionValue": "100,100,100,100",
+            "effectPreview": "优雅++，坚毅++，活力++，智慧++",
+            "likeCharacter": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 1,
+            "name": "pow",
+            "value": 1.0
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "name": "shield_armor",
+            "value": 0.6
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "name": "max_hp",
+            "value": 0.8
+        },
+        {
+            "id": 4,
+            "type": 2,
+            "name": "crit",
+            "value": 0.0005
+        },
+        {
+            "id": 5,
+            "type": 2,
+            "name": "crit_mult",
+            "value": 0.001
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "name": "skill_talent",
+            "value": 1.0
+        },
+        {
+            "id": 7,
+            "type": 3,
+            "name": "scale_param",
+            "value": 1.0
+        },
+        {
+            "id": 8,
+            "type": 2,
+            "name": "skill_weapon_1",
+            "value": 1.0
+        },
+        {
+            "id": 9,
+            "type": 2,
+            "name": "grade_skill_1",
+            "value": 1.0
+        }
+    ]
+}

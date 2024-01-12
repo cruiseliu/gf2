@@ -1,0 +1,229 @@
+{
+    "data": [
+        {
+            "id": 23001,
+            "name": "",
+            "title": "",
+            "qualify": "无称号",
+            "icon": "",
+            "achievement": 0,
+            "jump": 0
+        },
+        {
+            "id": 23002,
+            "icon": "Img_Title_PVP_Level6",
+            "name": "演习专家",
+            "title": "演习专家",
+            "qualify": "实兵演习达到专家段位后解锁",
+            "achievement": 46000,
+            "jump": 0
+        },
+        {
+            "id": 23003,
+            "icon": "Img_Title_PVP_Level7",
+            "name": "演习大师",
+            "title": "演习大师",
+            "qualify": "实兵演习达到大师段位后解锁",
+            "achievement": 46001,
+            "jump": 0
+        },
+        {
+            "id": 23004,
+            "icon": "Img_Title_PVP_Defender",
+            "name": "善防者",
+            "title": "善防者",
+            "qualify": "实兵演习中成功防守其他赏金猎人100次后解锁",
+            "achievement": 46002,
+            "jump": 0
+        },
+        {
+            "id": 23005,
+            "icon": "Img_Title_PVP_MasterDefender",
+            "name": "无摧者",
+            "title": "无摧者",
+            "qualify": "实兵演习中成功防守其他赏金猎人1000次后解锁",
+            "achievement": 46003,
+            "jump": 0
+        },
+        {
+            "id": 23006,
+            "icon": "Img_Title_PVP_Attacker",
+            "name": "好战者",
+            "title": "好战者",
+            "qualify": "实兵演习中成功进攻其他赏金猎人100次后解锁",
+            "achievement": 46004,
+            "jump": 0
+        },
+        {
+            "id": 23007,
+            "icon": "Img_Title_PVP_MasterAttacker",
+            "name": "迷战者",
+            "title": "迷战者",
+            "qualify": "实兵演习中成功进攻其他赏金猎人1000次后解锁",
+            "achievement": 46005,
+            "jump": 0
+        },
+        {
+            "id": 23011,
+            "icon": "Img_Title_Cash01",
+            "name": "小有积蓄",
+            "title": "小有积蓄",
+            "qualify": "累计获得1000000萨狄斯金后解锁",
+            "achievement": 46035,
+            "jump": 0
+        },
+        {
+            "id": 23012,
+            "icon": "Img_Title_GunGet_Groza",
+            "name": "闪电·入队",
+            "title": "闪电·入队",
+            "qualify": "获得人形闪电后解锁",
+            "achievement": 46021,
+            "jump": 0
+        },
+        {
+            "id": 23013,
+            "icon": "Img_Title_GunGet_Colphne",
+            "name": "寇尔芙·入队",
+            "title": "寇尔芙·入队",
+            "qualify": "获得人形寇尔芙后解锁",
+            "achievement": 46022,
+            "jump": 0
+        },
+        {
+            "id": 23014,
+            "icon": "Img_Title_GunGet_Nemesis",
+            "name": "纳美西丝·入队",
+            "title": "纳美西丝·入队",
+            "qualify": "获得人形纳美西丝后解锁",
+            "achievement": 46023,
+            "jump": 0
+        },
+        {
+            "id": 23015,
+            "icon": "Img_Title_GunGet_Charolic",
+            "name": "克罗丽科·入队",
+            "title": "克罗丽科·入队",
+            "qualify": "获得人形克罗丽科后解锁",
+            "achievement": 46024,
+            "jump": 0
+        },
+        {
+            "id": 23016,
+            "icon": "Img_Title_GunGet_Vepley",
+            "name": "维普蕾·入队",
+            "title": "维普蕾·入队",
+            "qualify": "获得人形维普蕾后解锁",
+            "achievement": 46025,
+            "jump": 0
+        },
+        {
+            "id": 23017,
+            "icon": "Img_Title_GunGet_Peritya",
+            "name": "佩里缇亚·入队",
+            "title": "佩里缇亚·入队",
+            "qualify": "获得人形佩里缇亚后解锁",
+            "achievement": 46026,
+            "jump": 0
+        },
+        {
+            "id": 23018,
+            "icon": "Img_Title_GunGet_Sharkry",
+            "name": "夏克里·入队",
+            "title": "夏克里·入队",
+            "qualify": "获得人形夏克里后解锁",
+            "achievement": 46027,
+            "jump": 0
+        },
+        {
+            "id": 23019,
+            "icon": "Img_Title_GunGet_Cheeta",
+            "name": "奇塔·入队",
+            "title": "奇塔·入队",
+            "qualify": "获得人形奇塔后解锁",
+            "achievement": 46028,
+            "jump": 0
+        },
+        {
+            "id": 23020,
+            "icon": "Img_Title_GunGet_Tololo",
+            "name": "托洛洛·入队",
+            "title": "托洛洛·入队",
+            "qualify": "获得人形托洛洛后解锁",
+            "achievement": 46029,
+            "jump": 0
+        },
+        {
+            "id": 23021,
+            "icon": "Img_Title_GunGet_Qiongjiu",
+            "name": "琼玖·入队",
+            "title": "琼玖·入队",
+            "qualify": "获得人形琼玖后解锁",
+            "achievement": 46030,
+            "jump": 0
+        },
+        {
+            "id": 23022,
+            "icon": "Img_Title_GunGet_Sabrina",
+            "name": "塞布丽娜·入队",
+            "title": "塞布丽娜·入队",
+            "qualify": "获得人形塞布丽娜后解锁",
+            "achievement": 46031,
+            "jump": 0
+        },
+        {
+            "id": 23023,
+            "icon": "Img_Title_GunGet_Nagant",
+            "name": "纳甘·入队",
+            "title": "纳甘·入队",
+            "qualify": "获得人形纳甘后解锁",
+            "achievement": 46032,
+            "jump": 0
+        },
+        {
+            "id": 23024,
+            "icon": "Img_Title_GunGet_Daiyan",
+            "name": "黛烟·入队",
+            "title": "黛烟·入队",
+            "qualify": "获得人形黛烟后解锁",
+            "achievement": 46033,
+            "jump": 0
+        },
+        {
+            "id": 23038,
+            "icon": "Img_Title_ActivityDaiyan",
+            "name": "异乡采风人",
+            "title": "异乡采风人",
+            "qualify": "初次完成风闻撷律后解锁",
+            "achievement": 46036,
+            "jump": 0
+        },
+        {
+            "id": 23039,
+            "icon": "Img_Title_GunGet_Mosinnagant",
+            "name": "莫辛纳甘·入队",
+            "title": "莫辛纳甘·入队",
+            "qualify": "获得人形莫辛纳甘后解锁",
+            "achievement": 46037,
+            "jump": 0
+        },
+        {
+            "id": 23040,
+            "icon": "Img_Title_GunGet_Ksenia",
+            "name": "科谢尼娅·入队",
+            "title": "科谢尼娅·入队",
+            "qualify": "获得人形科谢尼娅后解锁",
+            "achievement": 46038,
+            "jump": 0
+        },
+        {
+            "id": 23041,
+            "icon": "Img_Title_GunGet_Littara",
+            "name": "莉塔拉·入队",
+            "title": "莉塔拉·入队",
+            "qualify": "获得人形莉塔拉后解锁",
+            "achievement": 46039,
+            "jump": 0
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "id": 80001,
+            "name": "粒子蓄能器·束流I",
+            "supplyLevel": 1,
+            "isNormalSupply": true,
+            "propertySkillDes": "较低规格的粒子蓄能器，适合偏好束流攻击的作战单位使用。可额外造成目标最大生命值10%的伤害。",
+            "resPath": "Icon_Supply_Special_1",
+            "type": 0,
+            "propertySkillId": [],
+            "condition": [],
+            "autoBuyCofig": 0
+        },
+        {
+            "id": 80002,
+            "name": "粒子蓄能器·束流II",
+            "supplyLevel": 2,
+            "propertySkillDes": "能够提供更高浓度覆膜的粒子蓄能器，适合偏好束流攻击的作战单位使用。可额外造成目标最大生命值20%的伤害。",
+            "resPath": "Icon_Supply_Special_2",
+            "autoBuyCofig": 10,
+            "type": 0,
+            "isNormalSupply": false,
+            "propertySkillId": [],
+            "condition": []
+        },
+        {
+            "id": 80011,
+            "name": "粒子蓄能器·动能I",
+            "type": 1,
+            "supplyLevel": 1,
+            "isNormalSupply": true,
+            "propertySkillDes": "较低规格的粒子蓄能器，装配上它，武器火力就能大幅提升。\n配置后，提升自身造成伤害的5%。",
+            "resPath": "Icon_Supply_Physical_1",
+            "propertySkillId": [],
+            "condition": [],
+            "autoBuyCofig": 0
+        },
+        {
+            "id": 80012,
+            "name": "粒子蓄能器·动能II",
+            "type": 1,
+            "supplyLevel": 2,
+            "propertySkillDes": "能够提供更高浓度覆膜的粒子蓄能器，装配上它，武器火力就能大幅提升。\n配置后，提升自身造成伤害的10%。",
+            "resPath": "Icon_Supply_Physical_2",
+            "autoBuyCofig": 10,
+            "isNormalSupply": false,
+            "propertySkillId": [],
+            "condition": []
+        },
+        {
+            "id": 80021,
+            "name": "粒子蓄能器·离子I",
+            "type": 2,
+            "supplyLevel": 1,
+            "isNormalSupply": true,
+            "propertySkillDes": "较低规格的粒子蓄能器，适合偏好离子攻击的作战单位使用。为作战单位提供15点离子削减。",
+            "resPath": "Icon_Supply_Magical_1",
+            "propertySkillId": [],
+            "condition": [],
+            "autoBuyCofig": 0
+        },
+        {
+            "id": 80022,
+            "name": "粒子蓄能器·离子II",
+            "type": 2,
+            "supplyLevel": 2,
+            "propertySkillDes": "能够提供更高浓度覆膜的粒子蓄能器，适合偏好离子攻击的作战单位使用。为作战单位提供30点离子削减。",
+            "resPath": "Icon_Supply_Magical_2",
+            "autoBuyCofig": 10,
+            "isNormalSupply": false,
+            "propertySkillId": [],
+            "condition": []
+        },
+        {
+            "id": 80031,
+            "name": "粒子蓄能器·稳态I",
+            "type": 3,
+            "supplyLevel": 1,
+            "propertySkillDes": "较低规格的稳态粒子蓄能器，装配上它，能更高效地将敌方单位打入稳态崩溃。\n配置后，提升作战单位自身造成稳态指数削减量的15%。",
+            "resPath": "Icon_Supply_Suppress_1",
+            "autoBuyCofig": 10,
+            "isNormalSupply": false,
+            "propertySkillId": [],
+            "condition": []
+        },
+        {
+            "id": 80032,
+            "name": "粒子蓄能器·稳态II",
+            "type": 3,
+            "supplyLevel": 2,
+            "propertySkillDes": "能够提供更高浓度覆膜的粒子蓄能器，装配上它，能更高效地将敌方单位打入稳态崩溃。\n配置后，提升作战单位造成稳态指数削减量的30%。",
+            "resPath": "Icon_Supply_Suppress_2",
+            "autoBuyCofig": 10,
+            "isNormalSupply": false,
+            "propertySkillId": [],
+            "condition": []
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": 2,
+            "season": 1001,
+            "name": "推进指标·一",
+            "description": "完成进阶任务B01精确打击I",
+            "conditionClass": 550,
+            "conditionNum": 1,
+            "rewardList": {
+                "1": 10
+            },
+            "change": 1,
+            "unlockOn": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 2,
+            "type": 2,
+            "season": 1002,
+            "name": "推进指标·二",
+            "description": "完成进阶任务B01精确打击I",
+            "conditionClass": 550,
+            "conditionNum": 1,
+            "rewardList": {
+                "1": 10
+            },
+            "change": 1,
+            "unlockOn": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 3,
+            "type": 2,
+            "season": 1003,
+            "name": "推进指标·三",
+            "description": "完成进阶任务B01精确打击I",
+            "conditionClass": 550,
+            "conditionNum": 1,
+            "rewardList": {
+                "1": 10
+            },
+            "change": 1,
+            "unlockOn": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 4,
+            "type": 2,
+            "season": 1004,
+            "name": "推进指标·四",
+            "description": "完成进阶任务B01精确打击I",
+            "conditionClass": 550,
+            "conditionNum": 1,
+            "rewardList": {
+                "1": 10
+            },
+            "change": 1,
+            "unlockOn": 0,
+            "unlockOff": 0
+        },
+        {
+            "id": 5,
+            "type": 2,
+            "season": 1005,
+            "name": "推进指标·五",
+            "description": "完成进阶任务B01精确打击I",
+            "conditionClass": 550,
+            "conditionNum": 1,
+            "rewardList": {
+                "1": 10
+            },
+            "change": 1,
+            "unlockOn": 0,
+            "unlockOff": 0
+        }
+    ]
+}

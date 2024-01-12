@@ -1,0 +1,71 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "sort": 1,
+            "code": "FZ-001",
+            "name": "平安喜乐",
+            "clueId": [
+                100101,
+                100102,
+                100103
+            ],
+            "icon": "Img_ArchivesCenter_CD1"
+        },
+        {
+            "id": 1002,
+            "sort": 2,
+            "code": "PZ-001",
+            "name": "04S-2行动记录",
+            "clueId": [
+                100201,
+                100202,
+                100203,
+                100204,
+                100205,
+                100206
+            ],
+            "icon": "Img_ArchivesCenter_CD2"
+        },
+        {
+            "id": 1008,
+            "sort": 3,
+            "code": "CZ-001",
+            "name": "Graz-08B工作日志",
+            "clueId": [
+                100801,
+                100802,
+                100803,
+                100804,
+                100805,
+                100806
+            ],
+            "icon": "Img_ArchivesCenter_CD4"
+        },
+        {
+            "id": 1013,
+            "sort": 4,
+            "code": "PZ-002",
+            "name": "《开拓协议》封存档案",
+            "clueId": [
+                101301
+            ],
+            "icon": "Img_ArchivesCenter_CD1"
+        },
+        {
+            "id": 1020,
+            "sort": 5,
+            "code": "FZ-011",
+            "name": "守望者",
+            "clueId": [
+                102001,
+                102002,
+                102003,
+                102004,
+                102005,
+                102006
+            ],
+            "icon": "Img_ArchivesCenter_CD3"
+        }
+    ]
+}

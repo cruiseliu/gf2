@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "name": "兴奋",
+            "numTouch": 99999,
+            "moodChange": 5,
+            "favorChange": 5,
+            "stateChange": 1002
+        },
+        {
+            "id": 1002,
+            "name": "常规",
+            "numTouch": 99999,
+            "moodChange": 5,
+            "stateChange": 1003,
+            "favorChange": 0
+        },
+        {
+            "id": 1003,
+            "name": "不悦",
+            "numTouch": 99999,
+            "stateChange": 1003,
+            "moodChange": 0,
+            "favorChange": 0
+        }
+    ]
+}

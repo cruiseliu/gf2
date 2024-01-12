@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "isAutoPickItem": true,
+            "settleMethod": 0,
+            "itemToProperty": {},
+            "destroy": 0
+        },
+        {
+            "id": 2,
+            "isAutoPickItem": true,
+            "settleMethod": 0,
+            "itemToProperty": {},
+            "destroy": 0
+        },
+        {
+            "id": 62001,
+            "settleMethod": 2,
+            "itemToProperty": {
+                "1102": 100
+            },
+            "destroy": 1,
+            "isAutoPickItem": false
+        },
+        {
+            "id": 62002,
+            "settleMethod": 2,
+            "itemToProperty": {
+                "1103": 100
+            },
+            "destroy": 1,
+            "isAutoPickItem": false
+        },
+        {
+            "id": 62003,
+            "settleMethod": 2,
+            "itemToProperty": {},
+            "destroy": 0,
+            "isAutoPickItem": false
+        },
+        {
+            "id": 62004,
+            "settleMethod": 2,
+            "itemToProperty": {
+                "1103": 50
+            },
+            "destroy": 1,
+            "isAutoPickItem": false
+        },
+        {
+            "id": 70111,
+            "settleMethod": 0,
+            "itemToProperty": {},
+            "destroy": 0,
+            "isAutoPickItem": false
+        }
+    ]
+}

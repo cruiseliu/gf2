@@ -1,0 +1,4432 @@
+{
+    "data": [
+        {
+            "sceneId": 200,
+            "scene": "SIM/l_sim_tower/l_sim_tower_04/l_sim_tower_04_1/l_sim_tower_04_1",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_04_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 201,
+            "scene": "SIM/l_sim_tower/l_sim_tower_04/l_sim_tower_04_2/l_sim_tower_04_2",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_04_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 202,
+            "scene": "SIM/l_sim_tower/l_sim_tower_04/l_sim_tower_04_3/l_sim_tower_04_3",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_04_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 203,
+            "scene": "SIM/l_sim_tower/l_sim_tower_04/l_sim_tower_04_4/l_sim_tower_04_4",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_04_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 204,
+            "scene": "SIM/l_sim_tower/l_sim_tower_01/l_sim_tower_01_7/l_sim_tower_01_7",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_01_7",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 205,
+            "scene": "SIM/l_sim_tower/l_sim_tower_01/l_sim_tower_01_8/l_sim_tower_01_8",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_01_8",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 206,
+            "scene": "SIM/l_sim_simCombat01_test_01/l_sim_simCombat01_test_01",
+            "levelNode": "Sim/l_sim_simCombat01_test_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 207,
+            "scene": "SIM/l_sim_simCombat01_test_02/l_sim_simCombat01_test_02",
+            "levelNode": "Sim/l_sim_simCombat01_test_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 208,
+            "scene": "SIM/l_sim_fightTest_02/l_sim_fightTest_02",
+            "levelNode": "Sim/l_sim_fightTest_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 209,
+            "scene": "SIM/l_sim_longTest_01/l_sim_longTest_01",
+            "levelNode": "Sim/l_sim_longTest_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 240,
+            "scene": "SIM/l_sim_simCombat01_test_03/l_sim_simCombat01_test_03",
+            "levelNode": "Sim/l_sim_simCombat01_test_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 245,
+            "scene": "SIM/l_sim_tower/l_sim_tower_00/l_sim_tower_00_0/l_sim_tower_00_0",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_00_0",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 246,
+            "scene": "SIM/l_sim_gold/l_sim_gold_2",
+            "levelNode": "Sim/l_sim_gold_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 247,
+            "scene": "SIM/l_sim_gold/l_sim_gold_3",
+            "levelNode": "Sim/l_sim_gold_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 360,
+            "scene": "SIM/l_sim_standard_05/l_sim_standard_05",
+            "levelNode": "Sim/l_sim_standard_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 361,
+            "scene": "SIM/l_sim_standard_06/l_sim_standard_06",
+            "levelNode": "Sim/l_sim_standard_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 362,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_side",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_side",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 363,
+            "scene": "Test/demo_slg_SimScenesTest3/demo_slg_SimScenesTest3",
+            "levelNode": "Sim/demo_slg_SimScenesTest3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 364,
+            "scene": "Main/Yellow/l_main_yellow_beacon_03/l_main_yellow_beacon_03",
+            "levelNode": "Main/Yellow/l_main_yellow_beacon_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 365,
+            "scene": "Main/Yellow/l_main_yellow_TownStreet_02/l_main_yellow_TownStreet_02",
+            "levelNode": "Main/Yellow/l_main_yellow_TownStreet_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 366,
+            "scene": "SIM/l_sim_standard_07/l_sim_standard_07",
+            "levelNode": "Sim/l_sim_standard_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 367,
+            "scene": "SIM/l_sim_standard_08/l_sim_standard_08",
+            "levelNode": "Sim/l_sim_standard_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 368,
+            "scene": "SIM/l_sim_standard_09/l_sim_standard_09",
+            "levelNode": "Sim/l_sim_standard_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 369,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_show",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_show",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 780,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_12/l_sim_generate_daiyan_green_12",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_12",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 781,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_13/l_sim_generate_daiyan_green_13",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 782,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_14/l_sim_generate_daiyan_green_14",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_14",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 783,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_15/l_sim_generate_daiyan_green_15",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_15",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 784,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_16/l_sim_generate_daiyan_green_16",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_16",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 785,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_17/l_sim_generate_daiyan_green_17",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_17",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 786,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_18/l_sim_generate_daiyan_green_18",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_18",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 787,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_25/l_sim_generate_daiyan_green_25",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_25",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 788,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_26/l_sim_generate_daiyan_green_26",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_26",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 789,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_AR/l_sim_weaponParts_AR_01",
+            "levelNode": "Sim/l_sim_weaponParts_AR_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 510,
+            "scene": "Darkzone/l_darkzone_yd081214/l_darkzone_yd081214",
+            "levelNode": "Darkzone/l_darkzone_yd081214",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 511,
+            "scene": "Darkzone/l_darkzone_yd081215/l_darkzone_yd081215",
+            "levelNode": "Darkzone/l_darkzone_yd081215",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 512,
+            "scene": "Darkzone/l_darkzone_yd081216/l_darkzone_yd081216",
+            "levelNode": "Darkzone/l_darkzone_yd081216",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 513,
+            "scene": "Darkzone/l_darkzone_yd081217/l_darkzone_yd081217",
+            "levelNode": "Darkzone/l_darkzone_yd081217",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 514,
+            "scene": "Darkzone/l_darkzone_yd121209/l_darkzone_yd121209",
+            "levelNode": "Darkzone/l_darkzone_yd121209",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 515,
+            "scene": "Darkzone/l_darkzone_yd121210/l_darkzone_yd121210",
+            "levelNode": "Darkzone/l_darkzone_yd121210",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 516,
+            "scene": "Darkzone/l_darkzone_yd121211/l_darkzone_yd121211",
+            "levelNode": "Darkzone/l_darkzone_yd121211",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 517,
+            "scene": "Darkzone/l_darkzone_yd121212/l_darkzone_yd121212",
+            "levelNode": "Darkzone/l_darkzone_yd121212",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 518,
+            "scene": "Darkzone/l_darkzone_yd121213/l_darkzone_yd121213",
+            "levelNode": "Darkzone/l_darkzone_yd121213",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 519,
+            "scene": "Darkzone/l_darkzone_yd121214/l_darkzone_yd121214",
+            "levelNode": "Darkzone/l_darkzone_yd121214",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 640,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_2_01/l_sim_weekchallenge_A5_2_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_2_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 641,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_2_02/l_sim_weekchallenge_A5_2_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_2_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 642,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_2_03/l_sim_weekchallenge_A5_2_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_2_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 643,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_01/l_sim_experiment_weapon_01",
+            "levelNode": "Sim/l_sim_experiment_weapon_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 644,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_02/l_sim_experiment_weapon_02",
+            "levelNode": "Sim/l_sim_experiment_weapon_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 645,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_03/l_sim_experiment_weapon_03",
+            "levelNode": "Sim/l_sim_experiment_weapon_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 646,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_04/l_sim_experiment_weapon_04",
+            "levelNode": "Sim/l_sim_experiment_weapon_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 647,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_05/l_sim_experiment_weapon_05",
+            "levelNode": "Sim/l_sim_experiment_weapon_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 648,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_06/l_sim_experiment_weapon_06",
+            "levelNode": "Sim/l_sim_experiment_weapon_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 649,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_07/l_sim_experiment_weapon_07",
+            "levelNode": "Sim/l_sim_experiment_weapon_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 830,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_12/l_sim_challenge_12",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_12",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 831,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_13/l_sim_challenge_13",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 832,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_09/l_sim_challenge_09",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 833,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_10/l_sim_challenge_10",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 834,
+            "scene": "Test/l_sim_daiyan_enemySkillTest/l_sim_daiyan_enemySkillTest",
+            "levelNode": "Test/l_sim_daiyan_enemySkillTest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 835,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_07/l_sim_challenge_07",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 836,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_challenge_04/l_event_sim_95_challenge_04",
+            "levelNode": "Main/Event/QBZ-95/l_sim_daiyan_challenge_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 837,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_15/l_sim_challenge_15",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_15",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 838,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_challenge_05/l_event_sim_95_challenge_05",
+            "levelNode": "Main/Event/QBZ-95/l_sim_daiyan_challenge_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 839,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_14/l_sim_challenge_14",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_14",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 720,
+            "scene": "Main/Yellow/l_main_yellow_port_06/l_main_yellow_port_06",
+            "levelNode": "Main/Yellow/l_main_yellow_port_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 721,
+            "scene": "Main/Yellow/l_main_yellow_port_07/l_main_yellow_port_07",
+            "levelNode": "Main/Yellow/l_main_yellow_port_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 722,
+            "scene": "Main/Green/l_main_green_SatelliteTown_02/l_main_green_SatelliteTown_02",
+            "levelNode": "Main/Green/l_main_green_SatelliteTown_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 723,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_08/l_sim_mind_firepower_08",
+            "levelNode": "Sim/l_sim_mind_firepower_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 724,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_09/l_sim_mind_assist_09",
+            "levelNode": "Sim/l_sim_mind_assist_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 725,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_10/l_sim_mind_assist_10",
+            "levelNode": "Sim/l_sim_mind_assist_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 726,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_09/l_sim_mind_firepower_09",
+            "levelNode": "Sim/l_sim_mind_firepower_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 727,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_10/l_sim_mind_firepower_10",
+            "levelNode": "Sim/l_sim_mind_firepower_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 728,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_09",
+            "levelNode": "Sim/l_sim_rune_01_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 729,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_10",
+            "levelNode": "Sim/l_sim_rune_01_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 140,
+            "scene": "Main/Yellow/public_livestream",
+            "levelNode": "Main/Yellow/public_livestream",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 141,
+            "scene": "Main/Yellow/l_main_yellow_cult_building_01/l_main_yellow_cult_building_01",
+            "levelNode": "Main/Yellow/l_main_yellow_cult_building_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 142,
+            "scene": "Main/Yellow/public_livestream_02/public_livestream_02",
+            "levelNode": "Main/Yellow/public_livestream_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 143,
+            "scene": "FightTest/demo_shenghao_test",
+            "levelNode": "FightTest/demo_shenghao_test",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 144,
+            "scene": "Main/Yellow/invitation_test_3_plan_B",
+            "levelNode": "Main/Yellow/invitation_test_3_plan_B",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 145,
+            "scene": "Main/Yellow/l_main_yellow_gasStation_01/l_main_yellow_gasStation_01",
+            "levelNode": "Main/Yellow/l_main_yellow_gasStation_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 146,
+            "scene": "Main/Yellow/l_main_yellow_windmill_01/l_main_yellow_windmill_01",
+            "levelNode": "Main/Yellow/l_main_yellow_windmill_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 148,
+            "scene": "Test/demo_slg_fightTest_17/demo_slg_fightTest_17",
+            "levelNode": "FightTest/demo_slg_fightTest_17",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 149,
+            "scene": "Main/Green/l_main_green_SatelliteTown_01/l_main_green_SatelliteTown_01_sim",
+            "levelNode": "Main/Green/l_main_green_SatelliteTown_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 180,
+            "scene": "SIM/l_sim_tower/l_sim_tower_01/l_sim_tower_01_1/l_sim_tower_01_1",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_01_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 181,
+            "scene": "SIM/l_sim_tower/l_sim_tower_01/l_sim_tower_01_2/l_sim_tower_01_2",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_01_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 182,
+            "scene": "SIM/l_sim_tower/l_sim_tower_01/l_sim_tower_01_3/l_sim_tower_01_3",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_01_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 183,
+            "scene": "SIM/l_sim_tower/l_sim_tower_01/l_sim_tower_01_4/l_sim_tower_01_4",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_01_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 184,
+            "scene": "SIM/l_sim_tower/l_sim_tower_01/l_sim_tower_01_5/l_sim_tower_01_5",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_01_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 185,
+            "scene": "SIM/l_sim_tower/l_sim_tower_01/l_sim_tower_01_6/l_sim_tower_01_6",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_01_6",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 186,
+            "scene": "LightingTest/I_sim_rune_01/I_sim_rune_01_morning_lgtg",
+            "levelNode": "FightTest/l_sim_rune_01_test",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 187,
+            "scene": "Main/Yellow/l_main_yellow_port_04/l_main_yellow_port_04",
+            "levelNode": "Main/Yellow/l_main_yellow_port_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 188,
+            "scene": "Main/Yellow/l_main_yellow_port_05/l_main_yellow_port_05",
+            "levelNode": "Main/Yellow/l_main_yellow_port_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 189,
+            "scene": "Main/Yellow/l_main_yellow_abandonedTown_03/l_main_yellow_abandonedTown_03",
+            "levelNode": "Main/Yellow/l_main_yellow_abandonedTown_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 430,
+            "scene": "Darkzone/l_darkzone_yd141202/l_darkzone_yd141202",
+            "levelNode": "Darkzone/l_darkzone_yd141202",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 431,
+            "scene": "Main/Yellow/l_main_yellow_factory_05/l_main_yellow_factory_05",
+            "levelNode": "Main/Yellow/l_main_yellow_factory_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 432,
+            "scene": "Main/Yellow/l_main_yellow_general_15/l_main_yellow_general_15_temp",
+            "levelNode": "Main/Yellow/l_main_yellow_general_17",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 433,
+            "scene": "SIM/l_sim_rune_03/l_sim_rune_03_01",
+            "levelNode": "Sim/l_sim_rune_03_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 434,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_01",
+            "levelNode": "Sim/l_sim_rune_01_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 435,
+            "scene": "SIM/l_sim_rune_03/l_sim_rune_03_02",
+            "levelNode": "Sim/l_sim_rune_03_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 436,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_02",
+            "levelNode": "Sim/l_sim_rune_01_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 437,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_03",
+            "levelNode": "Sim/l_sim_rune_01_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 438,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_04",
+            "levelNode": "Sim/l_sim_rune_01_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 439,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_05",
+            "levelNode": "Sim/l_sim_rune_01_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 450,
+            "scene": "SIM/l_sim_rune_03/l_sim_rune_03_03",
+            "levelNode": "Sim/l_sim_rune_03_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 451,
+            "scene": "SIM/l_sim_rune_03/l_sim_rune_03_04",
+            "levelNode": "Sim/l_sim_rune_03_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 452,
+            "scene": "SIM/l_sim_rune_02/l_sim_rune_02_01",
+            "levelNode": "Sim/l_sim_rune_02_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 453,
+            "scene": "SIM/l_sim_rune_02/l_sim_rune_02_02",
+            "levelNode": "Sim/l_sim_rune_02_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 454,
+            "scene": "SIM/l_sim_rune_02/l_sim_rune_02_03",
+            "levelNode": "Sim/l_sim_rune_02_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 455,
+            "scene": "SIM/l_sim_rune_02/l_sim_rune_02_04",
+            "levelNode": "Sim/l_sim_rune_02_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 456,
+            "scene": "SIM/l_sim_rune_04/l_sim_rune_04_03",
+            "levelNode": "Sim/l_sim_rune_04_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 457,
+            "scene": "SIM/l_sim_exp/l_sim_exp_7",
+            "levelNode": "Sim/l_sim_exp_7",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 458,
+            "scene": "SIM/l_sim_exp/l_sim_exp_7EX",
+            "levelNode": "Sim/l_sim_exp_7EX",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 459,
+            "scene": "SIM/l_sim_tower/l_sim_tower_03/l_sim_tower_03_5/l_sim_tower_03_5",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_03_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 560,
+            "scene": "Main/Yellow/l_main_yellow_TownOccupied_01/l_main_yellow_TownOccupied_01",
+            "levelNode": "Main/Yellow/l_main_yellow_TownOccupied_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 561,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend/l_sim_mind_defend",
+            "levelNode": "Sim/l_sim_mind_defend",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 562,
+            "scene": "SIM/l_sim_experiment_01dzy/l_sim_experiment_01dzy",
+            "levelNode": "Sim/l_sim_experiment_01dzy",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 563,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_02/l_sim_mind_defend_02",
+            "levelNode": "Sim/l_sim_mind_defend_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 564,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_03/l_sim_mind_defend_03",
+            "levelNode": "Sim/l_sim_mind_defend_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 565,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_04/l_sim_mind_defend_04",
+            "levelNode": "Sim/l_sim_mind_defend_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 566,
+            "scene": "SIM/l_sim_experiment_gun/l_sim_experiment_gun_01/l_sim_experiment_gun_01",
+            "levelNode": "Sim/l_sim_experiment_gun_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 567,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_05/l_sim_mind_defend_05",
+            "levelNode": "Sim/l_sim_mind_defend_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 568,
+            "scene": "SIM/l_sim_experiment_gun/l_sim_experiment_gun_02/l_sim_experiment_gun_02",
+            "levelNode": "Sim/l_sim_experiment_gun_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 569,
+            "scene": "SIM/dyz_03/dzy_03",
+            "levelNode": "SiM/dzy_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 690,
+            "scene": "Darkzone/l_darkzone_ydb040401/l_darkzone_ydb040401",
+            "levelNode": "Darkzone/l_darkzone_ydb040401",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 691,
+            "scene": "Darkzone/l_darkzone_ydb040403/l_darkzone_ydb040403",
+            "levelNode": "Darkzone/l_darkzone_ydb040403",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 692,
+            "scene": "Darkzone/l_darkzone_ydb040404/l_darkzone_ydb040404",
+            "levelNode": "Darkzone/l_darkzone_ydb040404",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 693,
+            "scene": "Darkzone/l_darkzone_ydb081201/l_darkzone_ydb081201",
+            "levelNode": "Darkzone/l_darkzone_ydb081201",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 694,
+            "scene": "Darkzone/l_darkzone_ydb120801/l_darkzone_ydb120801",
+            "levelNode": "Darkzone/l_darkzone_ydb120801",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 695,
+            "scene": "Darkzone/l_darkzone_ydb121201/l_darkzone_ydb121201",
+            "levelNode": "Darkzone/l_darkzone_ydb121201",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 696,
+            "scene": "Darkzone/l_darkzone_ydb121218/l_darkzone_ydb121218",
+            "levelNode": "Darkzone/l_darkzone_ydb121218",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 697,
+            "scene": "Darkzone/l_darkzone_ydb081225/l_darkzone_ydb081225",
+            "levelNode": "Darkzone/l_darkzone_ydb081225",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 698,
+            "scene": "Darkzone/l_darkzone_ydb120812/l_darkzone_ydb120812",
+            "levelNode": "Darkzone/l_darkzone_ydb120812",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 699,
+            "scene": "SIM/l_sim_goldnew/l_sim_goldnew_01",
+            "levelNode": "Sim/l_sim_goldnew_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 680,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_12",
+            "levelNode": "Sim/l_sim_puzzle_12",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 681,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_13",
+            "levelNode": "Sim/l_sim_puzzle_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 682,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_14",
+            "levelNode": "Sim/l_sim_puzzle_14",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 683,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_15",
+            "levelNode": "Sim/l_sim_puzzle_15",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 684,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_16",
+            "levelNode": "Sim/l_sim_puzzle_16",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 685,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_17",
+            "levelNode": "Sim/l_sim_puzzle_17",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 686,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_18",
+            "levelNode": "Sim/l_sim_puzzle_18",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 687,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_19",
+            "levelNode": "Sim/l_sim_puzzle_19",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 688,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_20",
+            "levelNode": "Sim/l_sim_puzzle_20",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 689,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_return_01",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_return_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 10,
+            "scene": "Main/Green/l_main_green_rooftop_03/l_main_green_rooftop_03",
+            "levelNode": "Main/Green/l_main_green_rooftop_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 11,
+            "scene": "Main/Yellow/l_main_yellow_abandonedHospital_01/l_main_yellow_abandonedHospital_01_sim",
+            "levelNode": "Main/Yellow/l_main_yellow_abandonedHospital_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 12,
+            "scene": "Main/Green/l_main_green_lab_01/l_main_green_lab_01",
+            "levelNode": "Main/Green/l_main_green_lab_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 13,
+            "scene": "Main/Yellow/l_main_yellow_fortressPark_04/l_main_yellow_fortressPark_04",
+            "levelNode": "Main/Yellow/l_main_yellow_fortressPark_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 14,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_12/l_sim_generate_challenge_yellow_12",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_12",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 15,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_13/l_sim_generate_challenge_yellow_13",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 16,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_14/l_sim_generate_challenge_yellow_14",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_14",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 17,
+            "scene": "Main/Yellow/l_main_yellow_canyon_03/l_main_yellow_canyon_03",
+            "levelNode": "Main/Yellow/l_main_yellow_canyon_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 18,
+            "scene": "Main/Yellow/l_main_yellow_wildPlatform_03/l_main_yellow_wildPlatform_03",
+            "levelNode": "Main/Yellow/l_main_yellow_wildPlatform_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 19,
+            "scene": "Main/Yellow/l_main_yellow_wildPlatform_04/l_main_yellow_wildPlatform_04",
+            "levelNode": "Main/Yellow/l_main_yellow_wildPlatform_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 226,
+            "scene": "SIM/l_sim_tower_05/l_sim_tower_05_1_1",
+            "levelNode": "Sim/l_sim_tower_05_1_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 228,
+            "scene": "SIM/l_sim_CoverTest_01/l_sim_CoverTest_01",
+            "levelNode": "Sim/l_sim_CoverTest_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 340,
+            "scene": "SIM/l_sim_experiment_17/l_sim_experiment_17",
+            "levelNode": "Sim/l_sim_experiment_17",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 341,
+            "scene": "SIM/l_sim_experiment_18/l_sim_experiment_18",
+            "levelNode": "Sim/l_sim_experiment_18",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 342,
+            "scene": "SIM/l_sim_experiment_19/l_sim_experiment_19",
+            "levelNode": "Sim/l_sim_experiment_19",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 343,
+            "scene": "SIM/l_sim_experiment_20/l_sim_experiment_20",
+            "levelNode": "Sim/l_sim_experiment_20",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 344,
+            "scene": "SIM/l_sim_experiment_21/l_sim_experiment_21",
+            "levelNode": "Sim/l_sim_experiment_21",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 345,
+            "scene": "SIM/l_sim_slg_bridgebanktest/l_sim_slg_bridgebanktest",
+            "levelNode": "Sim/l_sim_slg_bridgebanktest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 346,
+            "scene": "SIM/l_sim_slg_highlandtest2/l_sim_slg_highlandtest2",
+            "levelNode": "Sim/l_sim_slg_highlandtest2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 347,
+            "scene": "SIM/l_sim_slg_highlandtest3/l_sim_slg_highlandtest3",
+            "levelNode": "Sim/l_sim_slg_highlandtest3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 348,
+            "scene": "SIM/l_sim_slg_evacuatetest/l_sim_slg_evacuatetest",
+            "levelNode": "Sim/l_sim_slg_evacuatetest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 349,
+            "scene": "SIM/l_sim_slg_bosstest/l_sim_slg_bosstest",
+            "levelNode": "Sim/l_sim_slg_bosstest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 400,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_creation",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_creation",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 401,
+            "scene": "Main/Purify/l_main_purify_general_01/l_main_purify_general_01",
+            "levelNode": "Main/Purify/l_main_purify_general_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 402,
+            "scene": "Main/Purify/l_main_purify_general_02/l_main_purify_general_02",
+            "levelNode": "Main/Purify/l_main_purify_general_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 403,
+            "scene": "Main/Purify/l_main_purify_general_03/l_main_purify_general_03",
+            "levelNode": "Main/Purify/l_main_purify_general_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 404,
+            "scene": "Darkzone/l_darkzone_yd100001/l_darkzone_yd100001",
+            "levelNode": "Darkzone/l_darkzone_yd100001",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 405,
+            "scene": "Darkzone/l_darkzone_yd101501/l_darkzone_yd101501",
+            "levelNode": "Darkzone/l_darkzone_yd101501",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 406,
+            "scene": "Darkzone/l_darkzone_yd101502/l_darkzone_yd101502",
+            "levelNode": "Darkzone/l_darkzone_yd101502",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 407,
+            "scene": "Darkzone/l_darkzone_yd101503/l_darkzone_yd101503",
+            "levelNode": "Darkzone/l_darkzone_yd101503",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 408,
+            "scene": "Darkzone/l_darkzone_yd101580/l_darkzone_yd101580",
+            "levelNode": "Darkzone/l_darkzone_yd101580",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 409,
+            "scene": "Darkzone/l_darkzone_yd151001/l_darkzone_yd151001",
+            "levelNode": "Darkzone/l_darkzone_yd151001",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 460,
+            "scene": "SIM/l_sim_tower/l_sim_tower_05/l_sim_tower_05_5/l_sim_tower_05_5",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_05_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 461,
+            "scene": "Darkzone/l_darkzone_yd251001/l_darkzone_yd251001",
+            "levelNode": "Darkzone/l_darkzone_yd251001",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 462,
+            "scene": "Darkzone/l_darkzone_yd251002/l_darkzone_yd251002",
+            "levelNode": "Darkzone/l_darkzone_yd251002",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 463,
+            "scene": "Darkzone/l_darkzone_yd251003/l_darkzone_yd251003",
+            "levelNode": "Darkzone/l_darkzone_yd251003",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 464,
+            "scene": "Darkzone/l_darkzone_yd251004/l_darkzone_yd251004",
+            "levelNode": "Darkzone/l_darkzone_yd251004",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 465,
+            "scene": "Darkzone/l_darkzone_yd101505/l_darkzone_yd101505",
+            "levelNode": "Darkzone/l_darkzone_yd101505",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 590,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_03/l_sim_generate_branch_yellow_03",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 591,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_08/l_sim_mind_defend_08",
+            "levelNode": "Sim/l_sim_mind_defend_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 592,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_09/l_sim_mind_defend_09",
+            "levelNode": "Sim/l_sim_mind_defend_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 593,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_10/l_sim_mind_defend_10",
+            "levelNode": "Sim/l_sim_mind_defend_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 594,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_1_01/l_sim_weekchallenge_A3_1_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_1_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 595,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_1_02/l_sim_weekchallenge_A3_1_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_1_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 596,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_1_03/l_sim_weekchallenge_A3_1_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_1_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 597,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_2_01/l_sim_weekchallenge_A3_2_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_2_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 598,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_2_02/l_sim_weekchallenge_A3_2_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_2_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 599,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_2_03/l_sim_weekchallenge_A3_2_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_2_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 630,
+            "scene": "SIM/l_sim_tower/l_sim_tower_04/l_sim_tower_04_5/l_sim_tower_04_5",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_04_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 632,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_02/l_sim_generate_challenge_yellow_02",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 633,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_03/l_sim_generate_challenge_yellow_03",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 634,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_04/l_sim_generate_challenge_yellow_04",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 635,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_05/l_sim_generate_challenge_yellow_05",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 636,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_06/l_sim_generate_challenge_yellow_06",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 637,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_07/l_sim_generate_challenge_yellow_07",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 638,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_08/l_sim_generate_challenge_yellow_08",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 639,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_09/l_sim_generate_challenge_yellow_09",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 700,
+            "scene": "SIM/l_sim_goldnew/l_sim_goldnew_05",
+            "levelNode": "Sim/l_sim_goldnew_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 701,
+            "scene": "SIM/l_sim_show/l_sim_show_DaiyanSSR_01",
+            "levelNode": "Sim/l_sim_show_DaiyanSSR_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 702,
+            "scene": "SIM/l_sim_show/l_sim_show_DaiyanSSR_02",
+            "levelNode": "Sim/l_sim_show_DaiyanSSR_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 703,
+            "scene": "SIM/l_sim_show/l_sim_show_SabrinaSSR_01",
+            "levelNode": "Sim/l_sim_show_SabrinaSSR_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 704,
+            "scene": "SIM/l_sim_show/l_sim_show_SabrinaSSR_02",
+            "levelNode": "Sim/l_sim_show_SabrinaSSR_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 705,
+            "scene": "SIM/l_sim_goldnew/l_sim_goldnew_06",
+            "levelNode": "Sim/l_sim_goldnew_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 706,
+            "scene": "SIM/l_sim_goldnew/l_sim_goldnew_07",
+            "levelNode": "Sim/l_sim_goldnew_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 707,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_perform",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_perform",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 708,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_01",
+            "levelNode": "Sim/l_sim_quiz_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 709,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_02",
+            "levelNode": "Sim/l_sim_quiz_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 260,
+            "scene": "SIM/l_sim_exp/l_sim_exp_3",
+            "levelNode": "Sim/l_sim_exp_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 261,
+            "scene": "SIM/l_sim_tower/l_sim_tower_02/l_sim_tower_02_1/l_sim_tower_02_1",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_02_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 262,
+            "scene": "SIM/l_sim_tower/l_sim_tower_02/l_sim_tower_02_2/l_sim_tower_02_2",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_02_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 263,
+            "scene": "SIM/l_sim_tower/l_sim_tower_02/l_sim_tower_02_3/l_sim_tower_02_3",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_02_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 264,
+            "scene": "SIM/l_sim_tower/l_sim_tower_02/l_sim_tower_02_4/l_sim_tower_02_4",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_02_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 420,
+            "scene": "Darkzone/l_darkzone_yd151004/l_darkzone_yd151004",
+            "levelNode": "Darkzone/l_darkzone_yd151004",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 421,
+            "scene": "Darkzone/l_darkzone_yd151005/l_darkzone_yd151005",
+            "levelNode": "Darkzone/l_darkzone_yd151005",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 422,
+            "scene": "Darkzone/l_darkzone_yd151591/l_darkzone_yd151591",
+            "levelNode": "Darkzone/l_darkzone_yd151591",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 423,
+            "scene": "Darkzone/l_darkzone_yd151592/l_darkzone_yd151592",
+            "levelNode": "Darkzone/l_darkzone_yd151592",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 424,
+            "scene": "Darkzone/l_darkzone_yd101504/l_darkzone_yd101504",
+            "levelNode": "Darkzone/l_darkzone_yd101504",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 425,
+            "scene": "Darkzone/l_darkzone_yd100003/l_darkzone_yd100003",
+            "levelNode": "Darkzone/l_darkzone_yd100003",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 426,
+            "scene": "Darkzone/l_darkzone_yd151006/l_darkzone_yd151006",
+            "levelNode": "Darkzone/l_darkzone_yd151006",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 427,
+            "scene": "Darkzone/l_darkzone_yd151007/l_darkzone_yd151007",
+            "levelNode": "Darkzone/l_darkzone_yd151007",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 428,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridgeB_01/l_main_yellow_brokenBridgeB_01",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridgeB_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 429,
+            "scene": "Darkzone/l_darkzone_yd101581/l_darkzone_yd101581",
+            "levelNode": "Darkzone/l_darkzone_yd101581",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 440,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_06",
+            "levelNode": "Sim/l_sim_rune_01_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 441,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_07",
+            "levelNode": "Sim/l_sim_rune_01_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 442,
+            "scene": "SIM/l_sim_gold/l_sim_gold_4EX",
+            "levelNode": "Sim/l_sim_gold_4EX",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 443,
+            "scene": "Main/Yellow/l_main_yellow_curveRoad_02/l_main_yellow_curveRoad_02",
+            "levelNode": "Main/Yellow/l_main_yellow_curveRoad_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 444,
+            "scene": "SIM/l_sim_rune_04/l_sim_rune_04_01",
+            "levelNode": "Sim/l_sim_rune_04_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 445,
+            "scene": "SIM/l_sim_rune_04/l_sim_rune_04_02",
+            "levelNode": "Sim/l_sim_rune_04_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 446,
+            "scene": "SIM/l_sim_gold/l_sim_gold_7EX",
+            "levelNode": "Sim/l_sim_gold_7EX",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 447,
+            "scene": "SIM/l_sim_exp/l_sim_exp_4",
+            "levelNode": "Sim/l_sim_exp_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 448,
+            "scene": "SIM/l_sim_exp/l_sim_exp_5",
+            "levelNode": "Sim/l_sim_exp_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 449,
+            "scene": "SIM/l_sim_exp/l_sim_exp_6",
+            "levelNode": "Sim/l_sim_exp_6",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 70,
+            "scene": "Test/l_sim_CoverRuleTest_01_1/l_sim_CoverRuleTest_01_1",
+            "levelNode": "Sim/l_sim_CoverRuleTest_01_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 71,
+            "scene": "Main/Yellow/l_main_yellow_TownStreet_01/l_main_yellow_TownStreet_01",
+            "levelNode": "Main/Yellow/l_main_yellow_TownStreet_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 72,
+            "scene": "Main/Yellow/l_main_yellow_TownCenter_01/l_main_yellow_TownCenter_01",
+            "levelNode": "Main/Yellow/l_main_yellow_TownCenter_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 73,
+            "scene": "FightTest/demo_slg_abandonedTown03",
+            "levelNode": "FightTest/demo_slg_abandonedTown03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 74,
+            "scene": "Main/Yellow/l_main_yellow_port_01/l_main_yellow_port_01",
+            "levelNode": "Main/Yellow/l_main_yellow_port_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 75,
+            "scene": "Main/Yellow/l_main_yellow_port_02/l_main_yellow_port_02",
+            "levelNode": "Main/Yellow/l_main_yellow_port_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 76,
+            "scene": "Main/Yellow/l_main_yellow_port_03/l_main_yellow_port_03",
+            "levelNode": "Main/Yellow/l_main_yellow_port_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 77,
+            "scene": "SIM/l_sim_tower/l_sim_tower_00/l_sim_tower_00_5/l_sim_tower_00_5",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_00_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 300,
+            "scene": "SIM/l_sim_tower/l_sim_tower_05/l_sim_tower_05_4/l_sim_tower_05_4",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_05_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 301,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_06/l_sim_rogueliketower_06_1/l_sim_rogueliketower_06_1",
+            "levelNode": "Sim/l_sim_rogueliketower_06_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 302,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_06/l_sim_rogueliketower_06_2/l_sim_rogueliketower_06_2",
+            "levelNode": "Sim/l_sim_rogueliketower_06_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 303,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_06/l_sim_rogueliketower_06_3/l_sim_rogueliketower_06_3",
+            "levelNode": "Sim/l_sim_rogueliketower_06_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 304,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_06/l_sim_rogueliketower_06_4/l_sim_rogueliketower_06_4",
+            "levelNode": "Sim/l_sim_rogueliketower_06_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 305,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_01/l_sim_weekchallenge_A2_01",
+            "levelNode": "Sim/l_sim_weekchallenge_A2_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 306,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_01/l_sim_weekchallenge_A3_01",
+            "levelNode": "Sim/l_sim_weekchallenge_A3_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 307,
+            "scene": "Weekly/l_weekly_tankBase/l_weekly_tankBase_01/l_weekly_tankBase_01",
+            "levelNode": "Weekly/l_weekly_tankBase/l_weekly_tankBase_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 308,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_02/l_sim_weekchallenge_A2_02",
+            "levelNode": "Sim/l_sim_weekchallenge_A2_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 309,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_02/l_sim_weekchallenge_A3_02",
+            "levelNode": "Sim/l_sim_weekchallenge_A3_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 710,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_03",
+            "levelNode": "Sim/l_sim_quiz_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 711,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_04",
+            "levelNode": "Sim/l_sim_quiz_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 712,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_05",
+            "levelNode": "Sim/l_sim_quiz_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 713,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_06",
+            "levelNode": "Sim/l_sim_quiz_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 714,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_07",
+            "levelNode": "Sim/l_sim_quiz_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 715,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_08",
+            "levelNode": "Sim/l_sim_quiz_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 716,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_09",
+            "levelNode": "Sim/l_sim_quiz_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 717,
+            "scene": "SIM/l_sim_quiz/l_sim_quiz_10",
+            "levelNode": "Sim/l_sim_quiz_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 718,
+            "scene": "Test/l_sim_slg_test02/l_sim_slg_test02",
+            "levelNode": "Sim/l_sim_slg_test02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 719,
+            "scene": "Main/Yellow/l_main_yellow_windmill_02/l_main_yellow_windmill_02",
+            "levelNode": "Main/Yellow/l_main_yellow_windmill_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 820,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_04/l_sim_challenge_04",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 821,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_challenge_01/l_event_sim_95_challenge_01",
+            "levelNode": "Main/Event/QBZ-95/l_sim_daiyan_challenge_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 822,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_challenge_02/l_event_sim_95_challenge_02",
+            "levelNode": "Main/Event/QBZ-95/l_sim_daiyan_challenge_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 823,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_03/l_sim_challenge_03",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 824,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_02/l_sim_challenge_02",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 825,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_01/l_sim_challenge_01",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 826,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_06/l_sim_challenge_06",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 827,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_05/l_sim_challenge_05",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 828,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_08/l_sim_challenge_08",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 829,
+            "scene": "SIM/l_sim_challenge/l_sim_challenge_11/l_sim_challenge_11",
+            "levelNode": "Sim/l_sim_challenge/l_sim_challenge_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 120,
+            "scene": "Sim/l_sim_tower_01_4_1",
+            "levelNode": "Sim/l_sim_tower_01_4_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 121,
+            "scene": "Main/Yellow/l_main_yellow_abandonedTown_01_temp",
+            "levelNode": "Main/Yellow/l_main_yellow_abandonedTown_01_temp",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 122,
+            "scene": "Main/Yellow/invitation_test_1",
+            "levelNode": "Main/Yellow/invitation_test_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 123,
+            "scene": "Main/Yellow/invitation_test_2",
+            "levelNode": "Main/Yellow/invitation_test_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 124,
+            "scene": "Main/Yellow/invitation_test_3",
+            "levelNode": "Main/Yellow/invitation_test_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 125,
+            "scene": "Main/Yellow/invitation_test_4",
+            "levelNode": "Main/Yellow/invitation_test_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 126,
+            "scene": "Main/Yellow/invitation_test_5",
+            "levelNode": "Main/Yellow/invitation_test_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 127,
+            "scene": "Sim/l_sim_tower_02_4_1",
+            "levelNode": "Sim/l_sim_tower_02_4_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 128,
+            "scene": "Sim/l_sim_tower_03_1_1",
+            "levelNode": "Sim/l_sim_tower_03_1_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 129,
+            "scene": "Sim/l_sim_tower_03_2_1",
+            "levelNode": "Sim/l_sim_tower_03_2_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 390,
+            "scene": "Test/l_sim_firstTest_01/l_sim_firstTest_01",
+            "levelNode": "Sim/l_sim_firstTest_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 391,
+            "scene": "Test/l_sim_firstTest_02/l_sim_firstTest_02",
+            "levelNode": "Sim/l_sim_firstTest_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 392,
+            "scene": "Darkzone/l_darkzone_1000/l_darkzone_1000",
+            "levelNode": "Darkzone/l_darkzone_1000",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 393,
+            "scene": "Darkzone/l_darkzone_1001/l_darkzone_1001",
+            "levelNode": "Darkzone/l_darkzone_1001",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 394,
+            "scene": "Darkzone/l_darkzone_1002/l_darkzone_1002",
+            "levelNode": "Darkzone/l_darkzone_1002",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 395,
+            "scene": "Darkzone/l_darkzone_1011/l_darkzone_1011",
+            "levelNode": "Darkzone/l_darkzone_1011",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 396,
+            "scene": "Darkzone/l_darkzone_2000/l_darkzone_2000",
+            "levelNode": "Darkzone/l_darkzone_2000",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 397,
+            "scene": "Darkzone/l_darkzone_2001/l_darkzone_2001",
+            "levelNode": "Darkzone/l_darkzone_2001",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 398,
+            "scene": "Darkzone/l_darkzone_2002/l_darkzone_2002",
+            "levelNode": "Darkzone/l_darkzone_2002",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 399,
+            "scene": "Darkzone/l_darkzone_2011/l_darkzone_2011",
+            "levelNode": "Darkzone/l_darkzone_2011",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 410,
+            "scene": "Darkzone/l_darkzone_yd151590/l_darkzone_yd151590",
+            "levelNode": "Darkzone/l_darkzone_yd151590",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 411,
+            "scene": "SIM/l_sim_gold/l_sim_gold_4",
+            "levelNode": "Sim/l_sim_gold_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 412,
+            "scene": "SIM/l_sim_gold/l_sim_gold_5",
+            "levelNode": "Sim/l_sim_gold_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 413,
+            "scene": "SIM/l_sim_gold/l_sim_gold_6",
+            "levelNode": "Sim/l_sim_gold_6",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 414,
+            "scene": "SIM/l_sim_gold/l_sim_gold_7",
+            "levelNode": "Sim/l_sim_gold_7",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 415,
+            "scene": "Darkzone/l_darkzone_yd100002/l_darkzone_yd100002",
+            "levelNode": "Darkzone/l_darkzone_yd100002",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 416,
+            "scene": "Darkzone/l_darkzone_yd171001/l_darkzone_yd171001",
+            "levelNode": "Darkzone/l_darkzone_yd171001",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 417,
+            "scene": "Darkzone/l_darkzone_yd141201/l_darkzone_yd141201",
+            "levelNode": "Darkzone/l_darkzone_yd141201",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 418,
+            "scene": "Darkzone/l_darkzone_yd151002/l_darkzone_yd151002",
+            "levelNode": "Darkzone/l_darkzone_yd151002",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 419,
+            "scene": "Darkzone/l_darkzone_yd151003/l_darkzone_yd151003",
+            "levelNode": "Darkzone/l_darkzone_yd151003",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 500,
+            "scene": "Darkzone/l_darkzone_yd121207/l_darkzone_yd121207",
+            "levelNode": "Darkzone/l_darkzone_yd121207",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 501,
+            "scene": "Darkzone/l_darkzone_yd121208/l_darkzone_yd121208",
+            "levelNode": "Darkzone/l_darkzone_yd121208",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 502,
+            "scene": "Darkzone/l_darkzone_yd120806/l_darkzone_yd120806",
+            "levelNode": "Darkzone/l_darkzone_yd120806",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 503,
+            "scene": "Darkzone/l_darkzone_yd120807/l_darkzone_yd120807",
+            "levelNode": "Darkzone/l_darkzone_yd120807",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 504,
+            "scene": "Darkzone/l_darkzone_yd081210/l_darkzone_yd081210",
+            "levelNode": "Darkzone/l_darkzone_yd081210",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 505,
+            "scene": "Darkzone/l_darkzone_yd081211/l_darkzone_yd081211",
+            "levelNode": "Darkzone/l_darkzone_yd081211",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 506,
+            "scene": "Darkzone/l_darkzone_yd120808/l_darkzone_yd120808",
+            "levelNode": "Darkzone/l_darkzone_yd120808",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 507,
+            "scene": "Darkzone/l_darkzone_yd120809/l_darkzone_yd120809",
+            "levelNode": "Darkzone/l_darkzone_yd120809",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 508,
+            "scene": "Darkzone/l_darkzone_yd081212/l_darkzone_yd081212",
+            "levelNode": "Darkzone/l_darkzone_yd081212",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 509,
+            "scene": "Darkzone/l_darkzone_yd081213/l_darkzone_yd081213",
+            "levelNode": "Darkzone/l_darkzone_yd081213",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 550,
+            "scene": "Test/l_sim_gasPipe_test/l_sim_gasPipe_test",
+            "levelNode": "Sim/l_sim_gasPipe_test",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 551,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_1_03/l_sim_weekchallenge_A2_1_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_1_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 552,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_2_01/l_sim_weekchallenge_A2_2_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_2_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 553,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_2_02/l_sim_weekchallenge_A2_2_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_2_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 554,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_2_03/l_sim_weekchallenge_A2_2_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_2_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 555,
+            "scene": "SIM/wd01_wd01",
+            "levelNode": "Sim/wd01_wd01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 556,
+            "scene": "SIM/HX_test/HX_test",
+            "levelNode": "Sim/HX_test",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 557,
+            "scene": "Main/Event/QBZ-95/l_event_daiyan_street_02/l_event_daiyan_street_02",
+            "levelNode": "Main/Event/QBZ-95/l_event_daiyan_street_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 558,
+            "scene": "Main/Event/QBZ-95/l_event_daiyan_street_03/l_event_daiyan_street_03",
+            "levelNode": "Main/Event/QBZ-95/l_event_daiyan_street_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 559,
+            "scene": "Main/Yellow/l_main_yellow_darkMarket_02/l_main_yellow_darkMarket_02",
+            "levelNode": "Main/Yellow/l_main_yellow_darkMarket_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 600,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_1_01/l_sim_weekchallenge_A4_1_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_1_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 601,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_1_02/l_sim_weekchallenge_A4_1_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_1_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 602,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_1_03/l_sim_weekchallenge_A4_1_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_1_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 603,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_2_01/l_sim_weekchallenge_A4_2_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_2_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 604,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_2_02/l_sim_weekchallenge_A4_2_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_2_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 605,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_2_03/l_sim_weekchallenge_A4_2_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A4/l_sim_weekchallenge_A4_2_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 606,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_05/l_sim_weekchallenge_A5_3_05",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 607,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_creation_01",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_creation_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 608,
+            "scene": "Weekly/l_weekly_tankBase/l_weekly_tankBase_02/l_weekly_tankBase_02",
+            "levelNode": "Weekly/l_weekly_tankBase/l_weekly_tankBase_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 609,
+            "scene": "Weekly/l_weekly_tankBase/l_weekly_tankBase_03/l_weekly_tankBase_03",
+            "levelNode": "Weekly/l_weekly_tankBase/l_weekly_tankBase_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 1,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridge_02/l_main_yellow_brokenBridge_02",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridge_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 2,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridge_03/l_main_yellow_brokenBridge_03",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridge_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 3,
+            "scene": "Test/l_sim_routeTest_01/l_sim_routeTest_01",
+            "levelNode": "SIM/l_sim_routeTest_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 4,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridgeB_02/l_main_yellow_brokenBridgeB_02",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridgeB_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 5,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridgeB_04/l_main_yellow_brokenBridgeB_04",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridgeB_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 6,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridgeB_05/l_main_yellow_brokenBridgeB_05",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridgeB_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 7,
+            "scene": "Main/Yellow/l_main_yellow_beacon_13/l_main_yellow_beacon_13",
+            "levelNode": "Main/Yellow/l_main_yellow_beacon_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 8,
+            "scene": "FightTest/demo_slg_debugCentre_2",
+            "levelNode": "FightTest/demo_slg_debugCentre_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 20,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_15/l_sim_generate_challenge_yellow_15",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_15",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 21,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_16/l_sim_generate_challenge_yellow_16",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_16",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 22,
+            "scene": "Main/Yellow/l_main_yellow_beacon_01_1",
+            "levelNode": "Main/Yellow/l_main_yellow_beacon_01_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 23,
+            "scene": "MainStory/Chapter01/demo_slg_mainStory_1_5",
+            "levelNode": "MainStory/Chapter01/demo_slg_mainStory_1_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 24,
+            "scene": "MainStory/Chapter01/demo_slg_mainStory_1_6",
+            "levelNode": "MainStory/Chapter01/demo_slg_mainStory_1_6",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 25,
+            "scene": "MainStory/Chapter01/demo_slg_mainStory_1_7",
+            "levelNode": "MainStory/Chapter01/demo_slg_mainStory_1_7",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 26,
+            "scene": "SIM/l_sim_simCombat01_09/l_sim_simCombat01_09",
+            "levelNode": "Sim/l_sim_simCombat01_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 27,
+            "scene": "SIM/l_sim_simCombat01_10/l_sim_simCombat01_10",
+            "levelNode": "Sim/l_sim_simCombat01_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 29,
+            "scene": "Test/l_test_bossTest_01/l_test_bossTest_01",
+            "levelNode": "Test/l_test_bossTest_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 190,
+            "scene": "Main/Purify/l_main_purify_hospital_01/l_main_purify_hospital_01",
+            "levelNode": "Main/Purify/l_main_purify_hospital_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 191,
+            "scene": "Main/Yellow/l_main_yellow_general_03_01/l_main_yellow_general_03_01",
+            "levelNode": "Main/Yellow/l_main_yellow_general_03_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 192,
+            "scene": "SIM/l_sim_simCombat01_11/l_sim_simCombat01_11",
+            "levelNode": "Sim/l_sim_simCombat01_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 193,
+            "scene": "SIM/l_sim_simCombat01_12/l_sim_simCombat01_12",
+            "levelNode": "Sim/l_sim_simCombat01_12",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 194,
+            "scene": "SIM/l_sim_simCombat01_13/l_sim_simCombat01_13",
+            "levelNode": "Sim/l_sim_simCombat01_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 195,
+            "scene": "SIM/l_sim_fightTest_01_1/l_sim_fightTest_01_1",
+            "levelNode": "Sim/l_sim_fightTest_01_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 196,
+            "scene": "SIM/l_sim_tower/l_sim_tower_03/l_sim_tower_03_1/l_sim_tower_03_1",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_03_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 197,
+            "scene": "SIM/l_sim_tower/l_sim_tower_03/l_sim_tower_03_2/l_sim_tower_03_2",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_03_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 198,
+            "scene": "SIM/l_sim_tower/l_sim_tower_03/l_sim_tower_03_3/l_sim_tower_03_3",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_03_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 199,
+            "scene": "SIM/l_sim_tower/l_sim_tower_03/l_sim_tower_03_4/l_sim_tower_03_4",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_03_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 250,
+            "scene": "SIM/l_sim_tower/l_sim_tower_test/l_sim_tower_test_01/l_sim_tower_test_01",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_test_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 252,
+            "scene": "SIM/l_sim_experiment_01/l_sim_experiment_01",
+            "levelNode": "Sim/l_sim_experiment_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 253,
+            "scene": "SIM/l_sim_experiment_02/l_sim_experiment_02",
+            "levelNode": "Sim/l_sim_experiment_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 254,
+            "scene": "SIM/l_sim_experiment_03/l_sim_experiment_03",
+            "levelNode": "Sim/l_sim_experiment_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 256,
+            "scene": "SIM/l_sim_experiment_05/l_sim_experiment_05",
+            "levelNode": "Sim/l_sim_experiment_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 257,
+            "scene": "SIM/l_sim_experiment_06/l_sim_experiment_06",
+            "levelNode": "Sim/l_sim_experiment_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 258,
+            "scene": "SIM/l_sim_simCombat01_01/l_sim_simCombat01_01",
+            "levelNode": "Sim/l_sim_simCombat01_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 259,
+            "scene": "SIM/l_sim_exp/l_sim_exp_2",
+            "levelNode": "Sim/l_sim_exp_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 272,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_1_01/l_sim_weekchallenge_A1_1_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_1_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 273,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_1_02/l_sim_weekchallenge_A1_1_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_1_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 274,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_1_03/l_sim_weekchallenge_A1_1_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_1_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 275,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_01/l_sim_rogueliketower_01_3/l_sim_rogueliketower_01_3",
+            "levelNode": "Sim/l_sim_rogueliketower_01_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 276,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_01/l_sim_rogueliketower_01_4/l_sim_rogueliketower_01_4",
+            "levelNode": "Sim/l_sim_rogueliketower_01_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 277,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_02/l_sim_rogueliketower_02_3/l_sim_rogueliketower_02_3",
+            "levelNode": "Sim/l_sim_rogueliketower_02_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 278,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_02/l_sim_rogueliketower_02_4/l_sim_rogueliketower_02_4",
+            "levelNode": "Sim/l_sim_rogueliketower_02_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 490,
+            "scene": "Darkzone/l_darkzone_yd081207/l_darkzone_yd081207",
+            "levelNode": "Darkzone/l_darkzone_yd081207",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 491,
+            "scene": "Darkzone/l_darkzone_yd120804/l_darkzone_yd120804",
+            "levelNode": "Darkzone/l_darkzone_yd120804",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 492,
+            "scene": "Darkzone/l_darkzone_yd121202/l_darkzone_yd121202",
+            "levelNode": "Darkzone/l_darkzone_yd121202",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 493,
+            "scene": "Darkzone/l_darkzone_yd121203/l_darkzone_yd121203",
+            "levelNode": "Darkzone/l_darkzone_yd121203",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 494,
+            "scene": "Darkzone/l_darkzone_yd121204/l_darkzone_yd121204",
+            "levelNode": "Darkzone/l_darkzone_yd121204",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 495,
+            "scene": "Darkzone/l_darkzone_yd081208/l_darkzone_yd081208",
+            "levelNode": "Darkzone/l_darkzone_yd081208",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 496,
+            "scene": "Darkzone/l_darkzone_yd081209/l_darkzone_yd081209",
+            "levelNode": "Darkzone/l_darkzone_yd081209",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 497,
+            "scene": "Darkzone/l_darkzone_yd120805/l_darkzone_yd120805",
+            "levelNode": "Darkzone/l_darkzone_yd120805",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 498,
+            "scene": "Darkzone/l_darkzone_yd121205/l_darkzone_yd121205",
+            "levelNode": "Darkzone/l_darkzone_yd121205",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 499,
+            "scene": "Darkzone/l_darkzone_yd121206/l_darkzone_yd121206",
+            "levelNode": "Darkzone/l_darkzone_yd121206",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 40,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_7",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_7",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 41,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_8",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_8",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 42,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_9",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_9",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 43,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_10",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 44,
+            "scene": "FightTest/demo_slg_debugCentre_5",
+            "levelNode": "FightTest/demo_slg_debugCentre_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 45,
+            "scene": "Sim/l_sim_equip_01",
+            "levelNode": "Sim/l_sim_equip_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 46,
+            "scene": "Sim/l_sim_equip_02",
+            "levelNode": "Sim/l_sim_equip_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 47,
+            "scene": "Sim/l_sim_equip_03",
+            "levelNode": "Sim/l_sim_equip_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 48,
+            "scene": "Sim/l_sim_equip_04",
+            "levelNode": "Sim/l_sim_equip_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 49,
+            "scene": "SIM/l_sim_rune_01/l_sim_rune_01",
+            "levelNode": "Sim/l_sim_rune_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 100,
+            "scene": "Main/Yellow/l_main_yellow_general_03_1",
+            "levelNode": "Main/Yellow/l_main_yellow_general_03_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 101,
+            "scene": "Main/Yellow/l_main_yellow_abandonedTown_01_1",
+            "levelNode": "Main/Yellow/l_main_yellow_abandonedTown_01_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 102,
+            "scene": "FightTest/demo_slg_debugCentre_4",
+            "levelNode": "FightTest/demo_slg_debugCentre_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 103,
+            "scene": "FightTest/demo_slg_abandonedTown01_2",
+            "levelNode": "FightTest/demo_slg_abandonedTown01_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 104,
+            "scene": "FightTest/demo_slg_abandonedTown01_3",
+            "levelNode": "FightTest/demo_slg_abandonedTown01_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 106,
+            "scene": "FightTest/demo_slg_abandonedTown02_1",
+            "levelNode": "FightTest/demo_slg_abandonedTown02_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 107,
+            "scene": "Sim/l_sim_simCombat01_03",
+            "levelNode": "Sim/l_sim_simCombat01_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 108,
+            "scene": "SIM/l_sim_simCombat01_04/l_sim_simCombat01_04",
+            "levelNode": "Sim/l_sim_simCombat01_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 109,
+            "scene": "Sim/l_sim_tower_13",
+            "levelNode": "Sim/l_sim_tower_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 150,
+            "scene": "Main/Yellow/l_main_yellow_train_01/l_main_yellow_train_01",
+            "levelNode": "Main/Yellow/l_main_yellow_train_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 151,
+            "scene": "Main/Green/l_main_green_street_01/l_main_green_street_01",
+            "levelNode": "Main/Green/l_main_green_street_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 152,
+            "scene": "Main/Green/l_main_green_street_02/l_main_green_street_02",
+            "levelNode": "Main/Green/l_main_green_street_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 153,
+            "scene": "Main/Yellow/l_main_yellow_darkMarket_01/l_main_yellow_darkMarket_01",
+            "levelNode": "Main/Yellow/l_main_yellow_darkMarket_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 154,
+            "scene": "Main/Yellow/l_main_yellow_general_04/l_main_yellow_general_04_forTest",
+            "levelNode": "Main/Yellow/l_main_yellow_general_04_forTest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 155,
+            "scene": "SIM/l_sim_simCombat01_05/l_sim_simCombat01_05",
+            "levelNode": "Sim/l_sim_simCombat01_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 156,
+            "scene": "SIM/l_sim_simCombat01_06/l_sim_simCombat01_06",
+            "levelNode": "Sim/l_sim_simCombat01_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 157,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_01/l_sim_rogueliketower_01_1/l_sim_rogueliketower_01_1",
+            "levelNode": "Sim/l_sim_rogueliketower_01_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 158,
+            "scene": "Main/Yellow/l_main_yellow_beacon_01_test/l_main_yellow_beacon_01_mobiletest",
+            "levelNode": "Main/Yellow/l_main_yellow_beacon_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 159,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_02/l_sim_rogueliketower_02_1/l_sim_rogueliketower_02_1",
+            "levelNode": "Sim/l_sim_rogueliketower_02_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 540,
+            "scene": "Darkzone/l_darkzone_yd121218/l_darkzone_yd121218",
+            "levelNode": "Darkzone/l_darkzone_yd121218",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 541,
+            "scene": "Darkzone/l_darkzone_yd081225/l_darkzone_yd081225",
+            "levelNode": "Darkzone/l_darkzone_yd081225",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 542,
+            "scene": "Darkzone/l_darkzone_yd120812/l_darkzone_yd120812",
+            "levelNode": "Darkzone/l_darkzone_yd120812",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 543,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_01/l_event_sim_95_01",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 544,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_02/l_event_sim_95_02",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 545,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_03/l_event_sim_95_03",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 546,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_04/l_event_sim_95_04",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 547,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_05/l_event_sim_95_05",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 548,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_1_01/l_sim_weekchallenge_A2_1_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_1_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 549,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_1_02/l_sim_weekchallenge_A2_1_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_1_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 610,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_return",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_return",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 611,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_01/l_sim_mind_assist_01",
+            "levelNode": "Sim/l_sim_mind_assist_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 612,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_02/l_sim_mind_assist_02",
+            "levelNode": "Sim/l_sim_mind_assist_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 613,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_03/l_sim_mind_assist_03",
+            "levelNode": "Sim/l_sim_mind_assist_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 614,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_04/l_sim_mind_assist_04",
+            "levelNode": "Sim/l_sim_mind_assist_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 615,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_05/l_sim_mind_assist_05",
+            "levelNode": "Sim/l_sim_mind_assist_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 616,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_06/l_sim_mind_assist_06",
+            "levelNode": "Sim/l_sim_mind_assist_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 617,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_07/l_sim_mind_assist_07",
+            "levelNode": "Sim/l_sim_mind_assist_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 618,
+            "scene": "SIM/l_sim_mind/assist/l_sim_mind_assist_08/l_sim_mind_assist_08",
+            "levelNode": "Sim/l_sim_mind_assist_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 619,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_04/l_sim_generate_branch_yellow_04",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 730,
+            "scene": "SIM/l_sim_show/l_sim_show_TololoSSR_01",
+            "levelNode": "Sim/l_sim_show_TololoSSR_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 731,
+            "scene": "SIM/l_sim_show/l_sim_show_TololoSSR_02",
+            "levelNode": "Sim/l_sim_show_TololoSSR_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 790,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_AR/l_sim_weaponParts_AR_02",
+            "levelNode": "Sim/l_sim_weaponParts_AR_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 791,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_AR/l_sim_weaponParts_AR_03",
+            "levelNode": "Sim/l_sim_weaponParts_AR_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 792,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_HV/l_sim_weaponParts_HV_01",
+            "levelNode": "Sim/l_sim_weaponParts_HV_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 793,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_HV/l_sim_weaponParts_HV_02",
+            "levelNode": "Sim/l_sim_weaponParts_HV_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 794,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_HV/l_sim_weaponParts_HV_03",
+            "levelNode": "Sim/l_sim_weaponParts_HV_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 795,
+            "scene": "SIM/l_sim_show/l_sim_show_CentaureissiSSR_01",
+            "levelNode": "Sim/l_sim_show_CentaureissiSSR_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 796,
+            "scene": "SIM/l_sim_show/l_sim_show_CentaureissiSSR_02",
+            "levelNode": "Sim/l_sim_show_CentaureissiSSR_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 797,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_21",
+            "levelNode": "Sim/l_sim_puzzle_21",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 30,
+            "scene": "MainStory/Chapter00/TrueDemo1",
+            "levelNode": "MainStory/Chapter00/TrueDemo1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 31,
+            "scene": "MainStory/Chapter00/TrueDemo2",
+            "levelNode": "MainStory/Chapter00/TrueDemo2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 32,
+            "scene": "FightTest/demo_slg_fightTest_10",
+            "levelNode": "FightTest/demo_slg_fightTest_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 33,
+            "scene": "FightTest/demo_slg_fightTest_9",
+            "levelNode": "FightTest/demo_slg_fightTest_9",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 34,
+            "scene": "FightTest/demo_slg_fightTest_11",
+            "levelNode": "FightTest/demo_slg_fightTest_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 35,
+            "scene": "Test/l_sim_charaTest_01/l_sim_charaTest_01",
+            "levelNode": "SIM/l_sim_charaTest_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 36,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_1",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 37,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_4",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 38,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_5",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 39,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_6",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_6",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 480,
+            "scene": "Darkzone/l_darkzone_yd081201/l_darkzone_yd081201",
+            "levelNode": "Darkzone/l_darkzone_yd081201",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 481,
+            "scene": "Darkzone/l_darkzone_yd120801/l_darkzone_yd120801",
+            "levelNode": "Darkzone/l_darkzone_yd120801",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 482,
+            "scene": "Darkzone/l_darkzone_yd121201/l_darkzone_yd121201",
+            "levelNode": "Darkzone/l_darkzone_yd121201",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 483,
+            "scene": "Darkzone/l_darkzone_yd120802/l_darkzone_yd120802",
+            "levelNode": "Darkzone/l_darkzone_yd120802",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 484,
+            "scene": "Darkzone/l_darkzone_yd081202/l_darkzone_yd081202",
+            "levelNode": "Darkzone/l_darkzone_yd081202",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 485,
+            "scene": "Darkzone/l_darkzone_yd081203/l_darkzone_yd081203",
+            "levelNode": "Darkzone/l_darkzone_yd081203",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 486,
+            "scene": "Darkzone/l_darkzone_yd081204/l_darkzone_yd081204",
+            "levelNode": "Darkzone/l_darkzone_yd081204",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 487,
+            "scene": "Darkzone/l_darkzone_yd120803/l_darkzone_yd120803",
+            "levelNode": "Darkzone/l_darkzone_yd120803",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 488,
+            "scene": "Darkzone/l_darkzone_yd081205/l_darkzone_yd081205",
+            "levelNode": "Darkzone/l_darkzone_yd081205",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 489,
+            "scene": "Darkzone/l_darkzone_yd081206/l_darkzone_yd081206",
+            "levelNode": "Darkzone/l_darkzone_yd081206",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 660,
+            "scene": "Main/Yellow/l_main_yellow_curveRoad_03/l_main_yellow_curveRoad_03",
+            "levelNode": "Main/Yellow/l_main_yellow_curveRoad_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 661,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_10/l_sim_generate_challenge_yellow_10",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 662,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_11/l_sim_generate_challenge_yellow_11",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 663,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_01/l_sim_weekchallenge_A5_3_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 664,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_02/l_sim_weekchallenge_A5_3_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 665,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_03/l_sim_weekchallenge_A5_3_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 666,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_04/l_sim_weekchallenge_A5_3_04",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_3_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 667,
+            "scene": "Main/Yellow/l_main_yellow_TownCenter_03/l_main_yellow_TownCenter_03",
+            "levelNode": "Main/Yellow/l_main_yellow_TownCenter_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 668,
+            "scene": "Main/Yellow/l_main_yellow_TownStreet_03/l_main_yellow_TownStreet_03",
+            "levelNode": "Main/Yellow/l_main_yellow_TownStreet_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 669,
+            "scene": "Main/Yellow/l_main_yellow_beacon_12/l_main_yellow_beacon_12",
+            "levelNode": "Main/Yellow/l_main_yellow_beacon_12",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 757,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_SMG/l_sim_weaponParts_SMG_01",
+            "levelNode": "Sim/l_sim_weaponParts_SMG_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 758,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_SMG/l_sim_weaponParts_SMG_02",
+            "levelNode": "Sim/l_sim_weaponParts_SMG_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 759,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_SMG/l_sim_weaponParts_SMG_03",
+            "levelNode": "Sim/l_sim_weaponParts_SMG_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 770,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_02/l_sim_generate_daiyan_green_02",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 771,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_03/l_sim_generate_daiyan_green_03",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 772,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_04/l_sim_generate_daiyan_green_04",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 773,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_05/l_sim_generate_daiyan_green_05",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 774,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_06/l_sim_generate_daiyan_green_06",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 775,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_07/l_sim_generate_daiyan_green_07",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 776,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_08/l_sim_generate_daiyan_green_08",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 777,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_09/l_sim_generate_daiyan_green_09",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 778,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_10/l_sim_generate_daiyan_green_10",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 779,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_11/l_sim_generate_daiyan_green_11",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 90,
+            "scene": "Main/Yellow/l_main_yellow_factory_02/l_main_yellow_factory_02",
+            "levelNode": "Main/Yellow/l_main_yellow_factory_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 91,
+            "scene": "FightTest/demo_artscene_test",
+            "levelNode": "FightTest/demo_artscene_test",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 92,
+            "scene": "MainStory/Chapter00/demo_slg_mainStory_0_1",
+            "levelNode": "MainStory/Chapter00/demo_slg_mainStory_0_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 93,
+            "scene": "Sim/l_sim_simCombat01_02",
+            "levelNode": "Sim/l_sim_simCombat01_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 94,
+            "scene": "Test/demo_slg_HighLandsTest/demo_slg_HighLandsTest",
+            "levelNode": "Sim/demo_slg_HighLandsTest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 95,
+            "scene": "FightTest/demo_slg_debugCentre_3",
+            "levelNode": "FightTest/demo_slg_debugCentre_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 96,
+            "scene": "SIM/l_sim_PvP_02/l_sim_PvP_02",
+            "levelNode": "Sim/l_sim_PvP_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 97,
+            "scene": "Main/Yellow/l_main_yellow_beacon_02/l_main_yellow_beacon_02",
+            "levelNode": "Main/Yellow/l_main_yellow_beacon_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 98,
+            "scene": "Main/Yellow/l_main_yellow_general_01_1",
+            "levelNode": "Main/Yellow/l_main_yellow_general_01_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 99,
+            "scene": "Main/Yellow/l_main_yellow_general_02_1",
+            "levelNode": "Main/Yellow/l_main_yellow_general_02_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 130,
+            "scene": "Sim/l_sim_tower_03_3_1",
+            "levelNode": "Sim/l_sim_tower_03_3_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 131,
+            "scene": "Sim/l_sim_tower_03_4_1",
+            "levelNode": "Sim/l_sim_tower_03_4_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 132,
+            "scene": "Sim/l_sim_tower_04_1_1",
+            "levelNode": "Sim/l_sim_tower_04_1_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 134,
+            "scene": "Sim/l_sim_tower_04_2_1",
+            "levelNode": "Sim/l_sim_tower_04_2_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 135,
+            "scene": "Main/Yellow/l_main_yellow_abandonedTown_02_new",
+            "levelNode": "Main/Yellow/l_main_yellow_abandonedTown_02_new",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 136,
+            "scene": "Sim/l_sim_tower_04_3_1",
+            "levelNode": "Sim/l_sim_tower_04_3_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 137,
+            "scene": "Sim/l_sim_tower_04_4_1",
+            "levelNode": "Sim/l_sim_tower_04_4_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 138,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_challenge_06/l_event_sim_95_challenge_06",
+            "levelNode": "Main/Event/QBZ-95/l_sim_daiyan_challenge_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 139,
+            "scene": "Main/Yellow/invitation_test_6_2",
+            "levelNode": "Main/Yellow/invitation_test_6_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 670,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridge_04/l_main_yellow_brokenBridge_04",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridge_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 671,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridgeB_03/l_main_yellow_brokenBridgeB_03",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridgeB_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 672,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_04",
+            "levelNode": "Sim/l_sim_puzzle_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 673,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_05",
+            "levelNode": "Sim/l_sim_puzzle_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 674,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_06",
+            "levelNode": "Sim/l_sim_puzzle_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 675,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_07",
+            "levelNode": "Sim/l_sim_puzzle_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 676,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_08",
+            "levelNode": "Sim/l_sim_puzzle_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 677,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_09",
+            "levelNode": "Sim/l_sim_puzzle_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 678,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_10",
+            "levelNode": "Sim/l_sim_puzzle_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 679,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_11",
+            "levelNode": "Sim/l_sim_puzzle_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 842,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_challenge_03/l_event_sim_95_challenge_03",
+            "levelNode": "Main/Event/QBZ-95/l_sim_daiyan_challenge_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 80,
+            "scene": "Test/demo_slg_SimScenesTest/demo_slg_SimScenesTest",
+            "levelNode": "Sim/demo_slg_SimScenesTest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 81,
+            "scene": "Sim/l_sim_tower_06",
+            "levelNode": "Sim/l_sim_tower_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 82,
+            "scene": "Sim/l_sim_tower_07",
+            "levelNode": "Sim/l_sim_tower_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 83,
+            "scene": "Sim/l_sim_tower_08",
+            "levelNode": "Sim/l_sim_tower_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 84,
+            "scene": "Sim/l_sim_tower_09",
+            "levelNode": "Sim/l_sim_tower_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 85,
+            "scene": "Sim/l_sim_tower_10",
+            "levelNode": "Sim/l_sim_tower_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 86,
+            "scene": "Main/Yellow/l_main_yellow_fortressPark_01/l_main_yellow_fortressPark_01",
+            "levelNode": "Main/Yellow/l_main_yellow_fortressPark_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 87,
+            "scene": "Main/Yellow/l_main_yellow_TrainLigatures_01/l_main_yellow_TrainLigatures_01",
+            "levelNode": "Main/Yellow/l_main_yellow_TrainLigatures_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 88,
+            "scene": "Main/Yellow/l_main_yellow_beacon_11/l_main_yellow_beacon_11",
+            "levelNode": "Main/Yellow/l_main_yellow_beacon_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 89,
+            "scene": "Main/Yellow/l_main_yellow_factory_01/l_main_yellow_factory_01",
+            "levelNode": "Main/Yellow/l_main_yellow_factory_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 284,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_03/l_sim_rogueliketower_03_3/l_sim_rogueliketower_03_3",
+            "levelNode": "Sim/l_sim_rogueliketower_03_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 285,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_03/l_sim_rogueliketower_03_4/l_sim_rogueliketower_03_4",
+            "levelNode": "Sim/l_sim_rogueliketower_03_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 286,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_ex/l_sim_rogueliketower_ex_1/l_sim_rogueliketower_ex_1",
+            "levelNode": "Sim/l_sim_rogueliketower_ex_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 287,
+            "scene": "SIM/l_sim_talent/l_sim_talent_01/l_sim_talent_01",
+            "levelNode": "Sim/l_sim_talent_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 288,
+            "scene": "SIM/l_sim_talent/l_sim_talent_02/l_sim_talent_02",
+            "levelNode": "Sim/l_sim_talent_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 289,
+            "scene": "SIM/l_sim_talent/l_sim_talent_03/l_sim_talent_03",
+            "levelNode": "Sim/l_sim_talent_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 310,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A2/l_sim_weekchallenge_A2_03/l_sim_weekchallenge_A2_03",
+            "levelNode": "Sim/l_sim_weekchallenge_A2_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 311,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A3/l_sim_weekchallenge_A3_03/l_sim_weekchallenge_A3_03",
+            "levelNode": "Sim/l_sim_weekchallenge_A3_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 312,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_04/l_sim_rogueliketower_04_4/l_sim_rogueliketower_04_4",
+            "levelNode": "Sim/l_sim_rogueliketower_04_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 313,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_ex/l_sim_rogueliketower_ex_2/l_sim_rogueliketower_ex_2",
+            "levelNode": "Sim/l_sim_rogueliketower_ex_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 314,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_general01",
+            "levelNode": "Sim/l_sim_PVP_general01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 315,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_special01",
+            "levelNode": "Sim/l_sim_PVP_special01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 316,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_special02",
+            "levelNode": "Sim/l_sim_PVP_special02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 318,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_ex/l_sim_rogueliketower_ex_3/l_sim_rogueliketower_ex_3",
+            "levelNode": "Sim/l_sim_rogueliketower_ex_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 330,
+            "scene": "SIM/l_sim_experiment_07/l_sim_experiment_07",
+            "levelNode": "Sim/l_sim_experiment_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 331,
+            "scene": "SIM/l_sim_experiment_08/l_sim_experiment_08",
+            "levelNode": "Sim/l_sim_experiment_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 332,
+            "scene": "SIM/l_sim_experiment_09/l_sim_experiment_09",
+            "levelNode": "Sim/l_sim_experiment_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 333,
+            "scene": "SIM/l_sim_experiment_10/l_sim_experiment_10",
+            "levelNode": "Sim/l_sim_experiment_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 334,
+            "scene": "SIM/l_sim_experiment_11/l_sim_experiment_11",
+            "levelNode": "Sim/l_sim_experiment_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 335,
+            "scene": "SIM/l_sim_experiment_12/l_sim_experiment_12",
+            "levelNode": "Sim/l_sim_experiment_12",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 336,
+            "scene": "SIM/l_sim_experiment_13/l_sim_experiment_13",
+            "levelNode": "Sim/l_sim_experiment_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 337,
+            "scene": "SIM/l_sim_experiment_14/l_sim_experiment_14",
+            "levelNode": "Sim/l_sim_experiment_14",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 338,
+            "scene": "SIM/l_sim_experiment_15/l_sim_experiment_15",
+            "levelNode": "Sim/l_sim_experiment_15",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 339,
+            "scene": "SIM/l_sim_experiment_16/l_sim_experiment_16",
+            "levelNode": "Sim/l_sim_experiment_16",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 370,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_guide",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_guide",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 372,
+            "scene": "SIM/l_sim_rune_03/l_sim_rune_03",
+            "levelNode": "Sim/l_sim_rune_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 373,
+            "scene": "SIM/l_sim_rune_04/l_sim_rune_04",
+            "levelNode": "Sim/l_sim_rune_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 374,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_general02",
+            "levelNode": "Sim/l_sim_PVP_general02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 375,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_general03",
+            "levelNode": "Sim/l_sim_PVP_general03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 376,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_general04",
+            "levelNode": "Sim/l_sim_PVP_general04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 377,
+            "scene": "SIM/l_sim_temp_01/l_sim_temp_01",
+            "levelNode": "Sim/l_sim_temp_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 378,
+            "scene": "Main/Yellow/l_main_yellow_curveRoad_01/l_main_yellow_curveRoad_01",
+            "levelNode": "Main/Yellow/l_main_yellow_curveRoad_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 379,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_special03",
+            "levelNode": "Sim/l_sim_PVP_special03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 580,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_01/l_sim_generate_branch_yellow_01",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 581,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_11/l_event_sim_95_11",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_11",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 582,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_01/l_sim_mind_firepower_01",
+            "levelNode": "Sim/l_sim_mind_firepower_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 583,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_02/l_sim_mind_firepower_02",
+            "levelNode": "Sim/l_sim_mind_firepower_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 584,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_03/l_sim_mind_firepower_03",
+            "levelNode": "Sim/l_sim_mind_firepower_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 585,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_04/l_sim_mind_firepower_04",
+            "levelNode": "Sim/l_sim_mind_firepower_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 586,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_05/l_sim_mind_firepower_05",
+            "levelNode": "Sim/l_sim_mind_firepower_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 587,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_06/l_sim_mind_firepower_06",
+            "levelNode": "Sim/l_sim_mind_firepower_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 588,
+            "scene": "SIM/l_sim_mind/firepower/l_sim_mind_firepower_07/l_sim_mind_firepower_07",
+            "levelNode": "Sim/l_sim_mind_firepower_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 589,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_02/l_sim_generate_branch_yellow_02",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 650,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_08/l_sim_experiment_weapon_08",
+            "levelNode": "Sim/l_sim_experiment_weapon_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 651,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_09/l_sim_experiment_weapon_09",
+            "levelNode": "Sim/l_sim_experiment_weapon_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 652,
+            "scene": "SIM/l_sim_experiment_weapon/l_sim_experiment_weapon_10/l_sim_experiment_weapon_10",
+            "levelNode": "Sim/l_sim_experiment_weapon_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 653,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_countcashang",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_countcashang",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 654,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_06/l_sim_generate_branch_yellow_06",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 655,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_07/l_sim_generate_branch_yellow_07",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 656,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_08/l_sim_generate_branch_yellow_08",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 657,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_09/l_sim_generate_branch_yellow_09",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 658,
+            "scene": "SIM/l_sim_tower/l_sim_tower_02/l_sim_tower_02_5/l_sim_tower_02_5",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_02_5",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 659,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_10/l_sim_generate_branch_yellow_10",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 110,
+            "scene": "Sim/l_sim_tower_14",
+            "levelNode": "Sim/l_sim_tower_14",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 111,
+            "scene": "Sim/l_sim_tower_15",
+            "levelNode": "Sim/l_sim_tower_15",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 112,
+            "scene": "Sim/l_sim_tower_16",
+            "levelNode": "Sim/l_sim_tower_16",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 113,
+            "scene": "Sim/l_sim_tower_17",
+            "levelNode": "Sim/l_sim_tower_17",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 114,
+            "scene": "Sim/l_sim_tower_18",
+            "levelNode": "Sim/l_sim_tower_18",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 115,
+            "scene": "Sim/l_sim_tower_19",
+            "levelNode": "Sim/l_sim_tower_19",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 116,
+            "scene": "Sim/l_sim_tower_20",
+            "levelNode": "Sim/l_sim_tower_20",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 117,
+            "scene": "Sim/l_sim_tower_01_1_1",
+            "levelNode": "Sim/l_sim_tower_01_1_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 118,
+            "scene": "Sim/l_sim_tower_01_2_1",
+            "levelNode": "Sim/l_sim_tower_01_2_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 119,
+            "scene": "Sim/l_sim_tower_01_3_1",
+            "levelNode": "Sim/l_sim_tower_01_3_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 210,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_01",
+            "levelNode": "Sim/l_sim_puzzle_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 211,
+            "scene": "SIM/l_sim_gold/l_sim_gold",
+            "levelNode": "Sim/l_sim_gold",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 212,
+            "scene": "SIM/l_sim_exp/l_sim_exp",
+            "levelNode": "Sim/l_sim_exp",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 213,
+            "scene": "SIM/l_sim_weekchallenge_01/l_sim_weekchallenge_01",
+            "levelNode": "Sim/l_sim_weekchallenge_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 214,
+            "scene": "SIM/l_sim_weekchallenge_02/l_sim_weekchallenge_02",
+            "levelNode": "Sim/l_sim_weekchallenge_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 215,
+            "scene": "SIM/l_sim_weekchallenge_03/l_sim_weekchallenge_03",
+            "levelNode": "Sim/l_sim_weekchallenge_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 216,
+            "scene": "SIM/l_sim_gold/l_sim_gold_1",
+            "levelNode": "Sim/l_sim_gold_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 217,
+            "scene": "SIM/l_sim_exp/l_sim_exp_1",
+            "levelNode": "Sim/l_sim_exp_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 218,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_02",
+            "levelNode": "Sim/l_sim_puzzle_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 219,
+            "scene": "SIM/l_sim_puzzle/l_sim_puzzle_03",
+            "levelNode": "Sim/l_sim_puzzle_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 290,
+            "scene": "SIM/l_sim_talent/l_sim_talent_04/l_sim_talent_04",
+            "levelNode": "Sim/l_sim_talent_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 291,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_boss/l_sim_rogueliketower_boss_1/l_sim_rogueliketower_boss_1",
+            "levelNode": "Sim/l_sim_rogueliketower_boss_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 292,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_boss/l_sim_rogueliketower_boss_2/l_sim_rogueliketower_boss_2",
+            "levelNode": "Sim/l_sim_rogueliketower_boss_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 294,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_01/l_sim_weekchallenge_A1_01",
+            "levelNode": "Sim/l_sim_weekchallenge_A1_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 295,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_02/l_sim_weekchallenge_A1_02",
+            "levelNode": "Sim/l_sim_weekchallenge_A1_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 296,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A1/l_sim_weekchallenge_A1_03/l_sim_weekchallenge_A1_03",
+            "levelNode": "Sim/l_sim_weekchallenge_A1_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 297,
+            "scene": "SIM/l_sim_tower/l_sim_tower_05/l_sim_tower_05_1/l_sim_tower_05_1",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_05_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 298,
+            "scene": "SIM/l_sim_tower/l_sim_tower_05/l_sim_tower_05_2/l_sim_tower_05_2",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_05_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 299,
+            "scene": "SIM/l_sim_tower/l_sim_tower_05/l_sim_tower_05_3/l_sim_tower_05_3",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_05_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 380,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_special04",
+            "levelNode": "Sim/l_sim_PVP_special04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 381,
+            "scene": "SIM/l_sim_PVP/l_sim_PVP_special05",
+            "levelNode": "Sim/l_sim_PVP_special05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 382,
+            "scene": "SIM/l_sim_generate_PVP_yellow/l_sim_PVP_special06/l_sim_PVP_special06",
+            "levelNode": "Sim/l_sim_PVP_special06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 383,
+            "scene": "SIM/l_sim_simCombat01_14/l_sim_simCombat01_14",
+            "levelNode": "Sim/l_sim_simCombat01_14",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 384,
+            "scene": "SIM/l_sim_simCombat01_08/l_sim_simCombat01_08",
+            "levelNode": "Sim/l_sim_simCombat01_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 385,
+            "scene": "SIM/l_sim_temp_01/l_sim_temp_02",
+            "levelNode": "Sim/l_sim_temp_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 386,
+            "scene": "SIM/l_sim_temp_01/l_sim_temp_03",
+            "levelNode": "Sim/l_sim_temp_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 387,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_ex/l_sim_rogueliketower_ex_4/l_sim_rogueliketower_ex_4",
+            "levelNode": "Sim/l_sim_rogueliketower_ex_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 388,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_boss/l_sim_rogueliketower_boss_3/l_sim_rogueliketower_boss_3",
+            "levelNode": "Sim/l_sim_rogueliketower_boss_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 389,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_boss/l_sim_rogueliketower_boss_4/l_sim_rogueliketower_boss_4",
+            "levelNode": "Sim/l_sim_rogueliketower_boss_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 470,
+            "scene": "Darkzone/l_darkzone_yd100004/l_darkzone_yd100004",
+            "levelNode": "Darkzone/l_darkzone_yd100004",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 471,
+            "scene": "Darkzone/l_darkzone_yd100005/l_darkzone_yd100005",
+            "levelNode": "Darkzone/l_darkzone_yd100005",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 472,
+            "scene": "Darkzone/l_darkzone_yd100006/l_darkzone_yd100006",
+            "levelNode": "Darkzone/l_darkzone_yd100006",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 473,
+            "scene": "Darkzone/l_darkzone_yd100007/l_darkzone_yd100007",
+            "levelNode": "Darkzone/l_darkzone_yd100007",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 474,
+            "scene": "Darkzone/l_darkzone_yd100008/l_darkzone_yd100008",
+            "levelNode": "Darkzone/l_darkzone_yd100008",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 475,
+            "scene": "Darkzone/l_darkzone_yd100009/l_darkzone_yd100009",
+            "levelNode": "Darkzone/l_darkzone_yd100009",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 476,
+            "scene": "Darkzone/l_darkzone_yd040401/l_darkzone_yd040401",
+            "levelNode": "Darkzone/l_darkzone_yd040401",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 477,
+            "scene": "Darkzone/l_darkzone_yd040402/l_darkzone_yd040402",
+            "levelNode": "Darkzone/l_darkzone_yd040402",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 478,
+            "scene": "Darkzone/l_darkzone_yd040403/l_darkzone_yd040403",
+            "levelNode": "Darkzone/l_darkzone_yd040403",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 479,
+            "scene": "Darkzone/l_darkzone_yd040404/l_darkzone_yd040404",
+            "levelNode": "Darkzone/l_darkzone_yd040404",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 530,
+            "scene": "Darkzone/l_darkzone_yd081223/l_darkzone_yd081223",
+            "levelNode": "Darkzone/l_darkzone_yd081223",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 531,
+            "scene": "Darkzone/l_darkzone_yd081224/l_darkzone_yd081224",
+            "levelNode": "Darkzone/l_darkzone_yd081224",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 532,
+            "scene": "Main/Yellow/l_main_yellow_general_autobuildtest/l_main_yellow_general_autobuildtest",
+            "levelNode": "Main/Yellow/l_main_yellow_general_autobuildtest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 533,
+            "scene": "Test/video_slg_canyonTunnel/video_slg_canyonTunnel",
+            "levelNode": "Test/video_slg_canyonTunnel",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 534,
+            "scene": "Main/Yellow/l_main_yellow_factory_03/l_main_yellow_factory_03_temp",
+            "levelNode": "Main/Yellow/l_main_yellow_factory_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 535,
+            "scene": "SIM/l_sim_tower/l_sim_tower_00/l_sim_tower_00_1/l_sim_tower_00_1",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_00_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 536,
+            "scene": "SIM/l_sim_tower/l_sim_tower_00/l_sim_tower_00_2/l_sim_tower_00_2",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_00_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 537,
+            "scene": "SIM/l_sim_tower/l_sim_tower_00/l_sim_tower_00_3/l_sim_tower_00_3",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_00_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 538,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_cover",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_cover",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 539,
+            "scene": "Test/l_sim_slg_test_01/l_sim_slg_test_01",
+            "levelNode": "Sim/l_sim_slg_test_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 620,
+            "scene": "SIM/l_sim_generate_branch_yellow/l_sim_generate_branch_yellow_05/l_sim_generate_branch_yellow_05",
+            "levelNode": "Sim/l_sim_generate_branch_yellow_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 621,
+            "scene": "SIM/l_sim_experiment_gun/l_sim_experiment_gun_05/l_sim_experiment_gun_05",
+            "levelNode": "Sim/l_sim_experiment_gun_05",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 622,
+            "scene": "SIM/l_sim_experiment_gun/l_sim_experiment_gun_06/l_sim_experiment_gun_06",
+            "levelNode": "Sim/l_sim_experiment_gun_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 623,
+            "scene": "SIM/l_sim_experiment_gun/l_sim_experiment_gun_07/l_sim_experiment_gun_07",
+            "levelNode": "Sim/l_sim_experiment_gun_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 624,
+            "scene": "SIM/l_sim_experiment_gun/l_sim_experiment_gun_08/l_sim_experiment_gun_08",
+            "levelNode": "Sim/l_sim_experiment_gun_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 625,
+            "scene": "SIM/l_sim_generate_challenge_yellow/l_sim_generate_challenge_yellow_01/l_sim_generate_challenge_yellow_01",
+            "levelNode": "Sim/l_sim_generate_challenge_yellow_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 626,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_1_01/l_sim_weekchallenge_A5_1_01",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_1_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 627,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_1_02/l_sim_weekchallenge_A5_1_02",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_1_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 628,
+            "scene": "SIM/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_1_03/l_sim_weekchallenge_A5_1_03",
+            "levelNode": "Sim/l_sim_weekchallenge/l_sim_weekchallenge_A5/l_sim_weekchallenge_A5_1_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 629,
+            "scene": "SIM/l_sim_mind/pioneer/l_sim_rune_01/l_sim_rune_01_08",
+            "levelNode": "Sim/l_sim_rune_01_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 50,
+            "scene": "SIM/l_sim_rune_02/l_sim_rune_02",
+            "levelNode": "Sim/l_sim_rune_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 51,
+            "scene": "Main/Event/QBZ-95/l_event_daiyan_street_04/l_event_daiyan_street_04",
+            "levelNode": "Main/Event/QBZ-95/l_event_daiyan_street_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 52,
+            "scene": "Test/l_sim_slg_autotest/l_sim_slg_test_Green_01/l_sim_slg_test_Green_01",
+            "levelNode": "Test/l_sim_slg_test/l_sim_slg_test_Green_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 53,
+            "scene": "Test/l_sim_slg_autotest/l_sim_slg_test_Green_02/l_sim_slg_test_Green_02",
+            "levelNode": "Test/l_sim_slg_test/l_sim_slg_test_Green_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 54,
+            "scene": "SIM/l_sim_tower/l_sim_tower_00/l_sim_tower_00_4/l_sim_tower_00_4",
+            "levelNode": "Sim/l_sim_tower/l_sim_tower_00_4",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 55,
+            "scene": "SIM/demo_slg_skillTest01/demo_slg_skillTest01",
+            "levelNode": "Sim/demo_slg_skillTest01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 56,
+            "scene": "Sim/l_sim_PvP_01",
+            "levelNode": "Sim/l_sim_PvP_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 57,
+            "scene": "Main/Yellow/l_main_yellow_brokenBridge_01/l_main_yellow_brokenBridge_01",
+            "levelNode": "Main/Yellow/l_main_yellow_brokenBridge_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 58,
+            "scene": "MainStory/Chapter01/demo_slg_mainStory_1_9",
+            "levelNode": "MainStory/Chapter01/demo_slg_mainStory_1_9",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 59,
+            "scene": "MainStory/Chapter01/demo_slg_mainStory_1_10",
+            "levelNode": "MainStory/Chapter01/demo_slg_mainStory_1_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 170,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_01/l_sim_rogueliketower_01_2/l_sim_rogueliketower_01_2",
+            "levelNode": "Sim/l_sim_rogueliketower_01_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 171,
+            "scene": "Main/Yellow/l_main_yellow_abandonedTown_01a/l_main_yellow_abandonedTown_01a",
+            "levelNode": "Main/Yellow/l_main_yellow_TownStreet_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 176,
+            "scene": "Main/Yellow/l_main_yellow_abandonedHospital_01/l_main_yellow_abandonedHospital_01_sim",
+            "levelNode": "Main/Yellow/l_main_yellow_abandonedHospital_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 177,
+            "scene": "Main/Green/l_main_green_rooftop_01/l_main_green_rooftop_01",
+            "levelNode": "Main/Green/l_main_green_rooftop_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 178,
+            "scene": "Main/Green/l_main_green_rooftop_02/l_main_green_rooftop_02",
+            "levelNode": "Main/Green/l_main_green_rooftop_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 179,
+            "scene": "Main/Green/l_main_green_SatelliteTown_01/l_main_green_SatelliteTown_01",
+            "levelNode": "Main/Green/l_main_green_SatelliteTown_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 321,
+            "scene": "SIM/l_sim_quiz_abandoned/l_sim_quiz_01_abandoned/l_sim_quiz_01_abandoned",
+            "levelNode": "Sim/l_sim_quiz01_abandoned",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 322,
+            "scene": "SIM/l_sim_quiz_abandoned/l_sim_quiz_02_abandoned/l_sim_quiz_02_abandoned",
+            "levelNode": "Sim/l_sim_quiz02_abandoned",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 323,
+            "scene": "SIM/l_sim_quiz_abandoned/l_sim_quiz_03_abandoned/l_sim_quiz_03_abandoned",
+            "levelNode": "Sim/l_sim_quiz03_abandoned",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 324,
+            "scene": "SIM/l_sim_quiz_abandoned/l_sim_quiz_04_abandoned/l_sim_quiz_04_abandoned",
+            "levelNode": "Sim/l_sim_quiz04_abandoned",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 325,
+            "scene": "SIM/l_sim_quiz_abandoned/l_sim_quiz_05_abandoned/l_sim_quiz_05_abandoned",
+            "levelNode": "Sim/l_sim_quiz05_abandoned",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 326,
+            "scene": "SIM/l_sim_quiz_abandoned/l_sim_quiz_06_abandoned/l_sim_quiz_06_abandoned",
+            "levelNode": "Sim/l_sim_quiz06_abandoned",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 327,
+            "scene": "Main/Yellow/l_main_yellow_wildPlatform_02/l_main_yellow_wildPlatform_02",
+            "levelNode": "Main/Yellow/l_main_yellow_wildPlatform_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 570,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_06/l_sim_mind_defend_06",
+            "levelNode": "Sim/l_sim_mind_defend_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 571,
+            "scene": "SIM/l_sim_experiment_gun/l_sim_experiment_gun_03/l_sim_experiment_gun_03",
+            "levelNode": "Sim/l_sim_experiment_gun_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 572,
+            "scene": "SIM/l_sim_mind/defend/l_sim_mind_defend_07/l_sim_mind_defend_07",
+            "levelNode": "Sim/l_sim_mind_defend_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 573,
+            "scene": "Test/l_sim_coverSwitch_test/l_sim_coverSwitch_test",
+            "levelNode": "Sim/l_sim_coverSwitch_test",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 574,
+            "scene": "SIM/l_sim_experiment_gun/l_sim_experiment_gun_04/l_sim_experiment_gun_04",
+            "levelNode": "Sim/l_sim_experiment_gun_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 575,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_06/l_event_sim_95_06",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 576,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_07/l_event_sim_95_07",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 577,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_08/l_event_sim_95_08",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_08",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 578,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_09/l_event_sim_95_09",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_09",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 579,
+            "scene": "Main/Event/QBZ-95/l_event_sim_95_10/l_event_sim_95_10",
+            "levelNode": "Main/Event/QBZ-95/l_event_sim_95_10",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 60,
+            "scene": "FightTest/demo_slg_coverTest01",
+            "levelNode": "FightTest/demo_slg_coverTest01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 61,
+            "scene": "FightTest/demo_slg_fightTest_13",
+            "levelNode": "FightTest/demo_slg_fightTest_13",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 62,
+            "scene": "Main/Yellow/l_main_yellow_canyon_01/l_main_yellow_canyon_01",
+            "levelNode": "Main/Yellow/l_main_yellow_canyon_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 63,
+            "scene": "Main/Yellow/l_main_yellow_canyon_02/l_main_yellow_canyon_02",
+            "levelNode": "Main/Yellow/l_main_yellow_canyon_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 65,
+            "scene": "FightTest/demo_slg_coverscaleTest",
+            "levelNode": "FightTest/demo_slg_coverscaleTest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 66,
+            "scene": "FightTest/demo_slg_fightTest_14",
+            "levelNode": "FightTest/demo_slg_fightTest_14",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 67,
+            "scene": "FightTest/demo_slg_combatTest01",
+            "levelNode": "FightTest/demo_slg_combatTest01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 68,
+            "scene": "FightTest/demo_slg_fightTest_15",
+            "levelNode": "FightTest/demo_slg_fightTest_15",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 69,
+            "scene": "MainStory/Chapter02/demo_slg_mainStory_2_2",
+            "levelNode": "MainStory/Chapter02/demo_slg_mainStory_2_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 160,
+            "scene": "SIM/demo_slg_fightTest_06/demo_slg_fightTest_06",
+            "levelNode": "FightTest/demo_slg_fightTest_06",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 161,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_02/l_sim_rogueliketower_02_2/l_sim_rogueliketower_02_2",
+            "levelNode": "Sim/l_sim_rogueliketower_02_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 162,
+            "scene": "Main/Yellow/l_main_yellow_test_01/l_main_yellow_test_01",
+            "levelNode": "Main/Yellow/l_main_yellow_beacon_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 163,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_03/l_sim_rogueliketower_03_1/l_sim_rogueliketower_03_1",
+            "levelNode": "Sim/l_sim_rogueliketower_03_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 164,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_03/l_sim_rogueliketower_03_2/l_sim_rogueliketower_03_2",
+            "levelNode": "Sim/l_sim_rogueliketower_03_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 165,
+            "scene": "SIM/l_sim_simCombat01_07/l_sim_simCombat01_07",
+            "levelNode": "Sim/l_sim_simCombat01_07",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 166,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_04/l_sim_rogueliketower_04_1/l_sim_rogueliketower_04_1",
+            "levelNode": "Sim/l_sim_rogueliketower_04_1",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 167,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_04/l_sim_rogueliketower_04_2/l_sim_rogueliketower_04_2",
+            "levelNode": "Sim/l_sim_rogueliketower_04_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 168,
+            "scene": "SIM/l_sim_rogueliketower/l_sim_rogueliketower_04/l_sim_rogueliketower_04_3/l_sim_rogueliketower_04_3",
+            "levelNode": "Sim/l_sim_rogueliketower_04_3",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 169,
+            "scene": "Main/Yellow/l_main_yellow_highway_01/l_main_yellow_highway_01",
+            "levelNode": "Main/Yellow/l_main_yellow_highway_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 232,
+            "scene": "SIM/l_sim_fightTest_01_1/l_sim_fightTest_01_2",
+            "levelNode": "Sim/l_sim_fightTest_01_2",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 233,
+            "scene": "Main/Yellow/l_main_yellow_fortressPark_02/l_main_yellow_fortressPark_02",
+            "levelNode": "Main/Yellow/l_main_yellow_fortressPark_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 234,
+            "scene": "Main/Yellow/l_main_yellow_factory_03/l_main_yellow_factory_03",
+            "levelNode": "Main/Yellow/l_main_yellow_factory_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 235,
+            "scene": "Main/Yellow/l_main_yellow_highway_03/l_main_yellow_highway_03",
+            "levelNode": "Main/Yellow/l_main_yellow_highway_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 236,
+            "scene": "Main/Yellow/l_main_yellow_wildPlatform_01/l_main_yellow_wildPlatform_01",
+            "levelNode": "Main/Yellow/l_main_yellow_wildPlatform_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 237,
+            "scene": "Main/Yellow/l_main_yellow_TownCenter_02/l_main_yellow_TownCenter_02",
+            "levelNode": "Main/Yellow/l_main_yellow_TownCenter_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 239,
+            "scene": "Main/Yellow/l_main_yellow_factory_04/l_main_yellow_factory_04",
+            "levelNode": "Main/Yellow/l_main_yellow_factory_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 350,
+            "scene": "Test/l_sim_slg_test/l_sim_slg_test_collection",
+            "levelNode": "Sim/l_sim_slg_test/l_sim_slg_test_collection",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 351,
+            "scene": "SIM/l_sim_slg_defensetest/l_sim_slg_defensetest",
+            "levelNode": "Sim/l_sim_slg_defensetest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 352,
+            "scene": "Test/l_sim_slg_engagetest/l_sim_slg_engagetest",
+            "levelNode": "Sim/l_sim_slg_engagetest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 353,
+            "scene": "SIM/l_sim_slg_strongholdtest/l_sim_slg_strongholdtest",
+            "levelNode": "Sim/l_sim_slg_strongholdtest",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 354,
+            "scene": "Main/Yellow/l_main_yellow_highway_02/l_main_yellow_highway_02",
+            "levelNode": "Main/Yellow/l_main_yellow_highway_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 355,
+            "scene": "Main/Yellow/l_main_yellow_fortressPark_03/l_main_yellow_fortressPark_03",
+            "levelNode": "Main/Yellow/l_main_yellow_fortressPark_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 356,
+            "scene": "SIM/l_sim_standard_01/l_sim_standard_01",
+            "levelNode": "Sim/l_sim_standard_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 357,
+            "scene": "SIM/l_sim_standard_02/l_sim_standard_02",
+            "levelNode": "Sim/l_sim_standard_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 358,
+            "scene": "SIM/l_sim_standard_03/l_sim_standard_03",
+            "levelNode": "Sim/l_sim_standard_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 359,
+            "scene": "SIM/l_sim_standard_04/l_sim_standard_04",
+            "levelNode": "Sim/l_sim_standard_04",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 520,
+            "scene": "Darkzone/l_darkzone_yd081218/l_darkzone_yd081218",
+            "levelNode": "Darkzone/l_darkzone_yd081218",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 521,
+            "scene": "Darkzone/l_darkzone_yd081219/l_darkzone_yd081219",
+            "levelNode": "Darkzone/l_darkzone_yd081219",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 522,
+            "scene": "Darkzone/l_darkzone_yd081220/l_darkzone_yd081220",
+            "levelNode": "Darkzone/l_darkzone_yd081220",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 523,
+            "scene": "Darkzone/l_darkzone_yd121215/l_darkzone_yd121215",
+            "levelNode": "Darkzone/l_darkzone_yd121215",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 524,
+            "scene": "Darkzone/l_darkzone_yd121216/l_darkzone_yd121216",
+            "levelNode": "Darkzone/l_darkzone_yd121216",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 525,
+            "scene": "Darkzone/l_darkzone_yd121217/l_darkzone_yd121217",
+            "levelNode": "Darkzone/l_darkzone_yd121217",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 526,
+            "scene": "Darkzone/l_darkzone_yd120810/l_darkzone_yd120810",
+            "levelNode": "Darkzone/l_darkzone_yd120810",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 527,
+            "scene": "Darkzone/l_darkzone_yd120811/l_darkzone_yd120811",
+            "levelNode": "Darkzone/l_darkzone_yd120811",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 528,
+            "scene": "Darkzone/l_darkzone_yd081221/l_darkzone_yd081221",
+            "levelNode": "Darkzone/l_darkzone_yd081221",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 529,
+            "scene": "Darkzone/l_darkzone_yd081222/l_darkzone_yd081222",
+            "levelNode": "Darkzone/l_darkzone_yd081222",
+            "isDarkzone": true
+        },
+        {
+            "sceneId": 760,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_SP/l_sim_weaponParts_SP_01",
+            "levelNode": "Sim/l_sim_weaponParts_SP_01",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 761,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_SP/l_sim_weaponParts_SP_02",
+            "levelNode": "Sim/l_sim_weaponParts_SP_02",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 762,
+            "scene": "SIM/l_sim_weaponParts/l_sim_weaponParts_SP/l_sim_weaponParts_SP_03",
+            "levelNode": "Sim/l_sim_weaponParts_SP_03",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 763,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_19/l_sim_generate_daiyan_green_19",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_19",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 764,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_20/l_sim_generate_daiyan_green_20",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_20",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 765,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_21/l_sim_generate_daiyan_green_21",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_21",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 766,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_22/l_sim_generate_daiyan_green_22",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_22",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 767,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_23/l_sim_generate_daiyan_green_23",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_23",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 768,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_24/l_sim_generate_daiyan_green_24",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_24",
+            "isDarkzone": false
+        },
+        {
+            "sceneId": 769,
+            "scene": "SIM/l_sim_generate_daiyan_green/l_sim_generate_daiyan_green_01/l_sim_generate_daiyan_green_01",
+            "levelNode": "Sim/l_sim_generate_daiyan_green_01",
+            "isDarkzone": false
+        }
+    ]
+}

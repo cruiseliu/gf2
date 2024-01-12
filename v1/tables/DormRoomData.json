@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "cid": 3,
+            "room": 1,
+            "roomName": "武器室",
+            "roomLevel": 1,
+            "rewardSkin": 1,
+            "upgradeNum": 0,
+            "upgradeConstructRequire": 0,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": ""
+        },
+        {
+            "id": 2,
+            "cid": 3,
+            "room": 2,
+            "roomName": "卧室",
+            "roomLevel": 1,
+            "upgradeNum": 1,
+            "upgradeConstructRequire": 100,
+            "rewardSkin": 2,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": ""
+        },
+        {
+            "id": 3,
+            "cid": 3,
+            "room": 1,
+            "roomName": "武器室",
+            "roomLevel": 2,
+            "upgradeNum": 2,
+            "upgradeConstructRequire": 200,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": "",
+            "rewardSkin": 0
+        },
+        {
+            "id": 4,
+            "cid": 3,
+            "room": 2,
+            "roomName": "卧室",
+            "roomLevel": 2,
+            "upgradeNum": 3,
+            "upgradeConstructRequire": 300,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": "",
+            "rewardSkin": 0
+        },
+        {
+            "id": 5,
+            "cid": 3,
+            "room": 3,
+            "roomName": "浴室",
+            "roomLevel": 1,
+            "upgradeNum": 4,
+            "upgradeConstructRequire": 400,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": "",
+            "rewardSkin": 0
+        },
+        {
+            "id": 6,
+            "cid": 3,
+            "room": 3,
+            "roomName": "浴室",
+            "roomLevel": 2,
+            "upgradeNum": 5,
+            "upgradeConstructRequire": 500,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": "",
+            "rewardSkin": 0
+        },
+        {
+            "id": 7,
+            "cid": 3,
+            "room": 1,
+            "roomName": "武器室",
+            "roomLevel": 3,
+            "upgradeNum": 6,
+            "upgradeConstructRequire": 600,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": "",
+            "rewardSkin": 0
+        },
+        {
+            "id": 8,
+            "cid": 3,
+            "room": 2,
+            "roomName": "卧室",
+            "roomLevel": 3,
+            "upgradeNum": 7,
+            "upgradeConstructRequire": 700,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": "",
+            "rewardSkin": 0
+        },
+        {
+            "id": 9,
+            "cid": 3,
+            "room": 3,
+            "roomName": "浴室",
+            "roomLevel": 3,
+            "upgradeNum": 8,
+            "upgradeConstructRequire": 800,
+            "upgradeTokenRequire": 0,
+            "upgradeTasks": "",
+            "rewardSkin": 0
+        }
+    ]
+}

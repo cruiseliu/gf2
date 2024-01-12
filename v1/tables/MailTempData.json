@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "title": "库存溢出",
+            "addresser": "1",
+            "content": "尊敬的猎人：\n     您的仓库空间已满，无法将物资顺利送达。现将无法收入仓库的物资通过邮件发送给您，请查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 2002,
+            "title": "演习补给发放",
+            "addresser": "1",
+            "content": "尊敬的<color=#f26c1c>{0}</color>阁下：\n    恭喜您，您在<color=#f26c1c>实兵演习</color>中，获得<color=#f26c1c>{2}</color>称号，成绩斐然。\n    <color=#f26c1c>{2}</color>对应的演习补给将随邮件奉上，请注意查收。\n    期待您未来的表现。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 2003,
+            "title": "晋升补给发放",
+            "addresser": "1",
+            "content": "尊敬的<color=#f26c1c>{0}</color>阁下：\n    我们注意到您在实兵演习中的活跃表现，为匹配您的作战实力，我们已将您的演习称号由<color=#f26c1c>{1}</color>晋升至<color=#f26c1c>{2}</color>。\n    对应的晋升补给将随邮件奉上，请注意查收。\n    致以诚挚问候。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 2007,
+            "title": "晶钥合约·月每日奖励",
+            "addresser": "2",
+            "content": "尊敬的{0}：\n     您购买的晶钥合约·月生效中，请领取每日奖励，祝您游戏愉快！",
+            "attachment": {
+                "1": 80
+            },
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 2008,
+            "title": "伟大的罗联政府",
+            "addresser": "1",
+            "content": "尊敬的猎人{0}阁下：\n     您在“实兵演习”的对战平台战斗中的英姿，伟大的罗克萨特联合一直无比关注。\n     您在昨天的演习补给未领取，现给您发放，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 2009,
+            "title": "伟大的罗联政府",
+            "addresser": "1",
+            "content": "尊敬的猎人{0}阁下：\n     您在“实兵演习”的对战平台战斗中的英姿，伟大的罗克萨特联合一直无比关注。\n     您在{1}—{2}中，累计获得基础型演习兵械{3}、高级型演习兵械{4}，在结算后会进行演习兵械的回收。回收的物品如下，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 3001,
+            "title": "远行守护奖励",
+            "addresser": "1",
+            "content": "尊敬的指挥官{0}：\n     您在本期远航巡录中，尚有远行守护自选礼箱未领取，现通过邮件发放给您，请查收。祝您游戏愉快！",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 3005,
+            "title": "远航巡录奖励领取",
+            "addresser": "1",
+            "content": "尊敬的指挥官{0}：\n     您在本期远航巡录中尚有奖励未领取，现通过此邮件发放给您，请查收。祝您游戏愉快！",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 4001,
+            "title": "异乡乐徽活动预热结束",
+            "addresser": "1",
+            "content": "尊敬的<color=#f26c1c>{0}</color>阁下：\n     异乡乐徽活动预热已结束，您还有积分奖励未领取，现通过邮件发放，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 4002,
+            "title": "异乡乐徽活动结束",
+            "addresser": "1",
+            "content": "尊敬的<color=#f26c1c>{0}</color>阁下：\n     异乡乐徽活动已结束，您未使用的丰祝奖券和灵感道具已按一定比例兑换为萨狄斯金，现通过邮件发放，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 4003,
+            "title": "异乡乐徽活动结束",
+            "addresser": "1",
+            "content": "尊敬的<color=#f26c1c>{0}</color>阁下：\n     异乡乐徽活动已结束，您还有挑战宝箱奖励未领取，现通过邮件发放，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 10001,
+            "title": "引力测试充值返还",
+            "addresser": "2",
+            "content": "尊敬的指挥官：\n\n您在引力测试期间累计充值<color=#f26b00>{0}</color>元，其中包含<color=#f26b00>{1}</color>张【增量合约·月】、<color=#f26b00>{2}</color>张【晶钥合约·月】、<color=#f26b00>{3}</color>份【猎人捷径】和<color=#f26b00>{4}</color>份【暗商密径】。\n按照返还规则，共计返还信用币<color=#f26b00>{5}</color>枚及<color=#f26b00>{6}</color>张【增量合约·月】、<color=#f26b00>{7}</color>张【晶钥合约·月】、<color=#f26b00>{8}</color>份【猎人捷径】和<color=#f26b00>{9}</color>份【暗商密约】。\n\n此邮件的有效时间截止至：<color=#f26b00>2024年12月20日 23:59:59</color>，还请指挥官尽快领取。\n道具领取后无使用期限，领取后可在【仓库】内长期保存，指挥官可自行根据规划进行使用。\n如果您对本次测试的充值返还规则有任何疑问，可通过官方客服邮箱进行咨询。\n客服邮箱：GFCS@MICATEAM.CN",
+            "linkButtonTxt": "",
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": "",
+            "shelfLife": 0
+        },
+        {
+            "id": 10002,
+            "title": "道具补发说明",
+            "addresser": "2",
+            "content": "尊敬的指挥官：\n\n您购买的<color=#f26b00>{0}</color>现已通过本邮件补发，请及时领取。感谢您的积极配合与耐心等待，祝您游戏愉快！",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 10003,
+            "title": "充值异常",
+            "addresser": "2",
+            "content": "尊敬的指挥官：\n\n因重复支付购买，已根据您的充值金额换算为对应信用币数量，请及时领取。感谢您的积极配合与耐心等待，祝您游戏愉快！",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 10004,
+            "title": "【奖励】兑换码奖励",
+            "addresser": "2",
+            "content": "尊敬的指挥官：\n\n请查收您通过兑换码获得的奖励。",
+            "linkButtonTxt": "",
+            "shelfLife": 604800,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        }
+    ]
+}

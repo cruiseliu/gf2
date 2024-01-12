@@ -1,0 +1,2695 @@
+{
+    "data": [
+        {
+            "id": 101201,
+            "groupId": 1012,
+            "text": "黑眼切换至第二形态时，不再对我方施加<color=#ff8236>突刺</color>和<color=#ff8236>距破</color>标记，但其受到伤害将降低80%。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_12_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101202,
+            "groupId": 1012,
+            "text": "黑眼的技能湮灭光会在目标脚下产生1个翳影，当翳影周围指定范围内有单位停留时或翳影自身损毁时，对范围内所有单位造成伤害，并产生<地热>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_12_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101203,
+            "groupId": 1012,
+            "text": "当受到翳影造成的伤害时，黑眼会额外受到10%生命值上限的固定伤害。一旦陷入稳态崩溃，黑眼受到伤害降低的效果会消失。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_12_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101204,
+            "groupId": 1012,
+            "text": "黑眼每回合会对所有我方单位施加<color=#ff8236>失态</color>，当<color=#ff8236>失态</color>达到4层时会被引爆，产生大量伤害。当黑眼陷入稳态崩溃时，驱散所有<color=#ff8236>失态</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_12_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120201,
+            "groupId": 1202,
+            "text": "为武器安装配件时，需要考虑武器的<color=#ff8236>载重力</color>，配件的载重需求超过武器的载重力时，将影响武器的使用。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_8.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120202,
+            "groupId": 1202,
+            "text": "指挥官可将在武器精调和配件精调获得的异位拓印进行匹配，匹配成功时，配件的载重需求<color=#ff8236>减半</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400201,
+            "groupId": 4002,
+            "text": "发动攻击时，若射击线被阻挡，则无法选中目标。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_5_b.png",
+            "pptNumber": "03",
+            "pptName": "地形II",
+            "type": 1
+        },
+        {
+            "id": 400202,
+            "groupId": 4002,
+            "text": "当作战单位处于掩体边缘时，若向躲入掩体的目标发动攻击，则会自动前进1格并完成攻击，此时高段掩体将无法阻挡攻击路线。攻击完毕后，该作战单位将回归原位。\n当作战单位的攻击手段不为射击、作战单位前方被掩体或其他单位阻挡时，攻击将无法完成。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_6_a.png",
+            "pptNumber": "04",
+            "pptName": "地形II",
+            "type": 1
+        },
+        {
+            "id": 901401,
+            "groupId": 9014,
+            "text": "死木林：遍布于待勘测区域的干枯灌木丛，位于其中的我方单位将不会被敌方单位觉察。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_12.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901402,
+            "groupId": 9014,
+            "text": "敌方隐匿：敌方单位同样可隐匿于死木林中，但如果停留其中过久，就会被罗石侦测出来。罗石将以图示形式标识出他们的位置。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_12_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902601,
+            "groupId": 9026,
+            "text": "<color=#ff8236>开战优势效果·主动优势</color>：我方主动开战时，可选择攻击范围内的任意敌方单位开战，且对敌方造成血量伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902602,
+            "groupId": 9026,
+            "text": "<color=#ff8236>开战优势效果·距离优势</color>：队长所使用的<color=#ff8236>武器类型</color>决定其瞄准时的射程，不同的武器拥有不同的<color=#ff8236>最佳距离</color>。当处于<color=#ff8236>最佳距离内</color>对敌方发动攻击时，将使我方在本次战斗首回合获得伤害加成。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_g.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902603,
+            "groupId": 9026,
+            "text": "<color=#ff8236>开战优势效果·后方优势</color>：当我方位于敌方单位背后开战时，将对其造成额外稳态伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_24_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400501,
+            "groupId": 4005,
+            "text": "当前的<color=#ff8236>导染指数</color>，将显示在人形生命值上方。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_a.png",
+            "pptNumber": "08",
+            "pptName": "导染",
+            "type": 1
+        },
+        {
+            "id": 400502,
+            "groupId": 4005,
+            "text": "使用不同技能，将获得或消耗导染指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_b.png",
+            "pptNumber": "09",
+            "pptName": "导染",
+            "type": 1
+        },
+        {
+            "id": 400503,
+            "groupId": 4005,
+            "text": "作战开始时，所有人形均会获得一定的初始导染指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_c.png",
+            "pptNumber": "10",
+            "pptName": "导染",
+            "type": 1
+        },
+        {
+            "id": 902501,
+            "groupId": 9025,
+            "text": "危机指数·上升：危机指数会随着时间推移逐渐上升，此外，参与战斗也将提高危机指数。在危机指数积累到一定程度时，当前区域的危机等级将会增加。\n危机指数·下降：我方可通过消灭敌方精锐单位或顺利通过敌占区块来降低危机指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_23.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901101,
+            "groupId": 9011,
+            "text": "敌方觉察：图示范围为敌方单位的觉察范围。当我方处于该范围内时，将进入觉察倒计时。倒计时结束，我方将被觉察，并遭受攻击，被动开战。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_9_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901102,
+            "groupId": 9011,
+            "text": "觉察速度：觉察范围越小的敌方单位，往往觉察速度越快。另外，移动的敌方单位觉察速度往往更快。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_9_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901201,
+            "groupId": 9012,
+            "text": "被动开战：当我方遭受敌方单位攻击时，将被迫进入战斗。此时我方遭受攻击的单位将损失部分生命，这对战况十分不利。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_10_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901202,
+            "groupId": 9012,
+            "text": "觉察规避·倚靠掩体：我方可通过倚靠在半身掩体旁，避免被身处同一高度下的敌方单位觉察。但若敌方单位位于制高点，我方就依然会被觉察。\n倚靠在全身掩体旁，则可有效避免被所有敌方单位觉察。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_10_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901203,
+            "groupId": 9012,
+            "text": "觉察规避·高低差：我方位于制高点时，无需倚靠任何掩体，都能有效避免被敌方单位觉察。\n当处于全身掩体后，无需倚靠即可避免被身处同一高度下的敌方单位觉察。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_10_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 701,
+            "groupId": 7,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 702,
+            "groupId": 7,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 703,
+            "groupId": 7,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 704,
+            "groupId": 7,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_4.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 705,
+            "groupId": 7,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_5.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 706,
+            "groupId": 7,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_6.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 707,
+            "groupId": 7,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_7.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101001,
+            "groupId": 1010,
+            "text": "装置“尖星碑”能对我方使用<color=#ff8236>战车</color>，它的生命值较高，但稳态指数为0。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_10_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101004,
+            "groupId": 1010,
+            "text": "另外，六分仪会对我方随机积累伤害越来越高的减益效果，但是每次击杀尖星碑都能随机驱散一层该减益效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_10_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400601,
+            "groupId": 4006,
+            "text": "包括技能在内，战斗中的部分伤害具有<color=#ff8236>异位属性</color>和<color=#ff8236>武器伤害属性</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_a.png",
+            "pptNumber": "11",
+            "pptName": "弱点",
+            "type": 1
+        },
+        {
+            "id": 400602,
+            "groupId": 4006,
+            "text": "大部分作战单位都拥有弱点，在遭受对应的异位属性或武器伤害属性攻击时，会额外削减2点稳态指数，并额外受到10%的伤害。异位弱点和武器伤害弱点的效果可叠加。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_b.png",
+            "pptNumber": "12",
+            "pptName": "弱点",
+            "type": 1
+        },
+        {
+            "id": 400603,
+            "groupId": 4006,
+            "text": "针对弱点发起的攻击，使目标单位陷入稳态崩溃时，将先进行稳态伤害的结算，此次攻击只受到掩体的基础保护效果影响。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_c.png",
+            "pptNumber": "13",
+            "pptName": "弱点",
+            "type": 1
+        },
+        {
+            "id": 400901,
+            "groupId": 4009,
+            "text": "传送带被激活时，会将位于其上的所有单位传送至出口。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_19_a.png",
+            "pptNumber": "09",
+            "pptName": "传送带",
+            "type": 1
+        },
+        {
+            "id": 400902,
+            "groupId": 4009,
+            "text": "若出口位置已有单位，则传送带会被卡住且停止运行。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_18_b.png",
+            "pptNumber": "10",
+            "pptName": "传送带",
+            "type": 1
+        },
+        {
+            "id": 401401,
+            "groupId": 4014,
+            "text": "启动开关后，处于遥控推杆作用地格上的单位，将立刻被推向指定方向。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_14_a.png",
+            "pptNumber": "03",
+            "pptName": "遥控推杆",
+            "type": 1
+        },
+        {
+            "id": 900601,
+            "groupId": 9006,
+            "text": "边界探索：赏金猎人们自发的勘测行动。为鼓励赏金猎人们的深度探索行为，B.R.I.E.F.设置了特殊奖励——当探索区域全部解锁后，赏金猎人们可通过重启校准分布在污染区内的光粒风标，换取报酬。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_4_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900602,
+            "groupId": 9006,
+            "text": "特别提示：参与边界探索需消耗探索证。我方可针对某一区域反复探索，并自由选择撤离时机。\n区域开启：探索区域将随我方的边界推进任务进程逐步开放。\n自律条件：在当期边界探索的探索度达100%后·，我方可派遣战术人形在边界探索中进行自律作战并搜集物资。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_4_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 90001,
+            "groupId": 9001,
+            "text": "<color=#ff8236>边界推进</color>：B.R.I.E.F.发起的污染区勘测行动，旨在号召赏金猎人们深入污染区，收集各类环境信息。待遇优厚，一经推出，反响热烈。然而，高回报也往往意味着高风险。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 90002,
+            "groupId": 9001,
+            "text": "赏金猎人可通过完成B.R.I.E.F.颁布的<color=#ff8236>推进任务</color>来参与边界推进，获取任务报酬。\n推进任务难度不一，行动中会出现不同的探索奖励与行动目标，赏金猎人需注意查看目标，合理规划行动路线。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_1_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 90003,
+            "groupId": 9001,
+            "text": "<color=#ff8236>任务类型·消灭</color>：在消灭类型的任务中，我方需要消灭1个或多个指定敌方单位。我方可跟随小地图指引，找到该目标单位。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_1_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102901,
+            "groupId": 1029,
+            "text": "尖喙铁兽战斗时能召唤若干正负电荷，电荷存在时，会持续为尖喙铁兽恢复稳态指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_2_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102902,
+            "groupId": 1029,
+            "text": "尖喙铁兽的敌人站在电荷附近时，会将电荷吸收，自身变为对应的极性。不同极性的单位距离3格内时，会获得<color=#ff8236>迁移</color>效果，攻击力提升50%。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_2_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 160101,
+            "groupId": 1601,
+            "text": "1. 首领挑战根据作战难度划分为多个层级。每个层级中设有一个模拟强敌，赏金猎人可通过挑战模拟强敌获得奖励。每次挑战需要消耗1张挑战权限，挑战权限数量每周会重置到3张。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_7.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 160102,
+            "groupId": 1601,
+            "text": "1. 每个层级的首领挑战都会设置多个挑战目标，完成全部挑战目标后，即可解锁下一层级。\n2. 到达新的层级后，将会重置最高挑战点数的记录。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_4.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 190102,
+            "groupId": 1901,
+            "text": "成员库：记录并整合艾莫号当前成员的信息。指挥官可在其中浏览成员的基本信息，及成员拥有的衣装。\n行迹回溯：记录指挥官的经历，以及在旅途中听闻的故事。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Recordroom_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 230101,
+            "groupId": 2301,
+            "text": "1. 每期主题活动将分为预热、开幕、尾声三个阶段。\n2. 预热阶段，可体验轻量活动内容；开幕阶段，可体验全部内容；尾声阶段，活动内容将关闭，但仍能在活动商店中兑换奖励。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401,
+            "groupId": 4,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 402,
+            "groupId": 4,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 403,
+            "groupId": 4,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101701,
+            "groupId": 1017,
+            "text": "升降梯拥有两种状态——平地和高地。启动后，处于升降梯上的单位，所处高度将发生改变。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101702,
+            "groupId": 1017,
+            "text": "操作升降梯后，作战单位可凭借剩余行动力继续行动。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102401,
+            "groupId": 1024,
+            "text": "制高点只能从梯子登上，但可从任何没有掩体的边缘跳下。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_24_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102402,
+            "groupId": 1024,
+            "text": "作战单位登上制高点后，射击制高点下方的敌人时，可无视部分掩体的保护，造成全额伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_24_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401001,
+            "groupId": 4010,
+            "text": "当前的<color=#ff8236>导染指数</color>，将显示在人形生命值上方。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_a.png",
+            "pptNumber": "04",
+            "pptName": "导染",
+            "type": 1
+        },
+        {
+            "id": 401002,
+            "groupId": 4010,
+            "text": "使用不同技能，将获得或消耗导染指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_b.png",
+            "pptNumber": "05",
+            "pptName": "导染",
+            "type": 1
+        },
+        {
+            "id": 401003,
+            "groupId": 4010,
+            "text": "作战开始时，所有人形均会获得一定的初始导染指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_c.png",
+            "pptNumber": "06",
+            "pptName": "导染",
+            "type": 1
+        },
+        {
+            "id": 900901,
+            "groupId": 9009,
+            "text": "边界探索：在边界探索过程中，我方可随时随地撤离，无需担心物资丢失。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_7.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902001,
+            "groupId": 9020,
+            "text": "异位地格：部分地格带有异位属性，位于其上时将触发对应特殊效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_18.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 99901,
+            "groupId": 999,
+            "text": "测试表格关联关系转移1",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 99902,
+            "groupId": 999,
+            "text": "测试表格关联关系转移2",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 99903,
+            "groupId": 999,
+            "text": "测试表格关联关系转移3",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102201,
+            "groupId": 1022,
+            "text": "近战攻击的攻击距离较近，目标单位只能获得来自掩体的基础减伤效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_22_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401301,
+            "groupId": 4013,
+            "text": "可升降掩体能够通过开关控制。移动至开关附近，并与其交互，即可触发掩体的升降。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_13_a.png",
+            "pptNumber": "02",
+            "pptName": "可升降掩体II",
+            "type": 1
+        },
+        {
+            "id": 902301,
+            "groupId": 9023,
+            "text": "敌占区块·入口选择：部分敌占区块存在多个入口，从一些入口进入区块，将陷入不利的对敌局面。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_21_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902302,
+            "groupId": 9023,
+            "text": "此时，选择其他合适的入口进入，我方将获得更多的开战优势效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_21_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100801,
+            "groupId": 1008,
+            "text": "撤离任务中，战场内会存在特定的<color=#ff8236>撤离点</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_8_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100802,
+            "groupId": 1008,
+            "text": "每个撤离点可供一名人形使用，将人形移动至<color=#ff8236>撤离点</color>，即可执行撤离命令。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_8_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100803,
+            "groupId": 1008,
+            "text": "场上存在的尖星碑达到一定数量时，六分仪会获得强化效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_10_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 103201,
+            "groupId": 1032,
+            "text": "战斗界面右上角的各项功能已经解锁，指挥官可点击加速按钮，开启战斗加速功能。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_27_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 103202,
+            "groupId": 1032,
+            "text": "点击自动战斗按钮，可开启或停止自动战斗。开启后，系统会取代指挥官操作，进行战斗；自动战斗期间，指挥官将无法操作。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_27_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 200101,
+            "groupId": 2001,
+            "text": "补给作战下设五个模块，挑战不同的模块，可获得萨狄斯金、战场报告、存量条、解析图纸、配件等各类材料。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Simdaily_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903701,
+            "groupId": 9037,
+            "text": "断角铁兽能为自身添加50%生命值上限的护盾，若护盾2回合内未被击破则会消失，同时断角铁兽将恢复100%生命值上限的生命值。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_3_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903702,
+            "groupId": 9037,
+            "text": "断角铁兽会在战场上召唤毒酸泡，毒酸泡死亡时，会为击杀者添加毒酸效果，拥有该效果的角色在攻击断角铁兽的护盾时，额外扣除护盾最大值的50%。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_3_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401101,
+            "groupId": 4011,
+            "text": "包括技能在内，战斗中的部分伤害具有<color=#ff8236>异位属性</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_a.png",
+            "pptNumber": "07",
+            "pptName": "异位弱点",
+            "type": 1
+        },
+        {
+            "id": 401102,
+            "groupId": 4011,
+            "text": "大部分作战单位都拥有异位弱点，在遭受对应的异位属性攻击时，会额外削减2点稳态指数，并额外受到10%的伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_b.png",
+            "pptNumber": "08",
+            "pptName": "异位弱点",
+            "type": 1
+        },
+        {
+            "id": 401103,
+            "groupId": 4011,
+            "text": "针对异位弱点发起的攻击，若使目标单位陷入稳态崩溃，则此次伤害不会被掩体的保护效果影响。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_c.png",
+            "pptNumber": "09",
+            "pptName": "异位弱点",
+            "type": 1
+        },
+        {
+            "id": 900701,
+            "groupId": 9007,
+            "text": "定向调度：罗石的功能模块之一，能够在特殊悬赏中，引导赏金猎人们定向获取武器配件。赏金猎人们使用该功能时，需消耗载波卡。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_5_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900702,
+            "groupId": 9007,
+            "text": "载波卡：载波卡可定向提高某些武器配件的获取概率，顺利完成特殊悬赏后，载波卡将被消耗。赏金猎人们可在分析机台中制作载波卡。\n使用方法：在正式开始特殊悬赏前，可至多选择4张载波卡放置在特定插槽中。点击加载，即可锁定本次特殊悬赏所要使用的载波卡。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_5_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 601,
+            "groupId": 6,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 602,
+            "groupId": 6,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 603,
+            "groupId": 6,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 604,
+            "groupId": 6,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 605,
+            "groupId": 6,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_e.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 606,
+            "groupId": 6,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_f.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 607,
+            "groupId": 6,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_g.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100601,
+            "groupId": 1006,
+            "text": "战场内有时会出现特殊类型的区域，目前战场内的特殊区域为腐化区域。腐化区域会对停留在该区域上的单位造成固定伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_6_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100602,
+            "groupId": 1006,
+            "text": "并且，每个回合，战场内腐化区域的范围都会向四周扩散1格。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_6_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300501,
+            "groupId": 3005,
+            "text": "异乡乐徽包含4个模块：循乐录、追缉协奏曲、风闻撷律、丰祝摇奖机\n1. 循乐录为剧情关卡\n2. 追缉协奏曲和风闻撷律为活动的主要玩法，会随剧情关卡的推进逐一开放\n3. 在活动期间获得的丰祝奖券，可用于在丰祝摇奖机中获取奖励",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_11.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903601,
+            "groupId": 9036,
+            "text": "尖喙铁兽战斗时能召唤若干正负电荷，电荷存在时，会持续为尖喙铁兽恢复稳态指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_2_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903602,
+            "groupId": 9036,
+            "text": "尖喙铁兽的敌人站在电荷附近时，会将电荷吸收，自身变为对应的极性。不同极性的单位距离3格内时，会获得<color=#ff8236>异极相吸</color>效果，攻击力提升50%。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_2_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101401,
+            "groupId": 1014,
+            "text": "启动开关后，处于遥控推杆作用地格上的单位，将会立刻被推向指定方向。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_14_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 90021,
+            "groupId": 9003,
+            "text": "PPT1",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_p.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 90022,
+            "groupId": 9003,
+            "text": "视频播放测试1",
+            "media": "CommandCenter/main_bg.usm",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 2
+        },
+        {
+            "id": 90023,
+            "groupId": 9003,
+            "text": "PPT2",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_q.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 90024,
+            "groupId": 9003,
+            "text": "视频播放测试2",
+            "media": "Barrack/Barracks_DaylightMountain.usm",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 2
+        },
+        {
+            "id": 90025,
+            "groupId": 9004,
+            "text": "<color=#ff8236>推进任务</color>：B.R.I.E.F.向赏金猎人们发布的一系列行动任务，报酬可观。任务难度随行动区域变化，赏金猎人们可根据自身情况选择完成。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_1_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 90026,
+            "groupId": 9040,
+            "text": "<color=#ff8236>特殊悬赏</color>：B.R.I.E.F.针对危险单位发布的系列悬赏。这类敌方单位往往潜伏在坍塌辐射浓度较高的区域。赏金猎人们前往消灭目标单位时，须注意携带液态过滤器。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_8_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 90027,
+            "groupId": 9041,
+            "text": "<color=#ff8236>边界探索</color>：赏金猎人们自发的勘测行动。为鼓励这种行为，B.R.I.E.F.设置了特殊奖励——赏金猎人们可通过重启校准分布在污染区内的光粒风标，换取报酬。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_q.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100501,
+            "groupId": 1005,
+            "text": "包括技能在内，战斗中的部分伤害具有<color=#ff8236>异位属性</color>和<color=#ff8236>武器伤害属性</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100502,
+            "groupId": 1005,
+            "text": "大部分作战单位都拥有异位弱点及武器弱点，在遭受对应的异位属性或武器伤害属性攻击时，会额外削减2点稳态指数，并额外受到10%的伤害。异位弱点和武器弱点的效果可叠加。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100503,
+            "groupId": 1005,
+            "text": "针对弱点发起的攻击，将先进行稳态伤害的结算；若使目标单位陷入稳态崩溃，则此次攻击只受到掩体的基础保护效果影响、可造成更高的伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120801,
+            "groupId": 1208,
+            "text": "在整备室中，人形可通过读取战场报告中的记录信息，获取作战经验，提升等级，达成训练目标。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gun_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120802,
+            "groupId": 1208,
+            "text": "1. 消耗心智存档，可提升对应角色的云图强固等级。\n2. 提升角色的云图强固等级，可提升角色的技能等级。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gun_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120803,
+            "groupId": 1208,
+            "text": "1. 在心智螺旋内，指挥官可查看并制定人形的优化方案：\n(1). 进阶键为人形专属技能，激活对应位点后可获得；\n(2). 衍生键为人形通用技能，激活对应位点后可获得。\n2. 获得进阶键、衍生键后，可前往<color=#ff8236>位键调控</color>，装配所需位键。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Talent_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120804,
+            "groupId": 1208,
+            "text": "1. 位点包括增效位点、进阶位点。\n2. 增效位点激活后，可为人形提供属性加成。\n3. 进阶位点激活后，可激活其所对应的进阶键、衍生键。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Talent_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 250101,
+            "groupId": 2501,
+            "text": "<color=#ff8236>衣装</color>：平衡了功能性与装饰性的人形服装，人形可穿着其参与作战和日常休闲。\n<color=#ff8236>作战服</color>：在衣装的基础上，更加专注于功能性的人形服装，人形仅可穿着其参与作战。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_clothes_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401801,
+            "groupId": 4018,
+            "text": "传送带被激活时，会将位于其上的所有单位传送至出口。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_19_a.png",
+            "pptNumber": "09",
+            "pptName": "传送带",
+            "type": 1
+        },
+        {
+            "id": 401802,
+            "groupId": 4018,
+            "text": "若出口位置已有单位，则传送带会被卡住且停止运行。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_18_b.png",
+            "pptNumber": "10",
+            "pptName": "传送带",
+            "type": 1
+        },
+        {
+            "id": 501,
+            "groupId": 5,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 502,
+            "groupId": 5,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 503,
+            "groupId": 5,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 504,
+            "groupId": 5,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_4.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 505,
+            "groupId": 5,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_5.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 506,
+            "groupId": 5,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_6.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 507,
+            "groupId": 5,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_7.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100401,
+            "groupId": 1004,
+            "text": "当前的<color=#ff8236>导染指数</color>，将显示在人形生命值上方。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100402,
+            "groupId": 1004,
+            "text": "使用不同技能，将获得或消耗导染指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100403,
+            "groupId": 1004,
+            "text": "作战开始时，所有人形均会获得一定的导染指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100404,
+            "groupId": 1004,
+            "text": "战斗界面右上角的各项功能已经解锁，指挥官可点击加速按钮，开启战斗加速功能。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_27_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100405,
+            "groupId": 1004,
+            "text": "点击自动战斗按钮，可开启或停止自动战斗。开启后，系统会取代指挥官操作，进行战斗；自动战斗期间，指挥官将无法操作。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_27_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101501,
+            "groupId": 1015,
+            "text": "作战中，单位移动至地陷时将立即损毁。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_15_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102301,
+            "groupId": 1023,
+            "text": "若出现指挥失误，可通过使用重演功能，回到本场战斗中经历过的任意回合。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102302,
+            "groupId": 1023,
+            "text": "点击右上角的按钮，即可开始重演。点击左右两个箭头，可以选择想要重演到的节点。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102303,
+            "groupId": 1023,
+            "text": "请注意，每次作战中，重演功能的使用次数存在上限。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102304,
+            "groupId": 1023,
+            "text": "在设置面板中，可调整战斗中的镜头模式。战略模式下，战斗全程为俯视角。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102305,
+            "groupId": 1023,
+            "text": "此外，在设置面板中，还可随时调整制胜技能的显示模式，指挥官可以根据自己的喜好选择。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_e.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 110201,
+            "groupId": 1102,
+            "text": "1. 当人形的心智域格达到性能上限时，人形等级无法进一步提升。\n2. 在整备室中，可以为人形加装增域存量条，进行心智增域，以进一步提升人形效能。增域存量条可通过挑战<color=#ff8236>补给作战·决策构象</color>获得。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gun_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120601,
+            "groupId": 1206,
+            "text": "为人形装备其烙印型号的<color=#ff8236>精英武器</color>，可使人形获得<color=#ff8236>烙印增效</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120602,
+            "groupId": 1206,
+            "text": "人形可通过读取解析图纸中的数据，提升武器熟练度。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_7.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120603,
+            "groupId": 1206,
+            "text": "1. 可通过消耗同名武器，对武器进行调校。\n2. 调校阶段提升，武器的特性等级将随之提升。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_6.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120604,
+            "groupId": 1206,
+            "text": "不同的武器可以装备不同的配件，配件能够提升武器的属性，并带来额外效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401901,
+            "groupId": 4019,
+            "text": "战场中的部分掩体较为脆弱，可以被各种攻击方式破坏。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_19_a.png",
+            "pptNumber": "13",
+            "pptName": "地形VIII",
+            "type": 1
+        },
+        {
+            "id": 10001,
+            "groupId": 100,
+            "text": "1. 每日订单在每天5点更新。\n2. 完成每日订单除了可获得订单报酬外，还可累积日活跃度。当日活跃度积累至一定程度时可获得日活跃度累积奖励。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Quest_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 10002,
+            "groupId": 100,
+            "text": "里程碑：记录了指挥官设立或是达成的每一个小里程碑，是艾莫号与指挥官的成长见证。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Recordroom_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 110101,
+            "groupId": 1101,
+            "text": "在整备室中，人形可通过读取战场报告中的记录信息，获取作战经验，提升等级，达成训练目标。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gun_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 110102,
+            "groupId": 1101,
+            "text": "1. 消耗心智存档，可提升对应角色的云图强固等级。\n2. 提升角色的云图强固等级，可提升角色的技能等级。\n3. <color=#ff8236>整备室演出</color>的播放次数可以在<color=#ff8236>设置</color>中进行调整。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gun_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901001,
+            "groupId": 9010,
+            "text": "特殊悬赏·滤芯状态：在特殊悬赏中，液态过滤器不可或缺。其中的液态滤芯的状态值会随着时间推移不断降低，当状态值归零时，我方将全部损毁。请务必时刻关注。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_8_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901002,
+            "groupId": 9010,
+            "text": "滤芯补给：我方可通过消灭敌方单位，夺取滤芯或替代物以完成补给。另外，还可以搜寻并使用滤芯补给桩，恢复液态滤芯的状态值。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_8_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102601,
+            "groupId": 1026,
+            "text": "要塞伯爵使用了<color=#ff8236>火线密令</color>并为我方全员赋予了<color=#ff8236>最后通牒</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_Combat_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102602,
+            "groupId": 1026,
+            "text": "我方需选派一名人形通过<color=#ff8236>传送点</color>进入<color=#ff8236>火线</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_Combat_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102603,
+            "groupId": 1026,
+            "text": "完成指令任务后，火线内将出现撤离区。三回合内成功撤离，我方全员将获得一层<color=#ff8236>装甲保护</color>。否则，最后通牒将对我方全体造成极高的固定伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_Combat_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102801,
+            "groupId": 1028,
+            "text": "獠牙铁兽擅于利用火焰攻击打击敌人，还能在战场上制造地热。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_1_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102802,
+            "groupId": 1028,
+            "text": "獠牙铁兽的技能<color=#ff8236>焰火</color>能对前方范围造成燃烧伤害，若技能范围内没有敌方目标，则会对全场敌人造成更高的伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_1_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401201,
+            "groupId": 4012,
+            "text": "战场内的可升降掩体将会在特定条件下切换状态。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_13_a.png",
+            "pptNumber": "01",
+            "pptName": "可升降掩体I",
+            "type": 1
+        },
+        {
+            "id": 903901,
+            "groupId": 9039,
+            "text": "<color=#ff8236>补给箱</color>：在推进任务中，存在3种品质的补给箱。我方可通过多次完成任务，开启全部补给箱。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_39.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903001,
+            "groupId": 9030,
+            "text": "<color=#ff8236>边界推进</color>：B.R.I.E.F.发起的污染区勘测行动，旨在号召赏金猎人们深入污染区，收集各类环境信息。待遇优厚，一经推出，反响热烈。然而，高回报也往往意味着高风险。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903002,
+            "groupId": 9030,
+            "text": "<color=#ff8236>推进任务</color>：B.R.I.E.F.向赏金猎人们发布的一系列行动任务，报酬可观。任务难度随行动区域变化，赏金猎人们可根据自身情况选择完成。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_1_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 9032001,
+            "groupId": 9032,
+            "text": "操作·移动：可使用WASD键（电脑端）或利用摇杆（移动端）指挥战术人形移动。",
+            "media": "Tutorial/Video_Tutorial_Darkzone_move.usm",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 2
+        },
+        {
+            "id": 901,
+            "groupId": 9,
+            "text": "新手引导测试用，当你能看到这句话，说明引导的ppt功能生效了1",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902,
+            "groupId": 9,
+            "text": "新手引导测试用，当你能看到这句话，说明引导的ppt功能生效了2",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903,
+            "groupId": 9,
+            "text": "新手引导测试用，当你能看到这句话，说明引导的ppt功能生效了3",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 904,
+            "groupId": 9,
+            "text": "新手引导测试用，当你能看到这句话，说明引导的ppt功能生效了4",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_3_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100201,
+            "groupId": 1002,
+            "text": "掩体的保护效果为基础保护效果与稳态保护效果相加，可在伤害预算界面查看具体数值。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100202,
+            "groupId": 1002,
+            "text": "作战单位生命值左侧的数字，表示其当前的稳态指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100203,
+            "groupId": 1002,
+            "text": "当稳态指数被削减为0时，作战单位将陷入稳态崩溃。此时，掩体将只能产生基础保护效果，直到稳态指数回复到0以上。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 150101,
+            "groupId": 1501,
+            "text": "峰值推定中包含多个阶群，对应不同的难度评级。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Mythic_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 150102,
+            "groupId": 1501,
+            "text": "阶群下设若干子阶段，即子群。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Mythic_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 150103,
+            "groupId": 1501,
+            "text": "完成当前子群后，可获得奖励，并解锁下一子群；完成当前阶群的所有子群后，可解锁下一阶群。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Mythic_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401501,
+            "groupId": 4015,
+            "text": "部分遥控推杆并非由机关控制，当特定方向有单位靠近时，它们将自动触发。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_15_a.png",
+            "pptNumber": "04",
+            "pptName": "自动推杆与地陷",
+            "type": 1
+        },
+        {
+            "id": 401502,
+            "groupId": 4015,
+            "text": "作战中，单位移动至地陷时，将立即损毁。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_15_a.png",
+            "pptNumber": "05",
+            "pptName": "自动推杆与地陷",
+            "type": 1
+        },
+        {
+            "id": 901301,
+            "groupId": 9013,
+            "text": "危机等级：屏幕上方显示的是当前区域的危机等级预警。根据危机等级，敌方单位将有不同表现。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_11.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901302,
+            "groupId": 9013,
+            "text": "危机指数·上升：危机指数会随着时间推移逐渐上升，此外，参与战斗也将提高危机指数。在危机指数积累到一定程度时，当前区域的危机等级将会增加。\n危机指数·下降：我方可通过消灭敌方精锐单位或顺利通过敌占区块来降低危机指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_23.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902401,
+            "groupId": 9024,
+            "text": "分析机台：B.R.I.E.F.提供的电子操作台，可分解赏金猎人们在边界推进中搜集到的材料，并重组为载波卡。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_22.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901701,
+            "groupId": 9017,
+            "text": "滤芯补给桩：内部装有过滤液的补充装置，使用后可恢复滤芯状态值。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_15.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120401,
+            "groupId": 1204,
+            "text": "1.<color=#ff8236>强化配件</color>：提供基础属性加成\n2.<color=#ff8236>组合配件</color>：3个相同效果的组合配件将激活额外的套装技能\n3.<color=#ff8236>专项配件</color>：拥有最多的属性加成，除了基本属性，还将提供额外的专精属性",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_5.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 121001,
+            "groupId": 1210,
+            "text": "<color=#ff8236>配件精调</color>：可以通过精调，为配件增加随机属性增幅。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_9.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 130201,
+            "groupId": 1302,
+            "text": "在位键调控中，可依据人形特性，选择不同位键：\n(1). 左侧键槽，可装配进阶键；\n(2). 右侧键槽，可装配衍生键。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Talent_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 210201,
+            "groupId": 2102,
+            "text": "1. 每日订单在每天5点更新。\n2. 完成每日订单除了可获得订单报酬外，还可累积日活跃度。当日活跃度积累至一定程度时可获得日活跃度累积奖励。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Quest_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 210202,
+            "groupId": 2102,
+            "text": "里程碑：记录了指挥官设立或是达成的每一个小里程碑，是艾莫号与指挥官的成长见证。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Recordroom_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300601,
+            "groupId": 3006,
+            "text": "1. 在风闻撷律中，指挥官可通过游玩追缉协奏曲来获得灵感道具。集齐5种不同的灵感，即可通过灵感汇聚获得奖励\n2. 首次进行灵感汇聚将获得大量奖励",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400701,
+            "groupId": 4007,
+            "text": "制高点只能从梯子登上，但可从任何没有掩体的边缘跳下。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_7_a.png",
+            "pptNumber": "14",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400702,
+            "groupId": 4007,
+            "text": "作战单位登上制高点后，射击制高点下方的敌人时，可无视部分掩体的保护，造成全额伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_7_b.png",
+            "pptNumber": "15",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101101,
+            "groupId": 1011,
+            "text": "黑眼会根据与其目标的距离，使用不同的攻击手段。其近战攻击会对目标施加<color=#ff8236>突刺</color>标记，远程攻击会对目标施加<color=#ff8236>距破</color>标记。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_11_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101102,
+            "groupId": 1011,
+            "text": "获得2个<color=#ff8236>突刺</color>标记时，单位会陷入逃避状态，失去控制并远离黑眼，获得2个<color=#ff8236>距破</color>标记时，单位会陷入诱导状态，失去控制并向黑眼靠近。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_11_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101103,
+            "groupId": 1011,
+            "text": "黑眼的各类技能也会对我方施加<color=#ff8236>突刺</color>或者<color=#ff8236>距破</color>标记。掌握其攻击逻辑，尽量避免被施加同类型标记是作战的关键。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_11_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101104,
+            "groupId": 1011,
+            "text": "另外，若在未受掩体保护的情况下受到攻击，黑眼会消耗2点稳态指数，使其受到的伤害降低50%。当其陷入稳态崩溃时，攻击力降低20%。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_11_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120901,
+            "groupId": 1209,
+            "text": "1. 可通过消耗同名武器，对武器进行调校。\n2. 调校阶段提升，武器的特性等级将随之提升。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_6.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120902,
+            "groupId": 1209,
+            "text": "可通过读取解析图纸中的数据，提升武器熟练度。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_7.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 240101,
+            "groupId": 2401,
+            "text": "在仓库中可以将无用的武器拆解为提取凭证。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Store_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 240102,
+            "groupId": 2401,
+            "text": "可以将无用的武器配件拆解后，累计拆解配件达到100%时，可以获得<color=#ff8236>随机精密级配件</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Store_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 240103,
+            "groupId": 2401,
+            "text": "可以使用道具合成功能，将低级存量条按照一定比例合成为高级存量条。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Store_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903501,
+            "groupId": 9035,
+            "text": "獠牙铁兽擅于利用火焰攻击打击敌人，还能在战场上制造地热。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_1_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903502,
+            "groupId": 9035,
+            "text": "獠牙铁兽的技能<color=#ff8236>焰火</color>能对前方范围造成燃烧伤害，若技能范围内没有敌方目标，则会对全场敌人造成更高的伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_1_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 301,
+            "groupId": 3,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 302,
+            "groupId": 3,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 303,
+            "groupId": 3,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_2_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 801,
+            "groupId": 8,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 802,
+            "groupId": 8,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 803,
+            "groupId": 8,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 804,
+            "groupId": 8,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 805,
+            "groupId": 8,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_e.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 806,
+            "groupId": 8,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_f.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 807,
+            "groupId": 8,
+            "text": "测试",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_4_g.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 130101,
+            "groupId": 1301,
+            "text": "1. 在心智螺旋内，指挥官可查看并制定人形的优化方案：\n(1). 进阶键为人形专属技能，激活对应位点后可获得；\n(2). 衍生键为人形通用技能，激活对应位点后可获得。\n2. 获得进阶键、衍生键后，可前往<color=#ff8236>位键调控</color>，装配所需位键。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Talent_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 130102,
+            "groupId": 1301,
+            "text": "1. 位点包括增效位点、进阶位点。\n2. 增效位点激活后，可为人形提供属性加成。\n3. 进阶位点激活后，可激活其所对应的进阶键、衍生键。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Talent_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900201,
+            "groupId": 9002,
+            "text": "<color=#ff8236>失败损失</color>：在单次行动中，若我方队内人形全部损毁，则本次<color=#ff8236>行动失败</color>，损失当次行动的全部所得物资。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_r.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900202,
+            "groupId": 9002,
+            "text": "<color=#ff8236>目标提示</color>：当前行动目标点将以图示形式标注在小地图中，请注意查看，指挥人形前往目标点完成任务。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_t.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900203,
+            "groupId": 9002,
+            "text": "<color=#ff8236>瞄准</color>：进入瞄准状态时，我方可自由选择并瞄准攻击范围内的敌方单位。确认后将发动进攻，与其开战。\n目标选择：瞄准时，人形会自行锁定1个敌方单位，可通过点击敌方单位头像，自由切换开战目标。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_d.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900204,
+            "groupId": 9002,
+            "text": "<color=#ff8236>领队切换</color>：在指挥战术人形行动时，可点击右侧人形头像随时切换<color=#ff8236>领队人形</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_f.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900205,
+            "groupId": 9002,
+            "text": "<color=#ff8236>开战优势效果·距离优势</color>：队长所使用的<color=#ff8236>武器类型</color>决定其瞄准时的射程，不同的武器拥有不同的<color=#ff8236>最佳距离</color>。当处于<color=#ff8236>最佳距离内</color>对敌方发动攻击时，将使我方在本次战斗首回合获得伤害加成。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_g.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900206,
+            "groupId": 9002,
+            "text": "<color=#ff8236>倚靠掩体</color>：我方可通过<color=#ff8236>倚靠掩体</color>进行隐蔽。倚靠掩体时，我方不易被敌方单位觉察；若觉察倒计时已开始，可紧急倚靠于掩体之后，中止觉察倒计时，避免被动开战。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_h.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900207,
+            "groupId": 9002,
+            "text": "常态下，我方发动进攻时，敌方单位会优先就近寻找掩体进行躲避，而后开始战斗。若我方处于<color=#ff8236>隐蔽状态</color>下进行<color=#ff8236>攻击</color>将恢复队长人形的稳态值。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_10_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900208,
+            "groupId": 9002,
+            "text": "<color=#ff8236>开战优势效果·后方优势</color>：当我方从敌方单位<color=#ff8236>背后发动攻击</color>时，会形成偷袭。若偷袭成功，则将根据敌人类型扣除百分比稳态指数",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_24_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900209,
+            "groupId": 9002,
+            "text": "<color=#ff8236>危机指数</color>：被敌方单位觉察或是遭遇突发事件时，将提升危机指数。危机等级上涨，敌方单位觉察速度增加，并有概率在战斗中呼叫增援。我方可通过战斗有效降低危机指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_11.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100701,
+            "groupId": 1007,
+            "text": "具有异位属性的特殊地格在一定条件下能触发反应，反应会消耗掉参与反应的地格。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_7_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100702,
+            "groupId": 1007,
+            "text": "引火装置在受到攻击时，能对周围3×3范围的腐化地格触发燃烧反应，消耗腐化地格并对其上的单位造成大量伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_7_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 180101,
+            "groupId": 1801,
+            "text": "1. 心智勘测包含若干章节，每个章节内含多个被称为战地回声的待解析区域情报。\n2. 每个章节包含若干个关卡，完成这些关卡可以获得解析下个区域情报的道具。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Hard_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 270101,
+            "groupId": 2701,
+            "text": "<color=#ff8236>重定向</color>：在进行定向精研时，需提前选择想要的套装组合，在获得工业级以上作战奖励时，将必定掉落该套装组合的配件。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_Mod_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300401,
+            "groupId": 3004,
+            "text": "您可在异乡乐徽的预热阶段，参与签到和答题活动，以累积积分，换取奖励",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_10.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 9034001,
+            "groupId": 9034,
+            "text": "<color=#ff8236>辐射区块</color>：存在高浓度坍塌辐射的危险区块，误入后须迅速离开。我方一旦进入将持续损失血量。如果长时间在此逗留，还将可能产生更多不利效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Escape_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100301,
+            "groupId": 1003,
+            "text": "部分强力的敌方单位会使用非常强大的技能，这类技能的伤害效果通常会延迟一回合到达。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_3_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100302,
+            "groupId": 1003,
+            "text": "地面上闪烁红色标记的区域为打击警报，表明了敌方技能的攻击范围。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_3_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100901,
+            "groupId": 1009,
+            "text": "守备点是一种特殊类型的区域，蓝色代表其被我方控制，红色代表其被敌方所控制。守备点的控制权可以被夺取。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100902,
+            "groupId": 1009,
+            "text": "当敌方单位进入守备点时，该守备点将会被敌方占领，系统权限将被夺取。反之，在友方单位进入守备点时，系统权限将会归属于我方。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102501,
+            "groupId": 1025,
+            "text": "对要塞伯爵造成的伤害将转换为挑战点数。挑战点数对应不同的表现评级，在有限的回合内尽可能多地获取挑战点数以提升评级吧。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_Combat_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 220101,
+            "groupId": 2201,
+            "text": "1. 标准同调模块中，每个关卡都包括几种不同类型的敌方单位，分别对应不同的同调值。\n2. 总同调值将根据关卡中击杀的敌人种类及数量、击杀回合数等情况计算。总同调值越高，作战表现评级越高。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gold_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 220102,
+            "groupId": 2201,
+            "text": "首次成功挑战关卡后，即可派遣人形按照该关卡历史最高表现评级进行自律作战，并获得该评级对应的奖励。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gold_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400801,
+            "groupId": 4008,
+            "text": "守备点是一种特殊类型的区域，蓝色代表其被我方控制，红色代表其被敌方所控制。守备点的控制权可以被夺取。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_a.png",
+            "pptNumber": "01",
+            "pptName": "守备点",
+            "type": 1
+        },
+        {
+            "id": 400802,
+            "groupId": 4008,
+            "text": "当敌方单位进入守备点时，该守备点将会被敌方占领，系统权限将被夺取。反之，在友方单位进入守备点时，系统权限将会归属于我方。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_b.png",
+            "pptNumber": "02",
+            "pptName": "守备点",
+            "type": 1
+        },
+        {
+            "id": 400803,
+            "groupId": 4008,
+            "text": "可升降掩体能够通过开关控制。移动至开关附近，并与其交互，即可触发掩体的升降。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_13_a.png",
+            "pptNumber": "02",
+            "pptName": "可升降掩体II",
+            "type": 1
+        },
+        {
+            "id": 902201,
+            "groupId": 9022,
+            "text": "敌占区块·特殊通道：敌占区块的部分入口有敌方单位把守，强行从该入口进入区块将陷入不利的对敌局面。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_20_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902202,
+            "groupId": 9022,
+            "text": "此时，可利用高速导轨，转移至常规路径无法前往的位置，从而获得更多的开战优势效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_20_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101,
+            "groupId": 1,
+            "text": "左下角的粒子导染器显示了当前作战形势下的<color=#ff8236>导染指数</color>，若<color=#ff8236>导染指数</color>产生变化，友方单位能够造成的伤害也会随之变化。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102,
+            "groupId": 1,
+            "text": "友方单位在作战中的各种行动，包括攻击、击杀等，均能提升<color=#ff8236>导染指数</color>。除此之外，友方单位的不同技能也会导致<color=#ff8236>导染指数</color>变化。其中，需要消耗<color=#ff8236>导染指数</color>的技能通常有固定的<color=#ff8236>导染指数</color>要求。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 103,
+            "groupId": 1,
+            "text": "战场内存在各类<color=#ff8236>掩体</color>。<color=#ff8236>掩体</color>可供作战单位躲入，并提升该作战单位受到特定方向攻击时的<color=#ff8236>闪避率</color>。闪避成功时，作战单位将只会受到较低的擦伤伤害。\n<color=#ff8236>边界掩体</color>不占据地格位置，但能够为作战单位提供与<color=#ff8236>掩体</color>相同的闪避率加成。大多数作战单位在移动时，能够直接翻越<color=#ff8236>边界掩体</color>。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101801,
+            "groupId": 1018,
+            "text": "纵火者能进行多种范围攻击，并且在场地内留下熔岩区域。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_18_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101802,
+            "groupId": 1018,
+            "text": "纵火者进入<color=#ff8236>狂热</color>状态时，周围会存在一定范围的光环，在光环范围内与纵火者作战会陷入极大的劣势",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_18_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101803,
+            "groupId": 1018,
+            "text": "稳态指数大于0时，纵火者受到的伤害降低80%。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_18_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 103001,
+            "groupId": 1030,
+            "text": "断角铁兽能为自身添加50%生命值上限的护盾，若护盾2回合内未被击破则会消失，同时断角铁兽将恢复100%生命值上限的生命值。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_3_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 103002,
+            "groupId": 1030,
+            "text": "断角铁兽会在战场上召唤毒酸泡，毒酸泡死亡时，会为击杀者添加毒酸效果，拥有该效果的角色在攻击断角铁兽的护盾时，额外扣除护盾最大值的50%。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_3_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300101,
+            "groupId": 3001,
+            "text": "1. 在风闻撷律中，指挥官可通过游玩追缉协奏曲来获得灵感道具。集齐5种不同的灵感，即可通过灵感汇聚获得奖励\n2. 首次进行灵感汇聚将获得大量奖励",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102101,
+            "groupId": 1021,
+            "text": "徒士-137和徒士-212会协同作战，他们各自拥有独立的生命值和稳态指数。当其稳态指数大于0时，受到的伤害降低80%。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_21_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102102,
+            "groupId": 1021,
+            "text": "若徒士-137和徒士-212生命值相差过大，生命值较低的一人会受到治疗；若其中一人死亡，另外一人会获得身体强化。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_21_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102103,
+            "groupId": 1021,
+            "text": "另外，若徒士-137和徒士-212之间的距离在6格以内，则两者均能获得增益效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_21_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120301,
+            "groupId": 1203,
+            "text": "不同的武器可以装备不同的配件，配件能够提升武器的属性，并带来额外效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120701,
+            "groupId": 1207,
+            "text": "1.<color=#ff8236>强化配件</color>：提供基础属性加成\n2.<color=#ff8236>组合配件</color>：3个相同效果的组合配件将激活额外的套装技能\n3.<color=#ff8236>专项配件</color>：拥有最多的属性加成，除了基本属性，还将提供额外的专精属性",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_5.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101301,
+            "groupId": 1013,
+            "text": "部分敌人具有特殊的行动逻辑，通常以图标的形式显示在头顶。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_25_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101302,
+            "groupId": 1013,
+            "text": "区域防守标记表示该单位会将<color=#ff8236>防守特定区域</color>视为最优先行为，攻击最靠近区域的敌人。优先攻击标记表示该单位会将<color=#ff8236>攻击特定单位</color>视为最优先行为。优先移动标记表示该单位会将<color=#ff8236>向特定位置移动</color>视为最优先行为。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_25_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101303,
+            "groupId": 1013,
+            "text": "战场内的可升降掩体将会在特定条件下切换状态。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_13_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101304,
+            "groupId": 1013,
+            "text": "但切换形态时，若掩体上方存在单位，则会切换失败。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_13_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 103101,
+            "groupId": 1031,
+            "text": "处于警戒状态的敌方小队，在我方进入其警戒范围、或对其主动发动攻击前，不会对我方发动攻击。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_26_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900501,
+            "groupId": 9005,
+            "text": "<color=#ff8236>特殊悬赏</color>：B.R.I.E.F.针对危险单位发布的系列悬赏。这类敌方单位往往潜伏在坍塌辐射浓度较高的区域。赏金猎人们前往消灭目标单位时，须注意携带液态过滤器。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_3_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900502,
+            "groupId": 9005,
+            "text": "特别提示：完成特殊悬赏需消耗情报拼图。我方可重复挑战特殊悬赏，并根据自身需求选择酬赏类型。\n自律条件：顺利完成指定特殊悬赏后，我方可派遣战术人形再次前往相关区域，执行自律作战并搜集物资。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_3_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900801,
+            "groupId": 9008,
+            "text": "任务类型·极限撤离：在极限撤离类型的任务中，我方需要在液态滤芯状态值大于0的情况下，完成撤离。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_6_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900802,
+            "groupId": 9008,
+            "text": "滤芯补给：我方可通过消灭敌方单位，夺取滤芯或替代物以完成补给。另外，还可以搜寻并使用滤芯补给桩，恢复液态滤芯的状态值。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_6_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 9033001,
+            "groupId": 9033,
+            "text": "操作·攀爬：靠近挂梯，点击交互按钮，即可指挥战术人形进行攀爬。",
+            "media": "Tutorial/Video_Tutorial_Darkzone_climb.usm",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 2
+        },
+        {
+            "id": 100101,
+            "groupId": 1001,
+            "text": "战场内存在各类<color=#ff8236>掩体</color>。<color=#ff8236>掩体</color>可供作战单位躲入，并大幅度降低来自特定方向攻击所造成的伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 100102,
+            "groupId": 1001,
+            "text": "在移动时，可通过观察战场内的盾牌图标，判断掩体的位置和保护方向。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101601,
+            "groupId": 1016,
+            "text": "废旧管道与普通掩体一样可提供保护效果，但会在提供保护后的下一回合爆炸。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_16_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 102001,
+            "groupId": 1020,
+            "text": "中继节点可以被任何一方占领，占领后，会对所有该阵营的单位产生光环类型的增益效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_20_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120501,
+            "groupId": 1205,
+            "text": "1. 可通过消耗同名武器，对武器进行调校。\n2. 调校阶段提升，武器的特性等级将随之提升。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_6.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400301,
+            "groupId": 4003,
+            "text": "战场中的部分掩体较为脆弱，可以被各种攻击方式破坏。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_19_a.png",
+            "pptNumber": "05",
+            "pptName": "地形III",
+            "type": 1
+        },
+        {
+            "id": 900210,
+            "groupId": 9002,
+            "text": "<color=#ff8236>突发事件</color>：在边界推进行动中，赏金猎人们随时可能遭遇一些突发事件。这些突发事件往往会给赏金猎人们带来各种不同效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_m.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900211,
+            "groupId": 9002,
+            "text": "敌方觉察：图示范围为敌方单位的觉察范围。当我方处于该范围内时，将积累觉察时间。达到一定时长后，我方将被觉察，并遭受攻击，被动开战。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_9_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900212,
+            "groupId": 9002,
+            "text": "觉察速度：觉察范围越小的敌方单位，往往觉察速度越快。另外，移动的敌方单位觉察速度往往更快。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_9_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900213,
+            "groupId": 9002,
+            "text": "敌占区块·特殊通道：敌占区块的部分入口有敌方单位把守，强行从该入口进入区块将陷入不利的对敌局面。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_20_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900214,
+            "groupId": 9002,
+            "text": "此时，可利用高速导轨，转移至常规路径无法前往的位置，从而获得更多的开战优势效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_20_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900215,
+            "groupId": 9002,
+            "text": "敌占区块·入口选择：部分敌占区块存在多个入口，从一些入口进入区块，将陷入不利的对敌局面。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_21_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900216,
+            "groupId": 9002,
+            "text": "此时，选择其他合适的入口进入，我方将获得更多的开战优势效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_21_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 900217,
+            "groupId": 9002,
+            "text": "<color=#ff8236>成功奖励</color>：在单次行动中，若我方<color=#ff8236>达成任务目标</color>，则视为任务成功。我方可携带所有探索奖励撤离，并获得B.R.I.E.F.发放的任务报酬。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_s.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 201,
+            "groupId": 2,
+            "text": "<color=#ff8236>高段掩体</color>也能为作战单位提供与<color=#ff8236>掩体</color>相同的闪避率加成。除此之外，<color=#ff8236>高段掩体</color>能够阻挡射击路线，大部分攻击无法将其穿透。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 202,
+            "groupId": 2,
+            "text": "游戏中存在三种<color=#ff8236>属性</color>攻击：物理、电磁、热态。三种<color=#ff8236>属性</color>的克制关系请参考上图。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_b.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 203,
+            "groupId": 2,
+            "text": "<color=#ff8236>克制属性</color>的攻击能够造成20%的额外伤害，并额外获得1点导染指数。<color=#ff8236>逆克制属性</color>的攻击则会降低20%的伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_c.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 170101,
+            "groupId": 1701,
+            "text": "参与实兵演习需消耗演习准入证，演习准入证数量每日定时补充。\n作为进攻方比试胜利时，可获得挑战奖励和演习积分。演习积分积累至一定程度，可获得更高阶的演习称号与晋升补给。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_PVP_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 170102,
+            "groupId": 1701,
+            "text": "1. 实兵演习采取攻防战的形式，防御方需先布设自己的防守演习关卡，以抵御进攻方。\n2. 进攻方获得胜利，将获得相应积分；防御方的积分不会产生变化。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_PVP_4.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 170103,
+            "groupId": 1701,
+            "text": "1. 称号晋升能够获得晋升补给。此外，B.R.I.E.F.也会根据您当前的称号，发放周补给。\n2. 称号在新锐·五至职业·五之间时，每周积分会重置到当前称号的最低积分；达到职业·四称号后，称号每周会下降一阶。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_PVP_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300301,
+            "groupId": 3003,
+            "text": "1. 各个关卡有着不同的胜利和失败条件，通关需要达成全部胜利条件\n2. 关卡中，可使用不同的指令进行行动，以达成胜利条件",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_7.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300302,
+            "groupId": 3003,
+            "text": "在关卡中，点击敌人可以查看敌人的详情，包括敌人的健康度，单位详情，携带的增益状态",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_12.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300303,
+            "groupId": 3003,
+            "text": "与敌方作战获胜后得到的奖励，将直接存入仓库",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_8.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300304,
+            "groupId": 3003,
+            "text": "包括灵感道具在内，其他在关卡中获得的奖励，都将会在通关时结算，并存入仓库",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_9.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 903801,
+            "groupId": 9038,
+            "text": "<color=#ff8236>突发事件·全域戒备</color>：事件发生时，敌方单位对于周围的风吹草动更加敏感，全体敌方单位觉察速度增加。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_36.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120101,
+            "groupId": 1201,
+            "text": "人形可通过读取解析图纸中的数据，提升武器熟练度。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_7.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120102,
+            "groupId": 1201,
+            "text": "1. 可通过消耗同名武器，对武器进行调校。\n2. 调校阶段提升，武器的特性等级将随之提升。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_6.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 120103,
+            "groupId": 1201,
+            "text": "为人形装备其烙印型号的精英武器，可使人形获得烙印增效。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 230201,
+            "groupId": 2302,
+            "text": "1. 丰祝摇奖机中共包含5轮奖池，可使用丰祝奖券进行抽取。\n2. 特选一至四为限量奖池，抽取完当前奖池中的精致特选奖励后，即可开启下一奖池；也可继续停留在当前奖池，抽取至奖池竭尽。\n3. 优选为无限奖池，可无限抽取诚惠特选。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Event_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400401,
+            "groupId": 4004,
+            "text": "掩体的保护效果为基础保护效果与稳态保护效果相加，可在伤害预算界面查看具体数值。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400402,
+            "groupId": 4004,
+            "text": "作战单位生命值左侧的数字，表示其当前的稳态指数。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_b.png",
+            "pptNumber": "06",
+            "pptName": "压制",
+            "type": 1
+        },
+        {
+            "id": 400403,
+            "groupId": 4004,
+            "text": "当稳态指数被削减为0时，作战单位将陷入稳态崩溃。此时，掩体将只能产生基础保护效果，直到稳态指数回复到0以上。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_c.png",
+            "pptNumber": "07",
+            "pptName": "压制",
+            "type": 1
+        },
+        {
+            "id": 901501,
+            "groupId": 9015,
+            "text": "高速导轨：待勘测区遗留的交通设施，使用后可将我方直接转移至固定地点。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_13.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 901601,
+            "groupId": 9016,
+            "text": "撤离信号站：可发出特定波长信号的装置，使用后可呼叫专用无人机，以从待勘测区安全撤离并结束此次边界推进行动。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_14.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902101,
+            "groupId": 9021,
+            "text": "<color=#ff8236>增援单位</color>：部分战场中存在跨区块巡逻的敌方单位，他们有可能在战斗中途加入，对我方造成更大威胁。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_19.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 902102,
+            "groupId": 9021,
+            "text": "<color=#ff8236>效果延续</color>：部分效果在战斗内外都能生效，并且可被带入或带出战斗。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_40.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 101901,
+            "groupId": 1019,
+            "text": "传送带被激活时，会将位于其上的所有单位传送至出口。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_19_a.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 121101,
+            "groupId": 1211,
+            "text": "不同的武器可以装备不同的配件，配件能够提升武器的属性，并带来额外效果。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_3.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 121102,
+            "groupId": 1211,
+            "text": "<color=#ff8236>配件精调</color>：可以通过精调，为配件增加随机属性增幅。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_9.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 140101,
+            "groupId": 1401,
+            "text": "1. 归航研究包含<color=#ff8236>归航教学</color>、<color=#ff8236>归航解谜</color>，下设多个教学主题，每个主题包含数个关卡。\n2. 完成关卡可获得各类奖励。完成单个教学主题中的全部关卡后，将获得该主题专属奖励。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Teaching_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 140102,
+            "groupId": 1401,
+            "text": "在归航教学中，可习得作战要点，并可在研究笔记中回顾。回顾一定数量的研究笔记后，可获得笔记回顾奖励。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Teaching_2.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 401601,
+            "groupId": 4016,
+            "text": "燃气管道与普通掩体一样具有掩护效果，但是在掩护单位的下一回合会被引爆。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_16_a.png",
+            "pptNumber": "06",
+            "pptName": "废旧管道",
+            "type": 1
+        },
+        {
+            "id": 401701,
+            "groupId": 4017,
+            "text": "升降梯拥有两种状态——平地和高地。启动后，处于升降梯上的单位，所处高度将发生改变。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_a.png",
+            "pptNumber": "07",
+            "pptName": "升降梯",
+            "type": 1
+        },
+        {
+            "id": 401702,
+            "groupId": 4017,
+            "text": "操作升降梯后，作战单位可凭借剩余行动力继续行动。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_b.png",
+            "pptNumber": "08",
+            "pptName": "升降梯",
+            "type": 1
+        },
+        {
+            "id": 901901,
+            "groupId": 9019,
+            "text": "光粒风标：存在于待勘测区的小型自适应环境信息收集装置，重启校准光粒风标后，待勘测区域的探索度将随之提升。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_17.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 260101,
+            "groupId": 2601,
+            "text": "1.在休息室，人形可更换已获取的全局皮肤、可以切换休息室动作。\n2.在休息室可以阅读角色日志，观看个人剧情。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/lmg_Tutorial_Dorm_1.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300201,
+            "groupId": 3002,
+            "text": "1. 追缉协奏曲包含若干关卡，首次通关可获得大量丰祝奖券\n2. 达成指定条件后，可开启关卡自律，快速获得丰祝奖券\n3. 此外，各个关卡中，还存在仅可获得1次的灵感道具",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_5.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 300202,
+            "groupId": 3002,
+            "text": "点击地图，可查看本关的敌方分布和环境情况",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_6.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        },
+        {
+            "id": 400101,
+            "groupId": 4001,
+            "text": "战场内存在各类<color=#ff8236>掩体</color>。<color=#ff8236>掩体</color>可供作战单位躲入，并大幅度降低来自特定方向攻击所造成的伤害。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_a.png",
+            "pptNumber": "01",
+            "pptName": "地形I",
+            "type": 1
+        },
+        {
+            "id": 400102,
+            "groupId": 4001,
+            "text": "在移动时，可以通过观察战场内的盾牌图标来判断掩体的位置和保护方向。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_b.png",
+            "pptNumber": "02",
+            "pptName": "地形I",
+            "type": 1
+        },
+        {
+            "id": 901801,
+            "groupId": 9018,
+            "text": "修复桩：集成了多种维修工具的支援装置，可以同时对多名人形进行修复。",
+            "media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_16.png",
+            "pptNumber": "",
+            "pptName": "",
+            "type": 1
+        }
+    ]
+}

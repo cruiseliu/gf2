@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "cycleId": 1,
+            "level": 1,
+            "showEnemyList": "62695:27;",
+            "showEnemyDescList": [
+                108140
+            ],
+            "maxTeam": 1,
+            "bId": [
+                111
+            ],
+            "bPptId": 1602,
+            "questChallengeType": 1001,
+            "name": "首领挑战·一",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·一，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6901:29",
+            "bBossEnName": "Deichgraf",
+            "bBossPic": "Icon_Weekly_Boss1",
+            "bBossLogo": "Icon_Weekly_Logo1"
+        },
+        {
+            "id": 2,
+            "cycleId": 1,
+            "level": 2,
+            "showEnemyList": "62695:33;",
+            "showEnemyDescList": [
+                108140
+            ],
+            "maxTeam": 1,
+            "bId": [
+                121
+            ],
+            "bPptId": 1602,
+            "questChallengeType": 1002,
+            "name": "首领挑战·二",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·二，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6904:35",
+            "bBossEnName": "Deichgraf",
+            "bBossPic": "Icon_Weekly_Boss1",
+            "bBossLogo": "Icon_Weekly_Logo1"
+        },
+        {
+            "id": 3,
+            "cycleId": 1,
+            "level": 3,
+            "showEnemyList": "68555:38;",
+            "showEnemyDescList": [
+                108140
+            ],
+            "maxTeam": 1,
+            "bId": [
+                131
+            ],
+            "bPptId": 1602,
+            "questChallengeType": 1003,
+            "name": "首领挑战·三",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·三，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6902:40",
+            "bBossEnName": "Deichgraf",
+            "bBossPic": "Icon_Weekly_Boss1",
+            "bBossLogo": "Icon_Weekly_Logo1"
+        },
+        {
+            "id": 4,
+            "cycleId": 1,
+            "level": 4,
+            "showEnemyList": "68555:40;",
+            "showEnemyDescList": [
+                108140
+            ],
+            "maxTeam": 1,
+            "bId": [
+                141
+            ],
+            "bPptId": 1602,
+            "questChallengeType": 1004,
+            "name": "首领挑战·四",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·四。",
+            "bBossId": "6902:45",
+            "bBossEnName": "Deichgraf",
+            "bBossPic": "Icon_Weekly_Boss1",
+            "bBossLogo": "Icon_Weekly_Logo1"
+        },
+        {
+            "id": 5,
+            "cycleId": 1,
+            "level": 5,
+            "showEnemyList": "68555:36,61695:38;",
+            "showEnemyDescList": [
+                108140,
+                108141
+            ],
+            "maxTeam": 2,
+            "bId": [
+                151,
+                152
+            ],
+            "bPptId": 1602,
+            "questChallengeType": 1005,
+            "name": "首领挑战·五",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·五。",
+            "bBossId": "6906:45",
+            "bBossEnName": "Deichgraf",
+            "bBossPic": "Icon_Weekly_Boss1",
+            "bBossLogo": "Icon_Weekly_Logo1"
+        },
+        {
+            "id": 6,
+            "cycleId": 1,
+            "level": 6,
+            "showEnemyList": "68555:38,68575:41;",
+            "showEnemyDescList": [
+                108140,
+                108141
+            ],
+            "maxTeam": 2,
+            "bId": [
+                161,
+                162
+            ],
+            "bPptId": 1602,
+            "questChallengeType": 1006,
+            "name": "首领挑战·六",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·二，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6901:50",
+            "bBossEnName": "Deichgraf",
+            "bBossPic": "Icon_Weekly_Boss1",
+            "bBossLogo": "Icon_Weekly_Logo1"
+        },
+        {
+            "id": 7,
+            "cycleId": 1,
+            "level": 7,
+            "showEnemyList": "68565:45,64835:50;",
+            "showEnemyDescList": [
+                108140,
+                108141
+            ],
+            "maxTeam": 2,
+            "bId": [
+                171,
+                172
+            ],
+            "bPptId": 1602,
+            "questChallengeType": 1007,
+            "name": "首领挑战·七",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·二，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6901:55",
+            "bBossEnName": "Deichgraf",
+            "bBossPic": "Icon_Weekly_Boss1",
+            "bBossLogo": "Icon_Weekly_Logo1"
+        },
+        {
+            "id": 8,
+            "cycleId": 1,
+            "level": 8,
+            "showEnemyList": "68565:50,64835:52;",
+            "showEnemyDescList": [
+                108140,
+                108141
+            ],
+            "maxTeam": 2,
+            "bId": [
+                181,
+                182
+            ],
+            "bPptId": 1602,
+            "questChallengeType": 1008,
+            "name": "首领挑战·八",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·二，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6901:60",
+            "bBossEnName": "Deichgraf",
+            "bBossPic": "Icon_Weekly_Boss1",
+            "bBossLogo": "Icon_Weekly_Logo1"
+        }
+    ]
+}

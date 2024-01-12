@@ -1,0 +1,2388 @@
+{
+    "data": [
+        {
+            "talentKeyId": 202401,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10240901,
+            "keyName": "固键·正经科研经费",
+            "keyTips": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+            "gunId": [
+                1024
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202402,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10240902,
+            "keyName": "固键·超级有益发明",
+            "keyTips": "回合开始时获得<color=#f26c1c>1个</color>增益效果，持续<color=#f26c1c>1回合</color>。",
+            "gunId": [
+                1024
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202403,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10240905,
+            "keyName": "固键·金手指",
+            "keyTips": "主动技能<color=#3487e0>辣味糖果</color>新增效果，自身拥有<color=#3487e0>火热攻势</color>时，为最近的1名友方目标（不包含自身）恢复<color=#f26c1c>80%</color>攻击力的生命值。",
+            "gunId": [
+                1024
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102405,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202404,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10240903,
+            "keyName": "固键·大大的恶作剧",
+            "keyTips": "每拥有<color=#f26c1c>1个</color>增益效果，攻击力提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>5层</color>。",
+            "gunId": [
+                1024
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202405,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10240906,
+            "keyName": "固键·天才辅助方案",
+            "keyTips": "主动技能<color=#3487e0>烟火嘉年华</color>不再对敌方目标造成伤害，效果修改为恢复范围内友方目标<color=#f26c1c>65%</color>攻击力的生命值，并驱散<color=#f26c1c>1个</color>减益效果。",
+            "gunId": [
+                1024
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102407,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202406,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10240904,
+            "keyName": "固键·天才的尊严",
+            "keyTips": "若行动结束时，拥有<color=#3487e0>火热攻势</color>，则恢复自身<color=#f26c1c>20%</color>攻击力的生命值。",
+            "gunId": [
+                1024
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202701,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10270902,
+            "keyName": "固键·专注性",
+            "keyTips": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+            "gunId": [
+                1027
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202702,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10270904,
+            "keyName": "固键·高效规划",
+            "keyTips": "处于支援状态时，造成伤害提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1027
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202703,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10270903,
+            "keyName": "固键·针对性训练",
+            "keyTips": "处于支援状态时，攻击前对目标施加<color=#3487e0>防御降低II</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>防御降低II</color>：防御力降低<color=#f26c1c>20%</color>。",
+            "gunId": [
+                1027
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202704,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10270906,
+            "keyName": "固键·弱点标记",
+            "keyTips": "主动技能<color=#3487e0>胜利指引</color>效果修改为对所选方向<color=#f26c1c>9格</color>内的所有敌方目标造成伤害，第一个目标外的敌方目标受到伤害降低<color=#f26c1c>30%</color>。",
+            "gunId": [
+                1027
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102707,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202705,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10270905,
+            "keyName": "固键·必要的调整",
+            "keyTips": "使用主动技能<color=#3487e0>共轨</color>时，若克制异位弱点，则获得<color=#3487e0>火热攻势II</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>火热攻势II</color>：攻击力提高<color=#f26c1c>15%</color>。燃烧类增益。",
+            "gunId": [
+                1027
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102705,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202706,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10270901,
+            "keyName": "固键·稳定性",
+            "keyTips": "处于支援状态时，免疫敌方单位施加的位移效果。",
+            "gunId": [
+                1027
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203301,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10330901,
+            "keyName": "固键·治安巡逻小队",
+            "keyTips": "",
+            "gunId": [
+                1033
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203302,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10330905,
+            "keyName": "固键·预备防御措施",
+            "keyTips": "",
+            "gunId": [
+                1033
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 103305,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 203303,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10330902,
+            "keyName": "固键·秩序维护",
+            "keyTips": "",
+            "gunId": [
+                1033
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203304,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10330906,
+            "keyName": "固键·积极调整心态",
+            "keyTips": "",
+            "gunId": [
+                1033
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 103307,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 203305,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10330903,
+            "keyName": "固键·专注办公",
+            "keyTips": "",
+            "gunId": [
+                1033
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203306,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10330904,
+            "keyName": "固键·机动巡视",
+            "keyTips": "",
+            "gunId": [
+                1033
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203601,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10360901,
+            "keyName": "固键·合作共赢",
+            "keyTips": "",
+            "gunId": [
+                1036
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203602,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10360905,
+            "keyName": "固键·等价交换",
+            "keyTips": "",
+            "gunId": [
+                1036
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 103605,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 203603,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10360902,
+            "keyName": "固键·稳定收益",
+            "keyTips": "",
+            "gunId": [
+                1036
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203604,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10360906,
+            "keyName": "固键·互惠互利",
+            "keyTips": "",
+            "gunId": [
+                1036
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 103607,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 203605,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10360903,
+            "keyName": "固键·友情附赠",
+            "keyTips": "",
+            "gunId": [
+                1036
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203606,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10360904,
+            "keyName": "固键·优惠攻略",
+            "keyTips": "",
+            "gunId": [
+                1036
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901032,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000010,
+            "battleSkillId": 10320907,
+            "keyName": "共键·金石裂帛",
+            "keyTips": "暴击提高<color=#f26c1c>5%</color>;回合开始时，获得<color=#3487e0>移动提升Ⅰ</color>，持续<color=#f26c1c>1回合</color>。每<color=#f26c1c>2回合</color>触发<color=#f26c1c>1次</color>。\n<color=#3487e0>移动提升Ⅰ</color>：行动力提高<color=#f26c1c>1格</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901033,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000015,
+            "battleSkillId": 10330907,
+            "keyName": "共键·看穿一切",
+            "keyTips": "",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901036,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000017,
+            "battleSkillId": 10360907,
+            "keyName": "共键·熊熊燃烧",
+            "keyTips": "施加燃烧类增益时，50%概率给予一个随机基础增益，持续一回合",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901038,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000018,
+            "battleSkillId": 10380907,
+            "keyName": "共键·弱点击破",
+            "keyTips": "对拥有防御类减益的目标，造成伤害提高<color=#f26c1c>7%</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202101,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10210902,
+            "keyName": "固键·临时系统维护",
+            "keyTips": "每造成<color=#f26c1c>10点</color>稳态伤害，获得<color=#f26c1c>1点</color>导染指数。",
+            "gunId": [
+                1021
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202102,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10210904,
+            "keyName": "固键·即兴猫鼠游戏",
+            "keyTips": "技能仅命中1个目标时，造成伤害提高<color=#f26c1c>15%</color>。",
+            "gunId": [
+                1021
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202103,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10210903,
+            "keyName": "固键·自动修复程序",
+            "keyTips": "攻击前若未进行移动，则驱散自身<color=#f26c1c>2个</color>减益效果。",
+            "gunId": [
+                1021
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202104,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10210906,
+            "keyName": "固键·慵懒的抵抗",
+            "keyTips": "主动技能<color=#3487e0>领域压制</color>对无法被位移的目标，造成伤害提高<color=#f26c1c>15%</color>。",
+            "gunId": [
+                1021
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102107,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202105,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10210901,
+            "keyName": "固键·片刻的安宁",
+            "keyTips": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+            "gunId": [
+                1021
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202106,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10210905,
+            "keyName": "固键·友善的接触",
+            "keyTips": "主动技能<color=#3487e0>定点侵蚀</color>生效范围修改为<color=#f26c1c>单格</color>，造成伤害提高至攻击力的<color=#f26c1c>120%</color>。",
+            "gunId": [
+                1021
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102105,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202301,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10230901,
+            "keyName": "测试用",
+            "keyTips": "测试用",
+            "gunId": [
+                1023
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202302,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10230902,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1023
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202303,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10230903,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1023
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202304,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10230904,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1023
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202305,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10230905,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1023
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202306,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10230906,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1023
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202801,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10280901,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1028
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202802,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10280904,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1028
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202803,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10280902,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1028
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202804,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10280906,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1028
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102807,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202805,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10280903,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1028
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202806,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10280905,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1028
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102805,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202901,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10290902,
+            "keyName": "固键·能吃是福",
+            "keyTips": "受到攻击时，防御力提高，提高量为自身攻击力的<color=#f26c1c>15%</color>。",
+            "gunId": [
+                1029
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202902,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10290904,
+            "keyName": "固键·美味分享",
+            "keyTips": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+            "gunId": [
+                1029
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202903,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10290901,
+            "keyName": "固键·温水煮一切",
+            "keyTips": "在浊刻地格上时，获得<color=#3487e0>温水煮一切</color>。\n<color=#3487e0>温水煮一切</color>：防御力提高<color=#f26c1c>30%</color>，免疫敌方目标的位移效果和所有浊刻类异常地面效果，不可驱散。",
+            "gunId": [
+                1029
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202904,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10290903,
+            "keyName": "固键·吃饱饱睡好好",
+            "keyTips": "每获得<color=#f26c1c>1点</color>导染指数，恢复<color=#f26c1c>2点</color>稳态指数。",
+            "gunId": [
+                1029
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202905,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10290905,
+            "keyName": "固键·卡路里超标",
+            "keyTips": "主动技能<color=#3487e0>美味盛宴</color>的作用范围改为<color=#f26c1c>单格</color>，造成伤害提高到攻击力的<color=#f26c1c>120%</color>。",
+            "gunId": [
+                1029
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102905,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202906,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10290906,
+            "keyName": "固键·怪味健康餐",
+            "keyTips": "主动技能<color=#3487e0>饭前准备</color>作用范围修改为<color=#f26c1c>自身周围半径5格</color>范围，不再施加<color=#3487e0>移动降低Ⅱ</color>，对至多<color=#f26c1c>2个</color>敌人施加<color=#3487e0>嘲讽</color>效果，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>嘲讽</color>：无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。",
+            "gunId": [
+                1029
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102907,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 203801,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10380901,
+            "keyName": "固键·制定计划",
+            "keyTips": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+            "gunId": [
+                1038
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203802,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10380902,
+            "keyName": "固键·积累经验",
+            "keyTips": "每造成<color=#f26c1c>3次</color>伤害，获得<color=#f26c1c>1点</color>导染指数。",
+            "gunId": [
+                1038
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203803,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10380903,
+            "keyName": "固键·乘胜追击",
+            "keyTips": "若产生克制，则对目标施加<color=#f26c1c>1个</color>减益效果，持续<color=#f26c1c>2回合</color>。",
+            "gunId": [
+                1038
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203804,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10380904,
+            "keyName": "固键·寻找破绽",
+            "keyTips": "若目标拥有防御类减益，则暴击率提高<color=#f26c1c>15%</color>。",
+            "gunId": [
+                1038
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203805,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10380905,
+            "keyName": "固键·分析战局",
+            "keyTips": "使用主动技能<color=#3487e0>绝佳时机</color>时，额外对目标施加<color=#3487e0>攻击降低Ⅰ</color>，持续<color=#f26c1c>2回合</color>。\n<color=#3487e0>攻击降低Ⅰ</color>：攻击力降低<color=#f26c1c>10%</color>。减益效果。",
+            "gunId": [
+                1038
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 103805,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 203806,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10380906,
+            "keyName": "固键·积极进攻",
+            "keyTips": "使用主动技能<color=#3487e0>可靠的掩护</color>时，造成燃烧伤害，不再施加<color=#3487e0>防御降低Ⅱ</color>。\n<color=#3487e0>防御降低Ⅱ</color>：防御力降低<color=#f26c1c>20%</color>。减益效果。",
+            "gunId": [
+                1038
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 103807,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 200901,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10090905,
+            "keyName": "固键·谨遵医嘱",
+            "keyTips": "主动技能<color=#3487e0>危情救护</color>对拥有<color=#3487e0>掩护</color>的目标，治疗效果提高<color=#f26c1c>30%</color>。",
+            "gunId": [
+                1009
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 100905,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 200902,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10090901,
+            "keyName": "固键·快速手术",
+            "keyTips": "若友方目标被攻击后陷入稳态崩溃，则自身获得<color=#3487e0>移动提升Ⅱ</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>移动提升Ⅱ</color>：行动力提高<color=#f26c1c>2格</color>。",
+            "gunId": [
+                1009
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200903,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10090906,
+            "keyName": "固键·急救直通车",
+            "keyTips": "主动技能<color=#3487e0>战场微芒</color>效果增加，同时为自身<color=#f26c1c>周围半径3格内</color>的友方目标恢复生命值。",
+            "gunId": [
+                1009
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 100907,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 200904,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10090902,
+            "keyName": "固键·战斗医疗兵",
+            "keyTips": "自身生命值高于<color=#f26c1c>80%</color>时，获得<color=#3487e0>战斗医疗兵</color>。\n<color=#3487e0>战斗医疗兵</color>：攻击力提高<color=#f26c1c>10%</color>，不可驱散。",
+            "gunId": [
+                1009
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200905,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10090903,
+            "keyName": "固键·静息愈疗",
+            "keyTips": "治疗后，随机为目标驱散<color=#f26c1c>1个</color>减益效果。",
+            "gunId": [
+                1009
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200906,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10090904,
+            "keyName": "固键·速效痊愈",
+            "keyTips": "主动治疗时，若目标生命值低于<color=#f26c1c>50%</color>，则此次治疗效果提高<color=#f26c1c>20%</color>。",
+            "gunId": [
+                1009
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201501,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10150902,
+            "keyName": "固键·安全观演距离",
+            "keyTips": "对拥有移动降低的敌方目标造成的伤害提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1015
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201502,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10150905,
+            "keyName": "固键·污染区巡演",
+            "keyTips": "主动技能<color=#3487e0>全力演出</color>的范围修改为<color=#f26c1c>5×3格</color>，击退格数修改为<color=#f26c1c>1格</color>。",
+            "gunId": [
+                1015
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 101505,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 201503,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10150901,
+            "keyName": "固键·偶像的好运",
+            "keyTips": "若自身<color=#f26c1c>周围半径6格内</color>没有友方单位，则行动结束时获得<color=#f26c1c>1层</color><color=#3487e0>速效屏障</color>。\n<color=#3487e0>速效屏障</color>：受到的精准伤害降低<color=#f26c1c>60%</color>，生效<color=#f26c1c>1次</color>。",
+            "gunId": [
+                1015
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201504,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10150906,
+            "keyName": "固键·小恐龙突袭",
+            "keyTips": "主动技能<color=#3487e0>专属舞台</color>对拥有移动降低的目标施加<color=#3487e0>诱导</color>效果，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>诱导</color>：无法操控，主动向状态施加者靠近。",
+            "gunId": [
+                1015
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 101507,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 201505,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10150904,
+            "keyName": "固键·抗压能力特训",
+            "keyTips": "若自身<color=#f26c1c>周围半径1格内</color>存在掩体，获得<color=#3487e0>抗压能力特训</color>。\n<color=#3487e0>抗压能力特训</color>：受到的范围伤害降低<color=#f26c1c>20%</color>，不可驱散。",
+            "gunId": [
+                1015
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201506,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10150903,
+            "keyName": "固键·舞台坚守",
+            "keyTips": "对大型目标施加移动降低效果时，追加<color=#f26c1c>1次</color><color=#f26c1c>15%</color>攻击力的固定伤害。",
+            "gunId": [
+                1015
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200101,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10010901,
+            "keyName": "固键·凝神瞬息",
+            "keyTips": "若自身<color=#f26c1c>周围半径3格内</color>不存在友方单位，则获得<color=#3487e0>炽热的怒火</color>。\n<color=#3487e0>炽热的怒火</color>：造成伤害提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1001
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 100104,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 200102,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10010905,
+            "keyName": "固键·凶猛掠食",
+            "keyTips": "主动技能<color=#3487e0>粉碎回旋</color>若命中拥有燃烧类减益的目标，即可获得<color=#3487e0>移动追加</color>。",
+            "gunId": [
+                1001
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 100105,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 200103,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10010904,
+            "keyName": "固键·炽热的怒火",
+            "keyTips": "<color=#3487e0>杀戮序列</color>需要的导染指数减少<color=#f26c1c>1点</color>。",
+            "gunId": [
+                1001
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200104,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10010906,
+            "keyName": "固键·高傲的挑战者",
+            "keyTips": "若使用主动技能<color=#3487e0>淬火斩</color>造成击杀，则此技能冷却时间减少<color=#f26c1c>2回合</color>。",
+            "gunId": [
+                1001
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 100107,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 200105,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10010902,
+            "keyName": "固键·追击本能",
+            "keyTips": "回合开始时，若场上存在拥有燃烧类减益的敌方单位，则获得<color=#3487e0>火热攻势II</color>，持续<color=#f26c1c>2回合</color>。\n<color=#3487e0>火热攻势II</color>：攻击力提高<color=#f26c1c>15%</color>。燃烧类增益。",
+            "gunId": [
+                1001
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200106,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10010903,
+            "keyName": "固键·积势潜行",
+            "keyTips": "造成伤害前，若移动了<color=#f26c1c>3格</color>以上，则自身暴击率提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1001
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200801,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10080903,
+            "keyName": "固键·灵验的诅咒",
+            "keyTips": "攻击拥有<color=#3487e0>悼亡预言</color>标记的目标时，造成伤害提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1008
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200802,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10080905,
+            "keyName": "固键·流转的运势",
+            "keyTips": "拥有<color=#3487e0>洞察</color>时，主动技能<color=#3487e0>启星</color>的射程增加<color=#f26c1c>1格</color>。",
+            "gunId": [
+                1008
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200803,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10080904,
+            "keyName": "固键·好运的呼唤",
+            "keyTips": "拥有<color=#3487e0>洞察</color>时，若自身附近存在掩体，则获得<color=#3487e0>好运的呼唤</color>。\n<color=#3487e0>好运的呼唤</color>：受到的范围伤害降低<color=#f26c1c>20%</color>。",
+            "gunId": [
+                1008
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200804,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10080906,
+            "keyName": "固键·无声的灾厄",
+            "keyTips": "主动技能<color=#3487e0>隧穿之匣</color>中拥有<color=#3487e0>悼亡预言</color>标记的目标被攻击时，纳美西丝获得<color=#f26c1c>1点</color>导染指数。",
+            "gunId": [
+                1008
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200805,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10080901,
+            "keyName": "固键·命定的劫难",
+            "keyTips": "击杀敌方目标后，获得<color=#f26c1c>1点</color>导染指数。",
+            "gunId": [
+                1008
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 200806,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10080902,
+            "keyName": "固键·凝注的目光",
+            "keyTips": "拥有<color=#3487e0>洞察</color>时，免疫敌方单位施加的位移效果。",
+            "gunId": [
+                1008
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201301,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10130901,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1013
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201302,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10130902,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1013
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201303,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10130903,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1013
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201304,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10130904,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1013
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201305,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10130905,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1013
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201306,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10130906,
+            "keyName": "#N/A",
+            "keyTips": "#N/A",
+            "gunId": [
+                1013
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202201,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10220901,
+            "keyName": "固键·小恶魔的低语",
+            "keyTips": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+            "gunId": [
+                1022
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202202,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10220904,
+            "keyName": "固键·热浪回馈",
+            "keyTips": "主动技能<color=#3487e0>滚烫音浪</color>若造成击杀，则获得<color=#3487e0>聚焦</color>。",
+            "gunId": [
+                1022
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202203,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10220902,
+            "keyName": "固键·致命诱惑",
+            "keyTips": "行动开始时，若场上有敌方单位拥有持续伤害效果的燃烧类减益，则自身获得<color=#3487e0>火热攻势II</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>火热攻势II</color> ：攻击力提高<color=#f26c1c>15%</color>。燃烧类增益。",
+            "gunId": [
+                1022
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202204,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10220906,
+            "keyName": "固键·偶像进修日",
+            "keyTips": "每拥有<color=#f26c1c>1个</color>增益效果，暴击伤害提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>5层</color>。",
+            "gunId": [
+                1022
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102207,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202205,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10220905,
+            "keyName": "固键·目标是你的心",
+            "keyTips": "主动技能<color=#3487e0>完美升调</color>造成的伤害修改为<color=#e67129>燃烧伤害</color>。",
+            "gunId": [
+                1022
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102205,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202206,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10220903,
+            "keyName": "固键·掌心的飞吻",
+            "keyTips": "攻击拥有燃烧类减益的目标后，恢复自身生命值上限<color=#f26c1c>20%</color>的生命值。",
+            "gunId": [
+                1022
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202501,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10250904,
+            "keyName": "固键·彗尾过境",
+            "keyTips": "行动追加时，驱散自身<color=#f26c1c>2个</color>减益效果。",
+            "gunId": [
+                1025
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202502,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10250905,
+            "keyName": "固键·观测法则",
+            "keyTips": "使用主动技能<color=#3487e0>黑洞反演</color>时，若目标未受到掩体保护，则无视其<color=#f26c1c>20%</color>防御力。",
+            "gunId": [
+                1025
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102505,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202503,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10250903,
+            "keyName": "固键·不可见光线",
+            "keyTips": "行动追加时，获得<color=#3487e0>攻击提升Ⅱ</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>攻击提升Ⅱ</color>：攻击力提高<color=#f26c1c>15%</color>。",
+            "gunId": [
+                1025
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202504,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10250906,
+            "keyName": "固键·逆行轨迹线",
+            "keyTips": "使用主动技能<color=#3487e0>超新星冲击</color>时，若目标生命值或稳态指数低于<color=#f26c1c>100%</color>，则此次攻击造成<color=#2caadb>浊刻伤害</color>。",
+            "gunId": [
+                1025
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102507,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202505,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10250901,
+            "keyName": "固键·星河游弋",
+            "keyTips": "施加浊刻类减益时，随机驱散目标身上<color=#f26c1c>1个</color>增益效果。",
+            "gunId": [
+                1025
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202506,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10250902,
+            "keyName": "固键·掩星",
+            "keyTips": "若克制异位弱点，此次攻击造成伤害提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1025
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 91001,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000016,
+            "keyName": "共键·华彩颤音",
+            "keyTips": "攻击力提高<color=#f26c1c>4%</color>，暴击提高<color=#f26c1c>4%</color>。",
+            "battleSkillId": 0,
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 92001,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000025,
+            "keyName": "共键·绕梁清乐",
+            "keyTips": "攻击力提高<color=#f26c1c>2%</color>，最大生命值提高<color=#f26c1c>2%</color>。",
+            "battleSkillId": 0,
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202601,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10260901,
+            "keyName": "固键·英勇出击",
+            "keyTips": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+            "gunId": [
+                1026
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202602,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10260902,
+            "keyName": "固键·前辈的经验",
+            "keyTips": "若攻击拥有防御类减益效果的敌方目标，则自身所有主动技能的冷却时间减少<color=#f26c1c>1回合</color>。",
+            "gunId": [
+                1026
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202603,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10260903,
+            "keyName": "固键·隐形防弹衣",
+            "keyTips": "若被拥有减益的敌方目标攻击，则受到的伤害降低<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1026
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202604,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10260906,
+            "keyName": "固键·守护者传说",
+            "keyTips": "使用主动技能<color=#3487e0>正义的伙伴</color>时，若攻击<color=#f26c1c>2次</color>，则第一次造成<color=#f26c1c>10%</color>，第二次造成<color=#f26c1c>130%</color>攻击力的物理伤害。",
+            "gunId": [
+                1026
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102607,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 202605,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10260904,
+            "keyName": "固键·一枪定胜负",
+            "keyTips": "若攻击拥有防御类减益效果的敌方目标，则自身的暴击率和暴击伤害提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1026
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 202606,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10260905,
+            "keyName": "固键·正义的子弹",
+            "keyTips": "使用主动技能<color=#3487e0>前辈的劝诫</color>时，若造成敌方目标稳态崩溃，则对其追加一次<color=#f26c1c>50%</color>攻击力的固定伤害。",
+            "gunId": [
+                1026
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 102605,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 203201,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10320901,
+            "keyName": "固键·绕梁",
+            "keyTips": "拥有<color=#f26c1c>3层</color>及以上<color=#3487e0>校音</color>时，行动力增加<color=#f26c1c>1格</color>。\n<color=#3487e0>校音</color>：暴击率提高<color=#f26c1c>3%</color>，暴击伤害提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>10层</color>。增益不可驱散。",
+            "gunId": [
+                1032
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203202,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10320902,
+            "keyName": "固键·青云未至",
+            "keyTips": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+            "gunId": [
+                1032
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203203,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10320903,
+            "keyName": "固键·烟行调",
+            "keyTips": "行动开始时，每拥有<color=#f26c1c>1点</color>额外的行动力，暴击率提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1032
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203204,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10320904,
+            "keyName": "固键·曼声传情",
+            "keyTips": "若自身行动力比目标高，则造成伤害前获得<color=#f26c1c>1层</color><color=#3487e0>校音</color>。\n<color=#3487e0>校音</color>：暴击率提高<color=#f26c1c>3%</color>，暴击伤害提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>10层</color>。增益不可驱散。",
+            "gunId": [
+                1032
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 203205,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10320905,
+            "keyName": "固键·破阵",
+            "keyTips": "每拥有<color=#f26c1c>3层</color><color=#3487e0>校音</color>，使用主动技能<color=#3487e0>绝调金声</color>时，额外驱散<color=#f26c1c>1个</color>增益效果。\n<color=#3487e0>校音</color>：暴击率提高<color=#f26c1c>3%</color>，暴击伤害提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>10层</color>。增益不可驱散。",
+            "gunId": [
+                1032
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 103205,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 203206,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10320906,
+            "keyName": "固键·流芳",
+            "keyTips": "使用主动技能<color=#3487e0>清商和鸣</color>后，若本回合造成击杀，恢复自身<color=#f26c1c>20%</color>的生命值及<color=#f26c1c>2点</color>稳态指数。",
+            "gunId": [
+                1032
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 103207,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 901001,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000007,
+            "battleSkillId": 10010907,
+            "keyName": "共键·暴力美学",
+            "keyTips": "暴击提高<color=#f26c1c>4%</color>;若自身拥有燃烧类增益，则免疫<color=#3487e0>凝固</color>和<color=#3487e0>僵冷</color>，且造成伤害提高<color=#f26c1c>5%</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901008,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000002,
+            "battleSkillId": 10080907,
+            "keyName": "共键·晨星的祝福",
+            "keyTips": "攻击力提高<color=#f26c1c>4%</color>;造成击杀时，若自身拥有<color=#3487e0>洞察</color>，则获得<color=#f26c1c>3格</color><color=#3487e0>移动追加</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901009,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000003,
+            "battleSkillId": 10090907,
+            "keyName": "共键·虚构生命",
+            "keyTips": "最大生命值提高<color=#f26c1c>4%</color>;主动单体治疗前，驱散目标身上随机<color=#f26c1c>1个</color>减益效果。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901015,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000014,
+            "battleSkillId": 10150907,
+            "keyName": "共键·直击心灵",
+            "keyTips": "攻击力提高<color=#f26c1c>5%</color>;若行动力大于等于目标，则造成伤害提高<color=#f26c1c>7%</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901017,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000001,
+            "battleSkillId": 10170907,
+            "keyName": "共键·持久续航",
+            "keyTips": "最大生命值提高<color=#f26c1c>4%</color>;拥有<color=#3487e0>掩护</color>时，免疫<color=#f26c1c>1次</color>位移，每<color=#f26c1c>2回合</color>触发<color=#f26c1c>1次</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901021,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000011,
+            "battleSkillId": 10210907,
+            "keyName": "共键·全点了伤害",
+            "keyTips": "暴击提高<color=#f26c1c>5%</color>;主动技能若命中<color=#f26c1c>2个</color>以上敌方目标，则造成伤害提高<color=#f26c1c>7%</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901022,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000012,
+            "battleSkillId": 10220907,
+            "keyName": "共键·暖场烟花",
+            "keyTips": "暴击提高<color=#f26c1c>4%</color>;若自身拥有的增益效果大于<color=#f26c1c>1个</color>，则造成伤害提高<color=#f26c1c>7%</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901024,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000013,
+            "battleSkillId": 10240907,
+            "keyName": "共键·微妙的发明",
+            "keyTips": "最大生命值提高<color=#f26c1c>4%</color>;主动治疗时，有<color=#f26c1c>50%</color>概率对目标随机施加<color=#f26c1c>1个</color>增益效果，持续<color=#f26c1c>1回合</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901025,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000005,
+            "battleSkillId": 10250907,
+            "keyName": "共键·余辉",
+            "keyTips": "攻击力提高<color=#f26c1c>5%</color>;导染指数不满时，则造成伤害提高<color=#f26c1c>7%</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901026,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000004,
+            "battleSkillId": 10260907,
+            "keyName": "共键·前辈常谈",
+            "keyTips": "攻击力提高<color=#f26c1c>4%</color>;若目标的稳态指数低于自身，则对其造成伤害提高<color=#f26c1c>7%</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901027,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000006,
+            "battleSkillId": 10270907,
+            "keyName": "共键·攻坚谈判",
+            "keyTips": "暴击提高<color=#f26c1c>5%</color>;自身行动回合外造成伤害提高<color=#f26c1c>7%</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901028,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000008,
+            "battleSkillId": 10280907,
+            "keyName": "共键·伯爵红茶",
+            "keyTips": "最大生命值提高<color=#f26c1c>5%</color>;行动结束时，随机为1个没有热态回复的友方单位施加热态回复。每<color=#f26c1c>3回合</color>触发<color=#f26c1c>1次</color>。\n热态回复：被攻击前，恢复施加者<color=#f26c1c>30%</color>攻击力的生命值，<color=#f26c1c>2点</color>稳态指数，并随机驱散攻击者的<color=#f26c1c>1个</color>增益效果，生效<color=#f26c1c>1次</color>。燃烧类增益。不可驱散。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 901029,
+            "talentKeyType": 2,
+            "isEquip": 1,
+            "talentKeyName": "泛用型衍生键",
+            "propertyId": 8000009,
+            "battleSkillId": 10290907,
+            "keyName": "共键·高油温防护",
+            "keyTips": "防御力提高<color=#f26c1c>5%</color>;造成精准伤害时，对目标施加<color=#3487e0>移动降低Ⅱ</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>移动降低Ⅱ</color>：行动力降低<color=#f26c1c>2格</color>。",
+            "gunId": [],
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 10000,
+            "talentKeyName": "基准键",
+            "battleSkillId": 10000002,
+            "keyName": "天赋初始",
+            "keyTips": "稳态指数大于0时，受到掩体保护。",
+            "gunId": [
+                1001,
+                1008,
+                1009,
+                1015,
+                1017,
+                1022,
+                1023,
+                1013,
+                1021,
+                1024,
+                1025
+            ],
+            "talentKeyType": 0,
+            "isEquip": 0,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "capacity": 0.0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201701,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10170902,
+            "keyName": "固键·多方位考量",
+            "keyTips": "自身拥有<color=#3487e0>掩护</color>时，受到的范围伤害降低<color=#f26c1c>20%</color>。",
+            "gunId": [
+                1017
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201702,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10170906,
+            "keyName": "固键·稳步进军指令",
+            "keyTips": "使用主动技能<color=#3487e0>完美掩护</color>时，若友方目标已拥有<color=#3487e0>掩护</color>，则为其施加<color=#3487e0>攻击提升I</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>攻击提升I</color>：攻击力提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1017
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 101707,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 201703,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10170903,
+            "keyName": "固键·自适应策略",
+            "keyTips": "自身生命值低于<color=#f26c1c>30%</color>时，受到的治疗效果提高<color=#f26c1c>50%</color>。",
+            "gunId": [
+                1017
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201704,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10170905,
+            "keyName": "固键·火力优势战术",
+            "keyTips": "使用主动技能<color=#3487e0>强力压制</color>，造成敌方目标稳态崩溃时，对目标施加<color=#3487e0>嘲讽</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>嘲讽</color>：无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。",
+            "gunId": [
+                1017
+            ],
+            "capacity": 0.05,
+            "isSwitch": 1,
+            "replaceId": 101705,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0
+        },
+        {
+            "talentKeyId": 201705,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10170901,
+            "keyName": "固键·可持续行动",
+            "keyTips": "攻击拥有移动降低效果的目标时，造成伤害提高<color=#f26c1c>10%</color>。",
+            "gunId": [
+                1017
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        },
+        {
+            "talentKeyId": 201706,
+            "talentKeyType": 1,
+            "isEquip": 1,
+            "talentKeyName": "进阶键",
+            "battleSkillId": 10170904,
+            "keyName": "固键·标准回避法则",
+            "keyTips": "稳态崩溃时，恢复自身最大生命值的<color=#f26c1c>20%</color>，<color=#f26c1c>5点</color>稳态指数，同时驱散自身<color=#f26c1c>4个</color>减益效果，每场战斗至多触发<color=#f26c1c>1次</color>。",
+            "gunId": [
+                1017
+            ],
+            "capacity": 0.05,
+            "propertyId": 0,
+            "steadyState": 0,
+            "requireJob": 0,
+            "isSwitch": 0,
+            "replaceId": 0
+        }
+    ]
+}
