@@ -6,8 +6,8 @@ import proto
 import declarations
 
 tables_path = 'D:/Program Files/GF2Exilium/GF2 Game/GF2_Exilium_Data/LocalCache/Data/Table'
-output_path = Path(__file__).parent / 'tables'
-fail_log_path = Path(__file__).parent / 'failures.txt'
+output_path = Path(__file__).parents[1] / 'tables'
+fail_log_path = Path(__file__).parents[1] / 'fail-tables.txt'
 
 fail_log_file = open(fail_log_path, 'w')
 

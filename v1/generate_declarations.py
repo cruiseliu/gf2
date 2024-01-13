@@ -1,6 +1,7 @@
 from collections import defaultdict
 from pathlib import Path
 
+# generated with Cheat Engine: Mono - Dissect mono - Expand all
 ce_symbol_path = Path(__file__).parent / 'ce.txt'
 declaration_py_path = Path(__file__).parent / 'declarations.py'
 

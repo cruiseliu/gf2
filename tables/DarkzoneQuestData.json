@@ -1,0 +1,1798 @@
+{
+    "data": [
+        {
+            "id": 99,
+            "questName": "测试图99",
+            "questDesc": "真正的敌首已经撤离到了更深的污染区之中，尝试迂回，绕过眼前的敌人进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 99,
+            "questLevel": 24,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 1500,
+                "110203": 4,
+                "110202": 4
+            },
+            "questReward": {
+                "110202": 4,
+                "18": 1500,
+                "110203": 4
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭敌军核心战力，愚钝者",
+            "questPic": "Img_DarkzoneQuest_Pic_6",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "148:512:18",
+                "858:512:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10101,
+            "questName": "A01(新手1)场景04",
+            "questDesc": "真正的敌首已经撤离到了更深的污染区之中，尝试迂回，绕过眼前的敌人进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1101,
+            "questLevel": 24,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 1500,
+                "110202": 4,
+                "110203": 4
+            },
+            "questReward": {
+                "18": 1500
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位愚钝者，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_6",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "148:512:18",
+                "858:512:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                1010101
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10102,
+            "questName": "A02(新手2)场景08",
+            "questDesc": "我们中了埋伏，没想到这里居然有敌人的据点，指挥官，突围！(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1102,
+            "questLevel": 24,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110203": 4,
+                "18": 1500,
+                "110202": 4
+            },
+            "questReward": {
+                "18": 1500
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位袭击者，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_7",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "374:282:18",
+                "582:771:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                1010201
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10103,
+            "questName": "A03(新手3)场景05",
+            "questDesc": "队伍已来到了污染区的深处，环境变得更加恶劣，抓住敌人的残留线索进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1103,
+            "questLevel": 26,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110203": 4,
+                "110202": 4,
+                "18": 1500
+            },
+            "questReward": {
+                "110202": 4,
+                "110203": 4,
+                "18": 1500
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位堡垒泰坦，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_8",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "148:512:18",
+                "858:512:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                1010301
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10104,
+            "questName": "A04(新手4)场景06",
+            "questDesc": "敌人撤退了，继续追击，他们逃不出我们的追踪。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1104,
+            "questLevel": 28,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 2000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 2000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "消灭敌方单位攻袭泰坦后，找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_10",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "660:882:18",
+                "640:398:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10105,
+            "questName": "A05(新手5)场景07",
+            "questDesc": "陷阱！敌方早有准备，我们要找到突破口，冲出火力范围。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1105,
+            "questLevel": 28,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 2000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questReward": {
+                "18": 2000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位纽虫，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_11",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "148:512:18",
+                "858:512:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10106,
+            "questName": "A06(新手6)场景08",
+            "questDesc": "到达了敌方的阵地后方，这里面藏着什么秘密呢……(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1106,
+            "questLevel": 30,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "110202": 3,
+                "18": 4000
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 4000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "消灭敌方单位剑锷泰坦后，找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_13",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "581:270:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                1106
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10107,
+            "questName": "A07(新手7)场景06",
+            "questDesc": "是时候展示我们真正的实力了，正前方，突破！(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1107,
+            "questLevel": 30,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "18": 2500,
+                "110202": 3
+            },
+            "questReward": {
+                "18": 2500,
+                "110201": 1,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位重炮圣盾SWAP，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_15",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10108,
+            "questName": "A08(新手8)场景09",
+            "questDesc": "短兵相接对我们来说并不一定有利，但是形式已经迫在眉睫了。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1108,
+            "questLevel": 30,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "18": 2500,
+                "110202": 3
+            },
+            "questReward": {
+                "18": 2500,
+                "110201": 1,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_16",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "562:283:18",
+                "323:722:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                101081,
+                101082
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10109,
+            "questName": "A09(新手9)场景05",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1109,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questReward": {
+                "18": 5000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10110,
+            "questName": "A10(新手10)场景09",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1110,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questReward": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10111,
+            "questName": "A11(新手11)场景08",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1111,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questReward": {
+                "18": 5000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位纵火者，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                1111
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10112,
+            "questName": "A12(新手12)场景06",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1112,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questReward": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位尖喙铁兽，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10113,
+            "questName": "A13(首月1)场景08",
+            "questDesc": "真正的敌首已经撤离到了更深的污染区之中，尝试迂回，绕过眼前的敌人进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1113,
+            "questLevel": 24,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 4,
+                "18": 1500,
+                "110203": 4
+            },
+            "questReward": {
+                "110202": 4,
+                "110203": 4,
+                "18": 1500
+            },
+            "questType": 101,
+            "questTarget": "找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_6",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "148:512:18",
+                "858:512:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10114,
+            "questName": "A14(首月2)场景04",
+            "questDesc": "我们中了埋伏，没想到这里居然有敌人的据点，指挥官，突围！(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1114,
+            "questLevel": 24,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 4,
+                "110203": 4,
+                "18": 1500
+            },
+            "questReward": {
+                "110203": 4,
+                "110202": 4,
+                "18": 1500
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位纵火者，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_7",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "374:282:18",
+                "582:771:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10115,
+            "questName": "A15(首月3)场景05",
+            "questDesc": "队伍已来到了污染区的深处，环境变得更加恶劣，抓住敌人的残留线索进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1115,
+            "questLevel": 26,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 1500,
+                "110202": 4,
+                "110203": 4
+            },
+            "questReward": {
+                "110202": 4,
+                "18": 1500,
+                "110203": 4
+            },
+            "questType": 101,
+            "questTarget": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_8",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "148:512:18",
+                "858:512:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                1115
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10116,
+            "questName": "A16(首月4)场景09",
+            "questDesc": "敌人撤退了，继续追击，他们逃不出我们的追踪。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1116,
+            "questLevel": 28,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "18": 2000,
+                "110202": 3
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 2000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "消灭敌方单位尖喙铁兽后，找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_10",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "660:882:18",
+                "640:398:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10117,
+            "questName": "A17(首月5)场景07",
+            "questDesc": "陷阱！敌方早有准备，我们要找到突破口，冲出火力范围。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1117,
+            "questLevel": 28,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 2000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questReward": {
+                "110201": 1,
+                "110202": 3,
+                "18": 2000
+            },
+            "questType": 101,
+            "questTarget": "消灭指定敌方单位獠牙铁兽后，找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_11",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "148:512:18",
+                "858:512:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10118,
+            "questName": "A18(首月6)场景08",
+            "questDesc": "到达了敌方的阵地后方，这里面藏着什么秘密呢……(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1118,
+            "questLevel": 30,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 4000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questReward": {
+                "110201": 1,
+                "110202": 3,
+                "18": 4000
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位纵火者，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_13",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "581:270:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10119,
+            "questName": "A19(首月7)场景06",
+            "questDesc": "是时候展示我们真正的实力了，正前方，突破！(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1119,
+            "questLevel": 30,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "110201": 1,
+                "18": 2500
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 2500,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到獠牙铁兽，尖喙铁兽，断角铁兽其中之一，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_15",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10120,
+            "questName": "A20(首月8)场景06",
+            "questDesc": "短兵相接对我们来说并不一定有利，但是形式已经迫在眉睫了。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1120,
+            "questLevel": 30,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 2500,
+                "110201": 1,
+                "110202": 3
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 2500,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到撤离信号站，完成撤离。",
+            "questPic": "Img_DarkzoneQuest_Pic_16",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "562:283:18",
+                "323:722:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                1120
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10121,
+            "questName": "A21(首月9)场景07",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1121,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10122,
+            "questName": "A22(首月10)场景08",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1122,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questReward": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位纵火者，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10123,
+            "questName": "A23(首月11)场景09",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1123,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位黑眼，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                112301,
+                112302
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10124,
+            "questName": "A24(首月12)场景08",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1124,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "targetGroupId": [
+                112401
+            ],
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false
+        },
+        {
+            "id": 10125,
+            "questName": "碳牙-怪物生态测试1",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 980,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questReward": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10126,
+            "questName": "碳牙-怪物生态测试2",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 981,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10127,
+            "questName": "碳牙-怪物生态测试3",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 982,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10128,
+            "questName": "碳牙-怪物生态测试4",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 983,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10129,
+            "questName": "碳牙-怪物生态测试5",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 984,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10130,
+            "questName": "碳牙-怪物生态测试6",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 985,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10131,
+            "questName": "碳牙-怪物生态测试7",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 986,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questReward": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10132,
+            "questName": "碳牙-怪物生态测试8",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 987,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questReward": {
+                "18": 5000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10133,
+            "questName": "碳牙-怪物生态测试9",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 988,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110201": 1,
+                "110202": 3
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10134,
+            "questName": "碳牙-怪物生态测试10",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 989,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questReward": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10135,
+            "questName": "碳牙-怪物生态测试11",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 990,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10136,
+            "questName": "碳牙-怪物生态测试12",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 991,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10137,
+            "questName": "碳牙-怪物生态测试13",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 992,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110201": 1,
+                "110202": 3
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10138,
+            "questName": "碳牙-怪物生态测试14",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 993,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questReward": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10139,
+            "questName": "碳牙-怪物生态测试15",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 994,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questReward": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10140,
+            "questName": "碳牙-怪物生态测试16",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 995,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10141,
+            "questName": "碳牙-怪物生态测试17",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 996,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110201": 1,
+                "110202": 3
+            },
+            "questReward": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10142,
+            "questName": "碳牙-怪物生态测试18",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 997,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10143,
+            "questName": "碳牙-怪物生态测试19",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 998,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110201": 1,
+                "110202": 3
+            },
+            "questReward": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 10144,
+            "questName": "碳牙-怪物生态测试20",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 999,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 20101,
+            "questName": "无尽模式测试1",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1124,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "18": 5000,
+                "110201": 1,
+                "110202": 3
+            },
+            "questReward": {
+                "18": 5000,
+                "110202": 3,
+                "110201": 1
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 2,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 20102,
+            "questName": "无尽模式测试2",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1124,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110201": 1,
+                "110202": 3,
+                "18": 5000
+            },
+            "questReward": {
+                "110202": 3,
+                "110201": 1,
+                "18": 5000
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 2,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        },
+        {
+            "id": 30101,
+            "questName": "探索测试",
+            "questDesc": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+            "questStructSceneId": 1124,
+            "questLevel": 32,
+            "questRewardshow": 110202,
+            "questRewarddetailshow": {
+                "110202": 3,
+                "18": 5000,
+                "110201": 1
+            },
+            "questReward": {
+                "110201": 1,
+                "18": 5000,
+                "110202": 3
+            },
+            "questType": 101,
+            "questTarget": "找到并消灭核心战力",
+            "questPic": "Img_DarkzoneQuest_Pic_17",
+            "questMap": [
+                100222
+            ],
+            "questMapmark": [
+                "755:269:18",
+                "122:259:17"
+            ],
+            "targetenemyShow": "6143;",
+            "dzMode": 1,
+            "battleOverRecovery": true,
+            "eventStart": [],
+            "eventRandom": [],
+            "questCost": {},
+            "questReturn": {},
+            "equipLoss": false,
+            "targetGroupId": []
+        }
+    ]
+}

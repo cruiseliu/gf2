@@ -1,0 +1,430 @@
+{
+    "data": [
+        {
+            "id": 101,
+            "name": "奏鸣曲序",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage1",
+            "dropShow": [
+                170003,
+                170004,
+                170005,
+                170006,
+                170007
+            ],
+            "sugLevel": 15,
+            "enemyLevel": 15,
+            "questId": [
+                11001
+            ],
+            "firstRewardItem": {
+                "170001": 300
+            },
+            "maxRound": 99,
+            "promptRound": 90,
+            "token": 170002,
+            "maxOrderNumber": 5,
+            "initialPoint": 60,
+            "doll": 4,
+            "mapId": 1001,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13000
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "25": 20,
+                "170001": 100,
+                "200": 10
+            },
+            "maxRewardPoint": 4,
+            "sweepTimes": 10,
+            "frontStageId": 0,
+            "unlockItemNum": {},
+            "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0,
+            "loseId": []
+        },
+        {
+            "id": 102,
+            "name": "奏鸣曲一",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage2",
+            "dropShow": [
+                170003,
+                170004,
+                170005,
+                170006,
+                170007
+            ],
+            "sugLevel": 16,
+            "enemyLevel": 16,
+            "frontStageId": 101,
+            "questId": [
+                11001
+            ],
+            "firstRewardItem": {
+                "170001": 300
+            },
+            "maxRound": 99,
+            "promptRound": 90,
+            "token": 170002,
+            "maxOrderNumber": 5,
+            "initialPoint": 60,
+            "doll": 4,
+            "mapId": 1002,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
+            "loseId": [
+                21008
+            ],
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13001
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "170004": 1,
+                "170001": 120,
+                "200": 10,
+                "25": 20,
+                "170003": 1,
+                "170006": 1,
+                "170005": 1,
+                "170007": 1
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "unlockItemNum": {},
+            "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 103,
+            "name": "奏鸣曲二",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage3",
+            "dropShow": [
+                170003,
+                170004,
+                170005,
+                170006,
+                170007
+            ],
+            "sugLevel": 17,
+            "enemyLevel": 17,
+            "frontStageId": 102,
+            "questId": [
+                11001
+            ],
+            "firstRewardItem": {
+                "170001": 300,
+                "22043": 1
+            },
+            "maxRound": 99,
+            "promptRound": 90,
+            "token": 170002,
+            "maxOrderNumber": 5,
+            "initialPoint": 60,
+            "doll": 4,
+            "mapId": 1003,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
+            "loseId": [
+                21009
+            ],
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13002
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "170005": 1,
+                "200": 10,
+                "25": 20,
+                "170007": 1,
+                "170001": 140,
+                "170004": 1,
+                "170003": 1,
+                "170006": 1
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "unlockItemNum": {},
+            "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 201,
+            "name": "三部曲一",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage1",
+            "dropShow": [
+                170003,
+                170004,
+                170005,
+                170006,
+                170007
+            ],
+            "sugLevel": 19,
+            "enemyLevel": 19,
+            "frontStageId": 103,
+            "questId": [
+                11007,
+                11008
+            ],
+            "firstRewardItem": {
+                "170001": 300
+            },
+            "maxRound": 99,
+            "promptRound": 90,
+            "token": 170002,
+            "maxOrderNumber": 5,
+            "initialPoint": 60,
+            "doll": 4,
+            "mapId": 1004,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
+            "loseId": [
+                21011
+            ],
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13003
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "170006": 1,
+                "170003": 1,
+                "170005": 1,
+                "25": 20,
+                "170007": 1,
+                "200": 10,
+                "170004": 1,
+                "170001": 160
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "unlockItemNum": {},
+            "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 202,
+            "name": "三部曲二",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage2",
+            "dropShow": [
+                170003,
+                170004,
+                170005,
+                170006,
+                170007
+            ],
+            "sugLevel": 21,
+            "enemyLevel": 21,
+            "frontStageId": 201,
+            "questId": [
+                11007,
+                11009
+            ],
+            "firstRewardItem": {
+                "170001": 300
+            },
+            "maxRound": 99,
+            "promptRound": 90,
+            "token": 170002,
+            "maxOrderNumber": 5,
+            "initialPoint": 60,
+            "doll": 4,
+            "mapId": 1005,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
+            "loseId": [
+                21007
+            ],
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13004
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "170007": 1,
+                "170004": 1,
+                "170006": 1,
+                "170001": 180,
+                "200": 10,
+                "25": 20,
+                "170003": 1,
+                "170005": 1
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "unlockItemNum": {},
+            "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 203,
+            "name": "三部曲三",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage3",
+            "dropShow": [
+                170003,
+                170004,
+                170005,
+                170006,
+                170007
+            ],
+            "sugLevel": 23,
+            "enemyLevel": 23,
+            "frontStageId": 202,
+            "questId": [
+                11007,
+                11010
+            ],
+            "firstRewardItem": {
+                "22044": 1,
+                "170001": 300
+            },
+            "maxRound": 99,
+            "promptRound": 90,
+            "token": 170002,
+            "maxOrderNumber": 5,
+            "initialPoint": 60,
+            "doll": 4,
+            "mapId": 1006,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
+            "loseId": [
+                21012
+            ],
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13005
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "170007": 1,
+                "170001": 200,
+                "25": 20,
+                "170004": 1,
+                "200": 10,
+                "170006": 1,
+                "170003": 1,
+                "170005": 1
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "unlockItemNum": {},
+            "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 301,
+            "name": "回旋曲",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage1",
+            "dropShow": [
+                170003,
+                170004,
+                170005,
+                170006,
+                170007
+            ],
+            "sugLevel": 25,
+            "enemyLevel": 25,
+            "frontStageId": 203,
+            "questId": [
+                11007
+            ],
+            "firstRewardItem": {
+                "22045": 1,
+                "170001": 300
+            },
+            "maxRound": 99,
+            "promptRound": 90,
+            "token": 170002,
+            "maxOrderNumber": 5,
+            "initialPoint": 60,
+            "doll": 4,
+            "mapId": 1007,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
+            "loseId": [
+                21010
+            ],
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13006
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "170005": 1,
+                "170007": 1,
+                "170004": 1,
+                "170001": 220,
+                "170006": 1,
+                "170003": 1,
+                "200": 10,
+                "25": 20
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "unlockItemNum": {},
+            "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        }
+    ]
+}
