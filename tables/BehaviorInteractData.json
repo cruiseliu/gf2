@@ -1,19 +1,6 @@
 {
     "data": [
         {
-            "id": 211,
-            "action": 100035,
-            "objectInteract": "s_Lng_simple_Chair_skin",
-            "animationInteract": 200020,
-            "dialogId": [
-                200007
-            ],
-            "tag": "",
-            "npcstatement": [],
-            "dialog": "",
-            "memo": 0
-        },
-        {
             "id": 201,
             "action": 1,
             "dialog": "指挥官，你来了",
@@ -87,6 +74,19 @@
             "npcstatement": [],
             "objectInteract": "",
             "animationInteract": 0,
+            "dialog": "",
+            "memo": 0
+        },
+        {
+            "id": 211,
+            "action": 100035,
+            "objectInteract": "s_Lng_simple_Chair_skin",
+            "animationInteract": 200020,
+            "dialogId": [
+                200007
+            ],
+            "tag": "",
+            "npcstatement": [],
             "dialog": "",
             "memo": 0
         }

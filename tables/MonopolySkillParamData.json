@@ -1,0 +1,410 @@
+{
+    "data": [
+        {
+            "id": 10011,
+            "addEffect": [
+                10031
+            ],
+            "hpChange": 0,
+            "shieldChange": 0,
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0,
+            "sfxType": 0,
+            "sfxRes": ""
+        },
+        {
+            "id": 10021,
+            "addEffect": [
+                10032
+            ],
+            "hpChange": 0,
+            "shieldChange": 0,
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0,
+            "sfxType": 0,
+            "sfxRes": ""
+        },
+        {
+            "id": 10111,
+            "hpChange": 10,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_cure",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10121,
+            "hpChange": 30,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_cure",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10131,
+            "hpChange": 50,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_cure",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10211,
+            "addEffect": [
+                10070
+            ],
+            "hpChange": 0,
+            "shieldChange": 0,
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0,
+            "sfxType": 0,
+            "sfxRes": ""
+        },
+        {
+            "id": 10221,
+            "addEffect": [
+                10071
+            ],
+            "hpChange": 0,
+            "shieldChange": 0,
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0,
+            "sfxType": 0,
+            "sfxRes": ""
+        },
+        {
+            "id": 10231,
+            "addEffect": [
+                10072
+            ],
+            "hpChange": 0,
+            "shieldChange": 0,
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0,
+            "sfxType": 0,
+            "sfxRes": ""
+        },
+        {
+            "id": 10311,
+            "shieldChange": 2,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_defend",
+            "hpChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10321,
+            "shieldChange": 5,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_defend",
+            "hpChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10411,
+            "delEffectType": [
+                2
+            ],
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_purify",
+            "hpChange": 0,
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10511,
+            "hpChange": -20,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_burn",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10512,
+            "hpChange": -1,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_burn",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10521,
+            "hpChange": -50,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_burn",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10522,
+            "hpChange": -1,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_burn",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10531,
+            "hpChange": -100,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_burn",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10532,
+            "hpChange": -1,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_burn",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10611,
+            "shieldChange": 3,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_defend",
+            "hpChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10621,
+            "shieldChange": 5,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_defend",
+            "hpChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10631,
+            "shieldChange": 10,
+            "sfxType": 1,
+            "sfxRes": "Monopoly_effect_defend",
+            "hpChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 10731,
+            "stealOrder": 1,
+            "hpChange": 0,
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "sfxType": 0,
+            "sfxRes": ""
+        },
+        {
+            "id": 20011,
+            "hpChange": -1,
+            "sfxType": 1,
+            "sfxRes": "Monopolyorder_attack_03",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 20021,
+            "hpChange": -2,
+            "sfxType": 1,
+            "sfxRes": "Monopolyorder_attack_03",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 20031,
+            "hpChange": -3,
+            "sfxType": 1,
+            "sfxRes": "Monopolyorder_attack_03",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 20041,
+            "hpChange": -5,
+            "sfxType": 1,
+            "sfxRes": "Monopolyorder_attack_03",
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 30011,
+            "addEffect": [
+                10010
+            ],
+            "hpChange": 0,
+            "shieldChange": 0,
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0,
+            "sfxType": 0,
+            "sfxRes": ""
+        },
+        {
+            "id": 99011,
+            "hpChange": -15,
+            "addEffect": [
+                10010
+            ],
+            "sfxType": 1,
+            "sfxRes": "Monopolyorder_attack_03",
+            "shieldChange": 0,
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 99021,
+            "battle": 1,
+            "sfxType": 1,
+            "sfxRes": "Monopolyorder_attack_03",
+            "hpChange": 0,
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "stealOrder": 0
+        },
+        {
+            "id": 99031,
+            "shieldChange": 5,
+            "sfxRes": "Monopoly_effect_defend",
+            "hpChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "revive": 0,
+            "battle": 0,
+            "stealOrder": 0,
+            "sfxType": 0
+        },
+        {
+            "id": 99041,
+            "revive": 10,
+            "sfxRes": "Monopoly_effect_cure",
+            "hpChange": 0,
+            "shieldChange": 0,
+            "addEffect": [],
+            "delEffect": [],
+            "delEffectType": [],
+            "battle": 0,
+            "stealOrder": 0,
+            "sfxType": 0
+        }
+    ]
+}

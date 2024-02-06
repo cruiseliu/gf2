@@ -253,7 +253,7 @@
         },
         {
             "id": 26,
-            "interfaceName": "UISimCombatEquipPanel",
+            "interfaceName": "UISimCombatGunExpPanel",
             "audioName": [
                 30027
             ],
@@ -879,6 +879,126 @@
             "selector": "MainMenu",
             "track": "Lobby",
             "interfaceName": "",
+            "priority": 0
+        },
+        {
+            "id": 89,
+            "audioName": [
+                30085
+            ],
+            "selector": "Event_Selector",
+            "track": "Selector_1",
+            "interfaceName": "",
+            "priority": 0
+        },
+        {
+            "id": 90,
+            "audioName": [
+                30086
+            ],
+            "selector": "Event_Selector",
+            "track": "Selector_2",
+            "interfaceName": "",
+            "priority": 0
+        },
+        {
+            "id": 91,
+            "interfaceName": "UIActivityCafeChallengePanel",
+            "audioName": [
+                30087
+            ],
+            "selector": "Event_Selector",
+            "track": "Selector_3",
+            "priority": 0
+        },
+        {
+            "id": 92,
+            "interfaceName": "UIActivityCafeChapterPanel",
+            "audioName": [
+                30087
+            ],
+            "selector": "Event_Selector",
+            "track": "Selector_3",
+            "priority": 0
+        },
+        {
+            "id": 93,
+            "interfaceName": "UIDarkzoneModeCarrierPanel",
+            "audioName": [
+                30068
+            ],
+            "priority": 0,
+            "selector": "",
+            "track": ""
+        },
+        {
+            "id": 94,
+            "interfaceName": "UIRecentActivityPanel",
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
+            "priority": 0
+        },
+        {
+            "id": 95,
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
+            "interfaceName": "",
+            "priority": 0
+        },
+        {
+            "id": 96,
+            "interfaceName": "UISimCombatWeaponModPanel",
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
+            "priority": 0
+        },
+        {
+            "id": 97,
+            "interfaceName": "UISimCombatWeaponExpPanel",
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
+            "priority": 0
+        },
+        {
+            "id": 98,
+            "interfaceName": "UISimCombatDailyPanel",
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
+            "priority": 0
+        },
+        {
+            "id": 99,
+            "interfaceName": "UIBattleIndexPanelV2",
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
+            "priority": 0
+        },
+        {
+            "id": 100,
+            "interfaceName": "UIHardChapterDetailPanel",
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
             "priority": 0
         }
     ]

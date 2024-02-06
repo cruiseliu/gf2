@@ -1,499 +1,95 @@
 {
     "data": [
         {
-            "id": 1032,
-            "name": "DaiyanSSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/DaiyanSSR01/DaiyanSSR01_Ultraskill"
-            ],
-            "tacticReplace": 1032,
+            "id": 1,
+            "name": "Freedom",
+            "type": 1,
+            "prefab": [],
+            "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
         },
         {
-            "id": 10070,
-            "name": "GrozaSSR01_Ultraskill_Tac",
-            "type": 21,
+            "id": 2,
+            "name": "God",
+            "type": 20,
             "prefab": [
-                "SkillTimeline/GrozaSSR01_Ultraskill_Tac"
+                "God"
             ],
             "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
         },
         {
-            "id": 10120101,
-            "name": "OnAttack1012",
-            "type": 20,
-            "prefab": [
-                "OnAttack1012"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10160101,
-            "name": "OnAttack1016",
-            "type": 20,
-            "prefab": [
-                "OnAttack1016"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10250101,
-            "name": "OnAttack1025",
-            "type": 20,
-            "prefab": [
-                "OnAttack1025"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 102104011,
-            "name": "OnPerityaUltraskill",
-            "type": 20,
-            "prefab": [
-                "OnPerityaUltraskill"
-            ],
-            "tacticReplace": 102104011,
+            "id": 3,
+            "name": "Aim",
+            "type": 1,
+            "prefab": [],
+            "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
         },
         {
-            "id": 10230,
-            "name": "DusevnyjSSR01_Ultraskill",
-            "type": 21,
+            "id": 4,
+            "name": "Combo",
+            "type": 1,
             "prefab": [
-                "SkillTimeline/DusevnyjSSR01_Ultraskill_Tac"
+                "OnComboFeature"
             ],
             "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
         },
         {
-            "id": 10000103,
-            "name": "OnBuffSelf",
-            "type": 20,
+            "id": 5,
+            "name": "OnSlay",
+            "type": 1,
             "prefab": [
-                "OnBuffSelf"
+                "OnSlay"
             ],
             "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
         },
         {
-            "id": 10000104,
-            "name": "OnDebuff",
-            "type": 20,
+            "id": 6,
+            "name": "OnReload",
+            "type": 1,
             "prefab": [
-                "OnDebuff"
+                "OnReload"
             ],
             "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
         },
         {
-            "id": 10000105,
-            "name": "OnForceShield",
-            "type": 20,
+            "id": 7,
+            "name": "DieCloseUp",
+            "type": 1,
             "prefab": [
-                "OnForceShield"
+                "OnDead"
             ],
             "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
         },
         {
-            "id": 10000106,
-            "name": "OnSpecialFirePre",
-            "type": 20,
-            "prefab": [
-                "OnSpecialFirePre"
-            ],
+            "id": 8,
+            "name": "Climb",
+            "type": 1,
+            "prefab": [],
             "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
         },
         {
-            "id": 10000107,
-            "name": "OnSpecialFire",
-            "type": 20,
-            "prefab": [
-                "OnSpecialFire"
-            ],
+            "id": 9,
+            "name": "EnemyMove",
+            "type": 1,
+            "prefab": [],
             "tacticReplace": 0,
             "batchTypeId": 0,
             "isTpsShootCamera": 0
-        },
-        {
-            "id": 10000108,
-            "name": "HK416Skill",
-            "type": 21,
-            "prefab": [
-                "HK416Skill"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10000109,
-            "name": "SpringfieldSkill",
-            "type": 21,
-            "prefab": [
-                "SpringfieldSkill"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10170101,
-            "name": "OnAttack1017",
-            "type": 20,
-            "prefab": [
-                "OnAttack1017"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10190101,
-            "name": "OnAttack1019",
-            "type": 20,
-            "prefab": [
-                "OnAttack1019"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 100,
-            "name": "OnEnemyAttackSelf",
-            "type": 20,
-            "prefab": [
-                "OnEnemyAttackThrow"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1012,
-            "name": "ColphneSSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/ColphneSSR01_Ultraskill"
-            ],
-            "tacticReplace": 1012,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1013,
-            "name": "LennaSSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/LennaSSR01_Ultraskill"
-            ],
-            "tacticReplace": 1013,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1014,
-            "name": "PerityaSSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/PerityaSSR01_Ultraskill"
-            ],
-            "tacticReplace": 1014,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1015,
-            "name": "VepleySSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/VepleySSR01/VepleySSR01_UltraSkill"
-            ],
-            "tacticReplace": 1015,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1017,
-            "name": "GrozaSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/GrozaSR01/GrozaSR01_slg_UltraSkill"
-            ],
-            "tacticReplace": 1017,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10010101,
-            "name": "OnAttack1001",
-            "type": 20,
-            "prefab": [
-                "OnAttack1001"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10270101,
-            "name": "OnAttack1027",
-            "type": 20,
-            "prefab": [
-                "OnAttack1027"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 20,
-            "name": "OnMelee",
-            "type": 20,
-            "prefab": [
-                "OnMelee"
-            ],
-            "tacticReplace": 11,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 21,
-            "name": "OnCannonDroneAttack",
-            "type": 20,
-            "prefab": [
-                "OnCannonDroneAttack"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 22,
-            "name": "OnMGDroneAttack",
-            "type": 20,
-            "prefab": [
-                "OnMGDroneAttack"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 23,
-            "name": "OnVepleySkill",
-            "type": 20,
-            "prefab": [
-                "OnVepleySkill"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 24,
-            "name": "OnCharolicSkill",
-            "type": 20,
-            "prefab": [
-                "OnCharolicSkill"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 25,
-            "name": "OnSkillAllTarget",
-            "type": 20,
-            "prefab": [
-                "OnSkillAllTarget"
-            ],
-            "tacticReplace": 25,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 26,
-            "name": "MoveWSkill",
-            "type": 20,
-            "prefab": [
-                "MoveWSkill"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 27,
-            "name": "OnSkillTarget",
-            "type": 20,
-            "prefab": [
-                "OnSkillTarget"
-            ],
-            "tacticReplace": 27,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 28,
-            "name": "TrackCamera",
-            "type": 20,
-            "prefab": [
-                "TrackCamera"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 29,
-            "name": "EffectFollowCamera",
-            "type": 20,
-            "prefab": [
-                "EffectFollowCamera"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 98,
-            "name": "OnAttackReverse",
-            "type": 20,
-            "prefab": [
-                "OnAttackReverse"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 99,
-            "name": "PreToFire",
-            "type": 20,
-            "prefab": [
-                "PreToFire"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10080101,
-            "name": "OnAttack1008",
-            "type": 20,
-            "prefab": [
-                "OnAttack1008"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10090101,
-            "name": "OnAttack1009",
-            "type": 20,
-            "prefab": [
-                "OnAttack1009"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10140101,
-            "name": "OnAttack1014",
-            "type": 20,
-            "prefab": [
-                "OnAttack1014"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10240101,
-            "name": "OnAttack1024",
-            "type": 20,
-            "prefab": [
-                "OnAttack1024"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10050,
-            "name": "CharolicSSR01_UltraskillPre",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/CharolicSSR01_UltraskillPre"
-            ],
-            "tacticReplace": 10050,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10051,
-            "name": "CharolicSSR01_Ultraskill2",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/CharolicSSR01_Ultraskill02"
-            ],
-            "tacticReplace": 10051,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10070101,
-            "name": "OnAttack1007",
-            "type": 20,
-            "prefab": [
-                "OnAttack1007"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10210101,
-            "name": "OnAttack1021",
-            "type": 20,
-            "prefab": [
-                "OnAttack1021"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 10230101,
-            "name": "OnAttack1023",
-            "type": 20,
-            "prefab": [
-                "OnAttack1023"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
         },
         {
             "id": 10,
@@ -608,125 +204,114 @@
             "isTpsShootCamera": 0
         },
         {
-            "id": 1005,
-            "name": "CharolicSSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/CharolicSSR01_Ultraskill"
-            ],
-            "tacticReplace": 1005,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1006,
-            "name": "NemesisSSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/NemesisSSR01_Ultraskill"
-            ],
-            "tacticReplace": 1006,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1007,
-            "name": "GrozaSSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/GrozaSSR01_Ultraskill"
-            ],
-            "tacticReplace": 1007,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1008,
-            "name": "NemesisSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/NemesisSR01/NemesisSR01_UltraSkill"
-            ],
-            "tacticReplace": 1008,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 1009,
-            "name": "ColphneSR01_Ultraskill",
-            "type": 21,
-            "prefab": [
-                "SkillTimeline/ColphneSR01/ColphneSR01_UltraSkill"
-            ],
-            "tacticReplace": 1009,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 6269905,
-            "name": "OnNemerteaSkill",
+            "id": 20,
+            "name": "OnMelee",
             "type": 20,
             "prefab": [
-                "OnNemerteaSkill"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 6872501,
-            "name": "OnTitan_AssailSkill",
-            "type": 20,
-            "prefab": [
-                "OnTitan_AssailSkill"
-            ],
-            "batchTypeId": 1,
-            "tacticReplace": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10000110,
-            "name": "SkillResult",
-            "type": 20,
-            "prefab": [
-                "SkillResult"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10000111,
-            "name": "Ots14Skill",
-            "type": 21,
-            "prefab": [
-                "Ots14Skill"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10000114,
-            "name": "SkillEnemyResult",
-            "type": 20,
-            "prefab": [
-                "SkillEnemyResult"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 10320101,
-            "name": "OnAttack1032",
-            "type": 20,
-            "prefab": [
-                "OnAttack1032"
+                "OnMelee"
             ],
             "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 21,
+            "name": "OnCannonDroneAttack",
+            "type": 20,
+            "prefab": [
+                "OnCannonDroneAttack"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 22,
+            "name": "OnMGDroneAttack",
+            "type": 20,
+            "prefab": [
+                "OnMGDroneAttack"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 23,
+            "name": "OnVepleySkill",
+            "type": 20,
+            "prefab": [
+                "OnVepleySkill"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 24,
+            "name": "OnCharolicSkill",
+            "type": 20,
+            "prefab": [
+                "OnCharolicSkill"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 25,
+            "name": "OnSkillAllTarget",
+            "type": 20,
+            "prefab": [
+                "OnSkillAllTarget"
+            ],
+            "tacticReplace": 25,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 26,
+            "name": "MoveWSkill",
+            "type": 20,
+            "prefab": [
+                "MoveWSkill"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 27,
+            "name": "OnSkillTarget",
+            "type": 20,
+            "prefab": [
+                "OnSkillTarget"
+            ],
+            "tacticReplace": 27,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 28,
+            "name": "TrackCamera",
+            "type": 20,
+            "prefab": [
+                "TrackCamera"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 29,
+            "name": "EffectFollowCamera",
+            "type": 20,
+            "prefab": [
+                "EffectFollowCamera"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
         },
         {
             "id": 30,
@@ -839,6 +424,215 @@
             "isTpsShootCamera": 0
         },
         {
+            "id": 40,
+            "name": "OnEnemyAttackAffectTarget",
+            "type": 20,
+            "prefab": [
+                "OnEnemyAttackAffectTarget"
+            ],
+            "tacticReplace": 40,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 41,
+            "name": "OnAttackHigher",
+            "type": 20,
+            "prefab": [
+                "OnAttackHigher"
+            ],
+            "tacticReplace": 41,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 42,
+            "name": "OnEnemyAttackSelfHigher",
+            "type": 20,
+            "prefab": [
+                "OnEnemyAttackSelfHigher"
+            ],
+            "tacticReplace": 42,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 43,
+            "name": "OnEnemyAttackSelfHigh",
+            "type": 20,
+            "prefab": [
+                "OnEnemyAttackSelfHigh"
+            ],
+            "tacticReplace": 43,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 44,
+            "name": "OnEnemyMultiAttackParent",
+            "type": 20,
+            "prefab": [
+                "OnEnemyMultiAttackParent"
+            ],
+            "tacticReplace": 44,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 45,
+            "name": "OnSkillAllTargetHigh",
+            "type": 20,
+            "prefab": [
+                "OnSkillAllTargetHigh"
+            ],
+            "tacticReplace": 45,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 98,
+            "name": "OnAttackReverse",
+            "type": 20,
+            "prefab": [
+                "OnAttackReverse"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 99,
+            "name": "PreToFire",
+            "type": 20,
+            "prefab": [
+                "PreToFire"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 100,
+            "name": "OnEnemyAttackSelf",
+            "type": 20,
+            "prefab": [
+                "OnEnemyAttackThrow"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1005,
+            "name": "CharolicSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/CharolicSSR01_Ultraskill"
+            ],
+            "tacticReplace": 1005,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1006,
+            "name": "NemesisSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/NemesisSSR01_Ultraskill"
+            ],
+            "tacticReplace": 1006,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1007,
+            "name": "GrozaSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/GrozaSSR01_Ultraskill"
+            ],
+            "tacticReplace": 1007,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1008,
+            "name": "NemesisSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/NemesisSR01/NemesisSR01_UltraSkill"
+            ],
+            "tacticReplace": 1008,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1009,
+            "name": "ColphneSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/ColphneSR01/ColphneSR01_UltraSkill"
+            ],
+            "tacticReplace": 1009,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1012,
+            "name": "ColphneSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/ColphneSSR01_Ultraskill"
+            ],
+            "tacticReplace": 1012,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1013,
+            "name": "LennaSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/LennaSSR/LennaSSR01_Ultraskill"
+            ],
+            "tacticReplace": 1013,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1014,
+            "name": "PerityaSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/PerityaSSR01_Ultraskill"
+            ],
+            "tacticReplace": 1014,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1015,
+            "name": "VepleySSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/VepleySSR01/VepleySSR01_UltraSkill"
+            ],
+            "tacticReplace": 1015,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1017,
+            "name": "GrozaSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/GrozaSR01/GrozaSR01_slg_UltraSkill"
+            ],
+            "tacticReplace": 1017,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
             "id": 1021,
             "name": "PerityaSSR01_Ultraskill",
             "type": 21,
@@ -938,6 +732,105 @@
             "isTpsShootCamera": 0
         },
         {
+            "id": 1032,
+            "name": "DaiyanSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/DaiyanSSR01/DaiyanSSR01_Ultraskill"
+            ],
+            "tacticReplace": 1032,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1033,
+            "name": "MosinnagantSR01_UltraSkill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/MosinnagantSR01/MosinnagantSR01_UltraSkill"
+            ],
+            "tacticReplace": 1033,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1036,
+            "name": "KseniaSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/KseniaSR01/KseniaSR01_Ultraskill"
+            ],
+            "tacticReplace": 1036,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 1038,
+            "name": "MosinnagantSR01_UltraSkill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/MosinnagantSR01/MosinnagantSR01_UltraSkill"
+            ],
+            "tacticReplace": 1038,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10050,
+            "name": "CharolicSSR01_UltraskillPre",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/CharolicSSR01_UltraskillPre"
+            ],
+            "tacticReplace": 10050,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10051,
+            "name": "CharolicSSR01_Ultraskill2",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/CharolicSSR01_Ultraskill02"
+            ],
+            "tacticReplace": 10051,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10070,
+            "name": "GrozaSSR01_Ultraskill_Tac",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/GrozaSSR01_Ultraskill_Tac"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10230,
+            "name": "DusevnyjSSR01_Ultraskill",
+            "type": 21,
+            "prefab": [
+                "SkillTimeline/DusevnyjSSR01_Ultraskill_Tac"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 6269905,
+            "name": "OnNemerteaSkill",
+            "type": 20,
+            "prefab": [
+                "OnNemerteaSkill"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
             "id": 6340211,
             "name": "OnTX_AegisArtillerySWAPSkill",
             "type": 20,
@@ -949,172 +842,136 @@
             "isTpsShootCamera": 0
         },
         {
-            "id": 10110101,
-            "name": "OnAttack1011",
+            "id": 6872501,
+            "name": "OnTitan_AssailSkill",
             "type": 20,
             "prefab": [
-                "OnAttack1011"
+                "OnTitan_AssailSkill"
+            ],
+            "batchTypeId": 1,
+            "tacticReplace": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000103,
+            "name": "OnBuffSelf",
+            "type": 20,
+            "prefab": [
+                "OnBuffSelf"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000104,
+            "name": "OnDebuff",
+            "type": 20,
+            "prefab": [
+                "OnDebuff"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000105,
+            "name": "OnForceShield",
+            "type": 20,
+            "prefab": [
+                "OnForceShield"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000106,
+            "name": "OnSpecialFirePre",
+            "type": 20,
+            "prefab": [
+                "OnSpecialFirePre"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000107,
+            "name": "OnSpecialFire",
+            "type": 20,
+            "prefab": [
+                "OnSpecialFire"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000108,
+            "name": "HK416Skill",
+            "type": 21,
+            "prefab": [
+                "HK416Skill"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000109,
+            "name": "SpringfieldSkill",
+            "type": 21,
+            "prefab": [
+                "SpringfieldSkill"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000110,
+            "name": "SkillResult",
+            "type": 20,
+            "prefab": [
+                "SkillResult"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000111,
+            "name": "Ots14Skill",
+            "type": 21,
+            "prefab": [
+                "Ots14Skill"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10000114,
+            "name": "SkillEnemyResult",
+            "type": 20,
+            "prefab": [
+                "SkillEnemyResult"
+            ],
+            "tacticReplace": 0,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
+        },
+        {
+            "id": 10010101,
+            "name": "OnAttack1001",
+            "type": 20,
+            "prefab": [
+                "OnAttack1001"
             ],
             "tacticReplace": 11,
             "isTpsShootCamera": 11,
             "batchTypeId": 0
-        },
-        {
-            "id": 10150101,
-            "name": "OnAttack1015",
-            "type": 20,
-            "prefab": [
-                "OnAttack1015"
-            ],
-            "tacticReplace": 11,
-            "isTpsShootCamera": 11,
-            "batchTypeId": 0
-        },
-        {
-            "id": 1,
-            "name": "Freedom",
-            "type": 1,
-            "prefab": [],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 2,
-            "name": "God",
-            "type": 20,
-            "prefab": [
-                "God"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 3,
-            "name": "Aim",
-            "type": 1,
-            "prefab": [],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 4,
-            "name": "Combo",
-            "type": 1,
-            "prefab": [
-                "OnComboFeature"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 5,
-            "name": "OnSlay",
-            "type": 1,
-            "prefab": [
-                "OnSlay"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 6,
-            "name": "OnReload",
-            "type": 1,
-            "prefab": [
-                "OnReload"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 7,
-            "name": "DieCloseUp",
-            "type": 1,
-            "prefab": [
-                "OnDead"
-            ],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 8,
-            "name": "Climb",
-            "type": 1,
-            "prefab": [],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 9,
-            "name": "EnemyMove",
-            "type": 1,
-            "prefab": [],
-            "tacticReplace": 0,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 40,
-            "name": "OnEnemyAttackAffectTarget",
-            "type": 20,
-            "prefab": [
-                "OnEnemyAttackAffectTarget"
-            ],
-            "tacticReplace": 40,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 41,
-            "name": "OnAttackHigher",
-            "type": 20,
-            "prefab": [
-                "OnAttackHigher"
-            ],
-            "tacticReplace": 41,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 42,
-            "name": "OnEnemyAttackSelfHigher",
-            "type": 20,
-            "prefab": [
-                "OnEnemyAttackSelfHigher"
-            ],
-            "tacticReplace": 42,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 43,
-            "name": "OnEnemyAttackSelfHigh",
-            "type": 20,
-            "prefab": [
-                "OnEnemyAttackSelfHigh"
-            ],
-            "tacticReplace": 43,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
-        },
-        {
-            "id": 44,
-            "name": "OnSkillAllTargetHigh",
-            "type": 20,
-            "prefab": [
-                "OnSkillAllTargetHigh"
-            ],
-            "tacticReplace": 44,
-            "batchTypeId": 0,
-            "isTpsShootCamera": 0
         },
         {
             "id": 10030101,
@@ -1161,6 +1018,61 @@
             "batchTypeId": 0
         },
         {
+            "id": 10070101,
+            "name": "OnAttack1007",
+            "type": 20,
+            "prefab": [
+                "OnAttack1007"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10080101,
+            "name": "OnAttack1008",
+            "type": 20,
+            "prefab": [
+                "OnAttack1008"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10090101,
+            "name": "OnAttack1009",
+            "type": 20,
+            "prefab": [
+                "OnAttack1009"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10110101,
+            "name": "OnAttack1011",
+            "type": 20,
+            "prefab": [
+                "OnAttack1011"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10120101,
+            "name": "OnAttack1012",
+            "type": 20,
+            "prefab": [
+                "OnAttack1012"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
             "id": 10130101,
             "name": "OnAttack1013",
             "type": 20,
@@ -1170,6 +1082,138 @@
             "tacticReplace": 11,
             "isTpsShootCamera": 11,
             "batchTypeId": 0
+        },
+        {
+            "id": 10140101,
+            "name": "OnAttack1014",
+            "type": 20,
+            "prefab": [
+                "OnAttack1014"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10150101,
+            "name": "OnAttack1015",
+            "type": 20,
+            "prefab": [
+                "OnAttack1015"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10160101,
+            "name": "OnAttack1016",
+            "type": 20,
+            "prefab": [
+                "OnAttack1016"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10170101,
+            "name": "OnAttack1017",
+            "type": 20,
+            "prefab": [
+                "OnAttack1017"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10190101,
+            "name": "OnAttack1019",
+            "type": 20,
+            "prefab": [
+                "OnAttack1019"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10210101,
+            "name": "OnAttack1021",
+            "type": 20,
+            "prefab": [
+                "OnAttack1021"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10230101,
+            "name": "OnAttack1023",
+            "type": 20,
+            "prefab": [
+                "OnAttack1023"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10240101,
+            "name": "OnAttack1024",
+            "type": 20,
+            "prefab": [
+                "OnAttack1024"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10250101,
+            "name": "OnAttack1025",
+            "type": 20,
+            "prefab": [
+                "OnAttack1025"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10270101,
+            "name": "OnAttack1027",
+            "type": 20,
+            "prefab": [
+                "OnAttack1027"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 10320101,
+            "name": "OnAttack1032",
+            "type": 20,
+            "prefab": [
+                "OnAttack1032"
+            ],
+            "tacticReplace": 11,
+            "isTpsShootCamera": 11,
+            "batchTypeId": 0
+        },
+        {
+            "id": 102104011,
+            "name": "OnPerityaUltraskill",
+            "type": 20,
+            "prefab": [
+                "OnPerityaUltraskill"
+            ],
+            "tacticReplace": 102104011,
+            "batchTypeId": 0,
+            "isTpsShootCamera": 0
         }
     ]
 }

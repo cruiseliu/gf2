@@ -1,0 +1,1116 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "avatarId": 1001,
+            "actType": 1,
+            "face": "happy",
+            "actOrder": 999,
+            "actPath": "idle",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1002,
+            "avatarId": 1001,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1003,
+            "avatarId": 1001,
+            "actType": 3,
+            "actOrder": 997,
+            "actPath": "hello",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1004,
+            "avatarId": 1001,
+            "actType": 4,
+            "actOrder": 998,
+            "actPath": "hello",
+            "conditionId": [
+                100101
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 1005,
+            "avatarId": 1002,
+            "actType": 1,
+            "face": "happy",
+            "actOrder": 999,
+            "actPath": "idle",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1006,
+            "avatarId": 1002,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1007,
+            "avatarId": 1002,
+            "actType": 3,
+            "actOrder": 997,
+            "actPath": "hello",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1008,
+            "avatarId": 1002,
+            "actType": 4,
+            "actOrder": 998,
+            "actPath": "clear",
+            "conditionId": [
+                100102
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 1009,
+            "avatarId": 1002,
+            "actType": 4,
+            "actOrder": 998,
+            "actPath": "making coffee",
+            "conditionId": [
+                100103
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 1010,
+            "avatarId": 1003,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1011,
+            "avatarId": 1003,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1012,
+            "avatarId": 1003,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 1013,
+            "avatarId": 1003,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                100104,
+                100105,
+                100106,
+                100107
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 1014,
+            "avatarId": 1004,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1015,
+            "avatarId": 1004,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1016,
+            "avatarId": 1004,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 1017,
+            "avatarId": 1004,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                100104,
+                100105,
+                100106,
+                100107
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 1018,
+            "avatarId": 1005,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1019,
+            "avatarId": 1005,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 1020,
+            "avatarId": 1005,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 1021,
+            "avatarId": 1005,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                100104,
+                100105,
+                100106,
+                100107
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2001,
+            "avatarId": 2001,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2002,
+            "avatarId": 2001,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2003,
+            "avatarId": 2001,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2004,
+            "avatarId": 2001,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200101
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2005,
+            "avatarId": 2002,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2006,
+            "avatarId": 2002,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2007,
+            "avatarId": 2002,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2008,
+            "avatarId": 2002,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200101
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2009,
+            "avatarId": 2003,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2010,
+            "avatarId": 2003,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2011,
+            "avatarId": 2003,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2012,
+            "avatarId": 2003,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200101
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2013,
+            "avatarId": 2004,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2014,
+            "avatarId": 2004,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2015,
+            "avatarId": 2004,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2016,
+            "avatarId": 2004,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200101
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2017,
+            "avatarId": 2005,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2018,
+            "avatarId": 2005,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2019,
+            "avatarId": 2005,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2020,
+            "avatarId": 2005,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200102
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2021,
+            "avatarId": 2006,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2022,
+            "avatarId": 2006,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2023,
+            "avatarId": 2006,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2024,
+            "avatarId": 2006,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200102
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2025,
+            "avatarId": 2007,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2026,
+            "avatarId": 2007,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2027,
+            "avatarId": 2007,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2028,
+            "avatarId": 2007,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200102
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2029,
+            "avatarId": 2008,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2030,
+            "avatarId": 2008,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2031,
+            "avatarId": 2008,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2032,
+            "avatarId": 2008,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200102
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2033,
+            "avatarId": 2009,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2034,
+            "avatarId": 2009,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2035,
+            "avatarId": 2009,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2036,
+            "avatarId": 2009,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200103
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2037,
+            "avatarId": 2010,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2038,
+            "avatarId": 2010,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2039,
+            "avatarId": 2010,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2040,
+            "avatarId": 2010,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200103
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2041,
+            "avatarId": 2011,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2042,
+            "avatarId": 2011,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2043,
+            "avatarId": 2011,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2044,
+            "avatarId": 2011,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200103
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 2045,
+            "avatarId": 2012,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2046,
+            "avatarId": 2012,
+            "actType": 2,
+            "actOrder": 998,
+            "actPath": "walk",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 2047,
+            "avatarId": 2012,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                200104,
+                200105,
+                200106,
+                200107,
+                200108,
+                200109
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 2048,
+            "avatarId": 2012,
+            "actType": 4,
+            "actOrder": 1,
+            "actPath": "drink",
+            "conditionId": [
+                200103
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 3001,
+            "avatarId": 3001,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3002,
+            "avatarId": 3001,
+            "actType": 2,
+            "face": "happy",
+            "actOrder": 998,
+            "actPath": "walk",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3003,
+            "avatarId": 3001,
+            "actType": 3,
+            "actOrder": 997,
+            "actPath": "hello",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3004,
+            "avatarId": 3001,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                300101,
+                300102
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 3005,
+            "avatarId": 3001,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "drink",
+            "conditionId": [
+                100104,
+                100107
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 3006,
+            "avatarId": 3001,
+            "actType": 4,
+            "actOrder": 998,
+            "actPath": "cheer",
+            "conditionId": [
+                300103
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 3007,
+            "avatarId": 3002,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3008,
+            "avatarId": 3002,
+            "actType": 2,
+            "face": "happy",
+            "actOrder": 998,
+            "actPath": "walk",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3009,
+            "avatarId": 3002,
+            "actType": 3,
+            "actOrder": 997,
+            "actPath": "cheer",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3010,
+            "avatarId": 3002,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                300101,
+                300102
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 3011,
+            "avatarId": 3002,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "drink",
+            "conditionId": [
+                100104,
+                100107
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 3012,
+            "avatarId": 3002,
+            "actType": 4,
+            "actOrder": 998,
+            "actPath": "hello",
+            "conditionId": [
+                300103
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 3013,
+            "avatarId": 3003,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3014,
+            "avatarId": 3003,
+            "actType": 2,
+            "face": "happy",
+            "actOrder": 998,
+            "actPath": "walk",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3015,
+            "avatarId": 3003,
+            "actType": 3,
+            "actOrder": 997,
+            "actPath": "cheer",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3016,
+            "avatarId": 3003,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                300101,
+                300102
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 3017,
+            "avatarId": 3003,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "drink",
+            "conditionId": [
+                100104,
+                100107
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 3018,
+            "avatarId": 3003,
+            "actType": 4,
+            "actOrder": 998,
+            "actPath": "hello",
+            "conditionId": [
+                300103
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 3019,
+            "avatarId": 3004,
+            "actType": 1,
+            "actOrder": 999,
+            "actPath": "idle",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3020,
+            "avatarId": 3004,
+            "actType": 2,
+            "face": "happy",
+            "actOrder": 998,
+            "actPath": "walk",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3021,
+            "avatarId": 3004,
+            "actType": 3,
+            "actOrder": 997,
+            "actPath": "cheer",
+            "face": "",
+            "conditionId": [],
+            "loop": false
+        },
+        {
+            "id": 3022,
+            "avatarId": 3004,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "sit",
+            "conditionId": [
+                300101,
+                300102
+            ],
+            "loop": true,
+            "face": ""
+        },
+        {
+            "id": 3023,
+            "avatarId": 3004,
+            "actType": 4,
+            "actOrder": 997,
+            "actPath": "drink",
+            "conditionId": [
+                100104,
+                100107
+            ],
+            "face": "",
+            "loop": false
+        },
+        {
+            "id": 3024,
+            "avatarId": 3004,
+            "actType": 4,
+            "actOrder": 998,
+            "actPath": "hello",
+            "conditionId": [
+                300103
+            ],
+            "face": "",
+            "loop": false
+        }
+    ]
+}

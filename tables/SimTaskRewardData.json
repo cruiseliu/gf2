@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "rewardGroup": 101,
+            "rank": 1,
+            "point": 30,
+            "rewardItem": {
+                "8": 1,
+                "25": 1000,
+                "8301": 1000
+            },
+            "rewardName": "不温不火"
+        },
+        {
+            "id": 2,
+            "rewardGroup": 101,
+            "rank": 2,
+            "point": 60,
+            "rewardItem": {
+                "2": 2000,
+                "8": 1,
+                "25": 2000
+            },
+            "rewardName": "小有名气"
+        },
+        {
+            "id": 3,
+            "rewardGroup": 101,
+            "rank": 3,
+            "point": 90,
+            "rewardItem": {
+                "1": 100,
+                "25": 2000,
+                "8301": 2000
+            },
+            "rewardName": "炙手可热"
+        },
+        {
+            "id": 4,
+            "rewardGroup": 101,
+            "rank": 4,
+            "point": 120,
+            "rewardItem": {
+                "2": 3000,
+                "8301": 2000,
+                "24023": 1
+            },
+            "rewardName": "明日之星"
+        }
+    ]
+}

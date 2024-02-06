@@ -11,21 +11,18 @@
                 170006,
                 170007
             ],
-            "sugLevel": 15,
-            "enemyLevel": 15,
-            "questId": [
-                11001
-            ],
+            "sugLevel": 20,
+            "enemyLevel": 20,
             "firstRewardItem": {
                 "170001": 300
             },
-            "maxRound": 99,
-            "promptRound": 90,
+            "maxRound": 12,
+            "promptRound": 9,
             "token": 170002,
             "maxOrderNumber": 5,
             "initialPoint": 60,
             "doll": 4,
-            "mapId": 1001,
+            "mapId": 1101,
             "cost": {
                 "101": 20
             },
@@ -40,9 +37,9 @@
                 "101": 10
             },
             "sweepReward": {
-                "25": 20,
+                "200": 10,
                 "170001": 100,
-                "200": 10
+                "25": 20
             },
             "maxRewardPoint": 4,
             "sweepTimes": 10,
@@ -51,8 +48,7 @@
             "unlockDayNum": 0,
             "rewardItem": {},
             "roundPoint": 0,
-            "rewardRule": 0,
-            "loseId": []
+            "rewardRule": 0
         },
         {
             "id": 102,
@@ -65,31 +61,25 @@
                 170006,
                 170007
             ],
-            "sugLevel": 16,
-            "enemyLevel": 16,
+            "sugLevel": 25,
+            "enemyLevel": 25,
             "frontStageId": 101,
-            "questId": [
-                11001
-            ],
             "firstRewardItem": {
                 "170001": 300
             },
-            "maxRound": 99,
-            "promptRound": 90,
+            "maxRound": 24,
+            "promptRound": 20,
             "token": 170002,
             "maxOrderNumber": 5,
             "initialPoint": 60,
             "doll": 4,
-            "mapId": 1002,
+            "mapId": 1102,
             "cost": {
                 "101": 20
             },
             "canSweep": true,
             "pptId": 3003,
             "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
-            "loseId": [
-                21008
-            ],
             "roundOccupyPoint": 5,
             "sweepUnlock": [
                 13001
@@ -98,14 +88,14 @@
                 "101": 10
             },
             "sweepReward": {
-                "170004": 1,
-                "170001": 120,
-                "200": 10,
-                "25": 20,
                 "170003": 1,
-                "170006": 1,
                 "170005": 1,
-                "170007": 1
+                "25": 20,
+                "170004": 1,
+                "170006": 1,
+                "170001": 120,
+                "170007": 1,
+                "200": 10
             },
             "maxRewardPoint": 8,
             "sweepTimes": 10,
@@ -126,32 +116,26 @@
                 170006,
                 170007
             ],
-            "sugLevel": 17,
-            "enemyLevel": 17,
+            "sugLevel": 28,
+            "enemyLevel": 28,
             "frontStageId": 102,
-            "questId": [
-                11001
-            ],
             "firstRewardItem": {
-                "170001": 300,
-                "22043": 1
+                "22043": 1,
+                "170001": 300
             },
-            "maxRound": 99,
-            "promptRound": 90,
+            "maxRound": 24,
+            "promptRound": 20,
             "token": 170002,
             "maxOrderNumber": 5,
             "initialPoint": 60,
             "doll": 4,
-            "mapId": 1003,
+            "mapId": 1103,
             "cost": {
                 "101": 20
             },
             "canSweep": true,
             "pptId": 3003,
             "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
-            "loseId": [
-                21009
-            ],
             "roundOccupyPoint": 5,
             "sweepUnlock": [
                 13002
@@ -160,14 +144,14 @@
                 "101": 10
             },
             "sweepReward": {
-                "170005": 1,
-                "200": 10,
-                "25": 20,
-                "170007": 1,
-                "170001": 140,
-                "170004": 1,
                 "170003": 1,
-                "170006": 1
+                "170005": 1,
+                "25": 20,
+                "170004": 1,
+                "170001": 140,
+                "170006": 1,
+                "170007": 1,
+                "200": 10
             },
             "maxRewardPoint": 8,
             "sweepTimes": 10,
@@ -188,32 +172,25 @@
                 170006,
                 170007
             ],
-            "sugLevel": 19,
-            "enemyLevel": 19,
-            "frontStageId": 103,
-            "questId": [
-                11007,
-                11008
-            ],
+            "sugLevel": 31,
+            "enemyLevel": 31,
+            "frontStageId": 102,
             "firstRewardItem": {
                 "170001": 300
             },
-            "maxRound": 99,
-            "promptRound": 90,
+            "maxRound": 24,
+            "promptRound": 20,
             "token": 170002,
             "maxOrderNumber": 5,
             "initialPoint": 60,
             "doll": 4,
-            "mapId": 1004,
+            "mapId": 1104,
             "cost": {
                 "101": 20
             },
             "canSweep": true,
             "pptId": 3003,
             "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
-            "loseId": [
-                21011
-            ],
             "roundOccupyPoint": 5,
             "sweepUnlock": [
                 13003
@@ -222,14 +199,14 @@
                 "101": 10
             },
             "sweepReward": {
-                "170006": 1,
                 "170003": 1,
                 "170005": 1,
                 "25": 20,
-                "170007": 1,
-                "200": 10,
                 "170004": 1,
-                "170001": 160
+                "170006": 1,
+                "170001": 160,
+                "170007": 1,
+                "200": 10
             },
             "maxRewardPoint": 8,
             "sweepTimes": 10,
@@ -250,32 +227,25 @@
                 170006,
                 170007
             ],
-            "sugLevel": 21,
-            "enemyLevel": 21,
+            "sugLevel": 34,
+            "enemyLevel": 34,
             "frontStageId": 201,
-            "questId": [
-                11007,
-                11009
-            ],
             "firstRewardItem": {
                 "170001": 300
             },
-            "maxRound": 99,
-            "promptRound": 90,
+            "maxRound": 18,
+            "promptRound": 15,
             "token": 170002,
             "maxOrderNumber": 5,
             "initialPoint": 60,
             "doll": 4,
-            "mapId": 1005,
+            "mapId": 1105,
             "cost": {
                 "101": 20
             },
             "canSweep": true,
             "pptId": 3003,
             "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
-            "loseId": [
-                21007
-            ],
             "roundOccupyPoint": 5,
             "sweepUnlock": [
                 13004
@@ -284,14 +254,14 @@
                 "101": 10
             },
             "sweepReward": {
-                "170007": 1,
-                "170004": 1,
-                "170006": 1,
-                "170001": 180,
-                "200": 10,
-                "25": 20,
                 "170003": 1,
-                "170005": 1
+                "170005": 1,
+                "25": 20,
+                "170004": 1,
+                "170001": 180,
+                "170006": 1,
+                "170007": 1,
+                "200": 10
             },
             "maxRewardPoint": 8,
             "sweepTimes": 10,
@@ -312,33 +282,26 @@
                 170006,
                 170007
             ],
-            "sugLevel": 23,
-            "enemyLevel": 23,
+            "sugLevel": 37,
+            "enemyLevel": 37,
             "frontStageId": 202,
-            "questId": [
-                11007,
-                11010
-            ],
             "firstRewardItem": {
                 "22044": 1,
                 "170001": 300
             },
-            "maxRound": 99,
-            "promptRound": 90,
+            "maxRound": 30,
+            "promptRound": 25,
             "token": 170002,
             "maxOrderNumber": 5,
             "initialPoint": 60,
             "doll": 4,
-            "mapId": 1006,
+            "mapId": 1106,
             "cost": {
                 "101": 20
             },
             "canSweep": true,
             "pptId": 3003,
             "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
-            "loseId": [
-                21012
-            ],
             "roundOccupyPoint": 5,
             "sweepUnlock": [
                 13005
@@ -347,14 +310,14 @@
                 "101": 10
             },
             "sweepReward": {
-                "170007": 1,
-                "170001": 200,
+                "170003": 1,
+                "170005": 1,
                 "25": 20,
                 "170004": 1,
-                "200": 10,
                 "170006": 1,
-                "170003": 1,
-                "170005": 1
+                "170001": 200,
+                "170007": 1,
+                "200": 10
             },
             "maxRewardPoint": 8,
             "sweepTimes": 10,
@@ -375,32 +338,26 @@
                 170006,
                 170007
             ],
-            "sugLevel": 25,
-            "enemyLevel": 25,
-            "frontStageId": 203,
-            "questId": [
-                11007
-            ],
+            "sugLevel": 40,
+            "enemyLevel": 40,
+            "frontStageId": 201,
             "firstRewardItem": {
                 "22045": 1,
                 "170001": 300
             },
-            "maxRound": 99,
-            "promptRound": 90,
+            "maxRound": 24,
+            "promptRound": 20,
             "token": 170002,
             "maxOrderNumber": 5,
             "initialPoint": 60,
             "doll": 4,
-            "mapId": 1007,
+            "mapId": 1107,
             "cost": {
                 "101": 20
             },
             "canSweep": true,
             "pptId": 3003,
             "tokenIcon": "Item_Icon_Credit_ActivityDaiyan",
-            "loseId": [
-                21010
-            ],
             "roundOccupyPoint": 5,
             "sweepUnlock": [
                 13006
@@ -409,14 +366,14 @@
                 "101": 10
             },
             "sweepReward": {
+                "170003": 1,
                 "170005": 1,
-                "170007": 1,
+                "25": 20,
                 "170004": 1,
                 "170001": 220,
                 "170006": 1,
-                "170003": 1,
-                "200": 10,
-                "25": 20
+                "170007": 1,
+                "200": 10
             },
             "maxRewardPoint": 8,
             "sweepTimes": 10,

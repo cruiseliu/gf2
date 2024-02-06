@@ -1,129 +1,6 @@
 {
     "data": [
         {
-            "id": 31061,
-            "cid": 3,
-            "name": "站姿疑惑",
-            "performtype": 12,
-            "pathpoint": 106,
-            "responseperform": [
-                3
-            ],
-            "actions": [
-                3000,
-                3034,
-                3000
-            ],
-            "idleaction": [
-                3001,
-                3001
-            ],
-            "content": 0,
-            "singleresponse": [],
-            "insertactions": [],
-            "interaction": [],
-            "mutualperform": [],
-            "birthonlyaction": 0,
-            "conditionTime": [],
-            "conditionArea": [],
-            "conditionDecoration": 0,
-            "conditionAffection": 0,
-            "conditionAchievement": 0
-        },
-        {
-            "id": 32041,
-            "cid": 3,
-            "name": "弯腰观察",
-            "performtype": 12,
-            "pathpoint": 4,
-            "singleresponse": [
-                9,
-                10
-            ],
-            "responseperform": [
-                3001
-            ],
-            "actions": [
-                3000,
-                3027,
-                3000
-            ],
-            "idleaction": [
-                3001,
-                3001
-            ],
-            "content": 0,
-            "insertactions": [],
-            "interaction": [],
-            "mutualperform": [],
-            "birthonlyaction": 0,
-            "conditionTime": [],
-            "conditionArea": [],
-            "conditionDecoration": 0,
-            "conditionAffection": 0,
-            "conditionAchievement": 0
-        },
-        {
-            "id": 33011,
-            "cid": 3,
-            "name": "站姿疑惑",
-            "performtype": 12,
-            "pathpoint": 301,
-            "responseperform": [
-                3
-            ],
-            "actions": [
-                3000,
-                3034,
-                3000
-            ],
-            "idleaction": [
-                3001,
-                3001
-            ],
-            "content": 0,
-            "singleresponse": [],
-            "insertactions": [],
-            "interaction": [],
-            "mutualperform": [],
-            "birthonlyaction": 0,
-            "conditionTime": [],
-            "conditionArea": [],
-            "conditionDecoration": 0,
-            "conditionAffection": 0,
-            "conditionAchievement": 0
-        },
-        {
-            "id": 33051,
-            "cid": 3,
-            "name": "站姿疑惑",
-            "performtype": 12,
-            "pathpoint": 305,
-            "responseperform": [
-                3
-            ],
-            "actions": [
-                3000,
-                3034,
-                3000
-            ],
-            "idleaction": [
-                3001,
-                3001
-            ],
-            "content": 0,
-            "singleresponse": [],
-            "insertactions": [],
-            "interaction": [],
-            "mutualperform": [],
-            "birthonlyaction": 0,
-            "conditionTime": [],
-            "conditionArea": [],
-            "conditionDecoration": 0,
-            "conditionAffection": 0,
-            "conditionAchievement": 0
-        },
-        {
             "id": 31011,
             "cid": 3,
             "name": "站姿疑惑",
@@ -214,6 +91,158 @@
             "conditionAchievement": 0
         },
         {
+            "id": 31041,
+            "cid": 3,
+            "name": "站姿疑惑",
+            "performtype": 12,
+            "pathpoint": 104,
+            "responseperform": [
+                3
+            ],
+            "actions": [
+                3000,
+                3034,
+                3000
+            ],
+            "idleaction": [
+                3001,
+                3001
+            ],
+            "birthonlyaction": 1,
+            "content": 0,
+            "singleresponse": [],
+            "insertactions": [],
+            "interaction": [],
+            "mutualperform": [],
+            "conditionTime": [],
+            "conditionArea": [],
+            "conditionDecoration": 0,
+            "conditionAffection": 0,
+            "conditionAchievement": 0
+        },
+        {
+            "id": 31051,
+            "cid": 3,
+            "name": "站姿疑惑",
+            "performtype": 12,
+            "pathpoint": 105,
+            "responseperform": [
+                3
+            ],
+            "actions": [
+                3000,
+                3034,
+                3000
+            ],
+            "idleaction": [
+                3001,
+                3001
+            ],
+            "content": 0,
+            "singleresponse": [],
+            "insertactions": [],
+            "interaction": [],
+            "mutualperform": [],
+            "birthonlyaction": 0,
+            "conditionTime": [],
+            "conditionArea": [],
+            "conditionDecoration": 0,
+            "conditionAffection": 0,
+            "conditionAchievement": 0
+        },
+        {
+            "id": 31061,
+            "cid": 3,
+            "name": "站姿疑惑",
+            "performtype": 12,
+            "pathpoint": 106,
+            "responseperform": [
+                3
+            ],
+            "actions": [
+                3000,
+                3034,
+                3000
+            ],
+            "idleaction": [
+                3001,
+                3001
+            ],
+            "content": 0,
+            "singleresponse": [],
+            "insertactions": [],
+            "interaction": [],
+            "mutualperform": [],
+            "birthonlyaction": 0,
+            "conditionTime": [],
+            "conditionArea": [],
+            "conditionDecoration": 0,
+            "conditionAffection": 0,
+            "conditionAchievement": 0
+        },
+        {
+            "id": 32011,
+            "cid": 3,
+            "name": "床上听歌",
+            "performtype": 11,
+            "pathpoint": 1,
+            "content": 3003,
+            "singleresponse": [
+                5
+            ],
+            "responseperform": [
+                30031
+            ],
+            "actions": [
+                7
+            ],
+            "idleaction": [
+                3003,
+                3003
+            ],
+            "insertactions": [],
+            "interaction": [],
+            "mutualperform": [],
+            "birthonlyaction": 0,
+            "conditionTime": [],
+            "conditionArea": [],
+            "conditionDecoration": 0,
+            "conditionAffection": 0,
+            "conditionAchievement": 0
+        },
+        {
+            "id": 32012,
+            "cid": 3,
+            "name": "站姿疑惑",
+            "performtype": 12,
+            "pathpoint": 4,
+            "singleresponse": [
+                11
+            ],
+            "responseperform": [
+                12
+            ],
+            "actions": [
+                3000,
+                3034,
+                3000
+            ],
+            "idleaction": [
+                3001,
+                3001
+            ],
+            "content": 0,
+            "insertactions": [],
+            "interaction": [],
+            "mutualperform": [],
+            "birthonlyaction": 0,
+            "conditionTime": [],
+            "conditionArea": [],
+            "conditionDecoration": 0,
+            "conditionAffection": 0,
+            "conditionAchievement": 0
+        },
+        {
             "id": 32031,
             "cid": 3,
             "name": "坐姿阅读1",
@@ -279,6 +308,69 @@
             ],
             "content": 0,
             "responseperform": [],
+            "mutualperform": [],
+            "birthonlyaction": 0,
+            "conditionTime": [],
+            "conditionArea": [],
+            "conditionDecoration": 0,
+            "conditionAffection": 0,
+            "conditionAchievement": 0
+        },
+        {
+            "id": 32041,
+            "cid": 3,
+            "name": "弯腰观察",
+            "performtype": 12,
+            "pathpoint": 4,
+            "singleresponse": [
+                9,
+                10
+            ],
+            "responseperform": [
+                3001
+            ],
+            "actions": [
+                3000,
+                3027,
+                3000
+            ],
+            "idleaction": [
+                3001,
+                3001
+            ],
+            "content": 0,
+            "insertactions": [],
+            "interaction": [],
+            "mutualperform": [],
+            "birthonlyaction": 0,
+            "conditionTime": [],
+            "conditionArea": [],
+            "conditionDecoration": 0,
+            "conditionAffection": 0,
+            "conditionAchievement": 0
+        },
+        {
+            "id": 33011,
+            "cid": 3,
+            "name": "站姿疑惑",
+            "performtype": 12,
+            "pathpoint": 301,
+            "responseperform": [
+                3
+            ],
+            "actions": [
+                3000,
+                3034,
+                3000
+            ],
+            "idleaction": [
+                3001,
+                3001
+            ],
+            "content": 0,
+            "singleresponse": [],
+            "insertactions": [],
+            "interaction": [],
             "mutualperform": [],
             "birthonlyaction": 0,
             "conditionTime": [],
@@ -378,41 +470,11 @@
             "conditionAchievement": 0
         },
         {
-            "id": 31041,
+            "id": 33051,
             "cid": 3,
             "name": "站姿疑惑",
             "performtype": 12,
-            "pathpoint": 104,
-            "responseperform": [
-                3
-            ],
-            "actions": [
-                3000,
-                3034,
-                3000
-            ],
-            "idleaction": [
-                3001,
-                3001
-            ],
-            "birthonlyaction": 1,
-            "content": 0,
-            "singleresponse": [],
-            "insertactions": [],
-            "interaction": [],
-            "mutualperform": [],
-            "conditionTime": [],
-            "conditionArea": [],
-            "conditionDecoration": 0,
-            "conditionAffection": 0,
-            "conditionAchievement": 0
-        },
-        {
-            "id": 31051,
-            "cid": 3,
-            "name": "站姿疑惑",
-            "performtype": 12,
-            "pathpoint": 105,
+            "pathpoint": 305,
             "responseperform": [
                 3
             ],
@@ -427,68 +489,6 @@
             ],
             "content": 0,
             "singleresponse": [],
-            "insertactions": [],
-            "interaction": [],
-            "mutualperform": [],
-            "birthonlyaction": 0,
-            "conditionTime": [],
-            "conditionArea": [],
-            "conditionDecoration": 0,
-            "conditionAffection": 0,
-            "conditionAchievement": 0
-        },
-        {
-            "id": 32011,
-            "cid": 3,
-            "name": "床上听歌",
-            "performtype": 11,
-            "pathpoint": 1,
-            "content": 3003,
-            "singleresponse": [
-                5
-            ],
-            "responseperform": [
-                30031
-            ],
-            "actions": [
-                7
-            ],
-            "idleaction": [
-                3003,
-                3003
-            ],
-            "insertactions": [],
-            "interaction": [],
-            "mutualperform": [],
-            "birthonlyaction": 0,
-            "conditionTime": [],
-            "conditionArea": [],
-            "conditionDecoration": 0,
-            "conditionAffection": 0,
-            "conditionAchievement": 0
-        },
-        {
-            "id": 32012,
-            "cid": 3,
-            "name": "站姿疑惑",
-            "performtype": 12,
-            "pathpoint": 4,
-            "singleresponse": [
-                11
-            ],
-            "responseperform": [
-                12
-            ],
-            "actions": [
-                3000,
-                3034,
-                3000
-            ],
-            "idleaction": [
-                3001,
-                3001
-            ],
-            "content": 0,
             "insertactions": [],
             "interaction": [],
             "mutualperform": [],

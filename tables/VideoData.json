@@ -26,6 +26,31 @@
             "videoFemale": "AVG/ANI_00_05.usm"
         },
         {
+            "id": 10101,
+            "videoMale": "AVG/TIME_01_01_Male.usm",
+            "videoFemale": "AVG/TIME_01_01_Female.usm"
+        },
+        {
+            "id": 10102,
+            "videoMale": "AVG/ANI_01_02_Male.usm",
+            "videoFemale": "AVG/ANI_01_02_Female.usm"
+        },
+        {
+            "id": 10103,
+            "videoMale": "AVG/ANI_01_03_Male.usm",
+            "videoFemale": "AVG/ANI_01_03_Female.usm"
+        },
+        {
+            "id": 10104,
+            "videoMale": "AVG/ANI_01_01_Male.usm",
+            "videoFemale": "AVG/ANI_01_01_Female.usm"
+        },
+        {
+            "id": 10105,
+            "videoMale": "AVG/TIME_01_04_Male.usm",
+            "videoFemale": "AVG/TIME_01_04_Female.usm"
+        },
+        {
             "id": 10201,
             "videoMale": "AVG/TIME_02_01_Male.usm",
             "videoFemale": "AVG/TIME_02_01_Female.usm"
@@ -101,46 +126,6 @@
             "videoFemale": "AVG/TIME_04_09.usm"
         },
         {
-            "id": 10501,
-            "videoMale": "AVG/TIME_05_01.usm",
-            "videoFemale": "AVG/TIME_05_01.usm"
-        },
-        {
-            "id": 10502,
-            "videoMale": "AVG/TIME_05_02.usm",
-            "videoFemale": "AVG/TIME_05_02.usm"
-        },
-        {
-            "id": 30101,
-            "videoMale": "AVG/TIME_Daiyan_01.usm",
-            "videoFemale": "AVG/TIME_Daiyan_01.usm"
-        },
-        {
-            "id": 10101,
-            "videoMale": "AVG/TIME_01_01_Male.usm",
-            "videoFemale": "AVG/TIME_01_01_Female.usm"
-        },
-        {
-            "id": 10102,
-            "videoMale": "AVG/ANI_01_02_Male.usm",
-            "videoFemale": "AVG/ANI_01_02_Female.usm"
-        },
-        {
-            "id": 10103,
-            "videoMale": "AVG/ANI_01_03_Male.usm",
-            "videoFemale": "AVG/ANI_01_03_Female.usm"
-        },
-        {
-            "id": 10104,
-            "videoMale": "AVG/ANI_01_01_Male.usm",
-            "videoFemale": "AVG/ANI_01_01_Female.usm"
-        },
-        {
-            "id": 10105,
-            "videoMale": "AVG/TIME_01_04_Male.usm",
-            "videoFemale": "AVG/TIME_01_04_Female.usm"
-        },
-        {
             "id": 10410,
             "videoMale": "AVG/TIME_04_10.usm",
             "videoFemale": "AVG/TIME_04_10.usm"
@@ -149,6 +134,16 @@
             "id": 10411,
             "videoMale": "AVG/TIME_04_11.usm",
             "videoFemale": "AVG/TIME_04_11.usm"
+        },
+        {
+            "id": 10501,
+            "videoMale": "AVG/TIME_05_01.usm",
+            "videoFemale": "AVG/TIME_05_01.usm"
+        },
+        {
+            "id": 10502,
+            "videoMale": "AVG/TIME_05_02.usm",
+            "videoFemale": "AVG/TIME_05_02.usm"
         },
         {
             "id": 10601,
@@ -164,6 +159,11 @@
             "id": 20002,
             "videoMale": "Tutorial/Video_Tutorial_Barrack_First.usm",
             "videoFemale": "Tutorial/Video_Tutorial_Barrack_First.usm"
+        },
+        {
+            "id": 30101,
+            "videoMale": "AVG/TIME_Daiyan_01.usm",
+            "videoFemale": "AVG/TIME_Daiyan_01.usm"
         }
     ]
 }

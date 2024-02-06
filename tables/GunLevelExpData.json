@@ -1,12 +1,6 @@
 {
     "data": [
         {
-            "level": 60,
-            "exp": 31360,
-            "propertyId": 100060,
-            "gold": 0
-        },
-        {
             "level": 1,
             "propertyId": 100001,
             "exp": 0,
@@ -358,6 +352,12 @@
             "level": 59,
             "exp": 30840,
             "propertyId": 100059,
+            "gold": 0
+        },
+        {
+            "level": 60,
+            "exp": 31360,
+            "propertyId": 100060,
             "gold": 0
         }
     ]

@@ -1,0 +1,250 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "idleGroup": 1012,
+            "idleLevel": 1,
+            "idleArticle": 999,
+            "idleItem": 170013,
+            "idleNum": 5,
+            "idleAlarm": 150,
+            "outerItem": 170044,
+            "outerNum": 2,
+            "outerCd": 60,
+            "synthesisItem": 170027,
+            "synthesisTime": 16,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2001
+            ]
+        },
+        {
+            "id": 2,
+            "idleGroup": 1012,
+            "idleLevel": 1,
+            "idleArticle": 998,
+            "idleItem": 170012,
+            "idleNum": 5,
+            "idleAlarm": 150,
+            "outerItem": 170014,
+            "outerNum": 2,
+            "outerCd": 60,
+            "synthesisItem": 170032,
+            "synthesisTime": 16,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2005
+            ]
+        },
+        {
+            "id": 3,
+            "idleGroup": 1012,
+            "idleLevel": 1,
+            "idleArticle": 997,
+            "idleItem": 170011,
+            "idleNum": 5,
+            "idleAlarm": 150,
+            "outerItem": 170042,
+            "outerNum": 2,
+            "outerCd": 60,
+            "synthesisItem": 170037,
+            "synthesisTime": 16,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2009
+            ]
+        },
+        {
+            "id": 4,
+            "idleGroup": 1012,
+            "idleLevel": 2,
+            "idleArticle": 999,
+            "idleItem": 170013,
+            "idleNum": 5,
+            "idleAlarm": 250,
+            "outerItem": 170044,
+            "outerNum": 3,
+            "outerCd": 60,
+            "synthesisItem": 170027,
+            "synthesisTime": 12,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2001,
+                2002
+            ]
+        },
+        {
+            "id": 5,
+            "idleGroup": 1012,
+            "idleLevel": 2,
+            "idleArticle": 998,
+            "idleItem": 170012,
+            "idleNum": 5,
+            "idleAlarm": 250,
+            "outerItem": 170014,
+            "outerNum": 3,
+            "outerCd": 60,
+            "synthesisItem": 170032,
+            "synthesisTime": 12,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2005,
+                2006
+            ]
+        },
+        {
+            "id": 6,
+            "idleGroup": 1012,
+            "idleLevel": 2,
+            "idleArticle": 997,
+            "idleItem": 170011,
+            "idleNum": 5,
+            "idleAlarm": 250,
+            "outerItem": 170042,
+            "outerNum": 3,
+            "outerCd": 60,
+            "synthesisItem": 170037,
+            "synthesisTime": 12,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2009,
+                2010
+            ]
+        },
+        {
+            "id": 7,
+            "idleGroup": 1012,
+            "idleLevel": 3,
+            "idleArticle": 999,
+            "idleItem": 170013,
+            "idleNum": 5,
+            "idleAlarm": 350,
+            "outerItem": 170044,
+            "outerNum": 4,
+            "outerCd": 60,
+            "synthesisItem": 170027,
+            "synthesisTime": 10,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2001,
+                2002,
+                2003
+            ]
+        },
+        {
+            "id": 8,
+            "idleGroup": 1012,
+            "idleLevel": 3,
+            "idleArticle": 998,
+            "idleItem": 170012,
+            "idleNum": 5,
+            "idleAlarm": 350,
+            "outerItem": 170014,
+            "outerNum": 4,
+            "outerCd": 60,
+            "synthesisItem": 170032,
+            "synthesisTime": 10,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2005,
+                2006,
+                2007
+            ]
+        },
+        {
+            "id": 9,
+            "idleGroup": 1012,
+            "idleLevel": 3,
+            "idleArticle": 997,
+            "idleItem": 170011,
+            "idleNum": 5,
+            "idleAlarm": 350,
+            "outerItem": 170042,
+            "outerNum": 4,
+            "outerCd": 60,
+            "synthesisItem": 170037,
+            "synthesisTime": 10,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2009,
+                2010,
+                2011
+            ]
+        },
+        {
+            "id": 10,
+            "idleGroup": 1012,
+            "idleLevel": 4,
+            "idleArticle": 999,
+            "idleItem": 170013,
+            "idleNum": 5,
+            "idleAlarm": 500,
+            "outerItem": 170044,
+            "outerNum": 5,
+            "outerCd": 60,
+            "synthesisItem": 170027,
+            "synthesisTime": 8,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2001,
+                2002,
+                2003,
+                2004
+            ]
+        },
+        {
+            "id": 11,
+            "idleGroup": 1012,
+            "idleLevel": 4,
+            "idleArticle": 998,
+            "idleItem": 170012,
+            "idleNum": 5,
+            "idleAlarm": 500,
+            "outerItem": 170014,
+            "outerNum": 5,
+            "outerCd": 60,
+            "synthesisItem": 170032,
+            "synthesisTime": 8,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2005,
+                2006,
+                2007,
+                2008
+            ]
+        },
+        {
+            "id": 12,
+            "idleGroup": 1012,
+            "idleLevel": 4,
+            "idleArticle": 997,
+            "idleItem": 170011,
+            "idleNum": 5,
+            "idleAlarm": 500,
+            "outerItem": 170042,
+            "outerNum": 5,
+            "outerCd": 60,
+            "synthesisItem": 170037,
+            "synthesisTime": 8,
+            "synthesisRate": 1000,
+            "synthesisNum": 1,
+            "idleAvatar": [
+                2009,
+                2010,
+                2011,
+                2012
+            ]
+        }
+    ]
+}

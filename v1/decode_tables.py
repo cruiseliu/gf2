@@ -5,11 +5,13 @@ import proto
 
 import declarations
 
-tables_path = 'D:/Program Files/GF2Exilium/GF2 Game/GF2_Exilium_Data/LocalCache/Data/Table'
-output_path = Path(__file__).parents[1] / 'tables'
+game_data_dir = Path('/mnt/d/Program Files/GF2Exilium/GF2 Game/GF2_Exilium_Data/LocalCache/Data')
+tables_dir = game_data_dir / 'Table'
+#tables_path = '/mnt/c/_re/gf2/table-orig'
+output_path = Path(__file__).parents[1] / 'tables-240123'
 fail_log_path = Path(__file__).parents[1] / 'fail-tables.txt'
 
-fail_log_file = open(fail_log_path, 'w')
+fail_log_stream = open(fail_log_path, 'w')
 
 def main():
     Path(output_path).mkdir(parents=True, exist_ok=True)
@@ -17,20 +19,24 @@ def main():
     string_table = decode_table('LangPackageTableCnData', strings=None)
     strings = {int(s['id']): s['content'] for s in string_table}
 
-    for file in Path(tables_path).iterdir():
+    for file in Path(tables_dir).iterdir():
         if file.suffix != '.bytes':
             print('SKIP', file.name)
         elif file.stem != 'LangPackageTableCnData':
             decode_table(file.stem, strings)
 
 def decode_table(table_name: str, strings: dict[int, str] | None) -> dict | None:
-    from_path = Path(tables_path) / f'{table_name}.bytes'
+    from_path = Path(tables_dir) / f'{table_name}.bytes'
     to_path = Path(output_path) / f'{table_name}.json'
 
     data = from_path.read_bytes()
     header_len = int.from_bytes(data[:4], 'little')
 
-    DataClass = getattr(declarations, table_name)
+    try:
+        DataClass = getattr(declarations, table_name)
+    except AttributeError:
+        return None
+
     DataTableClass = type(
         table_name + 'Table',
         (proto.Message,),
@@ -49,7 +55,7 @@ def decode_table(table_name: str, strings: dict[int, str] | None) -> dict | None
 
     if table_msg is None:
         print('FAIL', table_name)
-        fail_log_file.write(table_name + '\n')
+        fail_log_stream.write(table_name + '\n')
         return None
 
     table_obj = DataTableClass.to_dict(table_msg)
@@ -62,6 +68,9 @@ def decode_table(table_name: str, strings: dict[int, str] | None) -> dict | None
                     obj[key] = strings[int(field.id)]
                 if isinstance(field, declarations.KvSortUintData):
                     obj[key] = {k: v for k, v in zip(field.key, field.value)}
+
+    if 'id' in table_obj['data'][0]:
+        table_obj['data'] = sorted(table_obj['data'], key=(lambda obj: obj['id']))
 
     s = json.dumps(table_obj, indent=4, ensure_ascii=False)
     to_path.write_text(s)

@@ -1,15 +1,6 @@
 {
     "data": [
         {
-            "addId": 40,
-            "name": "物理加成",
-            "elementAdd": "develop_property_element_add_physics",
-            "aginstId": 48,
-            "aginstName": "物理抗性",
-            "elementAgainst": "develop_property_element_against_physics",
-            "id": 0
-        },
-        {
             "id": 1,
             "addId": 36,
             "name": "燃烧加成",
@@ -44,6 +35,15 @@
             "aginstId": 47,
             "aginstName": "酸蚀抗性",
             "elementAgainst": "develop_property_element_against_poison"
+        },
+        {
+            "addId": 40,
+            "name": "物理加成",
+            "elementAdd": "develop_property_element_add_physics",
+            "aginstId": 48,
+            "aginstName": "物理抗性",
+            "elementAgainst": "develop_property_element_against_physics",
+            "id": 0
         },
         {
             "id": 5,

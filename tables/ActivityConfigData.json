@@ -12,6 +12,19 @@
             ],
             "priority": 1,
             "prologue": 0
+        },
+        {
+            "id": 2,
+            "name": "方糖特调沙龙",
+            "unlockId": 29301,
+            "activityType": 1,
+            "activityEntrance": [
+                99904,
+                99905,
+                99906
+            ],
+            "priority": 2,
+            "prologue": 0
         }
     ]
 }

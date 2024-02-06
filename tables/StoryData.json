@@ -1,2273 +1,6 @@
 {
     "data": [
         {
-            "id": 30341,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30311,
-            "preId": [
-                30303
-            ],
-            "nextId": [
-                30342
-            ],
-            "position": "1575,-150",
-            "name": "AS-1-1",
-            "icon": "icon_stagetest",
-            "code": "AS-1-1",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30342,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30312,
-            "preId": [
-                30341
-            ],
-            "position": "2025,-150",
-            "name": "AS-1-2",
-            "icon": "icon_stagetest",
-            "code": "AS-1-2",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30343,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30313,
-            "preId": [
-                30305
-            ],
-            "nextId": [
-                30344
-            ],
-            "position": "2925,-150",
-            "name": "AS-1-3",
-            "icon": "icon_stagetest",
-            "code": "AS-1-3",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30344,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30314,
-            "preId": [
-                30343
-            ],
-            "position": "3375,-150",
-            "name": "AS-1-4",
-            "icon": "icon_stagetest",
-            "code": "AS-1-4",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30345,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30315,
-            "preId": [
-                30307
-            ],
-            "nextId": [
-                30346
-            ],
-            "position": "4275,150",
-            "name": "AS-1-5",
-            "icon": "icon_stagetest",
-            "code": "AS-1-5",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30346,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30316,
-            "preId": [
-                30345
-            ],
-            "position": "4725,150",
-            "name": "AS-1-6",
-            "icon": "icon_stagetest",
-            "code": "AS-1-6",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 110,
-            "chapter": 1,
-            "stageGroup": 1,
-            "stageId": 10110,
-            "preId": [
-                109
-            ],
-            "position": "4050,0",
-            "name": "1-8",
-            "icon": "icon_stagetest",
-            "code": "1-8",
-            "type": 1,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 410,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10410,
-            "preId": [
-                409
-            ],
-            "nextId": [
-                485
-            ],
-            "position": "5850,0",
-            "name": "4-10",
-            "icon": "icon_stagetest",
-            "code": "4-10",
-            "type": 1,
-            "unlockLevel": 22,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 461,
-            "chapter": 91004,
-            "stageGroup": 91004,
-            "stageId": 10461,
-            "nextId": [
-                462
-            ],
-            "position": "0,0",
-            "name": "DF-4-1",
-            "icon": "icon_stagetest",
-            "code": "DF-4-1",
-            "type": 1,
-            "preId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 462,
-            "chapter": 91004,
-            "stageGroup": 91004,
-            "stageId": 10462,
-            "preId": [
-                461
-            ],
-            "nextId": [
-                463
-            ],
-            "position": "450,0",
-            "name": "DF-4-2",
-            "icon": "icon_stagetest",
-            "code": "DF-4-2",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 463,
-            "chapter": 91004,
-            "stageGroup": 91004,
-            "stageId": 10463,
-            "preId": [
-                462
-            ],
-            "nextId": [
-                464
-            ],
-            "position": "900,0",
-            "name": "DF-4-3",
-            "icon": "icon_stagetest",
-            "code": "DF-4-3",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 464,
-            "chapter": 91004,
-            "stageGroup": 91004,
-            "stageId": 10464,
-            "preId": [
-                463
-            ],
-            "nextId": [
-                465
-            ],
-            "position": "1350,0",
-            "name": "DF-4-4",
-            "icon": "icon_stagetest",
-            "code": "DF-4-4",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 465,
-            "chapter": 91004,
-            "stageGroup": 91004,
-            "stageId": 10465,
-            "preId": [
-                464
-            ],
-            "position": "1800,0",
-            "name": "DF-4-5",
-            "icon": "icon_stagetest",
-            "code": "DF-4-5",
-            "type": 1,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 541,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10541,
-            "preId": [
-                505
-            ],
-            "nextId": [
-                542
-            ],
-            "position": "3375,-150",
-            "name": "BH-5-1",
-            "icon": "icon_stagetest",
-            "code": "BH-5-1",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 542,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10542,
-            "preId": [
-                541
-            ],
-            "position": "3825,-150",
-            "name": "BH-5-2",
-            "icon": "icon_stagetest",
-            "code": "BH-5-2",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 543,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10543,
-            "preId": [
-                583
-            ],
-            "nextId": [
-                544
-            ],
-            "position": "3825,150",
-            "name": "BH-5-3",
-            "icon": "icon_stagetest",
-            "code": "BH-5-3",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 544,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10544,
-            "preId": [
-                543
-            ],
-            "position": "4275,150",
-            "name": "BH-5-4",
-            "icon": "icon_stagetest",
-            "code": "BH-5-4",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 545,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10545,
-            "preId": [
-                509
-            ],
-            "nextId": [
-                546
-            ],
-            "position": "5625,-150",
-            "name": "BH-5-5",
-            "icon": "icon_stagetest",
-            "code": "BH-5-5",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 546,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10546,
-            "preId": [
-                545
-            ],
-            "position": "6075,-150",
-            "name": "BH-5-6",
-            "icon": "icon_stagetest",
-            "code": "BH-5-6",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 581,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10581,
-            "nextId": [
-                501
-            ],
-            "position": "0,0",
-            "name": "SL-5-1",
-            "icon": "icon_stagetest",
-            "code": "SL-5-1",
-            "type": 2,
-            "preId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 582,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10582,
-            "preId": [
-                504
-            ],
-            "nextId": [
-                505
-            ],
-            "position": "2250,0",
-            "name": "SL-5-2",
-            "icon": "icon_stagetest",
-            "code": "SL-5-2",
-            "type": 2,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 583,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10583,
-            "preId": [
-                505
-            ],
-            "nextId": [
-                506
-            ],
-            "position": "3150,0",
-            "name": "SL-5-3",
-            "icon": "icon_stagetest",
-            "code": "SL-5-3",
-            "type": 2,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 584,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10584,
-            "preId": [
-                509
-            ],
-            "nextId": [
-                510
-            ],
-            "position": "5400,0",
-            "name": "SL-5-4",
-            "icon": "icon_stagetest",
-            "code": "SL-5-4",
-            "type": 2,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 681,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10681,
-            "preId": [
-                601
-            ],
-            "nextId": [
-                602
-            ],
-            "position": "450,0",
-            "name": "SL-6-1",
-            "icon": "icon_stagetest",
-            "code": "SL-6-1",
-            "type": 2,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 682,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10682,
-            "preId": [
-                604
-            ],
-            "nextId": [
-                605
-            ],
-            "position": "2250,0",
-            "name": "SL-6-2",
-            "icon": "icon_stagetest",
-            "code": "SL-6-2",
-            "type": 2,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 683,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10683,
-            "preId": [
-                606
-            ],
-            "nextId": [
-                607
-            ],
-            "position": "3600,0",
-            "name": "SL-6-3",
-            "icon": "icon_stagetest",
-            "code": "SL-6-3",
-            "type": 2,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 684,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10684,
-            "preId": [
-                607
-            ],
-            "nextId": [
-                608
-            ],
-            "position": "4500,0",
-            "name": "SL-6-4",
-            "icon": "icon_stagetest",
-            "code": "SL-6-4",
-            "type": 2,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 685,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10685,
-            "preId": [
-                608
-            ],
-            "nextId": [
-                609
-            ],
-            "position": "5400,0",
-            "name": "SL-6-5",
-            "icon": "icon_stagetest",
-            "code": "SL-6-5",
-            "type": 2,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30301,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30301,
-            "nextId": [
-                30302
-            ],
-            "position": "0,0",
-            "name": "AD-1-1",
-            "icon": "icon_stagetest",
-            "code": "AD-1-1",
-            "type": 1,
-            "preId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30302,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30302,
-            "preId": [
-                30301
-            ],
-            "nextId": [
-                30303
-            ],
-            "position": "450,0",
-            "name": "AD-1-2",
-            "icon": "icon_stagetest",
-            "code": "AD-1-2",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30303,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30303,
-            "preId": [
-                30302
-            ],
-            "nextId": [
-                30304
-            ],
-            "position": "900,0",
-            "name": "AD-1-3",
-            "icon": "icon_stagetest",
-            "code": "AD-1-3",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30304,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30304,
-            "preId": [
-                30303
-            ],
-            "nextId": [
-                30381
-            ],
-            "position": "1350,0",
-            "name": "AD-1-4",
-            "icon": "icon_stagetest",
-            "code": "AD-1-4",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30305,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30305,
-            "preId": [
-                30381
-            ],
-            "nextId": [
-                30306
-            ],
-            "position": "2250,0",
-            "name": "AD-1-5",
-            "icon": "icon_stagetest",
-            "code": "AD-1-5",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30306,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30306,
-            "preId": [
-                30305
-            ],
-            "nextId": [
-                30382
-            ],
-            "position": "2700,0",
-            "name": "AD-1-6",
-            "icon": "icon_stagetest",
-            "code": "AD-1-6",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30307,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30307,
-            "preId": [
-                30382
-            ],
-            "nextId": [
-                30308
-            ],
-            "position": "3600,0",
-            "name": "AD-1-7",
-            "icon": "icon_stagetest",
-            "code": "AD-1-7",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30308,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30308,
-            "preId": [
-                30307
-            ],
-            "nextId": [
-                30309
-            ],
-            "position": "4050,0",
-            "name": "AD-1-8",
-            "icon": "icon_stagetest",
-            "code": "AD-1-8",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30309,
-            "chapter": 3001,
-            "stageGroup": 3001,
-            "stageId": 30309,
-            "preId": [
-                30308
-            ],
-            "position": "4500,0",
-            "name": "AD-1-9",
-            "icon": "icon_stagetest",
-            "code": "AD-1-9",
-            "type": 1,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 210,
-            "chapter": 2,
-            "stageGroup": 2,
-            "stageId": 10210,
-            "preId": [
-                284
-            ],
-            "nextId": [
-                285
-            ],
-            "position": "5850,0",
-            "name": "2-10",
-            "icon": "icon_stagetest",
-            "code": "2-10",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 301,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10301,
-            "preId": [
-                381
-            ],
-            "nextId": [
-                382
-            ],
-            "position": "450,0",
-            "name": "3-1",
-            "icon": "icon_stagetest",
-            "code": "3-1",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 302,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10302,
-            "preId": [
-                382
-            ],
-            "nextId": [
-                303
-            ],
-            "position": "1350,0",
-            "name": "3-2",
-            "icon": "icon_stagetest",
-            "code": "3-2",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 303,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10303,
-            "preId": [
-                302
-            ],
-            "nextId": [
-                304
-            ],
-            "position": "1800,0",
-            "name": "3-3",
-            "icon": "icon_stagetest",
-            "code": "3-3",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 304,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10304,
-            "preId": [
-                303
-            ],
-            "nextId": [
-                383
-            ],
-            "position": "2250,0",
-            "name": "3-4",
-            "icon": "icon_stagetest",
-            "code": "3-4",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 305,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10305,
-            "preId": [
-                383
-            ],
-            "nextId": [
-                306
-            ],
-            "position": "3150,0",
-            "name": "3-5",
-            "icon": "icon_stagetest",
-            "code": "3-5",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 306,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10306,
-            "preId": [
-                305
-            ],
-            "nextId": [
-                307
-            ],
-            "position": "3600,0",
-            "name": "3-6",
-            "icon": "icon_stagetest",
-            "code": "3-6",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 307,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10307,
-            "preId": [
-                306
-            ],
-            "nextId": [
-                384
-            ],
-            "position": "4050,0",
-            "name": "3-7",
-            "icon": "icon_stagetest",
-            "code": "3-7",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 308,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10308,
-            "preId": [
-                384
-            ],
-            "nextId": [
-                385
-            ],
-            "position": "4950,0",
-            "name": "3-8",
-            "icon": "icon_stagetest",
-            "code": "3-8",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 309,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10309,
-            "preId": [
-                385
-            ],
-            "nextId": [
-                310
-            ],
-            "position": "5850,0",
-            "name": "3-9",
-            "icon": "icon_stagetest",
-            "code": "3-9",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 441,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10441,
-            "preId": [
-                401
-            ],
-            "nextId": [
-                442
-            ],
-            "position": "675,-150",
-            "name": "BH-4-1",
-            "icon": "icon_stagetest",
-            "code": "BH-4-1",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 442,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10442,
-            "preId": [
-                441
-            ],
-            "position": "1125,-150",
-            "name": "BH-4-2",
-            "icon": "icon_stagetest",
-            "code": "BH-4-2",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 443,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10443,
-            "preId": [
-                405
-            ],
-            "nextId": [
-                444
-            ],
-            "position": "3375,150",
-            "name": "BH-4-3",
-            "icon": "icon_stagetest",
-            "code": "BH-4-3",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 444,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10444,
-            "preId": [
-                443
-            ],
-            "position": "3825,150",
-            "name": "BH-4-4",
-            "icon": "icon_stagetest",
-            "code": "BH-4-4",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 445,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10445,
-            "preId": [
-                407
-            ],
-            "nextId": [
-                446
-            ],
-            "position": "4725,-150",
-            "name": "BH-4-5",
-            "icon": "icon_stagetest",
-            "code": "BH-4-5",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 446,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10446,
-            "preId": [
-                445
-            ],
-            "position": "5175,-150",
-            "name": "BH-4-6",
-            "icon": "icon_stagetest",
-            "code": "BH-4-6",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 561,
-            "chapter": 91005,
-            "stageGroup": 91005,
-            "stageId": 10561,
-            "nextId": [
-                562
-            ],
-            "position": "0,0",
-            "name": "DF-5-1",
-            "icon": "icon_stagetest",
-            "code": "DF-5-1",
-            "type": 1,
-            "preId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 562,
-            "chapter": 91005,
-            "stageGroup": 91005,
-            "stageId": 10562,
-            "preId": [
-                561
-            ],
-            "nextId": [
-                563
-            ],
-            "position": "450,0",
-            "name": "DF-5-2",
-            "icon": "icon_stagetest",
-            "code": "DF-5-2",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 563,
-            "chapter": 91005,
-            "stageGroup": 91005,
-            "stageId": 10563,
-            "preId": [
-                562
-            ],
-            "nextId": [
-                564
-            ],
-            "position": "900,0",
-            "name": "DF-5-3",
-            "icon": "icon_stagetest",
-            "code": "DF-5-3",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 564,
-            "chapter": 91005,
-            "stageGroup": 91005,
-            "stageId": 10564,
-            "preId": [
-                563
-            ],
-            "nextId": [
-                565
-            ],
-            "position": "1350,0",
-            "name": "DF-5-4",
-            "icon": "icon_stagetest",
-            "code": "DF-5-4",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 565,
-            "chapter": 91005,
-            "stageGroup": 91005,
-            "stageId": 10565,
-            "preId": [
-                564
-            ],
-            "position": "1800,0",
-            "name": "DF-5-5",
-            "icon": "icon_stagetest",
-            "code": "DF-5-5",
-            "type": 1,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 641,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10641,
-            "preId": [
-                603
-            ],
-            "nextId": [
-                642
-            ],
-            "position": "2025,-150",
-            "name": "BH-6-1",
-            "icon": "icon_stagetest",
-            "code": "BH-6-1",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 642,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10642,
-            "preId": [
-                641
-            ],
-            "position": "2475,-150",
-            "name": "BH-6-2",
-            "icon": "icon_stagetest",
-            "code": "BH-6-2",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 643,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10643,
-            "preId": [
-                606
-            ],
-            "nextId": [
-                644
-            ],
-            "position": "3825,150",
-            "name": "BH-6-3",
-            "icon": "icon_stagetest",
-            "code": "BH-6-3",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 644,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10644,
-            "preId": [
-                643
-            ],
-            "position": "4275,150",
-            "name": "BH-6-4",
-            "icon": "icon_stagetest",
-            "code": "BH-6-4",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 645,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10645,
-            "preId": [
-                608
-            ],
-            "nextId": [
-                646
-            ],
-            "position": "5625,-150",
-            "name": "BH-6-5",
-            "icon": "icon_stagetest",
-            "code": "BH-6-5",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 646,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10646,
-            "preId": [
-                645
-            ],
-            "position": "6075,-150",
-            "name": "BH-6-6",
-            "icon": "icon_stagetest",
-            "code": "BH-6-6",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 261,
-            "chapter": 91002,
-            "stageGroup": 91002,
-            "stageId": 10261,
-            "nextId": [
-                262
-            ],
-            "position": "0,0",
-            "name": "DF-2-1",
-            "icon": "icon_stagetest",
-            "code": "DF-2-1",
-            "type": 1,
-            "preId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 262,
-            "chapter": 91002,
-            "stageGroup": 91002,
-            "stageId": 10262,
-            "preId": [
-                261
-            ],
-            "nextId": [
-                263
-            ],
-            "position": "450,0",
-            "name": "DF-2-2",
-            "icon": "icon_stagetest",
-            "code": "DF-2-2",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 263,
-            "chapter": 91002,
-            "stageGroup": 91002,
-            "stageId": 10263,
-            "preId": [
-                262
-            ],
-            "nextId": [
-                264
-            ],
-            "position": "900,0",
-            "name": "DF-2-3",
-            "icon": "icon_stagetest",
-            "code": "DF-2-3",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 264,
-            "chapter": 91002,
-            "stageGroup": 91002,
-            "stageId": 10264,
-            "preId": [
-                263
-            ],
-            "nextId": [
-                265
-            ],
-            "position": "1350,0",
-            "name": "DF-2-4",
-            "icon": "icon_stagetest",
-            "code": "DF-2-4",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 265,
-            "chapter": 91002,
-            "stageGroup": 91002,
-            "stageId": 10265,
-            "preId": [
-                264
-            ],
-            "position": "1800,0",
-            "name": "DF-2-5",
-            "icon": "icon_stagetest",
-            "code": "DF-2-5",
-            "type": 1,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 361,
-            "chapter": 91003,
-            "stageGroup": 91003,
-            "stageId": 10361,
-            "nextId": [
-                362
-            ],
-            "position": "0,0",
-            "name": "DF-3-1",
-            "icon": "icon_stagetest",
-            "code": "DF-3-1",
-            "type": 1,
-            "preId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 362,
-            "chapter": 91003,
-            "stageGroup": 91003,
-            "stageId": 10362,
-            "preId": [
-                361
-            ],
-            "nextId": [
-                363
-            ],
-            "position": "450,0",
-            "name": "DF-3-2",
-            "icon": "icon_stagetest",
-            "code": "DF-3-2",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 363,
-            "chapter": 91003,
-            "stageGroup": 91003,
-            "stageId": 10363,
-            "preId": [
-                362
-            ],
-            "nextId": [
-                364
-            ],
-            "position": "900,0",
-            "name": "DF-3-3",
-            "icon": "icon_stagetest",
-            "code": "DF-3-3",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 364,
-            "chapter": 91003,
-            "stageGroup": 91003,
-            "stageId": 10364,
-            "preId": [
-                363
-            ],
-            "nextId": [
-                365
-            ],
-            "position": "1350,0",
-            "name": "DF-3-4",
-            "icon": "icon_stagetest",
-            "code": "DF-3-4",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 365,
-            "chapter": 91003,
-            "stageGroup": 91003,
-            "stageId": 10365,
-            "preId": [
-                364
-            ],
-            "position": "1800,0",
-            "name": "DF-3-5",
-            "icon": "icon_stagetest",
-            "code": "DF-3-5",
-            "type": 1,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 661,
-            "chapter": 91006,
-            "stageGroup": 91006,
-            "stageId": 10661,
-            "nextId": [
-                662
-            ],
-            "position": "0,0",
-            "name": "DF-6-1",
-            "icon": "icon_stagetest",
-            "code": "DF-6-1",
-            "type": 1,
-            "preId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 662,
-            "chapter": 91006,
-            "stageGroup": 91005,
-            "stageId": 10662,
-            "preId": [
-                661
-            ],
-            "nextId": [
-                663
-            ],
-            "position": "450,0",
-            "name": "DF-6-2",
-            "icon": "icon_stagetest",
-            "code": "DF-6-2",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 663,
-            "chapter": 91006,
-            "stageGroup": 91005,
-            "stageId": 10663,
-            "preId": [
-                662
-            ],
-            "nextId": [
-                664
-            ],
-            "position": "900,0",
-            "name": "DF-6-3",
-            "icon": "icon_stagetest",
-            "code": "DF-6-3",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 664,
-            "chapter": 91006,
-            "stageGroup": 91005,
-            "stageId": 10664,
-            "preId": [
-                663
-            ],
-            "nextId": [
-                665
-            ],
-            "position": "1350,0",
-            "name": "DF-6-4",
-            "icon": "icon_stagetest",
-            "code": "DF-6-4",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 665,
-            "chapter": 91006,
-            "stageGroup": 91005,
-            "stageId": 10665,
-            "preId": [
-                664
-            ],
-            "position": "1800,0",
-            "name": "DF-6-5",
-            "icon": "icon_stagetest",
-            "code": "DF-6-5",
-            "type": 1,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 601,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10601,
-            "nextId": [
-                681
-            ],
-            "position": "0,0",
-            "name": "6-1",
-            "icon": "icon_stagetest",
-            "code": "6-1",
-            "type": 1,
-            "unlockLevel": 29,
-            "preId": [],
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 602,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10602,
-            "preId": [
-                681
-            ],
-            "nextId": [
-                603
-            ],
-            "position": "900,0",
-            "name": "6-2",
-            "icon": "icon_stagetest",
-            "code": "6-2",
-            "type": 1,
-            "unlockLevel": 29,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 603,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10603,
-            "preId": [
-                602
-            ],
-            "nextId": [
-                604
-            ],
-            "position": "1350,0",
-            "name": "6-3",
-            "icon": "icon_stagetest",
-            "code": "6-3",
-            "type": 1,
-            "unlockLevel": 29,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 604,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10604,
-            "preId": [
-                603
-            ],
-            "nextId": [
-                682
-            ],
-            "position": "1800,0",
-            "name": "6-4",
-            "icon": "icon_stagetest",
-            "code": "6-4",
-            "type": 1,
-            "unlockLevel": 29,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 605,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10605,
-            "preId": [
-                682
-            ],
-            "nextId": [
-                606
-            ],
-            "position": "2700,0",
-            "name": "6-5",
-            "icon": "icon_stagetest",
-            "code": "6-5",
-            "type": 1,
-            "unlockLevel": 29,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 606,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10606,
-            "preId": [
-                605
-            ],
-            "nextId": [
-                683
-            ],
-            "position": "3150,0",
-            "name": "6-6",
-            "icon": "icon_stagetest",
-            "code": "6-6",
-            "type": 1,
-            "unlockLevel": 31,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 607,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10607,
-            "preId": [
-                683
-            ],
-            "nextId": [
-                684
-            ],
-            "position": "4050,0",
-            "name": "6-7",
-            "icon": "icon_stagetest",
-            "code": "6-7",
-            "type": 1,
-            "unlockLevel": 31,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 608,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10608,
-            "preId": [
-                684
-            ],
-            "nextId": [
-                685
-            ],
-            "position": "4950,0",
-            "name": "6-8",
-            "icon": "icon_stagetest",
-            "code": "6-8",
-            "type": 1,
-            "unlockLevel": 31,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 609,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10609,
-            "preId": [
-                685
-            ],
-            "nextId": [
-                610
-            ],
-            "position": "5850,0",
-            "name": "6-9",
-            "icon": "icon_stagetest",
-            "code": "6-9",
-            "type": 1,
-            "unlockLevel": 31,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30101,
-            "chapter": 93001,
-            "stageGroup": 93001,
-            "stageId": 30101,
-            "nextId": [
-                30102
-            ],
-            "position": "0,0",
-            "name": "AF-1-1",
-            "icon": "icon_stagetest",
-            "code": "AF-1-1",
-            "type": 1,
-            "preId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30102,
-            "chapter": 93001,
-            "stageGroup": 93001,
-            "stageId": 30102,
-            "preId": [
-                30101
-            ],
-            "nextId": [
-                30103
-            ],
-            "position": "450,0",
-            "name": "AF-1-2",
-            "icon": "icon_stagetest",
-            "code": "AF-1-2",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30103,
-            "chapter": 93001,
-            "stageGroup": 93001,
-            "stageId": 30103,
-            "preId": [
-                30102
-            ],
-            "nextId": [
-                30104
-            ],
-            "position": "900,0",
-            "name": "AF-1-3",
-            "icon": "icon_stagetest",
-            "code": "AF-1-3",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30104,
-            "chapter": 93001,
-            "stageGroup": 93001,
-            "stageId": 30104,
-            "preId": [
-                30103
-            ],
-            "nextId": [
-                30105
-            ],
-            "position": "1350,0",
-            "name": "AF-1-4",
-            "icon": "icon_stagetest",
-            "code": "AF-1-4",
-            "type": 1,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 30105,
-            "chapter": 93001,
-            "stageGroup": 93001,
-            "stageId": 30105,
-            "preId": [
-                30104
-            ],
-            "position": "1800,0",
-            "name": "AF-1-5",
-            "icon": "icon_stagetest",
-            "code": "AF-1-5",
-            "type": 1,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
             "id": 101,
             "chapter": 1,
             "stageGroup": 1,
@@ -2482,6 +215,29 @@
             "code": "1-7",
             "type": 1,
             "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 110,
+            "chapter": 1,
+            "stageGroup": 1,
+            "stageId": 10110,
+            "preId": [
+                109
+            ],
+            "position": "4050,0",
+            "name": "1-8",
+            "icon": "icon_stagetest",
+            "code": "1-8",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
             "unlockLevel": 0,
             "camp": 0,
             "cover": "",
@@ -2756,454 +512,6 @@
             "extraBonus": ""
         },
         {
-            "id": 401,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10401,
-            "nextId": [
-                481
-            ],
-            "position": "0,0",
-            "name": "4-1",
-            "icon": "icon_stagetest",
-            "code": "4-1",
-            "type": 1,
-            "unlockLevel": 17,
-            "preId": [],
-            "camp": 0,
-            "cover": "",
-            "startPoint": 0,
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 402,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10402,
-            "preId": [
-                481
-            ],
-            "nextId": [
-                403
-            ],
-            "position": "900,0",
-            "name": "4-2",
-            "icon": "icon_stagetest",
-            "code": "4-2",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 403,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10403,
-            "preId": [
-                402
-            ],
-            "nextId": [
-                404
-            ],
-            "position": "1350,0",
-            "name": "4-3",
-            "icon": "icon_stagetest",
-            "code": "4-3",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 404,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10404,
-            "preId": [
-                403
-            ],
-            "nextId": [
-                482
-            ],
-            "position": "1800,0",
-            "name": "4-4",
-            "icon": "icon_stagetest",
-            "code": "4-4",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 405,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10405,
-            "preId": [
-                482
-            ],
-            "nextId": [
-                406
-            ],
-            "position": "2700,0",
-            "name": "4-5",
-            "icon": "icon_stagetest",
-            "code": "4-5",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 406,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10406,
-            "preId": [
-                405
-            ],
-            "nextId": [
-                483
-            ],
-            "position": "3150,0",
-            "name": "4-6",
-            "icon": "icon_stagetest",
-            "code": "4-6",
-            "type": 1,
-            "unlockLevel": 22,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 407,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10407,
-            "preId": [
-                483
-            ],
-            "nextId": [
-                408
-            ],
-            "position": "4050,0",
-            "name": "4-7",
-            "icon": "icon_stagetest",
-            "code": "4-7",
-            "type": 1,
-            "unlockLevel": 22,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 408,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10408,
-            "preId": [
-                407
-            ],
-            "nextId": [
-                484
-            ],
-            "position": "4500,0",
-            "name": "4-8",
-            "icon": "icon_stagetest",
-            "code": "4-8",
-            "type": 1,
-            "unlockLevel": 22,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 409,
-            "chapter": 4,
-            "stageGroup": 4,
-            "stageId": 10409,
-            "preId": [
-                484
-            ],
-            "nextId": [
-                410
-            ],
-            "position": "5400,0",
-            "name": "4-9",
-            "icon": "icon_stagetest",
-            "code": "4-9",
-            "type": 1,
-            "unlockLevel": 22,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 501,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10501,
-            "preId": [
-                581
-            ],
-            "nextId": [
-                502
-            ],
-            "position": "450,0",
-            "name": "5-1",
-            "icon": "icon_stagetest",
-            "code": "5-1",
-            "type": 1,
-            "unlockLevel": 25,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 502,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10502,
-            "preId": [
-                501
-            ],
-            "nextId": [
-                503
-            ],
-            "position": "900,0",
-            "name": "5-2",
-            "icon": "icon_stagetest",
-            "code": "5-2",
-            "type": 1,
-            "unlockLevel": 25,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 503,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10503,
-            "preId": [
-                502
-            ],
-            "nextId": [
-                504
-            ],
-            "position": "1350,0",
-            "name": "5-3",
-            "icon": "icon_stagetest",
-            "code": "5-3",
-            "type": 1,
-            "unlockLevel": 25,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 504,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10504,
-            "preId": [
-                503
-            ],
-            "nextId": [
-                582
-            ],
-            "position": "1800,0",
-            "name": "5-4",
-            "icon": "icon_stagetest",
-            "code": "5-4",
-            "type": 1,
-            "unlockLevel": 25,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 505,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10505,
-            "preId": [
-                582
-            ],
-            "nextId": [
-                583
-            ],
-            "position": "2700,0",
-            "name": "5-5",
-            "icon": "icon_stagetest",
-            "code": "5-5",
-            "type": 1,
-            "unlockLevel": 27,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 506,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10506,
-            "preId": [
-                583
-            ],
-            "nextId": [
-                507
-            ],
-            "position": "3600,0",
-            "name": "5-6",
-            "icon": "icon_stagetest",
-            "code": "5-6",
-            "type": 1,
-            "unlockLevel": 27,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 507,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10507,
-            "preId": [
-                506
-            ],
-            "nextId": [
-                508
-            ],
-            "position": "4050,0",
-            "name": "5-7",
-            "icon": "icon_stagetest",
-            "code": "5-7",
-            "type": 1,
-            "unlockLevel": 27,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 508,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10508,
-            "preId": [
-                507
-            ],
-            "nextId": [
-                509
-            ],
-            "position": "4500,0",
-            "name": "5-8",
-            "icon": "icon_stagetest",
-            "code": "5-8",
-            "type": 1,
-            "unlockLevel": 27,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 509,
-            "chapter": 5,
-            "stageGroup": 5,
-            "stageId": 10509,
-            "preId": [
-                508
-            ],
-            "nextId": [
-                584
-            ],
-            "position": "4950,0",
-            "name": "5-9",
-            "icon": "icon_stagetest",
-            "code": "5-9",
-            "type": 1,
-            "unlockLevel": 27,
-            "startPoint": 2,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
             "id": 183,
             "chapter": 1,
             "stageGroup": 1,
@@ -3246,340 +554,6 @@
             "type": 2,
             "startPoint": 2,
             "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 241,
-            "chapter": 2,
-            "stageGroup": 2,
-            "stageId": 10241,
-            "preId": [
-                203
-            ],
-            "nextId": [
-                242
-            ],
-            "position": "2025,-150",
-            "name": "BH-2-1",
-            "icon": "icon_stagetest",
-            "code": "BH-2-1",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 242,
-            "chapter": 2,
-            "stageGroup": 2,
-            "stageId": 10242,
-            "preId": [
-                241
-            ],
-            "position": "2475,-150",
-            "name": "BH-2-2",
-            "icon": "icon_stagetest",
-            "code": "BH-2-2",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 243,
-            "chapter": 2,
-            "stageGroup": 2,
-            "stageId": 10243,
-            "preId": [
-                206
-            ],
-            "nextId": [
-                244
-            ],
-            "position": "3825,-150",
-            "name": "BH-2-3",
-            "icon": "icon_stagetest",
-            "code": "BH-2-3",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 244,
-            "chapter": 2,
-            "stageGroup": 2,
-            "stageId": 10244,
-            "preId": [
-                243
-            ],
-            "position": "4275,-150",
-            "name": "BH-2-4",
-            "icon": "icon_stagetest",
-            "code": "BH-2-4",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 245,
-            "chapter": 2,
-            "stageGroup": 2,
-            "stageId": 10245,
-            "preId": [
-                283
-            ],
-            "nextId": [
-                246
-            ],
-            "position": "5175,150",
-            "name": "BH-2-5",
-            "icon": "icon_stagetest",
-            "code": "BH-2-5",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 246,
-            "chapter": 2,
-            "stageGroup": 2,
-            "stageId": 10246,
-            "preId": [
-                245
-            ],
-            "position": "5625,150",
-            "name": "BH-2-6",
-            "icon": "icon_stagetest",
-            "code": "BH-2-6",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 310,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10310,
-            "preId": [
-                309
-            ],
-            "position": "6300,0",
-            "name": "3-10",
-            "icon": "icon_stagetest",
-            "code": "3-10",
-            "type": 1,
-            "unlockLevel": 17,
-            "startPoint": 2,
-            "nextId": [],
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 341,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10341,
-            "preId": [
-                303
-            ],
-            "nextId": [
-                342
-            ],
-            "position": "2475,-150",
-            "name": "BH-3-1",
-            "icon": "icon_stagetest",
-            "code": "BH-3-1",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 342,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10342,
-            "preId": [
-                341
-            ],
-            "position": "2925,-150",
-            "name": "BH-3-2",
-            "icon": "icon_stagetest",
-            "code": "BH-3-2",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 343,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10343,
-            "preId": [
-                383
-            ],
-            "nextId": [
-                344
-            ],
-            "position": "3375,150",
-            "name": "BH-3-3",
-            "icon": "icon_stagetest",
-            "code": "BH-3-3",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 344,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10344,
-            "preId": [
-                343
-            ],
-            "position": "3825,150",
-            "name": "BH-3-4",
-            "icon": "icon_stagetest",
-            "code": "BH-3-4",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 345,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10345,
-            "preId": [
-                384
-            ],
-            "nextId": [
-                346
-            ],
-            "position": "5175,-150",
-            "name": "BH-3-5",
-            "icon": "icon_stagetest",
-            "code": "BH-3-5",
-            "type": 11,
-            "startPoint": 2,
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 346,
-            "chapter": 3,
-            "stageGroup": 3,
-            "stageId": 10346,
-            "preId": [
-                345
-            ],
-            "position": "5625,-150",
-            "name": "BH-3-6",
-            "icon": "icon_stagetest",
-            "code": "BH-3-6",
-            "type": 11,
-            "startPoint": 2,
-            "nextId": [],
-            "unlockLevel": 0,
-            "camp": 0,
-            "cover": "",
-            "dailyTimes": 0,
-            "hidePoint": false,
-            "battleGroupId": 0,
-            "extraBonus": ""
-        },
-        {
-            "id": 610,
-            "chapter": 6,
-            "stageGroup": 6,
-            "stageId": 10610,
-            "preId": [
-                609
-            ],
-            "position": "6300,0",
-            "name": "6-10",
-            "icon": "icon_stagetest",
-            "code": "6-10",
-            "type": 1,
-            "unlockLevel": 31,
-            "startPoint": 2,
-            "nextId": [],
             "camp": 0,
             "cover": "",
             "dailyTimes": 0,
@@ -3811,6 +785,296 @@
             "extraBonus": ""
         },
         {
+            "id": 210,
+            "chapter": 2,
+            "stageGroup": 2,
+            "stageId": 10210,
+            "preId": [
+                284
+            ],
+            "nextId": [
+                285
+            ],
+            "position": "5850,0",
+            "name": "2-10",
+            "icon": "icon_stagetest",
+            "code": "2-10",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 241,
+            "chapter": 2,
+            "stageGroup": 2,
+            "stageId": 10241,
+            "preId": [
+                203
+            ],
+            "nextId": [
+                242
+            ],
+            "position": "2025,-150",
+            "name": "BH-2-1",
+            "icon": "icon_stagetest",
+            "code": "BH-2-1",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 242,
+            "chapter": 2,
+            "stageGroup": 2,
+            "stageId": 10242,
+            "preId": [
+                241
+            ],
+            "position": "2475,-150",
+            "name": "BH-2-2",
+            "icon": "icon_stagetest",
+            "code": "BH-2-2",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 243,
+            "chapter": 2,
+            "stageGroup": 2,
+            "stageId": 10243,
+            "preId": [
+                206
+            ],
+            "nextId": [
+                244
+            ],
+            "position": "3825,-150",
+            "name": "BH-2-3",
+            "icon": "icon_stagetest",
+            "code": "BH-2-3",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 244,
+            "chapter": 2,
+            "stageGroup": 2,
+            "stageId": 10244,
+            "preId": [
+                243
+            ],
+            "position": "4275,-150",
+            "name": "BH-2-4",
+            "icon": "icon_stagetest",
+            "code": "BH-2-4",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 245,
+            "chapter": 2,
+            "stageGroup": 2,
+            "stageId": 10245,
+            "preId": [
+                283
+            ],
+            "nextId": [
+                246
+            ],
+            "position": "5175,150",
+            "name": "BH-2-5",
+            "icon": "icon_stagetest",
+            "code": "BH-2-5",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 246,
+            "chapter": 2,
+            "stageGroup": 2,
+            "stageId": 10246,
+            "preId": [
+                245
+            ],
+            "position": "5625,150",
+            "name": "BH-2-6",
+            "icon": "icon_stagetest",
+            "code": "BH-2-6",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 261,
+            "chapter": 91002,
+            "stageGroup": 91002,
+            "stageId": 10261,
+            "nextId": [
+                262
+            ],
+            "position": "0,0",
+            "name": "DF-2-1",
+            "icon": "icon_stagetest",
+            "code": "DF-2-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 262,
+            "chapter": 91002,
+            "stageGroup": 91002,
+            "stageId": 10262,
+            "preId": [
+                261
+            ],
+            "nextId": [
+                263
+            ],
+            "position": "450,0",
+            "name": "DF-2-2",
+            "icon": "icon_stagetest",
+            "code": "DF-2-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 263,
+            "chapter": 91002,
+            "stageGroup": 91002,
+            "stageId": 10263,
+            "preId": [
+                262
+            ],
+            "nextId": [
+                264
+            ],
+            "position": "900,0",
+            "name": "DF-2-3",
+            "icon": "icon_stagetest",
+            "code": "DF-2-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 264,
+            "chapter": 91002,
+            "stageGroup": 91002,
+            "stageId": 10264,
+            "preId": [
+                263
+            ],
+            "nextId": [
+                265
+            ],
+            "position": "1350,0",
+            "name": "DF-2-4",
+            "icon": "icon_stagetest",
+            "code": "DF-2-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 265,
+            "chapter": 91002,
+            "stageGroup": 91002,
+            "stageId": 10265,
+            "preId": [
+                264
+            ],
+            "position": "1800,0",
+            "name": "DF-2-5",
+            "icon": "icon_stagetest",
+            "code": "DF-2-5",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
             "id": 281,
             "chapter": 2,
             "stageGroup": 2,
@@ -3923,6 +1187,519 @@
             "icon": "icon_stagetest",
             "code": "SL-2-5",
             "type": 2,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 301,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10301,
+            "preId": [
+                381
+            ],
+            "nextId": [
+                382
+            ],
+            "position": "450,0",
+            "name": "3-1",
+            "icon": "icon_stagetest",
+            "code": "3-1",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 302,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10302,
+            "preId": [
+                382
+            ],
+            "nextId": [
+                303
+            ],
+            "position": "1350,0",
+            "name": "3-2",
+            "icon": "icon_stagetest",
+            "code": "3-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 303,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10303,
+            "preId": [
+                302
+            ],
+            "nextId": [
+                304
+            ],
+            "position": "1800,0",
+            "name": "3-3",
+            "icon": "icon_stagetest",
+            "code": "3-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 304,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10304,
+            "preId": [
+                303
+            ],
+            "nextId": [
+                383
+            ],
+            "position": "2250,0",
+            "name": "3-4",
+            "icon": "icon_stagetest",
+            "code": "3-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 305,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10305,
+            "preId": [
+                383
+            ],
+            "nextId": [
+                306
+            ],
+            "position": "3150,0",
+            "name": "3-5",
+            "icon": "icon_stagetest",
+            "code": "3-5",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 306,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10306,
+            "preId": [
+                305
+            ],
+            "nextId": [
+                307
+            ],
+            "position": "3600,0",
+            "name": "3-6",
+            "icon": "icon_stagetest",
+            "code": "3-6",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 307,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10307,
+            "preId": [
+                306
+            ],
+            "nextId": [
+                384
+            ],
+            "position": "4050,0",
+            "name": "3-7",
+            "icon": "icon_stagetest",
+            "code": "3-7",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 308,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10308,
+            "preId": [
+                384
+            ],
+            "nextId": [
+                385
+            ],
+            "position": "4950,0",
+            "name": "3-8",
+            "icon": "icon_stagetest",
+            "code": "3-8",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 309,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10309,
+            "preId": [
+                385
+            ],
+            "nextId": [
+                310
+            ],
+            "position": "5850,0",
+            "name": "3-9",
+            "icon": "icon_stagetest",
+            "code": "3-9",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 310,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10310,
+            "preId": [
+                309
+            ],
+            "position": "6300,0",
+            "name": "3-10",
+            "icon": "icon_stagetest",
+            "code": "3-10",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "nextId": [],
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 341,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10341,
+            "preId": [
+                303
+            ],
+            "nextId": [
+                342
+            ],
+            "position": "2475,-150",
+            "name": "BH-3-1",
+            "icon": "icon_stagetest",
+            "code": "BH-3-1",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 342,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10342,
+            "preId": [
+                341
+            ],
+            "position": "2925,-150",
+            "name": "BH-3-2",
+            "icon": "icon_stagetest",
+            "code": "BH-3-2",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 343,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10343,
+            "preId": [
+                383
+            ],
+            "nextId": [
+                344
+            ],
+            "position": "3375,150",
+            "name": "BH-3-3",
+            "icon": "icon_stagetest",
+            "code": "BH-3-3",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 344,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10344,
+            "preId": [
+                343
+            ],
+            "position": "3825,150",
+            "name": "BH-3-4",
+            "icon": "icon_stagetest",
+            "code": "BH-3-4",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 345,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10345,
+            "preId": [
+                384
+            ],
+            "nextId": [
+                346
+            ],
+            "position": "5175,-150",
+            "name": "BH-3-5",
+            "icon": "icon_stagetest",
+            "code": "BH-3-5",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 346,
+            "chapter": 3,
+            "stageGroup": 3,
+            "stageId": 10346,
+            "preId": [
+                345
+            ],
+            "position": "5625,-150",
+            "name": "BH-3-6",
+            "icon": "icon_stagetest",
+            "code": "BH-3-6",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 361,
+            "chapter": 91003,
+            "stageGroup": 91003,
+            "stageId": 10361,
+            "nextId": [
+                362
+            ],
+            "position": "0,0",
+            "name": "DF-3-1",
+            "icon": "icon_stagetest",
+            "code": "DF-3-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 362,
+            "chapter": 91003,
+            "stageGroup": 91003,
+            "stageId": 10362,
+            "preId": [
+                361
+            ],
+            "nextId": [
+                363
+            ],
+            "position": "450,0",
+            "name": "DF-3-2",
+            "icon": "icon_stagetest",
+            "code": "DF-3-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 363,
+            "chapter": 91003,
+            "stageGroup": 91003,
+            "stageId": 10363,
+            "preId": [
+                362
+            ],
+            "nextId": [
+                364
+            ],
+            "position": "900,0",
+            "name": "DF-3-3",
+            "icon": "icon_stagetest",
+            "code": "DF-3-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 364,
+            "chapter": 91003,
+            "stageGroup": 91003,
+            "stageId": 10364,
+            "preId": [
+                363
+            ],
+            "nextId": [
+                365
+            ],
+            "position": "1350,0",
+            "name": "DF-3-4",
+            "icon": "icon_stagetest",
+            "code": "DF-3-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 365,
+            "chapter": 91003,
+            "stageGroup": 91003,
+            "stageId": 10365,
+            "preId": [
+                364
+            ],
+            "position": "1800,0",
+            "name": "DF-3-5",
+            "icon": "icon_stagetest",
+            "code": "DF-3-5",
+            "type": 1,
             "startPoint": 2,
             "nextId": [],
             "unlockLevel": 0,
@@ -4048,6 +1825,519 @@
             "code": "SL-3-5",
             "type": 2,
             "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 401,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10401,
+            "nextId": [
+                481
+            ],
+            "position": "0,0",
+            "name": "4-1",
+            "icon": "icon_stagetest",
+            "code": "4-1",
+            "type": 1,
+            "unlockLevel": 17,
+            "preId": [],
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 402,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10402,
+            "preId": [
+                481
+            ],
+            "nextId": [
+                403
+            ],
+            "position": "900,0",
+            "name": "4-2",
+            "icon": "icon_stagetest",
+            "code": "4-2",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 403,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10403,
+            "preId": [
+                402
+            ],
+            "nextId": [
+                404
+            ],
+            "position": "1350,0",
+            "name": "4-3",
+            "icon": "icon_stagetest",
+            "code": "4-3",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 404,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10404,
+            "preId": [
+                403
+            ],
+            "nextId": [
+                482
+            ],
+            "position": "1800,0",
+            "name": "4-4",
+            "icon": "icon_stagetest",
+            "code": "4-4",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 405,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10405,
+            "preId": [
+                482
+            ],
+            "nextId": [
+                406
+            ],
+            "position": "2700,0",
+            "name": "4-5",
+            "icon": "icon_stagetest",
+            "code": "4-5",
+            "type": 1,
+            "unlockLevel": 17,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 406,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10406,
+            "preId": [
+                405
+            ],
+            "nextId": [
+                483
+            ],
+            "position": "3150,0",
+            "name": "4-6",
+            "icon": "icon_stagetest",
+            "code": "4-6",
+            "type": 1,
+            "unlockLevel": 22,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 407,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10407,
+            "preId": [
+                483
+            ],
+            "nextId": [
+                408
+            ],
+            "position": "4050,0",
+            "name": "4-7",
+            "icon": "icon_stagetest",
+            "code": "4-7",
+            "type": 1,
+            "unlockLevel": 22,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 408,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10408,
+            "preId": [
+                407
+            ],
+            "nextId": [
+                484
+            ],
+            "position": "4500,0",
+            "name": "4-8",
+            "icon": "icon_stagetest",
+            "code": "4-8",
+            "type": 1,
+            "unlockLevel": 22,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 409,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10409,
+            "preId": [
+                484
+            ],
+            "nextId": [
+                410
+            ],
+            "position": "5400,0",
+            "name": "4-9",
+            "icon": "icon_stagetest",
+            "code": "4-9",
+            "type": 1,
+            "unlockLevel": 22,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 410,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10410,
+            "preId": [
+                409
+            ],
+            "nextId": [
+                485
+            ],
+            "position": "5850,0",
+            "name": "4-10",
+            "icon": "icon_stagetest",
+            "code": "4-10",
+            "type": 1,
+            "unlockLevel": 22,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 441,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10441,
+            "preId": [
+                401
+            ],
+            "nextId": [
+                442
+            ],
+            "position": "675,-150",
+            "name": "BH-4-1",
+            "icon": "icon_stagetest",
+            "code": "BH-4-1",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 442,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10442,
+            "preId": [
+                441
+            ],
+            "position": "1125,-150",
+            "name": "BH-4-2",
+            "icon": "icon_stagetest",
+            "code": "BH-4-2",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 443,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10443,
+            "preId": [
+                405
+            ],
+            "nextId": [
+                444
+            ],
+            "position": "3375,150",
+            "name": "BH-4-3",
+            "icon": "icon_stagetest",
+            "code": "BH-4-3",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 444,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10444,
+            "preId": [
+                443
+            ],
+            "position": "3825,150",
+            "name": "BH-4-4",
+            "icon": "icon_stagetest",
+            "code": "BH-4-4",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 445,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10445,
+            "preId": [
+                407
+            ],
+            "nextId": [
+                446
+            ],
+            "position": "4725,-150",
+            "name": "BH-4-5",
+            "icon": "icon_stagetest",
+            "code": "BH-4-5",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 446,
+            "chapter": 4,
+            "stageGroup": 4,
+            "stageId": 10446,
+            "preId": [
+                445
+            ],
+            "position": "5175,-150",
+            "name": "BH-4-6",
+            "icon": "icon_stagetest",
+            "code": "BH-4-6",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 461,
+            "chapter": 91004,
+            "stageGroup": 91004,
+            "stageId": 10461,
+            "nextId": [
+                462
+            ],
+            "position": "0,0",
+            "name": "DF-4-1",
+            "icon": "icon_stagetest",
+            "code": "DF-4-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 462,
+            "chapter": 91004,
+            "stageGroup": 91004,
+            "stageId": 10462,
+            "preId": [
+                461
+            ],
+            "nextId": [
+                463
+            ],
+            "position": "450,0",
+            "name": "DF-4-2",
+            "icon": "icon_stagetest",
+            "code": "DF-4-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 463,
+            "chapter": 91004,
+            "stageGroup": 91004,
+            "stageId": 10463,
+            "preId": [
+                462
+            ],
+            "nextId": [
+                464
+            ],
+            "position": "900,0",
+            "name": "DF-4-3",
+            "icon": "icon_stagetest",
+            "code": "DF-4-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 464,
+            "chapter": 91004,
+            "stageGroup": 91004,
+            "stageId": 10464,
+            "preId": [
+                463
+            ],
+            "nextId": [
+                465
+            ],
+            "position": "1350,0",
+            "name": "DF-4-4",
+            "icon": "icon_stagetest",
+            "code": "DF-4-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 465,
+            "chapter": 91004,
+            "stageGroup": 91004,
+            "stageId": 10465,
+            "preId": [
+                464
+            ],
+            "position": "1800,0",
+            "name": "DF-4-5",
+            "icon": "icon_stagetest",
+            "code": "DF-4-5",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
             "unlockLevel": 0,
             "camp": 0,
             "cover": "",
@@ -4205,6 +2495,231 @@
             "extraBonus": ""
         },
         {
+            "id": 501,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10501,
+            "preId": [
+                581
+            ],
+            "nextId": [
+                502
+            ],
+            "position": "450,0",
+            "name": "5-1",
+            "icon": "icon_stagetest",
+            "code": "5-1",
+            "type": 1,
+            "unlockLevel": 25,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 502,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10502,
+            "preId": [
+                501
+            ],
+            "nextId": [
+                503
+            ],
+            "position": "900,0",
+            "name": "5-2",
+            "icon": "icon_stagetest",
+            "code": "5-2",
+            "type": 1,
+            "unlockLevel": 25,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 503,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10503,
+            "preId": [
+                502
+            ],
+            "nextId": [
+                504
+            ],
+            "position": "1350,0",
+            "name": "5-3",
+            "icon": "icon_stagetest",
+            "code": "5-3",
+            "type": 1,
+            "unlockLevel": 25,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 504,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10504,
+            "preId": [
+                503
+            ],
+            "nextId": [
+                582
+            ],
+            "position": "1800,0",
+            "name": "5-4",
+            "icon": "icon_stagetest",
+            "code": "5-4",
+            "type": 1,
+            "unlockLevel": 25,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 505,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10505,
+            "preId": [
+                582
+            ],
+            "nextId": [
+                583
+            ],
+            "position": "2700,0",
+            "name": "5-5",
+            "icon": "icon_stagetest",
+            "code": "5-5",
+            "type": 1,
+            "unlockLevel": 25,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 506,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10506,
+            "preId": [
+                583
+            ],
+            "nextId": [
+                507
+            ],
+            "position": "3600,0",
+            "name": "5-6",
+            "icon": "icon_stagetest",
+            "code": "5-6",
+            "type": 1,
+            "unlockLevel": 27,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 507,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10507,
+            "preId": [
+                506
+            ],
+            "nextId": [
+                508
+            ],
+            "position": "4050,0",
+            "name": "5-7",
+            "icon": "icon_stagetest",
+            "code": "5-7",
+            "type": 1,
+            "unlockLevel": 27,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 508,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10508,
+            "preId": [
+                507
+            ],
+            "nextId": [
+                509
+            ],
+            "position": "4500,0",
+            "name": "5-8",
+            "icon": "icon_stagetest",
+            "code": "5-8",
+            "type": 1,
+            "unlockLevel": 27,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 509,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10509,
+            "preId": [
+                508
+            ],
+            "nextId": [
+                584
+            ],
+            "position": "4950,0",
+            "name": "5-9",
+            "icon": "icon_stagetest",
+            "code": "5-9",
+            "type": 1,
+            "unlockLevel": 27,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
             "id": 510,
             "chapter": 5,
             "stageGroup": 5,
@@ -4220,6 +2735,1712 @@
             "unlockLevel": 27,
             "startPoint": 2,
             "nextId": [],
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 541,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10541,
+            "preId": [
+                505
+            ],
+            "nextId": [
+                542
+            ],
+            "position": "3375,-150",
+            "name": "BH-5-1",
+            "icon": "icon_stagetest",
+            "code": "BH-5-1",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 542,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10542,
+            "preId": [
+                541
+            ],
+            "position": "3825,-150",
+            "name": "BH-5-2",
+            "icon": "icon_stagetest",
+            "code": "BH-5-2",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 543,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10543,
+            "preId": [
+                583
+            ],
+            "nextId": [
+                544
+            ],
+            "position": "3825,150",
+            "name": "BH-5-3",
+            "icon": "icon_stagetest",
+            "code": "BH-5-3",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 544,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10544,
+            "preId": [
+                543
+            ],
+            "position": "4275,150",
+            "name": "BH-5-4",
+            "icon": "icon_stagetest",
+            "code": "BH-5-4",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 545,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10545,
+            "preId": [
+                509
+            ],
+            "nextId": [
+                546
+            ],
+            "position": "5625,-150",
+            "name": "BH-5-5",
+            "icon": "icon_stagetest",
+            "code": "BH-5-5",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 546,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10546,
+            "preId": [
+                545
+            ],
+            "position": "6075,-150",
+            "name": "BH-5-6",
+            "icon": "icon_stagetest",
+            "code": "BH-5-6",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 561,
+            "chapter": 91005,
+            "stageGroup": 91005,
+            "stageId": 10561,
+            "nextId": [
+                562
+            ],
+            "position": "0,0",
+            "name": "DF-5-1",
+            "icon": "icon_stagetest",
+            "code": "DF-5-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 562,
+            "chapter": 91005,
+            "stageGroup": 91005,
+            "stageId": 10562,
+            "preId": [
+                561
+            ],
+            "nextId": [
+                563
+            ],
+            "position": "450,0",
+            "name": "DF-5-2",
+            "icon": "icon_stagetest",
+            "code": "DF-5-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 563,
+            "chapter": 91005,
+            "stageGroup": 91005,
+            "stageId": 10563,
+            "preId": [
+                562
+            ],
+            "nextId": [
+                564
+            ],
+            "position": "900,0",
+            "name": "DF-5-3",
+            "icon": "icon_stagetest",
+            "code": "DF-5-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 564,
+            "chapter": 91005,
+            "stageGroup": 91005,
+            "stageId": 10564,
+            "preId": [
+                563
+            ],
+            "nextId": [
+                565
+            ],
+            "position": "1350,0",
+            "name": "DF-5-4",
+            "icon": "icon_stagetest",
+            "code": "DF-5-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 565,
+            "chapter": 91005,
+            "stageGroup": 91005,
+            "stageId": 10565,
+            "preId": [
+                564
+            ],
+            "position": "1800,0",
+            "name": "DF-5-5",
+            "icon": "icon_stagetest",
+            "code": "DF-5-5",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 581,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10581,
+            "nextId": [
+                501
+            ],
+            "position": "0,0",
+            "name": "SL-5-1",
+            "icon": "icon_stagetest",
+            "code": "SL-5-1",
+            "type": 2,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 582,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10582,
+            "preId": [
+                504
+            ],
+            "nextId": [
+                505
+            ],
+            "position": "2250,0",
+            "name": "SL-5-2",
+            "icon": "icon_stagetest",
+            "code": "SL-5-2",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 583,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10583,
+            "preId": [
+                505
+            ],
+            "nextId": [
+                506
+            ],
+            "position": "3150,0",
+            "name": "SL-5-3",
+            "icon": "icon_stagetest",
+            "code": "SL-5-3",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 584,
+            "chapter": 5,
+            "stageGroup": 5,
+            "stageId": 10584,
+            "preId": [
+                509
+            ],
+            "nextId": [
+                510
+            ],
+            "position": "5400,0",
+            "name": "SL-5-4",
+            "icon": "icon_stagetest",
+            "code": "SL-5-4",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 601,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10601,
+            "nextId": [
+                681
+            ],
+            "position": "0,0",
+            "name": "6-1",
+            "icon": "icon_stagetest",
+            "code": "6-1",
+            "type": 1,
+            "unlockLevel": 29,
+            "preId": [],
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 602,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10602,
+            "preId": [
+                681
+            ],
+            "nextId": [
+                603
+            ],
+            "position": "900,0",
+            "name": "6-2",
+            "icon": "icon_stagetest",
+            "code": "6-2",
+            "type": 1,
+            "unlockLevel": 29,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 603,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10603,
+            "preId": [
+                602
+            ],
+            "nextId": [
+                604
+            ],
+            "position": "1350,0",
+            "name": "6-3",
+            "icon": "icon_stagetest",
+            "code": "6-3",
+            "type": 1,
+            "unlockLevel": 29,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 604,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10604,
+            "preId": [
+                603
+            ],
+            "nextId": [
+                682
+            ],
+            "position": "1800,0",
+            "name": "6-4",
+            "icon": "icon_stagetest",
+            "code": "6-4",
+            "type": 1,
+            "unlockLevel": 29,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 605,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10605,
+            "preId": [
+                682
+            ],
+            "nextId": [
+                606
+            ],
+            "position": "2700,0",
+            "name": "6-5",
+            "icon": "icon_stagetest",
+            "code": "6-5",
+            "type": 1,
+            "unlockLevel": 29,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 606,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10606,
+            "preId": [
+                605
+            ],
+            "nextId": [
+                683
+            ],
+            "position": "3150,0",
+            "name": "6-6",
+            "icon": "icon_stagetest",
+            "code": "6-6",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 607,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10607,
+            "preId": [
+                683
+            ],
+            "nextId": [
+                684
+            ],
+            "position": "4050,0",
+            "name": "6-7",
+            "icon": "icon_stagetest",
+            "code": "6-7",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 608,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10608,
+            "preId": [
+                684
+            ],
+            "nextId": [
+                685
+            ],
+            "position": "4950,0",
+            "name": "6-8",
+            "icon": "icon_stagetest",
+            "code": "6-8",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 609,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10609,
+            "preId": [
+                685
+            ],
+            "nextId": [
+                610
+            ],
+            "position": "5850,0",
+            "name": "6-9",
+            "icon": "icon_stagetest",
+            "code": "6-9",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 610,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10610,
+            "preId": [
+                609
+            ],
+            "position": "6300,0",
+            "name": "6-10",
+            "icon": "icon_stagetest",
+            "code": "6-10",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "nextId": [],
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 641,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10641,
+            "preId": [
+                603
+            ],
+            "nextId": [
+                642
+            ],
+            "position": "2025,-150",
+            "name": "BH-6-1",
+            "icon": "icon_stagetest",
+            "code": "BH-6-1",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 642,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10642,
+            "preId": [
+                641
+            ],
+            "position": "2475,-150",
+            "name": "BH-6-2",
+            "icon": "icon_stagetest",
+            "code": "BH-6-2",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 643,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10643,
+            "preId": [
+                606
+            ],
+            "nextId": [
+                644
+            ],
+            "position": "3825,150",
+            "name": "BH-6-3",
+            "icon": "icon_stagetest",
+            "code": "BH-6-3",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 644,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10644,
+            "preId": [
+                643
+            ],
+            "position": "4275,150",
+            "name": "BH-6-4",
+            "icon": "icon_stagetest",
+            "code": "BH-6-4",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 645,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10645,
+            "preId": [
+                608
+            ],
+            "nextId": [
+                646
+            ],
+            "position": "5625,-150",
+            "name": "BH-6-5",
+            "icon": "icon_stagetest",
+            "code": "BH-6-5",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 646,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10646,
+            "preId": [
+                645
+            ],
+            "position": "6075,-150",
+            "name": "BH-6-6",
+            "icon": "icon_stagetest",
+            "code": "BH-6-6",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 661,
+            "chapter": 91006,
+            "stageGroup": 91006,
+            "stageId": 10661,
+            "nextId": [
+                662
+            ],
+            "position": "0,0",
+            "name": "DF-6-1",
+            "icon": "icon_stagetest",
+            "code": "DF-6-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 662,
+            "chapter": 91006,
+            "stageGroup": 91006,
+            "stageId": 10662,
+            "preId": [
+                661
+            ],
+            "nextId": [
+                663
+            ],
+            "position": "450,0",
+            "name": "DF-6-2",
+            "icon": "icon_stagetest",
+            "code": "DF-6-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 663,
+            "chapter": 91006,
+            "stageGroup": 91006,
+            "stageId": 10663,
+            "preId": [
+                662
+            ],
+            "nextId": [
+                664
+            ],
+            "position": "900,0",
+            "name": "DF-6-3",
+            "icon": "icon_stagetest",
+            "code": "DF-6-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 664,
+            "chapter": 91006,
+            "stageGroup": 91006,
+            "stageId": 10664,
+            "preId": [
+                663
+            ],
+            "nextId": [
+                665
+            ],
+            "position": "1350,0",
+            "name": "DF-6-4",
+            "icon": "icon_stagetest",
+            "code": "DF-6-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 665,
+            "chapter": 91006,
+            "stageGroup": 91006,
+            "stageId": 10665,
+            "preId": [
+                664
+            ],
+            "position": "1800,0",
+            "name": "DF-6-5",
+            "icon": "icon_stagetest",
+            "code": "DF-6-5",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 681,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10681,
+            "preId": [
+                601
+            ],
+            "nextId": [
+                602
+            ],
+            "position": "450,0",
+            "name": "SL-6-1",
+            "icon": "icon_stagetest",
+            "code": "SL-6-1",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 682,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10682,
+            "preId": [
+                604
+            ],
+            "nextId": [
+                605
+            ],
+            "position": "2250,0",
+            "name": "SL-6-2",
+            "icon": "icon_stagetest",
+            "code": "SL-6-2",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 683,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10683,
+            "preId": [
+                606
+            ],
+            "nextId": [
+                607
+            ],
+            "position": "3600,0",
+            "name": "SL-6-3",
+            "icon": "icon_stagetest",
+            "code": "SL-6-3",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 684,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10684,
+            "preId": [
+                607
+            ],
+            "nextId": [
+                608
+            ],
+            "position": "4500,0",
+            "name": "SL-6-4",
+            "icon": "icon_stagetest",
+            "code": "SL-6-4",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 685,
+            "chapter": 6,
+            "stageGroup": 6,
+            "stageId": 10685,
+            "preId": [
+                608
+            ],
+            "nextId": [
+                609
+            ],
+            "position": "5400,0",
+            "name": "SL-6-5",
+            "icon": "icon_stagetest",
+            "code": "SL-6-5",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 701,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10701,
+            "nextId": [
+                702
+            ],
+            "position": "0,0",
+            "name": "7-1",
+            "icon": "icon_stagetest",
+            "code": "7-1",
+            "type": 1,
+            "unlockLevel": 31,
+            "preId": [],
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 702,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10702,
+            "preId": [
+                701
+            ],
+            "nextId": [
+                781
+            ],
+            "position": "450,0",
+            "name": "7-2",
+            "icon": "icon_stagetest",
+            "code": "7-2",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 703,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10703,
+            "preId": [
+                781
+            ],
+            "nextId": [
+                704
+            ],
+            "position": "1350,0",
+            "name": "7-3",
+            "icon": "icon_stagetest",
+            "code": "7-3",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 704,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10704,
+            "preId": [
+                703
+            ],
+            "nextId": [
+                705
+            ],
+            "position": "1800,0",
+            "name": "7-4",
+            "icon": "icon_stagetest",
+            "code": "7-4",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 705,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10705,
+            "preId": [
+                704
+            ],
+            "nextId": [
+                706
+            ],
+            "position": "2250,0",
+            "name": "7-5",
+            "icon": "icon_stagetest",
+            "code": "7-5",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 706,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10706,
+            "preId": [
+                705
+            ],
+            "nextId": [
+                782
+            ],
+            "position": "2700,0",
+            "name": "7-6",
+            "icon": "icon_stagetest",
+            "code": "7-6",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 707,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10707,
+            "preId": [
+                782
+            ],
+            "nextId": [
+                783
+            ],
+            "position": "3600,0",
+            "name": "7-7",
+            "icon": "icon_stagetest",
+            "code": "7-7",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 708,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10708,
+            "preId": [
+                783
+            ],
+            "nextId": [
+                709
+            ],
+            "position": "4500,0",
+            "name": "7-8",
+            "icon": "icon_stagetest",
+            "code": "7-8",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 709,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10709,
+            "preId": [
+                708
+            ],
+            "nextId": [
+                710
+            ],
+            "position": "4950,0",
+            "name": "7-9",
+            "icon": "icon_stagetest",
+            "code": "7-9",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 710,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10710,
+            "preId": [
+                709
+            ],
+            "position": "5400,0",
+            "name": "7-10",
+            "icon": "icon_stagetest",
+            "code": "7-10",
+            "type": 1,
+            "unlockLevel": 31,
+            "startPoint": 2,
+            "nextId": [],
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 741,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10741,
+            "preId": [
+                703
+            ],
+            "nextId": [
+                742
+            ],
+            "position": "2025,-150",
+            "name": "BH-7-1",
+            "icon": "icon_stagetest",
+            "code": "BH-7-1",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 742,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10742,
+            "preId": [
+                741
+            ],
+            "position": "2475,-150",
+            "name": "BH-7-2",
+            "icon": "icon_stagetest",
+            "code": "BH-7-2",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 743,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10743,
+            "preId": [
+                706
+            ],
+            "nextId": [
+                744
+            ],
+            "position": "3375,150",
+            "name": "BH-7-3",
+            "icon": "icon_stagetest",
+            "code": "BH-7-3",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 744,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10744,
+            "preId": [
+                743
+            ],
+            "position": "3825,150",
+            "name": "BH-7-4",
+            "icon": "icon_stagetest",
+            "code": "BH-7-4",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 745,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10745,
+            "preId": [
+                708
+            ],
+            "nextId": [
+                746
+            ],
+            "position": "5175,-150",
+            "name": "BH-7-5",
+            "icon": "icon_stagetest",
+            "code": "BH-7-5",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 746,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10746,
+            "preId": [
+                745
+            ],
+            "position": "5625,-150",
+            "name": "BH-7-6",
+            "icon": "icon_stagetest",
+            "code": "BH-7-6",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 761,
+            "chapter": 91007,
+            "stageGroup": 91007,
+            "stageId": 10761,
+            "nextId": [
+                762
+            ],
+            "position": "0,0",
+            "name": "DF-7-1",
+            "icon": "icon_stagetest",
+            "code": "DF-7-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 762,
+            "chapter": 91007,
+            "stageGroup": 91007,
+            "stageId": 10762,
+            "preId": [
+                761
+            ],
+            "nextId": [
+                763
+            ],
+            "position": "450,0",
+            "name": "DF-7-2",
+            "icon": "icon_stagetest",
+            "code": "DF-7-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 763,
+            "chapter": 91007,
+            "stageGroup": 91007,
+            "stageId": 10763,
+            "preId": [
+                762
+            ],
+            "nextId": [
+                764
+            ],
+            "position": "900,0",
+            "name": "DF-7-3",
+            "icon": "icon_stagetest",
+            "code": "DF-7-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 764,
+            "chapter": 91007,
+            "stageGroup": 91007,
+            "stageId": 10764,
+            "preId": [
+                763
+            ],
+            "nextId": [
+                765
+            ],
+            "position": "1350,0",
+            "name": "DF-7-4",
+            "icon": "icon_stagetest",
+            "code": "DF-7-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 765,
+            "chapter": 91007,
+            "stageGroup": 91007,
+            "stageId": 10765,
+            "preId": [
+                764
+            ],
+            "position": "1800,0",
+            "name": "DF-7-5",
+            "icon": "icon_stagetest",
+            "code": "DF-7-5",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 781,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10781,
+            "preId": [
+                702
+            ],
+            "nextId": [
+                703
+            ],
+            "position": "900,0",
+            "name": "SL-7-1",
+            "icon": "icon_stagetest",
+            "code": "SL-7-1",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 782,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10782,
+            "preId": [
+                706
+            ],
+            "nextId": [
+                707
+            ],
+            "position": "3150,0",
+            "name": "SL-7-2",
+            "icon": "icon_stagetest",
+            "code": "SL-7-2",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 783,
+            "chapter": 7,
+            "stageGroup": 7,
+            "stageId": 10783,
+            "preId": [
+                707
+            ],
+            "nextId": [
+                708
+            ],
+            "position": "4050,0",
+            "name": "SL-7-3",
+            "icon": "icon_stagetest",
+            "code": "SL-7-3",
+            "type": 2,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30101,
+            "chapter": 93001,
+            "stageGroup": 93001,
+            "stageId": 30101,
+            "nextId": [
+                30102
+            ],
+            "position": "0,0",
+            "name": "AF-1-1",
+            "icon": "icon_stagetest",
+            "code": "AF-1-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30102,
+            "chapter": 93001,
+            "stageGroup": 93001,
+            "stageId": 30102,
+            "preId": [
+                30101
+            ],
+            "nextId": [
+                30103
+            ],
+            "position": "450,0",
+            "name": "AF-1-2",
+            "icon": "icon_stagetest",
+            "code": "AF-1-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30103,
+            "chapter": 93001,
+            "stageGroup": 93001,
+            "stageId": 30103,
+            "preId": [
+                30102
+            ],
+            "nextId": [
+                30104
+            ],
+            "position": "900,0",
+            "name": "AF-1-3",
+            "icon": "icon_stagetest",
+            "code": "AF-1-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30104,
+            "chapter": 93001,
+            "stageGroup": 93001,
+            "stageId": 30104,
+            "preId": [
+                30103
+            ],
+            "nextId": [
+                30105
+            ],
+            "position": "1350,0",
+            "name": "AF-1-4",
+            "icon": "icon_stagetest",
+            "code": "AF-1-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30105,
+            "chapter": 93001,
+            "stageGroup": 93001,
+            "stageId": 30105,
+            "preId": [
+                30104
+            ],
+            "position": "1800,0",
+            "name": "AF-1-5",
+            "icon": "icon_stagetest",
+            "code": "AF-1-5",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
             "camp": 0,
             "cover": "",
             "dailyTimes": 0,
@@ -4349,6 +4570,371 @@
             "extraBonus": ""
         },
         {
+            "id": 30301,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30301,
+            "nextId": [
+                30302
+            ],
+            "position": "0,0",
+            "name": "AD-1-1",
+            "icon": "icon_stagetest",
+            "code": "AD-1-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30302,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30302,
+            "preId": [
+                30301
+            ],
+            "nextId": [
+                30303
+            ],
+            "position": "450,0",
+            "name": "AD-1-2",
+            "icon": "icon_stagetest",
+            "code": "AD-1-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30303,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30303,
+            "preId": [
+                30302
+            ],
+            "nextId": [
+                30304
+            ],
+            "position": "900,0",
+            "name": "AD-1-3",
+            "icon": "icon_stagetest",
+            "code": "AD-1-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30304,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30304,
+            "preId": [
+                30303
+            ],
+            "nextId": [
+                30381
+            ],
+            "position": "1350,0",
+            "name": "AD-1-4",
+            "icon": "icon_stagetest",
+            "code": "AD-1-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30305,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30305,
+            "preId": [
+                30381
+            ],
+            "nextId": [
+                30306
+            ],
+            "position": "2250,0",
+            "name": "AD-1-5",
+            "icon": "icon_stagetest",
+            "code": "AD-1-5",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30306,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30306,
+            "preId": [
+                30305
+            ],
+            "nextId": [
+                30382
+            ],
+            "position": "2700,0",
+            "name": "AD-1-6",
+            "icon": "icon_stagetest",
+            "code": "AD-1-6",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30307,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30307,
+            "preId": [
+                30382
+            ],
+            "nextId": [
+                30308
+            ],
+            "position": "3600,0",
+            "name": "AD-1-7",
+            "icon": "icon_stagetest",
+            "code": "AD-1-7",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30308,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30308,
+            "preId": [
+                30307
+            ],
+            "nextId": [
+                30309
+            ],
+            "position": "4050,0",
+            "name": "AD-1-8",
+            "icon": "icon_stagetest",
+            "code": "AD-1-8",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30309,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30309,
+            "preId": [
+                30308
+            ],
+            "position": "4500,0",
+            "name": "AD-1-9",
+            "icon": "icon_stagetest",
+            "code": "AD-1-9",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30341,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30311,
+            "preId": [
+                30303
+            ],
+            "nextId": [
+                30342
+            ],
+            "position": "1575,-150",
+            "name": "AS-1-1",
+            "icon": "icon_stagetest",
+            "code": "AS-1-1",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30342,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30312,
+            "preId": [
+                30341
+            ],
+            "position": "2025,-150",
+            "name": "AS-1-2",
+            "icon": "icon_stagetest",
+            "code": "AS-1-2",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30343,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30313,
+            "preId": [
+                30305
+            ],
+            "nextId": [
+                30344
+            ],
+            "position": "2925,-150",
+            "name": "AS-1-3",
+            "icon": "icon_stagetest",
+            "code": "AS-1-3",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30344,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30314,
+            "preId": [
+                30343
+            ],
+            "position": "3375,-150",
+            "name": "AS-1-4",
+            "icon": "icon_stagetest",
+            "code": "AS-1-4",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30345,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30315,
+            "preId": [
+                30307
+            ],
+            "nextId": [
+                30346
+            ],
+            "position": "4275,150",
+            "name": "AS-1-5",
+            "icon": "icon_stagetest",
+            "code": "AS-1-5",
+            "type": 11,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30346,
+            "chapter": 3001,
+            "stageGroup": 3001,
+            "stageId": 30316,
+            "preId": [
+                30345
+            ],
+            "position": "4725,150",
+            "name": "AS-1-6",
+            "icon": "icon_stagetest",
+            "code": "AS-1-6",
+            "type": 11,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
             "id": 30381,
             "chapter": 3001,
             "stageGroup": 3001,
@@ -4390,6 +4976,469 @@
             "code": "AM-1-2",
             "type": 2,
             "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30401,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30401,
+            "nextId": [
+                30402
+            ],
+            "position": "0,0",
+            "name": "CE-1-1",
+            "icon": "icon_stagetest",
+            "code": "CE-1-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30402,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30402,
+            "preId": [
+                30401
+            ],
+            "nextId": [
+                30403
+            ],
+            "position": "450,0",
+            "name": "CE-1-2",
+            "icon": "icon_stagetest",
+            "code": "CE-1-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30403,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30403,
+            "preId": [
+                30402
+            ],
+            "nextId": [
+                30404
+            ],
+            "position": "900,0",
+            "name": "CE-1-3",
+            "icon": "icon_stagetest",
+            "code": "CE-1-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30404,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30404,
+            "preId": [
+                30403
+            ],
+            "nextId": [
+                30405
+            ],
+            "position": "1350,0",
+            "name": "CE-1-4",
+            "icon": "icon_stagetest",
+            "code": "CE-1-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30405,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30405,
+            "preId": [
+                30404
+            ],
+            "nextId": [
+                30406
+            ],
+            "position": "1800,0",
+            "name": "CE-1-5",
+            "icon": "icon_stagetest",
+            "code": "CE-1-5",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30406,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30406,
+            "preId": [
+                30405
+            ],
+            "nextId": [
+                30407
+            ],
+            "position": "2250,0",
+            "name": "CE-1-6",
+            "icon": "icon_stagetest",
+            "code": "CE-1-6",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30407,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30407,
+            "preId": [
+                30406
+            ],
+            "nextId": [
+                30408
+            ],
+            "position": "2700,0",
+            "name": "CE-1-7",
+            "icon": "icon_stagetest",
+            "code": "CE-1-7",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30408,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30408,
+            "preId": [
+                30407
+            ],
+            "nextId": [
+                30409
+            ],
+            "position": "3150,0",
+            "name": "CE-1-8",
+            "icon": "icon_stagetest",
+            "code": "CE-1-8",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30409,
+            "chapter": 3002,
+            "stageGroup": 3002,
+            "stageId": 30409,
+            "preId": [
+                30408
+            ],
+            "position": "3600,0",
+            "name": "CE-1-9",
+            "icon": "icon_stagetest",
+            "code": "CE-1-9",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30461,
+            "chapter": 93002,
+            "stageGroup": 93002,
+            "stageId": 30461,
+            "nextId": [
+                30462
+            ],
+            "position": "0,0",
+            "name": "CF-1-1",
+            "icon": "icon_stagetest",
+            "code": "CF-1-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30462,
+            "chapter": 93002,
+            "stageGroup": 93002,
+            "stageId": 30462,
+            "preId": [
+                30461
+            ],
+            "nextId": [
+                30463
+            ],
+            "position": "450,0",
+            "name": "CF-1-2",
+            "icon": "icon_stagetest",
+            "code": "CF-1-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30463,
+            "chapter": 93002,
+            "stageGroup": 93002,
+            "stageId": 30463,
+            "preId": [
+                30462
+            ],
+            "nextId": [
+                30464
+            ],
+            "position": "900,0",
+            "name": "CF-1-3",
+            "icon": "icon_stagetest",
+            "code": "CF-1-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30464,
+            "chapter": 93002,
+            "stageGroup": 93002,
+            "stageId": 30464,
+            "preId": [
+                30463
+            ],
+            "nextId": [
+                30465
+            ],
+            "position": "1350,0",
+            "name": "CF-1-4",
+            "icon": "icon_stagetest",
+            "code": "CF-1-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30465,
+            "chapter": 93002,
+            "stageGroup": 93002,
+            "stageId": 30465,
+            "preId": [
+                30464
+            ],
+            "position": "1800,0",
+            "name": "CF-1-5",
+            "icon": "icon_stagetest",
+            "code": "CF-1-5",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30471,
+            "chapter": 994002,
+            "stageGroup": 994002,
+            "stageId": 30471,
+            "nextId": [
+                30472
+            ],
+            "position": "0,0",
+            "name": "CT-1-1",
+            "icon": "icon_stagetest",
+            "code": "CT-1-1",
+            "type": 1,
+            "preId": [],
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "startPoint": 0,
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30472,
+            "chapter": 994002,
+            "stageGroup": 994002,
+            "stageId": 30472,
+            "preId": [
+                30471
+            ],
+            "nextId": [
+                30473
+            ],
+            "position": "450,0",
+            "name": "CT-1-2",
+            "icon": "icon_stagetest",
+            "code": "CT-1-2",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30473,
+            "chapter": 994002,
+            "stageGroup": 994002,
+            "stageId": 30473,
+            "preId": [
+                30472
+            ],
+            "nextId": [
+                30474
+            ],
+            "position": "900,0",
+            "name": "CT-1-3",
+            "icon": "icon_stagetest",
+            "code": "CT-1-3",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30474,
+            "chapter": 994002,
+            "stageGroup": 994002,
+            "stageId": 30474,
+            "preId": [
+                30473
+            ],
+            "nextId": [
+                30475
+            ],
+            "position": "1350,0",
+            "name": "CT-1-4",
+            "icon": "icon_stagetest",
+            "code": "CT-1-4",
+            "type": 1,
+            "startPoint": 2,
+            "unlockLevel": 0,
+            "camp": 0,
+            "cover": "",
+            "dailyTimes": 0,
+            "hidePoint": false,
+            "battleGroupId": 0,
+            "extraBonus": ""
+        },
+        {
+            "id": 30475,
+            "chapter": 994002,
+            "stageGroup": 994002,
+            "stageId": 30475,
+            "preId": [
+                30474
+            ],
+            "position": "1800,0",
+            "name": "CT-1-5",
+            "icon": "icon_stagetest",
+            "code": "CT-1-5",
+            "type": 1,
+            "startPoint": 2,
+            "nextId": [],
             "unlockLevel": 0,
             "camp": 0,
             "cover": "",

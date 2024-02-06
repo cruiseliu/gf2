@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "eventName": "测试用事件1",
+            "eventIcon": "Icon_ActivityTour_Event_Random_M",
+            "eventDesc": "测试用事件描述1",
+            "eventType": 1,
+            "eventParam1": 110101,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 1002,
+            "eventName": "测试用事件2",
+            "eventIcon": "Icon_ActivityTour_Event_Random_M",
+            "eventDesc": "测试用事件描述1",
+            "eventType": 1,
+            "eventParam1": 110102,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 1003,
+            "eventName": "测试用事件3",
+            "eventIcon": "Icon_ActivityTour_Event_Random_M",
+            "eventDesc": "测试用事件描述1",
+            "eventType": 1,
+            "eventParam1": 110103,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 1004,
+            "eventName": "测试用事件4",
+            "eventIcon": "Icon_ActivityTour_Event_Random_M",
+            "eventDesc": "测试用事件描述1",
+            "eventType": 1,
+            "eventParam1": 110104,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 99011,
+            "eventName": "测试用商店事件",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "测试用商店事件",
+            "eventType": 2,
+            "eventParam1": 11011,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 99012,
+            "eventName": "测试用置换事件",
+            "eventIcon": "Icon_ActivityTour_Event_Replacement_M",
+            "eventDesc": "请选择想要置换的指令 {0}/{1}",
+            "eventType": 3,
+            "eventParam1": 2,
+            "eventParam2": 110104,
+            "spineExpression": ""
+        },
+        {
+            "id": 99013,
+            "eventName": "测试用指令升级",
+            "eventIcon": "Icon_ActivityTour_Event_LevelUp_M",
+            "eventDesc": "指令升级",
+            "eventType": 4,
+            "eventParam1": 3,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 99014,
+            "eventName": "测试用指令复制",
+            "eventIcon": "Icon_ActivityTour_Event_Copy_M",
+            "eventDesc": "请选择想要复制的指令 {0}/{1}",
+            "eventType": 5,
+            "eventParam1": 1,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 99015,
+            "eventName": "测试用货币波动",
+            "eventIcon": "Icon_ActivityTour_Event_CurrencyUp_M",
+            "eventDesc": "测试用货币波动",
+            "eventType": 6,
+            "eventParam1": 20,
+            "eventParam2": 0,
+            "spineExpression": ""
+        }
+    ]
+}

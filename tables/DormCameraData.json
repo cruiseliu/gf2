@@ -1,34 +1,6 @@
 {
     "data": [
         {
-            "id": 1211,
-            "position": "PlotCamera_211",
-            "cameratype": 2,
-            "coverpathpoint": [
-                3,
-                4,
-                6,
-                8
-            ],
-            "area": 2,
-            "transition": 1,
-            "rotationdegree": []
-        },
-        {
-            "id": 1212,
-            "position": "PlotCamera_212",
-            "cameratype": 2,
-            "coverpathpoint": [
-                1,
-                2,
-                5,
-                7
-            ],
-            "area": 2,
-            "transition": 0,
-            "rotationdegree": []
-        },
-        {
             "id": 101,
             "position": "FixCamera_101",
             "cameratype": 1,
@@ -174,6 +146,34 @@
                 106
             ],
             "area": 1,
+            "transition": 0,
+            "rotationdegree": []
+        },
+        {
+            "id": 1211,
+            "position": "PlotCamera_211",
+            "cameratype": 2,
+            "coverpathpoint": [
+                3,
+                4,
+                6,
+                8
+            ],
+            "area": 2,
+            "transition": 1,
+            "rotationdegree": []
+        },
+        {
+            "id": 1212,
+            "position": "PlotCamera_212",
+            "cameratype": 2,
+            "coverpathpoint": [
+                1,
+                2,
+                5,
+                7
+            ],
+            "area": 2,
             "transition": 0,
             "rotationdegree": []
         }

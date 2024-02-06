@@ -5,7 +5,7 @@
             "group": 101,
             "point": 16,
             "rewardItem": {
-                "25": 5000
+                "1": 10
             }
         },
         {
@@ -13,16 +13,39 @@
             "group": 101,
             "point": 48,
             "rewardItem": {
-                "8301": 5000
+                "1": 10
             }
         },
         {
             "id": 3,
             "group": 101,
-            "point": 64,
+            "point": 80,
             "rewardItem": {
-                "2": 5000,
-                "1": 100
+                "1": 10
+            }
+        },
+        {
+            "id": 4,
+            "group": 102,
+            "point": 16,
+            "rewardItem": {
+                "1": 15
+            }
+        },
+        {
+            "id": 5,
+            "group": 102,
+            "point": 48,
+            "rewardItem": {
+                "1": 15
+            }
+        },
+        {
+            "id": 6,
+            "group": 102,
+            "point": 80,
+            "rewardItem": {
+                "1": 20
             }
         }
     ]

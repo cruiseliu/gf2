@@ -21,66 +21,6 @@
             "modelConfigId": 1001
         },
         {
-            "id": 1101100,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "11R维普蕾的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1011,
-            "sequence": 0
-        },
-        {
-            "id": 1101101,
-            "type": 1,
-            "costumeType": 2,
-            "sequence": 1,
-            "icon": "Skin_0002",
-            "name": "9A-91的第一个皮肤",
-            "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1001
-        },
-        {
-            "id": 1101700,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "17SR闪电的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1017,
-            "sequence": 0
-        },
-        {
-            "id": 1101701,
-            "type": 1,
-            "costumeType": 2,
-            "sequence": 1,
-            "icon": "Skin_0002",
-            "name": "KLIN的第一个皮肤",
-            "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1001
-        },
-        {
-            "id": 1102400,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "24SR奇塔的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1024,
-            "sequence": 0
-        },
-        {
-            "id": 1103601,
-            "type": 1,
-            "costumeType": 2,
-            "sequence": 1,
-            "icon": "Skin_0002",
-            "name": "KLIN的第一个皮肤",
-            "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1036
-        },
-        {
             "id": 1100200,
             "type": 1,
             "costumeType": 1,
@@ -97,6 +37,26 @@
             "sequence": 1,
             "icon": "Skin_0002",
             "name": "PPSh-41的第一个皮肤",
+            "description": "这个是皮肤啦啦啦",
+            "modelConfigId": 1002
+        },
+        {
+            "id": 1100300,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "3R纳美西斯的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1003,
+            "sequence": 0
+        },
+        {
+            "id": 1100301,
+            "type": 1,
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": "PP-90的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
             "modelConfigId": 1002
         },
@@ -119,36 +79,6 @@
             "name": "春田的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
             "modelConfigId": 1001
-        },
-        {
-            "id": 1102801,
-            "type": 1,
-            "costumeType": 2,
-            "sequence": 1,
-            "icon": "Skin_0002",
-            "name": "KLIN的第一个皮肤",
-            "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1028
-        },
-        {
-            "id": 1102901,
-            "type": 1,
-            "costumeType": 2,
-            "sequence": 1,
-            "icon": "Skin_0002",
-            "name": "KLIN的第一个皮肤",
-            "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1029
-        },
-        {
-            "id": 1103000,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "2R寇尔芙的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1030,
-            "sequence": 0
         },
         {
             "id": 1100500,
@@ -191,42 +121,62 @@
             "modelConfigId": 1001
         },
         {
-            "id": 1101400,
+            "id": 1100700,
             "type": 1,
             "costumeType": 1,
             "icon": "Skin_0001",
-            "name": "14SSR佩里缇亚的制服",
+            "name": "7SSR闪电的制服",
             "description": "这个是默认的作战服！",
-            "modelConfigId": 1014,
+            "modelConfigId": 1007,
             "sequence": 0
         },
         {
-            "id": 1101401,
+            "id": 1100701,
             "type": 1,
             "costumeType": 2,
             "sequence": 1,
             "icon": "Skin_0002",
-            "name": "6P62的第一个皮肤",
+            "name": "56-1式的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
             "modelConfigId": 1001
         },
         {
-            "id": 1101600,
+            "id": 1100800,
             "type": 1,
             "costumeType": 1,
             "icon": "Skin_0001",
-            "name": "16R克罗丽科的制服",
+            "name": "8SR纳美西斯的制服",
             "description": "这个是默认的作战服！",
-            "modelConfigId": 1016,
+            "modelConfigId": 1008,
             "sequence": 0
         },
         {
-            "id": 1101601,
+            "id": 1100801,
             "type": 1,
             "costumeType": 2,
             "sequence": 1,
             "icon": "Skin_0002",
-            "name": "Saiga-12的第一个皮肤",
+            "name": "布伦的第一个皮肤",
+            "description": "这个是皮肤啦啦啦",
+            "modelConfigId": 1001
+        },
+        {
+            "id": 1100900,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "9SR蔻尔芙的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1009,
+            "sequence": 0
+        },
+        {
+            "id": 1100901,
+            "type": 1,
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": "MG5的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
             "modelConfigId": 1001
         },
@@ -251,52 +201,22 @@
             "modelConfigId": 1001
         },
         {
-            "id": 1102100,
+            "id": 1101100,
             "type": 1,
             "costumeType": 1,
             "icon": "Skin_0001",
-            "name": "21SR佩里缇亚的制服",
+            "name": "11R维普蕾的制服",
             "description": "这个是默认的作战服！",
-            "modelConfigId": 1021,
+            "modelConfigId": 1011,
             "sequence": 0
         },
         {
-            "id": 1102601,
+            "id": 1101101,
             "type": 1,
             "costumeType": 2,
             "sequence": 1,
             "icon": "Skin_0002",
-            "name": "KLIN的第一个皮肤",
-            "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1026
-        },
-        {
-            "id": 1103301,
-            "type": 1,
-            "costumeType": 2,
-            "sequence": 1,
-            "icon": "Skin_0002",
-            "name": "KLIN的第一个皮肤",
-            "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1033
-        },
-        {
-            "id": 1100800,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "8SR纳美西斯的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1008,
-            "sequence": 0
-        },
-        {
-            "id": 1100801,
-            "type": 1,
-            "costumeType": 2,
-            "sequence": 1,
-            "icon": "Skin_0002",
-            "name": "布伦的第一个皮肤",
+            "name": "9A-91的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
             "modelConfigId": 1001
         },
@@ -321,42 +241,42 @@
             "modelConfigId": 1001
         },
         {
-            "id": 1102300,
+            "id": 1101300,
             "type": 1,
             "costumeType": 1,
             "icon": "Skin_0001",
-            "name": "23SSR杜莎妮的制服",
+            "name": "13SSR莱娜的制服",
             "description": "这个是默认的作战服！",
-            "modelConfigId": 1023,
+            "modelConfigId": 1013,
             "sequence": 0
         },
         {
-            "id": 1103501,
+            "id": 1101301,
             "type": 1,
             "costumeType": 2,
             "sequence": 1,
             "icon": "Skin_0002",
-            "name": "KLIN的第一个皮肤",
+            "name": "M99的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1035
+            "modelConfigId": 1001
         },
         {
-            "id": 1100700,
+            "id": 1101400,
             "type": 1,
             "costumeType": 1,
             "icon": "Skin_0001",
-            "name": "7SSR闪电的制服",
+            "name": "14SSR佩里缇亚的制服",
             "description": "这个是默认的作战服！",
-            "modelConfigId": 1007,
+            "modelConfigId": 1014,
             "sequence": 0
         },
         {
-            "id": 1100701,
+            "id": 1101401,
             "type": 1,
             "costumeType": 2,
             "sequence": 1,
             "icon": "Skin_0002",
-            "name": "56-1式的第一个皮肤",
+            "name": "6P62的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
             "modelConfigId": 1001
         },
@@ -381,42 +301,42 @@
             "modelConfigId": 1001
         },
         {
-            "id": 1102200,
+            "id": 1101600,
             "type": 1,
             "costumeType": 1,
             "icon": "Skin_0001",
-            "name": "22SR夏克里的制服",
+            "name": "16R克罗丽科的制服",
             "description": "这个是默认的作战服！",
-            "modelConfigId": 1022,
+            "modelConfigId": 1016,
             "sequence": 0
         },
         {
-            "id": 1103201,
+            "id": 1101601,
+            "type": 1,
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": "Saiga-12的第一个皮肤",
+            "description": "这个是皮肤啦啦啦",
+            "modelConfigId": 1001
+        },
+        {
+            "id": 1101700,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "17SR闪电的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1017,
+            "sequence": 0
+        },
+        {
+            "id": 1101701,
             "type": 1,
             "costumeType": 2,
             "sequence": 1,
             "icon": "Skin_0002",
             "name": "KLIN的第一个皮肤",
-            "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1032
-        },
-        {
-            "id": 1100900,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "9SR蔻尔芙的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1009,
-            "sequence": 0
-        },
-        {
-            "id": 1100901,
-            "type": 1,
-            "costumeType": 2,
-            "sequence": 1,
-            "icon": "Skin_0002",
-            "name": "MG5的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
             "modelConfigId": 1001
         },
@@ -441,6 +361,76 @@
             "sequence": 0
         },
         {
+            "id": 1102000,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "20SR莱娜的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1020,
+            "sequence": 0
+        },
+        {
+            "id": 1102100,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "21SR佩里缇亚的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1021,
+            "sequence": 0
+        },
+        {
+            "id": 1102200,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "22SR夏克里的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1022,
+            "sequence": 0
+        },
+        {
+            "id": 1102300,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "23SSR杜莎妮的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1023,
+            "sequence": 0
+        },
+        {
+            "id": 1102400,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "24SR奇塔的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1024,
+            "sequence": 0
+        },
+        {
+            "id": 1102500,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "25SSR托洛洛的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1025,
+            "sequence": 0
+        },
+        {
+            "id": 1102601,
+            "type": 1,
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": "KLIN的第一个皮肤",
+            "description": "这个是皮肤啦啦啦",
+            "modelConfigId": 1026
+        },
+        {
             "id": 1102701,
             "type": 1,
             "costumeType": 2,
@@ -449,6 +439,36 @@
             "name": "KLIN的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
             "modelConfigId": 1027
+        },
+        {
+            "id": 1102801,
+            "type": 1,
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": "KLIN的第一个皮肤",
+            "description": "这个是皮肤啦啦啦",
+            "modelConfigId": 1028
+        },
+        {
+            "id": 1102901,
+            "type": 1,
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": "KLIN的第一个皮肤",
+            "description": "这个是皮肤啦啦啦",
+            "modelConfigId": 1029
+        },
+        {
+            "id": 1103000,
+            "type": 1,
+            "costumeType": 1,
+            "icon": "Skin_0001",
+            "name": "2R寇尔芙的制服",
+            "description": "这个是默认的作战服！",
+            "modelConfigId": 1030,
+            "sequence": 0
         },
         {
             "id": 1103100,
@@ -461,6 +481,26 @@
             "sequence": 0
         },
         {
+            "id": 1103201,
+            "type": 1,
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": "KLIN的第一个皮肤",
+            "description": "这个是皮肤啦啦啦",
+            "modelConfigId": 1032
+        },
+        {
+            "id": 1103301,
+            "type": 1,
+            "costumeType": 2,
+            "sequence": 1,
+            "icon": "Skin_0002",
+            "name": "KLIN的第一个皮肤",
+            "description": "这个是皮肤啦啦啦",
+            "modelConfigId": 1033
+        },
+        {
             "id": 1103401,
             "type": 1,
             "costumeType": 2,
@@ -471,64 +511,24 @@
             "modelConfigId": 1034
         },
         {
-            "id": 1100300,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "3R纳美西斯的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1003,
-            "sequence": 0
-        },
-        {
-            "id": 1100301,
+            "id": 1103501,
             "type": 1,
             "costumeType": 2,
             "sequence": 1,
             "icon": "Skin_0002",
-            "name": "PP-90的第一个皮肤",
+            "name": "KLIN的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1002
+            "modelConfigId": 1035
         },
         {
-            "id": 1101300,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "13SSR莱娜的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1013,
-            "sequence": 0
-        },
-        {
-            "id": 1101301,
+            "id": 1103601,
             "type": 1,
             "costumeType": 2,
             "sequence": 1,
             "icon": "Skin_0002",
-            "name": "M99的第一个皮肤",
+            "name": "KLIN的第一个皮肤",
             "description": "这个是皮肤啦啦啦",
-            "modelConfigId": 1001
-        },
-        {
-            "id": 1102000,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "20SR莱娜的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1020,
-            "sequence": 0
-        },
-        {
-            "id": 1102500,
-            "type": 1,
-            "costumeType": 1,
-            "icon": "Skin_0001",
-            "name": "25SSR托洛洛的制服",
-            "description": "这个是默认的作战服！",
-            "modelConfigId": 1025,
-            "sequence": 0
+            "modelConfigId": 1036
         }
     ]
 }

@@ -1,24 +1,16 @@
 {
     "data": [
         {
-            "propertyGroup": 300601,
-            "element": 6,
-            "id": 0,
-            "addLevel": 0,
-            "skillList": [],
-            "maxAp": 0
-        },
-        {
-            "id": 1,
-            "propertyGroup": 3212,
+            "id": 2,
+            "propertyGroup": 1003,
             "maxAp": 500,
             "element": 6,
             "addLevel": 0,
             "skillList": []
         },
         {
-            "id": 2,
-            "propertyGroup": 1003,
+            "id": 1,
+            "propertyGroup": 3212,
             "maxAp": 500,
             "element": 6,
             "addLevel": 0,
@@ -49,8 +41,16 @@
             "skillList": []
         },
         {
+            "propertyGroup": 301401,
+            "element": 6,
+            "id": 0,
+            "addLevel": 0,
+            "skillList": [],
+            "maxAp": 0
+        },
+        {
             "id": 6,
-            "propertyGroup": 300601,
+            "propertyGroup": 301401,
             "element": 6,
             "addLevel": 0,
             "skillList": [],

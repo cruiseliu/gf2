@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "id": 10001,
+            "riseTemp": [
+                0,
+                -1
+            ],
+            "declineTemp": [],
+            "maxHp": [],
+            "birthHp": [],
+            "recoverHp": [],
+            "battleLost": [],
+            "bleedNum": [],
+            "odBleedNum": []
+        },
+        {
+            "id": 10002,
+            "declineTemp": [
+                0,
+                10
+            ],
+            "riseTemp": [],
+            "maxHp": [],
+            "birthHp": [],
+            "recoverHp": [],
+            "battleLost": [],
+            "bleedNum": [],
+            "odBleedNum": []
+        },
+        {
+            "id": 10003,
+            "maxHp": [
+                0,
+                100
+            ],
+            "birthHp": [
+                0,
+                100
+            ],
+            "riseTemp": [],
+            "declineTemp": [],
+            "recoverHp": [],
+            "battleLost": [],
+            "bleedNum": [],
+            "odBleedNum": []
+        },
+        {
+            "id": 10004,
+            "maxHp": [
+                0,
+                200
+            ],
+            "birthHp": [
+                0,
+                200
+            ],
+            "riseTemp": [],
+            "declineTemp": [],
+            "recoverHp": [],
+            "battleLost": [],
+            "bleedNum": [],
+            "odBleedNum": []
+        },
+        {
+            "id": 10005,
+            "recoverHp": [
+                0,
+                1
+            ],
+            "riseTemp": [],
+            "declineTemp": [],
+            "maxHp": [],
+            "birthHp": [],
+            "battleLost": [],
+            "bleedNum": [],
+            "odBleedNum": []
+        },
+        {
+            "id": 10006,
+            "battleLost": [
+                0,
+                -50
+            ],
+            "riseTemp": [],
+            "declineTemp": [],
+            "maxHp": [],
+            "birthHp": [],
+            "recoverHp": [],
+            "bleedNum": [],
+            "odBleedNum": []
+        },
+        {
+            "id": 10007,
+            "bleedNum": [
+                1,
+                -100
+            ],
+            "odBleedNum": [
+                1,
+                -100
+            ],
+            "riseTemp": [],
+            "declineTemp": [],
+            "maxHp": [],
+            "birthHp": [],
+            "recoverHp": [],
+            "battleLost": []
+        },
+        {
+            "id": 10008,
+            "riseTemp": [
+                1,
+                -1000
+            ],
+            "declineTemp": [],
+            "maxHp": [],
+            "birthHp": [],
+            "recoverHp": [],
+            "battleLost": [],
+            "bleedNum": [],
+            "odBleedNum": []
+        }
+    ]
+}

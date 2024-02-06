@@ -2,7 +2,27 @@
     "data": [
         {
             "id": 60001,
-            "edType": 1
+            "edType": 1,
+            "image": "Img_Activity_SignIn_Bg_1",
+            "activityType": 1
+        },
+        {
+            "id": 60008,
+            "edType": 1,
+            "image": "Img_MultiSignInItem_Bg_1",
+            "activityType": 0
+        },
+        {
+            "id": 60013,
+            "image": "Img_MultiSignInItem_Bg_2",
+            "edType": 0,
+            "activityType": 0
+        },
+        {
+            "id": 60017,
+            "edType": 1,
+            "image": "Img_Activity_SignIn_Bg_2",
+            "activityType": 1
         }
     ]
 }

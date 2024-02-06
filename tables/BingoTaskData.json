@@ -1,0 +1,140 @@
+{
+    "data": [
+        {
+            "id": 1001,
+            "type": 1,
+            "name": "在补给作战中获胜1次",
+            "rewardItem": {
+                "190000": 1
+            },
+            "conditionClass": 209,
+            "conditionNum": 1,
+            "link": "7001",
+            "rewardItemSort": {
+                "190000": 1
+            }
+        },
+        {
+            "id": 1002,
+            "type": 1,
+            "name": "累计消耗情报拼图60个",
+            "rewardItem": {
+                "190000": 1
+            },
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "link": "1100",
+            "rewardItemSort": {
+                "190000": 1
+            }
+        },
+        {
+            "id": 1003,
+            "type": 1,
+            "name": "进入休息室1次",
+            "rewardItem": {
+                "190000": 1
+            },
+            "conditionClass": 750,
+            "conditionNum": 1,
+            "link": "3801",
+            "rewardItemSort": {
+                "190000": 1
+            }
+        },
+        {
+            "id": 1004,
+            "type": 1,
+            "name": "累计消耗宝藏线索1次",
+            "rewardItem": {
+                "190000": 1
+            },
+            "conditionClass": 2,
+            "conditionNum": 1,
+            "link": "3801",
+            "rewardItemSort": {
+                "190000": 1
+            }
+        },
+        {
+            "id": 1005,
+            "type": 3,
+            "name": "累计签到3次",
+            "rewardItem": {
+                "2": 2000,
+                "9008": 5,
+                "190000": 2,
+                "1": 20
+            },
+            "conditionClass": 400,
+            "conditionNum": 3,
+            "link": "3801",
+            "rewardItemSort": {
+                "1": 20,
+                "2": 2000,
+                "9008": 5,
+                "190000": 2
+            }
+        },
+        {
+            "id": 1006,
+            "type": 3,
+            "name": "累计签到6次",
+            "rewardItem": {
+                "2": 2000,
+                "9008": 5,
+                "190000": 2,
+                "1": 20
+            },
+            "conditionClass": 400,
+            "conditionNum": 6,
+            "link": "3801",
+            "rewardItemSort": {
+                "1": 20,
+                "2": 2000,
+                "9008": 5,
+                "190000": 2
+            }
+        },
+        {
+            "id": 1007,
+            "type": 3,
+            "name": "累计消耗情报拼图600个",
+            "rewardItem": {
+                "2": 2000,
+                "9008": 5,
+                "190000": 2,
+                "1": 20
+            },
+            "conditionClass": 2,
+            "conditionNum": 600,
+            "link": "1100",
+            "rewardItemSort": {
+                "1": 20,
+                "2": 2000,
+                "9008": 5,
+                "190000": 2
+            }
+        },
+        {
+            "id": 1008,
+            "type": 3,
+            "name": "累计消耗情报拼图1200个",
+            "rewardItem": {
+                "2": 2000,
+                "9008": 5,
+                "190000": 2,
+                "1": 20
+            },
+            "conditionClass": 2,
+            "conditionNum": 1200,
+            "link": "1100",
+            "rewardItemSort": {
+                "1": 20,
+                "2": 2000,
+                "9008": 5,
+                "190000": 2
+            }
+        }
+    ]
+}

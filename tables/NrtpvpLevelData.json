@@ -1,6 +1,828 @@
 {
     "data": [
         {
+            "id": 101,
+            "type": 1,
+            "levelId": 1,
+            "section": 1,
+            "name": "[新手]新锐·五",
+            "icon": 5,
+            "upperLimitPoints": 49,
+            "upgradeReward": {},
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 500
+            },
+            "weekReward": {
+                "3": 120
+            },
+            "lowerLimitPoints": 0
+        },
+        {
+            "id": 102,
+            "type": 1,
+            "levelId": 2,
+            "section": 1,
+            "name": "[新手]新锐·四",
+            "icon": 4,
+            "lowerLimitPoints": 50,
+            "upperLimitPoints": 99,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 2000
+            },
+            "weekReward": {
+                "3": 150
+            }
+        },
+        {
+            "id": 103,
+            "type": 1,
+            "levelId": 3,
+            "section": 1,
+            "name": "[新手]新锐·三",
+            "icon": 3,
+            "lowerLimitPoints": 100,
+            "upperLimitPoints": 149,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 2000
+            },
+            "weekReward": {
+                "3": 160
+            }
+        },
+        {
+            "id": 104,
+            "type": 1,
+            "levelId": 4,
+            "section": 1,
+            "name": "[新手]新锐·二",
+            "icon": 2,
+            "lowerLimitPoints": 150,
+            "upperLimitPoints": 199,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 2000
+            },
+            "weekReward": {
+                "3": 170
+            }
+        },
+        {
+            "id": 105,
+            "type": 1,
+            "levelId": 5,
+            "section": 1,
+            "name": "[新手]新锐·一",
+            "icon": 1,
+            "lowerLimitPoints": 200,
+            "upperLimitPoints": 249,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 2000
+            },
+            "weekReward": {
+                "3": 180
+            }
+        },
+        {
+            "id": 106,
+            "type": 1,
+            "levelId": 6,
+            "section": 2,
+            "name": "[新手]职业·五",
+            "icon": 5,
+            "lowerLimitPoints": 250,
+            "upperLimitPoints": 299,
+            "upgradeReward": {
+                "1": 100,
+                "2": 1000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 4000
+            },
+            "weekReward": {
+                "3": 210
+            }
+        },
+        {
+            "id": 107,
+            "type": 1,
+            "levelId": 7,
+            "section": 2,
+            "name": "[新手]职业·四",
+            "icon": 4,
+            "lowerLimitPoints": 300,
+            "upperLimitPoints": 349,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 4000
+            },
+            "weekReward": {
+                "3": 220
+            }
+        },
+        {
+            "id": 108,
+            "type": 1,
+            "levelId": 8,
+            "section": 2,
+            "name": "[新手]职业·三",
+            "icon": 3,
+            "lowerLimitPoints": 350,
+            "upperLimitPoints": 399,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 4000
+            },
+            "weekReward": {
+                "3": 230
+            }
+        },
+        {
+            "id": 109,
+            "type": 1,
+            "levelId": 9,
+            "section": 2,
+            "name": "[新手]职业·二",
+            "icon": 2,
+            "lowerLimitPoints": 400,
+            "upperLimitPoints": 449,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 4000
+            },
+            "weekReward": {
+                "3": 240
+            }
+        },
+        {
+            "id": 110,
+            "type": 1,
+            "levelId": 10,
+            "section": 2,
+            "name": "[新手]职业·一",
+            "icon": 1,
+            "lowerLimitPoints": 450,
+            "upperLimitPoints": 499,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500,
+                "8602": 1
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 4000
+            },
+            "weekReward": {
+                "3": 250
+            }
+        },
+        {
+            "id": 111,
+            "type": 1,
+            "levelId": 11,
+            "section": 3,
+            "name": "[新手]精英·五",
+            "icon": 5,
+            "lowerLimitPoints": 500,
+            "upperLimitPoints": 599,
+            "upgradeReward": {
+                "1": 100,
+                "2": 1000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 8000
+            },
+            "weekReward": {
+                "3": 300
+            }
+        },
+        {
+            "id": 112,
+            "type": 1,
+            "levelId": 12,
+            "section": 3,
+            "name": "[新手]精英·四",
+            "icon": 4,
+            "lowerLimitPoints": 600,
+            "upperLimitPoints": 699,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 8000
+            },
+            "weekReward": {
+                "3": 310
+            }
+        },
+        {
+            "id": 113,
+            "type": 1,
+            "levelId": 13,
+            "section": 3,
+            "name": "[新手]精英·三",
+            "icon": 3,
+            "lowerLimitPoints": 700,
+            "upperLimitPoints": 799,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 8000
+            },
+            "weekReward": {
+                "3": 320
+            }
+        },
+        {
+            "id": 114,
+            "type": 1,
+            "levelId": 14,
+            "section": 3,
+            "name": "[新手]精英·二",
+            "icon": 2,
+            "lowerLimitPoints": 800,
+            "upperLimitPoints": 899,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 8000
+            },
+            "weekReward": {
+                "3": 330
+            }
+        },
+        {
+            "id": 115,
+            "type": 1,
+            "levelId": 15,
+            "section": 3,
+            "name": "[新手]精英·一",
+            "icon": 1,
+            "lowerLimitPoints": 900,
+            "upperLimitPoints": 999,
+            "upgradeReward": {
+                "1": 50,
+                "2": 500,
+                "8602": 1
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 8000
+            },
+            "weekReward": {
+                "3": 340
+            }
+        },
+        {
+            "id": 116,
+            "type": 1,
+            "levelId": 16,
+            "section": 4,
+            "name": "[新手]精锐·五",
+            "icon": 5,
+            "lowerLimitPoints": 1000,
+            "upperLimitPoints": 1099,
+            "upgradeReward": {
+                "1": 100,
+                "2": 2000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 12000
+            },
+            "weekReward": {
+                "3": 400
+            }
+        },
+        {
+            "id": 117,
+            "type": 1,
+            "levelId": 17,
+            "section": 4,
+            "name": "[新手]精锐·四",
+            "icon": 4,
+            "lowerLimitPoints": 1100,
+            "upperLimitPoints": 1199,
+            "upgradeReward": {
+                "1": 50,
+                "2": 1000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 12000
+            },
+            "weekReward": {
+                "3": 420
+            }
+        },
+        {
+            "id": 118,
+            "type": 1,
+            "levelId": 18,
+            "section": 4,
+            "name": "[新手]精锐·三",
+            "icon": 3,
+            "lowerLimitPoints": 1200,
+            "upperLimitPoints": 1299,
+            "upgradeReward": {
+                "1": 50,
+                "2": 1000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 12000
+            },
+            "weekReward": {
+                "3": 440
+            }
+        },
+        {
+            "id": 119,
+            "type": 1,
+            "levelId": 19,
+            "section": 4,
+            "name": "[新手]精锐·二",
+            "icon": 2,
+            "lowerLimitPoints": 1300,
+            "upperLimitPoints": 1399,
+            "upgradeReward": {
+                "1": 50,
+                "2": 1000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 12000
+            },
+            "weekReward": {
+                "3": 460
+            }
+        },
+        {
+            "id": 120,
+            "type": 1,
+            "levelId": 20,
+            "section": 4,
+            "name": "[新手]精锐·一",
+            "icon": 1,
+            "lowerLimitPoints": 1400,
+            "upperLimitPoints": 1499,
+            "upgradeReward": {
+                "1": 50,
+                "2": 1000,
+                "8603": 1
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 12000
+            },
+            "weekReward": {
+                "3": 480
+            }
+        },
+        {
+            "id": 121,
+            "type": 1,
+            "levelId": 21,
+            "section": 5,
+            "name": "[新手]资深·五",
+            "icon": 5,
+            "lowerLimitPoints": 1500,
+            "upperLimitPoints": 1599,
+            "upgradeReward": {
+                "1": 100,
+                "2": 2000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 18000,
+                "12": 1
+            },
+            "weekReward": {
+                "3": 560
+            }
+        },
+        {
+            "id": 122,
+            "type": 1,
+            "levelId": 22,
+            "section": 5,
+            "name": "[新手]资深·四",
+            "icon": 4,
+            "lowerLimitPoints": 1600,
+            "upperLimitPoints": 1699,
+            "upgradeReward": {
+                "1": 50,
+                "2": 1000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 18000,
+                "12": 1
+            },
+            "weekReward": {
+                "3": 580
+            }
+        },
+        {
+            "id": 123,
+            "type": 1,
+            "levelId": 23,
+            "section": 5,
+            "name": "[新手]资深·三",
+            "icon": 3,
+            "lowerLimitPoints": 1700,
+            "upperLimitPoints": 1799,
+            "upgradeReward": {
+                "1": 50,
+                "2": 1000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 18000,
+                "12": 1
+            },
+            "weekReward": {
+                "3": 600
+            }
+        },
+        {
+            "id": 124,
+            "type": 1,
+            "levelId": 24,
+            "section": 5,
+            "name": "[新手]资深·二",
+            "icon": 2,
+            "lowerLimitPoints": 1800,
+            "upperLimitPoints": 1899,
+            "upgradeReward": {
+                "1": 50,
+                "2": 1000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 18000,
+                "12": 1
+            },
+            "weekReward": {
+                "3": 620
+            }
+        },
+        {
+            "id": 125,
+            "type": 1,
+            "levelId": 25,
+            "section": 5,
+            "name": "[新手]资深·一",
+            "icon": 1,
+            "lowerLimitPoints": 1900,
+            "upperLimitPoints": 1999,
+            "upgradeReward": {
+                "1": 50,
+                "2": 1000,
+                "8603": 1
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 18000,
+                "12": 1
+            },
+            "weekReward": {
+                "3": 640
+            }
+        },
+        {
+            "id": 126,
+            "type": 1,
+            "levelId": 26,
+            "section": 6,
+            "name": "[新手]专家·五",
+            "icon": 5,
+            "lowerLimitPoints": 2000,
+            "upperLimitPoints": 2099,
+            "upgradeReward": {
+                "1": 100,
+                "2": 4000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 24000,
+                "12": 2
+            },
+            "weekReward": {
+                "3": 740
+            }
+        },
+        {
+            "id": 127,
+            "type": 1,
+            "levelId": 27,
+            "section": 6,
+            "name": "[新手]专家·四",
+            "icon": 4,
+            "lowerLimitPoints": 2100,
+            "upperLimitPoints": 2199,
+            "upgradeReward": {
+                "1": 50,
+                "2": 2000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 24000,
+                "12": 2
+            },
+            "weekReward": {
+                "3": 760
+            }
+        },
+        {
+            "id": 128,
+            "type": 1,
+            "levelId": 28,
+            "section": 6,
+            "name": "[新手]专家·三",
+            "icon": 3,
+            "lowerLimitPoints": 2200,
+            "upperLimitPoints": 2299,
+            "upgradeReward": {
+                "1": 50,
+                "2": 2000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 24000,
+                "12": 2
+            },
+            "weekReward": {
+                "3": 780
+            }
+        },
+        {
+            "id": 129,
+            "type": 1,
+            "levelId": 29,
+            "section": 6,
+            "name": "[新手]专家·二",
+            "icon": 2,
+            "lowerLimitPoints": 2300,
+            "upperLimitPoints": 2399,
+            "upgradeReward": {
+                "1": 50,
+                "2": 2000
+            },
+            "atkWinReward": {
+                "3": 6,
+                "8060": 4
+            },
+            "atkLoseReward": {
+                "3": 1,
+                "8060": 2
+            },
+            "seasonReward": {
+                "2": 24000,
+                "12": 2
+            },
+            "weekReward": {
+                "3": 800
+            }
+        },
+        {
             "id": 130,
             "type": 1,
             "levelId": 30,
@@ -23,8 +845,8 @@
                 "8060": 2
             },
             "seasonReward": {
-                "12": 2,
-                "2": 24000
+                "2": 24000,
+                "12": 2
             },
             "weekReward": {
                 "3": 820
@@ -835,828 +1657,6 @@
             },
             "weekReward": {
                 "1": 300
-            }
-        },
-        {
-            "id": 101,
-            "type": 1,
-            "levelId": 1,
-            "section": 1,
-            "name": "[新手]新锐·五",
-            "icon": 5,
-            "upperLimitPoints": 49,
-            "upgradeReward": {},
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 500
-            },
-            "weekReward": {
-                "3": 120
-            },
-            "lowerLimitPoints": 0
-        },
-        {
-            "id": 102,
-            "type": 1,
-            "levelId": 2,
-            "section": 1,
-            "name": "[新手]新锐·四",
-            "icon": 4,
-            "lowerLimitPoints": 50,
-            "upperLimitPoints": 99,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 2000
-            },
-            "weekReward": {
-                "3": 150
-            }
-        },
-        {
-            "id": 103,
-            "type": 1,
-            "levelId": 3,
-            "section": 1,
-            "name": "[新手]新锐·三",
-            "icon": 3,
-            "lowerLimitPoints": 100,
-            "upperLimitPoints": 149,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 2000
-            },
-            "weekReward": {
-                "3": 160
-            }
-        },
-        {
-            "id": 104,
-            "type": 1,
-            "levelId": 4,
-            "section": 1,
-            "name": "[新手]新锐·二",
-            "icon": 2,
-            "lowerLimitPoints": 150,
-            "upperLimitPoints": 199,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 2000
-            },
-            "weekReward": {
-                "3": 170
-            }
-        },
-        {
-            "id": 105,
-            "type": 1,
-            "levelId": 5,
-            "section": 1,
-            "name": "[新手]新锐·一",
-            "icon": 1,
-            "lowerLimitPoints": 200,
-            "upperLimitPoints": 249,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 2000
-            },
-            "weekReward": {
-                "3": 180
-            }
-        },
-        {
-            "id": 106,
-            "type": 1,
-            "levelId": 6,
-            "section": 2,
-            "name": "[新手]职业·五",
-            "icon": 5,
-            "lowerLimitPoints": 250,
-            "upperLimitPoints": 299,
-            "upgradeReward": {
-                "1": 100,
-                "2": 1000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 4000
-            },
-            "weekReward": {
-                "3": 210
-            }
-        },
-        {
-            "id": 107,
-            "type": 1,
-            "levelId": 7,
-            "section": 2,
-            "name": "[新手]职业·四",
-            "icon": 4,
-            "lowerLimitPoints": 300,
-            "upperLimitPoints": 349,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 4000
-            },
-            "weekReward": {
-                "3": 220
-            }
-        },
-        {
-            "id": 108,
-            "type": 1,
-            "levelId": 8,
-            "section": 2,
-            "name": "[新手]职业·三",
-            "icon": 3,
-            "lowerLimitPoints": 350,
-            "upperLimitPoints": 399,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 4000
-            },
-            "weekReward": {
-                "3": 230
-            }
-        },
-        {
-            "id": 109,
-            "type": 1,
-            "levelId": 9,
-            "section": 2,
-            "name": "[新手]职业·二",
-            "icon": 2,
-            "lowerLimitPoints": 400,
-            "upperLimitPoints": 449,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 4000
-            },
-            "weekReward": {
-                "3": 240
-            }
-        },
-        {
-            "id": 110,
-            "type": 1,
-            "levelId": 10,
-            "section": 2,
-            "name": "[新手]职业·一",
-            "icon": 1,
-            "lowerLimitPoints": 450,
-            "upperLimitPoints": 499,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500,
-                "8602": 1
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 4000
-            },
-            "weekReward": {
-                "3": 250
-            }
-        },
-        {
-            "id": 111,
-            "type": 1,
-            "levelId": 11,
-            "section": 3,
-            "name": "[新手]精英·五",
-            "icon": 5,
-            "lowerLimitPoints": 500,
-            "upperLimitPoints": 599,
-            "upgradeReward": {
-                "1": 100,
-                "2": 1000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 8000
-            },
-            "weekReward": {
-                "3": 300
-            }
-        },
-        {
-            "id": 112,
-            "type": 1,
-            "levelId": 12,
-            "section": 3,
-            "name": "[新手]精英·四",
-            "icon": 4,
-            "lowerLimitPoints": 600,
-            "upperLimitPoints": 699,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 8000
-            },
-            "weekReward": {
-                "3": 310
-            }
-        },
-        {
-            "id": 113,
-            "type": 1,
-            "levelId": 13,
-            "section": 3,
-            "name": "[新手]精英·三",
-            "icon": 3,
-            "lowerLimitPoints": 700,
-            "upperLimitPoints": 799,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 8000
-            },
-            "weekReward": {
-                "3": 320
-            }
-        },
-        {
-            "id": 114,
-            "type": 1,
-            "levelId": 14,
-            "section": 3,
-            "name": "[新手]精英·二",
-            "icon": 2,
-            "lowerLimitPoints": 800,
-            "upperLimitPoints": 899,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 8000
-            },
-            "weekReward": {
-                "3": 330
-            }
-        },
-        {
-            "id": 115,
-            "type": 1,
-            "levelId": 15,
-            "section": 3,
-            "name": "[新手]精英·一",
-            "icon": 1,
-            "lowerLimitPoints": 900,
-            "upperLimitPoints": 999,
-            "upgradeReward": {
-                "1": 50,
-                "2": 500,
-                "8602": 1
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 8000
-            },
-            "weekReward": {
-                "3": 340
-            }
-        },
-        {
-            "id": 116,
-            "type": 1,
-            "levelId": 16,
-            "section": 4,
-            "name": "[新手]精锐·五",
-            "icon": 5,
-            "lowerLimitPoints": 1000,
-            "upperLimitPoints": 1099,
-            "upgradeReward": {
-                "1": 100,
-                "2": 2000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 12000
-            },
-            "weekReward": {
-                "3": 400
-            }
-        },
-        {
-            "id": 117,
-            "type": 1,
-            "levelId": 17,
-            "section": 4,
-            "name": "[新手]精锐·四",
-            "icon": 4,
-            "lowerLimitPoints": 1100,
-            "upperLimitPoints": 1199,
-            "upgradeReward": {
-                "1": 50,
-                "2": 1000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 12000
-            },
-            "weekReward": {
-                "3": 420
-            }
-        },
-        {
-            "id": 118,
-            "type": 1,
-            "levelId": 18,
-            "section": 4,
-            "name": "[新手]精锐·三",
-            "icon": 3,
-            "lowerLimitPoints": 1200,
-            "upperLimitPoints": 1299,
-            "upgradeReward": {
-                "1": 50,
-                "2": 1000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 12000
-            },
-            "weekReward": {
-                "3": 440
-            }
-        },
-        {
-            "id": 119,
-            "type": 1,
-            "levelId": 19,
-            "section": 4,
-            "name": "[新手]精锐·二",
-            "icon": 2,
-            "lowerLimitPoints": 1300,
-            "upperLimitPoints": 1399,
-            "upgradeReward": {
-                "1": 50,
-                "2": 1000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 12000
-            },
-            "weekReward": {
-                "3": 460
-            }
-        },
-        {
-            "id": 120,
-            "type": 1,
-            "levelId": 20,
-            "section": 4,
-            "name": "[新手]精锐·一",
-            "icon": 1,
-            "lowerLimitPoints": 1400,
-            "upperLimitPoints": 1499,
-            "upgradeReward": {
-                "1": 50,
-                "2": 1000,
-                "8603": 1
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "2": 12000
-            },
-            "weekReward": {
-                "3": 480
-            }
-        },
-        {
-            "id": 121,
-            "type": 1,
-            "levelId": 21,
-            "section": 5,
-            "name": "[新手]资深·五",
-            "icon": 5,
-            "lowerLimitPoints": 1500,
-            "upperLimitPoints": 1599,
-            "upgradeReward": {
-                "1": 100,
-                "2": 2000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 1,
-                "2": 18000
-            },
-            "weekReward": {
-                "3": 560
-            }
-        },
-        {
-            "id": 122,
-            "type": 1,
-            "levelId": 22,
-            "section": 5,
-            "name": "[新手]资深·四",
-            "icon": 4,
-            "lowerLimitPoints": 1600,
-            "upperLimitPoints": 1699,
-            "upgradeReward": {
-                "1": 50,
-                "2": 1000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 1,
-                "2": 18000
-            },
-            "weekReward": {
-                "3": 580
-            }
-        },
-        {
-            "id": 123,
-            "type": 1,
-            "levelId": 23,
-            "section": 5,
-            "name": "[新手]资深·三",
-            "icon": 3,
-            "lowerLimitPoints": 1700,
-            "upperLimitPoints": 1799,
-            "upgradeReward": {
-                "1": 50,
-                "2": 1000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 1,
-                "2": 18000
-            },
-            "weekReward": {
-                "3": 600
-            }
-        },
-        {
-            "id": 124,
-            "type": 1,
-            "levelId": 24,
-            "section": 5,
-            "name": "[新手]资深·二",
-            "icon": 2,
-            "lowerLimitPoints": 1800,
-            "upperLimitPoints": 1899,
-            "upgradeReward": {
-                "1": 50,
-                "2": 1000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 1,
-                "2": 18000
-            },
-            "weekReward": {
-                "3": 620
-            }
-        },
-        {
-            "id": 125,
-            "type": 1,
-            "levelId": 25,
-            "section": 5,
-            "name": "[新手]资深·一",
-            "icon": 1,
-            "lowerLimitPoints": 1900,
-            "upperLimitPoints": 1999,
-            "upgradeReward": {
-                "1": 50,
-                "2": 1000,
-                "8603": 1
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 1,
-                "2": 18000
-            },
-            "weekReward": {
-                "3": 640
-            }
-        },
-        {
-            "id": 126,
-            "type": 1,
-            "levelId": 26,
-            "section": 6,
-            "name": "[新手]专家·五",
-            "icon": 5,
-            "lowerLimitPoints": 2000,
-            "upperLimitPoints": 2099,
-            "upgradeReward": {
-                "1": 100,
-                "2": 4000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 2,
-                "2": 24000
-            },
-            "weekReward": {
-                "3": 740
-            }
-        },
-        {
-            "id": 127,
-            "type": 1,
-            "levelId": 27,
-            "section": 6,
-            "name": "[新手]专家·四",
-            "icon": 4,
-            "lowerLimitPoints": 2100,
-            "upperLimitPoints": 2199,
-            "upgradeReward": {
-                "1": 50,
-                "2": 2000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 2,
-                "2": 24000
-            },
-            "weekReward": {
-                "3": 760
-            }
-        },
-        {
-            "id": 128,
-            "type": 1,
-            "levelId": 28,
-            "section": 6,
-            "name": "[新手]专家·三",
-            "icon": 3,
-            "lowerLimitPoints": 2200,
-            "upperLimitPoints": 2299,
-            "upgradeReward": {
-                "1": 50,
-                "2": 2000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 2,
-                "2": 24000
-            },
-            "weekReward": {
-                "3": 780
-            }
-        },
-        {
-            "id": 129,
-            "type": 1,
-            "levelId": 29,
-            "section": 6,
-            "name": "[新手]专家·二",
-            "icon": 2,
-            "lowerLimitPoints": 2300,
-            "upperLimitPoints": 2399,
-            "upgradeReward": {
-                "1": 50,
-                "2": 2000
-            },
-            "atkWinReward": {
-                "3": 6,
-                "8060": 4
-            },
-            "atkLoseReward": {
-                "3": 1,
-                "8060": 2
-            },
-            "seasonReward": {
-                "12": 2,
-                "2": 24000
-            },
-            "weekReward": {
-                "3": 800
             }
         }
     ]

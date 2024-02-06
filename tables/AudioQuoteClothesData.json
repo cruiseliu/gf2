@@ -1,18 +1,6 @@
 {
     "data": [
         {
-            "Id": 103201,
-            "typeCode": 1,
-            "model": "DaiyanSSR0101",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 101,
-            "cuesheetUsed": [
-                "C_SSR01_Daiyan",
-                "Gun_AR"
-            ]
-        },
-        {
             "Id": 1001,
             "typeCode": 1,
             "model": "CharolicSR01",
@@ -161,7 +149,7 @@
             "shoesId": 3,
             "audioVoice": 103,
             "cuesheetUsed": [
-                "C_SSR01_Sharkry",
+                "C_SSR01_Centaureissi",
                 "Gun_AR"
             ]
         },
@@ -449,6 +437,19 @@
             "cuesheetUsed": []
         },
         {
+            "Id": 101501,
+            "typeCode": 1,
+            "model": "VepleySSR0101",
+            "clothId": 202,
+            "shoesId": 2,
+            "audioVoice": 107,
+            "cuesheetUsed": [
+                "C_SSR01_Vepley",
+                "Gun_SG",
+                "C_SR01_Groza"
+            ]
+        },
+        {
             "Id": 101701,
             "typeCode": 1,
             "model": "GrozaSR0101",
@@ -485,6 +486,18 @@
             ]
         },
         {
+            "Id": 101705,
+            "typeCode": 1,
+            "model": "GrozaSR0105",
+            "clothId": 204,
+            "shoesId": 2,
+            "audioVoice": 112,
+            "cuesheetUsed": [
+                "C_SR01_Groza",
+                "Gun_AR"
+            ]
+        },
+        {
             "Id": 102601,
             "typeCode": 1,
             "model": "NagantSR0101",
@@ -494,6 +507,30 @@
             "cuesheetUsed": [
                 "C_SR01_Nagant",
                 "Gun_HG"
+            ]
+        },
+        {
+            "Id": 103201,
+            "typeCode": 1,
+            "model": "DaiyanSSR0101",
+            "clothId": 202,
+            "shoesId": 3,
+            "audioVoice": 101,
+            "cuesheetUsed": [
+                "C_SSR01_Daiyan",
+                "Gun_AR"
+            ]
+        },
+        {
+            "Id": 103203,
+            "typeCode": 1,
+            "model": "DaiyanSSR0103",
+            "clothId": 204,
+            "shoesId": 2,
+            "audioVoice": 101,
+            "cuesheetUsed": [
+                "C_SSR01_Daiyan",
+                "Gun_AR"
             ]
         }
     ]

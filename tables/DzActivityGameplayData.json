@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "gameplayId": 11,
+            "dzMode": 9901,
+            "warehouseEnable": 1,
+            "maxCarrynum": 100,
+            "warningCarrynum": 5,
+            "lostCarrynum": 5,
+            "pointEnable": true,
+            "talentEnable": true,
+            "retreatEnable": true,
+            "retreatChance": 1000,
+            "retreatBagnum": 5,
+            "retreatHp": 1000,
+            "retreatState": 1000,
+            "retreatBuff": [
+                12
+            ],
+            "retryHint": 903560,
+            "talentSenceCamera": [
+                3.56,
+                4.29,
+                3.92,
+                36.5,
+                223.2,
+                -3.0,
+                22.0
+            ],
+            "dzBoxCamera": [
+                4.23,
+                4.35,
+                5.08,
+                27.93,
+                206.0,
+                -5.0,
+                22.0
+            ],
+            "talentMaxCamera": [
+                2.76,
+                3.54,
+                3.68,
+                33.83,
+                213.97,
+                -4.0,
+                22.0
+            ],
+            "talentEntranceUnlock": 29304
+        }
+    ]
+}

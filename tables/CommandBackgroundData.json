@@ -10,7 +10,8 @@
             "audioBgm": 90022,
             "bg": "",
             "unlock": 0,
-            "args": 0
+            "args": 0,
+            "gunId": 0
         },
         {
             "id": 3001,
@@ -22,6 +23,7 @@
             "args": 70003,
             "des": "获得人形闪电后解锁。",
             "audioBgm": 90008,
+            "gunId": 1017,
             "timeline": ""
         },
         {
@@ -34,6 +36,7 @@
             "args": 71000,
             "des": "获得人形纳美西丝后解锁。",
             "audioBgm": 90007,
+            "gunId": 1008,
             "timeline": ""
         },
         {
@@ -46,6 +49,7 @@
             "args": 70000,
             "des": "获得人形克罗丽科后解锁。",
             "audioBgm": 90006,
+            "gunId": 1001,
             "timeline": ""
         },
         {
@@ -58,6 +62,7 @@
             "args": 70002,
             "des": "获得人形寇尔芙后解锁。",
             "audioBgm": 90005,
+            "gunId": 1009,
             "timeline": ""
         },
         {
@@ -70,6 +75,7 @@
             "args": 71001,
             "des": "获得人形佩里缇亚后解锁。",
             "audioBgm": 90004,
+            "gunId": 1021,
             "timeline": ""
         },
         {
@@ -82,6 +88,7 @@
             "args": 71005,
             "des": "获得人形托洛洛后解锁。",
             "audioBgm": 90003,
+            "gunId": 1025,
             "timeline": ""
         },
         {
@@ -94,6 +101,7 @@
             "args": 71006,
             "des": "获得人形维普蕾后解锁。",
             "audioBgm": 90002,
+            "gunId": 1015,
             "timeline": ""
         },
         {
@@ -106,6 +114,7 @@
             "args": 71004,
             "des": "获得人形夏克里后解锁。",
             "audioBgm": 90001,
+            "gunId": 1022,
             "timeline": ""
         },
         {
@@ -118,6 +127,7 @@
             "args": 71002,
             "des": "获得人形琼玖后解锁。",
             "audioBgm": 90009,
+            "gunId": 1027,
             "timeline": ""
         },
         {
@@ -130,6 +140,7 @@
             "args": 70001,
             "des": "获得人形奇塔后解锁。",
             "audioBgm": 90010,
+            "gunId": 1024,
             "timeline": ""
         },
         {
@@ -142,6 +153,7 @@
             "args": 71003,
             "des": "获得人形塞布丽娜后解锁。",
             "audioBgm": 90011,
+            "gunId": 1029,
             "timeline": ""
         },
         {
@@ -154,6 +166,7 @@
             "args": 71007,
             "des": "获得人形纳甘后解锁。",
             "audioBgm": 90012,
+            "gunId": 1026,
             "timeline": ""
         },
         {
@@ -166,6 +179,20 @@
             "args": 71008,
             "des": "获得人形黛烟后解锁。",
             "audioBgm": 90011,
+            "gunId": 1032,
+            "timeline": ""
+        },
+        {
+            "id": 3015,
+            "type": 3,
+            "name": "女仆长的闲暇时刻",
+            "pic": "Img_CommandCenterBgPic_2D_14",
+            "bg": "CentaureissiSSR01/CentaureissiSSR01_CommandCenterBackGround_TL",
+            "unlock": 1,
+            "args": 71009,
+            "des": "获得人形桑朵莱希后解锁。",
+            "audioBgm": 90012,
+            "gunId": 1028,
             "timeline": ""
         },
         {
@@ -178,6 +205,7 @@
             "args": 71010,
             "des": "获得人形莫辛纳甘后解锁。",
             "audioBgm": 90012,
+            "gunId": 1033,
             "timeline": ""
         },
         {
@@ -190,6 +218,7 @@
             "args": 71011,
             "des": "获得人形科谢尼娅后解锁。",
             "audioBgm": 90012,
+            "gunId": 1036,
             "timeline": ""
         },
         {
@@ -202,6 +231,7 @@
             "args": 71012,
             "des": "获得人形莉塔拉后解锁。",
             "audioBgm": 90012,
+            "gunId": 1038,
             "timeline": ""
         }
     ]

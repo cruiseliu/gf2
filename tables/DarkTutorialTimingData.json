@@ -491,7 +491,7 @@
             "type": 10,
             "typeParam1": "1104",
             "typeParam2": "(32.4,0,32.4)",
-            "typeParam3": "(54,0,44.1)",
+            "typeParam3": "(47,0,42)",
             "triggerUi": 805,
             "typeParam4": ""
         },
@@ -553,6 +553,51 @@
             "id": 3205,
             "type": 4,
             "typeParam1": "1305",
+            "triggerUi": 805,
+            "typeParam2": "",
+            "typeParam3": "",
+            "typeParam4": ""
+        },
+        {
+            "id": 4001,
+            "type": 4,
+            "typeParam1": "2101",
+            "triggerUi": 805,
+            "typeParam2": "",
+            "typeParam3": "",
+            "typeParam4": ""
+        },
+        {
+            "id": 4002,
+            "type": 10,
+            "typeParam1": "2101",
+            "typeParam2": "(11.1,0,65.2)",
+            "typeParam3": "(17.6,0,76.2)",
+            "triggerUi": 805,
+            "typeParam4": ""
+        },
+        {
+            "id": 4003,
+            "type": 1,
+            "typeParam1": "805",
+            "typeParam2": "",
+            "typeParam3": "",
+            "typeParam4": "",
+            "triggerUi": 0
+        },
+        {
+            "id": 4004,
+            "type": 17,
+            "typeParam1": "2102003",
+            "triggerUi": 805,
+            "typeParam2": "",
+            "typeParam3": "",
+            "typeParam4": ""
+        },
+        {
+            "id": 4005,
+            "type": 17,
+            "typeParam1": "2101005",
             "triggerUi": 805,
             "typeParam2": "",
             "typeParam3": "",

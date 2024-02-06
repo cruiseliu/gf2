@@ -745,11 +745,11 @@
             "order": 41,
             "icon": "Icon_Add_Fire",
             "battleShow": 19,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "提高燃烧类型的异位伤害，燃烧是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -761,11 +761,11 @@
             "order": 42,
             "icon": "Icon_Add_Electric",
             "battleShow": 20,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "提高电导类型的异位伤害，电导是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -777,11 +777,11 @@
             "order": 43,
             "icon": "Icon_Add_Ice",
             "battleShow": 21,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "提高冷凝类型的异位伤害，冷凝是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -793,11 +793,11 @@
             "order": 44,
             "icon": "Icon_Add_Poison",
             "battleShow": 22,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "提高酸蚀类型的异位伤害，酸蚀是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -857,11 +857,11 @@
             "order": 48,
             "icon": "Icon_Add_Water",
             "battleShow": 23,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "提高浊刻类型的异位伤害，浊刻是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -873,11 +873,11 @@
             "order": 49,
             "icon": "Icon_Against_Fire",
             "battleShow": 24,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "降低受到的燃烧伤害的异位抗性，燃烧是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -889,11 +889,11 @@
             "order": 50,
             "icon": "Icon_Against_Electric",
             "battleShow": 25,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "降低受到的电导伤害的异位抗性，电导是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -905,11 +905,11 @@
             "order": 51,
             "icon": "Icon_Against_Ice",
             "battleShow": 26,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "降低受到的冷凝伤害的异位抗性，冷凝是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -921,11 +921,11 @@
             "order": 52,
             "icon": "Icon_Against_Poison",
             "battleShow": 27,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "降低受到的酸蚀伤害的异位抗性，酸蚀是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -985,11 +985,11 @@
             "order": 56,
             "icon": "Icon_Against_Water",
             "battleShow": 28,
-            "noZeroShow": true,
             "statue": 1,
             "barrackShowDescription": "降低受到的浊刻伤害的异位抗性，浊刻是一种特殊的异位效应。",
             "barrackShow": 0,
             "battleChangeShow": false,
+            "noZeroShow": false,
             "antiShow": false
         },
         {
@@ -1145,12 +1145,12 @@
             "order": 62,
             "icon": "Icon_Against_Water",
             "statue": 1,
+            "barrackShowDescription": "提升攻击者的技能稳态伤害值。",
             "barrackShow": 0,
             "battleShow": 0,
             "battleChangeShow": false,
             "noZeroShow": false,
-            "antiShow": false,
-            "barrackShowDescription": ""
+            "antiShow": false
         },
         {
             "id": 73,
@@ -1415,7 +1415,7 @@
             "sysName": "outround_behit_dam",
             "showName": "回合外减伤",
             "order": 108,
-            "icon": "Icon_Against_Soil",
+            "icon": "Icon_Against_potential",
             "barrackShow": 16,
             "battleShow": 13,
             "noZeroShow": true,

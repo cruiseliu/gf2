@@ -1,6 +1,354 @@
 {
     "data": [
         {
+            "id": 1,
+            "effect": "Effect_sum/Buff/sfx_darkzone_buff_revive",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 2,
+            "effect": "Effect_sum/Buff/sfx_darkzone_buff_burn",
+            "effectPoint": 104,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 3,
+            "effect": "Effect_sum/Buff/sfx_darkzone_buff_revive",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 4,
+            "effect": "Effect_sum/Buff/sfx_darkzone_buff_burn",
+            "effectPoint": 104,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 5,
+            "effect": "Effect_sum/Buff/sfx_darkzone_buff_speedup",
+            "effectPoint": 109,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 6,
+            "effect": "Effect_sum/Scene/Darkzone_Battle_invincible",
+            "effectPoint": 109,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 7,
+            "effect": "Effect_sum/Scene/Darkzone_escapeshow",
+            "effectPoint": 109,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 8,
+            "effect": "Effect_sum/Scene/Darkzone_aimenemy1",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 9,
+            "effect": "Effect_sum/Scene/Darkzone_aimenemy2",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 10,
+            "effect": "Effect_sum/Scene/Darkzone_recover",
+            "effectPoint": 104,
+            "effectLifetime": 2000,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 11,
+            "effect": "Effect_sum/Scene/Darkzone_Battle_CharacterAppear",
+            "effectPoint": 109,
+            "effectLifetime": 1000,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 12,
+            "effect": "Effect_sum/Scene/Darkzone_Battle_CharacterDisappear",
+            "effectPoint": 109,
+            "effectLifetime": 1000,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 13,
+            "effect": "Effect_sum/Scene/Dz_dio_Oiler_onfire",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 14,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_01",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 15,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_02",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 16,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_03",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 17,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_04",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 18,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_05",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 19,
+            "effect": "Effect_sum/Scene/Dz_dio_eff_Laser_off",
+            "zoomRatio": 100,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 20,
+            "effect": "Effect_sum/Scene/Dz_dio_eff_Laser_on",
+            "zoomRatio": 100,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 21,
+            "effect": "Effect_sum/Scene/dz_factor_finish_vfx",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 22,
+            "effect": "Effect_sum/Scene/dz_factor_running_vfx",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 23,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_01",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 24,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_02",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 25,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_03",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 26,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_04",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 27,
+            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_05",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 28,
+            "effect": "Effect_sum/scene_darkzone/sfx_darkzone_roleSwitch",
+            "effectPoint": 109,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 104,
+            "effect": "Effect_sum/Buff/AtkU",
+            "effectLifetime": 1000,
+            "routeId": 8,
+            "zoomRatio": 130,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
             "id": 201,
             "effect": "Effect_sum/Other/sfx_darkzone_playerMark_beenChase",
             "effectPoint": 109,
@@ -9,13 +357,15 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 202,
             "effect": "Effect_sum/Other/sfx_darkzone_monsMark_Chase",
             "effectPoint": 114,
             "zoomRatio": 100,
+            "effectOffsetY": 800,
             "effectOnly": 0,
             "effectRevolve": 0,
             "effectLifetime": 0,
@@ -27,6 +377,7 @@
             "effect": "Effect_sum/Other/sfx_darkzone_monsMark_Gaze",
             "effectPoint": 114,
             "zoomRatio": 100,
+            "effectOffsetY": 800,
             "effectOnly": 0,
             "effectRevolve": 0,
             "effectLifetime": 0,
@@ -42,139 +393,8 @@
             "effectOnly": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 30010,
-            "effect": "Effect_sum/Buff/dz_buff_will_up",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "effectLifetime": 3500,
-            "zoomRatio": 75,
-            "effectRevolve": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 30011,
-            "effect": "Effect_sum/Buff/dz_buff_will_up1",
-            "effectPoint": 109,
-            "effectOnly": 1,
-            "effectLifetime": 3500,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 30012,
-            "effect": "Effect_sum/Scene/dz_escape_01",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "effectLifetime": 3500,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 910010101,
-            "effect": "Effect_sum/Weapon/HC_ATK01_ShotFire_Heat_Fake",
-            "effectLifetime": 1500,
-            "routeId": 7,
-            "bindType": 5,
-            "zoomRatio": 130,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0
-        },
-        {
-            "id": 20,
-            "effect": "Effect_sum/Scene/Dz_dio_eff_Laser_on",
-            "zoomRatio": 100,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 21,
-            "effect": "Effect_sum/Scene/dz_factor_finish_vfx",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 22,
-            "effect": "Effect_sum/Scene/dz_factor_running_vfx",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 23,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_01",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 24,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_02",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 25,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_03",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 26,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_04",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 27,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_05",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 1000,
@@ -185,7 +405,8 @@
             "zoomRatio": 130,
             "effectPoint": 0,
             "effectOnly": 0,
-            "effectRevolve": 0
+            "effectRevolve": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 1001,
@@ -196,7 +417,8 @@
             "effectPoint": 0,
             "effectOnly": 0,
             "effectRevolve": 0,
-            "effectLifetime": 0
+            "effectLifetime": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 1002,
@@ -207,7 +429,8 @@
             "effectPoint": 0,
             "effectOnly": 0,
             "effectRevolve": 0,
-            "effectLifetime": 0
+            "effectLifetime": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10000,
@@ -218,7 +441,8 @@
             "effectOnly": 0,
             "effectRevolve": 0,
             "effectLifetime": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10001,
@@ -229,7 +453,8 @@
             "zoomRatio": 230,
             "effectPoint": 0,
             "effectOnly": 0,
-            "effectRevolve": 0
+            "effectRevolve": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10002,
@@ -240,7 +465,8 @@
             "zoomRatio": 110,
             "effectPoint": 0,
             "effectOnly": 0,
-            "effectRevolve": 0
+            "effectRevolve": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10003,
@@ -251,7 +477,8 @@
             "zoomRatio": 230,
             "effectPoint": 0,
             "effectOnly": 0,
-            "effectRevolve": 0
+            "effectRevolve": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10004,
@@ -262,7 +489,8 @@
             "effectOnly": 0,
             "effectRevolve": 0,
             "effectLifetime": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10005,
@@ -273,7 +501,8 @@
             "effectOnly": 0,
             "effectRevolve": 0,
             "effectLifetime": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10006,
@@ -284,7 +513,8 @@
             "effectOnly": 0,
             "effectRevolve": 0,
             "effectLifetime": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10007,
@@ -295,7 +525,8 @@
             "effectOnly": 0,
             "effectRevolve": 0,
             "effectLifetime": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10008,
@@ -306,7 +537,8 @@
             "zoomRatio": 60,
             "effectRevolve": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10009,
@@ -317,205 +549,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 910040101,
-            "effect": "Effect_sum/Weapon/AR_ATK01_ShotFire_Physical_Fake",
-            "effectLifetime": 1000,
-            "routeId": 7,
-            "bindType": 5,
-            "zoomRatio": 180,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0
-        },
-        {
-            "id": 910040404,
-            "effect": "Effect_sum/Skill/10040401_Explosion",
-            "effectLifetime": 1500,
-            "routeId": 9,
-            "zoomRatio": 40,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "bindType": 0
-        },
-        {
-            "id": 910110101,
-            "effect": "Effect_sum/Weapon/SG_ATK01_ShotFire_Heat_Fake",
-            "effectLifetime": 1000,
-            "routeId": 7,
-            "bindType": 5,
-            "zoomRatio": 180,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0
-        },
-        {
-            "id": 910190101,
-            "effect": "Effect_sum/Weapon/MG_ATK01_ShotFire_Physical_Fake",
-            "effectLifetime": 1000,
-            "routeId": 7,
-            "bindType": 5,
-            "zoomRatio": 110,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0
-        },
-        {
-            "id": 961101011,
-            "effect": "Effect_sum/Weapon/AR_ATK01_ShotFire_FB_Fake",
-            "effectLifetime": 1000,
-            "routeId": 7,
-            "bindType": 5,
-            "zoomRatio": 160,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0
-        },
-        {
-            "id": 961161011,
-            "effect": "Effect_sum/Weapon/HG_ATK01_ShotFire_FB_Fake",
-            "effectLifetime": 1000,
-            "routeId": 7,
-            "bindType": 5,
-            "zoomRatio": 160,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0
-        },
-        {
-            "id": 963101011,
-            "effect": "Effect_sum/Weapon/SMG_ATK01_ShotFire_TX_Fake",
-            "effectLifetime": 1000,
-            "routeId": 7,
-            "bindType": 5,
-            "zoomRatio": 400,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0
-        },
-        {
-            "id": 10,
-            "effect": "Effect_sum/Scene/Darkzone_recover",
-            "effectPoint": 104,
-            "effectLifetime": 2000,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 11,
-            "effect": "Effect_sum/Scene/Darkzone_Battle_CharacterAppear",
-            "effectPoint": 109,
-            "effectLifetime": 1000,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 12,
-            "effect": "Effect_sum/Scene/Darkzone_Battle_CharacterDisappear",
-            "effectPoint": 109,
-            "effectLifetime": 1000,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 13,
-            "effect": "Effect_sum/Scene/Dz_dio_Oiler_onfire",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 14,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_01",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 15,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_02",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 16,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_03",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 17,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_04",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 18,
-            "effect": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_05",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 19,
-            "effect": "Effect_sum/Scene/Dz_dio_eff_Laser_off",
-            "zoomRatio": 100,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 104,
-            "effect": "Effect_sum/Buff/AtkU",
-            "effectLifetime": 1000,
-            "routeId": 8,
-            "zoomRatio": 130,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10010,
@@ -526,7 +561,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10011,
@@ -537,7 +573,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10012,
@@ -548,7 +585,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10013,
@@ -559,18 +597,20 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10014,
             "effect": "Effect_sum/Buff/EliteFog_05",
-            "effectPoint": 103,
+            "effectPoint": 114,
             "effectOnly": 1,
             "zoomRatio": 100,
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 10015,
@@ -581,7 +621,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 20000,
@@ -592,7 +633,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 20002,
@@ -603,7 +645,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 20003,
@@ -614,7 +657,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 20004,
@@ -625,7 +669,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 20008,
@@ -636,183 +681,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 90001,
-            "effect": "Effect_sum/Scene/dz_loot_A_class01",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 90002,
-            "effect": "Effect_sum/Scene/dz_beacon_idle",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 90003,
-            "effect": "Effect_sum/Scene/dz_eff_Manholer_active",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 90004,
-            "effect": "Effect_sum/Skill/dz_event_air_drop_born",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 90005,
-            "effect": "Effect_sum/Scene/dz_eff_booster_will",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 90006,
-            "effect": "Effect_sum/Scene/scene_SimCombatBsae_warning07",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "effectRevolve": 1,
-            "zoomRatio": 200,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 10000001,
-            "effect": "Effect_sum/Weapon/SMG_ATK01_BulletShell",
-            "effectLifetime": 2000,
-            "routeId": 31,
-            "bindType": 5,
-            "zoomRatio": 130,
-            "effectPoint": 0,
-            "effectOnly": 0,
-            "effectRevolve": 0
-        },
-        {
-            "id": 1,
-            "effect": "Effect_sum/Buff/sfx_darkzone_buff_revive",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 2,
-            "effect": "Effect_sum/Buff/sfx_darkzone_buff_burn",
-            "effectPoint": 104,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 3,
-            "effect": "Effect_sum/Buff/sfx_darkzone_buff_revive",
-            "effectPoint": 104,
-            "effectOnly": 1,
-            "zoomRatio": 100,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 4,
-            "effect": "Effect_sum/Buff/sfx_darkzone_buff_burn",
-            "effectPoint": 104,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 5,
-            "effect": "Effect_sum/Buff/sfx_darkzone_buff_speedup",
-            "effectPoint": 109,
-            "effectOnly": 1,
-            "effectRevolve": 1,
-            "zoomRatio": 100,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 6,
-            "effect": "Effect_sum/Scene/Darkzone_Battle_invincible",
-            "effectPoint": 109,
-            "effectRevolve": 1,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 7,
-            "effect": "Effect_sum/Scene/Darkzone_escapeshow",
-            "effectPoint": 109,
-            "effectRevolve": 1,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 8,
-            "effect": "Effect_sum/Scene/Darkzone_aimenemy1",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
-        },
-        {
-            "id": 9,
-            "effect": "Effect_sum/Scene/Darkzone_aimenemy2",
-            "effectPoint": 109,
-            "zoomRatio": 100,
-            "effectOnly": 0,
-            "effectRevolve": 0,
-            "effectLifetime": 0,
-            "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30001,
@@ -823,7 +693,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30002,
@@ -834,7 +705,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30003,
@@ -845,7 +717,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30004,
@@ -856,7 +729,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30005,
@@ -867,7 +741,8 @@
             "zoomRatio": 100,
             "effectRevolve": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30006,
@@ -878,7 +753,8 @@
             "zoomRatio": 100,
             "effectRevolve": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30007,
@@ -889,7 +765,8 @@
             "zoomRatio": 100,
             "effectRevolve": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30008,
@@ -900,7 +777,8 @@
             "effectRevolve": 0,
             "effectLifetime": 0,
             "routeId": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 30009,
@@ -909,6 +787,307 @@
             "effectOnly": 1,
             "zoomRatio": 100,
             "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 30010,
+            "effect": "Effect_sum/Buff/dz_buff_will_up",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectLifetime": 3500,
+            "zoomRatio": 75,
+            "effectRevolve": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 30011,
+            "effect": "Effect_sum/Buff/dz_buff_will_up1",
+            "effectPoint": 109,
+            "effectOnly": 1,
+            "effectLifetime": 3500,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 30012,
+            "effect": "Effect_sum/Scene/dz_escape_01",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectLifetime": 3500,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90001,
+            "effect": "Effect_sum/Scene/dz_loot_A_class01",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90002,
+            "effect": "Effect_sum/Scene/dz_beacon_idle",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90003,
+            "effect": "Effect_sum/Scene/dz_eff_Manholer_active",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90004,
+            "effect": "Effect_sum/Skill/dz_event_air_drop_born",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90005,
+            "effect": "Effect_sum/Scene/dz_eff_booster_will",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "zoomRatio": 100,
+            "effectRevolve": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90006,
+            "effect": "Effect_sum/Scene/scene_SimCombatBsae_warning07",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 300,
+            "effectOffsetY": 900,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0
+        },
+        {
+            "id": 90011,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_low",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90012,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_mid",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90013,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_high",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90014,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_open2close_1",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "effectLifetime": 1000,
+            "zoomRatio": 100,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90015,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_open2close_2",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "effectLifetime": 1000,
+            "zoomRatio": 100,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90016,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_open2close_3",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "effectLifetime": 1000,
+            "zoomRatio": 100,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90017,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_green",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90018,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_red",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90019,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_interference",
+            "effectPoint": 104,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectOnly": 0,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90020,
+            "effect": "Effect_sum/scene_darkzone/dz_dio_switch_close",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90021,
+            "effect": "Effect_sum/scene_darkzone/dz_dio_switch_open",
+            "effectPoint": 104,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90022,
+            "effect": "Effect_sum/scene_darkzone/DZ_invisible",
+            "effectPoint": 109,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90023,
+            "effect": "Effect_sum/scene_darkzone/DZ_up_invisible",
+            "effectPoint": 109,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "effectLifetime": 5000,
+            "zoomRatio": 100,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90024,
+            "effect": "Effect_sum/scene_darkzone/DZ_invisible_2",
+            "effectPoint": 109,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectLifetime": 0,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90025,
+            "effect": "Effect_sum/scene_darkzone/DZ_up_invisible_2",
+            "effectPoint": 109,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "effectLifetime": 5000,
+            "zoomRatio": 100,
+            "routeId": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 90026,
+            "effect": "Effect_sum/scene_darkzone/dz_powergrid_highpower_icon",
+            "effectPoint": 109,
+            "effectOnly": 1,
+            "effectRevolve": 1,
+            "zoomRatio": 100,
+            "effectOffsetY": 400,
             "effectLifetime": 0,
             "routeId": 0,
             "bindType": 0
@@ -922,7 +1101,32 @@
             "routeId": 13,
             "zoomRatio": 100,
             "effectOnly": 0,
-            "bindType": 0
+            "bindType": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 10000001,
+            "effect": "Effect_sum/Weapon/SMG_ATK01_BulletShell",
+            "effectLifetime": 2000,
+            "routeId": 31,
+            "bindType": 5,
+            "zoomRatio": 130,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 910010101,
+            "effect": "Effect_sum/Weapon/HC_ATK01_ShotFire_Heat_Fake",
+            "effectLifetime": 1500,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 130,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 910020101,
@@ -933,7 +1137,32 @@
             "zoomRatio": 180,
             "effectPoint": 0,
             "effectOnly": 0,
-            "effectRevolve": 0
+            "effectRevolve": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 910040101,
+            "effect": "Effect_sum/Weapon/AR_ATK01_ShotFire_Physical_Fake",
+            "effectLifetime": 1000,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 910040404,
+            "effect": "Effect_sum/Skill/10040401_Explosion",
+            "effectLifetime": 1500,
+            "routeId": 9,
+            "zoomRatio": 40,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "bindType": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 910060101,
@@ -944,7 +1173,44 @@
             "zoomRatio": 180,
             "effectPoint": 0,
             "effectOnly": 0,
-            "effectRevolve": 0
+            "effectRevolve": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 910110101,
+            "effect": "Effect_sum/Weapon/SG_ATK01_ShotFire_Heat_Fake",
+            "effectLifetime": 1000,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 180,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 910190101,
+            "effect": "Effect_sum/Weapon/MG_ATK01_ShotFire_Physical_Fake",
+            "effectLifetime": 1000,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 110,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 961101011,
+            "effect": "Effect_sum/Weapon/AR_ATK01_ShotFire_FB_Fake",
+            "effectLifetime": 1000,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectOffsetY": 0
         },
         {
             "id": 961111011,
@@ -955,7 +1221,32 @@
             "zoomRatio": 160,
             "effectPoint": 0,
             "effectOnly": 0,
-            "effectRevolve": 0
+            "effectRevolve": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 961161011,
+            "effect": "Effect_sum/Weapon/HG_ATK01_ShotFire_FB_Fake",
+            "effectLifetime": 1000,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 160,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectOffsetY": 0
+        },
+        {
+            "id": 963101011,
+            "effect": "Effect_sum/Weapon/SMG_ATK01_ShotFire_TX_Fake",
+            "effectLifetime": 1000,
+            "routeId": 7,
+            "bindType": 5,
+            "zoomRatio": 400,
+            "effectPoint": 0,
+            "effectOnly": 0,
+            "effectRevolve": 0,
+            "effectOffsetY": 0
         }
     ]
 }

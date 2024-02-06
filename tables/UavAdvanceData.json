@@ -1,54 +1,6 @@
 {
     "data": [
         {
-            "advanceNum": 10,
-            "uavCash": 50000,
-            "uavMaterial": [
-                7100,
-                1
-            ],
-            "equipNum": 3,
-            "cost": 8,
-            "fuel": 100,
-            "propertyId": 51010,
-            "pow": 0,
-            "maxHp": 0,
-            "armor": 0,
-            "maxAp": 0,
-            "hit": 0,
-            "dodge": 0,
-            "hitPercentage": 0,
-            "dodgePercentage": 0,
-            "crit": 0,
-            "critMult": 0,
-            "scratch": 0,
-            "scratchReduction": 0
-        },
-        {
-            "advanceNum": 11,
-            "uavCash": 80000,
-            "uavMaterial": [
-                7100,
-                1
-            ],
-            "equipNum": 3,
-            "cost": 9,
-            "fuel": 100,
-            "propertyId": 51011,
-            "pow": 0,
-            "maxHp": 0,
-            "armor": 0,
-            "maxAp": 0,
-            "hit": 0,
-            "dodge": 0,
-            "hitPercentage": 0,
-            "dodgePercentage": 0,
-            "crit": 0,
-            "critMult": 0,
-            "scratch": 0,
-            "scratchReduction": 0
-        },
-        {
             "advanceNum": 1,
             "uavMaterial": [
                 0
@@ -250,6 +202,54 @@
             "cost": 8,
             "fuel": 100,
             "propertyId": 51009,
+            "pow": 0,
+            "maxHp": 0,
+            "armor": 0,
+            "maxAp": 0,
+            "hit": 0,
+            "dodge": 0,
+            "hitPercentage": 0,
+            "dodgePercentage": 0,
+            "crit": 0,
+            "critMult": 0,
+            "scratch": 0,
+            "scratchReduction": 0
+        },
+        {
+            "advanceNum": 10,
+            "uavCash": 50000,
+            "uavMaterial": [
+                7100,
+                1
+            ],
+            "equipNum": 3,
+            "cost": 8,
+            "fuel": 100,
+            "propertyId": 51010,
+            "pow": 0,
+            "maxHp": 0,
+            "armor": 0,
+            "maxAp": 0,
+            "hit": 0,
+            "dodge": 0,
+            "hitPercentage": 0,
+            "dodgePercentage": 0,
+            "crit": 0,
+            "critMult": 0,
+            "scratch": 0,
+            "scratchReduction": 0
+        },
+        {
+            "advanceNum": 11,
+            "uavCash": 80000,
+            "uavMaterial": [
+                7100,
+                1
+            ],
+            "equipNum": 3,
+            "cost": 9,
+            "fuel": 100,
+            "propertyId": 51011,
             "pow": 0,
             "maxHp": 0,
             "armor": 0,

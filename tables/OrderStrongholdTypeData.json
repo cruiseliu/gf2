@@ -1,30 +1,6 @@
 {
     "data": [
         {
-            "id": 90001,
-            "orderName": "目标地点",
-            "orderDetail": "需要将铁壁护卫至该地点。",
-            "effectPath": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
-            "skillId": 1001,
-            "specialOrderType": 0
-        },
-        {
-            "id": 90002,
-            "orderName": "收集",
-            "orderDetail": "抵达该区域，收集炸药。",
-            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/bomb_bundle/bomb_bundle.prefab",
-            "skillId": 1014,
-            "specialOrderType": 0
-        },
-        {
-            "id": 90003,
-            "orderName": "test",
-            "orderDetail": "test",
-            "specialOrderType": 2,
-            "effectPath": "ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_Landmine_01/Dz_dio_Landmine_01.prefab",
-            "skillId": 1015
-        },
-        {
             "id": 1,
             "orderName": "撤离",
             "orderDetail": "抵达该区域，撤离战场。",
@@ -215,6 +191,30 @@
             "effectPath": "ConfigPrefab/OtherPrefab/FunctionalBox_AP.prefab",
             "skillId": 1099,
             "specialOrderType": 0
+        },
+        {
+            "id": 90001,
+            "orderName": "目标地点",
+            "orderDetail": "需要将铁壁护卫至该地点。",
+            "effectPath": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
+            "skillId": 1001,
+            "specialOrderType": 0
+        },
+        {
+            "id": 90002,
+            "orderName": "收集",
+            "orderDetail": "抵达该区域，收集炸药。",
+            "effectPath": "ArtsResource/Effect/UI/SLGInteraction/bomb_bundle/bomb_bundle.prefab",
+            "skillId": 1014,
+            "specialOrderType": 0
+        },
+        {
+            "id": 90003,
+            "orderName": "test",
+            "orderDetail": "test",
+            "specialOrderType": 2,
+            "effectPath": "ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_Landmine_01/Dz_dio_Landmine_01.prefab",
+            "skillId": 1015
         }
     ]
 }

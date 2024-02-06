@@ -21,7 +21,7 @@
             ],
             "npc": 101,
             "globalTab": 102,
-            "sort": 4,
+            "sort": 5,
             "unlock": 0
         },
         {
@@ -29,8 +29,7 @@
             "name": "品质甄选",
             "sidetagType": 1,
             "includeTag": [
-                104,
-                107
+                104
             ],
             "npc": 101,
             "globalTab": 103,
@@ -49,6 +48,18 @@
             "npc": 101,
             "globalTab": 104,
             "sort": 2,
+            "unlock": 0
+        },
+        {
+            "id": 15,
+            "name": "外观采购",
+            "sidetagType": 1,
+            "includeTag": [
+                107
+            ],
+            "globalTab": 105,
+            "sort": 4,
+            "npc": 0,
             "unlock": 0
         },
         {
@@ -169,6 +180,21 @@
                 404
             ],
             "npc": 404,
+            "unlock": 0,
+            "globalTab": 0,
+            "sort": 0
+        },
+        {
+            "id": 61,
+            "name": "模拟经营商店",
+            "sidetagType": 21,
+            "includeTag": [
+                601,
+                602,
+                603,
+                604
+            ],
+            "npc": 0,
             "unlock": 0,
             "globalTab": 0,
             "sort": 0

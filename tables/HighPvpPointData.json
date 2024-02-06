@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "pointGroup": 1001,
+            "pointSection": [
+                0,
+                500
+            ],
+            "pointFormula": 32
+        },
+        {
+            "id": 2,
+            "pointGroup": 1001,
+            "pointSection": [
+                501,
+                1000
+            ],
+            "pointFormula": 16
+        },
+        {
+            "id": 3,
+            "pointGroup": 1001,
+            "pointSection": [
+                1001,
+                1500
+            ],
+            "pointFormula": 8
+        },
+        {
+            "id": 4,
+            "pointGroup": 1001,
+            "pointSection": [
+                1501,
+                2000
+            ],
+            "pointFormula": 4
+        },
+        {
+            "id": 5,
+            "pointGroup": 1001,
+            "pointSection": [
+                2001,
+                2500
+            ],
+            "pointFormula": 2
+        },
+        {
+            "id": 6,
+            "pointGroup": 1001,
+            "pointSection": [
+                2501,
+                99999
+            ],
+            "pointFormula": 1
+        }
+    ]
+}

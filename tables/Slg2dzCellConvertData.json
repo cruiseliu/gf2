@@ -1,10 +1,6 @@
 {
     "data": [
         {
-            "typeId": 51070,
-            "gridCanExit": 605
-        },
-        {
             "typeId": 51010,
             "gridCanExit": 601
         },
@@ -15,6 +11,10 @@
         {
             "typeId": 51040,
             "gridCanExit": 604
+        },
+        {
+            "typeId": 51070,
+            "gridCanExit": 605
         }
     ]
 }

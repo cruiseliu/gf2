@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "campEnglishName": "player_camp",
+            "monsterFire": true,
+            "playerFire": false
+        },
+        {
+            "id": 2,
+            "campEnglishName": "enemy_camp",
+            "playerFire": true,
+            "monsterFire": false
+        }
+    ]
+}

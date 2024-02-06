@@ -1,30 +1,6 @@
 {
     "data": [
         {
-            "id": 4301,
-            "effectId": 4,
-            "rank": 3,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 4302,
-            "effectId": 4,
-            "rank": 3,
-            "quality": 2,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 4303,
-            "effectId": 4,
-            "rank": 3,
-            "quality": 3,
-            "exp": 99999,
-            "money": 2
-        },
-        {
             "id": 1101,
             "effectId": 1,
             "rank": 1,
@@ -43,126 +19,6 @@
         {
             "id": 1103,
             "effectId": 1,
-            "rank": 1,
-            "quality": 3,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 1501,
-            "effectId": 1,
-            "rank": 5,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 1502,
-            "effectId": 1,
-            "rank": 5,
-            "quality": 2,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 1503,
-            "effectId": 1,
-            "rank": 5,
-            "quality": 3,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 2301,
-            "effectId": 2,
-            "rank": 3,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 2302,
-            "effectId": 2,
-            "rank": 3,
-            "quality": 2,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 2303,
-            "effectId": 2,
-            "rank": 3,
-            "quality": 3,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3101,
-            "effectId": 3,
-            "rank": 1,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3102,
-            "effectId": 3,
-            "rank": 1,
-            "quality": 2,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3103,
-            "effectId": 3,
-            "rank": 1,
-            "quality": 3,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3401,
-            "effectId": 3,
-            "rank": 4,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3402,
-            "effectId": 3,
-            "rank": 4,
-            "quality": 2,
-            "exp": 1500,
-            "money": 2
-        },
-        {
-            "id": 3403,
-            "effectId": 3,
-            "rank": 4,
-            "quality": 3,
-            "exp": 1500,
-            "money": 2
-        },
-        {
-            "id": 4101,
-            "effectId": 4,
-            "rank": 1,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 4102,
-            "effectId": 4,
-            "rank": 1,
-            "quality": 2,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 4103,
-            "effectId": 4,
             "rank": 1,
             "quality": 3,
             "exp": 99999,
@@ -217,102 +73,6 @@
             "money": 2
         },
         {
-            "id": 2201,
-            "effectId": 2,
-            "rank": 2,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 2202,
-            "effectId": 2,
-            "rank": 2,
-            "quality": 2,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 2203,
-            "effectId": 2,
-            "rank": 2,
-            "quality": 3,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3201,
-            "effectId": 3,
-            "rank": 2,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3202,
-            "effectId": 3,
-            "rank": 2,
-            "quality": 2,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3203,
-            "effectId": 3,
-            "rank": 2,
-            "quality": 3,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3301,
-            "effectId": 3,
-            "rank": 3,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3302,
-            "effectId": 3,
-            "rank": 3,
-            "quality": 2,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 3303,
-            "effectId": 3,
-            "rank": 3,
-            "quality": 3,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 4501,
-            "effectId": 4,
-            "rank": 5,
-            "quality": 1,
-            "exp": 99999,
-            "money": 2
-        },
-        {
-            "id": 4502,
-            "effectId": 4,
-            "rank": 5,
-            "quality": 2,
-            "exp": 5000,
-            "money": 4
-        },
-        {
-            "id": 4503,
-            "effectId": 4,
-            "rank": 5,
-            "quality": 3,
-            "exp": 5000,
-            "money": 4
-        },
-        {
             "id": 1401,
             "effectId": 1,
             "rank": 4,
@@ -337,6 +97,30 @@
             "money": 2
         },
         {
+            "id": 1501,
+            "effectId": 1,
+            "rank": 5,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 1502,
+            "effectId": 1,
+            "rank": 5,
+            "quality": 2,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 1503,
+            "effectId": 1,
+            "rank": 5,
+            "quality": 3,
+            "exp": 99999,
+            "money": 2
+        },
+        {
             "id": 2101,
             "effectId": 2,
             "rank": 1,
@@ -356,6 +140,54 @@
             "id": 2103,
             "effectId": 2,
             "rank": 1,
+            "quality": 3,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 2201,
+            "effectId": 2,
+            "rank": 2,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 2202,
+            "effectId": 2,
+            "rank": 2,
+            "quality": 2,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 2203,
+            "effectId": 2,
+            "rank": 2,
+            "quality": 3,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 2301,
+            "effectId": 2,
+            "rank": 3,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 2302,
+            "effectId": 2,
+            "rank": 3,
+            "quality": 2,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 2303,
+            "effectId": 2,
+            "rank": 3,
             "quality": 3,
             "exp": 99999,
             "money": 2
@@ -409,6 +241,102 @@
             "money": 4
         },
         {
+            "id": 3101,
+            "effectId": 3,
+            "rank": 1,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3102,
+            "effectId": 3,
+            "rank": 1,
+            "quality": 2,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3103,
+            "effectId": 3,
+            "rank": 1,
+            "quality": 3,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3201,
+            "effectId": 3,
+            "rank": 2,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3202,
+            "effectId": 3,
+            "rank": 2,
+            "quality": 2,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3203,
+            "effectId": 3,
+            "rank": 2,
+            "quality": 3,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3301,
+            "effectId": 3,
+            "rank": 3,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3302,
+            "effectId": 3,
+            "rank": 3,
+            "quality": 2,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3303,
+            "effectId": 3,
+            "rank": 3,
+            "quality": 3,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3401,
+            "effectId": 3,
+            "rank": 4,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 3402,
+            "effectId": 3,
+            "rank": 4,
+            "quality": 2,
+            "exp": 1500,
+            "money": 2
+        },
+        {
+            "id": 3403,
+            "effectId": 3,
+            "rank": 4,
+            "quality": 3,
+            "exp": 1500,
+            "money": 2
+        },
+        {
             "id": 3501,
             "effectId": 3,
             "rank": 5,
@@ -433,6 +361,30 @@
             "money": 4
         },
         {
+            "id": 4101,
+            "effectId": 4,
+            "rank": 1,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 4102,
+            "effectId": 4,
+            "rank": 1,
+            "quality": 2,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 4103,
+            "effectId": 4,
+            "rank": 1,
+            "quality": 3,
+            "exp": 99999,
+            "money": 2
+        },
+        {
             "id": 4201,
             "effectId": 4,
             "rank": 2,
@@ -452,6 +404,30 @@
             "id": 4203,
             "effectId": 4,
             "rank": 2,
+            "quality": 3,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 4301,
+            "effectId": 4,
+            "rank": 3,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 4302,
+            "effectId": 4,
+            "rank": 3,
+            "quality": 2,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 4303,
+            "effectId": 4,
+            "rank": 3,
             "quality": 3,
             "exp": 99999,
             "money": 2
@@ -479,6 +455,30 @@
             "quality": 3,
             "exp": 1500,
             "money": 2
+        },
+        {
+            "id": 4501,
+            "effectId": 4,
+            "rank": 5,
+            "quality": 1,
+            "exp": 99999,
+            "money": 2
+        },
+        {
+            "id": 4502,
+            "effectId": 4,
+            "rank": 5,
+            "quality": 2,
+            "exp": 5000,
+            "money": 4
+        },
+        {
+            "id": 4503,
+            "effectId": 4,
+            "rank": 5,
+            "quality": 3,
+            "exp": 5000,
+            "money": 4
         }
     ]
 }

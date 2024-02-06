@@ -1,16 +1,6 @@
 {
     "data": [
         {
-            "id": 3110,
-            "cid": 3,
-            "name": "坐姿看书-挠头",
-            "clips": "c_Groza_behave_SitByChairReadScratch",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
             "id": 1,
             "cid": 3,
             "name": "坐姿拿出书",
@@ -85,6 +75,146 @@
             "cid": 3,
             "name": "脸部表情测试",
             "clips": "c_Groza_idle_Stand1ForBlendTree_Facetest",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3000,
+            "cid": 3,
+            "name": "站姿idle-转身用",
+            "clips": "c_Groza_idle_Stand1ForBlendTree",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3001,
+            "cid": 3,
+            "name": "站姿idle",
+            "clips": "c_Groza_idle_stand1",
+            "cycleamount": 2,
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": ""
+        },
+        {
+            "id": 3002,
+            "cid": 3,
+            "name": "坐姿椅-idle",
+            "clips": "c_Groza_idle_SitbyChair",
+            "expressionName": "开心",
+            "faceexpression": 1,
+            "cycleamount": 2,
+            "sound": ""
+        },
+        {
+            "id": 3003,
+            "cid": 3,
+            "name": "坐姿床-idle",
+            "clips": "c_Groza_idle_SitbyBed",
+            "expressionName": "开心",
+            "faceexpression": 1,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3004,
+            "cid": 3,
+            "name": "站姿idle-2",
+            "clips": "c_Groza_idle_stand2",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3005,
+            "cid": 3,
+            "name": "站姿1-看镜头",
+            "clips": "c_Groza_idle_Stand1LookAtCamera",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3006,
+            "cid": 3,
+            "name": "站姿1-看镜头idle",
+            "clips": "c_Groza_idle_Stand1LookAtCameraIdle",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3011,
+            "cid": 3,
+            "name": "坐姿说话-椅",
+            "clips": "c_Groza_behave_SitByChairTalk",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3012,
+            "cid": 3,
+            "name": "坐姿-说话-椅",
+            "clips": "c_Groza_behave_SitByChairToTalk",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3025,
+            "cid": 3,
+            "name": "弯腰",
+            "clips": "c_Groza_behave_bow",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3026,
+            "cid": 3,
+            "name": "敲窗户",
+            "clips": "c_Groza_behave_KonckWindow",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3027,
+            "cid": 3,
+            "name": "半弯腰",
+            "clips": "c_Groza_behave_bow1",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3028,
+            "cid": 3,
+            "name": "撩头发",
+            "clips": "c_Groza_behave_HairLift",
+            "expressionName": "",
+            "faceexpression": 0,
+            "sound": "",
+            "cycleamount": 0
+        },
+        {
+            "id": 3029,
+            "cid": 3,
+            "name": "收礼物1",
+            "clips": "c_Groza_behave_GiftRecieve1",
             "expressionName": "",
             "faceexpression": 0,
             "sound": "",
@@ -451,140 +581,10 @@
             "cycleamount": 0
         },
         {
-            "id": 3000,
+            "id": 3110,
             "cid": 3,
-            "name": "站姿idle-转身用",
-            "clips": "c_Groza_idle_Stand1ForBlendTree",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3001,
-            "cid": 3,
-            "name": "站姿idle",
-            "clips": "c_Groza_idle_stand1",
-            "cycleamount": 2,
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": ""
-        },
-        {
-            "id": 3002,
-            "cid": 3,
-            "name": "坐姿椅-idle",
-            "clips": "c_Groza_idle_SitbyChair",
-            "expressionName": "开心",
-            "faceexpression": 1,
-            "cycleamount": 2,
-            "sound": ""
-        },
-        {
-            "id": 3003,
-            "cid": 3,
-            "name": "坐姿床-idle",
-            "clips": "c_Groza_idle_SitbyBed",
-            "expressionName": "开心",
-            "faceexpression": 1,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3004,
-            "cid": 3,
-            "name": "站姿idle-2",
-            "clips": "c_Groza_idle_stand2",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3005,
-            "cid": 3,
-            "name": "站姿1-看镜头",
-            "clips": "c_Groza_idle_Stand1LookAtCamera",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3006,
-            "cid": 3,
-            "name": "站姿1-看镜头idle",
-            "clips": "c_Groza_idle_Stand1LookAtCameraIdle",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3011,
-            "cid": 3,
-            "name": "坐姿说话-椅",
-            "clips": "c_Groza_behave_SitByChairTalk",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3012,
-            "cid": 3,
-            "name": "坐姿-说话-椅",
-            "clips": "c_Groza_behave_SitByChairToTalk",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3025,
-            "cid": 3,
-            "name": "弯腰",
-            "clips": "c_Groza_behave_bow",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3026,
-            "cid": 3,
-            "name": "敲窗户",
-            "clips": "c_Groza_behave_KonckWindow",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3027,
-            "cid": 3,
-            "name": "半弯腰",
-            "clips": "c_Groza_behave_bow1",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3028,
-            "cid": 3,
-            "name": "撩头发",
-            "clips": "c_Groza_behave_HairLift",
-            "expressionName": "",
-            "faceexpression": 0,
-            "sound": "",
-            "cycleamount": 0
-        },
-        {
-            "id": 3029,
-            "cid": 3,
-            "name": "收礼物1",
-            "clips": "c_Groza_behave_GiftRecieve1",
+            "name": "坐姿看书-挠头",
+            "clips": "c_Groza_behave_SitByChairReadScratch",
             "expressionName": "",
             "faceexpression": 0,
             "sound": "",

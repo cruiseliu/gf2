@@ -4,7 +4,7 @@
             "id": 111,
             "stageId": 72101,
             "stageLevle": 1,
-            "injuryCoefficient": 1.0,
+            "injuryCoefficient": 1,
             "bMainId": 72102006,
             "recordBuffId": [],
             "recordBuffNumber": [],
@@ -15,7 +15,7 @@
             "id": 121,
             "stageId": 72201,
             "stageLevle": 1,
-            "injuryCoefficient": 1.0,
+            "injuryCoefficient": 1,
             "bMainId": 72103006,
             "recordBuffId": [],
             "recordBuffNumber": [],
@@ -26,7 +26,7 @@
             "id": 131,
             "stageId": 72301,
             "stageLevle": 1,
-            "injuryCoefficient": 1.0,
+            "injuryCoefficient": 1,
             "bMainId": 72104006,
             "recordBuffId": [],
             "recordBuffNumber": [],
@@ -37,8 +37,112 @@
             "id": 141,
             "stageId": 72401,
             "stageLevle": 1,
-            "injuryCoefficient": 1.0,
+            "injuryCoefficient": 1,
             "bMainId": 72105006,
+            "recordBuffId": [],
+            "recordBuffNumber": [],
+            "buffCamp": [],
+            "bReward": []
+        },
+        {
+            "id": 151,
+            "stageId": 72501,
+            "stageLevle": 1,
+            "injuryCoefficient": 1,
+            "bMainId": 72201006,
+            "recordBuffId": [],
+            "recordBuffNumber": [],
+            "buffCamp": [],
+            "bReward": []
+        },
+        {
+            "id": 161,
+            "stageId": 72601,
+            "stageLevle": 1,
+            "injuryCoefficient": 1,
+            "bMainId": 72301006,
+            "recordBuffId": [
+                6901905,
+                6901302
+            ],
+            "recordBuffNumber": [
+                8,
+                12
+            ],
+            "buffCamp": [
+                1,
+                2
+            ],
+            "bReward": []
+        },
+        {
+            "id": 162,
+            "stageId": 72602,
+            "stageLevle": 2,
+            "injuryCoefficient": 1,
+            "bMainId": 72402007,
+            "recordBuffId": [],
+            "recordBuffNumber": [],
+            "buffCamp": [],
+            "bReward": []
+        },
+        {
+            "id": 171,
+            "stageId": 72701,
+            "stageLevle": 1,
+            "injuryCoefficient": 1,
+            "bMainId": 72401006,
+            "recordBuffId": [
+                6901905,
+                6901302
+            ],
+            "recordBuffNumber": [
+                8,
+                12
+            ],
+            "buffCamp": [
+                1,
+                2
+            ],
+            "bReward": []
+        },
+        {
+            "id": 172,
+            "stageId": 72702,
+            "stageLevle": 2,
+            "injuryCoefficient": 1,
+            "bMainId": 72502007,
+            "recordBuffId": [],
+            "recordBuffNumber": [],
+            "buffCamp": [],
+            "bReward": []
+        },
+        {
+            "id": 181,
+            "stageId": 72801,
+            "stageLevle": 1,
+            "injuryCoefficient": 1,
+            "bMainId": 72501006,
+            "recordBuffId": [
+                6901905,
+                6901302
+            ],
+            "recordBuffNumber": [
+                8,
+                12
+            ],
+            "buffCamp": [
+                1,
+                2
+            ],
+            "bReward": []
+        },
+        {
+            "id": 182,
+            "stageId": 72802,
+            "stageLevle": 2,
+            "injuryCoefficient": 1,
+            "bMainId": 72402007,
             "recordBuffId": [],
             "recordBuffNumber": [],
             "buffCamp": [],

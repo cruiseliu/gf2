@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "menuGroup": 1013,
+            "coffeeLevel": 1,
+            "recipeId": [
+                10101
+            ],
+            "upList": [
+                10101
+            ],
+            "saleShow": 30,
+            "itemNum": {}
+        },
+        {
+            "id": 2,
+            "menuGroup": 1013,
+            "coffeeLevel": 2,
+            "itemNum": {
+                "170042": 70
+            },
+            "recipeId": [
+                10102
+            ],
+            "upList": [
+                10102
+            ],
+            "saleShow": 30
+        },
+        {
+            "id": 3,
+            "menuGroup": 1013,
+            "coffeeLevel": 3,
+            "itemNum": {
+                "170042": 140
+            },
+            "recipeId": [
+                10103
+            ],
+            "upList": [
+                10103
+            ],
+            "saleShow": 30
+        },
+        {
+            "id": 4,
+            "menuGroup": 1013,
+            "coffeeLevel": 4,
+            "itemNum": {
+                "170042": 220
+            },
+            "recipeId": [
+                10104
+            ],
+            "upList": [
+                10104
+            ],
+            "saleShow": 30
+        },
+        {
+            "id": 5,
+            "menuGroup": 1013,
+            "coffeeLevel": 5,
+            "itemNum": {
+                "170042": 290
+            },
+            "recipeId": [
+                10105
+            ],
+            "upList": [
+                10105
+            ],
+            "saleShow": 30
+        },
+        {
+            "id": 6,
+            "menuGroup": 1013,
+            "coffeeLevel": 6,
+            "itemNum": {
+                "170042": 360
+            },
+            "recipeId": [
+                10106
+            ],
+            "upList": [
+                10106
+            ],
+            "saleShow": 30
+        }
+    ]
+}

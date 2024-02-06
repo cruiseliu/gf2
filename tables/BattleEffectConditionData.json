@@ -1,12 +1,6 @@
 {
     "data": [
         {
-            "id": 10270803,
-            "condition": "10270803",
-            "effectpath": "Skill/BulletHitMany_Fire",
-            "model": ""
-        },
-        {
             "id": 1,
             "condition": "6334001",
             "effectpath": "Skill/Shield_Blue",
@@ -29,6 +23,12 @@
             "condition": "2019900",
             "effectpath": "Skill/2020_LightHit_Gold",
             "model": "62020,62021"
+        },
+        {
+            "id": 10270803,
+            "condition": "10270803",
+            "effectpath": "Skill/BulletHitMany_Fire",
+            "model": ""
         }
     ]
 }

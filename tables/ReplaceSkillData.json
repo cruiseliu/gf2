@@ -1,6 +1,344 @@
 {
     "data": [
         {
+            "id": 1,
+            "beforeSkillGroupId1": [
+                101
+            ],
+            "nowSkillGroupId1": [
+                201
+            ],
+            "beforeSkillGroupId2": [
+                102
+            ],
+            "nowSkillGroupId2": [
+                202
+            ],
+            "beforeSkillGroupId3": [
+                103
+            ],
+            "nowSkillGroupId3": [
+                203
+            ],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 2,
+            "beforeSkillGroupId1": [
+                0
+            ],
+            "nowSkillGroupId1": [
+                302,
+                301
+            ],
+            "beforeSkillGroupId2": [],
+            "nowSkillGroupId2": [],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 3,
+            "beforeSkillGroupId1": [
+                401,
+                402
+            ],
+            "nowSkillGroupId1": [
+                501,
+                502,
+                503
+            ],
+            "beforeSkillGroupId2": [
+                102
+            ],
+            "nowSkillGroupId2": [
+                202
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 4,
+            "beforeSkillGroupId1": [
+                601,
+                602
+            ],
+            "nowSkillGroupId1": [
+                0
+            ],
+            "beforeSkillGroupId2": [],
+            "nowSkillGroupId2": [],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 5,
+            "beforeSkillGroupId1": [
+                10170501
+            ],
+            "nowSkillGroupId1": [
+                10080501
+            ],
+            "beforeSkillGroupId2": [],
+            "nowSkillGroupId2": [],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 100104,
+            "beforeSkillGroupId1": [
+                10010401
+            ],
+            "nowSkillGroupId1": [
+                10010421
+            ],
+            "beforeSkillGroupId2": [
+                10010402
+            ],
+            "nowSkillGroupId2": [
+                10010422
+            ],
+            "beforeSkillGroupId3": [
+                10010403
+            ],
+            "nowSkillGroupId3": [
+                10010423
+            ],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 100105,
+            "beforeSkillGroupId1": [
+                10010501,
+                100105011
+            ],
+            "nowSkillGroupId1": [
+                10010511,
+                100105111
+            ],
+            "beforeSkillGroupId2": [
+                10010502,
+                100105011
+            ],
+            "nowSkillGroupId2": [
+                10010512,
+                100105111
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 100107,
+            "beforeSkillGroupId1": [
+                10010701
+            ],
+            "nowSkillGroupId1": [
+                10010711
+            ],
+            "beforeSkillGroupId2": [
+                10010702
+            ],
+            "nowSkillGroupId2": [
+                10010712
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 100805,
+            "beforeSkillGroupId1": [
+                10080501,
+                10080701
+            ],
+            "nowSkillGroupId1": [
+                10080511,
+                10080711
+            ],
+            "beforeSkillGroupId2": [
+                10080502,
+                10080702
+            ],
+            "nowSkillGroupId2": [
+                10080512,
+                10080712
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 100905,
+            "beforeSkillGroupId1": [
+                10090501
+            ],
+            "nowSkillGroupId1": [
+                10090511
+            ],
+            "beforeSkillGroupId2": [
+                10090502
+            ],
+            "nowSkillGroupId2": [
+                10090512
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 100907,
+            "beforeSkillGroupId1": [
+                10090701,
+                100907011
+            ],
+            "nowSkillGroupId1": [
+                10090711,
+                100907111
+            ],
+            "beforeSkillGroupId2": [
+                10090702,
+                100907021
+            ],
+            "nowSkillGroupId2": [
+                10090712,
+                100907121
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 101305,
+            "beforeSkillGroupId1": [
+                10130501
+            ],
+            "nowSkillGroupId1": [
+                10130511
+            ],
+            "beforeSkillGroupId2": [
+                10130502
+            ],
+            "nowSkillGroupId2": [
+                10130512
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 101307,
+            "beforeSkillGroupId1": [
+                10130701
+            ],
+            "nowSkillGroupId1": [
+                10130711
+            ],
+            "beforeSkillGroupId2": [
+                10130702
+            ],
+            "nowSkillGroupId2": [
+                10130712
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 101505,
+            "beforeSkillGroupId1": [
+                10150501
+            ],
+            "nowSkillGroupId1": [
+                10150511
+            ],
+            "beforeSkillGroupId2": [
+                10150502
+            ],
+            "nowSkillGroupId2": [
+                10150512
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 101507,
+            "beforeSkillGroupId1": [
+                10150701
+            ],
+            "nowSkillGroupId1": [
+                10150711
+            ],
+            "beforeSkillGroupId2": [
+                10150702
+            ],
+            "nowSkillGroupId2": [
+                10150712
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 101705,
+            "beforeSkillGroupId1": [
+                10170501
+            ],
+            "nowSkillGroupId1": [
+                10170511,
+                101705111
+            ],
+            "beforeSkillGroupId2": [
+                10170502
+            ],
+            "nowSkillGroupId2": [
+                10170512,
+                101705111
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 101707,
+            "beforeSkillGroupId1": [
+                10170701
+            ],
+            "nowSkillGroupId1": [
+                10170711
+            ],
+            "beforeSkillGroupId2": [
+                10170702
+            ],
+            "nowSkillGroupId2": [
+                10170712
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
             "id": 102105,
             "beforeSkillGroupId1": [
                 10210501
@@ -76,546 +414,6 @@
             "nowSkillGroupId2": [
                 10220712,
                 102207111
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 102805,
-            "beforeSkillGroupId1": [
-                10280501,
-                102805011
-            ],
-            "nowSkillGroupId1": [
-                10280511,
-                102805111
-            ],
-            "beforeSkillGroupId2": [
-                10280502,
-                102805011
-            ],
-            "nowSkillGroupId2": [
-                10280512,
-                102805111
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 102807,
-            "beforeSkillGroupId1": [
-                10280701
-            ],
-            "nowSkillGroupId1": [
-                10280711
-            ],
-            "beforeSkillGroupId2": [
-                10280702,
-                102807021
-            ],
-            "nowSkillGroupId2": [
-                10280712,
-                102807021
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 102905,
-            "beforeSkillGroupId1": [
-                10290501
-            ],
-            "nowSkillGroupId1": [
-                10290511
-            ],
-            "beforeSkillGroupId2": [
-                10290502
-            ],
-            "nowSkillGroupId2": [
-                10290512
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 102907,
-            "beforeSkillGroupId1": [
-                10290701
-            ],
-            "nowSkillGroupId1": [
-                10290711,
-                102907113
-            ],
-            "beforeSkillGroupId2": [
-                10290702
-            ],
-            "nowSkillGroupId2": [
-                10290712,
-                102907113
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 103205,
-            "beforeSkillGroupId1": [
-                10320501
-            ],
-            "nowSkillGroupId1": [
-                10320511,
-                103205112
-            ],
-            "beforeSkillGroupId2": [
-                10320502
-            ],
-            "nowSkillGroupId2": [
-                10320512,
-                103205112
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 103207,
-            "beforeSkillGroupId1": [
-                10320701
-            ],
-            "nowSkillGroupId1": [
-                10320711
-            ],
-            "beforeSkillGroupId2": [
-                10320702
-            ],
-            "nowSkillGroupId2": [
-                10320712
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 103805,
-            "beforeSkillGroupId1": [
-                10380501
-            ],
-            "nowSkillGroupId1": [
-                10380511
-            ],
-            "beforeSkillGroupId2": [
-                10380502
-            ],
-            "nowSkillGroupId2": [
-                10380512
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 103807,
-            "beforeSkillGroupId1": [
-                10380701
-            ],
-            "nowSkillGroupId1": [
-                10380711,
-                103807113,
-                1038071111
-            ],
-            "beforeSkillGroupId2": [
-                10380702
-            ],
-            "nowSkillGroupId2": [
-                10380712,
-                103807113,
-                1038071111
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 100104,
-            "beforeSkillGroupId1": [
-                10010401
-            ],
-            "nowSkillGroupId1": [
-                10010421
-            ],
-            "beforeSkillGroupId2": [
-                10010402
-            ],
-            "nowSkillGroupId2": [
-                10010422
-            ],
-            "beforeSkillGroupId3": [
-                10010403
-            ],
-            "nowSkillGroupId3": [
-                10010423
-            ],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 100105,
-            "beforeSkillGroupId1": [
-                10010501,
-                100105011
-            ],
-            "nowSkillGroupId1": [
-                10010511,
-                100105111
-            ],
-            "beforeSkillGroupId2": [
-                10010502,
-                100105011
-            ],
-            "nowSkillGroupId2": [
-                10010512,
-                100105111
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 100107,
-            "beforeSkillGroupId1": [
-                10010701
-            ],
-            "nowSkillGroupId1": [
-                10010711
-            ],
-            "beforeSkillGroupId2": [
-                10010702
-            ],
-            "nowSkillGroupId2": [
-                10010712
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 102701,
-            "beforeSkillGroupId1": [
-                10270501
-            ],
-            "nowSkillGroupId1": [
-                10270511,
-                10270510
-            ],
-            "beforeSkillGroupId2": [
-                10270502
-            ],
-            "nowSkillGroupId2": [
-                10270512,
-                10270510
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 102702,
-            "beforeSkillGroupId1": [
-                10270701
-            ],
-            "nowSkillGroupId1": [
-                10270711
-            ],
-            "beforeSkillGroupId2": [
-                10270702
-            ],
-            "nowSkillGroupId2": [
-                10270712
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 102705,
-            "beforeSkillGroupId1": [
-                10270501
-            ],
-            "nowSkillGroupId1": [
-                10270511,
-                102705111
-            ],
-            "beforeSkillGroupId2": [
-                10270502
-            ],
-            "nowSkillGroupId2": [
-                10270512,
-                102705111
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 102707,
-            "beforeSkillGroupId1": [
-                10270701
-            ],
-            "nowSkillGroupId1": [
-                10270711
-            ],
-            "beforeSkillGroupId2": [
-                10270702
-            ],
-            "nowSkillGroupId2": [
-                10270712
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 100905,
-            "beforeSkillGroupId1": [
-                10090501
-            ],
-            "nowSkillGroupId1": [
-                10090511
-            ],
-            "beforeSkillGroupId2": [
-                10090502
-            ],
-            "nowSkillGroupId2": [
-                10090512
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 100907,
-            "beforeSkillGroupId1": [
-                10090701,
-                100907011
-            ],
-            "nowSkillGroupId1": [
-                10090711,
-                100907111
-            ],
-            "beforeSkillGroupId2": [
-                10090702,
-                100907021
-            ],
-            "nowSkillGroupId2": [
-                10090712,
-                100907121
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 101505,
-            "beforeSkillGroupId1": [
-                10150501
-            ],
-            "nowSkillGroupId1": [
-                10150511
-            ],
-            "beforeSkillGroupId2": [
-                10150502
-            ],
-            "nowSkillGroupId2": [
-                10150512
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 101507,
-            "beforeSkillGroupId1": [
-                10150701
-            ],
-            "nowSkillGroupId1": [
-                10150711
-            ],
-            "beforeSkillGroupId2": [
-                10150702
-            ],
-            "nowSkillGroupId2": [
-                10150712
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 103305,
-            "beforeSkillGroupId1": [
-                10330501,
-                103305011
-            ],
-            "nowSkillGroupId1": [
-                10330511,
-                103305111
-            ],
-            "beforeSkillGroupId2": [
-                10330502,
-                103305021
-            ],
-            "nowSkillGroupId2": [
-                10330512,
-                103305121
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 103307,
-            "beforeSkillGroupId1": [
-                10330701,
-                103307011
-            ],
-            "nowSkillGroupId1": [
-                10330711,
-                103307111
-            ],
-            "beforeSkillGroupId2": [
-                10330702,
-                103307021
-            ],
-            "nowSkillGroupId2": [
-                10330712,
-                103307121
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 103605,
-            "beforeSkillGroupId1": [
-                10360501
-            ],
-            "nowSkillGroupId1": [
-                10360511,
-                103605113
-            ],
-            "beforeSkillGroupId2": [
-                10360502
-            ],
-            "nowSkillGroupId2": [
-                10360512,
-                103605123
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 103607,
-            "beforeSkillGroupId1": [
-                10360701
-            ],
-            "nowSkillGroupId1": [
-                10360711
-            ],
-            "beforeSkillGroupId2": [
-                10360702
-            ],
-            "nowSkillGroupId2": [
-                10360712
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 100805,
-            "beforeSkillGroupId1": [
-                10080501,
-                10080701
-            ],
-            "nowSkillGroupId1": [
-                10080511,
-                10080711
-            ],
-            "beforeSkillGroupId2": [
-                10080502,
-                10080702
-            ],
-            "nowSkillGroupId2": [
-                10080512,
-                10080712
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 101705,
-            "beforeSkillGroupId1": [
-                10170501
-            ],
-            "nowSkillGroupId1": [
-                10170511,
-                101705111
-            ],
-            "beforeSkillGroupId2": [
-                10170502
-            ],
-            "nowSkillGroupId2": [
-                10170512,
-                101705111
-            ],
-            "beforeSkillGroupId3": [],
-            "nowSkillGroupId3": [],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 101707,
-            "beforeSkillGroupId1": [
-                10170701
-            ],
-            "nowSkillGroupId1": [
-                10170711
-            ],
-            "beforeSkillGroupId2": [
-                10170702
-            ],
-            "nowSkillGroupId2": [
-                10170712
             ],
             "beforeSkillGroupId3": [],
             "nowSkillGroupId3": [],
@@ -746,60 +544,39 @@
             "nowSkillGroupId4": []
         },
         {
-            "id": 1,
+            "id": 102701,
             "beforeSkillGroupId1": [
-                101
+                10270501
             ],
             "nowSkillGroupId1": [
-                201
+                10270511,
+                10270510
             ],
             "beforeSkillGroupId2": [
-                102
+                10270502
             ],
             "nowSkillGroupId2": [
-                202
+                10270512,
+                10270510
             ],
-            "beforeSkillGroupId3": [
-                103
-            ],
-            "nowSkillGroupId3": [
-                203
-            ],
-            "beforeSkillGroupId4": [],
-            "nowSkillGroupId4": []
-        },
-        {
-            "id": 2,
-            "beforeSkillGroupId1": [
-                0
-            ],
-            "nowSkillGroupId1": [
-                302,
-                301
-            ],
-            "beforeSkillGroupId2": [],
-            "nowSkillGroupId2": [],
             "beforeSkillGroupId3": [],
             "nowSkillGroupId3": [],
             "beforeSkillGroupId4": [],
             "nowSkillGroupId4": []
         },
         {
-            "id": 3,
+            "id": 102702,
             "beforeSkillGroupId1": [
-                401,
-                402
+                10270701
             ],
             "nowSkillGroupId1": [
-                501,
-                502,
-                503
+                10270711
             ],
             "beforeSkillGroupId2": [
-                102
+                10270702
             ],
             "nowSkillGroupId2": [
-                202
+                10270712
             ],
             "beforeSkillGroupId3": [],
             "nowSkillGroupId3": [],
@@ -807,31 +584,292 @@
             "nowSkillGroupId4": []
         },
         {
-            "id": 4,
+            "id": 102705,
             "beforeSkillGroupId1": [
-                601,
-                602
+                10270501
             ],
             "nowSkillGroupId1": [
-                0
+                10270511,
+                102705111
             ],
-            "beforeSkillGroupId2": [],
-            "nowSkillGroupId2": [],
+            "beforeSkillGroupId2": [
+                10270502
+            ],
+            "nowSkillGroupId2": [
+                10270512,
+                102705111
+            ],
             "beforeSkillGroupId3": [],
             "nowSkillGroupId3": [],
             "beforeSkillGroupId4": [],
             "nowSkillGroupId4": []
         },
         {
-            "id": 5,
+            "id": 102707,
             "beforeSkillGroupId1": [
-                10170501
+                10270701
             ],
             "nowSkillGroupId1": [
-                10080501
+                10270711
             ],
-            "beforeSkillGroupId2": [],
-            "nowSkillGroupId2": [],
+            "beforeSkillGroupId2": [
+                10270702
+            ],
+            "nowSkillGroupId2": [
+                10270712
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 102805,
+            "beforeSkillGroupId1": [
+                10280501,
+                102805011
+            ],
+            "nowSkillGroupId1": [
+                10280511,
+                102805111
+            ],
+            "beforeSkillGroupId2": [
+                10280502,
+                102805021
+            ],
+            "nowSkillGroupId2": [
+                10280512,
+                102805121
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 102807,
+            "beforeSkillGroupId1": [
+                10280701
+            ],
+            "nowSkillGroupId1": [
+                10280711
+            ],
+            "beforeSkillGroupId2": [
+                10280702,
+                102807021
+            ],
+            "nowSkillGroupId2": [
+                10280712,
+                102807021
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 102905,
+            "beforeSkillGroupId1": [
+                10290501
+            ],
+            "nowSkillGroupId1": [
+                10290511
+            ],
+            "beforeSkillGroupId2": [
+                10290502
+            ],
+            "nowSkillGroupId2": [
+                10290512
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 102907,
+            "beforeSkillGroupId1": [
+                10290701
+            ],
+            "nowSkillGroupId1": [
+                10290711,
+                102907113
+            ],
+            "beforeSkillGroupId2": [
+                10290702
+            ],
+            "nowSkillGroupId2": [
+                10290712,
+                102907113
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 103205,
+            "beforeSkillGroupId1": [
+                10320501
+            ],
+            "nowSkillGroupId1": [
+                10320511,
+                103205112
+            ],
+            "beforeSkillGroupId2": [
+                10320502
+            ],
+            "nowSkillGroupId2": [
+                10320512,
+                103205112
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 103207,
+            "beforeSkillGroupId1": [
+                10320701
+            ],
+            "nowSkillGroupId1": [
+                10320711
+            ],
+            "beforeSkillGroupId2": [
+                10320702
+            ],
+            "nowSkillGroupId2": [
+                10320712
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 103305,
+            "beforeSkillGroupId1": [
+                10330501,
+                103305011
+            ],
+            "nowSkillGroupId1": [
+                10330511,
+                103305111
+            ],
+            "beforeSkillGroupId2": [
+                10330502,
+                103305021
+            ],
+            "nowSkillGroupId2": [
+                10330512,
+                103305121
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 103307,
+            "beforeSkillGroupId1": [
+                10330701,
+                103307011
+            ],
+            "nowSkillGroupId1": [
+                10330711,
+                103307111
+            ],
+            "beforeSkillGroupId2": [
+                10330702,
+                103307021
+            ],
+            "nowSkillGroupId2": [
+                10330712,
+                103307121
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 103605,
+            "beforeSkillGroupId1": [
+                10360501
+            ],
+            "nowSkillGroupId1": [
+                10360511,
+                103605113
+            ],
+            "beforeSkillGroupId2": [
+                10360502
+            ],
+            "nowSkillGroupId2": [
+                10360512,
+                103605123
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 103607,
+            "beforeSkillGroupId1": [
+                10360701
+            ],
+            "nowSkillGroupId1": [
+                10360711
+            ],
+            "beforeSkillGroupId2": [
+                10360702
+            ],
+            "nowSkillGroupId2": [
+                10360712
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 103805,
+            "beforeSkillGroupId1": [
+                10380501
+            ],
+            "nowSkillGroupId1": [
+                10380511
+            ],
+            "beforeSkillGroupId2": [
+                10380502
+            ],
+            "nowSkillGroupId2": [
+                10380512
+            ],
+            "beforeSkillGroupId3": [],
+            "nowSkillGroupId3": [],
+            "beforeSkillGroupId4": [],
+            "nowSkillGroupId4": []
+        },
+        {
+            "id": 103807,
+            "beforeSkillGroupId1": [
+                10380701
+            ],
+            "nowSkillGroupId1": [
+                10380711,
+                103807113,
+                1038071111
+            ],
+            "beforeSkillGroupId2": [
+                10380702
+            ],
+            "nowSkillGroupId2": [
+                10380712,
+                103807113,
+                1038071111
+            ],
             "beforeSkillGroupId3": [],
             "nowSkillGroupId3": [],
             "beforeSkillGroupId4": [],

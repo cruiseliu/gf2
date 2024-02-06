@@ -8,6 +8,9 @@
             "priority": 9999,
             "timing": 1,
             "finishCondition": 1208,
+            "finishConditionList": [
+                1208
+            ],
             "lastTutorialGroup": [],
             "clientCondition": [],
             "globalTab": 0,
@@ -27,6 +30,9 @@
                 "Canvas/Default/BattleIndexPanel(Clone)/Root/GrpStoryMode_0/GrpTabList/GrpList/Viewport/Content:1"
             ],
             "finishCondition": 1204,
+            "finishConditionList": [
+                1204
+            ],
             "lastTutorialGroup": [],
             "clientCondition": [],
             "finishGroup": [],
@@ -44,6 +50,9 @@
                 "Canvas/Default/BattleIndexPanel(Clone)/Root/GrpStoryMode_0/GrpTabList/GrpList/Viewport/Content:2"
             ],
             "finishCondition": 1208,
+            "finishConditionList": [
+                1208
+            ],
             "lastTutorialGroup": [],
             "clientCondition": [],
             "finishGroup": [],
@@ -61,6 +70,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -72,8 +82,32 @@
             "priority": 202,
             "timing": 1,
             "finishCondition": 1022,
+            "finishConditionList": [
+                1022,
+                1240
+            ],
+            "lastTutorialGroup": [],
+            "clientCondition": [],
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 203,
+            "condition": [
+                1202
+            ],
+            "priority": 202,
+            "timing": 1401,
+            "finishCondition": 1022,
+            "finishConditionList": [
+                1022,
+                1240
+            ],
             "finishGroup": [
-                201
+                201,
+                202
             ],
             "lastTutorialGroup": [],
             "clientCondition": [],
@@ -93,6 +127,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -111,6 +146,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -129,6 +165,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -137,12 +174,13 @@
                 1204
             ],
             "priority": 501,
-            "timing": 1103,
+            "timing": 1101,
             "lastTutorialGroup": [],
             "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -164,6 +202,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -184,6 +223,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -202,6 +242,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -216,6 +257,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -231,6 +273,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -246,6 +289,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -263,6 +307,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -278,6 +323,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -300,6 +346,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -314,6 +361,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -333,6 +381,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -342,11 +391,12 @@
             ],
             "priority": 1001,
             "timing": 1,
-            "finishCondition": 1207,
             "lastTutorialGroup": [],
             "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -357,7 +407,6 @@
             ],
             "priority": 1002,
             "timing": 1103,
-            "finishCondition": 1207,
             "finishGroup": [
                 1001
             ],
@@ -365,6 +414,8 @@
             "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -379,6 +430,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -399,6 +451,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -416,6 +469,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -435,6 +489,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -449,6 +504,7 @@
             "clientCondition": [],
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -466,6 +522,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -481,6 +538,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -496,6 +554,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -526,6 +585,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -540,6 +600,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -555,6 +616,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -570,6 +632,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -585,6 +648,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -600,6 +664,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -615,6 +680,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -630,6 +696,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -645,6 +712,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -660,6 +728,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -675,6 +744,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -690,6 +760,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -708,6 +779,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -737,6 +809,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -764,6 +837,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -780,6 +854,7 @@
             "condition": [],
             "clientCondition": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -795,6 +870,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -810,6 +886,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -825,6 +902,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -840,6 +918,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -855,6 +934,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -870,6 +950,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -885,6 +966,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -900,6 +982,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -915,6 +998,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -930,6 +1014,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -947,6 +1032,7 @@
             "condition": [],
             "clientCondition": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -967,6 +1053,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -981,6 +1068,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1011,6 +1099,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -1038,6 +1127,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -1052,6 +1142,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1067,6 +1158,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1082,6 +1174,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1097,6 +1190,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1112,6 +1206,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1127,6 +1222,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1142,6 +1238,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1157,6 +1254,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1172,6 +1270,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1187,6 +1286,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1202,6 +1302,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1219,6 +1320,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1239,6 +1341,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "skipFinishGroup": []
         },
         {
@@ -1253,6 +1356,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1268,6 +1372,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1283,6 +1388,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1297,6 +1403,9 @@
             "priority": 2303,
             "timing": 2401,
             "finishCondition": 1026,
+            "finishConditionList": [
+                1026
+            ],
             "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
@@ -1317,6 +1426,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1332,6 +1442,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1347,6 +1458,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1360,6 +1472,7 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1375,84 +1488,103 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
         {
             "id": 2701,
+            "clientCondition": [
+                13
+            ],
             "priority": 2701,
             "timing": 4001,
             "lastTutorialGroup": [],
             "condition": [],
-            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
         {
             "id": 2801,
+            "clientCondition": [
+                14
+            ],
             "priority": 2801,
             "timing": 4002,
             "lastTutorialGroup": [],
             "condition": [],
-            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
         {
             "id": 2901,
+            "clientCondition": [
+                14
+            ],
             "priority": 2901,
             "timing": 4005,
             "lastTutorialGroup": [],
             "condition": [],
-            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
         {
             "id": 3001,
+            "clientCondition": [
+                14
+            ],
             "priority": 3001,
             "timing": 4003,
             "lastTutorialGroup": [],
             "condition": [],
-            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
         {
             "id": 3101,
+            "clientCondition": [
+                14
+            ],
             "priority": 3101,
             "timing": 4006,
             "lastTutorialGroup": [],
             "condition": [],
-            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
         {
             "id": 3201,
+            "clientCondition": [
+                14
+            ],
             "priority": 3201,
             "timing": 4007,
             "lastTutorialGroup": [],
             "condition": [],
-            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1461,19 +1593,23 @@
             "condition": [
                 2211
             ],
+            "clientCondition": [
+                14
+            ],
             "priority": 3301,
             "timing": 4006,
             "lastTutorialGroup": [],
-            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
         {
             "id": 3401,
             "clientCondition": [
+                14,
                 9
             ],
             "priority": 3401,
@@ -1483,6 +1619,101 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 3501,
+            "condition": [
+                29301
+            ],
+            "clientCondition": [
+                12
+            ],
+            "priority": 3501,
+            "timing": 5001,
+            "lastTutorialGroup": [],
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 3601,
+            "lastTutorialGroup": [
+                3501
+            ],
+            "condition": [
+                29301
+            ],
+            "clientCondition": [
+                12
+            ],
+            "priority": 3601,
+            "timing": 5001,
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 3701,
+            "lastTutorialGroup": [
+                3601
+            ],
+            "condition": [
+                29301
+            ],
+            "clientCondition": [
+                12
+            ],
+            "priority": 3701,
+            "timing": 5001,
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 3901,
+            "lastTutorialGroup": [
+                3701
+            ],
+            "condition": [
+                29301
+            ],
+            "clientCondition": [
+                12
+            ],
+            "priority": 3901,
+            "timing": 5004,
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 4101,
+            "condition": [
+                1017
+            ],
+            "priority": 4101,
+            "timing": 3101,
+            "lastTutorialGroup": [],
+            "clientCondition": [],
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         },
@@ -1496,6 +1727,41 @@
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 4301,
+            "condition": [
+                33002
+            ],
+            "priority": 4301,
+            "timing": 1005,
+            "lastTutorialGroup": [],
+            "clientCondition": [],
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 4401,
+            "condition": [
+                29301
+            ],
+            "clientCondition": [
+                11
+            ],
+            "priority": 4401,
+            "timing": 5001,
+            "lastTutorialGroup": [],
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
             "finishGroup": [],
             "skipFinishGroup": []
         }

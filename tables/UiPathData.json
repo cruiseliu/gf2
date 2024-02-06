@@ -1,18 +1,6 @@
 {
     "data": [
         {
-            "id": 30,
-            "uiPath": "CombatImage/Btn_BattleScan"
-        },
-        {
-            "id": 31,
-            "uiPath": "UI_Trans_SkillUnitInfo/SkillHit"
-        },
-        {
-            "id": 32,
-            "uiPath": ""
-        },
-        {
             "id": 1,
             "uiPath": "CombatImage/BattleSsttingButton/Btn_SettingBtn/BtnImage"
         },
@@ -127,6 +115,18 @@
         {
             "id": 29,
             "uiPath": "CombatImage/UI_Trans_SkillUnitInfo/UI_GunSkillLayout|CombatImage/UI_Trans_SkillUnitInfo/EnemySkill"
+        },
+        {
+            "id": 30,
+            "uiPath": "CombatImage/Btn_BattleScan"
+        },
+        {
+            "id": 31,
+            "uiPath": "UI_Trans_SkillUnitInfo/SkillHit"
+        },
+        {
+            "id": 32,
+            "uiPath": ""
         }
     ]
 }

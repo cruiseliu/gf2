@@ -1,26 +1,6 @@
 {
     "data": [
         {
-            "id": 10,
-            "groupId": 101,
-            "type": 2,
-            "rewardItem": {
-                "1": 60
-            },
-            "rewardCount": 1,
-            "weight": 120
-        },
-        {
-            "id": 11,
-            "groupId": 101,
-            "type": 2,
-            "rewardItem": {
-                "1": 60
-            },
-            "rewardCount": 1,
-            "weight": 120
-        },
-        {
             "id": 1,
             "groupId": 101,
             "type": 1,
@@ -106,6 +86,26 @@
             "type": 2,
             "rewardItem": {
                 "1": 90
+            },
+            "rewardCount": 1,
+            "weight": 120
+        },
+        {
+            "id": 10,
+            "groupId": 101,
+            "type": 2,
+            "rewardItem": {
+                "1": 60
+            },
+            "rewardCount": 1,
+            "weight": 120
+        },
+        {
+            "id": 11,
+            "groupId": 101,
+            "type": 2,
+            "rewardItem": {
+                "1": 60
             },
             "rewardCount": 1,
             "weight": 120

@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "id": 101,
+            "stage": [
+                1011,
+                1012,
+                1013,
+                1014,
+                1015
+            ],
+            "bossIcon": "Monster_Head_FelaskjuCaptain"
+        },
+        {
             "id": 201,
             "stage": [
                 2011,
@@ -21,6 +32,28 @@
                 3015
             ],
             "bossIcon": "Monster_Head_ArrowThornElite"
+        },
+        {
+            "id": 401,
+            "stage": [
+                4011,
+                4012,
+                4013,
+                4014,
+                4015
+            ],
+            "bossIcon": "Monster_Head_HammerThornElite"
+        },
+        {
+            "id": 501,
+            "stage": [
+                5011,
+                5012,
+                5013,
+                5014,
+                5015
+            ],
+            "bossIcon": "Monster_Head_AegisArtillery_SWAP"
         }
     ]
 }

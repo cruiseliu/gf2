@@ -119,6 +119,86 @@
             "baseRequire": 20351,
             "recommendLevel": 45,
             "mainEnemy": "Monster_Half_ArrowThornElite"
+        },
+        {
+            "levelId": 4011,
+            "levelName": "子群一",
+            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+            "baseRequire": 20411,
+            "recommendLevel": 45,
+            "mainEnemy": "Monster_Half_ArrowThornElite"
+        },
+        {
+            "levelId": 4012,
+            "levelName": "子群二",
+            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+            "baseRequire": 20421,
+            "recommendLevel": 46,
+            "mainEnemy": "Monster_Half_ArrowThornElite"
+        },
+        {
+            "levelId": 4013,
+            "levelName": "子群三",
+            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+            "baseRequire": 20431,
+            "recommendLevel": 47,
+            "mainEnemy": "Monster_Half_UnitasIon"
+        },
+        {
+            "levelId": 4014,
+            "levelName": "子群四",
+            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+            "baseRequire": 20441,
+            "recommendLevel": 48,
+            "mainEnemy": "Monster_Half_Commander"
+        },
+        {
+            "levelId": 4015,
+            "levelName": "子群五",
+            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+            "baseRequire": 20451,
+            "recommendLevel": 50,
+            "mainEnemy": "Monster_Half_Felaskju_Hummer"
+        },
+        {
+            "levelId": 5011,
+            "levelName": "子群一",
+            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
+            "baseRequire": 20511,
+            "recommendLevel": 50,
+            "mainEnemy": "Monster_Half_Commander"
+        },
+        {
+            "levelId": 5012,
+            "levelName": "子群二",
+            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
+            "baseRequire": 20521,
+            "recommendLevel": 51,
+            "mainEnemy": "Monster_Half_FelaskjuCaptain"
+        },
+        {
+            "levelId": 5013,
+            "levelName": "子群三",
+            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
+            "baseRequire": 20531,
+            "recommendLevel": 52,
+            "mainEnemy": "Monster_Half_HammerThornElite"
+        },
+        {
+            "levelId": 5014,
+            "levelName": "子群四",
+            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
+            "baseRequire": 20541,
+            "recommendLevel": 53,
+            "mainEnemy": "Monster_Half_Felaskju_Hummer"
+        },
+        {
+            "levelId": 5015,
+            "levelName": "子群五",
+            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
+            "baseRequire": 20551,
+            "recommendLevel": 55,
+            "mainEnemy": "Monster_Half_AegisArtillery_SWAP"
         }
     ]
 }

@@ -1,141 +1,45 @@
 {
     "data": [
         {
-            "id": 1801,
+            "id": 61,
             "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIMailPanelV2",
+            "jumpPrefab": "UIUniteChapterPanel",
+            "unlockId": 33001
+        },
+        {
+            "id": 100,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UICommandCenterPanel",
             "unlockId": 0
         },
         {
-            "id": 5002,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIActivityDialog",
-            "unlockId": 30001
+            "id": 101,
+            "jumpPrefab": "UICommonGetPanel",
+            "unlockId": 27000,
+            "jumpScene": ""
         },
         {
-            "id": 3001,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIBattlePassPanel",
+            "id": 102,
+            "jumpPrefab": "UIComDiamondExchangeDialog",
+            "unlockId": 16201,
+            "jumpScene": ""
+        },
+        {
+            "id": 103,
+            "jumpPrefab": "UIComItemExchangeDialog",
+            "jumpScene": "",
             "unlockId": 0
         },
         {
-            "id": 3002,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIBattlePassUnlockPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 1401,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIQuestPanel",
-            "unlockId": 24001
-        },
-        {
-            "id": 1402,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIQuestPanel",
-            "unlockId": 24002
-        },
-        {
-            "id": 1501,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIRepositoryPanelV2",
-            "unlockId": 0
-        },
-        {
-            "id": 2001,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIPVPMainPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 2002,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIPVPChallengeRecordDialog",
-            "unlockId": 0
-        },
-        {
-            "id": 2003,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIPVPRankDialog",
-            "unlockId": 0
-        },
-        {
-            "id": 2004,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "PVPMacineYardPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 1901,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDarkZoneMainPanel",
-            "unlockId": 28000
-        },
-        {
-            "id": 1902,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDarkZoneRepositoryPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 1903,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDarkZoneNPCSelectPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 1904,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDarkZoneStorePanel",
-            "unlockId": 0
-        },
-        {
-            "id": 1905,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDarkZoneMapSelectPanel",
-            "unlockId": 28000
-        },
-        {
-            "id": 1906,
+            "id": 833,
             "jumpScene": "CommandCenter",
             "jumpPrefab": "UIDarkZoneQuestPanel",
-            "unlockId": 28000
+            "unlockId": 29301
         },
         {
-            "id": 1907,
+            "id": 925,
             "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDarkZoneModePanel",
-            "unlockId": 28000
-        },
-        {
-            "id": 1908,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDarkZoneMainPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 1909,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDarkZoneMakeTablePanel",
-            "unlockId": 0
-        },
-        {
-            "id": 2201,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "ArchivesCenterEnterPanelV2",
-            "unlockId": 20000
-        },
-        {
-            "id": 2301,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIDailyCheckInPanel",
-            "unlockId": 26002
-        },
-        {
-            "id": 4100,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIBarrackChangeSkinPanel",
+            "jumpPrefab": "UIRecentActivityPanel",
             "unlockId": 0
         },
         {
@@ -199,114 +103,6 @@
             "jumpScene": ""
         },
         {
-            "id": 1020,
-            "jumpPrefab": "UISimCombatWeaponModPanel",
-            "unlockId": 11012,
-            "jumpScene": ""
-        },
-        {
-            "id": 1601,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIFriendPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 1301,
-            "jumpPrefab": "UIGachaMainPanelV2",
-            "unlockId": 13000,
-            "jumpScene": ""
-        },
-        {
-            "id": 1304,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIChrPowerUpPanel",
-            "unlockId": 12000
-        },
-        {
-            "id": 1305,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIGunTalentAssemblyPanel",
-            "unlockId": 29001
-        },
-        {
-            "id": 1306,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIWeaponPanel",
-            "unlockId": 12003
-        },
-        {
-            "id": 1307,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIChrWeaponPowerUpPanelV4",
-            "unlockId": 29002
-        },
-        {
-            "id": 1308,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIChrWeaponPartsPowerUpPanelV4",
-            "unlockId": 12007
-        },
-        {
-            "id": 1309,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "DormMainPanel",
-            "unlockId": 15100
-        },
-        {
-            "id": 1701,
-            "jumpScene": "UAVhanger",
-            "jumpPrefab": "UIUAVPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 2101,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "DaiyanPreheatPanel",
-            "unlockId": 29301
-        },
-        {
-            "id": 2102,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "DaiyanMainPanel",
-            "unlockId": 29301
-        },
-        {
-            "id": 2103,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "DaiyanChapterPanel",
-            "unlockId": 29301
-        },
-        {
-            "id": 2104,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "ActivityTourDifficultySelectPanel",
-            "unlockId": 29302
-        },
-        {
-            "id": 100,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UICommandCenterPanel",
-            "unlockId": 0
-        },
-        {
-            "id": 101,
-            "jumpPrefab": "UICommonGetPanel",
-            "unlockId": 27000,
-            "jumpScene": ""
-        },
-        {
-            "id": 102,
-            "jumpPrefab": "UIComDiamondExchangeDialog",
-            "unlockId": 16201,
-            "jumpScene": ""
-        },
-        {
-            "id": 103,
-            "jumpPrefab": "UIComItemExchangeDialog",
-            "jumpScene": "",
-            "unlockId": 0
-        },
-        {
             "id": 1010,
             "jumpScene": "CommandCenter",
             "jumpPrefab": "UISimCombatTutorialEntrancePanel",
@@ -361,6 +157,12 @@
             "unlockId": 11009
         },
         {
+            "id": 1020,
+            "jumpPrefab": "UISimCombatWeaponModPanel",
+            "unlockId": 11012,
+            "jumpScene": ""
+        },
+        {
             "id": 1201,
             "jumpScene": "CommandCenter",
             "jumpPrefab": "UIStoreExchangePanel",
@@ -383,6 +185,246 @@
             "jumpPrefab": "UIStoreExchangePanel",
             "unlockId": 16008,
             "jumpScene": ""
+        },
+        {
+            "id": 1301,
+            "jumpPrefab": "UIGachaMainPanelV2",
+            "unlockId": 13000,
+            "jumpScene": ""
+        },
+        {
+            "id": 1304,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIChrPowerUpPanel",
+            "unlockId": 12000
+        },
+        {
+            "id": 1305,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIGunTalentAssemblyPanel",
+            "unlockId": 29001
+        },
+        {
+            "id": 1306,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIWeaponPanel",
+            "unlockId": 12003
+        },
+        {
+            "id": 1307,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIChrWeaponPowerUpPanelV4",
+            "unlockId": 29002
+        },
+        {
+            "id": 1308,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIChrWeaponPartsPowerUpPanelV4",
+            "unlockId": 12007
+        },
+        {
+            "id": 1309,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "DormMainPanel",
+            "unlockId": 15100
+        },
+        {
+            "id": 1401,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIQuestPanel",
+            "unlockId": 24001
+        },
+        {
+            "id": 1402,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIQuestPanel",
+            "unlockId": 24002
+        },
+        {
+            "id": 1501,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIRepositoryPanelV2",
+            "unlockId": 0
+        },
+        {
+            "id": 1601,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIFriendPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 1701,
+            "jumpScene": "UAVhanger",
+            "jumpPrefab": "UIUAVPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 1801,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIMailPanelV2",
+            "unlockId": 0
+        },
+        {
+            "id": 1901,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneMainPanel",
+            "unlockId": 28000
+        },
+        {
+            "id": 1902,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneRepositoryPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 1903,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneNPCSelectPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 1904,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneStorePanel",
+            "unlockId": 0
+        },
+        {
+            "id": 1905,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneMapSelectPanel",
+            "unlockId": 28000
+        },
+        {
+            "id": 1906,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneQuestPanel",
+            "unlockId": 28000
+        },
+        {
+            "id": 1907,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneModePanel",
+            "unlockId": 28000
+        },
+        {
+            "id": 1908,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneMainPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 1909,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkZoneMakeTablePanel",
+            "unlockId": 0
+        },
+        {
+            "id": 1910,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkzoneModeCarrierPanel",
+            "unlockId": 28000
+        },
+        {
+            "id": 2001,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIPVPMainPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 2002,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIPVPChallengeRecordDialog",
+            "unlockId": 0
+        },
+        {
+            "id": 2003,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIPVPRankDialog",
+            "unlockId": 0
+        },
+        {
+            "id": 2004,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "PVPMacineYardPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 2101,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "DaiyanPreheatPanel",
+            "unlockId": 29301
+        },
+        {
+            "id": 2102,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "DaiyanMainPanel",
+            "unlockId": 29301
+        },
+        {
+            "id": 2103,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "DaiyanChapterPanel",
+            "unlockId": 29301
+        },
+        {
+            "id": 2104,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "ActivityTourDifficultySelectPanel",
+            "unlockId": 29302
+        },
+        {
+            "id": 2201,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "ArchivesCenterEnterPanelV2",
+            "unlockId": 20000
+        },
+        {
+            "id": 2301,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDailyCheckInPanel",
+            "unlockId": 26002
+        },
+        {
+            "id": 2401,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIActivityCafeMainPanel",
+            "unlockId": 29301
+        },
+        {
+            "id": 2600,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIDarkzoneModeCarrierPanel",
+            "unlockId": 29301
+        },
+        {
+            "id": 3001,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIBattlePassPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 3002,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIBattlePassUnlockPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 4100,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIBarrackChangeSkinPanel",
+            "unlockId": 0
+        },
+        {
+            "id": 5001,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIActivityTreasureBpPanel",
+            "unlockId": 30001
+        },
+        {
+            "id": 5002,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIActivityDialog",
+            "unlockId": 30001
         }
     ]
 }

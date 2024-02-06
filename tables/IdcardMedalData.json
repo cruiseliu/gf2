@@ -5,6 +5,7 @@
             "name": "",
             "qualify": "暂无徽记",
             "qualifySimplify": "",
+            "sort": 9999,
             "icon": "",
             "achievement": 0,
             "jump": 0
@@ -16,6 +17,7 @@
             "qualify": "完成主线战役第一章·双摆推演后解锁",
             "qualifySimplify": "完成主线战役第一章·双摆推演后解锁",
             "achievement": 48019,
+            "sort": 101,
             "jump": 0
         },
         {
@@ -25,6 +27,7 @@
             "qualify": "完成主线战役第二章·第二信号后解锁",
             "qualifySimplify": "完成主线战役第二章·第二信号后解锁",
             "achievement": 48020,
+            "sort": 102,
             "jump": 0
         },
         {
@@ -34,6 +37,7 @@
             "qualify": "完成主线战役第三章·缺位拟合后解锁",
             "qualifySimplify": "完成主线战役第三章·缺位拟合后解锁",
             "achievement": 48021,
+            "sort": 103,
             "jump": 0
         },
         {
@@ -43,6 +47,7 @@
             "qualify": "完成主线战役第四章·逆序矩阵后解锁",
             "qualifySimplify": "完成主线战役第四章·逆序矩阵后解锁",
             "achievement": 48022,
+            "sort": 104,
             "jump": 0
         },
         {
@@ -52,6 +57,7 @@
             "qualify": "完成主线战役第五章·异频共振后解锁",
             "qualifySimplify": "完成主线战役第五章·异频共振后解锁",
             "achievement": 48023,
+            "sort": 105,
             "jump": 0
         },
         {
@@ -61,69 +67,147 @@
             "qualify": "完成主线战役第六章·简谐周期后解锁",
             "qualifySimplify": "完成主线战役第六章·简谐周期后解锁",
             "achievement": 48024,
+            "sort": 106,
+            "jump": 0
+        },
+        {
+            "id": 22008,
+            "icon": "Item_Icon_Medal_Story07",
+            "name": "徽记·放射衰变",
+            "qualify": "通关主线战役第七章·放射衰变后解锁",
+            "qualifySimplify": "通关主线战役第七章·放射衰变后解锁",
+            "achievement": 48025,
+            "sort": 107,
             "jump": 0
         },
         {
             "id": 22009,
             "icon": "Item_Icon_Medal_Gun_Collect01",
             "name": "徽记·人来人往",
-            "qualify": "累计获得12名人形后解锁",
-            "qualifySimplify": "累计获得12名人形后解锁",
+            "qualify": "累计获得{0}/12名人形后解锁",
+            "qualifySimplify": "累计获得{0}/12名人形后解锁",
             "achievement": 48026,
+            "sort": 11,
             "jump": 0
         },
         {
             "id": 22010,
             "icon": "Item_Icon_Medal_Gacha01",
             "name": "徽记·访问专家",
-            "qualify": "累积访问400次后解锁",
-            "qualifySimplify": "累积访问400次后解锁",
+            "qualify": "累积访问{0}/400次后解锁",
+            "qualifySimplify": "累积访问{0}/400次后解锁",
             "achievement": 48027,
+            "sort": 12,
+            "jump": 0
+        },
+        {
+            "id": 22011,
+            "icon": "Item_Icon_Medal_Chrtalent01",
+            "name": "徽记·衍生大师",
+            "qualify": "累积激活{0}/8个衍生键后解锁",
+            "qualifySimplify": "累积激活{0}/8个衍生键后解锁",
+            "achievement": 48028,
+            "sort": 19,
+            "jump": 0
+        },
+        {
+            "id": 22012,
+            "icon": "Item_Icon_Medal_Gun_LevelUp01",
+            "name": "徽记·基础小队",
+            "qualify": "拥有{0}/4名60级人形后解锁",
+            "qualifySimplify": "拥有{0}/4名60级人形后解锁",
+            "achievement": 48029,
+            "sort": 20,
+            "jump": 0
+        },
+        {
+            "id": 22013,
+            "icon": "Item_Icon_Medal_Gun_LevelUp02",
+            "name": "徽记·多人编组",
+            "qualify": "拥有{0}/12名60级人形后解锁",
+            "qualifySimplify": "拥有{0}/12名60级人形后解锁",
+            "achievement": 48030,
+            "sort": 21,
+            "jump": 0
+        },
+        {
+            "id": 22014,
+            "icon": "Item_Icon_Medal_Weapon_LevelUp01",
+            "name": "徽记·整装待发",
+            "qualify": "拥有{0}/4把60级熟练度武器后解锁",
+            "qualifySimplify": "拥有{0}/4把60级熟练度武器后解锁",
+            "achievement": 48031,
+            "sort": 22,
+            "jump": 0
+        },
+        {
+            "id": 22015,
+            "icon": "Item_Icon_Medal_Weapon_LevelUp02",
+            "name": "徽记·精锐之师",
+            "qualify": "拥有{0}/12把60级熟练度武器后解锁",
+            "qualifySimplify": "拥有{0}/12把60级熟练度武器后解锁",
+            "achievement": 48032,
+            "sort": 23,
             "jump": 0
         },
         {
             "id": 22018,
             "icon": "Item_Icon_Medal_WeaponPart_GrowUp01",
             "name": "徽记·琳琅满目",
-            "qualify": "拥有60个精调配件后解锁",
-            "qualifySimplify": "拥有60个精调配件后解锁",
+            "qualify": "拥有{0}/60个精调配件后解锁",
+            "qualifySimplify": "拥有{0}/60个精调配件后解锁",
             "achievement": 48035,
+            "sort": 13,
+            "jump": 0
+        },
+        {
+            "id": 22019,
+            "icon": "Item_Icon_Medal_Player_LevelUp01",
+            "name": "徽记·小小一步",
+            "qualify": "指挥官等级达到{0}/60级后解锁",
+            "qualifySimplify": "指挥官等级达到{0}/60级后解锁",
+            "achievement": 48036,
+            "sort": 18,
             "jump": 0
         },
         {
             "id": 22020,
             "icon": "Item_Icon_Medal_Consume_Energy01",
             "name": "徽记·画地成图",
-            "qualify": "消耗14,400个情报拼图后解锁",
-            "qualifySimplify": "消耗14,400个情报拼图后解锁",
+            "qualify": "消耗{0}/14,400个情报拼图后解锁",
+            "qualifySimplify": "消耗{0}/14,400个情报拼图后解锁",
             "achievement": 48039,
+            "sort": 14,
             "jump": 0
         },
         {
             "id": 22021,
             "icon": "Item_Icon_Medal_Consume_Gold01",
             "name": "徽记·神秘富翁",
-            "qualify": "消耗100,000,000盎司萨狄斯金后解锁",
-            "qualifySimplify": "消耗100,000,000盎司萨狄斯金后解锁",
+            "qualify": "消耗{0}/100,000,000盎司萨狄斯金后解锁",
+            "qualifySimplify": "消耗{0}/100,000,000盎司萨狄斯金后解锁",
             "achievement": 48040,
+            "sort": 15,
             "jump": 0
         },
         {
             "id": 22022,
             "icon": "Item_Icon_Medal_Player_Login01",
             "name": "徽记·著名老猎人",
-            "qualify": "累积登录100天后解锁",
-            "qualifySimplify": "累积登录100天后解锁",
+            "qualify": "累积登录{0}/100天后解锁",
+            "qualifySimplify": "累积登录{0}/100天后解锁",
             "achievement": 48037,
+            "sort": 16,
             "jump": 0
         },
         {
             "id": 22023,
             "icon": "Item_Icon_Medal_Player_SignIn01",
             "name": "徽记·满勤老猎人",
-            "qualify": "连续登录30天后解锁",
-            "qualifySimplify": "连续登录30天后解锁",
+            "qualify": "连续登录{0}/30天后解锁",
+            "qualifySimplify": "连续登录{0}/30天后解锁",
             "achievement": 48038,
+            "sort": 17,
             "jump": 0
         },
         {
@@ -133,6 +217,7 @@
             "qualify": "实兵演习达到资深段位后解锁",
             "qualifySimplify": "实兵演习达到资深段位后解锁",
             "achievement": 48001,
+            "sort": 2,
             "jump": 0
         },
         {
@@ -142,6 +227,7 @@
             "qualify": "实兵演习达到专家段位后解锁",
             "qualifySimplify": "实兵演习达到专家段位后解锁",
             "achievement": 48002,
+            "sort": 3,
             "jump": 0
         },
         {
@@ -151,6 +237,7 @@
             "qualify": "实兵演习达到大师段位后解锁",
             "qualifySimplify": "实兵演习达到大师段位后解锁",
             "achievement": 48003,
+            "sort": 4,
             "jump": 0
         },
         {
@@ -160,6 +247,7 @@
             "qualify": "实兵演习中成功防守其他赏金猎人100次后解锁",
             "qualifySimplify": "实兵演习中成功防守其他赏金猎人100次后解锁",
             "achievement": 48004,
+            "sort": 5,
             "jump": 0
         },
         {
@@ -169,33 +257,77 @@
             "qualify": "实兵演习中成功进攻其他赏金猎人1000次后解锁",
             "qualifySimplify": "实兵演习中成功进攻其他赏金猎人1000次后解锁",
             "achievement": 48005,
+            "sort": 6,
             "jump": 0
         },
         {
             "id": 22043,
             "icon": "Item_Icon_Medal_ActivityDaiyan1",
             "name": "徽记·走街串巷",
-            "qualify": "首通诡械追缉·奏鸣曲后解锁。",
-            "qualifySimplify": "首通诡械追缉·奏鸣曲后解锁。",
+            "qualify": "首通诡械追缉·奏鸣曲后解锁",
+            "qualifySimplify": "首通诡械追缉·奏鸣曲后解锁",
             "achievement": 48041,
+            "sort": 201,
             "jump": 0
         },
         {
             "id": 22044,
             "icon": "Item_Icon_Medal_ActivityDaiyan2",
             "name": "徽记·市集巡查",
-            "qualify": "首通诡械追缉·三部曲后解锁。",
-            "qualifySimplify": "首通诡械追缉·三部曲后解锁。",
+            "qualify": "首通诡械追缉·三部曲后解锁",
+            "qualifySimplify": "首通诡械追缉·三部曲后解锁",
             "achievement": 48042,
+            "sort": 202,
             "jump": 0
         },
         {
             "id": 22045,
             "icon": "Item_Icon_Medal_ActivityDaiyan3",
             "name": "徽记·喧闹庆典",
-            "qualify": "首通诡械追缉·回旋曲后解锁。",
-            "qualifySimplify": "首通诡械追缉·回旋曲后解锁。",
+            "qualify": "首通诡械追缉·回旋曲后解锁",
+            "qualifySimplify": "首通诡械追缉·回旋曲后解锁",
             "achievement": 48043,
+            "sort": 203,
+            "jump": 0
+        },
+        {
+            "id": 22046,
+            "icon": "Item_Icon_Medal_ActivityCafe1",
+            "name": "徽记·交易好手",
+            "qualify": "初次完成醇香委托·初级委托后解锁",
+            "qualifySimplify": "初次完成醇香委托·初级委托后解锁",
+            "sort": 204,
+            "achievement": 0,
+            "jump": 0
+        },
+        {
+            "id": 22047,
+            "icon": "Item_Icon_Medal_ActivityCafe2",
+            "name": "徽记·慧眼识货",
+            "qualify": "初次完成醇香委托·中级委托后解锁",
+            "qualifySimplify": "初次完成醇香委托·中级委托后解锁",
+            "sort": 205,
+            "achievement": 0,
+            "jump": 0
+        },
+        {
+            "id": 22048,
+            "icon": "Item_Icon_Medal_ActivityCafe3",
+            "name": "徽记·运载先驱",
+            "qualify": "初次完成醇香委托高级委托后解锁",
+            "qualifySimplify": "初次完成醇香委托高级委托后解锁",
+            "sort": 206,
+            "achievement": 0,
+            "jump": 0
+        },
+        {
+            "id": 22050,
+            "icon": "Item_Icon_Medal_eventbox",
+            "name": "徽记·暗香契约",
+            "qualify": "在暗香赠礼中，完成指定目标后解锁",
+            "qualifySimplify": "在暗香赠礼中，完成指定目标后解锁",
+            "sort": 208,
+            "achievement": 0,
             "jump": 0
         }
     ]

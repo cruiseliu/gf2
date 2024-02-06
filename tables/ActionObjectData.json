@@ -1,20 +1,6 @@
 {
     "data": [
         {
-            "id": 200030,
-            "type": 1,
-            "things": "s_Lng_simple_NailFile_skin",
-            "name": "s_Lng_simple_NailFile_CleanInteract01",
-            "ifloop": false
-        },
-        {
-            "id": 200031,
-            "type": 1,
-            "things": "s_Lng_simple_NailFile_skin",
-            "name": "s_Lng_simple_NailFile_CleanEnd",
-            "ifloop": false
-        },
-        {
             "id": 200001,
             "type": 1,
             "things": "f_book_Groza_Lngbe_skin",
@@ -215,6 +201,20 @@
             "type": 1,
             "things": "s_Lng_simple_NailFile_skin",
             "name": "s_Lng_simple_NailFile_CleanLoop2",
+            "ifloop": false
+        },
+        {
+            "id": 200030,
+            "type": 1,
+            "things": "s_Lng_simple_NailFile_skin",
+            "name": "s_Lng_simple_NailFile_CleanInteract01",
+            "ifloop": false
+        },
+        {
+            "id": 200031,
+            "type": 1,
+            "things": "s_Lng_simple_NailFile_skin",
+            "name": "s_Lng_simple_NailFile_CleanEnd",
             "ifloop": false
         }
     ]

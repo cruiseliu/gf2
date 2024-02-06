@@ -16,14 +16,29 @@
             "keepSubmodule": {}
         },
         {
+            "id": 113101,
+            "stageType": 1,
+            "type": 131,
+            "activitySubmodule": {
+                "3001": 101
+            },
+            "activityRole": "",
+            "activityMainBg": "",
+            "activityInformation": "",
+            "entranceType": {
+                "3001": 1
+            },
+            "keepSubmodule": {}
+        },
+        {
             "id": 222101,
             "stageType": 2,
             "type": 221,
             "activitySubmodule": {
-                "2001": 4001,
                 "3002": 101,
+                "4001": 101,
                 "5001": 101,
-                "4001": 101
+                "2001": 4001
             },
             "keepSubmodule": {
                 "5001": 11
@@ -33,10 +48,29 @@
             "activityInformation": "一次采风之旅，一场城市欢宴。\n庆典在即，变故徒生，循着回忆中的歌谣，黛烟将谱出怎样的旋律？",
             "entranceType": {
                 "3002": 1,
-                "2001": 1,
+                "4001": 1,
                 "5001": 1,
-                "4001": 1
+                "2001": 1
             }
+        },
+        {
+            "id": 223101,
+            "stageType": 2,
+            "type": 231,
+            "activitySubmodule": {
+                "7001": 101,
+                "2002": 994002,
+                "2001": 4002,
+                "3003": 101
+            },
+            "activityRole": "",
+            "activityMainBg": "",
+            "activityInformation": "",
+            "entranceType": {
+                "7001": 1,
+                "3003": 1
+            },
+            "keepSubmodule": {}
         },
         {
             "id": 322101,
@@ -51,13 +85,30 @@
             },
             "activityRole": "Avatar_Daiyan",
             "activityMainBg": "Img_DaiyanMain_Bg",
-            "activityInformation": "活动已结束，当前可继续参与丰祝摇奖机和风闻撷律。",
+            "activityInformation": "活动已结束，\n当前可继续参与丰祝摇奖机和风闻撷律。",
             "entranceType": {
-                "2001": 2,
+                "3002": 2,
                 "4001": 1,
                 "5001": 1,
-                "3002": 2
+                "2001": 2
             }
+        },
+        {
+            "id": 323101,
+            "stageType": 3,
+            "type": 231,
+            "activitySubmodule": {
+                "7001": 101,
+                "3003": 101
+            },
+            "activityRole": "",
+            "activityMainBg": "",
+            "activityInformation": "",
+            "entranceType": {
+                "7001": 4,
+                "3003": 1
+            },
+            "keepSubmodule": {}
         }
     ]
 }

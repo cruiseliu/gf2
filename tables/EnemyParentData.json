@@ -1,0 +1,538 @@
+{
+    "data": [
+        {
+            "id": 6911,
+            "childId": [
+                691101
+            ],
+            "name": "冰海舰骸",
+            "joke": "这里是测试文本",
+            "description": "这里是测试文本",
+            "textIndex": [
+                3
+            ],
+            "rank": 3,
+            "enemyType": 1,
+            "nameOnBar": "冰海舰骸",
+            "parentOccupySize": 1,
+            "weakTag": [
+                2,
+                4
+            ],
+            "propertyGroup": 102901,
+            "suppressGroup": [
+                6,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            "camp": 1,
+            "enemyCamp": 1099,
+            "beSuppressedConfig": [
+                80000001,
+                2,
+                1000,
+                0,
+                8
+            ],
+            "characterPic": "deepWarship",
+            "parentModelCode": 6911,
+            "idleType": 1,
+            "skillNormalAttack": 6911900,
+            "aiOrderClass": 200,
+            "guardRadius": 700,
+            "guardRadiusShow": 1,
+            "showPotential": false,
+            "shape": 0,
+            "shapeParam": [],
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "addLevel": 0,
+            "displacement": 0,
+            "parentCannotChosen": false,
+            "parentBreakdownType": 0,
+            "parentChildrenAlldie": false,
+            "moveCode": 0,
+            "nonMultimove": false,
+            "skillActive": [],
+            "skillTalent": [],
+            "aiList": [],
+            "btPath": "",
+            "ignorePlayer1Skill": 0,
+            "trap": false,
+            "trapDescription": "",
+            "dzOpenBattle": 0,
+            "dzAiList": [],
+            "weakWeaponTag": 0,
+            "weaponTag": 0,
+            "feature": 0
+        },
+        {
+            "id": 6931,
+            "childId": [
+                693101,
+                693102,
+                693103
+            ],
+            "name": "远北港哨",
+            "joke": "这里是测试文本",
+            "description": "这里是测试文本",
+            "textIndex": [
+                3
+            ],
+            "rank": 3,
+            "enemyType": 1,
+            "nameOnBar": "远北港哨",
+            "parentOccupySize": 1,
+            "weakTag": [
+                2,
+                4
+            ],
+            "propertyGroup": 102901,
+            "suppressGroup": [
+                6,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            "camp": 1,
+            "enemyCamp": 1099,
+            "parentBreakdownType": 1,
+            "beSuppressedConfig": [
+                80000001,
+                2,
+                1000,
+                0,
+                2
+            ],
+            "characterPic": "deepWarship",
+            "parentModelCode": 6931,
+            "idleType": 1,
+            "skillNormalAttack": 6911902,
+            "skillActive": [
+                6911903,
+                6911905,
+                6931011,
+                6931012,
+                6931013,
+                6931014
+            ],
+            "aiOrderClass": 200,
+            "aiList": [
+                693101
+            ],
+            "btPath": "BT/BOSSBT/6931/BOSSBT_Haijian_P1_6931.bt",
+            "guardRadius": 700,
+            "guardRadiusShow": 1,
+            "showPotential": false,
+            "shape": 0,
+            "shapeParam": [],
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "addLevel": 0,
+            "displacement": 0,
+            "parentCannotChosen": false,
+            "parentChildrenAlldie": false,
+            "moveCode": 0,
+            "nonMultimove": false,
+            "skillTalent": [],
+            "ignorePlayer1Skill": 0,
+            "trap": false,
+            "trapDescription": "",
+            "dzOpenBattle": 0,
+            "dzAiList": [],
+            "weakWeaponTag": 0,
+            "weaponTag": 0,
+            "feature": 0
+        },
+        {
+            "id": 6932,
+            "childId": [
+                693201,
+                693202,
+                693203
+            ],
+            "name": "远北港哨",
+            "joke": "这里是测试文本",
+            "description": "这里是测试文本",
+            "textIndex": [
+                3
+            ],
+            "rank": 3,
+            "enemyType": 1,
+            "nameOnBar": "远北港哨",
+            "parentOccupySize": 1,
+            "weakTag": [
+                2,
+                4
+            ],
+            "propertyGroup": 102901,
+            "suppressGroup": [
+                6,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            "camp": 1,
+            "enemyCamp": 1099,
+            "parentBreakdownType": 1,
+            "beSuppressedConfig": [
+                80000001,
+                2,
+                1000,
+                0,
+                2
+            ],
+            "characterPic": "deepWarship",
+            "parentModelCode": 6931,
+            "idleType": 1,
+            "skillNormalAttack": 6911902,
+            "skillActive": [
+                6911903,
+                6911905,
+                6936011,
+                6936012
+            ],
+            "aiOrderClass": 200,
+            "btPath": "BT/BOSSBT/6936/BOSSBT_Haijian_P2_6931.bt",
+            "guardRadius": 700,
+            "guardRadiusShow": 1,
+            "showPotential": false,
+            "shape": 0,
+            "shapeParam": [],
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "addLevel": 0,
+            "displacement": 0,
+            "parentCannotChosen": false,
+            "parentChildrenAlldie": false,
+            "moveCode": 0,
+            "nonMultimove": false,
+            "skillTalent": [],
+            "aiList": [],
+            "ignorePlayer1Skill": 0,
+            "trap": false,
+            "trapDescription": "",
+            "dzOpenBattle": 0,
+            "dzAiList": [],
+            "weakWeaponTag": 0,
+            "weaponTag": 0,
+            "feature": 0
+        },
+        {
+            "id": 6933,
+            "childId": [
+                693301,
+                693302,
+                693303
+            ],
+            "name": "远北港哨",
+            "joke": "这里是测试文本",
+            "description": "这里是测试文本",
+            "textIndex": [
+                3
+            ],
+            "rank": 3,
+            "enemyType": 1,
+            "nameOnBar": "远北港哨",
+            "parentOccupySize": 1,
+            "weakTag": [
+                2,
+                4
+            ],
+            "propertyGroup": 102901,
+            "suppressGroup": [
+                6,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            "camp": 1,
+            "enemyCamp": 1099,
+            "parentBreakdownType": 1,
+            "beSuppressedConfig": [
+                80000001,
+                2,
+                1000,
+                0,
+                2
+            ],
+            "characterPic": "deepWarship",
+            "parentModelCode": 6931,
+            "idleType": 1,
+            "skillNormalAttack": 6911902,
+            "skillActive": [
+                6911903,
+                6911905,
+                6941011,
+                6941012
+            ],
+            "aiOrderClass": 200,
+            "btPath": "BT/BOSSBT/6941/BOSSBT_Haijian_P3_6931.bt",
+            "guardRadius": 700,
+            "guardRadiusShow": 1,
+            "showPotential": false,
+            "shape": 0,
+            "shapeParam": [],
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "addLevel": 0,
+            "displacement": 0,
+            "parentCannotChosen": false,
+            "parentChildrenAlldie": false,
+            "moveCode": 0,
+            "nonMultimove": false,
+            "skillTalent": [],
+            "aiList": [],
+            "ignorePlayer1Skill": 0,
+            "trap": false,
+            "trapDescription": "",
+            "dzOpenBattle": 0,
+            "dzAiList": [],
+            "weakWeaponTag": 0,
+            "weaponTag": 0,
+            "feature": 0
+        },
+        {
+            "id": 6936,
+            "childId": [
+                693601,
+                693602,
+                693603,
+                693604
+            ],
+            "name": "极光女王号",
+            "joke": "这里是测试文本",
+            "description": "这里是测试文本",
+            "textIndex": [
+                3
+            ],
+            "rank": 3,
+            "enemyType": 1,
+            "nameOnBar": "极光女王号",
+            "parentOccupySize": 1,
+            "weakTag": [
+                2,
+                4
+            ],
+            "propertyGroup": 103001,
+            "suppressGroup": [
+                6,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            "camp": 1,
+            "enemyCamp": 1099,
+            "beSuppressedConfig": [
+                80000001,
+                2,
+                1000,
+                0,
+                8
+            ],
+            "characterPic": "deepWarship",
+            "parentModelCode": 6936,
+            "idleType": 1,
+            "skillNormalAttack": 6911902,
+            "skillActive": [
+                6911906,
+                6936021,
+                6936022,
+                6936023,
+                6936024
+            ],
+            "aiOrderClass": 200,
+            "aiList": [
+                693601
+            ],
+            "btPath": "BT/BOSSBT/6936/BOSSBT_Haijian_P2_6936.bt",
+            "guardRadius": 700,
+            "guardRadiusShow": 1,
+            "showPotential": false,
+            "shape": 0,
+            "shapeParam": [],
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "addLevel": 0,
+            "displacement": 0,
+            "parentCannotChosen": false,
+            "parentBreakdownType": 0,
+            "parentChildrenAlldie": false,
+            "moveCode": 0,
+            "nonMultimove": false,
+            "skillTalent": [],
+            "ignorePlayer1Skill": 0,
+            "trap": false,
+            "trapDescription": "",
+            "dzOpenBattle": 0,
+            "dzAiList": [],
+            "weakWeaponTag": 0,
+            "weaponTag": 0,
+            "feature": 0
+        },
+        {
+            "id": 6937,
+            "childId": [
+                693701,
+                693702,
+                693703,
+                693704
+            ],
+            "name": "极光女王号",
+            "joke": "这里是测试文本",
+            "description": "这里是测试文本",
+            "textIndex": [
+                3
+            ],
+            "rank": 3,
+            "enemyType": 1,
+            "nameOnBar": "极光女王号",
+            "parentOccupySize": 1,
+            "weakTag": [
+                2,
+                4
+            ],
+            "propertyGroup": 103001,
+            "suppressGroup": [
+                6,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            "camp": 1,
+            "enemyCamp": 1099,
+            "beSuppressedConfig": [
+                80000001,
+                2,
+                1000,
+                0,
+                8
+            ],
+            "characterPic": "deepWarship",
+            "parentModelCode": 6936,
+            "idleType": 1,
+            "skillNormalAttack": 6911902,
+            "skillActive": [
+                6911906,
+                6941021,
+                6941022
+            ],
+            "aiOrderClass": 200,
+            "aiList": [
+                694101
+            ],
+            "btPath": "BT/BOSSBT/6941/BOSSBT_Haijian_P3_6936.bt",
+            "guardRadius": 700,
+            "guardRadiusShow": 1,
+            "showPotential": false,
+            "shape": 0,
+            "shapeParam": [],
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "addLevel": 0,
+            "displacement": 0,
+            "parentCannotChosen": false,
+            "parentBreakdownType": 0,
+            "parentChildrenAlldie": false,
+            "moveCode": 0,
+            "nonMultimove": false,
+            "skillTalent": [],
+            "ignorePlayer1Skill": 0,
+            "trap": false,
+            "trapDescription": "",
+            "dzOpenBattle": 0,
+            "dzAiList": [],
+            "weakWeaponTag": 0,
+            "weaponTag": 0,
+            "feature": 0
+        },
+        {
+            "id": 6941,
+            "childId": [
+                694101,
+                694102,
+                694103
+            ],
+            "name": "苔原玫瑰号",
+            "joke": "这里是测试文本",
+            "description": "这里是测试文本",
+            "textIndex": [
+                3
+            ],
+            "rank": 3,
+            "enemyType": 1,
+            "nameOnBar": "苔原玫瑰号",
+            "parentOccupySize": 1,
+            "weakTag": [
+                2,
+                4
+            ],
+            "propertyGroup": 103101,
+            "suppressGroup": [
+                6,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            "camp": 1,
+            "enemyCamp": 1099,
+            "parentCannotChosen": true,
+            "beSuppressedConfig": [
+                80000001,
+                2,
+                1000,
+                0,
+                8
+            ],
+            "parentChildrenAlldie": true,
+            "characterPic": "deepWarship",
+            "parentModelCode": 6941,
+            "idleType": 1,
+            "skillNormalAttack": 6911902,
+            "skillActive": [
+                6941031,
+                6941032,
+                6941033
+            ],
+            "aiOrderClass": 200,
+            "btPath": "BT/BOSSBT/6941/BOSSBT_Haijian_P3_6941.bt",
+            "guardRadius": 700,
+            "guardRadiusShow": 1,
+            "showPotential": false,
+            "shape": 0,
+            "shapeParam": [],
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "addLevel": 0,
+            "displacement": 0,
+            "parentBreakdownType": 0,
+            "moveCode": 0,
+            "nonMultimove": false,
+            "skillTalent": [],
+            "aiList": [],
+            "ignorePlayer1Skill": 0,
+            "trap": false,
+            "trapDescription": "",
+            "dzOpenBattle": 0,
+            "dzAiList": [],
+            "weakWeaponTag": 0,
+            "weaponTag": 0,
+            "feature": 0
+        }
+    ]
+}

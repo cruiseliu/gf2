@@ -1,83 +1,227 @@
 {
     "data": [
         {
-            "id": 140610,
+            "id": 10001,
+            "type": 1,
+            "title": "剧情战役-第1章",
+            "canJump": true,
+            "jumpCode": "101",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 10002,
+            "type": 1,
+            "title": "剧情战役-第2章",
+            "canJump": true,
+            "jumpCode": "102",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 10003,
+            "type": 1,
+            "title": "剧情战役-第3章",
+            "canJump": true,
+            "jumpCode": "103",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 10004,
+            "type": 1,
+            "title": "剧情战役-第4章",
+            "canJump": true,
+            "jumpCode": "104",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 30001,
+            "type": 3,
+            "title": "常规访问",
+            "canJump": true,
+            "jumpCode": "6101",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 30002,
+            "type": 3,
+            "title": "军备提升",
+            "canJump": true,
+            "jumpCode": "6002",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 50001,
+            "type": 5,
+            "title": "黑市",
+            "canJump": true,
+            "jumpCode": "5001",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 60001,
+            "type": 6,
+            "title": "仓库",
+            "canJump": true,
+            "jumpCode": "8001",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 70001,
+            "type": 7,
+            "title": "情报拼图购买",
+            "canJump": true,
+            "jumpCode": "2",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 80001,
+            "type": 8,
+            "title": "邮件",
+            "canJump": true,
+            "jumpCode": "9003",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 90001,
+            "type": 9,
+            "title": "战役",
+            "canJump": true,
+            "jumpCode": "1000",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 90002,
+            "type": 9,
+            "title": "剧情战役",
+            "canJump": true,
+            "jumpCode": "1000",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 90003,
+            "type": 9,
+            "title": "心智勘测",
+            "canJump": true,
+            "jumpCode": "2000",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 90004,
+            "type": 9,
+            "title": "剧情战役-章节挑战奖励",
+            "canJump": true,
+            "jumpCode": "1000",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 90005,
+            "type": 9,
+            "title": "心智勘测-章节挑战奖励",
+            "canJump": true,
+            "jumpCode": "1050",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 90006,
+            "type": 21,
+            "title": "补给作战-深度搜索",
+            "canJump": true,
+            "jumpCode": "3200",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 90007,
+            "type": 22,
+            "title": "补给作战-标准同调",
+            "canJump": true,
+            "jumpCode": "3300",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 90008,
+            "type": 31,
+            "title": "补给作战-军备解析",
+            "canJump": true,
+            "jumpCode": "3400",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 100001,
+            "type": 10,
+            "title": "指挥室",
+            "canJump": true,
+            "jumpCode": "1",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140101,
             "type": 14,
-            "title": "剧情战役 6-10",
+            "title": "剧情战役 1-1",
             "canJump": true,
-            "jumpCode": "1610",
+            "jumpCode": "1101",
             "quicklyBuy": 0
         },
         {
-            "id": 163101,
-            "type": 16,
-            "title": "决策构象-坚固I",
+            "id": 140102,
+            "type": 14,
+            "title": "剧情战役 1-2",
             "canJump": true,
-            "jumpCode": "3110",
+            "jumpCode": "1102",
             "quicklyBuy": 0
         },
         {
-            "id": 163102,
-            "type": 16,
-            "title": "决策构象-坚固II",
+            "id": 140103,
+            "type": 14,
+            "title": "剧情战役 1-3",
             "canJump": true,
-            "jumpCode": "3111",
+            "jumpCode": "1103",
             "quicklyBuy": 0
         },
         {
-            "id": 163103,
-            "type": 16,
-            "title": "决策构象-坚固III",
+            "id": 140104,
+            "type": 14,
+            "title": "剧情战役 1-4",
             "canJump": true,
-            "jumpCode": "3112",
+            "jumpCode": "1104",
             "quicklyBuy": 0
         },
         {
-            "id": 163104,
-            "type": 16,
-            "title": "决策构象-坚固IV",
+            "id": 140105,
+            "type": 14,
+            "title": "剧情战役 1-5",
             "canJump": true,
-            "jumpCode": "3113",
+            "jumpCode": "1105",
             "quicklyBuy": 0
         },
         {
-            "id": 163105,
-            "type": 16,
-            "title": "决策构象-坚固V",
+            "id": 140106,
+            "type": 14,
+            "title": "剧情战役 1-6",
             "canJump": true,
-            "jumpCode": "3114",
+            "jumpCode": "1106",
             "quicklyBuy": 0
         },
         {
-            "id": 163106,
-            "type": 16,
-            "title": "决策构象-坚固VI",
+            "id": 140107,
+            "type": 14,
+            "title": "剧情战役 1-7",
             "canJump": true,
-            "jumpCode": "3115",
+            "jumpCode": "1107",
             "quicklyBuy": 0
         },
         {
-            "id": 163107,
-            "type": 16,
-            "title": "决策构象-坚固VII",
+            "id": 140108,
+            "type": 14,
+            "title": "剧情战役 1-8",
             "canJump": true,
-            "jumpCode": "3116",
+            "jumpCode": "1108",
             "quicklyBuy": 0
         },
         {
-            "id": 163108,
-            "type": 16,
-            "title": "决策构象-坚固VIII",
+            "id": 140109,
+            "type": 14,
+            "title": "剧情战役 1-9",
             "canJump": true,
-            "jumpCode": "3117",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163109,
-            "type": 16,
-            "title": "决策构象-坚固IX",
-            "canJump": true,
-            "jumpCode": "3118",
+            "jumpCode": "1109",
             "quicklyBuy": 0
         },
         {
@@ -89,179 +233,51 @@
             "quicklyBuy": 0
         },
         {
-            "id": 140701,
+            "id": 140141,
             "type": 14,
-            "title": "剧情战役 7-1",
+            "title": "剧情战役关卡 BH-1-1",
             "canJump": true,
-            "jumpCode": "1701",
+            "jumpCode": "1141",
             "quicklyBuy": 0
         },
         {
-            "id": 140702,
+            "id": 140142,
             "type": 14,
-            "title": "剧情战役 7-2",
+            "title": "剧情战役关卡 BH-1-2",
             "canJump": true,
-            "jumpCode": "1702",
+            "jumpCode": "1142",
             "quicklyBuy": 0
         },
         {
-            "id": 140703,
+            "id": 140143,
             "type": 14,
-            "title": "剧情战役 7-3",
+            "title": "剧情战役关卡 BH-1-3",
             "canJump": true,
-            "jumpCode": "1703",
+            "jumpCode": "1143",
             "quicklyBuy": 0
         },
         {
-            "id": 140704,
+            "id": 140144,
             "type": 14,
-            "title": "剧情战役 7-4",
+            "title": "剧情战役关卡 BH-1-4",
             "canJump": true,
-            "jumpCode": "1704",
+            "jumpCode": "1144",
             "quicklyBuy": 0
         },
         {
-            "id": 140705,
+            "id": 140145,
             "type": 14,
-            "title": "剧情战役 7-5",
+            "title": "剧情战役关卡 BH-1-5",
             "canJump": true,
-            "jumpCode": "1705",
+            "jumpCode": "1145",
             "quicklyBuy": 0
         },
         {
-            "id": 140706,
+            "id": 140146,
             "type": 14,
-            "title": "剧情战役 7-6",
+            "title": "剧情战役关卡 BH-1-6",
             "canJump": true,
-            "jumpCode": "1706",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140707,
-            "type": 14,
-            "title": "剧情战役 7-7",
-            "canJump": true,
-            "jumpCode": "1707",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140708,
-            "type": 14,
-            "title": "剧情战役 7-8",
-            "canJump": true,
-            "jumpCode": "1708",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140709,
-            "type": 14,
-            "title": "剧情战役 7-9",
-            "canJump": true,
-            "jumpCode": "1709",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140710,
-            "type": 14,
-            "title": "剧情战役 7-10",
-            "canJump": true,
-            "jumpCode": "1710",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310001,
-            "type": 31,
-            "title": "军备解析-基础解析I",
-            "canJump": true,
-            "jumpCode": "3401",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310002,
-            "type": 31,
-            "title": "军备解析-基础解析II",
-            "canJump": true,
-            "jumpCode": "3402",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310003,
-            "type": 31,
-            "title": "军备解析-标准解析I",
-            "canJump": true,
-            "jumpCode": "3403",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310004,
-            "type": 31,
-            "title": "军备解析-标准解析II",
-            "canJump": true,
-            "jumpCode": "3404",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310005,
-            "type": 31,
-            "title": "军备解析-标准解析III",
-            "canJump": true,
-            "jumpCode": "3405",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310006,
-            "type": 31,
-            "title": "军备解析-标准解析IV",
-            "canJump": true,
-            "jumpCode": "3406",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310007,
-            "type": 31,
-            "title": "军备解析-详尽解析I",
-            "canJump": true,
-            "jumpCode": "3407",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310008,
-            "type": 31,
-            "title": "军备解析-详尽解析II",
-            "canJump": true,
-            "jumpCode": "3408",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310009,
-            "type": 31,
-            "title": "军备解析-专业解析I",
-            "canJump": true,
-            "jumpCode": "3409",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310010,
-            "type": 31,
-            "title": "军备解析-专业解析II",
-            "canJump": true,
-            "jumpCode": "3410",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 310011,
-            "type": 31,
-            "title": "军备解析",
-            "canJump": true,
-            "jumpCode": "3400",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 80001,
-            "type": 8,
-            "title": "邮件",
-            "canJump": true,
-            "jumpCode": "9003",
+            "jumpCode": "1146",
             "quicklyBuy": 0
         },
         {
@@ -334,6 +350,14 @@
             "title": "剧情战役 2-9",
             "canJump": true,
             "jumpCode": "1209",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140210,
+            "type": 14,
+            "title": "剧情战役 2-10",
+            "canJump": true,
+            "jumpCode": "1210",
             "quicklyBuy": 0
         },
         {
@@ -457,155 +481,59 @@
             "quicklyBuy": 0
         },
         {
-            "id": 163201,
-            "type": 16,
-            "title": "决策构象-精准I",
-            "canJump": true,
-            "jumpCode": "3120",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163202,
-            "type": 16,
-            "title": "决策构象-精准II",
-            "canJump": true,
-            "jumpCode": "3121",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163203,
-            "type": 16,
-            "title": "决策构象-精准III",
-            "canJump": true,
-            "jumpCode": "3122",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163204,
-            "type": 16,
-            "title": "决策构象-精准IV",
-            "canJump": true,
-            "jumpCode": "3123",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163205,
-            "type": 16,
-            "title": "决策构象-精准V",
-            "canJump": true,
-            "jumpCode": "3124",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163206,
-            "type": 16,
-            "title": "决策构象-精准VI",
-            "canJump": true,
-            "jumpCode": "3125",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163207,
-            "type": 16,
-            "title": "决策构象-精准VII",
-            "canJump": true,
-            "jumpCode": "3126",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163208,
-            "type": 16,
-            "title": "决策构象-精准VIII",
-            "canJump": true,
-            "jumpCode": "3127",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163209,
-            "type": 16,
-            "title": "决策构象-精准IX",
-            "canJump": true,
-            "jumpCode": "3128",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 200001,
-            "type": 20,
-            "title": "整备室",
-            "canJump": true,
-            "jumpCode": "4001",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140101,
+            "id": 140310,
             "type": 14,
-            "title": "剧情战役 1-1",
+            "title": "剧情战役 3-10",
             "canJump": true,
-            "jumpCode": "1101",
+            "jumpCode": "1310",
             "quicklyBuy": 0
         },
         {
-            "id": 140102,
+            "id": 140341,
             "type": 14,
-            "title": "剧情战役 1-2",
+            "title": "剧情战役关卡 BH-3-1",
             "canJump": true,
-            "jumpCode": "1102",
+            "jumpCode": "1341",
             "quicklyBuy": 0
         },
         {
-            "id": 140103,
+            "id": 140342,
             "type": 14,
-            "title": "剧情战役 1-3",
+            "title": "剧情战役关卡 BH-3-2",
             "canJump": true,
-            "jumpCode": "1103",
+            "jumpCode": "1342",
             "quicklyBuy": 0
         },
         {
-            "id": 140104,
+            "id": 140343,
             "type": 14,
-            "title": "剧情战役 1-4",
+            "title": "剧情战役关卡 BH-3-3",
             "canJump": true,
-            "jumpCode": "1104",
+            "jumpCode": "1343",
             "quicklyBuy": 0
         },
         {
-            "id": 140105,
+            "id": 140344,
             "type": 14,
-            "title": "剧情战役 1-5",
+            "title": "剧情战役关卡 BH-3-4",
             "canJump": true,
-            "jumpCode": "1105",
+            "jumpCode": "1344",
             "quicklyBuy": 0
         },
         {
-            "id": 140106,
+            "id": 140345,
             "type": 14,
-            "title": "剧情战役 1-6",
+            "title": "剧情战役关卡 BH-3-5",
             "canJump": true,
-            "jumpCode": "1106",
+            "jumpCode": "1345",
             "quicklyBuy": 0
         },
         {
-            "id": 140107,
+            "id": 140346,
             "type": 14,
-            "title": "剧情战役 1-7",
+            "title": "剧情战役关卡 BH-3-6",
             "canJump": true,
-            "jumpCode": "1107",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140108,
-            "type": 14,
-            "title": "剧情战役 1-8",
-            "canJump": true,
-            "jumpCode": "1108",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140109,
-            "type": 14,
-            "title": "剧情战役 1-9",
-            "canJump": true,
-            "jumpCode": "1109",
+            "jumpCode": "1346",
             "quicklyBuy": 0
         },
         {
@@ -681,19 +609,187 @@
             "quicklyBuy": 0
         },
         {
-            "id": 250001,
-            "type": 25,
-            "title": "每日订单",
+            "id": 140410,
+            "type": 14,
+            "title": "剧情战役 4-10",
             "canJump": true,
-            "jumpCode": "7001",
+            "jumpCode": "1410",
             "quicklyBuy": 0
         },
         {
-            "id": 250003,
-            "type": 25,
-            "title": "考核目标",
+            "id": 140441,
+            "type": 14,
+            "title": "剧情战役关卡 BH-4-1",
             "canJump": true,
-            "jumpCode": "7002",
+            "jumpCode": "1441",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140442,
+            "type": 14,
+            "title": "剧情战役关卡 BH-4-2",
+            "canJump": true,
+            "jumpCode": "1442",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140443,
+            "type": 14,
+            "title": "剧情战役关卡 BH-4-3",
+            "canJump": true,
+            "jumpCode": "1443",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140444,
+            "type": 14,
+            "title": "剧情战役关卡 BH-4-4",
+            "canJump": true,
+            "jumpCode": "1444",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140445,
+            "type": 14,
+            "title": "剧情战役关卡 BH-4-5",
+            "canJump": true,
+            "jumpCode": "1445",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140446,
+            "type": 14,
+            "title": "剧情战役关卡 BH-4-6",
+            "canJump": true,
+            "jumpCode": "1446",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140501,
+            "type": 14,
+            "title": "剧情战役 5-1",
+            "canJump": true,
+            "jumpCode": "1501",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140502,
+            "type": 14,
+            "title": "剧情战役 5-2",
+            "canJump": true,
+            "jumpCode": "1502",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140503,
+            "type": 14,
+            "title": "剧情战役 5-3",
+            "canJump": true,
+            "jumpCode": "1503",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140504,
+            "type": 14,
+            "title": "剧情战役 5-4",
+            "canJump": true,
+            "jumpCode": "1504",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140505,
+            "type": 14,
+            "title": "剧情战役 5-5",
+            "canJump": true,
+            "jumpCode": "1505",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140506,
+            "type": 14,
+            "title": "剧情战役 5-6",
+            "canJump": true,
+            "jumpCode": "1506",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140507,
+            "type": 14,
+            "title": "剧情战役 5-7",
+            "canJump": true,
+            "jumpCode": "1507",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140508,
+            "type": 14,
+            "title": "剧情战役 5-8",
+            "canJump": true,
+            "jumpCode": "1508",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140509,
+            "type": 14,
+            "title": "剧情战役 5-9",
+            "canJump": true,
+            "jumpCode": "1509",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140510,
+            "type": 14,
+            "title": "剧情战役 5-10",
+            "canJump": true,
+            "jumpCode": "1510",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140541,
+            "type": 14,
+            "title": "剧情战役关卡 BH-5-1",
+            "canJump": true,
+            "jumpCode": "1541",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140542,
+            "type": 14,
+            "title": "剧情战役关卡 BH-5-2",
+            "canJump": true,
+            "jumpCode": "1542",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140543,
+            "type": 14,
+            "title": "剧情战役关卡 BH-5-3",
+            "canJump": true,
+            "jumpCode": "1543",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140544,
+            "type": 14,
+            "title": "剧情战役关卡 BH-5-4",
+            "canJump": true,
+            "jumpCode": "1544",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140545,
+            "type": 14,
+            "title": "剧情战役关卡 BH-5-5",
+            "canJump": true,
+            "jumpCode": "1545",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 140546,
+            "type": 14,
+            "title": "剧情战役关卡 BH-5-6",
+            "canJump": true,
+            "jumpCode": "1546",
             "quicklyBuy": 0
         },
         {
@@ -769,139 +865,11 @@
             "quicklyBuy": 0
         },
         {
-            "id": 163110,
-            "type": 16,
-            "title": "决策构象-坚固X",
-            "canJump": true,
-            "jumpCode": "3119",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163111,
-            "type": 16,
-            "title": "决策构象-坚固",
-            "canJump": true,
-            "jumpCode": "3001",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163511,
-            "type": 16,
-            "title": "决策构象",
-            "canJump": true,
-            "jumpCode": "3150",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280201,
-            "type": 28,
-            "title": "心智勘测2-1",
-            "canJump": true,
-            "jumpCode": "2021",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280202,
-            "type": 28,
-            "title": "心智勘测2-2",
-            "canJump": true,
-            "jumpCode": "2022",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280203,
-            "type": 28,
-            "title": "心智勘测2-3",
-            "canJump": true,
-            "jumpCode": "2023",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280204,
-            "type": 28,
-            "title": "心智勘测2-4",
-            "canJump": true,
-            "jumpCode": "2024",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280205,
-            "type": 28,
-            "title": "心智勘测2-5",
-            "canJump": true,
-            "jumpCode": "2025",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280206,
-            "type": 28,
-            "title": "心智勘测 流浪的人",
-            "canJump": true,
-            "jumpCode": "2020",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280601,
-            "type": 28,
-            "title": "心智勘测6-1",
-            "canJump": true,
-            "jumpCode": "2061",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280602,
-            "type": 28,
-            "title": "心智勘测6-2",
-            "canJump": true,
-            "jumpCode": "2062",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280603,
-            "type": 28,
-            "title": "心智勘测6-3",
-            "canJump": true,
-            "jumpCode": "2063",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280604,
-            "type": 28,
-            "title": "心智勘测6-4",
-            "canJump": true,
-            "jumpCode": "2064",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280605,
-            "type": 28,
-            "title": "心智勘测6-5",
-            "canJump": true,
-            "jumpCode": "2065",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280606,
-            "type": 28,
-            "title": "心智勘测 星点光芒闪耀时",
-            "canJump": true,
-            "jumpCode": "2060",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 60001,
-            "type": 6,
-            "title": "仓库",
-            "canJump": true,
-            "jumpCode": "8001",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140410,
+            "id": 140610,
             "type": 14,
-            "title": "剧情战役 4-10",
+            "title": "剧情战役 6-10",
             "canJump": true,
-            "jumpCode": "1410",
+            "jumpCode": "1610",
             "quicklyBuy": 0
         },
         {
@@ -953,291 +921,283 @@
             "quicklyBuy": 0
         },
         {
-            "id": 230001,
-            "type": 23,
-            "title": "战力推定",
-            "canJump": true,
-            "jumpCode": "3004",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140510,
+            "id": 140701,
             "type": 14,
-            "title": "剧情战役 5-10",
+            "title": "剧情战役 7-1",
             "canJump": true,
-            "jumpCode": "1510",
+            "jumpCode": "1701",
             "quicklyBuy": 0
         },
         {
-            "id": 140541,
+            "id": 140702,
             "type": 14,
-            "title": "剧情战役关卡 BH-5-1",
+            "title": "剧情战役 7-2",
             "canJump": true,
-            "jumpCode": "1541",
+            "jumpCode": "1702",
             "quicklyBuy": 0
         },
         {
-            "id": 140542,
+            "id": 140703,
             "type": 14,
-            "title": "剧情战役关卡 BH-5-2",
+            "title": "剧情战役 7-3",
             "canJump": true,
-            "jumpCode": "1542",
+            "jumpCode": "1703",
             "quicklyBuy": 0
         },
         {
-            "id": 140543,
+            "id": 140704,
             "type": 14,
-            "title": "剧情战役关卡 BH-5-3",
+            "title": "剧情战役 7-4",
             "canJump": true,
-            "jumpCode": "1543",
+            "jumpCode": "1704",
             "quicklyBuy": 0
         },
         {
-            "id": 140544,
+            "id": 140705,
             "type": 14,
-            "title": "剧情战役关卡 BH-5-4",
+            "title": "剧情战役 7-5",
             "canJump": true,
-            "jumpCode": "1544",
+            "jumpCode": "1705",
             "quicklyBuy": 0
         },
         {
-            "id": 140545,
+            "id": 140706,
             "type": 14,
-            "title": "剧情战役关卡 BH-5-5",
+            "title": "剧情战役 7-6",
             "canJump": true,
-            "jumpCode": "1545",
+            "jumpCode": "1706",
             "quicklyBuy": 0
         },
         {
-            "id": 140546,
+            "id": 140707,
             "type": 14,
-            "title": "剧情战役关卡 BH-5-6",
+            "title": "剧情战役 7-7",
             "canJump": true,
-            "jumpCode": "1546",
+            "jumpCode": "1707",
             "quicklyBuy": 0
         },
         {
-            "id": 190001,
-            "type": 19,
-            "title": "互通聚场",
+            "id": 140708,
+            "type": 14,
+            "title": "剧情战役 7-8",
             "canJump": true,
-            "jumpCode": "5001",
+            "jumpCode": "1708",
             "quicklyBuy": 0
         },
         {
-            "id": 190002,
-            "type": 19,
-            "title": "基础购备",
+            "id": 140709,
+            "type": 14,
+            "title": "剧情战役 7-9",
             "canJump": true,
-            "jumpCode": "5002",
+            "jumpCode": "1709",
             "quicklyBuy": 0
         },
         {
-            "id": 190003,
-            "type": 19,
-            "title": "人形堆栈",
+            "id": 140710,
+            "type": 14,
+            "title": "剧情战役 7-10",
             "canJump": true,
-            "jumpCode": "5003",
+            "jumpCode": "1710",
             "quicklyBuy": 0
         },
         {
-            "id": 190004,
-            "type": 19,
-            "title": "标准武备",
+            "id": 140741,
+            "type": 14,
+            "title": "剧情战役关卡 BH-7-1",
             "canJump": true,
-            "jumpCode": "5004",
+            "jumpCode": "1741",
             "quicklyBuy": 0
         },
         {
-            "id": 190005,
-            "type": 19,
-            "title": "精良武备",
+            "id": 140742,
+            "type": 14,
+            "title": "剧情战役关卡 BH-7-2",
             "canJump": true,
-            "jumpCode": "5005",
+            "jumpCode": "1742",
             "quicklyBuy": 0
         },
         {
-            "id": 190006,
-            "type": 19,
-            "title": "荣誉专区",
+            "id": 140743,
+            "type": 14,
+            "title": "剧情战役关卡 BH-7-3",
             "canJump": true,
-            "jumpCode": "5006",
+            "jumpCode": "1743",
             "quicklyBuy": 0
         },
         {
-            "id": 190007,
-            "type": 19,
-            "title": "讯段交易",
+            "id": 140744,
+            "type": 14,
+            "title": "剧情战役关卡 BH-7-4",
             "canJump": true,
-            "jumpCode": "5007",
+            "jumpCode": "1744",
             "quicklyBuy": 0
         },
         {
-            "id": 190008,
-            "type": 19,
-            "title": "充能枢纽",
+            "id": 140745,
+            "type": 14,
+            "title": "剧情战役关卡 BH-7-5",
             "canJump": true,
-            "jumpCode": "5008",
+            "jumpCode": "1745",
             "quicklyBuy": 0
         },
         {
-            "id": 280501,
-            "type": 28,
-            "title": "心智勘测5-1",
+            "id": 140746,
+            "type": 14,
+            "title": "剧情战役关卡 BH-7-6",
             "canJump": true,
-            "jumpCode": "2051",
+            "jumpCode": "1746",
             "quicklyBuy": 0
         },
         {
-            "id": 280502,
-            "type": 28,
-            "title": "心智勘测5-2",
+            "id": 163102,
+            "type": 16,
+            "title": "决策构象-坚固II",
             "canJump": true,
-            "jumpCode": "2052",
+            "jumpCode": "3111",
             "quicklyBuy": 0
         },
         {
-            "id": 280503,
-            "type": 28,
-            "title": "心智勘测5-3",
+            "id": 163103,
+            "type": 16,
+            "title": "决策构象-坚固III",
             "canJump": true,
-            "jumpCode": "2053",
+            "jumpCode": "3112",
             "quicklyBuy": 0
         },
         {
-            "id": 280504,
-            "type": 28,
-            "title": "心智勘测5-4",
+            "id": 163104,
+            "type": 16,
+            "title": "决策构象-坚固IV",
             "canJump": true,
-            "jumpCode": "2054",
+            "jumpCode": "3113",
             "quicklyBuy": 0
         },
         {
-            "id": 280505,
-            "type": 28,
-            "title": "心智勘测5-5",
+            "id": 163105,
+            "type": 16,
+            "title": "决策构象-坚固V",
             "canJump": true,
-            "jumpCode": "2055",
+            "jumpCode": "3114",
             "quicklyBuy": 0
         },
         {
-            "id": 280506,
-            "type": 28,
-            "title": "心智勘测 乘于裙摆之上",
+            "id": 163106,
+            "type": 16,
+            "title": "决策构象-坚固VI",
             "canJump": true,
-            "jumpCode": "2050",
+            "jumpCode": "3115",
             "quicklyBuy": 0
         },
         {
-            "id": 90001,
-            "type": 9,
-            "title": "战役",
+            "id": 163107,
+            "type": 16,
+            "title": "决策构象-坚固VII",
             "canJump": true,
-            "jumpCode": "1000",
+            "jumpCode": "3116",
             "quicklyBuy": 0
         },
         {
-            "id": 90002,
-            "type": 9,
-            "title": "剧情战役",
+            "id": 163108,
+            "type": 16,
+            "title": "决策构象-坚固VIII",
             "canJump": true,
-            "jumpCode": "1000",
+            "jumpCode": "3117",
             "quicklyBuy": 0
         },
         {
-            "id": 90003,
-            "type": 9,
-            "title": "心智勘测",
+            "id": 163109,
+            "type": 16,
+            "title": "决策构象-坚固IX",
             "canJump": true,
-            "jumpCode": "2000",
+            "jumpCode": "3118",
             "quicklyBuy": 0
         },
         {
-            "id": 90004,
-            "type": 9,
-            "title": "剧情战役-章节挑战奖励",
+            "id": 163110,
+            "type": 16,
+            "title": "决策构象-坚固X",
             "canJump": true,
-            "jumpCode": "1000",
+            "jumpCode": "3119",
             "quicklyBuy": 0
         },
         {
-            "id": 90005,
-            "type": 9,
-            "title": "心智勘测-章节挑战奖励",
+            "id": 163111,
+            "type": 16,
+            "title": "决策构象-坚固",
             "canJump": true,
-            "jumpCode": "1050",
+            "jumpCode": "3001",
             "quicklyBuy": 0
         },
         {
-            "id": 90006,
-            "type": 21,
-            "title": "补给作战-深度搜索",
+            "id": 163201,
+            "type": 16,
+            "title": "决策构象-精准I",
             "canJump": true,
-            "jumpCode": "3200",
+            "jumpCode": "3120",
             "quicklyBuy": 0
         },
         {
-            "id": 90007,
-            "type": 22,
-            "title": "补给作战-标准同调",
+            "id": 163202,
+            "type": 16,
+            "title": "决策构象-精准II",
             "canJump": true,
-            "jumpCode": "3300",
+            "jumpCode": "3121",
             "quicklyBuy": 0
         },
         {
-            "id": 90008,
-            "type": 31,
-            "title": "补给作战-军备解析",
+            "id": 163203,
+            "type": 16,
+            "title": "决策构象-精准III",
             "canJump": true,
-            "jumpCode": "3400",
+            "jumpCode": "3122",
             "quicklyBuy": 0
         },
         {
-            "id": 280401,
-            "type": 28,
-            "title": "心智勘测4-1",
+            "id": 163204,
+            "type": 16,
+            "title": "决策构象-精准IV",
             "canJump": true,
-            "jumpCode": "2041",
+            "jumpCode": "3123",
             "quicklyBuy": 0
         },
         {
-            "id": 280402,
-            "type": 28,
-            "title": "心智勘测4-2",
+            "id": 163205,
+            "type": 16,
+            "title": "决策构象-精准V",
             "canJump": true,
-            "jumpCode": "2042",
+            "jumpCode": "3124",
             "quicklyBuy": 0
         },
         {
-            "id": 280403,
-            "type": 28,
-            "title": "心智勘测4-3",
+            "id": 163206,
+            "type": 16,
+            "title": "决策构象-精准VI",
             "canJump": true,
-            "jumpCode": "2043",
+            "jumpCode": "3125",
             "quicklyBuy": 0
         },
         {
-            "id": 280404,
-            "type": 28,
-            "title": "心智勘测4-4",
+            "id": 163207,
+            "type": 16,
+            "title": "决策构象-精准VII",
             "canJump": true,
-            "jumpCode": "2044",
+            "jumpCode": "3126",
             "quicklyBuy": 0
         },
         {
-            "id": 280405,
-            "type": 28,
-            "title": "心智勘测4-5",
+            "id": 163208,
+            "type": 16,
+            "title": "决策构象-精准VIII",
             "canJump": true,
-            "jumpCode": "2045",
+            "jumpCode": "3127",
             "quicklyBuy": 0
         },
         {
-            "id": 280406,
-            "type": 28,
-            "title": "心智勘测 最后的命令",
+            "id": 163209,
+            "type": 16,
+            "title": "决策构象-精准IX",
             "canJump": true,
-            "jumpCode": "2040",
+            "jumpCode": "3128",
             "quicklyBuy": 0
         },
         {
@@ -1254,118 +1214,6 @@
             "title": "决策构象-精准",
             "canJump": true,
             "jumpCode": "3009",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163401,
-            "type": 16,
-            "title": "决策构象-冲击I",
-            "canJump": true,
-            "jumpCode": "3140",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163402,
-            "type": 16,
-            "title": "决策构象-冲击II",
-            "canJump": true,
-            "jumpCode": "3141",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163403,
-            "type": 16,
-            "title": "决策构象-冲击III",
-            "canJump": true,
-            "jumpCode": "3142",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163404,
-            "type": 16,
-            "title": "决策构象-冲击IV",
-            "canJump": true,
-            "jumpCode": "3143",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163405,
-            "type": 16,
-            "title": "决策构象-冲击V",
-            "canJump": true,
-            "jumpCode": "3144",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163406,
-            "type": 16,
-            "title": "决策构象-冲击VI",
-            "canJump": true,
-            "jumpCode": "3145",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163407,
-            "type": 16,
-            "title": "决策构象-冲击VII",
-            "canJump": true,
-            "jumpCode": "3146",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163408,
-            "type": 16,
-            "title": "决策构象-冲击VIII",
-            "canJump": true,
-            "jumpCode": "3147",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 163409,
-            "type": 16,
-            "title": "决策构象-冲击IX",
-            "canJump": true,
-            "jumpCode": "3148",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 10001,
-            "type": 1,
-            "title": "剧情战役-第1章",
-            "canJump": true,
-            "jumpCode": "101",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 10002,
-            "type": 1,
-            "title": "剧情战役-第2章",
-            "canJump": true,
-            "jumpCode": "102",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 10003,
-            "type": 1,
-            "title": "剧情战役-第3章",
-            "canJump": true,
-            "jumpCode": "103",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 10004,
-            "type": 1,
-            "title": "剧情战役-第4章",
-            "canJump": true,
-            "jumpCode": "104",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140210,
-            "type": 14,
-            "title": "剧情战役 2-10",
-            "canJump": true,
-            "jumpCode": "1210",
             "quicklyBuy": 0
         },
         {
@@ -1457,59 +1305,75 @@
             "quicklyBuy": 0
         },
         {
-            "id": 210001,
-            "type": 21,
-            "title": "深度搜索",
+            "id": 163401,
+            "type": 16,
+            "title": "决策构象-冲击I",
             "canJump": true,
-            "jumpCode": "3003",
+            "jumpCode": "3140",
             "quicklyBuy": 0
         },
         {
-            "id": 240001,
-            "type": 24,
-            "title": "首领挑战",
+            "id": 163402,
+            "type": 16,
+            "title": "决策构象-冲击II",
             "canJump": true,
-            "jumpCode": "3005",
+            "jumpCode": "3141",
             "quicklyBuy": 0
         },
         {
-            "id": 290000,
-            "type": 29,
-            "title": "边界推进",
+            "id": 163403,
+            "type": 16,
+            "title": "决策构象-冲击III",
             "canJump": true,
-            "jumpCode": "10000",
+            "jumpCode": "3142",
             "quicklyBuy": 0
         },
         {
-            "id": 290001,
-            "type": 29,
-            "title": "边界推进-推进任务",
+            "id": 163404,
+            "type": 16,
+            "title": "决策构象-冲击IV",
             "canJump": true,
-            "jumpCode": "10003",
+            "jumpCode": "3143",
             "quicklyBuy": 0
         },
         {
-            "id": 290002,
-            "type": 29,
-            "title": "边界推进-边界探索",
+            "id": 163405,
+            "type": 16,
+            "title": "决策构象-冲击V",
             "canJump": true,
-            "jumpCode": "10004",
+            "jumpCode": "3144",
             "quicklyBuy": 0
         },
         {
-            "id": 290003,
-            "type": 29,
-            "title": "边界推进-特殊悬赏",
+            "id": 163406,
+            "type": 16,
+            "title": "决策构象-冲击VI",
             "canJump": true,
-            "jumpCode": "10005",
+            "jumpCode": "3145",
             "quicklyBuy": 0
         },
         {
-            "id": 290004,
-            "type": 29,
-            "title": "边界推进-分析机台",
+            "id": 163407,
+            "type": 16,
+            "title": "决策构象-冲击VII",
             "canJump": true,
-            "jumpCode": "10006",
+            "jumpCode": "3146",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 163408,
+            "type": 16,
+            "title": "决策构象-冲击VIII",
+            "canJump": true,
+            "jumpCode": "3147",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 163409,
+            "type": 16,
+            "title": "决策构象-冲击IX",
+            "canJump": true,
+            "jumpCode": "3148",
             "quicklyBuy": 0
         },
         {
@@ -1526,158 +1390,6 @@
             "title": "决策构象-冲击",
             "canJump": true,
             "jumpCode": "3011",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280301,
-            "type": 28,
-            "title": "心智勘测3-1",
-            "canJump": true,
-            "jumpCode": "2031",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280302,
-            "type": 28,
-            "title": "心智勘测3-2",
-            "canJump": true,
-            "jumpCode": "2032",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280303,
-            "type": 28,
-            "title": "心智勘测3-3",
-            "canJump": true,
-            "jumpCode": "2033",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280304,
-            "type": 28,
-            "title": "心智勘测3-4",
-            "canJump": true,
-            "jumpCode": "2034",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280305,
-            "type": 28,
-            "title": "心智勘测3-5",
-            "canJump": true,
-            "jumpCode": "2035",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 280306,
-            "type": 28,
-            "title": "心智勘测 限时替身",
-            "canJump": true,
-            "jumpCode": "2030",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 321002,
-            "type": 33,
-            "title": "远航巡录",
-            "canJump": true,
-            "jumpCode": "13001",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140501,
-            "type": 14,
-            "title": "剧情战役 5-1",
-            "canJump": true,
-            "jumpCode": "1501",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140502,
-            "type": 14,
-            "title": "剧情战役 5-2",
-            "canJump": true,
-            "jumpCode": "1502",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140503,
-            "type": 14,
-            "title": "剧情战役 5-3",
-            "canJump": true,
-            "jumpCode": "1503",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140504,
-            "type": 14,
-            "title": "剧情战役 5-4",
-            "canJump": true,
-            "jumpCode": "1504",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140505,
-            "type": 14,
-            "title": "剧情战役 5-5",
-            "canJump": true,
-            "jumpCode": "1505",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140506,
-            "type": 14,
-            "title": "剧情战役 5-6",
-            "canJump": true,
-            "jumpCode": "1506",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140507,
-            "type": 14,
-            "title": "剧情战役 5-7",
-            "canJump": true,
-            "jumpCode": "1507",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140508,
-            "type": 14,
-            "title": "剧情战役 5-8",
-            "canJump": true,
-            "jumpCode": "1508",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140509,
-            "type": 14,
-            "title": "剧情战役 5-9",
-            "canJump": true,
-            "jumpCode": "1509",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 180001,
-            "type": 18,
-            "title": "实兵演习",
-            "canJump": true,
-            "jumpCode": "9004",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 270001,
-            "type": 27,
-            "title": "机库",
-            "canJump": true,
-            "jumpCode": "9002",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 70001,
-            "type": 7,
-            "title": "情报拼图购买",
-            "canJump": true,
-            "jumpCode": "2",
             "quicklyBuy": 0
         },
         {
@@ -1745,147 +1457,99 @@
             "quicklyBuy": 0
         },
         {
-            "id": 320001,
-            "type": 32,
-            "title": "循乐录",
+            "id": 163511,
+            "type": 16,
+            "title": "决策构象",
             "canJump": true,
-            "jumpCode": "12103",
+            "jumpCode": "3150",
             "quicklyBuy": 0
         },
         {
-            "id": 320002,
-            "type": 32,
-            "title": "追缉协奏曲",
+            "id": 180001,
+            "type": 18,
+            "title": "实兵演习",
             "canJump": true,
-            "jumpCode": "12104",
+            "jumpCode": "9004",
             "quicklyBuy": 0
         },
         {
-            "id": 990001,
-            "type": 99,
-            "title": "合成获得",
-            "canJump": false,
-            "jumpCode": "",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 990002,
-            "type": 99,
-            "title": "商城获取。",
-            "canJump": false,
-            "jumpCode": "",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 50001,
-            "type": 5,
-            "title": "黑市",
+            "id": 190001,
+            "type": 19,
+            "title": "互通聚场",
             "canJump": true,
             "jumpCode": "5001",
             "quicklyBuy": 0
         },
         {
-            "id": 100001,
-            "type": 10,
-            "title": "指挥室",
+            "id": 190002,
+            "type": 19,
+            "title": "基础购备",
             "canJump": true,
-            "jumpCode": "1",
+            "jumpCode": "5002",
             "quicklyBuy": 0
         },
         {
-            "id": 140141,
-            "type": 14,
-            "title": "剧情战役关卡 BH-1-1",
+            "id": 190003,
+            "type": 19,
+            "title": "人形堆栈",
             "canJump": true,
-            "jumpCode": "1141",
+            "jumpCode": "5003",
             "quicklyBuy": 0
         },
         {
-            "id": 140142,
-            "type": 14,
-            "title": "剧情战役关卡 BH-1-2",
+            "id": 190004,
+            "type": 19,
+            "title": "标准武备",
             "canJump": true,
-            "jumpCode": "1142",
+            "jumpCode": "5004",
             "quicklyBuy": 0
         },
         {
-            "id": 140143,
-            "type": 14,
-            "title": "剧情战役关卡 BH-1-3",
+            "id": 190005,
+            "type": 19,
+            "title": "精良武备",
             "canJump": true,
-            "jumpCode": "1143",
+            "jumpCode": "5005",
             "quicklyBuy": 0
         },
         {
-            "id": 140144,
-            "type": 14,
-            "title": "剧情战役关卡 BH-1-4",
+            "id": 190006,
+            "type": 19,
+            "title": "荣誉专区",
             "canJump": true,
-            "jumpCode": "1144",
+            "jumpCode": "5006",
             "quicklyBuy": 0
         },
         {
-            "id": 140145,
-            "type": 14,
-            "title": "剧情战役关卡 BH-1-5",
+            "id": 190007,
+            "type": 19,
+            "title": "讯段交易",
             "canJump": true,
-            "jumpCode": "1145",
+            "jumpCode": "5007",
             "quicklyBuy": 0
         },
         {
-            "id": 140146,
-            "type": 14,
-            "title": "剧情战役关卡 BH-1-6",
+            "id": 190008,
+            "type": 19,
+            "title": "充能枢纽",
             "canJump": true,
-            "jumpCode": "1146",
+            "jumpCode": "5008",
             "quicklyBuy": 0
         },
         {
-            "id": 140741,
-            "type": 14,
-            "title": "剧情战役关卡 BH-7-1",
+            "id": 200001,
+            "type": 20,
+            "title": "整备室",
             "canJump": true,
-            "jumpCode": "1741",
+            "jumpCode": "4001",
             "quicklyBuy": 0
         },
         {
-            "id": 140742,
-            "type": 14,
-            "title": "剧情战役关卡 BH-7-2",
+            "id": 210001,
+            "type": 21,
+            "title": "深度搜索",
             "canJump": true,
-            "jumpCode": "1742",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140743,
-            "type": 14,
-            "title": "剧情战役关卡 BH-7-3",
-            "canJump": true,
-            "jumpCode": "1743",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140744,
-            "type": 14,
-            "title": "剧情战役关卡 BH-7-4",
-            "canJump": true,
-            "jumpCode": "1744",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140745,
-            "type": 14,
-            "title": "剧情战役关卡 BH-7-5",
-            "canJump": true,
-            "jumpCode": "1745",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140746,
-            "type": 14,
-            "title": "剧情战役关卡 BH-7-6",
-            "canJump": true,
-            "jumpCode": "1746",
+            "jumpCode": "3003",
             "quicklyBuy": 0
         },
         {
@@ -1897,6 +1561,38 @@
             "quicklyBuy": 0
         },
         {
+            "id": 230001,
+            "type": 23,
+            "title": "战力推定",
+            "canJump": true,
+            "jumpCode": "3004",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 240001,
+            "type": 24,
+            "title": "首领挑战",
+            "canJump": true,
+            "jumpCode": "3005",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 250001,
+            "type": 25,
+            "title": "每日订单",
+            "canJump": true,
+            "jumpCode": "7001",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 250003,
+            "type": 25,
+            "title": "考核目标",
+            "canJump": true,
+            "jumpCode": "7002",
+            "quicklyBuy": 0
+        },
+        {
             "id": 260001,
             "type": 26,
             "title": "通讯",
@@ -1905,139 +1601,11 @@
             "quicklyBuy": 0
         },
         {
-            "id": 300001,
-            "type": 30,
-            "title": "远航绿洲",
+            "id": 270001,
+            "type": 27,
+            "title": "机库",
             "canJump": true,
-            "jumpCode": "13004",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 30001,
-            "type": 3,
-            "title": "常规访问",
-            "canJump": true,
-            "jumpCode": "6101",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 30002,
-            "type": 3,
-            "title": "军备提升",
-            "canJump": true,
-            "jumpCode": "6002",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 30003,
-            "type": 3,
-            "title": "定向访问",
-            "canJump": true,
-            "jumpCode": "6005",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140310,
-            "type": 14,
-            "title": "剧情战役 3-10",
-            "canJump": true,
-            "jumpCode": "1310",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140341,
-            "type": 14,
-            "title": "剧情战役关卡 BH-3-1",
-            "canJump": true,
-            "jumpCode": "1341",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140342,
-            "type": 14,
-            "title": "剧情战役关卡 BH-3-2",
-            "canJump": true,
-            "jumpCode": "1342",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140343,
-            "type": 14,
-            "title": "剧情战役关卡 BH-3-3",
-            "canJump": true,
-            "jumpCode": "1343",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140344,
-            "type": 14,
-            "title": "剧情战役关卡 BH-3-4",
-            "canJump": true,
-            "jumpCode": "1344",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140345,
-            "type": 14,
-            "title": "剧情战役关卡 BH-3-5",
-            "canJump": true,
-            "jumpCode": "1345",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140346,
-            "type": 14,
-            "title": "剧情战役关卡 BH-3-6",
-            "canJump": true,
-            "jumpCode": "1346",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140441,
-            "type": 14,
-            "title": "剧情战役关卡 BH-4-1",
-            "canJump": true,
-            "jumpCode": "1441",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140442,
-            "type": 14,
-            "title": "剧情战役关卡 BH-4-2",
-            "canJump": true,
-            "jumpCode": "1442",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140443,
-            "type": 14,
-            "title": "剧情战役关卡 BH-4-3",
-            "canJump": true,
-            "jumpCode": "1443",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140444,
-            "type": 14,
-            "title": "剧情战役关卡 BH-4-4",
-            "canJump": true,
-            "jumpCode": "1444",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140445,
-            "type": 14,
-            "title": "剧情战役关卡 BH-4-5",
-            "canJump": true,
-            "jumpCode": "1445",
-            "quicklyBuy": 0
-        },
-        {
-            "id": 140446,
-            "type": 14,
-            "title": "剧情战役关卡 BH-4-6",
-            "canJump": true,
-            "jumpCode": "1446",
+            "jumpCode": "9002",
             "quicklyBuy": 0
         },
         {
@@ -2086,6 +1654,558 @@
             "title": "心智勘测 守望者",
             "canJump": true,
             "jumpCode": "2010",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280201,
+            "type": 28,
+            "title": "心智勘测2-1",
+            "canJump": true,
+            "jumpCode": "2021",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280202,
+            "type": 28,
+            "title": "心智勘测2-2",
+            "canJump": true,
+            "jumpCode": "2022",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280203,
+            "type": 28,
+            "title": "心智勘测2-3",
+            "canJump": true,
+            "jumpCode": "2023",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280204,
+            "type": 28,
+            "title": "心智勘测2-4",
+            "canJump": true,
+            "jumpCode": "2024",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280205,
+            "type": 28,
+            "title": "心智勘测2-5",
+            "canJump": true,
+            "jumpCode": "2025",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280206,
+            "type": 28,
+            "title": "心智勘测 流浪的人",
+            "canJump": true,
+            "jumpCode": "2020",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280301,
+            "type": 28,
+            "title": "心智勘测3-1",
+            "canJump": true,
+            "jumpCode": "2031",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280302,
+            "type": 28,
+            "title": "心智勘测3-2",
+            "canJump": true,
+            "jumpCode": "2032",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280303,
+            "type": 28,
+            "title": "心智勘测3-3",
+            "canJump": true,
+            "jumpCode": "2033",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280304,
+            "type": 28,
+            "title": "心智勘测3-4",
+            "canJump": true,
+            "jumpCode": "2034",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280305,
+            "type": 28,
+            "title": "心智勘测3-5",
+            "canJump": true,
+            "jumpCode": "2035",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280306,
+            "type": 28,
+            "title": "心智勘测 限时替身",
+            "canJump": true,
+            "jumpCode": "2030",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280401,
+            "type": 28,
+            "title": "心智勘测4-1",
+            "canJump": true,
+            "jumpCode": "2041",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280402,
+            "type": 28,
+            "title": "心智勘测4-2",
+            "canJump": true,
+            "jumpCode": "2042",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280403,
+            "type": 28,
+            "title": "心智勘测4-3",
+            "canJump": true,
+            "jumpCode": "2043",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280404,
+            "type": 28,
+            "title": "心智勘测4-4",
+            "canJump": true,
+            "jumpCode": "2044",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280405,
+            "type": 28,
+            "title": "心智勘测4-5",
+            "canJump": true,
+            "jumpCode": "2045",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280406,
+            "type": 28,
+            "title": "心智勘测 最后的命令",
+            "canJump": true,
+            "jumpCode": "2040",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280501,
+            "type": 28,
+            "title": "心智勘测5-1",
+            "canJump": true,
+            "jumpCode": "2051",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280502,
+            "type": 28,
+            "title": "心智勘测5-2",
+            "canJump": true,
+            "jumpCode": "2052",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280503,
+            "type": 28,
+            "title": "心智勘测5-3",
+            "canJump": true,
+            "jumpCode": "2053",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280504,
+            "type": 28,
+            "title": "心智勘测5-4",
+            "canJump": true,
+            "jumpCode": "2054",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280505,
+            "type": 28,
+            "title": "心智勘测5-5",
+            "canJump": true,
+            "jumpCode": "2055",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280506,
+            "type": 28,
+            "title": "心智勘测 乘于裙摆之上",
+            "canJump": true,
+            "jumpCode": "2050",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280601,
+            "type": 28,
+            "title": "心智勘测6-1",
+            "canJump": true,
+            "jumpCode": "2061",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280602,
+            "type": 28,
+            "title": "心智勘测6-2",
+            "canJump": true,
+            "jumpCode": "2062",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280603,
+            "type": 28,
+            "title": "心智勘测6-3",
+            "canJump": true,
+            "jumpCode": "2063",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280604,
+            "type": 28,
+            "title": "心智勘测6-4",
+            "canJump": true,
+            "jumpCode": "2064",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280605,
+            "type": 28,
+            "title": "心智勘测6-5",
+            "canJump": true,
+            "jumpCode": "2065",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 280606,
+            "type": 28,
+            "title": "心智勘测 星点光芒闪耀时",
+            "canJump": true,
+            "jumpCode": "2060",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290000,
+            "type": 29,
+            "title": "边界推进",
+            "canJump": true,
+            "jumpCode": "10000",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290001,
+            "type": 29,
+            "title": "边界推进-推进任务",
+            "canJump": true,
+            "jumpCode": "10003",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290002,
+            "type": 29,
+            "title": "边界推进-边界探索",
+            "canJump": true,
+            "jumpCode": "10004",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290003,
+            "type": 29,
+            "title": "边界推进-特殊悬赏",
+            "canJump": true,
+            "jumpCode": "10005",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290004,
+            "type": 29,
+            "title": "边界推进-分析机台",
+            "canJump": true,
+            "jumpCode": "10006",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290005,
+            "type": 29,
+            "title": "醇香委托-常规采送I",
+            "canJump": true,
+            "jumpCode": "17001",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290006,
+            "type": 29,
+            "title": "醇香委托-常规采送II",
+            "canJump": true,
+            "jumpCode": "17002",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290007,
+            "type": 29,
+            "title": "醇香委托-常规采送III",
+            "canJump": true,
+            "jumpCode": "17003",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290008,
+            "type": 29,
+            "title": "醇香委托-品质采送I",
+            "canJump": true,
+            "jumpCode": "17004",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290009,
+            "type": 29,
+            "title": "醇香委托-品质采送II",
+            "canJump": true,
+            "jumpCode": "17005",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290010,
+            "type": 29,
+            "title": "醇香委托-品质采送II",
+            "canJump": true,
+            "jumpCode": "17006",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290011,
+            "type": 29,
+            "title": "醇香委托-精品采送I",
+            "canJump": true,
+            "jumpCode": "17007",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290012,
+            "type": 29,
+            "title": "醇香委托-精品采送II",
+            "canJump": true,
+            "jumpCode": "17008",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290013,
+            "type": 29,
+            "title": "醇香委托-精品采送II",
+            "canJump": true,
+            "jumpCode": "17009",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290014,
+            "type": 29,
+            "title": "醇香委托-特选采送I",
+            "canJump": true,
+            "jumpCode": "17010",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 290015,
+            "type": 29,
+            "title": "醇香委托-特选采送II",
+            "canJump": true,
+            "jumpCode": "17011",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310001,
+            "type": 31,
+            "title": "军备解析-基础解析I",
+            "canJump": true,
+            "jumpCode": "3401",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310002,
+            "type": 31,
+            "title": "军备解析-基础解析II",
+            "canJump": true,
+            "jumpCode": "3402",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310003,
+            "type": 31,
+            "title": "军备解析-标准解析I",
+            "canJump": true,
+            "jumpCode": "3403",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310004,
+            "type": 31,
+            "title": "军备解析-标准解析II",
+            "canJump": true,
+            "jumpCode": "3404",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310005,
+            "type": 31,
+            "title": "军备解析-标准解析III",
+            "canJump": true,
+            "jumpCode": "3405",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310006,
+            "type": 31,
+            "title": "军备解析-标准解析IV",
+            "canJump": true,
+            "jumpCode": "3406",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310007,
+            "type": 31,
+            "title": "军备解析-详尽解析I",
+            "canJump": true,
+            "jumpCode": "3407",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310008,
+            "type": 31,
+            "title": "军备解析-详尽解析II",
+            "canJump": true,
+            "jumpCode": "3408",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310009,
+            "type": 31,
+            "title": "军备解析-专业解析I",
+            "canJump": true,
+            "jumpCode": "3409",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310010,
+            "type": 31,
+            "title": "军备解析-专业解析II",
+            "canJump": true,
+            "jumpCode": "3410",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 310011,
+            "type": 31,
+            "title": "军备解析",
+            "canJump": true,
+            "jumpCode": "3400",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 320001,
+            "type": 32,
+            "title": "循乐录",
+            "canJump": true,
+            "jumpCode": "12103",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 320002,
+            "type": 32,
+            "title": "追缉协奏曲",
+            "canJump": true,
+            "jumpCode": "12104",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 320011,
+            "type": 32,
+            "title": "方糖特调沙龙",
+            "canJump": true,
+            "jumpCode": "12201",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 320012,
+            "type": 32,
+            "title": "醇香委托",
+            "canJump": true,
+            "jumpCode": "12202",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 320013,
+            "type": 32,
+            "title": "自助吧台·碳酸饮料机获取",
+            "canJump": false,
+            "jumpCode": "",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 320014,
+            "type": 32,
+            "title": "自助吧台·多功能果汁机获取",
+            "canJump": false,
+            "jumpCode": "",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 320015,
+            "type": 32,
+            "title": "自助吧台·胶囊咖啡机获取",
+            "canJump": false,
+            "jumpCode": "",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 320016,
+            "type": 32,
+            "title": "方糖小助手·考核目标任务获取",
+            "canJump": false,
+            "jumpCode": "",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 321002,
+            "type": 33,
+            "title": "远航巡路",
+            "canJump": true,
+            "jumpCode": "13001",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 330001,
+            "type": 33,
+            "title": "扩编实练",
+            "canJump": true,
+            "jumpCode": "18001",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 990001,
+            "type": 99,
+            "title": "合成获得",
+            "canJump": false,
+            "jumpCode": "",
+            "quicklyBuy": 0
+        },
+        {
+            "id": 990002,
+            "type": 99,
+            "title": "商城获取。",
+            "canJump": false,
+            "jumpCode": "",
             "quicklyBuy": 0
         }
     ]

@@ -1,6 +1,538 @@
 {
     "data": [
         {
+            "id": 1001,
+            "name": "克罗丽科",
+            "firstName": "克罗丽科",
+            "secondName": "白刃",
+            "enName": "CharolicSR",
+            "introduce": "性格稍显暴躁的人形，对与自己无关的事务没什么兴趣，但拥有无可指摘的责任心。就算是类似“担任纳美西丝专属翻译官”这样完全不喜欢的任务，她也会尽心完成。",
+            "dialogue": "吃惊什么，第一次见？用刀才厉害好吧！",
+            "extra": "",
+            "code": "CharolicSR",
+            "type": 6,
+            "characterId": 1,
+            "getAudio": 7100178,
+            "duty": 2,
+            "rank": 4,
+            "roleTemplateId": 1001,
+            "coreItemId": 4001,
+            "upgradeSpeech": "10012001",
+            "skillNormalAttack": 10010101,
+            "skillTalentExtra": [
+                10000
+            ],
+            "aiList": [
+                100101,
+                100102,
+                100103,
+                100104,
+                100105,
+                100106,
+                100107
+            ],
+            "weaponType": 7,
+            "weaponDefault": 11022,
+            "moveCode": 27,
+            "soldGet1": {
+                "4001": 30
+            },
+            "systemSwitch": 63,
+            "camp": 2001,
+            "unlockCost": 30,
+            "grade": 1001,
+            "gunClass": 1,
+            "barrackCameraSetting": "0.3,0,0.5,1.9",
+            "avatar": 21000,
+            "costumeId": 1100100,
+            "costumeReplace": [
+                1100100,
+                1100101,
+                1100103
+            ],
+            "propertyId": 11001,
+            "weight": 2,
+            "shieldType": 1,
+            "maxGrade": 6,
+            "shieldEffectId": 100002,
+            "baseSupply": 80011,
+            "supplyTypeBanList": [
+                0,
+                2
+            ],
+            "shieldBrokenEffectId": 200001,
+            "attackType": 1,
+            "gachaGetTimeline": "GunGet/CharolicSR01_GunGetShow",
+            "beSuppressedConfig": [
+                80000001,
+                9999,
+                0,
+                0,
+                8
+            ],
+            "idleType": 1,
+            "displacement": 1,
+            "weakTag": "4",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
+            "unlockHint": 160044,
+            "unlockDorm": [
+                44004
+            ],
+            "guardRadius": 300,
+            "guardRadiusShow": 1,
+            "gachaGetAudio": 1050078,
+            "gachaGetVoice": 71100106,
+            "weakWeaponTag": 32,
+            "secondDuty": 0,
+            "skillActiveExtra": [],
+            "element": 0,
+            "weaponPrivate": [],
+            "weaponPrivateShow": [],
+            "useFakeAttack": false,
+            "defaultGrade": 0,
+            "barrackEffectId": [],
+            "barrackAudioId": 0,
+            "extraSkill": 0,
+            "shape": 0,
+            "shapeParam": "",
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "isHide": false,
+            "feature": 0
+        },
+        {
+            "id": 1008,
+            "name": "纳美西丝",
+            "firstName": "纳美西丝",
+            "secondName": "衍光",
+            "enName": "NemesisSR",
+            "introduce": "热衷神秘学与占卜的人形，随身携带神奇的占卜道具“棱镜”。而占卜的结果，通常会被她用充满神秘色彩、令人费解的语言风格表达出来。但她仍是非常可靠的同伴——除了难以沟通之外。",
+            "dialogue": "……纸页……轻拂的山风……延伸……",
+            "extra": "",
+            "code": "NemesisSR",
+            "type": 3,
+            "characterId": 4,
+            "getAudio": 7100373,
+            "duty": 4,
+            "rank": 4,
+            "roleTemplateId": 1008,
+            "coreItemId": 4008,
+            "upgradeSpeech": "10082001",
+            "skillNormalAttack": 10080101,
+            "skillTalentExtra": [
+                10000
+            ],
+            "weaponType": 3,
+            "weaponPrivateShow": [
+                11009,
+                11014
+            ],
+            "weaponDefault": 11009,
+            "moveCode": 27,
+            "soldGet1": {
+                "4008": 30
+            },
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001,
+            "unlockCost": 30,
+            "grade": 1008,
+            "gunClass": 2,
+            "barrackCameraSetting": "0.3,0,0.6,1.9",
+            "avatar": 21001,
+            "costumeId": 1100800,
+            "costumeReplace": [
+                1100800,
+                1100803,
+                1100804,
+                1100805
+            ],
+            "propertyId": 11008,
+            "weight": 2,
+            "shieldType": 2,
+            "maxGrade": 6,
+            "shieldEffectId": 100002,
+            "baseSupply": 80011,
+            "supplyTypeBanList": [
+                0,
+                2
+            ],
+            "shieldBrokenEffectId": 200002,
+            "attackType": 1,
+            "gachaGetTimeline": "GunGet/NemesisSR01_GunGetShow",
+            "beSuppressedConfig": [
+                80000001,
+                9999,
+                0,
+                0,
+                8
+            ],
+            "idleType": 1,
+            "displacement": 1,
+            "weakTag": "5",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
+            "unlockHint": 160044,
+            "unlockDorm": [
+                44003
+            ],
+            "guardRadius": 700,
+            "guardRadiusShow": 1,
+            "gachaGetAudio": 1050084,
+            "weakWeaponTag": 2,
+            "secondDuty": 0,
+            "skillActiveExtra": [],
+            "aiList": [],
+            "element": 0,
+            "weaponPrivate": [],
+            "defaultGrade": 0,
+            "barrackEffectId": [],
+            "barrackAudioId": 0,
+            "extraSkill": 0,
+            "shape": 0,
+            "shapeParam": "",
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "isHide": false,
+            "gachaGetVoice": 0,
+            "feature": 0
+        },
+        {
+            "id": 1009,
+            "name": "寇尔芙",
+            "firstName": "寇尔芙",
+            "secondName": "心源",
+            "enName": "ColphneSR",
+            "introduce": "通常情况下，都会表现得热情洋溢的人形，但偶尔，她也会露出完全不同的冷淡表情。她手中的针剂，究竟是用来救死扶伤，还是用来置人于死地？",
+            "dialogue": "唔哇~是有不得了的大——麻烦出现了吗~？人家可以考虑帮忙解决哦~",
+            "extra": "",
+            "code": "ColphneSR",
+            "type": 1,
+            "characterId": 2,
+            "getAudio": 7100277,
+            "duty": 3,
+            "rank": 4,
+            "roleTemplateId": 1009,
+            "coreItemId": 4009,
+            "upgradeSpeech": "10092001",
+            "skillNormalAttack": 10090101,
+            "skillTalentExtra": [
+                10000
+            ],
+            "aiList": [
+                100901,
+                100902,
+                100903,
+                100904,
+                100905,
+                100906,
+                100907
+            ],
+            "weaponType": 1,
+            "weaponPrivateShow": [
+                11015,
+                11008
+            ],
+            "weaponDefault": 11008,
+            "moveCode": 27,
+            "soldGet1": {
+                "4009": 30
+            },
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001,
+            "unlockCost": 30,
+            "grade": 1009,
+            "gunClass": 3,
+            "barrackCameraSetting": "0.3,0,0.45,1.9",
+            "avatar": 21002,
+            "costumeId": 1100900,
+            "costumeReplace": [
+                1100900,
+                1100903
+            ],
+            "propertyId": 11009,
+            "weight": 2,
+            "shieldType": 1,
+            "maxGrade": 6,
+            "shieldEffectId": 100002,
+            "baseSupply": 80011,
+            "supplyTypeBanList": [
+                0,
+                2
+            ],
+            "shieldBrokenEffectId": 200001,
+            "attackType": 1,
+            "gachaGetTimeline": "GunGet/ColphneSR01_GunGetShow",
+            "beSuppressedConfig": [
+                80000001,
+                9999,
+                0,
+                0,
+                8
+            ],
+            "idleType": 1,
+            "displacement": 1,
+            "weakTag": "4",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
+            "unlockHint": 160044,
+            "unlockDorm": [
+                44002
+            ],
+            "guardRadius": 500,
+            "guardRadiusShow": 1,
+            "gachaGetAudio": 1050080,
+            "gachaGetVoice": 71100904,
+            "weakWeaponTag": 32,
+            "secondDuty": 0,
+            "skillActiveExtra": [],
+            "element": 0,
+            "weaponPrivate": [],
+            "defaultGrade": 0,
+            "barrackEffectId": [],
+            "barrackAudioId": 0,
+            "extraSkill": 0,
+            "shape": 0,
+            "shapeParam": "",
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "isHide": false,
+            "feature": 0
+        },
+        {
+            "id": 1015,
+            "name": "维普蕾",
+            "firstName": "维普蕾",
+            "secondName": "音染",
+            "enName": "VepleySSR",
+            "introduce": "活跃在“战场”这个特殊舞台上的人形！每天都在为了下一场演出做着万全的准备——这样，就不会再轻易摔倒或者撞到其他人了吧。",
+            "dialogue": "要有新的演出了吗？维普蕾，超·级·期·待☆！",
+            "extra": "",
+            "code": "VepleySSR",
+            "type": 6,
+            "characterId": 5,
+            "getAudio": 7101179,
+            "duty": 2,
+            "rank": 5,
+            "roleTemplateId": 1015,
+            "coreItemId": 4015,
+            "upgradeSpeech": "10152001",
+            "skillNormalAttack": 10150101,
+            "skillTalentExtra": [
+                10000
+            ],
+            "aiList": [
+                101501,
+                101502,
+                101503,
+                101504,
+                101505,
+                101506,
+                101507
+            ],
+            "weaponType": 6,
+            "weaponPrivate": [
+                11016
+            ],
+            "weaponPrivateShow": [
+                11021,
+                11017,
+                11016
+            ],
+            "weaponDefault": 11017,
+            "moveCode": 27,
+            "soldGet1": {
+                "4015": 30
+            },
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001,
+            "unlockCost": 30,
+            "grade": 1015,
+            "gunClass": 4,
+            "barrackCameraSetting": "0.3,0,0.45,1.9",
+            "avatar": 21003,
+            "costumeId": 1101500,
+            "costumeReplace": [
+                1101500,
+                1101501
+            ],
+            "propertyId": 11015,
+            "weight": 2,
+            "shieldType": 2,
+            "maxGrade": 6,
+            "shieldEffectId": 100003,
+            "baseSupply": 80011,
+            "supplyTypeBanList": [
+                0,
+                2
+            ],
+            "shieldBrokenEffectId": 200002,
+            "attackType": 1,
+            "gachaGetTimeline": "GunGet/VepleySSR01_GunGetShow",
+            "beSuppressedConfig": [
+                80000001,
+                9999,
+                0,
+                0,
+                8
+            ],
+            "idleType": 1,
+            "displacement": 1,
+            "weakTag": "5",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
+            "unlockHint": 160044,
+            "unlockDorm": [
+                44005
+            ],
+            "guardRadius": 500,
+            "guardRadiusShow": 1,
+            "gachaGetAudio": 1050090,
+            "gachaGetVoice": 71101506,
+            "weakWeaponTag": 8,
+            "secondDuty": 0,
+            "skillActiveExtra": [],
+            "element": 0,
+            "defaultGrade": 0,
+            "barrackEffectId": [],
+            "barrackAudioId": 0,
+            "extraSkill": 0,
+            "shape": 0,
+            "shapeParam": "",
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "isHide": false,
+            "feature": 0
+        },
+        {
+            "id": 1017,
+            "name": "闪电",
+            "firstName": "闪电",
+            "secondName": "凛锋",
+            "enName": "GrozaSR",
+            "introduce": "成熟稳重的精英人形，当之无愧的小队核心。就算小队成员性格迥异，她也能很好地统合起众人的力量。只要有她在，一切都不会成为问题。",
+            "dialogue": "一切都在可控范围内，有我在，指挥官不用担心。",
+            "extra": "",
+            "code": "GrozaSR",
+            "type": 4,
+            "characterId": 3,
+            "getAudio": 7100477,
+            "duty": 1,
+            "rank": 4,
+            "roleTemplateId": 1017,
+            "coreItemId": 4017,
+            "upgradeSpeech": "10172001",
+            "skillNormalAttack": 10170101,
+            "skillTalentExtra": [
+                10000
+            ],
+            "aiList": [
+                101701,
+                101702,
+                101703,
+                101704,
+                101705,
+                101706,
+                101707
+            ],
+            "weaponType": 4,
+            "weaponPrivateShow": [
+                11023,
+                11010
+            ],
+            "weaponDefault": 11010,
+            "moveCode": 27,
+            "soldGet1": {
+                "4017": 30
+            },
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001,
+            "unlockCost": 30,
+            "grade": 1017,
+            "gunClass": 5,
+            "barrackCameraSetting": "0.3,0,0.5,1.9",
+            "avatar": 21004,
+            "costumeId": 1101700,
+            "costumeReplace": [
+                1101700,
+                1101701,
+                1101703,
+                1101705
+            ],
+            "propertyId": 11017,
+            "weight": 2,
+            "shieldType": 1,
+            "maxGrade": 6,
+            "shieldEffectId": 100002,
+            "baseSupply": 80011,
+            "supplyTypeBanList": [
+                0,
+                2
+            ],
+            "shieldBrokenEffectId": 200001,
+            "attackType": 1,
+            "gachaGetTimeline": "GunGet/GrozaSR01_GunGetShow",
+            "beSuppressedConfig": [
+                80000001,
+                9999,
+                0,
+                0,
+                8
+            ],
+            "idleType": 1,
+            "displacement": 1,
+            "weakTag": "1",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
+            "unlockHint": 160044,
+            "unlockDorm": [
+                44001
+            ],
+            "guardRadius": 500,
+            "guardRadiusShow": 1,
+            "gachaGetAudio": 1050082,
+            "gachaGetVoice": 71101704,
+            "weakWeaponTag": 8,
+            "secondDuty": 0,
+            "skillActiveExtra": [],
+            "element": 0,
+            "weaponPrivate": [],
+            "defaultGrade": 0,
+            "barrackEffectId": [],
+            "barrackAudioId": 0,
+            "extraSkill": 0,
+            "shape": 0,
+            "shapeParam": "",
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "isHide": false,
+            "feature": 0
+        },
+        {
             "id": 1021,
             "name": "佩里缇亚",
             "firstName": "佩里缇亚",
@@ -8,7 +540,7 @@
             "enName": "PerityaSSR",
             "introduce": "慵懒、好奇心充沛的人形。在她看来，战斗、生存，以及各种新奇的情绪，都是这广袤世界的一部分。相较电子世界，这样广袤的世界充满了未知的趣味……嗯，那朵云终于遮住了太阳，躺下休息一会吧。",
             "dialogue": "您的邀请，我听到了哦。",
-            "extra": "SA,早见沙织,",
+            "extra": "",
             "code": "PerityaSSR",
             "type": 5,
             "characterId": 7,
@@ -80,7 +612,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "5",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 44006
@@ -101,7 +638,8 @@
             "shapeParam": "",
             "shapeIcon": "",
             "shapeTerrain": 0,
-            "isHide": false
+            "isHide": false,
+            "feature": 0
         },
         {
             "id": 1022,
@@ -111,7 +649,7 @@
             "enName": "SharkrySR",
             "introduce": "散发着“小恶魔”气息的人形，她的甜蜜微笑下隐藏着可爱心机。她要的不止是舞台，更是客人们永不枯竭的爱意哦♥",
             "dialogue": "嘻嘻，准备就绪♥被夏克里“击中”的幸运儿会是谁呢？",
-            "extra": "CanceR,雨宫天,",
+            "extra": "",
             "code": "SharkrySR",
             "type": 4,
             "characterId": 8,
@@ -179,7 +717,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "4",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 44007
@@ -201,7 +744,8 @@
             "shapeParam": "",
             "shapeIcon": "",
             "shapeTerrain": 0,
-            "isHide": false
+            "isHide": false,
+            "feature": 0
         },
         {
             "id": 1024,
@@ -211,7 +755,7 @@
             "enName": "CheetaSR",
             "introduce": "灵感源源不断的人形、格里芬的发明大王。多少次失败都无法停止她的脚步。层出不穷的鬼点子让人头痛，但她却又总能在关键时刻给出“天才”般的妙计。",
             "dialogue": "怎么又要工作啊……是饲养员？真没办法，就让本世纪最伟大的天才来帮帮您吧。",
-            "extra": "废人,雨宫天,",
+            "extra": "",
             "code": "CheetaSR",
             "type": 2,
             "characterId": 10,
@@ -282,7 +826,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "5",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 44008
@@ -303,7 +852,8 @@
             "shapeParam": "",
             "shapeIcon": "",
             "shapeTerrain": 0,
-            "isHide": false
+            "isHide": false,
+            "feature": 0
         },
         {
             "id": 1025,
@@ -313,7 +863,7 @@
             "enName": "TololoSSR",
             "introduce": "与星空相伴的安静人形。沉默之下，是纤细而敏感的内心。万物沉睡时，她将自己寄托于浩瀚星河，夜空则为其变幻闪烁。",
             "dialogue": "引力改变了星的轨迹，将我牵引到这里。托洛洛，入队。",
-            "extra": "废人,雨宫天,",
+            "extra": "",
             "code": "TololoSSR",
             "type": 4,
             "characterId": 11,
@@ -385,7 +935,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "2",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 44009
@@ -406,7 +961,8 @@
             "shapeIcon": "",
             "shapeTerrain": 0,
             "isHide": false,
-            "gachaGetVoice": 0
+            "gachaGetVoice": 0,
+            "feature": 0
         },
         {
             "id": 1026,
@@ -416,7 +972,7 @@
             "enName": "NagantSR",
             "introduce": "喜欢故作成熟的人形。仰慕英雄，即使离开战场，她也要作为治安人形继续发光发热。 被她守护的居民们，享受着每一个宁静的夜晚。",
             "dialogue": "老兵纳甘，前来报到！不错不错，指挥官看起来也成熟了不少嘛。",
-            "extra": "废人,雨宫天,",
+            "extra": "",
             "code": "NagantSR",
             "type": 3,
             "characterId": 13,
@@ -484,7 +1040,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "1",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 44015
@@ -506,7 +1067,8 @@
             "shapeParam": "",
             "shapeIcon": "",
             "shapeTerrain": 0,
-            "isHide": false
+            "isHide": false,
+            "feature": 0
         },
         {
             "id": 1027,
@@ -516,7 +1078,7 @@
             "enName": "QiongjiuSSR",
             "introduce": "停下自由的脚步、担起团队重责的人形。能够为格里芬奉献时间与精力，同时完好地保持着自我，这都多亏她精准高效的工作规划。绝不违背，绝不打破，比起更改计划，她更愿意去改变自己、改变现实。",
             "dialogue": "很高兴能与您再度合作，指挥官，希望我能成为您手中的养人美玉，而不是那块无光璞石。",
-            "extra": "SA,早见沙织,",
+            "extra": "",
             "code": "QiongjiuSSR",
             "type": 2,
             "characterId": 14,
@@ -588,7 +1150,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "3",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 44010
@@ -609,7 +1176,117 @@
             "shapeParam": "",
             "shapeIcon": "",
             "shapeTerrain": 0,
-            "isHide": false
+            "isHide": false,
+            "feature": 0
+        },
+        {
+            "id": 1028,
+            "name": "桑朵莱希",
+            "firstName": "桑朵莱希",
+            "secondName": "特化型",
+            "enName": "CentaureissiSSR",
+            "introduce": "恭谦却又坚守原则的招待人形。她会为善良的客人端上香气四溢的咖啡，也会将不堪的客人直接“请”出咖啡馆——这便是“方糖”无可取代的屏障。",
+            "dialogue": "桑朵莱希，为您服务，长官，今天的红茶请放心交给我吧。",
+            "extra": "",
+            "code": "CentaureissiSSR",
+            "type": 4,
+            "characterId": 15,
+            "getAudio": 7102841,
+            "duty": 3,
+            "rank": 5,
+            "roleTemplateId": 1028,
+            "coreItemId": 4028,
+            "upgradeSpeech": "10072001",
+            "skillNormalAttack": 10280101,
+            "skillTalentExtra": [
+                10000
+            ],
+            "aiList": [
+                102201,
+                102202,
+                102203,
+                102204,
+                102205,
+                102206,
+                102207
+            ],
+            "weaponType": 4,
+            "weaponPrivate": [
+                11056
+            ],
+            "weaponPrivateShow": [
+                11056,
+                11055,
+                11054
+            ],
+            "weaponDefault": 11054,
+            "moveCode": 27,
+            "soldGet1": {
+                "4028": 30
+            },
+            "systemSwitch": 63,
+            "useFakeAttack": true,
+            "camp": 2001,
+            "unlockCost": 30,
+            "grade": 1028,
+            "gunClass": 12,
+            "barrackCameraSetting": "0.3,0,0.5,1.9",
+            "avatar": 21013,
+            "costumeId": 1102800,
+            "costumeReplace": [
+                1102800
+            ],
+            "propertyId": 11028,
+            "weight": 2,
+            "shieldType": 2,
+            "maxGrade": 6,
+            "shieldEffectId": 100003,
+            "baseSupply": 80011,
+            "supplyTypeBanList": [
+                0,
+                2
+            ],
+            "shieldBrokenEffectId": 200002,
+            "attackType": 1,
+            "gachaGetTimeline": "GunGet/CentaureissiSSR01_GunGetShow",
+            "beSuppressedConfig": [
+                80000001,
+                9999,
+                0,
+                0,
+                8
+            ],
+            "idleType": 1,
+            "displacement": 1,
+            "weakTag": "5",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
+            "unlockHint": 160045,
+            "unlockDorm": [
+                46034
+            ],
+            "guardRadius": 500,
+            "guardRadiusShow": 1,
+            "gachaGetAudio": 1050077,
+            "gachaGetVoice": 71102813,
+            "weakWeaponTag": 8,
+            "secondDuty": 0,
+            "skillActiveExtra": [],
+            "element": 0,
+            "defaultGrade": 0,
+            "barrackEffectId": [],
+            "barrackAudioId": 0,
+            "extraSkill": 0,
+            "shape": 0,
+            "shapeParam": "",
+            "shapeIcon": "",
+            "shapeTerrain": 0,
+            "isHide": false,
+            "feature": 0
         },
         {
             "id": 1029,
@@ -619,7 +1296,7 @@
             "enName": "SabrinaSSR",
             "introduce": "热衷美食研究并享受着美食的人形，厨房是她的新战场。乐于分享自己的做饭过程，香气或许存在界限，但她的笑容却能随着网络，感染每一名观众。",
             "dialogue": "锵锵！这里是塞布丽娜，我来做“美食调研”了哦，帮指挥官宣传的话……能不能……就是，免单？",
-            "extra": "废人,雨宫天,",
+            "extra": "",
             "code": "SabrinaSSR",
             "type": 2,
             "characterId": 12,
@@ -694,7 +1371,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "2",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 44011
@@ -714,7 +1396,8 @@
             "shapeParam": "",
             "shapeIcon": "",
             "shapeTerrain": 0,
-            "isHide": false
+            "isHide": false,
+            "feature": 0
         },
         {
             "id": 1032,
@@ -724,7 +1407,7 @@
             "enName": "DaiyanSSR",
             "introduce": "温柔内敛的人形，背着古筝与“季风”乐队的同伴们四处漂泊。拨弄琴弦，唤起的是听者最心底的愿望——她聆听着一切，也包容着一切。",
             "dialogue": "与长官的重逢，将会谱写出怎样的旋律呢？我很期待。",
-            "extra": "废人,雨宫天,",
+            "extra": "",
             "code": "DaiyanSSR",
             "type": 4,
             "characterId": 16,
@@ -771,7 +1454,8 @@
             "avatar": 21015,
             "costumeId": 1103200,
             "costumeReplace": [
-                1103200
+                1103200,
+                1103203
             ],
             "propertyId": 11032,
             "weight": 2,
@@ -796,7 +1480,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "1",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160045,
             "unlockDorm": [
                 44013
@@ -817,7 +1506,8 @@
             "shapeParam": "",
             "shapeIcon": "",
             "shapeTerrain": 0,
-            "isHide": false
+            "isHide": false,
+            "feature": 0
         },
         {
             "id": 1033,
@@ -902,7 +1592,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "4",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 99999
@@ -910,6 +1605,7 @@
             "guardRadius": 500,
             "guardRadiusShow": 1,
             "gachaGetAudio": 1050094,
+            "gachaGetVoice": 71103303,
             "weakWeaponTag": 2,
             "secondDuty": 0,
             "skillActiveExtra": [],
@@ -922,7 +1618,7 @@
             "shapeIcon": "",
             "shapeTerrain": 0,
             "isHide": false,
-            "gachaGetVoice": 0
+            "feature": 0
         },
         {
             "id": 1036,
@@ -1000,7 +1696,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "1",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 99999
@@ -1022,7 +1723,8 @@
             "shapeParam": "",
             "shapeIcon": "",
             "shapeTerrain": 0,
-            "isHide": false
+            "isHide": false,
+            "feature": 0
         },
         {
             "id": 1038,
@@ -1101,7 +1803,12 @@
             "idleType": 1,
             "displacement": 1,
             "weakTag": "1",
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "unlockHint": 160044,
             "unlockDorm": [
                 99999
@@ -1109,6 +1816,7 @@
             "guardRadius": 500,
             "guardRadiusShow": 1,
             "gachaGetAudio": 1050107,
+            "gachaGetVoice": 71103808,
             "weakWeaponTag": 2,
             "secondDuty": 0,
             "skillActiveExtra": [],
@@ -1122,507 +1830,7 @@
             "shapeIcon": "",
             "shapeTerrain": 0,
             "isHide": false,
-            "gachaGetVoice": 0
-        },
-        {
-            "id": 1001,
-            "name": "克罗丽科",
-            "firstName": "克罗丽科",
-            "secondName": "白刃",
-            "enName": "CharolicSR",
-            "introduce": "性格稍显暴躁的人形，对与自己无关的事务没什么兴趣，但拥有无可指摘的责任心。就算是类似“担任纳美西丝专属翻译官”这样完全不喜欢的任务，她也会尽心完成。",
-            "dialogue": "吃惊什么，第一次见？用刀才厉害好吧！",
-            "extra": "SA,早见沙织,",
-            "code": "CharolicSR",
-            "type": 6,
-            "characterId": 1,
-            "getAudio": 7100178,
-            "duty": 2,
-            "rank": 4,
-            "roleTemplateId": 1001,
-            "coreItemId": 4001,
-            "upgradeSpeech": "10012001",
-            "skillNormalAttack": 10010101,
-            "skillTalentExtra": [
-                10000
-            ],
-            "aiList": [
-                100101,
-                100102,
-                100103,
-                100104,
-                100105,
-                100106,
-                100107
-            ],
-            "weaponType": 7,
-            "weaponDefault": 11022,
-            "moveCode": 27,
-            "soldGet1": {
-                "4001": 30
-            },
-            "systemSwitch": 63,
-            "camp": 2001,
-            "unlockCost": 30,
-            "grade": 1001,
-            "gunClass": 1,
-            "barrackCameraSetting": "0.3,0,0.5,1.9",
-            "avatar": 21000,
-            "costumeId": 1100100,
-            "costumeReplace": [
-                1100100,
-                1100101,
-                1100103
-            ],
-            "propertyId": 11001,
-            "weight": 2,
-            "shieldType": 1,
-            "maxGrade": 6,
-            "shieldEffectId": 100002,
-            "baseSupply": 80011,
-            "supplyTypeBanList": [
-                0,
-                2
-            ],
-            "shieldBrokenEffectId": 200001,
-            "attackType": 1,
-            "gachaGetTimeline": "GunGet/CharolicSR01_GunGetShow",
-            "beSuppressedConfig": [
-                80000001,
-                9999,
-                0,
-                0,
-                8
-            ],
-            "idleType": 1,
-            "displacement": 1,
-            "weakTag": "4",
-            "suppressGroup": "2,5,8,7",
-            "unlockHint": 160044,
-            "unlockDorm": [
-                44004
-            ],
-            "guardRadius": 300,
-            "guardRadiusShow": 1,
-            "gachaGetAudio": 1050078,
-            "gachaGetVoice": 71100106,
-            "weakWeaponTag": 32,
-            "secondDuty": 0,
-            "skillActiveExtra": [],
-            "element": 0,
-            "weaponPrivate": [],
-            "weaponPrivateShow": [],
-            "useFakeAttack": false,
-            "defaultGrade": 0,
-            "barrackEffectId": [],
-            "barrackAudioId": 0,
-            "extraSkill": 0,
-            "shape": 0,
-            "shapeParam": "",
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "isHide": false
-        },
-        {
-            "id": 1008,
-            "name": "纳美西丝",
-            "firstName": "纳美西丝",
-            "secondName": "衍光",
-            "enName": "NemesisSR",
-            "introduce": "热衷神秘学与占卜的人形，随身携带神奇的占卜道具“棱镜”。而占卜的结果，通常会被她用充满神秘色彩、令人费解的语言风格表达出来。但她仍是非常可靠的同伴——除了难以沟通之外。",
-            "dialogue": "……纸页……轻拂的山风……延伸……",
-            "extra": "废人,雨宫天,",
-            "code": "NemesisSR",
-            "type": 3,
-            "characterId": 4,
-            "getAudio": 7100373,
-            "duty": 4,
-            "rank": 4,
-            "roleTemplateId": 1008,
-            "coreItemId": 4008,
-            "upgradeSpeech": "10082001",
-            "skillNormalAttack": 10080101,
-            "skillTalentExtra": [
-                10000
-            ],
-            "weaponType": 3,
-            "weaponPrivateShow": [
-                11009,
-                11014
-            ],
-            "weaponDefault": 11009,
-            "moveCode": 27,
-            "soldGet1": {
-                "4008": 30
-            },
-            "systemSwitch": 63,
-            "useFakeAttack": true,
-            "camp": 2001,
-            "unlockCost": 30,
-            "grade": 1008,
-            "gunClass": 2,
-            "barrackCameraSetting": "0.3,0,0.6,1.9",
-            "avatar": 21001,
-            "costumeId": 1100800,
-            "costumeReplace": [
-                1100800,
-                1100803,
-                1100804,
-                1100805
-            ],
-            "propertyId": 11008,
-            "weight": 2,
-            "shieldType": 2,
-            "maxGrade": 6,
-            "shieldEffectId": 100002,
-            "baseSupply": 80011,
-            "supplyTypeBanList": [
-                0,
-                2
-            ],
-            "shieldBrokenEffectId": 200002,
-            "attackType": 1,
-            "gachaGetTimeline": "GunGet/NemesisSR01_GunGetShow",
-            "beSuppressedConfig": [
-                80000001,
-                9999,
-                0,
-                0,
-                8
-            ],
-            "idleType": 1,
-            "displacement": 1,
-            "weakTag": "5",
-            "suppressGroup": "2,5,8,7",
-            "unlockHint": 160044,
-            "unlockDorm": [
-                44003
-            ],
-            "guardRadius": 700,
-            "guardRadiusShow": 1,
-            "gachaGetAudio": 1050084,
-            "weakWeaponTag": 2,
-            "secondDuty": 0,
-            "skillActiveExtra": [],
-            "aiList": [],
-            "element": 0,
-            "weaponPrivate": [],
-            "defaultGrade": 0,
-            "barrackEffectId": [],
-            "barrackAudioId": 0,
-            "extraSkill": 0,
-            "shape": 0,
-            "shapeParam": "",
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "isHide": false,
-            "gachaGetVoice": 0
-        },
-        {
-            "id": 1009,
-            "name": "寇尔芙",
-            "firstName": "寇尔芙",
-            "secondName": "心源",
-            "enName": "ColphneSR",
-            "introduce": "通常情况下，都会表现得热情洋溢的人形，但偶尔，她也会露出完全不同的冷淡表情。她手中的针剂，究竟是用来救死扶伤，还是用来置人于死地？",
-            "dialogue": "唔哇~是有不得了的大——麻烦出现了吗~？人家可以考虑帮忙解决哦~",
-            "extra": "音符,小清水亚美,",
-            "code": "ColphneSR",
-            "type": 1,
-            "characterId": 2,
-            "getAudio": 7100277,
-            "duty": 3,
-            "rank": 4,
-            "roleTemplateId": 1009,
-            "coreItemId": 4009,
-            "upgradeSpeech": "10092001",
-            "skillNormalAttack": 10090101,
-            "skillTalentExtra": [
-                10000
-            ],
-            "aiList": [
-                100901,
-                100902,
-                100903,
-                100904,
-                100905,
-                100906,
-                100907
-            ],
-            "weaponType": 1,
-            "weaponPrivateShow": [
-                11015,
-                11008
-            ],
-            "weaponDefault": 11008,
-            "moveCode": 27,
-            "soldGet1": {
-                "4009": 30
-            },
-            "systemSwitch": 63,
-            "useFakeAttack": true,
-            "camp": 2001,
-            "unlockCost": 30,
-            "grade": 1009,
-            "gunClass": 3,
-            "barrackCameraSetting": "0.3,0,0.45,1.9",
-            "avatar": 21002,
-            "costumeId": 1100900,
-            "costumeReplace": [
-                1100900,
-                1100903
-            ],
-            "propertyId": 11009,
-            "weight": 2,
-            "shieldType": 1,
-            "maxGrade": 6,
-            "shieldEffectId": 100002,
-            "baseSupply": 80011,
-            "supplyTypeBanList": [
-                0,
-                2
-            ],
-            "shieldBrokenEffectId": 200001,
-            "attackType": 1,
-            "gachaGetTimeline": "GunGet/ColphneSR01_GunGetShow",
-            "beSuppressedConfig": [
-                80000001,
-                9999,
-                0,
-                0,
-                8
-            ],
-            "idleType": 1,
-            "displacement": 1,
-            "weakTag": "4",
-            "suppressGroup": "2,5,8,7",
-            "unlockHint": 160044,
-            "unlockDorm": [
-                44002
-            ],
-            "guardRadius": 500,
-            "guardRadiusShow": 1,
-            "gachaGetAudio": 1050080,
-            "gachaGetVoice": 71100904,
-            "weakWeaponTag": 32,
-            "secondDuty": 0,
-            "skillActiveExtra": [],
-            "element": 0,
-            "weaponPrivate": [],
-            "defaultGrade": 0,
-            "barrackEffectId": [],
-            "barrackAudioId": 0,
-            "extraSkill": 0,
-            "shape": 0,
-            "shapeParam": "",
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "isHide": false
-        },
-        {
-            "id": 1015,
-            "name": "维普蕾",
-            "firstName": "维普蕾",
-            "secondName": "音染",
-            "enName": "VepleySSR",
-            "introduce": "活跃在“战场”这个特殊舞台上的人形！每天都在为了下一场演出做着万全的准备——这样，就不会再轻易摔倒或者撞到其他人了吧。",
-            "dialogue": "要有新的演出了吗？维普蕾，超·级·期·待☆！",
-            "extra": "SA,早见沙织,",
-            "code": "VepleySSR",
-            "type": 6,
-            "characterId": 5,
-            "getAudio": 7101179,
-            "duty": 2,
-            "rank": 5,
-            "roleTemplateId": 1015,
-            "coreItemId": 4015,
-            "upgradeSpeech": "10152001",
-            "skillNormalAttack": 10150101,
-            "skillTalentExtra": [
-                10000
-            ],
-            "aiList": [
-                101501,
-                101502,
-                101503,
-                101504,
-                101505,
-                101506,
-                101507
-            ],
-            "weaponType": 6,
-            "weaponPrivate": [
-                11016
-            ],
-            "weaponPrivateShow": [
-                11021,
-                11017,
-                11016
-            ],
-            "weaponDefault": 11017,
-            "moveCode": 27,
-            "soldGet1": {
-                "4015": 30
-            },
-            "systemSwitch": 63,
-            "useFakeAttack": true,
-            "camp": 2001,
-            "unlockCost": 30,
-            "grade": 1015,
-            "gunClass": 4,
-            "barrackCameraSetting": "0.3,0,0.45,1.9",
-            "avatar": 21003,
-            "costumeId": 1101500,
-            "costumeReplace": [
-                1101500
-            ],
-            "propertyId": 11015,
-            "weight": 2,
-            "shieldType": 2,
-            "maxGrade": 6,
-            "shieldEffectId": 100003,
-            "baseSupply": 80011,
-            "supplyTypeBanList": [
-                0,
-                2
-            ],
-            "shieldBrokenEffectId": 200002,
-            "attackType": 1,
-            "gachaGetTimeline": "GunGet/VepleySSR01_GunGetShow",
-            "beSuppressedConfig": [
-                80000001,
-                9999,
-                0,
-                0,
-                8
-            ],
-            "idleType": 1,
-            "displacement": 1,
-            "weakTag": "5",
-            "suppressGroup": "2,5,8,7",
-            "unlockHint": 160044,
-            "unlockDorm": [
-                44005
-            ],
-            "guardRadius": 500,
-            "guardRadiusShow": 1,
-            "gachaGetAudio": 1050090,
-            "gachaGetVoice": 71101506,
-            "weakWeaponTag": 8,
-            "secondDuty": 0,
-            "skillActiveExtra": [],
-            "element": 0,
-            "defaultGrade": 0,
-            "barrackEffectId": [],
-            "barrackAudioId": 0,
-            "extraSkill": 0,
-            "shape": 0,
-            "shapeParam": "",
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "isHide": false
-        },
-        {
-            "id": 1017,
-            "name": "闪电",
-            "firstName": "闪电",
-            "secondName": "凛锋",
-            "enName": "GrozaSR",
-            "introduce": "成熟稳重的精英人形，当之无愧的小队核心。就算小队成员性格迥异，她也能很好地统合起众人的力量。只要有她在，一切都不会成为问题。",
-            "dialogue": "一切都在可控范围内，有我在，指挥官不用担心。",
-            "extra": "SA,早见沙织,",
-            "code": "GrozaSR",
-            "type": 4,
-            "characterId": 3,
-            "getAudio": 7100477,
-            "duty": 1,
-            "rank": 4,
-            "roleTemplateId": 1017,
-            "coreItemId": 4017,
-            "upgradeSpeech": "10172001",
-            "skillNormalAttack": 10170101,
-            "skillTalentExtra": [
-                10000
-            ],
-            "aiList": [
-                101701,
-                101702,
-                101703,
-                101704,
-                101705,
-                101706,
-                101707
-            ],
-            "weaponType": 4,
-            "weaponPrivateShow": [
-                11023,
-                11010
-            ],
-            "weaponDefault": 11010,
-            "moveCode": 27,
-            "soldGet1": {
-                "4017": 30
-            },
-            "systemSwitch": 63,
-            "useFakeAttack": true,
-            "camp": 2001,
-            "unlockCost": 30,
-            "grade": 1017,
-            "gunClass": 5,
-            "barrackCameraSetting": "0.3,0,0.5,1.9",
-            "avatar": 21004,
-            "costumeId": 1101700,
-            "costumeReplace": [
-                1101700,
-                1101701,
-                1101703
-            ],
-            "propertyId": 11017,
-            "weight": 2,
-            "shieldType": 1,
-            "maxGrade": 6,
-            "shieldEffectId": 100002,
-            "baseSupply": 80011,
-            "supplyTypeBanList": [
-                0,
-                2
-            ],
-            "shieldBrokenEffectId": 200001,
-            "attackType": 1,
-            "gachaGetTimeline": "GunGet/GrozaSR01_GunGetShow",
-            "beSuppressedConfig": [
-                80000001,
-                9999,
-                0,
-                0,
-                8
-            ],
-            "idleType": 1,
-            "displacement": 1,
-            "weakTag": "1",
-            "suppressGroup": "2,5,8,7",
-            "unlockHint": 160044,
-            "unlockDorm": [
-                44001
-            ],
-            "guardRadius": 500,
-            "guardRadiusShow": 1,
-            "gachaGetAudio": 1050082,
-            "gachaGetVoice": 71101704,
-            "weakWeaponTag": 8,
-            "secondDuty": 0,
-            "skillActiveExtra": [],
-            "element": 0,
-            "weaponPrivate": [],
-            "defaultGrade": 0,
-            "barrackEffectId": [],
-            "barrackAudioId": 0,
-            "extraSkill": 0,
-            "shape": 0,
-            "shapeParam": "",
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "isHide": false
+            "feature": 0
         }
     ]
 }

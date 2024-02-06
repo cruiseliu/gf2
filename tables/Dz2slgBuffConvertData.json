@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "dztoslgBuffId": 12,
+            "condition": [
+                1,
+                2
+            ],
+            "inSlgBuffId": 32001,
+            "timeScale": 1
+        },
+        {
+            "dztoslgBuffId": 10022,
+            "condition": [
+                1,
+                2
+            ],
+            "inSlgBuffId": 340202,
+            "timeScale": 30000
+        },
+        {
             "dztoslgBuffId": 20000,
             "condition": [
                 1,
@@ -53,15 +71,6 @@
             ],
             "inSlgBuffId": 52005,
             "timeScale": 1
-        },
-        {
-            "dztoslgBuffId": 10022,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 340202,
-            "timeScale": 30000
         }
     ]
 }

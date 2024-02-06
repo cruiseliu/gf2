@@ -53,6 +53,78 @@
             "type": 2,
             "name": "grade_skill_1",
             "value": 1.0
+        },
+        {
+            "id": 10,
+            "type": 2,
+            "name": "hit_damage",
+            "value": 0.001
+        },
+        {
+            "id": 11,
+            "type": 2,
+            "name": "behit_damage",
+            "value": 0.001
+        },
+        {
+            "id": 12,
+            "type": 2,
+            "name": "outround_dam",
+            "value": 0.0004
+        },
+        {
+            "id": 13,
+            "type": 2,
+            "name": "potential_dam",
+            "value": 0.0006
+        },
+        {
+            "id": 14,
+            "type": 2,
+            "name": "aoe_dam",
+            "value": 0.0008
+        },
+        {
+            "id": 15,
+            "type": 2,
+            "name": "single_dam",
+            "value": 0.0008
+        },
+        {
+            "id": 16,
+            "type": 2,
+            "name": "cd_dam",
+            "value": 0.0006
+        },
+        {
+            "id": 17,
+            "type": 2,
+            "name": "potential_behit_dam",
+            "value": 0.0004
+        },
+        {
+            "id": 18,
+            "type": 2,
+            "name": "aoe_behit_dam",
+            "value": 0.0006
+        },
+        {
+            "id": 19,
+            "type": 2,
+            "name": "single_behit_dam",
+            "value": 0.0008
+        },
+        {
+            "id": 20,
+            "type": 2,
+            "name": "cd_behit_dam",
+            "value": 0.0008
+        },
+        {
+            "id": 21,
+            "type": 2,
+            "name": "outround_behit_dam",
+            "value": 0.0006
         }
     ]
 }

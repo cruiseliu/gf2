@@ -1,16 +1,6 @@
 {
     "data": [
         {
-            "typeId": 601,
-            "selector": "Gun_SG",
-            "track": "Auto"
-        },
-        {
-            "typeId": 602,
-            "selector": "Gun_SG",
-            "track": "Pump"
-        },
-        {
             "typeId": 1,
             "selector": "",
             "track": ""
@@ -74,6 +64,16 @@
             "typeId": 502,
             "selector": "Gun_MG",
             "track": "Galil"
+        },
+        {
+            "typeId": 601,
+            "selector": "Gun_SG",
+            "track": "Auto"
+        },
+        {
+            "typeId": 602,
+            "selector": "Gun_SG",
+            "track": "Pump"
         }
     ]
 }

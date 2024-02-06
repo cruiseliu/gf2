@@ -1,115 +1,6 @@
 {
     "data": [
         {
-            "targetGroupId": 1201,
-            "targetGroupDesc": "找到并消灭堡垒泰坦",
-            "targetList": [
-                120101
-            ]
-        },
-        {
-            "targetGroupId": 1202,
-            "targetGroupDesc": "找到并消灭六分仪",
-            "targetList": [
-                120201,
-                120202
-            ]
-        },
-        {
-            "targetGroupId": 1203,
-            "targetGroupDesc": "找到并消灭黑眼",
-            "targetList": [
-                120301,
-                120302
-            ]
-        },
-        {
-            "targetGroupId": 1204,
-            "targetGroupDesc": "找到并消灭首领",
-            "targetList": [
-                120401,
-                120402,
-                120403
-            ]
-        },
-        {
-            "targetGroupId": 1205,
-            "targetGroupDesc": "找到并消灭首领",
-            "targetList": [
-                120501
-            ]
-        },
-        {
-            "targetGroupId": 1206,
-            "targetGroupDesc": "找到并消灭首领",
-            "targetList": [
-                120601
-            ]
-        },
-        {
-            "targetGroupId": 1207,
-            "targetGroupDesc": "找到并消灭伊柏",
-            "targetList": [
-                120701
-            ]
-        },
-        {
-            "targetGroupId": 1208,
-            "targetGroupDesc": "找到并消灭伊柏",
-            "targetList": [
-                120801
-            ]
-        },
-        {
-            "targetGroupId": 1209,
-            "targetGroupDesc": "找到并消灭伊柏",
-            "targetList": [
-                120901
-            ]
-        },
-        {
-            "targetGroupId": 1331,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                133101
-            ]
-        },
-        {
-            "targetGroupId": 1332,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                133201
-            ]
-        },
-        {
-            "targetGroupId": 1333,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                133301
-            ]
-        },
-        {
-            "targetGroupId": 1341,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                134101
-            ]
-        },
-        {
-            "targetGroupId": 1342,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                134201
-            ]
-        },
-        {
-            "targetGroupId": 1343,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                134301
-            ]
-        },
-        {
             "targetGroupId": 1101,
             "targetGroupDesc": "找到指定敌方单位愚钝者，将其消灭。",
             "targetList": [
@@ -218,12 +109,11 @@
         },
         {
             "targetGroupId": 1114,
-            "targetGroupDesc": "找到指定敌方单位纵火者，将其消灭。",
+            "targetGroupDesc": "消灭指定敌方单位獠牙铁兽后，找到撤离信号站，完成撤离。",
             "targetList": [
                 111401,
                 111402,
-                111403,
-                111404
+                111403
             ]
         },
         {
@@ -246,11 +136,9 @@
         },
         {
             "targetGroupId": 1117,
-            "targetGroupDesc": "消灭指定敌方单位獠牙铁兽后，找到撤离信号站，完成撤离。",
+            "targetGroupDesc": "消灭敌方单位纵火者，找到撤离信号站，完成撤离。",
             "targetList": [
-                111701,
-                111702,
-                111703
+                111701
             ]
         },
         {
@@ -306,7 +194,7 @@
         },
         {
             "targetGroupId": 1165,
-            "targetGroupDesc": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
+            "targetGroupDesc": "找到撤离信号站，完成撤离。",
             "targetList": [
                 116501
             ]
@@ -316,27 +204,6 @@
             "targetGroupDesc": "选择并击败任意一名敌方头目",
             "targetList": [
                 116901
-            ]
-        },
-        {
-            "targetGroupId": 1351,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                135101
-            ]
-        },
-        {
-            "targetGroupId": 1352,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                135201
-            ]
-        },
-        {
-            "targetGroupId": 1353,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                135301
             ]
         },
         {
@@ -361,80 +228,18 @@
             ]
         },
         {
-            "targetGroupId": 1301,
-            "targetGroupDesc": "探索区块，搜集物资",
+            "targetGroupId": 1173,
+            "targetGroupDesc": "消灭指定敌方单位獠牙铁兽后，找到撤离信号站，完成撤离。",
             "targetList": [
-                130101
+                117301
             ]
         },
         {
-            "targetGroupId": 1302,
-            "targetGroupDesc": "探索区块，搜集物资",
+            "targetGroupId": 2101,
+            "targetGroupDesc": "护送货运机械抵达运载终点",
             "targetList": [
-                130201
-            ]
-        },
-        {
-            "targetGroupId": 1303,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                130301
-            ]
-        },
-        {
-            "targetGroupId": 1304,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                130401
-            ]
-        },
-        {
-            "targetGroupId": 1305,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                130501
-            ]
-        },
-        {
-            "targetGroupId": 1311,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                131101
-            ]
-        },
-        {
-            "targetGroupId": 1312,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                131201
-            ]
-        },
-        {
-            "targetGroupId": 1313,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                131301
-            ]
-        },
-        {
-            "targetGroupId": 1321,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                132101
-            ]
-        },
-        {
-            "targetGroupId": 1322,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                132201
-            ]
-        },
-        {
-            "targetGroupId": 1323,
-            "targetGroupDesc": "探索区块，搜集物资",
-            "targetList": [
-                132301
+                210102,
+                210103
             ]
         }
     ]

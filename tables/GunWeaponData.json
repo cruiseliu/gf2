@@ -14,7 +14,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -53,8 +53,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10002,
@@ -70,7 +69,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -109,8 +108,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10003,
@@ -126,7 +124,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -138,8 +136,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8603": 1,
-                "2": 3000
+                "2": 3000,
+                "8603": 1
             },
             "polarityCostCustom": {
                 "2": 3000,
@@ -165,8 +163,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10004,
@@ -182,7 +179,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -221,8 +218,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10005,
@@ -238,7 +234,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -254,8 +250,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -277,8 +273,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10006,
@@ -294,7 +289,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -310,8 +305,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -333,8 +328,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10007,
@@ -350,7 +344,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -362,8 +356,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8603": 1,
-                "2": 3000
+                "2": 3000,
+                "8603": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -389,8 +383,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10331,
@@ -407,7 +400,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -415,6 +408,59 @@
             "propertyId": 41064,
             "unlockCost": {
                 "15331": 60
+            },
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8601": 1
+            },
+            "polarityCostCustom": {
+                "2": 3000,
+                "8609": 1
+            },
+            "modNum": 4,
+            "modTypeGroup": [
+                2022,
+                1021,
+                13012,
+                3014
+            ],
+            "isHide": true,
+            "audio": 201,
+            "weaponTag": 8,
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "privateSkill": 0,
+            "advanceWeapon": [],
+            "characterId": 0,
+            "weaponSkill": []
+        },
+        {
+            "id": 10332,
+            "name": "莫辛-纳甘",
+            "description": "与莫辛纳甘契合度高的枪械，针对莫辛纳甘的作战偏好进行了一定的改造，精简的枪身设计便于维护，使用起来也更加轻松。",
+            "type": 3,
+            "modelstype": 1,
+            "element": 1,
+            "resCode": "Weapon_M1891_4",
+            "resPath": "Player/MosinnagantSR01/MosinnagantSR01_WL",
+            "brand": "brand_icon17",
+            "rank": 4,
+            "skill": 5103321,
+            "expRate": 1000,
+            "weaponOfferExp": 1000,
+            "weaponNeedCash": 3000,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 3
+            },
+            "propertyId": 41065,
+            "unlockCost": {
+                "15332": 60
             },
             "capacityMax": 30,
             "weaponPolarityId": 1,
@@ -436,60 +482,6 @@
             "isHide": true,
             "audio": 201,
             "weaponTag": 8,
-            "elemenSkill": 0,
-            "buffSkill": 0,
-            "slot": [],
-            "soldDrop": [],
-            "privateSkill": 0,
-            "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0,
-            "weaponSkill": []
-        },
-        {
-            "id": 10332,
-            "name": "莫辛-纳甘",
-            "description": "与莫辛纳甘契合度高的枪械，针对莫辛纳甘的作战偏好进行了一定的改造，精简的枪身设计便于维护，使用起来也更加轻松。",
-            "type": 3,
-            "modelstype": 1,
-            "element": 1,
-            "resCode": "Weapon_M1891_4",
-            "resPath": "Player/MosinnagantSR01/MosinnagantSR01_WL",
-            "brand": "brand_icon17",
-            "rank": 4,
-            "skill": 5103321,
-            "expRate": 1000,
-            "weaponOfferExp": 1000,
-            "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
-            "maxBreak": 6,
-            "soldGet": {
-                "2": 3
-            },
-            "propertyId": 41065,
-            "unlockCost": {
-                "15332": 60
-            },
-            "capacityMax": 30,
-            "weaponPolarityId": 1,
-            "polarityCostRandom": {
-                "2": 3000,
-                "8603": 1
-            },
-            "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
-            },
-            "modNum": 4,
-            "modTypeGroup": [
-                2022,
-                1021,
-                13012,
-                3014
-            ],
-            "isHide": true,
-            "audio": 201,
-            "weaponTag": 8,
             "weaponSkill": [
                 5110149
             ],
@@ -499,8 +491,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10333,
@@ -517,7 +508,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -531,11 +522,11 @@
             "weaponPolarityId": 1,
             "polarityCostRandom": {
                 "2": 3000,
-                "8601": 1
+                "8603": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "characterId": 18,
             "modNum": 4,
@@ -555,8 +546,7 @@
             "buffSkill": 0,
             "slot": [],
             "soldDrop": [],
-            "advanceWeapon": [],
-            "attackType": 0
+            "advanceWeapon": []
         },
         {
             "id": 10361,
@@ -573,7 +563,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -586,11 +576,11 @@
             "weaponPolarityId": 1,
             "polarityCostRandom": {
                 "2": 3000,
-                "8603": 1
+                "8601": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -609,7 +599,6 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -627,7 +616,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -639,8 +628,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8601": 1,
-                "2": 3000
+                "2": 3000,
+                "8602": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -665,8 +654,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 10381,
@@ -683,7 +671,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -696,7 +684,7 @@
             "weaponPolarityId": 1,
             "polarityCostRandom": {
                 "2": 3000,
-                "8603": 1
+                "8601": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -719,7 +707,6 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -737,7 +724,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -750,11 +737,11 @@
             "weaponPolarityId": 1,
             "polarityCostRandom": {
                 "2": 3000,
-                "8601": 1
+                "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -775,8 +762,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 11007,
@@ -799,7 +785,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -815,8 +801,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -836,8 +822,7 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
         },
         {
             "id": 11008,
@@ -854,7 +839,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -866,12 +851,12 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8601": 1,
-                "2": 3000
+                "2": 3000,
+                "8601": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -890,7 +875,6 @@
             "advanceWeapon": [],
             "characterId": 0,
             "isHide": false,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -908,7 +892,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -924,8 +908,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -944,7 +928,6 @@
             "advanceWeapon": [],
             "characterId": 0,
             "isHide": false,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -962,7 +945,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -974,8 +957,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8601": 1,
-                "2": 3000
+                "2": 3000,
+                "8601": 1
             },
             "polarityCostCustom": {
                 "2": 3000,
@@ -998,7 +981,6 @@
             "advanceWeapon": [],
             "characterId": 0,
             "isHide": false,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -1022,7 +1004,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -1059,8 +1041,7 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
         },
         {
             "id": 11015,
@@ -1081,7 +1062,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -1093,8 +1074,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8602": 1,
-                "2": 3000
+                "2": 3000,
+                "8602": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -1118,8 +1099,7 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
         },
         {
             "id": 11016,
@@ -1143,7 +1123,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -1160,8 +1140,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "characterId": 5,
             "modNum": 4,
@@ -1179,8 +1159,7 @@
             ],
             "buffSkill": 0,
             "soldDrop": [],
-            "advanceWeapon": [],
-            "attackType": 0
+            "advanceWeapon": []
         },
         {
             "id": 11017,
@@ -1197,7 +1176,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -1233,7 +1212,6 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -1258,7 +1236,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -1271,8 +1249,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8603": 1,
-                "2": 3000
+                "2": 3000,
+                "8603": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -1294,8 +1272,7 @@
             "buffSkill": 0,
             "soldDrop": [],
             "advanceWeapon": [],
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
         },
         {
             "id": 11021,
@@ -1318,7 +1295,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -1334,8 +1311,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1355,8 +1332,7 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
         },
         {
             "id": 11022,
@@ -1373,7 +1349,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -1409,7 +1385,6 @@
             "advanceWeapon": [],
             "characterId": 0,
             "isHide": false,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -1433,7 +1408,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -1470,8 +1445,7 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
         },
         {
             "id": 11024,
@@ -1488,7 +1462,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -1500,8 +1474,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8601": 1,
-                "2": 3000
+                "2": 3000,
+                "8601": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -1524,7 +1498,6 @@
             "advanceWeapon": [],
             "characterId": 0,
             "isHide": false,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -1548,7 +1521,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -1585,8 +1558,7 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
         },
         {
             "id": 11030,
@@ -1603,7 +1575,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -1615,12 +1587,12 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8601": 1,
-                "2": 3000
+                "2": 3000,
+                "8601": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1639,7 +1611,6 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -1663,7 +1634,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -1679,8 +1650,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1700,8 +1671,65 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
+            "characterId": 0
+        },
+        {
+            "id": 11032,
+            "name": "魅心者",
+            "description": "夏克里被配给的高性能突击步枪，以罗宾逊先进步枪为原型，针对夏克里的使用习惯做出了一定调整。当被可爱的小恶魔盯上，你的灵魂能够抵挡住诱惑吗？",
+            "type": 4,
+            "modelstype": 1,
+            "element": 1,
+            "resCode": "Weapon_ROBINSONXCR_5",
+            "resPath": "Player/SharkrySSR01/SharkrySSR01_WL",
+            "brand": "brand_icon01",
+            "rank": 5,
+            "skill": 10000,
+            "slot": [
+                1,
+                2,
+                3,
+                5
+            ],
+            "expRate": 1000,
+            "weaponOfferExp": 2000,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 4
+            },
+            "propertyId": 41032,
+            "unlockCost": {
+                "12032": 60
+            },
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8603": 1
+            },
+            "polarityCostCustom": {
+                "8609": 1,
+                "2": 3000
+            },
+            "modNum": 4,
+            "modTypeGroup": [
+                2011,
+                1011,
+                12011,
+                3011
+            ],
+            "isHide": true,
+            "audio": 302,
+            "weaponTag": 4,
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "soldDrop": [],
+            "privateSkill": 0,
+            "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0
+            "weaponSkill": []
         },
         {
             "id": 11036,
@@ -1719,7 +1747,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -1735,8 +1763,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1754,7 +1782,6 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -1779,7 +1806,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -1815,8 +1842,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 11038,
@@ -1840,7 +1866,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -1857,8 +1883,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "characterId": 11,
             "modNum": 4,
@@ -1876,8 +1902,7 @@
             ],
             "buffSkill": 0,
             "soldDrop": [],
-            "advanceWeapon": [],
-            "attackType": 0
+            "advanceWeapon": []
         },
         {
             "id": 11039,
@@ -1894,7 +1919,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -1906,8 +1931,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8601": 1,
-                "2": 3000
+                "2": 3000,
+                "8601": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -1930,7 +1955,6 @@
             "advanceWeapon": [],
             "characterId": 0,
             "isHide": false,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -1954,7 +1978,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -1991,8 +2015,60 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
+        },
+        {
+            "id": 11041,
+            "name": "绝密手稿",
+            "description": "奇塔被配给的高性能冲锋枪，以黑科赫7为原型，是威力强劲且独具个性的武器，奇塔本人也对改造提出了诸多建议。“天才都会留下证明自己才华的手稿，本天才当然也是！”因此，奇塔固执地拒绝了除此以外所有的取名建议。",
+            "type": 2,
+            "modelstype": 2,
+            "element": 1,
+            "resCode": "Weapon_MP7_5",
+            "resPath": "Player/CheetaSSR01/CheetaSSR01_WL",
+            "brand": "brand_icon02",
+            "rank": 5,
+            "skill": 10000,
+            "expRate": 1000,
+            "weaponOfferExp": 2000,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 4
+            },
+            "propertyId": 41041,
+            "unlockCost": {
+                "12041": 60
+            },
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8603": 1
+            },
+            "polarityCostCustom": {
+                "8609": 1,
+                "2": 3000
+            },
+            "modNum": 4,
+            "modTypeGroup": [
+                2012,
+                1012,
+                12012,
+                3012
+            ],
+            "isHide": true,
+            "audio": 305,
+            "weaponTag": 2,
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "privateSkill": 0,
+            "advanceWeapon": [],
+            "characterId": 0,
+            "weaponSkill": []
         },
         {
             "id": 11042,
@@ -2009,7 +2085,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -2021,8 +2097,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8601": 1,
-                "2": 3000
+                "2": 3000,
+                "8601": 1
             },
             "polarityCostCustom": {
                 "2": 3000,
@@ -2045,7 +2121,6 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -2063,7 +2138,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -2075,8 +2150,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8602": 1,
-                "2": 3000
+                "2": 3000,
+                "8602": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -2101,8 +2176,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 11044,
@@ -2119,7 +2193,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -2136,8 +2210,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "characterId": 14,
             "modNum": 4,
@@ -2157,8 +2231,7 @@
             "buffSkill": 0,
             "slot": [],
             "soldDrop": [],
-            "advanceWeapon": [],
-            "attackType": 0
+            "advanceWeapon": []
         },
         {
             "id": 11045,
@@ -2175,7 +2248,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -2191,8 +2264,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2211,7 +2284,6 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -2229,7 +2301,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -2267,8 +2339,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 11047,
@@ -2285,7 +2356,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -2298,8 +2369,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8603": 1,
-                "2": 3000
+                "2": 3000,
+                "8603": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -2323,8 +2394,7 @@
             "buffSkill": 0,
             "slot": [],
             "soldDrop": [],
-            "advanceWeapon": [],
-            "attackType": 0
+            "advanceWeapon": []
         },
         {
             "id": 11048,
@@ -2341,7 +2411,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -2353,8 +2423,8 @@
             "capacityMax": 30,
             "weaponPolarityId": 1,
             "polarityCostRandom": {
-                "8601": 1,
-                "2": 3000
+                "2": 3000,
+                "8601": 1
             },
             "polarityCostCustom": {
                 "8609": 1,
@@ -2377,7 +2447,6 @@
             "advanceWeapon": [],
             "characterId": 0,
             "isHide": false,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -2395,7 +2464,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -2411,8 +2480,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2433,8 +2502,60 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "isHide": false,
-            "attackType": 0
+            "isHide": false
+        },
+        {
+            "id": 11050,
+            "name": "卡尔文南",
+            "description": "纳甘被配给的高性能手枪，以纳甘左轮为原型，经过特别的设计与改造，以实用性见长。一起成为保护这座城市的英雄吧！",
+            "type": 1,
+            "modelstype": 1,
+            "element": 1,
+            "resCode": "Weapon_M1895_5",
+            "resPath": "Player/NagantSSR01/NagantSSR01_WL",
+            "brand": "brand_icon11",
+            "rank": 5,
+            "skill": 10000,
+            "expRate": 1000,
+            "weaponOfferExp": 2000,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 4
+            },
+            "propertyId": 41050,
+            "unlockCost": {
+                "12050": 60
+            },
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8603": 1
+            },
+            "polarityCostCustom": {
+                "8609": 1,
+                "2": 3000
+            },
+            "modNum": 4,
+            "modTypeGroup": [
+                2041,
+                1032,
+                9012,
+                11012
+            ],
+            "isHide": true,
+            "audio": 102,
+            "weaponTag": 2,
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "privateSkill": 0,
+            "advanceWeapon": [],
+            "characterId": 0,
+            "weaponSkill": []
         },
         {
             "id": 11051,
@@ -2451,7 +2572,7 @@
             "expRate": 1000,
             "weaponOfferExp": 400,
             "weaponNeedCash": 1200,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 2
@@ -2487,7 +2608,6 @@
             "privateSkill": 0,
             "advanceWeapon": [],
             "characterId": 0,
-            "attackType": 0,
             "weaponSkill": []
         },
         {
@@ -2505,7 +2625,7 @@
             "expRate": 1000,
             "weaponOfferExp": 1000,
             "weaponNeedCash": 3000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 3
@@ -2521,8 +2641,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2543,8 +2663,7 @@
             "soldDrop": [],
             "privateSkill": 0,
             "advanceWeapon": [],
-            "characterId": 0,
-            "attackType": 0
+            "characterId": 0
         },
         {
             "id": 11053,
@@ -2561,7 +2680,7 @@
             "expRate": 1000,
             "weaponOfferExp": 2000,
             "weaponNeedCash": 6000,
-            "defaultMaxlv": 45,
+            "defaultMaxlv": 60,
             "maxBreak": 6,
             "soldGet": {
                 "2": 4
@@ -2599,8 +2718,170 @@
             "buffSkill": 0,
             "slot": [],
             "soldDrop": [],
+            "advanceWeapon": []
+        },
+        {
+            "id": 11054,
+            "name": "旧式格威尔36",
+            "description": "从暗商处采购的廉价武器，保养不佳，在使用前最好进行全面检查。",
+            "type": 4,
+            "modelstype": 1,
+            "element": 1,
+            "resCode": "Weapon_G36_3",
+            "resPath": "Player/CentaureissiR01/CentaureissiR01_WL",
+            "brand": "brand_icon15",
+            "rank": 3,
+            "skill": 5110081,
+            "expRate": 1000,
+            "weaponOfferExp": 400,
+            "weaponNeedCash": 1200,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 2
+            },
+            "propertyId": 41054,
+            "unlockCost": {
+                "12054": 60
+            },
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8601": 1
+            },
+            "polarityCostCustom": {
+                "2": 3000,
+                "8609": 1
+            },
+            "modNum": 4,
+            "modTypeGroup": [
+                2011,
+                1011,
+                12011,
+                3011
+            ],
+            "isHide": true,
+            "audio": 301,
+            "weaponTag": 4,
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "privateSkill": 0,
             "advanceWeapon": [],
-            "attackType": 0
+            "characterId": 0,
+            "weaponSkill": []
+        },
+        {
+            "id": 11055,
+            "name": "格威尔36",
+            "description": "与桑朵莱希契合度高的枪械，针对桑朵莱希的作战偏好进行了一定的改造，进一步减轻了枪身重量。",
+            "type": 4,
+            "modelstype": 1,
+            "element": 1,
+            "resCode": "Weapon_G36_4",
+            "resPath": "Player/CentaureissiSR01/CentaureissiSR01_WL",
+            "brand": "brand_icon16",
+            "rank": 4,
+            "skill": 5110551,
+            "expRate": 1000,
+            "weaponOfferExp": 1000,
+            "weaponNeedCash": 3000,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 3
+            },
+            "propertyId": 41055,
+            "unlockCost": {
+                "12055": 60
+            },
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8602": 1
+            },
+            "polarityCostCustom": {
+                "8609": 1,
+                "2": 3000
+            },
+            "modNum": 4,
+            "modTypeGroup": [
+                2011,
+                1011,
+                12011,
+                3011
+            ],
+            "isHide": true,
+            "audio": 301,
+            "weaponTag": 4,
+            "weaponSkill": [
+                5110569
+            ],
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "privateSkill": 0,
+            "advanceWeapon": [],
+            "characterId": 0
+        },
+        {
+            "id": 11056,
+            "name": "女仆准则",
+            "description": "桑朵莱希被配给的高性能突击步枪，以格威尔36为原型，使用了特殊的材料，正如其主人一般精确和精致，能够完美地完成自己的工作。这把枪，应该能够贯彻使用者的信念和准则吧。",
+            "type": 4,
+            "modelstype": 1,
+            "element": 1,
+            "resCode": "Weapon_G36_5",
+            "resPath": "Player/CentaureissiSSR01/CentaureissiSSR01_WL",
+            "brand": "brand_icon17",
+            "rank": 5,
+            "skill": 5110561,
+            "expRate": 1000,
+            "weaponOfferExp": 2000,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 4
+            },
+            "propertyId": 41056,
+            "unlockCost": {
+                "12056": 60
+            },
+            "privateSkill": 5110560,
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8603": 1
+            },
+            "polarityCostCustom": {
+                "8609": 1,
+                "2": 3000
+            },
+            "characterId": 15,
+            "modNum": 4,
+            "modTypeGroup": [
+                2011,
+                1011,
+                12011,
+                3011
+            ],
+            "isHide": true,
+            "audio": 301,
+            "weaponTag": 4,
+            "weaponSkill": [
+                5110569
+            ],
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "advanceWeapon": []
         }
     ]
 }

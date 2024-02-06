@@ -38,7 +38,7 @@
         },
         {
             "questGroup": 111,
-            "questNeedLv": 51,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10113,
                 10114,
@@ -50,7 +50,7 @@
         },
         {
             "questGroup": 112,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10117,
                 10118
@@ -60,7 +60,7 @@
         },
         {
             "questGroup": 113,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10121,
                 10122,
@@ -72,7 +72,7 @@
         },
         {
             "questGroup": 121,
-            "questNeedLv": 51,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10201,
                 10202,
@@ -84,7 +84,7 @@
         },
         {
             "questGroup": 122,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10205,
                 10206,
@@ -96,7 +96,7 @@
         },
         {
             "questGroup": 123,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10209,
                 10210,
@@ -108,7 +108,7 @@
         },
         {
             "questGroup": 131,
-            "questNeedLv": 51,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10301,
                 10302,
@@ -120,7 +120,7 @@
         },
         {
             "questGroup": 132,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10305,
                 10306,
@@ -132,7 +132,7 @@
         },
         {
             "questGroup": 133,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10309,
                 10310,
@@ -144,7 +144,7 @@
         },
         {
             "questGroup": 141,
-            "questNeedLv": 51,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10401,
                 10402,
@@ -156,7 +156,7 @@
         },
         {
             "questGroup": 142,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10405,
                 10406,
@@ -168,7 +168,7 @@
         },
         {
             "questGroup": 143,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10409,
                 10410,
@@ -180,7 +180,7 @@
         },
         {
             "questGroup": 151,
-            "questNeedLv": 51,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10501,
                 10502,
@@ -192,7 +192,7 @@
         },
         {
             "questGroup": 152,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10505,
                 10506,
@@ -204,7 +204,7 @@
         },
         {
             "questGroup": 153,
-            "questNeedLv": 60,
+            "questNeedLv": 45,
             "questSeriesId": [
                 10509,
                 10510,
@@ -213,6 +213,15 @@
             ],
             "name": "极危",
             "difficulty": 6
+        },
+        {
+            "questGroup": 154,
+            "questNeedLv": 1,
+            "questSeriesId": [
+                99906
+            ],
+            "name": "困难",
+            "difficulty": 4
         }
     ]
 }

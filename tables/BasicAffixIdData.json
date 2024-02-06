@@ -1,20 +1,20 @@
 {
     "data": [
         {
-            "id": 3311,
-            "basicGroupId": 331,
+            "id": 2111,
+            "basicGroupId": 211,
             "weight": 500,
             "basicPropertyType": 1,
-            "basicPropertyValue": 13,
-            "upgradeId": 3311
+            "basicPropertyValue": 8,
+            "upgradeId": 2111
         },
         {
-            "id": 3312,
-            "basicGroupId": 331,
+            "id": 2112,
+            "basicGroupId": 211,
             "weight": 500,
             "basicPropertyType": 2,
-            "basicPropertyValue": 27,
-            "upgradeId": 3312
+            "basicPropertyValue": 16,
+            "upgradeId": 2112
         },
         {
             "id": 2121,
@@ -33,6 +33,118 @@
             "upgradeId": 2122
         },
         {
+            "id": 2131,
+            "basicGroupId": 213,
+            "weight": 500,
+            "basicPropertyType": 2,
+            "basicPropertyValue": 16,
+            "upgradeId": 2131
+        },
+        {
+            "id": 2132,
+            "basicGroupId": 213,
+            "weight": 500,
+            "basicPropertyType": 4,
+            "basicPropertyValue": 6,
+            "upgradeId": 2132
+        },
+        {
+            "id": 2141,
+            "basicGroupId": 214,
+            "weight": 500,
+            "basicPropertyType": 1,
+            "basicPropertyValue": 10,
+            "upgradeId": 2141
+        },
+        {
+            "id": 2142,
+            "basicGroupId": 214,
+            "weight": 500,
+            "basicPropertyType": 2,
+            "basicPropertyValue": 20,
+            "upgradeId": 2142
+        },
+        {
+            "id": 3311,
+            "basicGroupId": 331,
+            "weight": 500,
+            "basicPropertyType": 1,
+            "basicPropertyValue": 13,
+            "upgradeId": 3311
+        },
+        {
+            "id": 3312,
+            "basicGroupId": 331,
+            "weight": 500,
+            "basicPropertyType": 2,
+            "basicPropertyValue": 27,
+            "upgradeId": 3312
+        },
+        {
+            "id": 3321,
+            "basicGroupId": 332,
+            "weight": 500,
+            "basicPropertyType": 1,
+            "basicPropertyValue": 13,
+            "upgradeId": 3321
+        },
+        {
+            "id": 3322,
+            "basicGroupId": 332,
+            "weight": 500,
+            "basicPropertyType": 4,
+            "basicPropertyValue": 11,
+            "upgradeId": 3322
+        },
+        {
+            "id": 3331,
+            "basicGroupId": 333,
+            "weight": 500,
+            "basicPropertyType": 2,
+            "basicPropertyValue": 27,
+            "upgradeId": 3331
+        },
+        {
+            "id": 3332,
+            "basicGroupId": 333,
+            "weight": 500,
+            "basicPropertyType": 4,
+            "basicPropertyValue": 11,
+            "upgradeId": 3332
+        },
+        {
+            "id": 3411,
+            "basicGroupId": 341,
+            "weight": 500,
+            "basicPropertyType": 1,
+            "basicPropertyValue": 16,
+            "upgradeId": 3411
+        },
+        {
+            "id": 3412,
+            "basicGroupId": 341,
+            "weight": 500,
+            "basicPropertyType": 2,
+            "basicPropertyValue": 33,
+            "upgradeId": 3412
+        },
+        {
+            "id": 4311,
+            "basicGroupId": 431,
+            "weight": 500,
+            "basicPropertyType": 1,
+            "basicPropertyValue": 22,
+            "upgradeId": 4311
+        },
+        {
+            "id": 4312,
+            "basicGroupId": 431,
+            "weight": 500,
+            "basicPropertyType": 2,
+            "basicPropertyValue": 46,
+            "upgradeId": 4312
+        },
+        {
             "id": 4321,
             "basicGroupId": 432,
             "weight": 500,
@@ -47,6 +159,38 @@
             "basicPropertyType": 4,
             "basicPropertyValue": 18,
             "upgradeId": 4322
+        },
+        {
+            "id": 4331,
+            "basicGroupId": 433,
+            "weight": 500,
+            "basicPropertyType": 2,
+            "basicPropertyValue": 46,
+            "upgradeId": 4331
+        },
+        {
+            "id": 4332,
+            "basicGroupId": 433,
+            "weight": 500,
+            "basicPropertyType": 4,
+            "basicPropertyValue": 18,
+            "upgradeId": 4332
+        },
+        {
+            "id": 4411,
+            "basicGroupId": 441,
+            "weight": 500,
+            "basicPropertyType": 1,
+            "basicPropertyValue": 26,
+            "upgradeId": 4411
+        },
+        {
+            "id": 4412,
+            "basicGroupId": 441,
+            "weight": 500,
+            "basicPropertyType": 2,
+            "basicPropertyValue": 55,
+            "upgradeId": 4412
         },
         {
             "id": 5311,
@@ -95,150 +239,6 @@
             "basicPropertyType": 4,
             "basicPropertyValue": 29,
             "upgradeId": 5332
-        },
-        {
-            "id": 2111,
-            "basicGroupId": 211,
-            "weight": 500,
-            "basicPropertyType": 1,
-            "basicPropertyValue": 8,
-            "upgradeId": 2111
-        },
-        {
-            "id": 2112,
-            "basicGroupId": 211,
-            "weight": 500,
-            "basicPropertyType": 2,
-            "basicPropertyValue": 16,
-            "upgradeId": 2112
-        },
-        {
-            "id": 2141,
-            "basicGroupId": 214,
-            "weight": 500,
-            "basicPropertyType": 1,
-            "basicPropertyValue": 10,
-            "upgradeId": 2141
-        },
-        {
-            "id": 2142,
-            "basicGroupId": 214,
-            "weight": 500,
-            "basicPropertyType": 2,
-            "basicPropertyValue": 20,
-            "upgradeId": 2142
-        },
-        {
-            "id": 3331,
-            "basicGroupId": 333,
-            "weight": 500,
-            "basicPropertyType": 2,
-            "basicPropertyValue": 27,
-            "upgradeId": 3331
-        },
-        {
-            "id": 3332,
-            "basicGroupId": 333,
-            "weight": 500,
-            "basicPropertyType": 4,
-            "basicPropertyValue": 11,
-            "upgradeId": 3332
-        },
-        {
-            "id": 3411,
-            "basicGroupId": 341,
-            "weight": 500,
-            "basicPropertyType": 1,
-            "basicPropertyValue": 16,
-            "upgradeId": 3411
-        },
-        {
-            "id": 3412,
-            "basicGroupId": 341,
-            "weight": 500,
-            "basicPropertyType": 2,
-            "basicPropertyValue": 33,
-            "upgradeId": 3412
-        },
-        {
-            "id": 2131,
-            "basicGroupId": 213,
-            "weight": 500,
-            "basicPropertyType": 2,
-            "basicPropertyValue": 16,
-            "upgradeId": 2131
-        },
-        {
-            "id": 2132,
-            "basicGroupId": 213,
-            "weight": 500,
-            "basicPropertyType": 4,
-            "basicPropertyValue": 6,
-            "upgradeId": 2132
-        },
-        {
-            "id": 3321,
-            "basicGroupId": 332,
-            "weight": 500,
-            "basicPropertyType": 1,
-            "basicPropertyValue": 13,
-            "upgradeId": 3321
-        },
-        {
-            "id": 3322,
-            "basicGroupId": 332,
-            "weight": 500,
-            "basicPropertyType": 4,
-            "basicPropertyValue": 11,
-            "upgradeId": 3322
-        },
-        {
-            "id": 4311,
-            "basicGroupId": 431,
-            "weight": 500,
-            "basicPropertyType": 1,
-            "basicPropertyValue": 22,
-            "upgradeId": 4311
-        },
-        {
-            "id": 4312,
-            "basicGroupId": 431,
-            "weight": 500,
-            "basicPropertyType": 2,
-            "basicPropertyValue": 46,
-            "upgradeId": 4312
-        },
-        {
-            "id": 4331,
-            "basicGroupId": 433,
-            "weight": 500,
-            "basicPropertyType": 2,
-            "basicPropertyValue": 46,
-            "upgradeId": 4331
-        },
-        {
-            "id": 4332,
-            "basicGroupId": 433,
-            "weight": 500,
-            "basicPropertyType": 4,
-            "basicPropertyValue": 18,
-            "upgradeId": 4332
-        },
-        {
-            "id": 4411,
-            "basicGroupId": 441,
-            "weight": 500,
-            "basicPropertyType": 1,
-            "basicPropertyValue": 26,
-            "upgradeId": 4411
-        },
-        {
-            "id": 4412,
-            "basicGroupId": 441,
-            "weight": 500,
-            "basicPropertyType": 2,
-            "basicPropertyValue": 55,
-            "upgradeId": 4412
         },
         {
             "id": 5411,

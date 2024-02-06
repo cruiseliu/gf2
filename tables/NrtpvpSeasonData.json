@@ -1,144 +1,6 @@
 {
     "data": [
         {
-            "id": 30030,
-            "levelType": 2,
-            "seasonId": 30,
-            "name": "实兵演习",
-            "type": 2,
-            "seasonItem": 8060,
-            "cost": 102,
-            "coin1": 3,
-            "changeDetail1": [
-                0
-            ],
-            "coin2": 46,
-            "changeDetail2": [
-                3,
-                100
-            ],
-            "seasonMapGroup": 1,
-            "seasonMapIsolateGroup": [
-                0
-            ],
-            "resettingReward": 0
-        },
-        {
-            "id": 30031,
-            "levelType": 2,
-            "seasonId": 31,
-            "name": "实兵演习",
-            "type": 2,
-            "seasonItem": 8060,
-            "cost": 102,
-            "coin1": 3,
-            "changeDetail1": [
-                0
-            ],
-            "coin2": 46,
-            "changeDetail2": [
-                3,
-                100
-            ],
-            "seasonMapGroup": 1,
-            "seasonMapIsolateGroup": [
-                0
-            ],
-            "resettingReward": 0
-        },
-        {
-            "id": 30032,
-            "levelType": 2,
-            "seasonId": 32,
-            "name": "实兵演习",
-            "type": 2,
-            "seasonItem": 8060,
-            "cost": 102,
-            "coin1": 3,
-            "changeDetail1": [
-                0
-            ],
-            "coin2": 46,
-            "changeDetail2": [
-                3,
-                100
-            ],
-            "seasonMapGroup": 1,
-            "seasonMapIsolateGroup": [
-                0
-            ],
-            "resettingReward": 0
-        },
-        {
-            "id": 30033,
-            "levelType": 2,
-            "seasonId": 33,
-            "name": "实兵演习",
-            "type": 2,
-            "seasonItem": 8060,
-            "cost": 102,
-            "coin1": 3,
-            "changeDetail1": [
-                0
-            ],
-            "coin2": 46,
-            "changeDetail2": [
-                3,
-                100
-            ],
-            "seasonMapGroup": 1,
-            "seasonMapIsolateGroup": [
-                0
-            ],
-            "resettingReward": 0
-        },
-        {
-            "id": 30034,
-            "levelType": 2,
-            "seasonId": 34,
-            "name": "实兵演习",
-            "type": 2,
-            "seasonItem": 8060,
-            "cost": 102,
-            "coin1": 3,
-            "changeDetail1": [
-                0
-            ],
-            "coin2": 46,
-            "changeDetail2": [
-                3,
-                100
-            ],
-            "seasonMapGroup": 1,
-            "seasonMapIsolateGroup": [
-                0
-            ],
-            "resettingReward": 0
-        },
-        {
-            "id": 30035,
-            "levelType": 2,
-            "seasonId": 35,
-            "name": "实兵演习",
-            "type": 2,
-            "seasonItem": 8060,
-            "cost": 102,
-            "coin1": 3,
-            "changeDetail1": [
-                0
-            ],
-            "coin2": 46,
-            "changeDetail2": [
-                3,
-                100
-            ],
-            "seasonMapGroup": 1,
-            "seasonMapIsolateGroup": [
-                0
-            ],
-            "resettingReward": 0
-        },
-        {
             "id": 30000,
             "levelType": 1,
             "seasonId": 1,
@@ -809,6 +671,144 @@
             "id": 30029,
             "levelType": 2,
             "seasonId": 29,
+            "name": "实兵演习",
+            "type": 2,
+            "seasonItem": 8060,
+            "cost": 102,
+            "coin1": 3,
+            "changeDetail1": [
+                0
+            ],
+            "coin2": 46,
+            "changeDetail2": [
+                3,
+                100
+            ],
+            "seasonMapGroup": 1,
+            "seasonMapIsolateGroup": [
+                0
+            ],
+            "resettingReward": 0
+        },
+        {
+            "id": 30030,
+            "levelType": 2,
+            "seasonId": 30,
+            "name": "实兵演习",
+            "type": 2,
+            "seasonItem": 8060,
+            "cost": 102,
+            "coin1": 3,
+            "changeDetail1": [
+                0
+            ],
+            "coin2": 46,
+            "changeDetail2": [
+                3,
+                100
+            ],
+            "seasonMapGroup": 1,
+            "seasonMapIsolateGroup": [
+                0
+            ],
+            "resettingReward": 0
+        },
+        {
+            "id": 30031,
+            "levelType": 2,
+            "seasonId": 31,
+            "name": "实兵演习",
+            "type": 2,
+            "seasonItem": 8060,
+            "cost": 102,
+            "coin1": 3,
+            "changeDetail1": [
+                0
+            ],
+            "coin2": 46,
+            "changeDetail2": [
+                3,
+                100
+            ],
+            "seasonMapGroup": 1,
+            "seasonMapIsolateGroup": [
+                0
+            ],
+            "resettingReward": 0
+        },
+        {
+            "id": 30032,
+            "levelType": 2,
+            "seasonId": 32,
+            "name": "实兵演习",
+            "type": 2,
+            "seasonItem": 8060,
+            "cost": 102,
+            "coin1": 3,
+            "changeDetail1": [
+                0
+            ],
+            "coin2": 46,
+            "changeDetail2": [
+                3,
+                100
+            ],
+            "seasonMapGroup": 1,
+            "seasonMapIsolateGroup": [
+                0
+            ],
+            "resettingReward": 0
+        },
+        {
+            "id": 30033,
+            "levelType": 2,
+            "seasonId": 33,
+            "name": "实兵演习",
+            "type": 2,
+            "seasonItem": 8060,
+            "cost": 102,
+            "coin1": 3,
+            "changeDetail1": [
+                0
+            ],
+            "coin2": 46,
+            "changeDetail2": [
+                3,
+                100
+            ],
+            "seasonMapGroup": 1,
+            "seasonMapIsolateGroup": [
+                0
+            ],
+            "resettingReward": 0
+        },
+        {
+            "id": 30034,
+            "levelType": 2,
+            "seasonId": 34,
+            "name": "实兵演习",
+            "type": 2,
+            "seasonItem": 8060,
+            "cost": 102,
+            "coin1": 3,
+            "changeDetail1": [
+                0
+            ],
+            "coin2": 46,
+            "changeDetail2": [
+                3,
+                100
+            ],
+            "seasonMapGroup": 1,
+            "seasonMapIsolateGroup": [
+                0
+            ],
+            "resettingReward": 0
+        },
+        {
+            "id": 30035,
+            "levelType": 2,
+            "seasonId": 35,
             "name": "实兵演习",
             "type": 2,
             "seasonItem": 8060,

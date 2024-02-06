@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "id": 1,
+            "name": "钻石",
+            "isBag": false,
+            "initNum": 0,
+            "maxLimit": 0,
+            "overflow": false,
+            "type": 0
+        },
+        {
+            "id": 2,
+            "name": "金币",
+            "isBag": false,
+            "initNum": 0,
+            "maxLimit": 0,
+            "overflow": false,
+            "type": 0
+        },
+        {
+            "id": 3,
+            "name": "异步PVP货币",
+            "isBag": false,
+            "initNum": 0,
+            "maxLimit": 0,
+            "overflow": false,
+            "type": 0
+        },
+        {
+            "id": 4,
+            "name": "模组背包格",
+            "isBag": true,
+            "initNum": 500,
+            "maxLimit": 1000,
+            "overflow": true,
+            "type": 0
+        },
+        {
+            "id": 5,
+            "name": "武器背包格",
+            "isBag": true,
+            "initNum": 1500,
+            "maxLimit": 1500,
+            "overflow": true,
+            "type": 0
+        },
+        {
+            "id": 6,
+            "name": "体力自然恢复上限",
+            "isBag": true,
+            "initNum": 180,
+            "maxLimit": 500,
+            "overflow": true,
+            "type": 0
+        },
+        {
+            "id": 7,
+            "name": "异步PVP门票上限",
+            "isBag": true,
+            "initNum": 3,
+            "maxLimit": 0,
+            "overflow": false,
+            "type": 0
+        },
+        {
+            "id": 9,
+            "name": "爬塔本挑战次数",
+            "initNum": 3,
+            "maxLimit": 3000,
+            "overflow": true,
+            "isBag": false,
+            "type": 0
+        },
+        {
             "id": 20,
             "name": "经验本挑战次数",
             "initNum": 3,
@@ -109,80 +181,8 @@
             "type": 0
         },
         {
-            "id": 1,
-            "name": "钻石",
-            "isBag": false,
-            "initNum": 0,
-            "maxLimit": 0,
-            "overflow": false,
-            "type": 0
-        },
-        {
-            "id": 2,
-            "name": "金币",
-            "isBag": false,
-            "initNum": 0,
-            "maxLimit": 0,
-            "overflow": false,
-            "type": 0
-        },
-        {
-            "id": 3,
-            "name": "异步PVP货币",
-            "isBag": false,
-            "initNum": 0,
-            "maxLimit": 0,
-            "overflow": false,
-            "type": 0
-        },
-        {
-            "id": 4,
-            "name": "模组背包格",
-            "isBag": true,
-            "initNum": 500,
-            "maxLimit": 1000,
-            "overflow": true,
-            "type": 0
-        },
-        {
-            "id": 5,
-            "name": "武器背包格",
-            "isBag": true,
-            "initNum": 1500,
-            "maxLimit": 1500,
-            "overflow": true,
-            "type": 0
-        },
-        {
-            "id": 6,
-            "name": "体力自然恢复上限",
-            "isBag": true,
-            "initNum": 180,
-            "maxLimit": 500,
-            "overflow": true,
-            "type": 0
-        },
-        {
-            "id": 7,
-            "name": "异步PVP门票上限",
-            "isBag": true,
-            "initNum": 3,
-            "maxLimit": 0,
-            "overflow": false,
-            "type": 0
-        },
-        {
-            "id": 9,
-            "name": "爬塔本挑战次数",
-            "initNum": 3,
-            "maxLimit": 3000,
-            "overflow": true,
-            "isBag": false,
-            "type": 0
-        },
-        {
-            "id": 22001,
-            "name": "初始徽章",
+            "id": 1017,
+            "name": "初始角色",
             "initNum": 1,
             "isBag": false,
             "maxLimit": 0,
@@ -192,6 +192,15 @@
         {
             "id": 21999,
             "name": "初始头像",
+            "initNum": 1,
+            "isBag": false,
+            "maxLimit": 0,
+            "overflow": false,
+            "type": 0
+        },
+        {
+            "id": 22001,
+            "name": "初始徽章",
             "initNum": 1,
             "isBag": false,
             "maxLimit": 0,
@@ -210,15 +219,6 @@
         {
             "id": 24001,
             "name": "初始头像框",
-            "initNum": 1,
-            "isBag": false,
-            "maxLimit": 0,
-            "overflow": false,
-            "type": 0
-        },
-        {
-            "id": 1017,
-            "name": "初始角色",
             "initNum": 1,
             "isBag": false,
             "maxLimit": 0,

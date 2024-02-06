@@ -1,66 +1,6 @@
 {
     "data": [
         {
-            "id": 21025,
-            "icon": "Avatar_Head_ActivityDaiyan",
-            "iconFemale": "Avatar_Head_ActivityDaiyan",
-            "bust": "Avatar_Bust_DaiyanSSR",
-            "bustFemale": "Avatar_Bust_DaiyanSSR",
-            "itemId": 21025,
-            "unlockDes": "通关异乡乐徽剧情战役普通1-9后解锁。",
-            "displayConfig": 1,
-            "jump": 0,
-            "displayArg": 0
-        },
-        {
-            "id": 21026,
-            "icon": "Avatar_Head_MosinnagantSSR",
-            "iconFemale": "Avatar_Head_MosinnagantSSR",
-            "bust": "Avatar_Bust_MosinnagantSSR",
-            "bustFemale": "Avatar_Bust_MosinnagantSSR",
-            "itemId": 21026,
-            "unlockDes": "获得莫辛纳甘后解锁",
-            "displayConfig": 1,
-            "jump": 0,
-            "displayArg": 0
-        },
-        {
-            "id": 21027,
-            "icon": "Avatar_Head_KseniaSR",
-            "iconFemale": "Avatar_Head_KseniaSR",
-            "bust": "Avatar_Bust_KseniaSR",
-            "bustFemale": "Avatar_Bust_KseniaSR",
-            "itemId": 21027,
-            "unlockDes": "获得科谢尼娅后解锁",
-            "displayConfig": 1,
-            "jump": 0,
-            "displayArg": 0
-        },
-        {
-            "id": 21028,
-            "icon": "Avatar_Head_LittaraSR",
-            "iconFemale": "Avatar_Head_LittaraSR",
-            "bust": "Avatar_Bust_LittaraSR",
-            "bustFemale": "Avatar_Bust_LittaraSR",
-            "itemId": 21028,
-            "unlockDes": "获得莉塔拉后解锁",
-            "displayConfig": 1,
-            "jump": 0,
-            "displayArg": 0
-        },
-        {
-            "id": 21999,
-            "icon": "Avatar_Head_Player_Male",
-            "iconFemale": "Avatar_Head_Player_Female",
-            "bust": "Avatar_Bust_Player_Male",
-            "bustFemale": "Avatar_Bust_Player_Female",
-            "itemId": 21999,
-            "unlockDes": "自动解锁",
-            "displayConfig": 1,
-            "jump": 0,
-            "displayArg": 0
-        },
-        {
             "id": 21000,
             "icon": "Avatar_Head_CharolicSR",
             "iconFemale": "Avatar_Head_CharolicSR",
@@ -69,6 +9,7 @@
             "itemId": 21000,
             "unlockDes": "获得克罗丽科后解锁",
             "displayConfig": 1,
+            "sort": 2,
             "jump": 0,
             "displayArg": 0
         },
@@ -81,6 +22,7 @@
             "itemId": 21001,
             "unlockDes": "获得纳美西丝后解锁",
             "displayConfig": 1,
+            "sort": 3,
             "jump": 0,
             "displayArg": 0
         },
@@ -93,6 +35,7 @@
             "itemId": 21002,
             "unlockDes": "获得寇尔芙后解锁",
             "displayConfig": 1,
+            "sort": 4,
             "jump": 0,
             "displayArg": 0
         },
@@ -105,6 +48,7 @@
             "itemId": 21003,
             "unlockDes": "获得维普蕾后解锁",
             "displayConfig": 1,
+            "sort": 5,
             "jump": 0,
             "displayArg": 0
         },
@@ -117,6 +61,7 @@
             "itemId": 21004,
             "unlockDes": "获得闪电后解锁",
             "displayConfig": 1,
+            "sort": 6,
             "jump": 0,
             "displayArg": 0
         },
@@ -129,6 +74,7 @@
             "itemId": 21005,
             "unlockDes": "获得佩里缇亚后解锁",
             "displayConfig": 1,
+            "sort": 7,
             "jump": 0,
             "displayArg": 0
         },
@@ -141,6 +87,7 @@
             "itemId": 21008,
             "unlockDes": "获得夏克里后解锁",
             "displayConfig": 1,
+            "sort": 10,
             "jump": 0,
             "displayArg": 0
         },
@@ -153,6 +100,7 @@
             "itemId": 21009,
             "unlockDes": "获得奇塔后解锁",
             "displayConfig": 1,
+            "sort": 11,
             "jump": 0,
             "displayArg": 0
         },
@@ -165,6 +113,7 @@
             "itemId": 21010,
             "unlockDes": "获得托洛洛后解锁",
             "displayConfig": 1,
+            "sort": 12,
             "jump": 0,
             "displayArg": 0
         },
@@ -177,6 +126,7 @@
             "itemId": 21011,
             "unlockDes": "获得纳甘后解锁",
             "displayConfig": 1,
+            "sort": 13,
             "jump": 0,
             "displayArg": 0
         },
@@ -189,6 +139,20 @@
             "itemId": 21012,
             "unlockDes": "获得琼玖后解锁",
             "displayConfig": 1,
+            "sort": 14,
+            "jump": 0,
+            "displayArg": 0
+        },
+        {
+            "id": 21013,
+            "icon": "Avatar_Head_CentaureissiSSR",
+            "iconFemale": "Avatar_Head_CentaureissiSSR",
+            "bust": "Avatar_Bust_CentaureissiSSR",
+            "bustFemale": "Avatar_Bust_CentaureissiSSR",
+            "itemId": 21013,
+            "unlockDes": "获得桑朵莱希后解锁",
+            "displayConfig": 1,
+            "sort": 21,
             "jump": 0,
             "displayArg": 0
         },
@@ -201,6 +165,7 @@
             "itemId": 21014,
             "unlockDes": "获得塞布丽娜后解锁",
             "displayConfig": 1,
+            "sort": 15,
             "jump": 0,
             "displayArg": 0
         },
@@ -213,6 +178,85 @@
             "itemId": 21015,
             "unlockDes": "获得黛烟后解锁",
             "displayConfig": 1,
+            "sort": 16,
+            "jump": 0,
+            "displayArg": 0
+        },
+        {
+            "id": 21025,
+            "icon": "Avatar_Head_ActivityDaiyan",
+            "iconFemale": "Avatar_Head_ActivityDaiyan",
+            "bust": "Avatar_Bust_ActivityDaiyan",
+            "bustFemale": "Avatar_Bust_ActivityDaiyan",
+            "itemId": 21025,
+            "unlockDes": "通关异乡乐徽剧情战役普通1-9后解锁",
+            "displayConfig": 1,
+            "sort": 20,
+            "jump": 0,
+            "displayArg": 0
+        },
+        {
+            "id": 21026,
+            "icon": "Avatar_Head_MosinnagantSSR",
+            "iconFemale": "Avatar_Head_MosinnagantSSR",
+            "bust": "Avatar_Bust_MosinnagantSSR",
+            "bustFemale": "Avatar_Bust_MosinnagantSSR",
+            "itemId": 21026,
+            "unlockDes": "获得莫辛纳甘后解锁",
+            "displayConfig": 1,
+            "sort": 17,
+            "jump": 0,
+            "displayArg": 0
+        },
+        {
+            "id": 21027,
+            "icon": "Avatar_Head_KseniaSR",
+            "iconFemale": "Avatar_Head_KseniaSR",
+            "bust": "Avatar_Bust_KseniaSR",
+            "bustFemale": "Avatar_Bust_KseniaSR",
+            "itemId": 21027,
+            "unlockDes": "获得科谢尼娅后解锁",
+            "displayConfig": 1,
+            "sort": 18,
+            "jump": 0,
+            "displayArg": 0
+        },
+        {
+            "id": 21028,
+            "icon": "Avatar_Head_LittaraSR",
+            "iconFemale": "Avatar_Head_LittaraSR",
+            "bust": "Avatar_Bust_LittaraSR",
+            "bustFemale": "Avatar_Bust_LittaraSR",
+            "itemId": 21028,
+            "unlockDes": "获得莉塔拉后解锁",
+            "displayConfig": 1,
+            "sort": 19,
+            "jump": 0,
+            "displayArg": 0
+        },
+        {
+            "id": 21029,
+            "icon": "Avatar_Head_ActivityCafe",
+            "iconFemale": "Avatar_Head_ActivityCafe",
+            "bust": "Avatar_Bust_ActivityCafe",
+            "bustFemale": "Avatar_Bust_ActivityCafe",
+            "itemId": 21029,
+            "unlockDes": "初次完成方糖特调沙龙活动战役普通模式后解锁",
+            "displayConfig": 1,
+            "sort": 22,
+            "jump": 0,
+            "displayArg": 0
+        },
+        {
+            "id": 21999,
+            "icon": "Avatar_Head_Player_Male",
+            "iconFemale": "Avatar_Head_Player_Female",
+            "bust": "Avatar_Bust_Player_Male",
+            "bustFemale": "Avatar_Bust_Player_Female",
+            "itemId": 21999,
+            "unlockDes": "自动解锁",
+            "displayConfig": 1,
+            "sort": 9999,
             "jump": 0,
             "displayArg": 0
         }

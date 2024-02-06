@@ -7,13 +7,18 @@
                 102,
                 103
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 2,
             "groupIdList": [
                 201,
-                202
+                202,
+                203
+            ],
+            "itemPageList": [
+                20302
             ],
             "noSkip": false
         },
@@ -24,7 +29,8 @@
                 302,
                 303
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 5,
@@ -42,7 +48,8 @@
                 511,
                 512
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 10,
@@ -50,7 +57,8 @@
                 1001,
                 1002
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 11,
@@ -60,14 +68,16 @@
                 1103,
                 1104
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 13,
             "groupIdList": [
                 1301
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 15,
@@ -87,6 +97,10 @@
                 1519,
                 1520
             ],
+            "itemPageList": [
+                150301,
+                150402
+            ],
             "noSkip": false
         },
         {
@@ -95,7 +109,8 @@
                 1601,
                 1602
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 17,
@@ -114,6 +129,9 @@
                 1719,
                 1720
             ],
+            "itemPageList": [
+                170104
+            ],
             "noSkip": false
         },
         {
@@ -123,7 +141,8 @@
                 1802,
                 1803
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 19,
@@ -142,6 +161,9 @@
                 1919,
                 1920
             ],
+            "itemPageList": [
+                190104
+            ],
             "noSkip": false
         },
         {
@@ -150,21 +172,24 @@
                 2001,
                 2002
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 21,
             "groupIdList": [
                 2102
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 22,
             "groupIdList": [
                 2202
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 23,
@@ -174,91 +199,162 @@
                 2304,
                 2305
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 24,
             "groupIdList": [
                 2401
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 25,
             "groupIdList": [
                 2501
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 26,
             "groupIdList": [
                 2601
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 27,
             "groupIdList": [
                 2701
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 28,
             "groupIdList": [
                 2801
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 29,
             "groupIdList": [
                 2901
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 30,
             "groupIdList": [
                 3001
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 31,
             "groupIdList": [
                 3101
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 32,
             "groupIdList": [
                 3201
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 33,
             "groupIdList": [
                 3301
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 34,
             "groupIdList": [
                 3401
             ],
+            "noSkip": false,
+            "itemPageList": []
+        },
+        {
+            "id": 35,
+            "groupIdList": [
+                3501
+            ],
+            "itemPageList": [
+                350104
+            ],
             "noSkip": false
+        },
+        {
+            "id": 36,
+            "groupIdList": [
+                3601
+            ],
+            "noSkip": false,
+            "itemPageList": []
+        },
+        {
+            "id": 37,
+            "groupIdList": [
+                3701
+            ],
+            "noSkip": false,
+            "itemPageList": []
+        },
+        {
+            "id": 39,
+            "groupIdList": [
+                3901
+            ],
+            "noSkip": false,
+            "itemPageList": []
+        },
+        {
+            "id": 41,
+            "groupIdList": [
+                4101
+            ],
+            "noSkip": false,
+            "itemPageList": []
         },
         {
             "id": 42,
             "groupIdList": [
                 4201
             ],
-            "noSkip": false
+            "noSkip": false,
+            "itemPageList": []
+        },
+        {
+            "id": 43,
+            "groupIdList": [
+                4301
+            ],
+            "noSkip": false,
+            "itemPageList": []
+        },
+        {
+            "id": 44,
+            "groupIdList": [
+                4401
+            ],
+            "noSkip": false,
+            "itemPageList": []
         }
     ]
 }

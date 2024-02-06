@@ -145,6 +145,15 @@
             "storeId": 1125
         },
         {
+            "id": 17,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond17",
+            "name": "千山辞旧礼包",
+            "describe": "千山辞旧礼包",
+            "price": 168,
+            "limitBuy": 1,
+            "storeId": 1127
+        },
+        {
             "id": 22,
             "productId": "com.sunborn.SnqxExilium.cn.diamond22",
             "name": "护航补给箱",
@@ -179,6 +188,87 @@
             "price": 328,
             "limitBuy": 1,
             "storeId": 1103
+        },
+        {
+            "id": 26,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond26",
+            "name": "特价专访许可",
+            "describe": "特价专访许可",
+            "price": 1,
+            "limitBuy": 1,
+            "storeId": 1129
+        },
+        {
+            "id": 27,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond27",
+            "name": "基础资源箱",
+            "describe": "基础资源箱",
+            "price": 30,
+            "limitBuy": 1,
+            "storeId": 1130
+        },
+        {
+            "id": 28,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond28",
+            "name": "超值资源箱",
+            "describe": "超值资源箱",
+            "price": 68,
+            "limitBuy": 1,
+            "storeId": 1131
+        },
+        {
+            "id": 29,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond29",
+            "name": "礼遇资源箱",
+            "describe": "礼遇资源箱",
+            "price": 98,
+            "limitBuy": 1,
+            "storeId": 1132
+        },
+        {
+            "id": 30,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond30",
+            "name": "臻选资源箱",
+            "describe": "臻选资源箱",
+            "price": 128,
+            "limitBuy": 1,
+            "storeId": 1133
+        },
+        {
+            "id": 31,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond31",
+            "name": "每日晶条礼包",
+            "describe": "每日晶条礼包",
+            "price": 6,
+            "limitBuy": 1,
+            "storeId": 1134
+        },
+        {
+            "id": 32,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond32",
+            "name": "万象迎新礼包",
+            "describe": "万象迎新礼包",
+            "price": 328,
+            "limitBuy": 1,
+            "storeId": 1128
+        },
+        {
+            "id": 33,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond33",
+            "name": "屠苏辞岁礼包",
+            "describe": "屠苏辞岁礼包",
+            "price": 168,
+            "limitBuy": 1,
+            "storeId": 1135
+        },
+        {
+            "id": 34,
+            "productId": "com.sunborn.SnqxExilium.cn.diamond34",
+            "name": "桃符送春礼包",
+            "describe": "桃符送春礼包",
+            "price": 328,
+            "limitBuy": 1,
+            "storeId": 1136
         }
     ]
 }

@@ -78,7 +78,7 @@
             "bPptId": 1602,
             "questChallengeType": 1004,
             "name": "首领挑战·四",
-            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·四。",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·四，完成所有挑战目标，即可前往下一层级。",
             "bBossId": "6902:45",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
@@ -93,16 +93,15 @@
                 108140,
                 108141
             ],
-            "maxTeam": 2,
+            "maxTeam": 1,
             "bId": [
-                151,
-                152
+                151
             ],
             "bPptId": 1602,
             "questChallengeType": 1005,
             "name": "首领挑战·五",
-            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·五。",
-            "bBossId": "6906:45",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·五，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6903:50",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
             "bBossLogo": "Icon_Weekly_Logo1"
@@ -124,8 +123,8 @@
             "bPptId": 1602,
             "questChallengeType": 1006,
             "name": "首领挑战·六",
-            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·二，完成所有挑战目标，即可前往下一层级。",
-            "bBossId": "6901:50",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·六，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6906:55",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
             "bBossLogo": "Icon_Weekly_Logo1"
@@ -147,8 +146,8 @@
             "bPptId": 1602,
             "questChallengeType": 1007,
             "name": "首领挑战·七",
-            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·二，完成所有挑战目标，即可前往下一层级。",
-            "bBossId": "6901:55",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·七。",
+            "bBossId": "6907:60",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
             "bBossLogo": "Icon_Weekly_Logo1"
@@ -170,8 +169,8 @@
             "bPptId": 1602,
             "questChallengeType": 1008,
             "name": "首领挑战·八",
-            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·二，完成所有挑战目标，即可前往下一层级。",
-            "bBossId": "6901:60",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·八。",
+            "bBossId": "6901:62",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
             "bBossLogo": "Icon_Weekly_Logo1"

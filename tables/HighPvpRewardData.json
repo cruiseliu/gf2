@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "rewardGroup": 1001,
+            "rankSection": [
+                1,
+                2000
+            ],
+            "rankReward": {
+                "1": 500
+            },
+            "rewardType": 1
+        },
+        {
+            "id": 2,
+            "rewardGroup": 1001,
+            "rankSection": [
+                0,
+                50
+            ],
+            "rankReward": {
+                "1": 300
+            },
+            "rewardType": 2
+        },
+        {
+            "id": 3,
+            "rewardGroup": 1001,
+            "rankSection": [
+                50,
+                80
+            ],
+            "rankReward": {
+                "1": 100
+            },
+            "rewardType": 2
+        }
+    ]
+}

@@ -23,9 +23,7 @@
             "groupId": 20101,
             "groupType": 2,
             "questBundleId": [
-                121,
-                122,
-                123
+                121
             ],
             "name": "进阶任务"
         },
@@ -58,6 +56,14 @@
                 153
             ],
             "name": "进阶任务"
+        },
+        {
+            "groupId": 60101,
+            "groupType": 3,
+            "questBundleId": [
+                99906
+            ],
+            "name": "推车测试任务"
         }
     ]
 }

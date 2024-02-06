@@ -1,17 +1,6 @@
 {
     "data": [
         {
-            "id": 10,
-            "type": 3,
-            "property": "crit",
-            "value": 9500,
-            "conditionId": "7;1025",
-            "side": 0,
-            "expression": "",
-            "parameter1": "",
-            "parameter2": ""
-        },
-        {
             "id": 1,
             "type": 1,
             "property": "pow",
@@ -104,6 +93,17 @@
             "type": 3,
             "property": "crit",
             "value": 7000,
+            "conditionId": "7;1025",
+            "side": 0,
+            "expression": "",
+            "parameter1": "",
+            "parameter2": ""
+        },
+        {
+            "id": 10,
+            "type": 3,
+            "property": "crit",
+            "value": 9500,
             "conditionId": "7;1025",
             "side": 0,
             "expression": "",

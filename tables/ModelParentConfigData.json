@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "id": 6911,
+            "typeCode": 2,
+            "parentModel": "MISC_deepWarship",
+            "prefabType": 1,
+            "figureType": 8,
+            "hurtPerformType": 1,
+            "dissolveStartDelay": 60,
+            "dissolveDuration": 120,
+            "additionalDamageEffect": "",
+            "delayDie": false,
+            "darkzoneAc": "",
+            "coverRendering": false
+        },
+        {
+            "id": 6931,
+            "typeCode": 2,
+            "parentModel": "MISC_deepWarship01",
+            "prefabType": 1,
+            "figureType": 8,
+            "dissolveStartDelay": 60,
+            "dissolveDuration": 120,
+            "hurtPerformType": 0,
+            "additionalDamageEffect": "",
+            "delayDie": false,
+            "darkzoneAc": "",
+            "coverRendering": false
+        },
+        {
+            "id": 6936,
+            "typeCode": 2,
+            "parentModel": "MISC_deepWarship02",
+            "prefabType": 1,
+            "figureType": 8,
+            "dissolveStartDelay": 60,
+            "dissolveDuration": 120,
+            "hurtPerformType": 0,
+            "additionalDamageEffect": "",
+            "delayDie": false,
+            "darkzoneAc": "",
+            "coverRendering": false
+        },
+        {
+            "id": 6941,
+            "typeCode": 2,
+            "parentModel": "MISC_deepWarship03",
+            "prefabType": 1,
+            "figureType": 8,
+            "dissolveStartDelay": 60,
+            "dissolveDuration": 120,
+            "hurtPerformType": 0,
+            "additionalDamageEffect": "",
+            "delayDie": false,
+            "darkzoneAc": "",
+            "coverRendering": false
+        }
+    ]
+}

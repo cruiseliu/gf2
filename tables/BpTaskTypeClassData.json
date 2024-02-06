@@ -1,14 +1,14 @@
 {
     "data": [
         {
+            "enName": "task_cooperation",
+            "id": 4,
+            "name": "新增协作任务"
+        },
+        {
             "enName": "task_daily",
             "id": 1,
             "name": "每日行动"
-        },
-        {
-            "enName": "task_weekly",
-            "id": 2,
-            "name": "每周行动"
         },
         {
             "enName": "task_new",
@@ -16,9 +16,9 @@
             "name": "新增每日任务"
         },
         {
-            "enName": "task_cooperation",
-            "id": 4,
-            "name": "新增协作任务"
+            "enName": "task_weekly",
+            "id": 2,
+            "name": "每周行动"
         }
     ]
 }

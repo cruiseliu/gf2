@@ -9,7 +9,7 @@
             "bannerResource": "Img_RecentActivitie_Daiyan_P1",
             "bannerTitle": "Img_RecentActivitie_Daiyan_D1",
             "bannerInformation": "一次采风之旅，一场城市欢宴。\n庆典在即，变故徒生，循着回忆中的歌谣，黛烟将谱出怎样的旋律？",
-            "priority": 1
+            "priority": 3
         },
         {
             "id": 99902,
@@ -20,7 +20,7 @@
             "bannerResource": "Img_RecentActivitie_Daiyan_P2",
             "bannerTitle": "Img_RecentActivitie_Daiyan_D2",
             "bannerInformation": "一次采风之旅，一场城市欢宴。\n庆典在即，变故徒生，循着回忆中的歌谣，黛烟将谱出怎样的旋律？",
-            "priority": 1
+            "priority": 3
         },
         {
             "id": 99903,
@@ -31,7 +31,40 @@
             "bannerResource": "Img_RecentActivitie_Daiyan_P2",
             "bannerTitle": "Img_RecentActivitie_Daiyan_D2",
             "bannerInformation": "一次采风之旅，一场城市欢宴。\n庆典在即，变故徒生，循着回忆中的歌谣，黛烟将谱出怎样的旋律？",
-            "priority": 1
+            "priority": 3
+        },
+        {
+            "id": 99904,
+            "moduleId": 113101,
+            "planId": 50004,
+            "name": "方糖特调沙龙预热",
+            "activityDesc": "开业筹备",
+            "bannerResource": "Img_RecentActivitie_Cafe_P1",
+            "bannerTitle": "Img_RecentActivitie_Cafe_D1",
+            "bannerInformation": "方糖特调沙龙活动开幕在即，完成开业筹备任务，助力开幕~",
+            "priority": 2
+        },
+        {
+            "id": 99905,
+            "moduleId": 223101,
+            "planId": 50005,
+            "name": "方糖特调沙龙",
+            "activityDesc": "沙龙经营",
+            "bannerResource": "Img_RecentActivitie_Cafe_P2",
+            "bannerTitle": "Img_RecentActivitie_Cafe_D2",
+            "bannerInformation": "限时·创意特调沙龙在方糖咖啡馆开幕啦~想要达到最佳营业效果，创意、物资、管理，统统不能敷衍。和人形店员们一起迎接挑战吧！",
+            "priority": 2
+        },
+        {
+            "id": 99906,
+            "moduleId": 323101,
+            "planId": 50006,
+            "name": "方糖特调沙龙",
+            "activityDesc": "已结束",
+            "bannerResource": "Img_RecentActivitie_Cafe_P2",
+            "bannerTitle": "Img_RecentActivitie_Cafe_D2",
+            "bannerInformation": "限时·创意特调沙龙在方糖咖啡馆开幕啦~想要达到最佳营业效果，创意、物资、管理，统统不能敷衍。和人形店员们一起迎接挑战吧！",
+            "priority": 2
         }
     ]
 }

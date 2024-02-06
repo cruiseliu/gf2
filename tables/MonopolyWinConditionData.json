@@ -1,45 +1,6 @@
 {
     "data": [
         {
-            "id": 21010,
-            "name": "敌方占领地格数达到15个",
-            "des": "敌方占领地格数达到15个",
-            "conditionId": 913,
-            "conditionNum": 15,
-            "controlType": 2,
-            "loseHint": 4,
-            "conditionArg0": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0
-        },
-        {
-            "id": 21011,
-            "name": "敌方比我方多占领20个地格",
-            "des": "敌方比我方多占领20个地格",
-            "conditionId": 914,
-            "conditionNum": 20,
-            "controlType": 2,
-            "loseHint": 5,
-            "conditionArg0": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0
-        },
-        {
-            "id": 21012,
-            "name": "敌方比我方多占领30个地格",
-            "des": "敌方比我方多占领30个地格",
-            "conditionId": 914,
-            "conditionNum": 30,
-            "controlType": 2,
-            "loseHint": 5,
-            "conditionArg0": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0
-        },
-        {
             "id": 11001,
             "name": "击败伊伯",
             "des": "击败伊伯",
@@ -50,6 +11,7 @@
             "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
+            "counterType": 0,
             "loseHint": 0
         },
         {
@@ -63,6 +25,7 @@
             "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
+            "counterType": 0,
             "loseHint": 0
         },
         {
@@ -76,6 +39,7 @@
             "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
+            "counterType": 0,
             "loseHint": 0
         },
         {
@@ -89,6 +53,7 @@
             "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
+            "counterType": 0,
             "loseHint": 0
         },
         {
@@ -102,6 +67,7 @@
             "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
+            "counterType": 0,
             "loseHint": 0
         },
         {
@@ -115,6 +81,7 @@
             "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
+            "counterType": 0,
             "loseHint": 0
         },
         {
@@ -128,6 +95,7 @@
             "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
+            "counterType": 0,
             "loseHint": 0
         },
         {
@@ -141,6 +109,21 @@
             "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
+            "counterType": 0,
+            "loseHint": 0
+        },
+        {
+            "id": 11012,
+            "name": "测试胜利条件，经过54号地格2次",
+            "des": "测试胜利条件，经过54号地格2次",
+            "conditionId": 960,
+            "conditionNum": 2,
+            "conditionArg0": 54,
+            "controlType": 1,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "counterType": 0,
             "loseHint": 0
         },
         {
@@ -154,7 +137,8 @@
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0
+            "conditionArg3": 0,
+            "counterType": 0
         },
         {
             "id": 21006,
@@ -167,20 +151,22 @@
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0
+            "conditionArg3": 0,
+            "counterType": 0
         },
         {
             "id": 21007,
-            "name": "敌方比我方多占领30个地格",
-            "des": "敌方比我方多占领30个地格",
+            "name": "敌方比我方多占领16个地格",
+            "des": "敌方比我方多占领16个地格",
             "conditionId": 914,
-            "conditionNum": 30,
+            "conditionNum": 16,
             "controlType": 2,
             "loseHint": 5,
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0
+            "conditionArg3": 0,
+            "counterType": 0
         },
         {
             "id": 21008,
@@ -193,7 +179,8 @@
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0
+            "conditionArg3": 0,
+            "counterType": 0
         },
         {
             "id": 21009,
@@ -206,7 +193,64 @@
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0
+            "conditionArg3": 0,
+            "counterType": 0
+        },
+        {
+            "id": 21010,
+            "name": "敌方占领地格数达到15个",
+            "des": "敌方占领地格数达到15个",
+            "conditionId": 913,
+            "conditionNum": 15,
+            "controlType": 2,
+            "loseHint": 4,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "counterType": 0
+        },
+        {
+            "id": 21011,
+            "name": "敌方比我方多占领8个地格",
+            "des": "敌方比我方多占领8个地格",
+            "conditionId": 914,
+            "conditionNum": 8,
+            "controlType": 2,
+            "loseHint": 5,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "counterType": 0
+        },
+        {
+            "id": 21012,
+            "name": "敌方比我方多占领20个地格",
+            "des": "敌方比我方多占领20个地格",
+            "conditionId": 914,
+            "conditionNum": 20,
+            "controlType": 2,
+            "loseHint": 5,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "counterType": 0
+        },
+        {
+            "id": 21013,
+            "name": "测试失败条件，BOSS经过54号地格2次",
+            "des": "测试失败条件，BOSS经过54号地格2次",
+            "conditionId": 961,
+            "conditionNum": 2,
+            "conditionArg0": 110104,
+            "conditionArg1": 54,
+            "controlType": 2,
+            "loseHint": 6,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "counterType": 0
         }
     ]
 }

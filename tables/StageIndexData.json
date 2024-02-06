@@ -12,14 +12,16 @@
                 3,
                 4,
                 5,
-                6
+                6,
+                7
             ],
             "underId": [
                 26
             ],
             "background": "Img_BattleIndexBg_Plot",
             "globalTab": 21,
-            "unlock": 0
+            "unlock": 0,
+            "activityId": []
         },
         {
             "id": 2,
@@ -31,12 +33,14 @@
                 32,
                 24,
                 30,
-                25
+                25,
+                50
             ],
             "background": "Img_BattleIndexBg_Sim",
             "unlock": 10999,
             "globalTab": 24,
-            "underId": []
+            "underId": [],
+            "activityId": []
         },
         {
             "id": 4,
@@ -54,7 +58,8 @@
             "background": "Img_BattleIndexBg_Sim",
             "unlock": 10998,
             "globalTab": 23,
-            "underId": []
+            "underId": [],
+            "activityId": []
         },
         {
             "id": 5,
@@ -63,12 +68,17 @@
             "rank": 2,
             "type": 1,
             "detailId": [
-                3001
+                3001,
+                3002
             ],
             "background": "Img_BattleIndexBg_Sim",
+            "unlock": 10997,
             "globalTab": 22,
-            "underId": [],
-            "unlock": 0
+            "activityId": [
+                1,
+                2
+            ],
+            "underId": []
         }
     ]
 }

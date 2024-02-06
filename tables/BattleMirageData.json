@@ -23,9 +23,15 @@
                 1000,
                 8
             ],
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "aiList": [],
-            "inheritPropertyValue": ""
+            "inheritPropertyValue": "",
+            "feature": 0
         },
         {
             "id": 6902918,
@@ -45,12 +51,18 @@
                 0,
                 8
             ],
-            "suppressGroup": "2,5,8,7",
+            "suppressGroup": [
+                2,
+                5,
+                8,
+                7
+            ],
             "aiList": [],
             "summonLevel": 0,
             "propertyGroup": 0,
             "inheritPropertyValue": "",
-            "attachMasterDead": 0
+            "attachMasterDead": 0,
+            "feature": 0
         }
     ]
 }

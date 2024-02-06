@@ -5,84 +5,76 @@
             "scene": "ThemeActivity/ActivityMonopoly/Monopoly_001_Daiyan/Monopoly_001_daiyan01_day",
             "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M1_1",
             "mapName": "庆典会场·白日",
-            "orderGroup": 101,
+            "orderGroup": 1101,
             "baseElement": 9101,
             "mapDes": "追缉失控机械，恢复庆典会场的秩序吧！",
             "cameraArea": "6,6;16,16",
             "foundationDesc": "",
-            "speed": 5.4
+            "speed": 5.4,
+            "winCondition": [
+                11001,
+                11012
+            ],
+            "failCondition": [
+                21013
+            ]
         },
         {
             "id": 2,
-            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_002_Daiyan/Monopoly_001_daiyan02_day",
-            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M1_2",
-            "mapName": "庆典会场·白日",
-            "orderGroup": 201,
+            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_001_Daiyan/Monopoly_001_daiyan01_day",
+            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M1_1",
+            "mapName": "测试用地图",
+            "orderGroup": 9901,
             "baseElement": 9101,
             "mapDes": "追缉失控机械，恢复庆典会场的秩序吧！",
-            "cameraArea": "0,0;21,23",
+            "cameraArea": "6,6;16,16",
             "foundationDesc": "",
-            "speed": 3.6
-        },
-        {
-            "id": 3,
-            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_002_Daiyan/Monopoly_001_daiyan02_day",
-            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M1_3",
-            "mapName": "庆典会场·白日",
-            "orderGroup": 301,
-            "baseElement": 9101,
-            "mapDes": "追缉失控机械，恢复庆典会场的秩序吧！",
-            "cameraArea": "0,0;21,23",
-            "foundationDesc": "",
-            "speed": 3.6
+            "speed": 5.4,
+            "winCondition": [
+                11001,
+                11012
+            ],
+            "failCondition": [
+                21013
+            ]
         },
         {
             "id": 4,
-            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_002_Daiyan/Monopoly_001_daiyan02_dusk",
-            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M2_1",
-            "mapName": "庆典会场·黄昏",
-            "orderGroup": 401,
-            "baseElement": 9104,
-            "mapDes": "把握机会，稳定会场秩序！",
-            "cameraArea": "0,0;21,23",
+            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_001_Daiyan/Monopoly_001_daiyan01_day",
+            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M1_1",
+            "mapName": "测试用地图2-1",
+            "orderGroup": 9901,
+            "baseElement": 9101,
+            "mapDes": "追缉失控机械，恢复庆典会场的秩序吧！",
+            "cameraArea": "6,6;16,16",
             "foundationDesc": "",
-            "speed": 3.6
-        },
-        {
-            "id": 5,
-            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_002_Daiyan/Monopoly_001_daiyan02_dusk",
-            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M2_2",
-            "mapName": "庆典会场·黄昏",
-            "orderGroup": 501,
-            "baseElement": 9104,
-            "mapDes": "把握机会，稳定会场秩序！",
-            "cameraArea": "0,0;21,23",
-            "foundationDesc": "",
-            "speed": 3.6
-        },
-        {
-            "id": 6,
-            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_002_Daiyan/Monopoly_001_daiyan02_dusk",
-            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M2_3",
-            "mapName": "庆典会场·黄昏",
-            "orderGroup": 601,
-            "baseElement": 9104,
-            "mapDes": "把握机会，稳定会场秩序！",
-            "cameraArea": "0,0;21,23",
-            "foundationDesc": "",
-            "speed": 3.6
+            "speed": 5.4,
+            "winCondition": [
+                11001,
+                11012
+            ],
+            "failCondition": [
+                21013
+            ]
         },
         {
             "id": 7,
-            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_002_Daiyan/Monopoly_001_daiyan02_night",
-            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M3_1",
-            "mapName": "庆典会场·夜晚",
-            "orderGroup": 701,
+            "scene": "ThemeActivity/ActivityMonopoly/Monopoly_001_Daiyan/Monopoly_001_daiyan01_day",
+            "mapImage": "ActivityTourMap/Img_ActivityTourMap_Daiyan_M1_1",
+            "mapName": "测试用地图3-1",
+            "orderGroup": 9901,
             "baseElement": 9101,
-            "mapDes": "伊伯已无路可逃，乘胜追击！",
-            "cameraArea": "0,0;21,23",
+            "mapDes": "追缉失控机械，恢复庆典会场的秩序吧！",
+            "cameraArea": "6,6;16,16",
             "foundationDesc": "",
-            "speed": 5.4
+            "speed": 5.4,
+            "winCondition": [
+                11001,
+                11012
+            ],
+            "failCondition": [
+                21013
+            ]
         }
     ]
 }

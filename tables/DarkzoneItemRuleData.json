@@ -5,14 +5,16 @@
             "isAutoPickItem": true,
             "settleMethod": 0,
             "itemToProperty": {},
-            "destroy": 0
+            "destroy": 0,
+            "propertyObject": 0
         },
         {
             "id": 2,
             "isAutoPickItem": true,
             "settleMethod": 0,
             "itemToProperty": {},
-            "destroy": 0
+            "destroy": 0,
+            "propertyObject": 0
         },
         {
             "id": 62001,
@@ -21,7 +23,8 @@
                 "1102": 100
             },
             "destroy": 1,
-            "isAutoPickItem": false
+            "isAutoPickItem": false,
+            "propertyObject": 0
         },
         {
             "id": 62002,
@@ -30,14 +33,16 @@
                 "1103": 100
             },
             "destroy": 1,
-            "isAutoPickItem": false
+            "isAutoPickItem": false,
+            "propertyObject": 0
         },
         {
             "id": 62003,
             "settleMethod": 2,
             "itemToProperty": {},
             "destroy": 0,
-            "isAutoPickItem": false
+            "isAutoPickItem": false,
+            "propertyObject": 0
         },
         {
             "id": 62004,
@@ -46,14 +51,26 @@
                 "1103": 50
             },
             "destroy": 1,
-            "isAutoPickItem": false
+            "isAutoPickItem": false,
+            "propertyObject": 0
+        },
+        {
+            "id": 62005,
+            "settleMethod": 2,
+            "itemToProperty": {
+                "1103": 25
+            },
+            "destroy": 1,
+            "isAutoPickItem": false,
+            "propertyObject": 0
         },
         {
             "id": 70111,
             "settleMethod": 0,
             "itemToProperty": {},
             "destroy": 0,
-            "isAutoPickItem": false
+            "isAutoPickItem": false,
+            "propertyObject": 0
         }
     ]
 }

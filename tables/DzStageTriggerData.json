@@ -1,6 +1,16 @@
 {
     "data": [
         {
+            "id": 1630011200,
+            "triggerName": "剩余人数触发器",
+            "func": 3,
+            "args": "True;0",
+            "events": [],
+            "maxTimes": 0,
+            "isActive": false,
+            "isGlobal": false
+        },
+        {
             "id": 1660010200,
             "triggerName": "碰撞触发器",
             "args": "0;0;11100,6900:16000,9800;0",
@@ -16,58 +26,6 @@
             "isGlobal": true,
             "func": 0,
             "maxTimes": 0
-        },
-        {
-            "id": 1660010500,
-            "triggerName": "剩余人数触发器",
-            "func": 3,
-            "args": "True;1",
-            "isActive": true,
-            "isGlobal": true,
-            "events": [],
-            "maxTimes": 0
-        },
-        {
-            "id": 1660010600,
-            "triggerName": "计数触发器",
-            "func": 4,
-            "args": "1;5;True",
-            "isActive": true,
-            "isGlobal": true,
-            "events": [],
-            "maxTimes": 0
-        },
-        {
-            "id": 2020011000,
-            "triggerName": "碰撞触发器",
-            "args": "0;0;4800,1900:5600,2600;0",
-            "events": [
-                2020011001
-            ],
-            "maxTimes": 1,
-            "isActive": true,
-            "isGlobal": true,
-            "func": 0
-        },
-        {
-            "id": 1660010900,
-            "triggerName": "物品获得触发器",
-            "func": 5,
-            "args": "51151|51161;1|2",
-            "events": [],
-            "maxTimes": 0,
-            "isActive": false,
-            "isGlobal": false
-        },
-        {
-            "id": 1630011200,
-            "triggerName": "剩余人数触发器",
-            "func": 3,
-            "args": "True;0",
-            "events": [],
-            "maxTimes": 0,
-            "isActive": false,
-            "isGlobal": false
         },
         {
             "id": 1660010300,
@@ -92,6 +50,26 @@
             "isActive": false
         },
         {
+            "id": 1660010500,
+            "triggerName": "剩余人数触发器",
+            "func": 3,
+            "args": "True;1",
+            "isActive": true,
+            "isGlobal": true,
+            "events": [],
+            "maxTimes": 0
+        },
+        {
+            "id": 1660010600,
+            "triggerName": "计数触发器",
+            "func": 4,
+            "args": "1;5;True",
+            "isActive": true,
+            "isGlobal": true,
+            "events": [],
+            "maxTimes": 0
+        },
+        {
             "id": 1660010700,
             "triggerName": "物品获得触发器",
             "func": 5,
@@ -110,6 +88,28 @@
             "maxTimes": 0,
             "isActive": false,
             "isGlobal": false
+        },
+        {
+            "id": 1660010900,
+            "triggerName": "物品获得触发器",
+            "func": 5,
+            "args": "51151|51161;1|2",
+            "events": [],
+            "maxTimes": 0,
+            "isActive": false,
+            "isGlobal": false
+        },
+        {
+            "id": 2020011000,
+            "triggerName": "碰撞触发器",
+            "args": "0;0;4800,1900:5600,2600;0",
+            "events": [
+                2020011001
+            ],
+            "maxTimes": 1,
+            "isActive": true,
+            "isGlobal": true,
+            "func": 0
         }
     ]
 }

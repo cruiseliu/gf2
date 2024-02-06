@@ -1,33 +1,6 @@
 {
     "data": [
         {
-            "id": 1010,
-            "des": "完成任意4个B.R.I.E.F.每日订单",
-            "conditionClass": 1002,
-            "conditionNum": 4,
-            "link": "7001",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 1011,
-            "des": "通关补给作战关卡3次",
-            "conditionClass": 209,
-            "conditionNum": 3,
-            "link": "1098",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 1012,
-            "des": "完成1次边界推进",
-            "conditionClass": 563,
-            "conditionNum": 1,
-            "link": "10000",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
             "id": 1001,
             "des": "完成1次边界推进",
             "conditionClass": 563,
@@ -105,6 +78,33 @@
             "conditionClass": 2,
             "conditionNum": 3,
             "link": "3014",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1010,
+            "des": "完成任意4个B.R.I.E.F.每日订单",
+            "conditionClass": 1002,
+            "conditionNum": 4,
+            "link": "7001",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1011,
+            "des": "通关补给作战关卡3次",
+            "conditionClass": 209,
+            "conditionNum": 3,
+            "link": "1098",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1012,
+            "des": "完成1次边界推进",
+            "conditionClass": 563,
+            "conditionNum": 1,
+            "link": "10000",
             "counterType": 0,
             "resetType": 0
         }
