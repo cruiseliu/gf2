@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "Id": 1001,
+            "typeCode": 1,
+            "model": "CharolicSR01",
+            "clothId": 201,
+            "shoesId": 2,
+            "audioVoice": 114,
+            "cuesheetUsed": [
+                "C_SR01_Charolic"
+            ]
+        },
+        {
             "Id": 1008,
             "typeCode": 1,
             "model": "NemesisSR01",

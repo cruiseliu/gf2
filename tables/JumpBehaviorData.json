@@ -247,6 +247,12 @@
             "unlockId": 24002
         },
         {
+            "id": 1501,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIRepositoryPanelV2",
+            "unlockId": 0
+        },
+        {
             "id": 1601,
             "jumpScene": "CommandCenter",
             "jumpPrefab": "UIFriendPanel",

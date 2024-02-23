@@ -719,6 +719,27 @@
             "triggerEffect": 0
         },
         {
+            "id": 10110,
+            "buffType": 2,
+            "triggerTime": 6,
+            "triggerParam": [
+                0
+            ],
+            "buffGet": 1,
+            "effectType": 10,
+            "turn": 99,
+            "name": "监视",
+            "icon": "Buff_Monitor",
+            "desc": "敌人正在警戒，停留在监视区域将遭受攻击！",
+            "descTime": "0",
+            "triggerdesc": "",
+            "obtainDesc": "",
+            "param": 0,
+            "triggerSlg": 0,
+            "relationBuff": 0,
+            "triggerEffect": 0
+        },
+        {
             "id": 10120,
             "buffType": 2,
             "triggerTime": 8,
