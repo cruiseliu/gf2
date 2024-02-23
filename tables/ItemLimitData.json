@@ -118,6 +118,15 @@
             "type": 0
         },
         {
+            "id": 90,
+            "name": "高位竞技场门票自然恢复上限",
+            "isBag": true,
+            "initNum": 5,
+            "maxLimit": 5,
+            "overflow": true,
+            "type": 0
+        },
+        {
             "id": 101,
             "name": "玩家持有体力",
             "initNum": 180,
@@ -134,6 +143,15 @@
             "overflow": true,
             "type": 1,
             "isBag": false
+        },
+        {
+            "id": 106,
+            "name": "玩家持有高位竞技场门票",
+            "initNum": 5,
+            "maxLimit": 5,
+            "isBag": false,
+            "overflow": false,
+            "type": 0
         },
         {
             "id": 304,

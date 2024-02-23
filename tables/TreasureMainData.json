@@ -6,15 +6,26 @@
             "bpId": 0,
             "gameId": 0,
             "gameIcon": "",
-            "gameSpec": ""
+            "gameSpec": "",
+            "closeType": 0
         },
         {
             "id": 60015,
             "bpId": 10001,
+            "closeType": 1,
             "bingoId": 0,
             "gameId": 0,
             "gameIcon": "",
             "gameSpec": ""
+        },
+        {
+            "id": 60034,
+            "bingoId": 10002,
+            "gameId": 1001,
+            "gameIcon": "Icon_TreasureActivity_MiniGame_1",
+            "gameSpec": "Mask_TreasureActivityItem_MiniGame_1",
+            "bpId": 0,
+            "closeType": 0
         }
     ]
 }

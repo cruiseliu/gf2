@@ -19,7 +19,8 @@
             "bBossId": "6901:29",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
-            "bBossLogo": "Icon_Weekly_Logo1"
+            "bBossLogo": "Icon_Weekly_Logo1",
+            "bBossName": "要塞伯爵"
         },
         {
             "id": 2,
@@ -40,7 +41,8 @@
             "bBossId": "6904:35",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
-            "bBossLogo": "Icon_Weekly_Logo1"
+            "bBossLogo": "Icon_Weekly_Logo1",
+            "bBossName": "要塞伯爵"
         },
         {
             "id": 3,
@@ -61,7 +63,8 @@
             "bBossId": "6902:40",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
-            "bBossLogo": "Icon_Weekly_Logo1"
+            "bBossLogo": "Icon_Weekly_Logo1",
+            "bBossName": "要塞伯爵"
         },
         {
             "id": 4,
@@ -82,7 +85,8 @@
             "bBossId": "6902:45",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
-            "bBossLogo": "Icon_Weekly_Logo1"
+            "bBossLogo": "Icon_Weekly_Logo1",
+            "bBossName": "要塞伯爵"
         },
         {
             "id": 5,
@@ -104,7 +108,8 @@
             "bBossId": "6903:50",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
-            "bBossLogo": "Icon_Weekly_Logo1"
+            "bBossLogo": "Icon_Weekly_Logo1",
+            "bBossName": "要塞伯爵"
         },
         {
             "id": 6,
@@ -124,10 +129,11 @@
             "questChallengeType": 1006,
             "name": "首领挑战·六",
             "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·六，完成所有挑战目标，即可前往下一层级。",
-            "bBossId": "6906:55",
+            "bBossId": "6902:50;6906:55;",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
-            "bBossLogo": "Icon_Weekly_Logo1"
+            "bBossLogo": "Icon_Weekly_Logo1",
+            "bBossName": "要塞伯爵"
         },
         {
             "id": 7,
@@ -146,11 +152,12 @@
             "bPptId": 1602,
             "questChallengeType": 1007,
             "name": "首领挑战·七",
-            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·七。",
-            "bBossId": "6907:60",
+            "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·七，完成所有挑战目标，即可前往下一层级。",
+            "bBossId": "6903:55;6907:60;",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
-            "bBossLogo": "Icon_Weekly_Logo1"
+            "bBossLogo": "Icon_Weekly_Logo1",
+            "bBossName": "要塞伯爵"
         },
         {
             "id": 8,
@@ -170,10 +177,11 @@
             "questChallengeType": 1008,
             "name": "首领挑战·八",
             "des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于挑战层级·八。",
-            "bBossId": "6901:62",
+            "bBossId": "6908:55;6911:60;",
             "bBossEnName": "Deichgraf",
             "bBossPic": "Icon_Weekly_Boss1",
-            "bBossLogo": "Icon_Weekly_Logo1"
+            "bBossLogo": "Icon_Weekly_Logo1",
+            "bBossName": "要塞伯爵"
         }
     ]
 }

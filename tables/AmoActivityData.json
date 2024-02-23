@@ -92,7 +92,25 @@
         },
         {
             "id": 1011,
-            "des": "通关补给作战关卡3次",
+            "des": "完成任意4个B.R.I.E.F.每日订单",
+            "conditionClass": 1002,
+            "conditionNum": 4,
+            "link": "7001",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1012,
+            "des": "完成任意3个B.R.I.E.F.每日订单",
+            "conditionClass": 1002,
+            "conditionNum": 3,
+            "link": "7001",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1013,
+            "des": "通关补给战关卡3次",
             "conditionClass": 209,
             "conditionNum": 3,
             "link": "1098",
@@ -100,11 +118,101 @@
             "resetType": 0
         },
         {
-            "id": 1012,
-            "des": "完成1次边界推进",
-            "conditionClass": 563,
-            "conditionNum": 1,
-            "link": "10000",
+            "id": 1014,
+            "des": "消耗情报拼图60个",
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "link": "1000",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1015,
+            "des": "完成定向精研2次",
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "link": "3800",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1016,
+            "des": "通关补给战关卡6次",
+            "conditionClass": 209,
+            "conditionNum": 6,
+            "link": "1098",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1017,
+            "des": "完成深度搜索2次",
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "link": "3200",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1018,
+            "des": "完成任意3个B.R.I.E.F.每日订单",
+            "conditionClass": 1002,
+            "conditionNum": 3,
+            "link": "7001",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1019,
+            "des": "完成军备解析2次",
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "link": "3400",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1020,
+            "des": "消耗情报拼图120个",
+            "conditionClass": 2,
+            "conditionNum": 120,
+            "link": "1000",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1021,
+            "des": "完成标准同调2次",
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "link": "3300",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1022,
+            "des": "通关补给战关卡8次",
+            "conditionClass": 209,
+            "conditionNum": 8,
+            "link": "1098",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1023,
+            "des": "通关心智勘测2次",
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "link": "2000",
+            "counterType": 0,
+            "resetType": 0
+        },
+        {
+            "id": 1024,
+            "des": "完成任意4个B.R.I.E.F.每日订单",
+            "conditionClass": 1002,
+            "conditionNum": 4,
+            "link": "7001",
             "counterType": 0,
             "resetType": 0
         }

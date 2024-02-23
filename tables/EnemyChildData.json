@@ -1,67 +1,8 @@
 {
     "data": [
         {
-            "id": 691101,
-            "name": "远北港哨炮02炮",
-            "description": "这里是测试文本",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "冰海舰骸炮01",
-            "occupySize": 1,
-            "childCentralSquare": [
-                1,
-                -1
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "characterPic": "deepWarship",
-            "childModelCode": 691101,
-            "skillActive": [
-                6911901
-            ],
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
             "id": 693101,
             "name": "约塔反潜武器",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -95,11 +36,11 @@
                 32
             ],
             "childOnground": true,
-            "characterPic": "deepWarship",
             "childModelCode": 693101,
             "skillActive": [
                 69310101
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -109,6 +50,7 @@
             "addLevel": 0,
             "childCannotChosen": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -119,7 +61,6 @@
         {
             "id": 693102,
             "name": "潜鸟深弹炮",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -153,12 +94,12 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693102,
             "skillActive": [
                 69310201,
                 69310202
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -168,6 +109,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -178,7 +120,6 @@
         {
             "id": 693103,
             "name": "双联机枪",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -213,12 +154,12 @@
                 8
             ],
             "childReleaserTransfer": true,
-            "characterPic": "deepWarship",
             "childModelCode": 693103,
             "skillActive": [
                 6911904,
                 69310301
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -227,6 +168,7 @@
             "propertyGroup": 0,
             "addLevel": 0,
             "childOnground": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -237,7 +179,6 @@
         {
             "id": 693201,
             "name": "约塔反潜武器",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -271,11 +212,11 @@
                 32
             ],
             "childOnground": true,
-            "characterPic": "deepWarship",
             "childModelCode": 693101,
             "skillActive": [
                 69310101
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -285,6 +226,7 @@
             "addLevel": 0,
             "childCannotChosen": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -295,7 +237,6 @@
         {
             "id": 693202,
             "name": "潜鸟深弹炮",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -329,12 +270,12 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693102,
             "skillActive": [
                 69310201,
                 69310202
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -344,6 +285,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -354,7 +296,6 @@
         {
             "id": 693203,
             "name": "双联机枪",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -389,12 +330,12 @@
                 8
             ],
             "childReleaserTransfer": true,
-            "characterPic": "deepWarship",
             "childModelCode": 693103,
             "skillActive": [
                 6911904,
                 69310301
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -403,6 +344,7 @@
             "propertyGroup": 0,
             "addLevel": 0,
             "childOnground": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -413,7 +355,6 @@
         {
             "id": 693301,
             "name": "约塔反潜武器",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -447,11 +388,11 @@
                 32
             ],
             "childOnground": true,
-            "characterPic": "deepWarship",
             "childModelCode": 693101,
             "skillActive": [
                 69310101
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -461,6 +402,7 @@
             "addLevel": 0,
             "childCannotChosen": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -471,7 +413,6 @@
         {
             "id": 693302,
             "name": "潜鸟深弹炮",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -505,12 +446,12 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693102,
             "skillActive": [
                 69310201,
                 69310202
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -520,6 +461,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -530,7 +472,6 @@
         {
             "id": 693303,
             "name": "双联机枪",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -565,12 +506,12 @@
                 8
             ],
             "childReleaserTransfer": true,
-            "characterPic": "deepWarship",
             "childModelCode": 693103,
             "skillActive": [
                 6911904,
                 69310301
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -579,6 +520,7 @@
             "propertyGroup": 0,
             "addLevel": 0,
             "childOnground": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -589,7 +531,6 @@
         {
             "id": 693601,
             "name": "舰载激光武器",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -623,12 +564,12 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693601,
             "skillActive": [
                 69360101,
                 69360102
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -638,6 +579,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -648,7 +590,6 @@
         {
             "id": 693602,
             "name": "潜鸟深弹炮组",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -682,11 +623,11 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693602,
             "skillActive": [
                 69360201
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -696,6 +637,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -706,7 +648,6 @@
         {
             "id": 693603,
             "name": "极地导弹发射器",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -740,11 +681,11 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693603,
             "skillActive": [
                 69360301
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -754,6 +695,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -764,7 +706,6 @@
         {
             "id": 693604,
             "name": "多联连射机枪",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -798,13 +739,13 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693604,
             "skillActive": [
                 6911907,
                 69360401,
                 69360402
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -814,6 +755,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -824,7 +766,6 @@
         {
             "id": 693701,
             "name": "舰载激光武器",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -858,12 +799,12 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693601,
             "skillActive": [
                 69360101,
                 69360102
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -873,6 +814,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -883,7 +825,6 @@
         {
             "id": 693702,
             "name": "潜鸟深弹炮组",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -917,11 +858,11 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693602,
             "skillActive": [
                 69360201
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -931,6 +872,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -941,7 +883,6 @@
         {
             "id": 693703,
             "name": "极地导弹发射器",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -975,11 +916,11 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693603,
             "skillActive": [
                 69360301
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -989,6 +930,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -999,7 +941,6 @@
         {
             "id": 693704,
             "name": "多联连射机枪",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -1033,13 +974,13 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 693604,
             "skillActive": [
                 6911907,
                 69360401,
                 69360402
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -1049,6 +990,7 @@
             "addLevel": 0,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -1059,7 +1001,6 @@
         {
             "id": 694101,
             "name": "极地导弹发射器·电磁",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -1092,11 +1033,11 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 694101,
             "skillActive": [
                 69410101
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -1107,6 +1048,7 @@
             "childCannotChosen": false,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -1117,7 +1059,6 @@
         {
             "id": 694102,
             "name": "双联机枪",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -1150,11 +1091,11 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 694102,
             "skillActive": [
                 69410201
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -1165,6 +1106,7 @@
             "childCannotChosen": false,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,
@@ -1175,7 +1117,6 @@
         {
             "id": 694103,
             "name": "极地导弹发射器·冷凝",
-            "description": "这里是测试文本",
             "textIndex": [
                 3
             ],
@@ -1208,11 +1149,11 @@
                 0,
                 8
             ],
-            "characterPic": "deepWarship",
             "childModelCode": 694103,
             "skillActive": [
                 69410301
             ],
+            "description": "",
             "showPotential": false,
             "shape": 0,
             "shapeParam": [],
@@ -1223,6 +1164,7 @@
             "childCannotChosen": false,
             "childOnground": false,
             "childReleaserTransfer": false,
+            "characterPic": "",
             "skillNormalAttack": 0,
             "skillTalent": [],
             "ignorePlayer1Skill": 0,

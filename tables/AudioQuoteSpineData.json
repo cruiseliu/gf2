@@ -169,6 +169,14 @@
             }
         },
         {
+            "id": 10022,
+            "spine": "Lenna",
+            "eventId": {
+                "Fire": 580004,
+                "Sprint": 580006
+            }
+        },
+        {
             "id": 500001,
             "spine": "Golyat",
             "eventId": {
@@ -190,6 +198,57 @@
             "eventId": {
                 "Fire": 580011,
                 "Sprint": 580008
+            }
+        },
+        {
+            "id": 500004,
+            "spine": "Urokrake",
+            "eventId": {
+                "Sprint": 580022,
+                "Fire": 580019,
+                "Idle": 580021
+            }
+        },
+        {
+            "id": 500005,
+            "spine": "Oljefat",
+            "eventId": {
+                "Fire": 580023,
+                "Sprint": 580013
+            }
+        },
+        {
+            "id": 500006,
+            "spine": "Scourge Moth",
+            "eventId": {
+                "Sprint": 5624701,
+                "Fire": 5624715,
+                "Idle": 5624722
+            }
+        },
+        {
+            "id": 500007,
+            "spine": "Nemertea",
+            "eventId": {
+                "Idle": 580016,
+                "Fire": 580014,
+                "Sprint": 580015
+            }
+        },
+        {
+            "id": 500008,
+            "spine": "Aegis-Dominator_SWAP",
+            "eventId": {
+                "Fire": 580003,
+                "Sprint": 580007
+            }
+        },
+        {
+            "id": 500009,
+            "spine": "Obshare",
+            "eventId": {
+                "Fire": 580017,
+                "Sprint": 580018
             }
         }
     ]

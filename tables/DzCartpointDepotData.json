@@ -1,284 +1,6 @@
 {
     "data": [
         {
-            "id": 1118001,
-            "splitGroupId": 1118,
-            "position": [
-                8010,
-                0,
-                1890
-            ],
-            "forwardPoint": "1118002:1",
-            "approachList": "1118003,1118004,1118005,1118006,1118007,1118008,1118009,1118010,1118011,1118012,1118013,1118014,1118015",
-            "rebornPosition": [
-                7830,
-                0,
-                1890
-            ],
-            "pointType": 0,
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "backwardPoint": "",
-            "backapproachList": ""
-        },
-        {
-            "id": 1118002,
-            "splitGroupId": 1118,
-            "pointType": 3,
-            "position": [
-                3690,
-                0,
-                5310
-            ],
-            "rebornPosition": [
-                3690,
-                0,
-                5130
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": ""
-        },
-        {
-            "id": 1118003,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                6750,
-                0,
-                1890
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118004,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                6750,
-                0,
-                1530
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118005,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                5310,
-                0,
-                1530
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118006,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                5310,
-                0,
-                3510
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118007,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                5670,
-                0,
-                3510
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118008,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                5670,
-                0,
-                4410
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118009,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                4770,
-                0,
-                4410
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118010,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                4770,
-                0,
-                4050
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118011,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                4050,
-                0,
-                4050
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118012,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                4050,
-                0,
-                3150
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118013,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                3150,
-                0,
-                3150
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118014,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                3150,
-                0,
-                4770
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 1118015,
-            "splitGroupId": 1118,
-            "pointType": 2,
-            "position": [
-                3690,
-                0,
-                4770
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
             "id": 2101001,
             "splitGroupId": 2101,
             "ifArchive": true,
@@ -288,8 +10,8 @@
                 6930
             ],
             "beaconId": 2101015,
-            "forwardPoint": "2101005:1",
-            "approachList": "2101002,2101003,2101004,2101007,2101009,2101010,2101011,2101012,2101014,2101015,2101016,2101017,2101018,2101019",
+            "forwardPoint": "2101021:1",
+            "approachList": "2101007,2101009",
             "rebornPosition": [
                 1530,
                 0,
@@ -303,56 +25,68 @@
         {
             "id": 2101002,
             "splitGroupId": 2101,
-            "pointType": 2,
+            "pointType": 1,
             "position": [
-                2250,
+                4770,
+                0,
+                7290
+            ],
+            "forwardPoint": "2101004:1,2101003:1",
+            "approachList": "2101014,2101022,2101015;2101016",
+            "rebornPosition": [
+                4770,
+                0,
+                7470
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 2101003,
+            "splitGroupId": 2101,
+            "pointType": 1,
+            "position": [
+                5850,
+                0,
+                6750
+            ],
+            "forwardPoint": "2101004:1",
+            "rebornPosition": [
+                5850,
                 0,
                 6930
             ],
             "endResult": 0,
             "ifArchive": false,
             "beaconId": 0,
-            "forwardPoint": "",
             "backwardPoint": "",
             "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
-        },
-        {
-            "id": 2101003,
-            "splitGroupId": 2101,
-            "pointType": 2,
-            "position": [
-                2250,
-                0,
-                7290
-            ],
-            "endResult": 0,
-            "ifArchive": false,
-            "beaconId": 0,
-            "forwardPoint": "",
-            "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
+            "backapproachList": ""
         },
         {
             "id": 2101004,
             "splitGroupId": 2101,
-            "pointType": 2,
+            "pointType": 1,
             "position": [
-                2610,
+                5850,
+                0,
+                7290
+            ],
+            "forwardPoint": "2101005:1",
+            "approachList": "2101017,2101018,2101019,2101020",
+            "rebornPosition": [
+                6030,
                 0,
                 7290
             ],
             "endResult": 0,
             "ifArchive": false,
             "beaconId": 0,
-            "forwardPoint": "",
             "backwardPoint": "",
-            "approachList": "",
-            "backapproachList": "",
-            "rebornPosition": []
+            "backapproachList": ""
         },
         {
             "id": 2101005,
@@ -403,7 +137,7 @@
             "splitGroupId": 2101,
             "pointType": 2,
             "position": [
-                2610,
+                2250,
                 0,
                 6930
             ],
@@ -439,9 +173,9 @@
             "splitGroupId": 2101,
             "pointType": 2,
             "position": [
-                3870,
+                2250,
                 0,
-                6930
+                7290
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -457,9 +191,9 @@
             "splitGroupId": 2101,
             "pointType": 2,
             "position": [
-                3870,
+                2610,
                 0,
-                7290
+                6930
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -475,9 +209,9 @@
             "splitGroupId": 2101,
             "pointType": 2,
             "position": [
-                4770,
+                3870,
                 0,
-                7290
+                6930
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -493,9 +227,9 @@
             "splitGroupId": 2101,
             "pointType": 2,
             "position": [
-                4770,
+                3870,
                 0,
-                7650
+                7290
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -533,7 +267,7 @@
             "splitGroupId": 2101,
             "pointType": 2,
             "position": [
-                5490,
+                4770,
                 0,
                 7650
             ],
@@ -569,9 +303,9 @@
             "splitGroupId": 2101,
             "pointType": 2,
             "position": [
-                6570,
+                4770,
                 0,
-                7290
+                6750
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -589,7 +323,7 @@
             "position": [
                 6570,
                 0,
-                6750
+                7290
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -605,7 +339,7 @@
             "splitGroupId": 2101,
             "pointType": 2,
             "position": [
-                7110,
+                6570,
                 0,
                 6750
             ],
@@ -625,7 +359,65 @@
             "position": [
                 7110,
                 0,
+                6750
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2101020,
+            "splitGroupId": 2101,
+            "pointType": 2,
+            "position": [
+                7110,
+                0,
                 7290
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2101021,
+            "splitGroupId": 2101,
+            "pointType": 1,
+            "position": [
+                2610,
+                0,
+                7290
+            ],
+            "forwardPoint": "2101002:1",
+            "approachList": "2101010,2101011,2101012",
+            "rebornPosition": [
+                2610,
+                0,
+                7110
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 2101022,
+            "splitGroupId": 2101,
+            "pointType": 2,
+            "position": [
+                5490,
+                0,
+                7650
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -3501,6 +3293,7 @@
                 0,
                 3150
             ],
+            "beaconId": 2106060,
             "forwardPoint": "2106008:1",
             "approachList": "2106007,2106012,2106013,2106018,2106019,2106020,2106021,2106022,2106025,2106035",
             "rebornPosition": [
@@ -3510,7 +3303,6 @@
             ],
             "endResult": 0,
             "ifArchive": false,
-            "beaconId": 0,
             "backwardPoint": "",
             "backapproachList": ""
         },
@@ -4379,6 +4171,7 @@
                 0,
                 6570
             ],
+            "beaconId": 2107065,
             "forwardPoint": "2107038:1",
             "approachList": "2107012,2107020,2107023,2107024",
             "rebornPosition": [
@@ -4388,7 +4181,6 @@
             ],
             "endResult": 0,
             "ifArchive": false,
-            "beaconId": 0,
             "backwardPoint": "",
             "backapproachList": ""
         },
@@ -5054,14 +4846,14 @@
             "position": [
                 6930,
                 0,
-                3330
+                3690
             ],
             "forwardPoint": "2107053:1",
             "approachList": "2107002,2107003,2107004,2107005,2107006,2107007,2107008,2107009,2107010,2107011,2107013,2107015,2107016,2107017,2107018,2107019,2107021",
             "rebornPosition": [
                 6930,
                 0,
-                3510
+                3870
             ],
             "endResult": 0,
             "beaconId": 0,
@@ -6489,6 +6281,24 @@
             "rebornPosition": []
         },
         {
+            "id": 2109017,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                7110,
+                0,
+                7290
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
             "id": 2109018,
             "splitGroupId": 2109,
             "pointType": 4,
@@ -6551,7 +6361,7 @@
             "splitGroupId": 2109,
             "pointType": 2,
             "position": [
-                3510,
+                3870,
                 0,
                 7290
             ],
@@ -6739,9 +6549,9 @@
             "splitGroupId": 2109,
             "pointType": 2,
             "position": [
-                3510,
+                3870,
                 0,
-                6930
+                8190
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -6795,7 +6605,7 @@
             "position": [
                 5850,
                 0,
-                7290
+                7110
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -6811,9 +6621,9 @@
             "splitGroupId": 2109,
             "pointType": 2,
             "position": [
-                6570,
+                6210,
                 0,
-                7290
+                7110
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -6829,9 +6639,9 @@
             "splitGroupId": 2109,
             "pointType": 2,
             "position": [
-                6570,
+                6210,
                 0,
-                6930
+                6210
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -6847,9 +6657,9 @@
             "splitGroupId": 2109,
             "pointType": 2,
             "position": [
-                7110,
+                6930,
                 0,
-                6930
+                6210
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -6865,9 +6675,135 @@
             "splitGroupId": 2109,
             "pointType": 2,
             "position": [
+                6930,
+                0,
+                6750
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109039,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                6570,
+                0,
+                6750
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109040,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                6570,
+                0,
+                7470
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109041,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                6210,
+                0,
+                7470
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109042,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                6210,
+                0,
+                8010
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109043,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                6750,
+                0,
+                8010
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109044,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                6750,
+                0,
+                7470
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109045,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
                 7110,
                 0,
-                7290
+                7470
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -6973,9 +6909,9 @@
             "splitGroupId": 2109,
             "pointType": 2,
             "position": [
-                2970,
+                3150,
                 0,
-                6930
+                8190
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -6991,9 +6927,117 @@
             "splitGroupId": 2109,
             "pointType": 2,
             "position": [
-                2970,
+                3150,
                 0,
-                7290
+                7470
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109053,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                3510,
+                0,
+                7470
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109054,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                3510,
+                0,
+                6930
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109055,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                3870,
+                0,
+                6930
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109056,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                3870,
+                0,
+                6210
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109057,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                3330,
+                0,
+                6210
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109058,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                3330,
+                0,
+                6570
             ],
             "endResult": 0,
             "ifArchive": false,
@@ -7165,6 +7209,42 @@
             "backapproachList": ""
         },
         {
+            "id": 2109067,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                2970,
+                0,
+                6570
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 2109068,
+            "splitGroupId": 2109,
+            "pointType": 2,
+            "position": [
+                2970,
+                0,
+                7290
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
             "id": 2109075,
             "splitGroupId": 2109,
             "pointType": 2,
@@ -7192,7 +7272,7 @@
                 7290
             ],
             "forwardPoint": "2109025:1,2109018:1",
-            "approachList": "2109023,2109032,2109033,2109034,2109035,2109036,2109037,2109038;2109021,2109031,2109051,2109052",
+            "approachList": "2109023,2109032,2109033,2109034,2109035,2109036,2109037,2109038,2109039,2109040,2109041,2109042,2109043,2109044,2109045,2109017;2109021,2109031,2109051,2109052,2109053,2109054,2109055,2109056,2109057,2109058,2109067,2109068",
             "rebornPosition": [
                 5130,
                 0,
@@ -9393,6 +9473,826 @@
             "beaconId": 0,
             "backwardPoint": "",
             "backapproachList": ""
+        },
+        {
+            "id": 3010001,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "ifArchive": true,
+            "position": [
+                2970,
+                0,
+                2070
+            ],
+            "beaconId": 3010039,
+            "forwardPoint": "3010002:1,3010012:1,3010016:1",
+            "approachList": "3010008,3010007,3010006,3010005;3010013,3010014,3010025;",
+            "rebornPosition": [
+                2970,
+                0,
+                2250
+            ],
+            "endResult": 0,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3010002,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "ifArchive": true,
+            "position": [
+                4410,
+                0,
+                2070
+            ],
+            "beaconId": 3010040,
+            "forwardPoint": "3010003:1",
+            "backwardPoint": "3010001:1,3010012:1",
+            "approachList": "3010021",
+            "backapproachList": "3010005,3010006,3010007,3010008;3010029,3010015,3010011,3010010",
+            "rebornPosition": [
+                4410,
+                0,
+                2250
+            ],
+            "endResult": 0
+        },
+        {
+            "id": 3010003,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "ifArchive": true,
+            "position": [
+                5130,
+                0,
+                2070
+            ],
+            "beaconId": 3010041,
+            "forwardPoint": "3010004:1,3010018:1,3010024:1",
+            "backwardPoint": "3010002:0",
+            "approachList": "3010009;3010022;",
+            "backapproachList": "3010021",
+            "rebornPosition": [
+                5130,
+                0,
+                2250
+            ],
+            "endResult": 0
+        },
+        {
+            "id": 3010004,
+            "splitGroupId": 3010,
+            "pointType": 3,
+            "endResult": 9,
+            "ifArchive": true,
+            "position": [
+                5850,
+                0,
+                3510
+            ],
+            "beaconId": 3010042,
+            "forwardPoint": "3010017:1",
+            "backwardPoint": "3010003:1,3010026:1",
+            "backapproachList": "3010009;3010028,3010027",
+            "rebornPosition": [
+                5850,
+                0,
+                3690
+            ],
+            "approachList": ""
+        },
+        {
+            "id": 3010005,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                3330,
+                0,
+                2070
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010006,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                3330,
+                0,
+                1710
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010007,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                4050,
+                0,
+                1710
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010008,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                4050,
+                0,
+                2070
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010009,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                5130,
+                0,
+                3510
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010010,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                3690,
+                0,
+                2430
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010011,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                4050,
+                0,
+                2430
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010012,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "ifArchive": true,
+            "position": [
+                3690,
+                0,
+                2610
+            ],
+            "beaconId": 3010043,
+            "forwardPoint": "3010002:1",
+            "approachList": "3010010,3010011,3010015,3010029",
+            "rebornPosition": [
+                3690,
+                0,
+                2430
+            ],
+            "endResult": 0,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3010013,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                2970,
+                0,
+                2250
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010014,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                3330,
+                0,
+                2250
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010015,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                4050,
+                0,
+                2250
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010016,
+            "splitGroupId": 3010,
+            "position": [
+                2610,
+                0,
+                2070
+            ],
+            "beaconId": 3010044,
+            "backwardPoint": "3010001:1",
+            "rebornPosition": [
+                2790,
+                0,
+                2070
+            ],
+            "pointType": 0,
+            "endResult": 0,
+            "ifArchive": false,
+            "forwardPoint": "",
+            "approachList": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3010017,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "position": [
+                5850,
+                0,
+                3870
+            ],
+            "beaconId": 3010045,
+            "backwardPoint": "3010004:1",
+            "rebornPosition": [
+                5850,
+                0,
+                3690
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "forwardPoint": "",
+            "approachList": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3010018,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "position": [
+                5310,
+                0,
+                1530
+            ],
+            "beaconId": 3010046,
+            "forwardPoint": "3010019:1",
+            "backwardPoint": "3010003:1",
+            "approachList": "3010023",
+            "backapproachList": "3010022",
+            "rebornPosition": [
+                5310,
+                0,
+                1350
+            ],
+            "endResult": 0,
+            "ifArchive": false
+        },
+        {
+            "id": 3010019,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "position": [
+                5670,
+                0,
+                1350
+            ],
+            "beaconId": 3010047,
+            "backwardPoint": "3010018:1",
+            "backapproachList": "3010023",
+            "rebornPosition": [
+                5490,
+                0,
+                1350
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "forwardPoint": "",
+            "approachList": ""
+        },
+        {
+            "id": 3010021,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                4770,
+                0,
+                2070
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010022,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                5130,
+                0,
+                1530
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010023,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                5310,
+                0,
+                1350
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010024,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "position": [
+                5670,
+                0,
+                2070
+            ],
+            "beaconId": 3010048,
+            "backwardPoint": "3010003:0",
+            "rebornPosition": [
+                5490,
+                0,
+                2070
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "forwardPoint": "",
+            "approachList": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3010025,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                3330,
+                0,
+                2610
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010026,
+            "splitGroupId": 3010,
+            "pointType": 1,
+            "position": [
+                5850,
+                0,
+                2790
+            ],
+            "beaconId": 3010049,
+            "forwardPoint": "3010004:1",
+            "approachList": "3010027,3010028",
+            "rebornPosition": [
+                5670,
+                0,
+                2790
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3010027,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                5310,
+                0,
+                2790
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010028,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                5310,
+                0,
+                3510
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3010029,
+            "splitGroupId": 3010,
+            "pointType": 2,
+            "position": [
+                4410,
+                0,
+                2250
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099001,
+            "splitGroupId": 3099,
+            "position": [
+                1710,
+                0,
+                1530
+            ],
+            "beaconId": 3099001,
+            "forwardPoint": "3099002:1",
+            "approachList": "3099006",
+            "rebornPosition": [
+                1710,
+                0,
+                1710
+            ],
+            "pointType": 0,
+            "endResult": 0,
+            "ifArchive": false,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3099002,
+            "splitGroupId": 3099,
+            "pointType": 1,
+            "position": [
+                3150,
+                0,
+                2250
+            ],
+            "forwardPoint": "3099003:1",
+            "approachList": "3099007,3099008,3099009",
+            "rebornPosition": [
+                3150,
+                0,
+                2430
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3099003,
+            "splitGroupId": 3099,
+            "pointType": 1,
+            "position": [
+                4950,
+                0,
+                2250
+            ],
+            "forwardPoint": "3099004:1",
+            "approachList": "3099010",
+            "rebornPosition": [
+                4950,
+                0,
+                2430
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3099004,
+            "splitGroupId": 3099,
+            "pointType": 1,
+            "position": [
+                5490,
+                0,
+                2970
+            ],
+            "forwardPoint": "3099005:1",
+            "approachList": "3099011,3099012,3099013,3099014",
+            "rebornPosition": [
+                5490,
+                0,
+                3150
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "backwardPoint": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3099005,
+            "splitGroupId": 3099,
+            "pointType": 3,
+            "endResult": 9,
+            "position": [
+                5670,
+                0,
+                5310
+            ],
+            "beaconId": 3099002,
+            "rebornPosition": [
+                5670,
+                0,
+                5130
+            ],
+            "ifArchive": false,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": ""
+        },
+        {
+            "id": 3099006,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                1710,
+                0,
+                2250
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099007,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                3150,
+                0,
+                2610
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099008,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                4050,
+                0,
+                2610
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099009,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                4050,
+                0,
+                2250
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099010,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                4950,
+                0,
+                2970
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099011,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                5490,
+                0,
+                3510
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099012,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                5850,
+                0,
+                3510
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099013,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                5850,
+                0,
+                4410
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
+        },
+        {
+            "id": 3099014,
+            "splitGroupId": 3099,
+            "pointType": 2,
+            "position": [
+                5670,
+                0,
+                4410
+            ],
+            "endResult": 0,
+            "ifArchive": false,
+            "beaconId": 0,
+            "forwardPoint": "",
+            "backwardPoint": "",
+            "approachList": "",
+            "backapproachList": "",
+            "rebornPosition": []
         },
         {
             "id": 12345001,

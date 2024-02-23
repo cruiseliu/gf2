@@ -203,10 +203,10 @@
             ],
             "chargetimeFail": "C_1(time,{0})",
             "chargetimeFailParm": [
-                "4"
+                "2"
             ],
-            "condition": "T_2({0})&&T_1()<={1}",
-            "conditionFail": "!(T_2({0}))&&T_1()>{1}"
+            "condition": "T_8({0})&&T_1()<={1}",
+            "conditionFail": "!(T_8({0}))&&T_1()>{1}"
         },
         {
             "id": 17,
@@ -516,6 +516,19 @@
             ],
             "condition": "T_5(2,{0},0,8)<1&&T_31(0,1,1)",
             "conditionFail": "T_5(2,{0},0,8)>=1"
+        },
+        {
+            "id": 40,
+            "chargetime": "C_1(time,{0})",
+            "chargetimeParm": [
+                "2"
+            ],
+            "chargetimeFail": "C_1(time,{0})",
+            "chargetimeFailParm": [
+                "128"
+            ],
+            "condition": "T_5(2,{0},0,2)<1&&T_31(0,1,1)",
+            "conditionFail": "T_5(2,{0},0,2)>=1"
         }
     ]
 }

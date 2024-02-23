@@ -1,6 +1,39 @@
 {
     "data": [
         {
+            "id": 311,
+            "moduleId": 112103,
+            "planId": 50020,
+            "name": "同行筹备",
+            "activityDesc": "预热中",
+            "bannerResource": "Img_RecentActivitie_Lenna_P1",
+            "bannerTitle": "Img_RecentActivitie_Lenna_D1",
+            "bannerInformation": "在小课堂正式开始前，先来和莱娜一起热热身，作好万全的准备吧~",
+            "priority": 5
+        },
+        {
+            "id": 312,
+            "moduleId": 222103,
+            "planId": 50021,
+            "name": "交织突进",
+            "activityDesc": "现已开幕",
+            "bannerResource": "Img_RecentActivitie_Lenna_P2",
+            "bannerTitle": "Img_RecentActivitie_Lenna_D2",
+            "bannerInformation": "旷野之上危机四伏，虚拟空间险境交织。\n为了应对现实与虚拟的双重威胁，来和莱娜一起训练，掌握防御技巧吧！",
+            "priority": 5
+        },
+        {
+            "id": 313,
+            "moduleId": 322103,
+            "planId": 50022,
+            "name": "交织突进",
+            "activityDesc": "已结束",
+            "bannerResource": "Img_RecentActivitie_Lenna_P2",
+            "bannerTitle": "Img_RecentActivitie_Lenna_D2",
+            "bannerInformation": "旷野之上危机四伏，虚拟空间险境交织。\n为了应对现实与虚拟的双重威胁，来和莱娜一起训练，掌握防御技巧吧！",
+            "priority": 5
+        },
+        {
             "id": 99901,
             "moduleId": 112101,
             "planId": 50001,

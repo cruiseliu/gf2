@@ -499,14 +499,14 @@
                 1033
             ],
             "gachaSelfSelectedProcess": 260,
-            "highPvpGuarantee": 5,
+            "highPvpGuarantee": 2,
             "highPVPPointsRange": [
                 -200,
                 200
             ],
             "highPVPCoolDown": 3,
             "highPVPTicket": 106,
-            "highPVPRankingListNum": 500,
+            "highPVPRankingListNum": 200,
             "counter418Interval": 1,
             "bpCooperateTask": true,
             "commandBackgroundTouchCd": 500,
@@ -551,9 +551,9 @@
             },
             "modDecomposeUpTimes": {
                 "2": 3,
-                "4": 3,
+                "3": 3,
                 "1": 4,
-                "3": 3
+                "4": 3
             },
             "modDecomposeUpLevel": {
                 "4": 8,
@@ -573,8 +573,13 @@
             "modCalibrationPropertyNumSwitch": true,
             "modCalibrationPropertyNum": 4,
             "activityTransportPptId": 9101,
-            "repeatedlyWeaponSkin": "25:10",
-            "repeatedlyModSkin": "25:10",
+            "repeatedlyWeaponSkin": {
+                "25": 10
+            },
+            "repeatedlyModSkin": {
+                "25": 10
+            },
+            "weaponSkinOpen": true,
             "itemGetBattleSettlementNoshow": [
                 37
             ],
@@ -587,8 +592,7 @@
             "uavExceedlevel": 0,
             "chatOpen": false,
             "bpEntryAnimationResource": "",
-            "modCalibrationUpSwitch": false,
-            "weaponSkinOpen": false
+            "modCalibrationUpSwitch": false
         }
     ]
 }

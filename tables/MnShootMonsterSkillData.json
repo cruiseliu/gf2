@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": 3,
+            "name": "boss冲撞",
+            "type": 1.0,
+            "cd": 5.0,
+            "damage": 999,
+            "waitTime": 1.0,
+            "shootSpeed": 1.0,
+            "range": 30.0,
+            "playerDistance": 0
+        },
+        {
+            "id": 1,
+            "name": "冲撞",
+            "type": 1.0,
+            "cd": 5.0,
+            "playerDistance": 5,
+            "damage": 1,
+            "waitTime": 1.0,
+            "shootSpeed": 1.0,
+            "range": 1.0
+        },
+        {
+            "id": 2,
+            "name": "召唤",
+            "type": 1.0,
+            "cd": 30.0,
+            "damage": 3,
+            "waitTime": 32.0,
+            "shootSpeed": 120.0,
+            "range": 30.0,
+            "playerDistance": 0
+        },
+        {
+            "name": "子弹",
+            "type": 1.0,
+            "cd": 15.0,
+            "playerDistance": 5,
+            "damage": 1,
+            "waitTime": 3.0,
+            "shootSpeed": 6.0,
+            "id": 0,
+            "range": 0.0
+        }
+    ]
+}

@@ -39,6 +39,86 @@
             "monopolyOrderGuide": 1001,
             "battleOrder": 1,
             "uiImage": ""
+        },
+        {
+            "id": 102,
+            "activitySubmodule": 3002,
+            "gameTpye": 1,
+            "monopolyPhase": [
+                10201,
+                10202,
+                10203
+            ],
+            "teamNumber": 1,
+            "teamColor": {
+                "1": "00FF00"
+            },
+            "sequenceMode": 1,
+            "speed": {
+                "1": 100
+            },
+            "themeColor": "C76244",
+            "supColor": "E5b962",
+            "logoColor": "EBD7C1",
+            "picResoures": "ActivityTourOthers/Lenna/",
+            "monopolyName": "云域演练进行时",
+            "monopolyDes": "动态防御",
+            "spineRotation": "38,30,0",
+            "spineHudOffset": "0,-0.4,0",
+            "spineLeftOffset": "0.5,-0.8,0",
+            "spineRightOffset": "-0.2,-0.8,0",
+            "spineSize": 1.1,
+            "spinePosition": [
+                -0.1,
+                0.15,
+                -0.2
+            ],
+            "gameSpeed": 2.5,
+            "monopolyTask": 351,
+            "monopolyOrderGuide": 1002,
+            "battleOrder": 1,
+            "uiImage": "",
+            "unlock": 0
+        },
+        {
+            "id": 103,
+            "activitySubmodule": 3002,
+            "gameTpye": 1,
+            "monopolyPhase": [
+                10201,
+                10202,
+                10203
+            ],
+            "teamNumber": 1,
+            "teamColor": {
+                "1": "00FF00"
+            },
+            "sequenceMode": 1,
+            "speed": {
+                "1": 100
+            },
+            "themeColor": "C76244",
+            "supColor": "E5b962",
+            "logoColor": "EBD7C1",
+            "picResoures": "ActivityTourOthers/Lenna/",
+            "monopolyName": "云域演练进行时",
+            "monopolyDes": "动态防御",
+            "spineRotation": "38,30,0",
+            "spineHudOffset": "0,-0.4,0",
+            "spineLeftOffset": "0.5,-0.8,0",
+            "spineRightOffset": "-0.2,-0.8,0",
+            "spineSize": 1.1,
+            "spinePosition": [
+                -0.1,
+                0.15,
+                -0.2
+            ],
+            "gameSpeed": 2.5,
+            "monopolyTask": 351,
+            "monopolyOrderGuide": 1002,
+            "battleOrder": 1,
+            "uiImage": "",
+            "unlock": 0
         }
     ]
 }

@@ -241,6 +241,54 @@
             "hide": false
         },
         {
+            "id": 6,
+            "name": "莱娜",
+            "enName": "Lenna",
+            "uienName": "LennaSSR",
+            "rdrBg": "Img_ArchivesCenter_Chr_PerityaBg",
+            "rdrImg": "Img_ArchivesCenter_Chr_Peritya",
+            "color": "a6764dff",
+            "type": 1,
+            "unitId": [
+                1013
+            ],
+            "avgList": "10070199:1,10070299:1,10070399:2,10070499:2,10070599:3,10070699:3,10070799:4,10070899:4,10070999:5,10071099:5;",
+            "charInfo": "开朗而有亲和力的人形，倾尽全力守护着珍视的家人。日渐沉稳的她，会在对外沟通中展露完美的笑容，也会在见到家人时“强行”献上真诚的拥抱。",
+            "cvCn": "侯小菲",
+            "cvJp": "能登麻美子",
+            "cvEn": "",
+            "bodyId": "SSD-62D",
+            "brand": "通用冲锋枪9",
+            "belong": "H.I.D.E. 404",
+            "petPhrase": "",
+            "sort": 19,
+            "darkzoneAudio": "7101903,7101906,7101909",
+            "audioList": [
+                7101901,
+                7101902,
+                7101903,
+                7101904,
+                7101905,
+                7101906,
+                7101907,
+                7101908,
+                7101909,
+                7101910
+            ],
+            "showOpen": true,
+            "gachaGetTimeline": "GunGet/LennaSSR01_GunGetShow.usm",
+            "spine": "Lenna",
+            "unlockDorm": [
+                99999
+            ],
+            "dormModle": 101399,
+            "gunHigh": 2,
+            "chatList": [],
+            "storyOpen": false,
+            "skinOpen": false,
+            "hide": false
+        },
+        {
             "id": 7,
             "name": "佩里缇亚",
             "enName": "Peritya",

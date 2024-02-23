@@ -31,6 +31,12 @@
             "unlockId": 0
         },
         {
+            "id": 200,
+            "jumpScene": "CommandCenter",
+            "jumpPrefab": "UIShootChrEnterPanel",
+            "unlockId": 0
+        },
+        {
             "id": 833,
             "jumpScene": "CommandCenter",
             "jumpPrefab": "UIDarkZoneQuestPanel",
@@ -224,7 +230,7 @@
         },
         {
             "id": 1309,
-            "jumpScene": "CommandCenter",
+            "jumpScene": "Lounge",
             "jumpPrefab": "DormMainPanel",
             "unlockId": 15100
         },
@@ -239,12 +245,6 @@
             "jumpScene": "CommandCenter",
             "jumpPrefab": "UIQuestPanel",
             "unlockId": 24002
-        },
-        {
-            "id": 1501,
-            "jumpScene": "CommandCenter",
-            "jumpPrefab": "UIRepositoryPanelV2",
-            "unlockId": 0
         },
         {
             "id": 1601,

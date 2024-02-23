@@ -1,6 +1,8 @@
 __all__ = [
     'Tables',
     'find_keywords',
+    'format_percent',
+    'get_attr_name',
     'load_table',
     'replace_colors',
     'sort_dolls',
@@ -66,8 +68,19 @@ doll_order = [
     '科谢尼娅',
     '莉塔拉',
     '桑朵莱希',
+    '莱娜',
 ]
 
 @functools.cache
 def sort_dolls() -> list[dict]:
     return sorted(Tables.GunData, key=(lambda doll: doll_order.index(doll['name'])))
+
+def format_percent(value: int) -> str:
+    return f'{value // 10}.{value % 10}%'
+
+@functools.cache
+def get_attr_name(attr: str) -> str:
+    for attr_info in Tables.LanguagePropertyData:
+        if attr_info['sysName'].replace('_', '').lower() == attr.lower():
+            return attr_info['showName']
+    raise ValueError(f'Bad attr {attr}')

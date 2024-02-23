@@ -196,12 +196,13 @@ def get_skill_info(doll_id, skill_id: int) -> list[str]:
 
     elem_type = None
     if data['elementTag']:
-        element_name = {
-            1: '燃烧',
-            4: '酸蚀',
-            5: '浊刻',
-        }
-        elem_type = element_name[data['elementTag']]
+        #element_name = {
+        #    1: '燃烧',
+        #    4: '酸蚀',
+        #    5: '浊刻',
+        #}
+        #elem_type = element_name[data['elementTag']]
+        elem_type = Tables.LanguageElementData[data['elementTag']]['name']
 
     return {
         'icon': display['icon'],
@@ -223,6 +224,9 @@ def get_skill_upgrade_info(skill_id: int) -> str:
     return format_skill_desc(display['upgradeDescription'])
 
 def format_skill_desc(desc: str) -> str:
+    if isinstance(desc, int):
+        desc = Tables.BattleSkillDisplayData[desc]['description']
+
     buffs = load_table('BattleBuffPerformData', key='name')
     special_buffs = [
         '行动支援',
@@ -236,9 +240,15 @@ def format_skill_desc(desc: str) -> str:
     for keyword, pattern in find_keywords(desc).items():
         if keyword in buffs or keyword in special_buffs:
             desc = desc.replace(pattern, '{{' + keyword + '}}')
-    return replace_colors(desc)
+    desc = replace_colors(desc)
+    return desc
 
-def format_skill_upgrade_desc(desc: str) -> str:
+    #lines = desc.split('\n')
+    #for line in lines[1:]:
+    #    assert line.startswith('{{'), desc
+    #return lines[0]
+
+def format_skill_upgrade_desc(desc: int | str) -> str:
     lines = desc.split('\n')
     for line in lines[1:]:
         assert line.startswith('<color=#3487e0>'), line

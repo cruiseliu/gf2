@@ -74,7 +74,7 @@
         },
         {
             "targetGroupId": 1110,
-            "targetGroupDesc": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
+            "targetGroupDesc": "消灭敌方单位黑眼·弃形后，找到撤离信号站，完成撤离。",
             "targetList": [
                 111001,
                 111002,
@@ -118,7 +118,7 @@
         },
         {
             "targetGroupId": 1115,
-            "targetGroupDesc": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
+            "targetGroupDesc": "消灭敌方单位黑眼·弃形后，找到撤离信号站，完成撤离。",
             "targetList": [
                 111501,
                 111502
@@ -126,7 +126,7 @@
         },
         {
             "targetGroupId": 1116,
-            "targetGroupDesc": "消灭敌方单位尖喙铁兽后，找到撤离信号站，完成撤离。",
+            "targetGroupDesc": "消灭敌方单位尖喙铁兽，找到撤离信号站，完成撤离。",
             "targetList": [
                 111601,
                 111602,
@@ -138,12 +138,13 @@
             "targetGroupId": 1117,
             "targetGroupDesc": "消灭敌方单位纵火者，找到撤离信号站，完成撤离。",
             "targetList": [
-                111701
+                111701,
+                111702
             ]
         },
         {
             "targetGroupId": 1118,
-            "targetGroupDesc": "找到指定敌方单位纵火者，将其消灭。",
+            "targetGroupDesc": "消灭敌方单位堡垒泰坦后，找到撤离信号站，完成撤离。",
             "targetList": [
                 111801,
                 111802
@@ -151,14 +152,14 @@
         },
         {
             "targetGroupId": 1119,
-            "targetGroupDesc": "找到獠牙铁兽，尖喙铁兽，断角铁兽其中之一，将其消灭。",
+            "targetGroupDesc": "找到指定敌方单位黑眼·弃形，将其消灭。",
             "targetList": [
                 111901
             ]
         },
         {
             "targetGroupId": 1120,
-            "targetGroupDesc": "找到撤离信号站，完成撤离。",
+            "targetGroupDesc": "避开敌方单位黑眼·弃形的追击，找到撤离信号站，完成撤离。",
             "targetList": [
                 112001,
                 112002
@@ -194,7 +195,7 @@
         },
         {
             "targetGroupId": 1165,
-            "targetGroupDesc": "找到撤离信号站，完成撤离。",
+            "targetGroupDesc": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
             "targetList": [
                 116501
             ]

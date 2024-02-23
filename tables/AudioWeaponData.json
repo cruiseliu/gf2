@@ -53,12 +53,17 @@
         {
             "typeId": 401,
             "selector": "Gun_SMG",
+            "track": "MP7"
+        },
+        {
+            "typeId": 402,
+            "selector": "Gun_SMG",
             "track": "SMG"
         },
         {
-            "typeId": 501,
-            "selector": "Gun_MG",
-            "track": "MG"
+            "typeId": 403,
+            "selector": "Gun_SMG",
+            "track": "UMP9"
         },
         {
             "typeId": 502,

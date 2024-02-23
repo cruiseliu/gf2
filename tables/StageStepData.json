@@ -161,8 +161,24 @@
             "phaseId": 0
         },
         {
+            "id": 1020,
+            "stepDetail": "击杀所有敌方单位 {0}/21",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
             "id": 1021,
             "stepDetail": "击杀所有敌方单位 {0}/22",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 1022,
+            "stepDetail": "击杀所有敌方单位 {0}/23",
             "stepId": 0,
             "stageId": 0,
             "stepType": 0,
@@ -193,6 +209,14 @@
             "phaseId": 0
         },
         {
+            "id": 1026,
+            "stepDetail": "击杀所有敌方单位 {0}/27",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
             "id": 1027,
             "stepDetail": "击杀所有敌方单位 {0}/28",
             "stepId": 0,
@@ -201,8 +225,40 @@
             "phaseId": 0
         },
         {
+            "id": 1028,
+            "stepDetail": "击杀所有敌方单位 {0}/29",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
             "id": 1029,
             "stepDetail": "击杀所有敌方单位 {0}/30",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 1031,
+            "stepDetail": "击杀所有敌方单位 {0}/32",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 1033,
+            "stepDetail": "击杀所有敌方单位 {0}/34",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 1035,
+            "stepDetail": "击杀所有敌方单位 {0}/36",
             "stepId": 0,
             "stageId": 0,
             "stepType": 0,
@@ -531,6 +587,14 @@
         {
             "id": 2025,
             "stepDetail": "或击杀所有敌方单位 {0}/25",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 2026,
+            "stepDetail": "或击杀所有敌方单位 {0}/26",
             "stepId": 0,
             "stageId": 0,
             "stepType": 0,
@@ -1025,6 +1089,14 @@
             "phaseId": 0
         },
         {
+            "id": 5011,
+            "stepDetail": "击杀御导圣盾SWAP",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
             "id": 5101,
             "stepDetail": "击杀指定标记单位",
             "stepId": 0,
@@ -1187,6 +1259,22 @@
         {
             "id": 5121,
             "stepDetail": "击杀六分仪？",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 5122,
+            "stepDetail": "击杀妮特No.249",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 5123,
+            "stepDetail": "将六分仪？血量降到30%以下",
             "stepId": 0,
             "stageId": 0,
             "stepType": 0,
@@ -3218,7 +3306,7 @@
         },
         {
             "id": 9209,
-            "stepDetail": "阻止敌方控制所有我方守备点10回合",
+            "stepDetail": "阻止敌方控制所有守备点10回合",
             "stepId": 0,
             "stageId": 0,
             "stepType": 0,
@@ -3243,6 +3331,94 @@
         {
             "id": 9212,
             "stepDetail": "击杀百式圣盾SWAP",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9213,
+            "stepDetail": "9回合内占领守备点并保护守备点6回合",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9214,
+            "stepDetail": "击杀指定标记单位{0}/2后全员撤离",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9215,
+            "stepDetail": "等待炸药爆炸{0}/4",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9216,
+            "stepDetail": "阻止敌人拆除炸药",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9217,
+            "stepDetail": "击杀所有徒从-015二型：{0}/6",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9218,
+            "stepDetail": "击杀徒卫-052：{0}/1",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9219,
+            "stepDetail": "击杀百式圣盾SWAP：{0}/1",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9220,
+            "stepDetail": "在任一标记地格处布设火药箱",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9221,
+            "stepDetail": "控制守备点并至少撤离2个我方单位：{0}/2",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9222,
+            "stepDetail": "阻止敌人拆除炸药",
+            "stepId": 0,
+            "stageId": 0,
+            "stepType": 0,
+            "phaseId": 0
+        },
+        {
+            "id": 9224,
+            "stepDetail": "控制守备点并击杀指定目标：\n{0}/3",
             "stepId": 0,
             "stageId": 0,
             "stepType": 0,

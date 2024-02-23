@@ -722,31 +722,34 @@
         {
             "id": 10205,
             "questName": "强敌聚焦I",
-            "questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，把它们彻底变回废铁吧！",
-            "questStructSceneId": 1101,
-            "questLevel": 60,
+            "questDesc": "这些愚蠢的狩猎者，总是会把地狱当做淘金地。他们的人性已经无法回归，结束他们的痛苦吧。",
+            "questStructSceneId": 1117,
+            "questLevel": 58,
             "questRewardshow": 110202,
             "questRewarddetailshow": {
-                "1": 100,
-                "2": 6000,
-                "12": 1
+                "1": 120,
+                "2": 6500,
+                "25": 6500,
+                "8301": 9500
             },
             "questReward": {
-                "2": 6000,
-                "1": 100,
-                "12": 1
+                "2": 6500,
+                "8301": 9500,
+                "1": 120,
+                "25": 6500
             },
-            "questType": 101,
-            "questTarget": "找到指定敌方单位獠牙铁兽，将其消灭。",
+            "questType": 102,
+            "questTarget": "消灭敌方单位纵火者，找到撤离信号站，完成撤离。",
             "questPic": "Img_DarkzoneQuest_Pic_11",
             "questMapmark": [
-                "838:550:18",
-                "158:708:17"
+                "184:370:18",
+                "584:764:1"
             ],
             "dzMode": 1,
             "battleOverRecovery": true,
             "resultShow": [
-                "1:1008"
+                "1:1001",
+                "3:1008"
             ],
             "unlock1": 45,
             "unlock2": [
@@ -765,29 +768,35 @@
         {
             "id": 10206,
             "questName": "强敌聚焦II",
-            "questDesc": "这些毫无秩序的匪徒在待勘测区里横冲直撞！希望你能让他们永远闭嘴。",
-            "questStructSceneId": 1101,
+            "questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，把它们彻底变回废铁吧！",
+            "questStructSceneId": 1118,
             "questLevel": 60,
             "questRewardshow": 110202,
             "questRewarddetailshow": {
-                "1": 100,
-                "2": 6000,
-                "12": 1
+                "1": 120,
+                "2": 6500,
+                "25": 6750,
+                "8301": 9750
             },
             "questReward": {
-                "2": 6000,
-                "1": 100,
-                "12": 1
+                "2": 6500,
+                "8301": 9750,
+                "1": 120,
+                "25": 6750
             },
             "questType": 103,
-            "questTarget": "找到指定敌方单位纵火者，将其消灭。",
+            "questTarget": "消灭敌方单位堡垒泰坦后，找到撤离信号站，完成撤离。",
             "questPic": "Img_DarkzoneQuest_Pic_13",
             "questMapmark": [
-                "332:212:18",
-                "330:748:15"
+                "932:212:18",
+                "64:700:15",
+                "330:748:17"
             ],
             "dzMode": 1,
             "battleOverRecovery": true,
+            "resultShow": [
+                "1:1008"
+            ],
             "unlock1": 45,
             "unlock2": [
                 10101
@@ -800,39 +809,36 @@
             "targetenemyShow": "",
             "equipLoss": false,
             "targetGroupId": [],
-            "resultShow": [],
             "recommendShow": false
         },
         {
             "id": 10207,
             "questName": "强敌聚焦III",
             "questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，把它们彻底变回废铁吧！",
-            "questStructSceneId": 1101,
+            "questStructSceneId": 1119,
             "questLevel": 60,
             "questRewardshow": 110202,
             "questRewarddetailshow": {
-                "1": 100,
-                "2": 6000,
-                "12": 1
+                "1": 120,
+                "2": 6500,
+                "25": 7000,
+                "8301": 10000
             },
             "questReward": {
-                "2": 6000,
-                "1": 100,
-                "12": 1
+                "2": 6500,
+                "8301": 10000,
+                "1": 120,
+                "25": 7000
             },
-            "questType": 102,
-            "questTarget": "找到獠牙铁兽，尖喙铁兽，断角铁兽其中之一，将其消灭。",
+            "questType": 101,
+            "questTarget": "找到指定敌方单位黑眼·弃形，将其消灭。",
             "questPic": "Img_DarkzoneQuest_Pic_15",
             "questMapmark": [
-                "158:536:18",
-                "502:536:17",
-                "676:654:15"
+                "300:766:18",
+                "768:514:17"
             ],
             "dzMode": 1,
             "battleOverRecovery": true,
-            "resultShow": [
-                "1:2001"
-            ],
             "unlock1": 45,
             "unlock2": [
                 10101
@@ -845,31 +851,35 @@
             "targetenemyShow": "",
             "equipLoss": false,
             "targetGroupId": [],
+            "resultShow": [],
             "recommendShow": false
         },
         {
             "id": 10208,
             "questName": "强敌聚焦IV",
             "questDesc": "当心点，留在这里的每一秒，都威胁着你的生命！",
-            "questStructSceneId": 1101,
+            "questStructSceneId": 1120,
             "questLevel": 60,
             "questRewardshow": 110202,
             "questRewarddetailshow": {
-                "1": 100,
-                "2": 6000,
-                "12": 1
+                "1": 120,
+                "2": 6500,
+                "25": 7500,
+                "8301": 10500
             },
             "questReward": {
-                "2": 6000,
-                "1": 100,
-                "12": 1
+                "2": 6500,
+                "8301": 10500,
+                "1": 120,
+                "25": 7500
             },
             "questType": 103,
-            "questTarget": "找到撤离信号站，完成撤离。",
+            "questTarget": "避开敌方单位黑眼·弃形的追击，找到撤离信号站，完成撤离。",
             "questPic": "Img_DarkzoneQuest_Pic_16",
             "questMapmark": [
-                "328:214:18",
-                "298:712:15"
+                "168:620:18",
+                "834:416:15",
+                "176:710:17"
             ],
             "dzMode": 1,
             "battleOverRecovery": true,
@@ -901,13 +911,15 @@
             "questRewardshow": 110202,
             "questRewarddetailshow": {
                 "1": 120,
-                "2": 8000,
-                "12": 1
+                "2": 7500,
+                "25": 7500,
+                "8301": 11000
             },
             "questReward": {
-                "2": 8000,
+                "2": 7500,
+                "8301": 11000,
                 "1": 120,
-                "12": 1
+                "25": 7500
             },
             "questType": 101,
             "questTarget": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
@@ -942,13 +954,15 @@
             "questRewardshow": 110202,
             "questRewarddetailshow": {
                 "1": 120,
-                "2": 8000,
-                "12": 1
+                "2": 7500,
+                "25": 8000,
+                "8301": 11500
             },
             "questReward": {
-                "2": 8000,
+                "2": 7500,
+                "8301": 11500,
                 "1": 120,
-                "12": 1
+                "25": 8000
             },
             "questType": 101,
             "questTarget": "找到指定敌方单位纵火者，将其消灭。",
@@ -983,13 +997,15 @@
             "questRewardshow": 110202,
             "questRewarddetailshow": {
                 "1": 120,
-                "2": 8000,
-                "12": 1
+                "2": 7500,
+                "25": 8500,
+                "8301": 12000
             },
             "questReward": {
-                "2": 8000,
+                "2": 7500,
+                "8301": 12000,
                 "1": 120,
-                "12": 1
+                "25": 8500
             },
             "questType": 102,
             "questTarget": "找到指定敌方单位黑眼，将其消灭。",
@@ -1025,13 +1041,15 @@
             "questRewardshow": 110202,
             "questRewarddetailshow": {
                 "1": 120,
-                "2": 8000,
-                "12": 1
+                "2": 7500,
+                "25": 9000,
+                "8301": 12500
             },
             "questReward": {
-                "2": 8000,
+                "2": 7500,
+                "8301": 12500,
                 "1": 120,
-                "12": 1
+                "25": 9000
             },
             "questType": 101,
             "questTarget": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
@@ -2591,7 +2609,7 @@
             "id": 20101,
             "questName": "推车正式关卡",
             "questDesc": "推车正式关卡",
-            "questStructSceneId": 2101,
+            "questStructSceneId": 1101,
             "questLevel": 56,
             "questRewardshow": 110202,
             "questRewarddetailshow": {
@@ -2802,7 +2820,7 @@
             "id": 99901,
             "questName": "美术医院测试",
             "questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，把它们彻底变回废铁吧！",
-            "questStructSceneId": 2101,
+            "questStructSceneId": 1101,
             "questLevel": 52,
             "questRewardshow": 110202,
             "questRewarddetailshow": {
@@ -2841,7 +2859,7 @@
             "id": 99903,
             "questName": "医院测试02",
             "questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，把它们彻底变回废铁吧！",
-            "questStructSceneId": 2101,
+            "questStructSceneId": 1101,
             "questLevel": 56,
             "questRewardshow": 110202,
             "questRewarddetailshow": {
@@ -2881,7 +2899,7 @@
             "id": 99904,
             "questName": "医院外围",
             "questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，把它们彻底变回废铁吧！",
-            "questStructSceneId": 2101,
+            "questStructSceneId": 1101,
             "questLevel": 56,
             "questRewardshow": 110202,
             "questRewarddetailshow": {

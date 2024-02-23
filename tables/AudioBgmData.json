@@ -253,7 +253,7 @@
         },
         {
             "id": 26,
-            "interfaceName": "UISimCombatGunExpPanel",
+            "interfaceName": "UISimCombatEquipPanel",
             "audioName": [
                 30027
             ],
@@ -843,10 +843,10 @@
         },
         {
             "id": 85,
-            "interfaceName": "ActivityTourMainPanel",
             "audioName": [
                 30083
             ],
+            "interfaceName": "",
             "priority": 0,
             "selector": "",
             "track": ""
@@ -994,6 +994,56 @@
         {
             "id": 100,
             "interfaceName": "UIHardChapterDetailPanel",
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
+            "priority": 0
+        },
+        {
+            "id": 101,
+            "interfaceName": "UIShootChrEnterPanel",
+            "audioName": [
+                30088
+            ],
+            "priority": 0,
+            "selector": "",
+            "track": ""
+        },
+        {
+            "id": 102,
+            "interfaceName": "LennaMainPanel",
+            "audioName": [
+                30090
+            ],
+            "priority": 0,
+            "selector": "",
+            "track": ""
+        },
+        {
+            "id": 103,
+            "interfaceName": "ActivityTourMainPanel",
+            "audioName": [
+                30089
+            ],
+            "priority": 0,
+            "selector": "",
+            "track": ""
+        },
+        {
+            "id": 104,
+            "interfaceName": "UIActivityDialog",
+            "audioName": [
+                30027
+            ],
+            "selector": "MainMenu",
+            "track": "Lobby",
+            "priority": 0
+        },
+        {
+            "id": 105,
+            "interfaceName": "UIHardChapterSelectPanelV2",
             "audioName": [
                 30027
             ],

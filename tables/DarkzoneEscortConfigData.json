@@ -464,12 +464,11 @@
         },
         {
             "id": 201,
-            "maxHp": 1000,
-            "birthHp": 1000,
-            "speed": 280,
+            "maxHp": 2000,
+            "birthHp": 2000,
+            "speed": 250,
             "moveRespond": 360,
-            "lostTime": 9999,
-            "tempControl": true,
+            "lostTime": 90,
             "switchControl": true,
             "maxTemp": 200,
             "riseTemp": 5,
@@ -495,14 +494,15 @@
             "battleLost": 100,
             "isRevert": true,
             "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
+            "revertSpeed": 200,
             "recoverHp": 0,
             "lostAlarm": 0,
             "lostExchange": 0,
+            "tempControl": false,
             "birthTemp": 0,
             "odRelieveTemp": 0,
-            "isRoomBattle": false
+            "isRoomBattle": false,
+            "carrierDebuff": 0
         }
     ]
 }

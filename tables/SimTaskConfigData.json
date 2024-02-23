@@ -10,6 +10,28 @@
             "avatarGroup": 101,
             "name": "特调沙龙开业筹备",
             "unlockDayNum": 0
+        },
+        {
+            "id": 501,
+            "rewardGroup": 501,
+            "taskGroup": 501,
+            "pointIcon": "Img_GashaponPic_W_1",
+            "sceneGroup": 101,
+            "scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+            "avatarGroup": 101,
+            "name": "小试身手",
+            "unlockDayNum": 0
+        },
+        {
+            "id": 502,
+            "unlockDayNum": 2880,
+            "rewardGroup": 501,
+            "taskGroup": 501,
+            "pointIcon": "Img_GashaponPic_W_1",
+            "sceneGroup": 101,
+            "scenePath": "Assets/ArtsResource/Scene/ThemeActivity/ActivitySimCafe/Activity_SimCafe.unity",
+            "avatarGroup": 101,
+            "name": "小试身手"
         }
     ]
 }

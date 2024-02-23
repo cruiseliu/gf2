@@ -25,6 +25,19 @@
             ],
             "priority": 2,
             "prologue": 0
+        },
+        {
+            "id": 6,
+            "name": "交织突进",
+            "unlockId": 29301,
+            "activityType": 1,
+            "activityEntrance": [
+                311,
+                312,
+                313
+            ],
+            "priority": 3,
+            "prologue": 0
         }
     ]
 }

@@ -16,6 +16,36 @@
             "keepSubmodule": {}
         },
         {
+            "id": 112102,
+            "stageType": 1,
+            "type": 122,
+            "activitySubmodule": {
+                "1011": 1001
+            },
+            "activityRole": "",
+            "activityMainBg": "",
+            "activityInformation": "",
+            "entranceType": {
+                "1011": 1
+            },
+            "keepSubmodule": {}
+        },
+        {
+            "id": 112103,
+            "stageType": 1,
+            "type": 122,
+            "activitySubmodule": {
+                "1011": 1002
+            },
+            "activityRole": "",
+            "activityMainBg": "",
+            "activityInformation": "",
+            "entranceType": {
+                "1011": 1
+            },
+            "keepSubmodule": {}
+        },
+        {
             "id": 113101,
             "stageType": 1,
             "type": 131,
@@ -36,8 +66,8 @@
             "type": 221,
             "activitySubmodule": {
                 "3002": 101,
-                "4001": 101,
                 "5001": 101,
+                "4001": 101,
                 "2001": 4001
             },
             "keepSubmodule": {
@@ -48,7 +78,57 @@
             "activityInformation": "一次采风之旅，一场城市欢宴。\n庆典在即，变故徒生，循着回忆中的歌谣，黛烟将谱出怎样的旋律？",
             "entranceType": {
                 "3002": 1,
+                "5001": 1,
                 "4001": 1,
+                "2001": 1
+            }
+        },
+        {
+            "id": 222102,
+            "stageType": 2,
+            "type": 221,
+            "activitySubmodule": {
+                "2002": 994003,
+                "4001": 102,
+                "5001": 102,
+                "3002": 102,
+                "2001": 4003
+            },
+            "keepSubmodule": {
+                "5001": 11
+            },
+            "activityRole": "Avatar_Daiyan",
+            "activityMainBg": "Img_DaiyanMain_Bg",
+            "activityInformation": "旷野之上危机四伏，虚拟空间险境交织。\n为了应对现实与虚拟的双重威胁，来和莱娜一起训练，掌握防御技巧吧！",
+            "entranceType": {
+                "2002": 1,
+                "4001": 1,
+                "3002": 1,
+                "5001": 1,
+                "2001": 1
+            }
+        },
+        {
+            "id": 222103,
+            "stageType": 2,
+            "type": 221,
+            "activitySubmodule": {
+                "2002": 994004,
+                "4001": 104,
+                "3002": 103,
+                "5001": 103,
+                "2001": 4006
+            },
+            "keepSubmodule": {
+                "5001": 11
+            },
+            "activityRole": "Avatar_Daiyan",
+            "activityMainBg": "Img_DaiyanMain_Bg",
+            "activityInformation": "旷野之上危机四伏，虚拟空间险境交织。\n为了应对现实与虚拟的双重威胁，来和莱娜一起训练，掌握防御技巧吧！",
+            "entranceType": {
+                "2002": 1,
+                "4001": 1,
+                "3002": 1,
                 "5001": 1,
                 "2001": 1
             }
@@ -89,6 +169,50 @@
             "entranceType": {
                 "3002": 2,
                 "4001": 1,
+                "5001": 1,
+                "2001": 2
+            }
+        },
+        {
+            "id": 322102,
+            "stageType": 3,
+            "type": 221,
+            "activitySubmodule": {
+                "4001": 102,
+                "5001": 102
+            },
+            "keepSubmodule": {
+                "5001": 11
+            },
+            "activityRole": "Avatar_Daiyan",
+            "activityMainBg": "Img_DaiyanMain_Bg",
+            "activityInformation": "活动已结束，\n当前可继续参与惊喜数据池和循迹追踪。",
+            "entranceType": {
+                "2002": 2,
+                "4001": 1,
+                "3002": 2,
+                "5001": 1,
+                "2001": 2
+            }
+        },
+        {
+            "id": 322103,
+            "stageType": 3,
+            "type": 221,
+            "activitySubmodule": {
+                "4001": 104,
+                "5001": 103
+            },
+            "keepSubmodule": {
+                "5001": 11
+            },
+            "activityRole": "Avatar_Daiyan",
+            "activityMainBg": "Img_DaiyanMain_Bg",
+            "activityInformation": "活动已结束，\n当前可继续参与惊喜数据池和循迹追踪。",
+            "entranceType": {
+                "2002": 2,
+                "4001": 1,
+                "3002": 2,
                 "5001": 1,
                 "2001": 2
             }

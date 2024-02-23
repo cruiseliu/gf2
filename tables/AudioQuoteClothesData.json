@@ -1,17 +1,6 @@
 {
     "data": [
         {
-            "Id": 1001,
-            "typeCode": 1,
-            "model": "CharolicSR01",
-            "clothId": 201,
-            "shoesId": 2,
-            "audioVoice": 114,
-            "cuesheetUsed": [
-                "C_SR01_Charolic"
-            ]
-        },
-        {
             "Id": 1008,
             "typeCode": 1,
             "model": "NemesisSR01",
@@ -38,11 +27,14 @@
         {
             "Id": 1013,
             "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
+            "model": "LennaSR01",
+            "clothId": 201,
+            "shoesId": 3,
+            "audioVoice": 118,
+            "cuesheetUsed": [
+                "C_SSR01_Lenna",
+                "Gun_SMG"
+            ]
         },
         {
             "Id": 1015,
@@ -435,6 +427,18 @@
             "shoesId": 0,
             "audioVoice": 0,
             "cuesheetUsed": []
+        },
+        {
+            "Id": 101305,
+            "typeCode": 1,
+            "model": "LennaSSR0105",
+            "clothId": 202,
+            "shoesId": 2,
+            "audioVoice": 118,
+            "cuesheetUsed": [
+                "C_SSR01_Lenna",
+                "Gun_SMG"
+            ]
         },
         {
             "Id": 101501,

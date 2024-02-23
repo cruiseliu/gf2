@@ -14,7 +14,7 @@ attrs = {
 
 def main():
 
-    for doll in Tables.GunData:
+    for doll in sort_dolls():
         #if doll['name'] != '闪电':
         #    continue
         print()
@@ -24,7 +24,8 @@ def main():
         rank = doll['rank']
 
         doll_id = doll['id']
-        get_talents(doll_id)
+        talents = get_talents(doll_id)
+        text = format_talents(doll, *talents)
 
         Path('wiki').mkdir(parents=True, exist_ok=True)
         Path(f'wiki/{doll_name}-talents.wiki').write_text(text)
@@ -84,9 +85,10 @@ def get_talents(doll_id: int) -> tuple[list, list, dict]:
 
     return stat_nodes, skill_nodes, final_node
 
-def format_talents(stat_nodes, skill_nodes, final_node):
+def format_talents(doll, stat_nodes, skill_nodes, final_node):
     lines = []
 
+    doll_id = doll['id']
     rank = Tables.GunData[doll_id]['rank']
     line = f'|rank={rank}'
     lines.append(line)

@@ -37,9 +37,9 @@
                 "101": 10
             },
             "sweepReward": {
-                "200": 10,
+                "25": 20,
                 "170001": 100,
-                "25": 20
+                "200": 10
             },
             "maxRewardPoint": 4,
             "sweepTimes": 10,
@@ -120,8 +120,8 @@
             "enemyLevel": 28,
             "frontStageId": 102,
             "firstRewardItem": {
-                "22043": 1,
-                "170001": 300
+                "170001": 300,
+                "22043": 1
             },
             "maxRound": 24,
             "promptRound": 20,
@@ -148,8 +148,8 @@
                 "170005": 1,
                 "25": 20,
                 "170004": 1,
-                "170001": 140,
                 "170006": 1,
+                "170001": 140,
                 "170007": 1,
                 "200": 10
             },
@@ -203,8 +203,8 @@
                 "170005": 1,
                 "25": 20,
                 "170004": 1,
-                "170006": 1,
                 "170001": 160,
+                "170006": 1,
                 "170007": 1,
                 "200": 10
             },
@@ -258,8 +258,8 @@
                 "170005": 1,
                 "25": 20,
                 "170004": 1,
-                "170001": 180,
                 "170006": 1,
+                "170001": 180,
                 "170007": 1,
                 "200": 10
             },
@@ -370,8 +370,8 @@
                 "170005": 1,
                 "25": 20,
                 "170004": 1,
-                "170001": 220,
                 "170006": 1,
+                "170001": 220,
                 "170007": 1,
                 "200": 10
             },
@@ -379,6 +379,449 @@
             "sweepTimes": 10,
             "unlockItemNum": {},
             "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102011,
+            "name": "宏病毒·一",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage1",
+            "sugLevel": 15,
+            "enemyLevel": 15,
+            "firstRewardItem": {
+                "170103": 300
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102011,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13101
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "200": 10,
+                "170103": 60,
+                "25": 20
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "frontStageId": 0,
+            "unlockItemNum": {},
+            "unlockDayNum": 0,
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102012,
+            "name": "宏病毒·二",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage2",
+            "sugLevel": 16,
+            "enemyLevel": 16,
+            "frontStageId": 102011,
+            "unlockDayNum": 1440,
+            "firstRewardItem": {
+                "170103": 300
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102012,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13102
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "25": 20,
+                "170103": 70,
+                "200": 10
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102013,
+            "name": "宏病毒·三",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage3",
+            "sugLevel": 17,
+            "enemyLevel": 17,
+            "frontStageId": 102012,
+            "unlockDayNum": 2880,
+            "firstRewardItem": {
+                "22054": 1,
+                "170103": 300
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102013,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13103
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "25": 20,
+                "170103": 80,
+                "200": 10
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102021,
+            "name": "慢攻击·一",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage1",
+            "sugLevel": 19,
+            "enemyLevel": 19,
+            "frontStageId": 102013,
+            "unlockDayNum": 4320,
+            "firstRewardItem": {
+                "170103": 300
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102021,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13104
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "25": 20,
+                "170103": 90,
+                "200": 10
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102022,
+            "name": "慢攻击·二",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage2",
+            "sugLevel": 21,
+            "enemyLevel": 21,
+            "frontStageId": 102021,
+            "unlockDayNum": 5760,
+            "firstRewardItem": {
+                "170103": 300
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102022,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3018,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13105
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "200": 10,
+                "170103": 100,
+                "25": 20
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102023,
+            "name": "慢攻击·三",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage3",
+            "sugLevel": 23,
+            "enemyLevel": 23,
+            "frontStageId": 102022,
+            "unlockDayNum": 7200,
+            "firstRewardItem": {
+                "170103": 300,
+                "22055": 1
+            },
+            "maxRound": 12,
+            "promptRound": 8,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102023,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3018,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13106
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "25": 20,
+                "170103": 110,
+                "200": 10
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102031,
+            "name": "超负荷·一",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage1",
+            "sugLevel": 25,
+            "enemyLevel": 25,
+            "frontStageId": 102023,
+            "unlockDayNum": 8640,
+            "firstRewardItem": {
+                "170103": 300
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102031,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13107
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "200": 10,
+                "170103": 120,
+                "25": 20
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102032,
+            "name": "超负荷·二",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage2",
+            "sugLevel": 28,
+            "enemyLevel": 28,
+            "frontStageId": 102031,
+            "unlockDayNum": 10080,
+            "firstRewardItem": {
+                "170103": 300
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102032,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3003,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13108
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "25": 20,
+                "170103": 130,
+                "200": 10
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102033,
+            "name": "超负荷·三",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage3",
+            "sugLevel": 31,
+            "enemyLevel": 31,
+            "frontStageId": 102032,
+            "unlockDayNum": 11520,
+            "firstRewardItem": {
+                "170103": 300
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102033,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3018,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13109
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "25": 20,
+                "170103": 140,
+                "200": 10
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
+            "rewardItem": {},
+            "roundPoint": 0,
+            "rewardRule": 0
+        },
+        {
+            "id": 102034,
+            "name": "超负荷·四",
+            "stageIcon": "Img_ActivityTour_Difficulty_Stage4",
+            "sugLevel": 35,
+            "enemyLevel": 35,
+            "frontStageId": 102033,
+            "unlockDayNum": 12960,
+            "firstRewardItem": {
+                "170103": 300,
+                "22056": 1
+            },
+            "maxRound": 15,
+            "promptRound": 10,
+            "token": 170102,
+            "maxOrderNumber": 5,
+            "initialPoint": 80,
+            "doll": 4,
+            "mapId": 102034,
+            "cost": {
+                "101": 20
+            },
+            "canSweep": true,
+            "pptId": 3018,
+            "tokenIcon": "Item_Icon_Credit_ActivityLaina",
+            "roundOccupyPoint": 5,
+            "sweepUnlock": [
+                13110
+            ],
+            "sweepCost": {
+                "101": 10
+            },
+            "sweepReward": {
+                "25": 20,
+                "170103": 150,
+                "200": 10
+            },
+            "maxRewardPoint": 8,
+            "sweepTimes": 10,
+            "dropShow": [],
+            "unlockItemNum": {},
             "rewardItem": {},
             "roundPoint": 0,
             "rewardRule": 0

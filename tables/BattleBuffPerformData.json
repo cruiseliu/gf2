@@ -7986,7 +7986,7 @@
         {
             "id": 300002,
             "name": "失能",
-            "description": "行动结束时，降低自身<color=#f26c1c>10%</color>的生命上限，生命上限降低效果可叠加，<color=#3487e0>失能</color>状态消失时返还因<color=#3487e0>失能</color>减少的生命上限。可叠加，酸蚀类减益。",
+            "description": "行动结束时，降低自身<color=#f26c1c>10%</color>的生命上限，生命上限降低效果可叠加，<color=#3487e0>失能</color>状态消失时返还因<color=#3487e0>失能</color>减少的生命上限。可叠加。酸蚀类减益。",
             "descriptionTips": "",
             "buffEffect": "Buff/6432201_Buff",
             "effectPlayTime": [
@@ -8014,7 +8014,7 @@
         {
             "id": 300003,
             "name": "失能",
-            "description": "行动结束时，降低自身<color=#f26c1c>10%</color>的生命上限，生命上限降低效果可叠加，<color=#3487e0>失能</color>状态消失时返还因<color=#3487e0>失能</color>减少的生命上限。可叠加，酸蚀类减益。",
+            "description": "行动结束时，降低自身<color=#f26c1c>10%</color>的生命上限，生命上限降低效果可叠加，<color=#3487e0>失能</color>状态消失时返还因<color=#3487e0>失能</color>减少的生命上限。可叠加。酸蚀类减益。",
             "descriptionTips": "",
             "buffEffect": "Buff/6432201_Buff",
             "effectPlayTime": [
@@ -10216,7 +10216,7 @@
         {
             "id": 350501,
             "name": "麻痹",
-            "description": "指令禁止，禁止使用普通攻击和主动技能，电导类减益。",
+            "description": "指令禁止，禁止使用普通攻击和主动技能。电导类减益。",
             "descriptionTips": "",
             "buffEffect": "Buff/Paralysis",
             "effectPlayTime": [
@@ -10244,7 +10244,7 @@
         {
             "id": 350502,
             "name": "麻痹",
-            "description": "指令禁止，禁止使用普通攻击和主动技能，电导类减益。",
+            "description": "指令禁止，禁止使用普通攻击和主动技能。电导类减益。",
             "descriptionTips": "",
             "buffEffect": "Buff/Paralysis",
             "effectPlayTime": [
@@ -10272,7 +10272,7 @@
         {
             "id": 350503,
             "name": "麻痹",
-            "description": "指令禁止，禁止使用普通攻击和主动技能，电导类减益。",
+            "description": "指令禁止，禁止使用普通攻击和主动技能。电导类减益。",
             "descriptionTips": "",
             "buffEffect": "Buff/Paralysis",
             "effectPlayTime": [
@@ -10372,7 +10372,7 @@
         {
             "id": 351602,
             "name": "触电",
-            "description": "每移动<color=#f26c1c>1格</color>，受到状态施加者<color=#f26c1c>5%</color>攻击力的固定伤害，电导类减益。",
+            "description": "每移动<color=#f26c1c>1格</color>，受到状态施加者<color=#f26c1c>5%</color>攻击力的固定伤害。电导类减益。",
             "descriptionTips": "",
             "buffEffect": "Buff/Dot_shock|Skill/Dot_shock_break",
             "effectPlayTime": [
@@ -11346,6 +11346,30 @@
             "buffHeadShow": 0,
             "showPriorityIcon": 0,
             "isLoop": ""
+        },
+        {
+            "id": 510805,
+            "name": "",
+            "description": "",
+            "descriptionTips": "",
+            "buffEffect": "Skill/Dot_shock_break_Audio",
+            "effectPlayTime": [
+                1
+            ],
+            "effectFadeTime": "60",
+            "effectFollowType": "1",
+            "effectBirthType": "104",
+            "effectTypeGroup": "0",
+            "isLoop": "0",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "iconName": "",
+            "isShow": false,
+            "buffHeadShow": 0,
+            "showPriorityIcon": 0
         },
         {
             "id": 600002,
@@ -12599,6 +12623,101 @@
             "isLoop": ""
         },
         {
+            "id": 6000090,
+            "name": "反扑",
+            "description": "行动力提高<color=#f26c1c>2点</color>，造成的伤害提升<color=#f26c1c>50%</color>，增益可驱散。",
+            "descriptionTips": "",
+            "iconName": "Buff_Strong",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 6000111,
+            "name": "承压",
+            "description": "造成伤害降低<color=#f26c1c>20%</color>，最多可叠加<color=#f26c1c>3层</color>，减益可驱散。",
+            "descriptionTips": "",
+            "iconName": "Buff_DamageDown",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 6000141,
+            "name": "小型防护罩",
+            "description": "不会受到普通攻击和技能造成的伤害，受到<color=#f26c1c>1次</color>普通攻击或技能攻击后解除，可驱散增益。",
+            "descriptionTips": "",
+            "buffEffect": "Buff/61152201_Invincible2|Buff/61152201_Invincible",
+            "effectPlayTime": [
+                1,
+                3
+            ],
+            "effectFadeTime": "0|90",
+            "cameraPlayTime": [
+                1
+            ],
+            "cameraTime": [
+                60
+            ],
+            "effectFollowType": "1|1",
+            "effectBirthType": "104|104",
+            "effectTypeGroup": "0|0",
+            "iconName": "Buff_Invincible",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "isLoop": "1|0",
+            "shaderType": 0,
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0
+        },
+        {
+            "id": 6000161,
+            "name": "急救",
+            "description": "受到致命伤害时，恢复<color=#f26c1c>1%</color>最大生命值，每回合生效<color=#f26c1c>1次</color>。增益不可驱散。",
+            "descriptionTips": "",
+            "iconName": "Buff_SelfHeal",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
             "id": 6110501,
             "name": "",
             "description": "",
@@ -13486,22 +13605,22 @@
             "descriptionTips": "",
             "buffEffect": "Skill/6145201_StableD",
             "effectPlayTime": [
-                3
+                1
             ],
             "effectFadeTime": "0",
             "effectFollowType": "1",
-            "effectBirthType": "104",
-            "iconName": "Buff_Oljefat1",
+            "effectBirthType": "109",
+            "iconName": "Buff_WillSub",
             "isShow": true,
             "buffHeadShow": 1,
+            "isLoop": "0",
             "shaderType": 0,
             "cameraPlayTime": [],
             "cameraTime": [],
             "effectTypeGroup": "",
             "showPriorityEffect": 0,
             "buffFix": 0,
-            "showPriorityIcon": 0,
-            "isLoop": ""
+            "showPriorityIcon": 0
         },
         {
             "id": 6151400,
@@ -14872,8 +14991,8 @@
         },
         {
             "id": 6247301,
-            "name": "浑浊",
-            "description": "拥有<浑浊>时，攻击敌方目标后会随机为目标施加1个持续时间2回合的减益效果。",
+            "name": "鳞粉附着",
+            "description": "拥有<color=#3487e0>鳞粉附着</color>时，攻击敌方目标后会随机为目标施加<color=#f26c1c>1个</color>持续时间<color=#f26c1c>2回合</color>的减益效果。增益效果。",
             "descriptionTips": "",
             "buffEffect": "Skill/6247301_Turbid",
             "effectPlayTime": [
@@ -15778,8 +15897,8 @@
         },
         {
             "id": 6347200,
-            "name": "过载加速",
-            "description": "移动力增加1格，可叠加，不可被驱散。",
+            "name": "阶段唤醒",
+            "description": "移动力增加<color=#f26c1c>1格</color>，可叠加，增益不可被驱散。",
             "descriptionTips": "",
             "buffEffect": "Buff/SpeedU|Buff/SpeedU",
             "effectPlayTime": [
@@ -15796,7 +15915,7 @@
             "effectFollowType": "1|1",
             "effectBirthType": "109|109",
             "effectTypeGroup": "0|0",
-            "iconName": "Buff_DefUp",
+            "iconName": "Buff_SpeedUp",
             "isShow": true,
             "buffHeadShow": 1,
             "isLoop": "0|0",
@@ -15807,10 +15926,10 @@
         },
         {
             "id": 6347201,
-            "name": "追击",
-            "description": "集控式歌利亚优先向<追击>目标移动，不可驱散。",
+            "name": "御导标记",
+            "description": "集控式歌利亚优先向<color=#3487e0>御导标记</color>目标移动，不可驱散。",
             "descriptionTips": "",
-            "iconName": "Buff_U039SniperPoison1",
+            "iconName": "Buff_GolyatNeutral1",
             "isShow": true,
             "buffHeadShow": 1,
             "buffEffect": "",
@@ -15830,7 +15949,7 @@
         {
             "id": 6347300,
             "name": "防御提升",
-            "description": "防御提升<color=#f26c1c>20%</color>。",
+            "description": "防御提升<color=#f26c1c>20%</color>。增益不可被驱散。",
             "descriptionTips": "",
             "buffEffect": "Buff/DefU|Buff/DefU",
             "effectPlayTime": [
@@ -15974,10 +16093,10 @@
         },
         {
             "id": 6414201,
-            "name": "落魄狙击",
-            "description": "释放导染技能后，受到4点稳态伤害。",
+            "name": "衰亡刻痕",
+            "description": "释放导染技能后，受到<color=#f26c1c>4点</color>稳态伤害。减益效果。",
             "descriptionTips": "",
-            "iconName": "Buff_DefUp",
+            "iconName": "Buff_WillSub",
             "isShow": true,
             "buffHeadShow": 1,
             "buffEffect": "",
@@ -16381,10 +16500,10 @@
         },
         {
             "id": 6443202,
-            "name": "复仇印记",
-            "description": "施加者行动结束时，会将所有拥有<color=#3487e0>复仇印记</color>的敌方目标向自身方向吸附<color=#f26c1c>1格</color>，若吸附路径被阻挡，则额外造成<color=#f26c1c>30%</color>攻击力的固定伤害。不可驱散。",
+            "name": "沉默印记",
+            "description": "施加者行动结束时，会将所有拥有<color=#3487e0>沉默印记</color>的敌方目标向自身方向吸附<color=#f26c1c>1格</color>，若吸附路径被阻挡，则额外造成<color=#f26c1c>30%</color>攻击力的固定伤害。不可驱散。",
             "descriptionTips": "",
-            "iconName": "Buff_SpeedUp",
+            "iconName": "Buff_036UnitasIonNeutral",
             "isShow": true,
             "buffHeadShow": 1,
             "buffEffect": "",
@@ -16437,6 +16556,7 @@
             "iconName": "Buff_Strong",
             "isShow": true,
             "buffHeadShow": 1,
+            "isLoop": "1",
             "effectFadeTime": "",
             "shaderType": 0,
             "cameraPlayTime": [],
@@ -16444,8 +16564,7 @@
             "effectTypeGroup": "",
             "showPriorityEffect": 0,
             "buffFix": 0,
-            "showPriorityIcon": 0,
-            "isLoop": ""
+            "showPriorityIcon": 0
         },
         {
             "id": 6481601,
@@ -16650,7 +16769,7 @@
         {
             "id": 6601101,
             "name": "强效紊流",
-            "description": "被攻击时受到稳态伤害增加<color=#f26c1c>100%</color>，随后移除此效果。减益效果。",
+            "description": "被攻击时受到稳态伤害增加<color=#f26c1c>100%</color>，随后移除此效果。减益。",
             "descriptionTips": "",
             "buffEffect": "Buff/AccD",
             "effectPlayTime": [
@@ -16659,7 +16778,7 @@
             "effectFadeTime": "0",
             "effectFollowType": "1",
             "effectBirthType": "109",
-            "iconName": "Buff_Fire",
+            "iconName": "Buff_WillSub",
             "isShow": true,
             "buffHeadShow": 1,
             "shaderType": 0,
@@ -16674,7 +16793,7 @@
         {
             "id": 6601201,
             "name": "精准拦截",
-            "description": "受到精准伤害降低<color=#f26c1c>80%</color>。防御增益。",
+            "description": "受到精准伤害降低<color=#f26c1c>80%</color>。防御增益不可驱散。",
             "descriptionTips": "",
             "buffEffect": "Buff/DefU",
             "effectPlayTime": [
@@ -16683,7 +16802,7 @@
             "effectFadeTime": "0",
             "effectFollowType": "1",
             "effectBirthType": "109",
-            "iconName": "Buff_DefUp",
+            "iconName": "Buff_EnemyRedHurt",
             "isShow": true,
             "buffHeadShow": 1,
             "shaderType": 0,
@@ -17129,7 +17248,7 @@
             "effectFadeTime": "0",
             "effectFollowType": "1",
             "effectBirthType": "109",
-            "iconName": "Buff_Fire",
+            "iconName": "Buff_UKSextansNeutral2",
             "isShow": true,
             "buffHeadShow": 1,
             "isLoop": "1",
@@ -17144,7 +17263,7 @@
         {
             "id": 6858402,
             "name": "悬兵印记",
-            "description": "受到六分仪？的伤害提高<color=#f26c1c>15%</color>,稳态伤害提高<color=#f26c1c>1点</color>。可叠加，至多叠加<color=#f26c1c>9层</color>，减益不可驱散。",
+            "description": "受到六分仪？的伤害提高<color=#f26c1c>15%</color>，稳态伤害提高<color=#f26c1c>1点</color>。可叠加，至多叠加<color=#f26c1c>9层</color>，减益不可驱散。",
             "descriptionTips": "",
             "buffEffect": "Skill/6858203_Light",
             "effectPlayTime": [
@@ -17153,7 +17272,7 @@
             "effectFadeTime": "0",
             "effectFollowType": "1",
             "effectBirthType": "109",
-            "iconName": "Buff_Fire",
+            "iconName": "Buff_UKSextans1",
             "isShow": true,
             "buffHeadShow": 1,
             "isLoop": "1",
@@ -17177,7 +17296,7 @@
             "effectFadeTime": "0",
             "effectFollowType": "1",
             "effectBirthType": "104",
-            "iconName": "Buff_Fire",
+            "iconName": "Buff_UKSextans3",
             "isShow": true,
             "buffHeadShow": 1,
             "shaderType": 0,
@@ -17188,6 +17307,30 @@
             "buffFix": 0,
             "showPriorityIcon": 0,
             "isLoop": ""
+        },
+        {
+            "id": 6859401,
+            "name": "着数",
+            "description": "攻击前，为目标附加与自身<color=#3487e0>着数</color>相同层数的<color=#3487e0>悬兵印记</color>；若拥有<color=#3487e0>着数</color>的单位被击杀，则移除击杀者身上全部层数的<color=#3487e0>悬兵印记</color>；拥有<color=#3487e0>着数</color>的单位行动结束时，额外增加<color=#f26c1c>2层</color><color=#3487e0>着数</color>；<color=#3487e0>着数</color>可叠加，至多叠加<color=#f26c1c>9层</color>，不可驱散。",
+            "descriptionTips": "",
+            "buffEffect": "Skill/6858204_Light",
+            "effectPlayTime": [
+                1
+            ],
+            "effectFadeTime": "0",
+            "effectFollowType": "1",
+            "effectBirthType": "109",
+            "iconName": "Buff_UKSextansNeutral2",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "isLoop": "1",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0
         },
         {
             "id": 6871101,
@@ -18055,6 +18198,34 @@
             "isLoop": ""
         },
         {
+            "id": 6903101,
+            "name": "惩戒标记",
+            "description": "叠加至<color=#f26c1c>2层</color>后，将对自身造成<color=#f26c1c>100%</color>最大生命值上限的固定伤害。",
+            "descriptionTips": "",
+            "buffEffect": "Skill/6902901_Hurt",
+            "effectPlayTime": [
+                3
+            ],
+            "effectFadeTime": "60",
+            "cameraPlayTime": [
+                3
+            ],
+            "cameraTime": [
+                60
+            ],
+            "effectFollowType": "2",
+            "effectBirthType": "109",
+            "effectTypeGroup": "0",
+            "iconName": "Buff_Tank7Neutral",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "showPriorityIcon": 10,
+            "isLoop": "0",
+            "shaderType": 0,
+            "showPriorityEffect": 0,
+            "buffFix": 0
+        },
+        {
             "id": 6903801,
             "name": "崩溃标记",
             "description": "叠加2层，眩晕原戎机甲。不可驱散。",
@@ -18189,7 +18360,7 @@
         {
             "id": 6952501,
             "name": "冰锚",
-            "description": "不会受到<color=#e67129>燃烧</color>和<color=#42cce0>冷凝伤害</color>。行动结束时。对<color=#f26c1c>自身及周围5×5格内</color>所有单位造成<color=#f26c1c>50%</color>攻击力的范围<color=#42cce0>冷凝伤害</color>与<color=#f26c1c>4点</color>稳态伤害，并消除范围内所有地格。增益不可驱散。",
+            "description": "不会受到<color=#e67129>燃烧</color>和<color=#42cce0>冷凝伤害</color>。行动结束时，对<color=#f26c1c>周围5×5格内</color>所有单位造成<color=#f26c1c>50%</color>攻击力的范围<color=#42cce0>冷凝伤害</color>与<color=#f26c1c>4点</color>稳态伤害，并消除范围内所有地格。增益不可驱散。",
             "descriptionTips": "",
             "iconName": "Buff_Eber7",
             "isShow": true,
@@ -18321,7 +18492,7 @@
         {
             "id": 6953401,
             "name": "激流",
-            "description": "行动结束时，对距离最远的友方单位及其<color=#f26c1c>周围5×5范围内</color>的所有单位造成<color=#f26c1c>50%</color>攻击力的范围<color=#2caadb>浊刻伤害</color>，并直接清除范围内的<color=#3487e0>导雷柱</color>。减益不可驱散。",
+            "description": "行动结束时，对距离最远的友方单位及其<color=#f26c1c>周围5×5范围内</color>的所有友方单位造成<color=#f26c1c>50%</color>攻击力的范围<color=#2caadb>浊刻伤害</color>，并直接清除范围内的<color=#3487e0>导雷柱</color>。减益不可驱散。",
             "descriptionTips": "",
             "iconName": "Buff_Eber8",
             "isShow": true,
@@ -25828,6 +25999,34 @@
             "showPriorityIcon": 0
         },
         {
+            "id": 69030097,
+            "name": "驱散",
+            "description": "驱散减益。",
+            "descriptionTips": "",
+            "buffEffect": "Buff/Purity",
+            "effectPlayTime": [
+                1
+            ],
+            "cameraPlayTime": [
+                1
+            ],
+            "cameraTime": [
+                60
+            ],
+            "effectFollowType": "1",
+            "effectBirthType": "109",
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "iconName": "",
+            "isShow": false,
+            "buffHeadShow": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
             "id": 70081000,
             "name": "系统连锁",
             "description": "<color=#f26c1c>自身周围半径2格内</color>的友方人形受到伤害时，为其分摊<color=#f26c1c>10%</color>的伤害。不可驱散。",
@@ -26418,6 +26617,160 @@
             "effectTypeGroup": "",
             "showPriorityEffect": 0,
             "buffFix": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 101304011,
+            "name": "电弧",
+            "description": "<color=#f26c1c>周围半径5格内</color>的敌方目标受到主动攻击前，对其施加<color=#3487e0>导电</color>，持续<color=#f26c1c>1回合</color>。不可驱散。",
+            "descriptionTips": "",
+            "iconName": "Buff_LennaSSR1Neutral",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 101304012,
+            "name": "电弧·目标",
+            "description": "被主动攻击前获得<color=#3487e0>导电</color>。",
+            "descriptionTips": "",
+            "iconName": "Buff_LennaSSR2Neutral",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 101304013,
+            "name": "隐匿",
+            "description": "当自身<color=#f26c1c>周围半径5格内</color>存在友方单位时，不会被敌方单位普攻及主动技能选中。增益不可驱散。",
+            "descriptionTips": "",
+            "iconName": "Buff_Nogoal",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 101304014,
+            "name": "隐匿",
+            "description": "当自身<color=#f26c1c>周围半径5格内</color>存在友方单位时，不会被敌方单位普攻及主动技能选中。增益不可驱散。",
+            "descriptionTips": "",
+            "shaderType": 1,
+            "iconName": "Buff_Nogoal",
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "isShow": false,
+            "buffHeadShow": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 101304021,
+            "name": "电弧",
+            "description": "<color=#f26c1c>周围半径7格内</color>的敌方目标受到主动攻击前，对其施加<color=#3487e0>导电</color>，持续<color=#f26c1c>1回合</color>。不可驱散。",
+            "descriptionTips": "",
+            "iconName": "Buff_LennaSSR1Neutral",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 101304023,
+            "name": "隐匿",
+            "description": "当自身<color=#f26c1c>周围半径5格内</color>存在友方单位时，不会被敌方单位普攻及主动技能选中。增益不可驱散。",
+            "descriptionTips": "",
+            "iconName": "Buff_Nogoal",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
+            "isLoop": ""
+        },
+        {
+            "id": 101304031,
+            "name": "电弧",
+            "description": "<color=#f26c1c>周围半径7格内</color>的敌方目标受到主动攻击前，对其施加<color=#3487e0>导电</color>，持续<color=#f26c1c>1回合</color>。不再需要消耗导染指数即可强化技能，消耗<color=#f26c1c>3点</color>导染指数，可使此次攻击造成伤害提高<color=#f26c1c>20%</color>，行动结束时补满导染指数。不可驱散。",
+            "descriptionTips": "",
+            "iconName": "Buff_LennaSSR1Neutral",
+            "isShow": true,
+            "buffHeadShow": 1,
+            "buffEffect": "",
+            "effectPlayTime": [],
+            "effectFadeTime": "",
+            "shaderType": 0,
+            "cameraPlayTime": [],
+            "cameraTime": [],
+            "effectFollowType": "",
+            "effectBirthType": "",
+            "effectTypeGroup": "",
+            "showPriorityEffect": 0,
+            "buffFix": 0,
+            "showPriorityIcon": 0,
             "isLoop": ""
         },
         {

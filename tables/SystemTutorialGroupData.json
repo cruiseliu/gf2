@@ -1526,13 +1526,11 @@
         },
         {
             "id": 2901,
-            "clientCondition": [
-                14
-            ],
             "priority": 2901,
             "timing": 4005,
             "lastTutorialGroup": [],
             "condition": [],
+            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
@@ -1558,13 +1556,11 @@
         },
         {
             "id": 3101,
-            "clientCondition": [
-                14
-            ],
             "priority": 3101,
             "timing": 4006,
             "lastTutorialGroup": [],
             "condition": [],
+            "clientCondition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,
@@ -1704,7 +1700,7 @@
         {
             "id": 4101,
             "condition": [
-                1017
+                2010
             ],
             "priority": 4101,
             "timing": 3101,
@@ -1758,6 +1754,36 @@
             "priority": 4401,
             "timing": 5001,
             "lastTutorialGroup": [],
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 4501,
+            "priority": 4501,
+            "timing": 5101,
+            "lastTutorialGroup": [],
+            "condition": [],
+            "clientCondition": [],
+            "globalTab": 0,
+            "tabPaths": [],
+            "finishCondition": 0,
+            "finishConditionList": [],
+            "finishGroup": [],
+            "skipFinishGroup": []
+        },
+        {
+            "id": 4601,
+            "clientCondition": [
+                16
+            ],
+            "priority": 4601,
+            "timing": 4007,
+            "lastTutorialGroup": [],
+            "condition": [],
             "globalTab": 0,
             "tabPaths": [],
             "finishCondition": 0,

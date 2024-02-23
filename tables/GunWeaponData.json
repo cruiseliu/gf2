@@ -6,6 +6,7 @@
             "description": "高性能手枪，设计精致而巧妙。名字是武器设计师起的，据说源于一种会吃掉不听话小孩的怪物。",
             "type": 1,
             "modelstype": 1,
+            "bullettype": 5,
             "element": 1,
             "resCode": "Weapon_BpHRssr001_5",
             "resPath": "Player/BpHRssr001/BpHRssr001_WL",
@@ -30,8 +31,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -61,6 +62,7 @@
             "description": "高性能冲锋枪，是威力强劲且独具个性的武器。设计师起的这个名字，应该也有将它视为秘密武器的意图吧。",
             "type": 2,
             "modelstype": 2,
+            "bullettype": 3,
             "element": 1,
             "resCode": "Weapon_BpSMGssr001_5",
             "resPath": "Player/BpSMGssr001/BpSMGssr001_WL",
@@ -96,7 +98,7 @@
                 3012
             ],
             "isHide": true,
-            "audio": 401,
+            "audio": 402,
             "weaponTag": 2,
             "weaponSkill": [
                 5100029
@@ -116,6 +118,7 @@
             "description": "高性能狙击枪，外观冰冷而具有科技感。子弹的轨迹中，是否也蕴含着天地万物的运转之理？",
             "type": 3,
             "modelstype": 1,
+            "bullettype": 6,
             "element": 1,
             "resCode": "Weapon_BpRFssr001_5",
             "resPath": "Player/BpRFssr001/BpRFssr001_WL",
@@ -171,6 +174,7 @@
             "description": "高性能突击步枪，能够轻松应对各种实战情况。拥有女武神盖尔诺之名的它，应该也希望被高洁之人握在手中吧。",
             "type": 4,
             "modelstype": 2,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_BpARssr001_5",
             "resPath": "Player/BpARssr001/BpARssr001_WL",
@@ -266,6 +270,7 @@
             "weaponSkill": [
                 5110079
             ],
+            "bullettype": 0,
             "brand": "",
             "elemenSkill": 0,
             "buffSkill": 0,
@@ -281,6 +286,7 @@
             "description": "高性能机枪，性能优异，威力强大。设计师以此命名，或许是希望使用者能和雷神一般恰如其分地发挥它的力量。",
             "type": 5,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_BpMGssr001_5",
             "resPath": "Player/BpMGssr001/BpMGssr001_WL",
@@ -305,8 +311,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -336,6 +342,7 @@
             "description": "高性能霰弹枪，枪身线条精巧流畅，威力十足。依靠这股力量，胆小的幼鸽也能重拾信心，勇敢地为同行朋友保驾护航。",
             "type": 6,
             "modelstype": 2,
+            "bullettype": 4,
             "element": 1,
             "resCode": "Weapon_BpSGssr001_5",
             "resPath": "Player/BpSGssr001/BpSGssr001_WL",
@@ -386,11 +393,178 @@
             "characterId": 0
         },
         {
+            "id": 10131,
+            "name": "旧式通用冲锋枪9",
+            "description": "污染区常见的廉价武器，枪托有些许破损，枪身各处更有大量焊接修补的痕迹。",
+            "type": 2,
+            "modelstype": 1,
+            "bullettype": 3,
+            "element": 1,
+            "resCode": "Weapon_UMP9_3",
+            "resPath": "Player/LennaR01/LennaR01_WL",
+            "brand": "brand_icon17",
+            "rank": 3,
+            "skill": 5110091,
+            "expRate": 1000,
+            "weaponOfferExp": 400,
+            "weaponNeedCash": 1200,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 2
+            },
+            "propertyId": 41071,
+            "unlockCost": {
+                "15341": 60
+            },
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8601": 1
+            },
+            "polarityCostCustom": {
+                "8609": 1,
+                "2": 3000
+            },
+            "modNum": 4,
+            "modTypeGroup": [
+                2012,
+                1012,
+                12012,
+                3012
+            ],
+            "audio": 403,
+            "weaponTag": 2,
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "privateSkill": 0,
+            "advanceWeapon": [],
+            "characterId": 0,
+            "isHide": false,
+            "weaponSkill": []
+        },
+        {
+            "id": 10132,
+            "name": "通用冲锋枪9",
+            "description": "与莱娜契合度高的枪械，针对莱娜的作战偏好进行了一定的改造，保证射击精度的同时，射速也有所提升。",
+            "type": 2,
+            "modelstype": 1,
+            "bullettype": 3,
+            "element": 1,
+            "resCode": "Weapon_UMP9_4",
+            "resPath": "Player/LennaSR01/LennaSR01_WL",
+            "brand": "brand_icon17",
+            "rank": 4,
+            "skill": 5101321,
+            "expRate": 1000,
+            "weaponOfferExp": 1000,
+            "weaponNeedCash": 3000,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 3
+            },
+            "propertyId": 41072,
+            "unlockCost": {
+                "15342": 60
+            },
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8602": 1
+            },
+            "polarityCostCustom": {
+                "8609": 1,
+                "2": 3000
+            },
+            "modNum": 4,
+            "modTypeGroup": [
+                2012,
+                1012,
+                12012,
+                3012
+            ],
+            "audio": 403,
+            "weaponTag": 2,
+            "weaponSkill": [
+                5101329
+            ],
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "privateSkill": 0,
+            "advanceWeapon": [],
+            "characterId": 0,
+            "isHide": false
+        },
+        {
+            "id": 10133,
+            "name": "幼狮",
+            "description": "莱娜被配给的高性能冲锋枪，以通用冲锋枪9为原型进行改造。改造过程中也参考了莱娅的意见，莱娜非常喜欢这把枪。",
+            "type": 2,
+            "modelstype": 1,
+            "bullettype": 3,
+            "element": 1,
+            "resCode": "Weapon_UMP9_5",
+            "resPath": "Player/LennaSSR01/LennaSSR01_WL",
+            "brand": "brand_icon17",
+            "rank": 5,
+            "skill": 5101331,
+            "expRate": 1000,
+            "weaponOfferExp": 2000,
+            "weaponNeedCash": 6000,
+            "defaultMaxlv": 60,
+            "maxBreak": 6,
+            "soldGet": {
+                "2": 4
+            },
+            "propertyId": 41073,
+            "unlockCost": {
+                "15343": 60
+            },
+            "privateSkill": 5101330,
+            "capacityMax": 30,
+            "weaponPolarityId": 1,
+            "polarityCostRandom": {
+                "2": 3000,
+                "8603": 1
+            },
+            "polarityCostCustom": {
+                "8609": 1,
+                "2": 3000
+            },
+            "characterId": 6,
+            "modNum": 4,
+            "modTypeGroup": [
+                2012,
+                1012,
+                12012,
+                3012
+            ],
+            "audio": 403,
+            "weaponTag": 2,
+            "weaponSkill": [
+                5101329
+            ],
+            "elemenSkill": 0,
+            "buffSkill": 0,
+            "slot": [],
+            "soldDrop": [],
+            "advanceWeapon": [],
+            "isHide": false
+        },
+        {
             "id": 10331,
             "name": "旧式莫辛-纳甘",
             "description": "从暗商处采购的廉价武器，款式已经过时，但还算坚固好用。",
             "type": 3,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_M1891_3",
             "resPath": "Player/MosinnagantR01/MosinnagantR01_WL",
@@ -444,6 +618,7 @@
             "description": "与莫辛纳甘契合度高的枪械，针对莫辛纳甘的作战偏好进行了一定的改造，精简的枪身设计便于维护，使用起来也更加轻松。",
             "type": 3,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_M1891_4",
             "resPath": "Player/MosinnagantSR01/MosinnagantSR01_WL",
@@ -499,6 +674,7 @@
             "description": "莫辛纳甘被配给的高性能狙击枪，以莫辛-纳甘为原型，在保留泛用性的基础上将威力提升到了极致。举起枪的莫辛纳甘，在瞄准敌人的同时，是否也在审视自己的内心？",
             "type": 3,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_M1891_5",
             "resPath": "Player/MosinnagantSSR01/MosinnagantSSR01_WL",
@@ -554,6 +730,7 @@
             "description": "从暗商处采购的廉价武器，枪身有些老旧，勉强还能击中目标。",
             "type": 1,
             "modelstype": 1,
+            "bullettype": 3,
             "element": 1,
             "resCode": "Weapon_APS_3",
             "resPath": "Player/KseniaR01/KseniaR01_WL",
@@ -579,8 +756,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -590,7 +767,7 @@
                 11012
             ],
             "isHide": true,
-            "audio": 101,
+            "audio": 102,
             "weaponTag": 2,
             "elemenSkill": 0,
             "buffSkill": 0,
@@ -607,6 +784,7 @@
             "description": "与科谢尼娅契合度高的枪械，针对科谢尼娅的作战偏好进行了一定的改造，枪身更加轻便，枪械精准度也得到了提升。",
             "type": 1,
             "modelstype": 1,
+            "bullettype": 3,
             "element": 1,
             "resCode": "Weapon_APS_4",
             "resPath": "Player/KseniaSR01/KseniaSR01_WL",
@@ -643,7 +821,7 @@
                 11012
             ],
             "isHide": true,
-            "audio": 101,
+            "audio": 102,
             "weaponTag": 2,
             "weaponSkill": [
                 5100019
@@ -662,6 +840,7 @@
             "description": "从暗商处采购的廉价武器，有些沉重，好在整体上还算便于携带。",
             "type": 5,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_Galil_3",
             "resPath": "Player/LittaraR01/LittaraR01_WL",
@@ -715,6 +894,7 @@
             "description": "与莉塔拉契合度高的枪械，针对莉塔拉的作战偏好进行了一定的改造，进一步提升了对恶劣环境的适应性，使用更为舒适。",
             "type": 5,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_Galil_4",
             "resPath": "Player/LittaraSR01/LittaraSR01_WL",
@@ -816,6 +996,7 @@
             "weaponSkill": [
                 5110079
             ],
+            "bullettype": 0,
             "elemenSkill": 0,
             "buffSkill": 0,
             "soldDrop": [],
@@ -830,6 +1011,7 @@
             "description": "寇尔芙的训练专用制式武器，常用于小队配合训练，必要时也用于基础作战。",
             "type": 1,
             "modelstype": 1,
+            "bullettype": 5,
             "element": 1,
             "resCode": "Weapon_TaurusCurve_3",
             "resPath": "Player/ColphneR01/ColphneR01_WL",
@@ -883,6 +1065,7 @@
             "description": "纳美西丝的训练专用制式武器，常用于小队配合训练，必要时也用于基础作战。",
             "type": 3,
             "modelstype": 1,
+            "bullettype": 6,
             "element": 1,
             "resCode": "Weapon_OM50_3",
             "resPath": "Player/NemesisR01/NemesisR01_WL",
@@ -908,8 +1091,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -936,6 +1119,7 @@
             "description": "闪电的训练专用制式武器，常用于小队配合训练，必要时也用于基础作战。",
             "type": 4,
             "modelstype": 2,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_OTS14_3",
             "resPath": "Player/GrozaR01/GrozaR01_WL",
@@ -989,6 +1173,7 @@
             "description": "与纳美西丝契合度高的枪械，针对纳美西丝的作战偏好进行了一定的改造，威力和精准度得到了进一步提升。",
             "type": 3,
             "modelstype": 1,
+            "bullettype": 6,
             "element": 1,
             "resCode": "Weapon_OM50_4",
             "resPath": "Player/NemesisSR01/NemesisSR01_WL",
@@ -1020,8 +1205,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1049,6 +1234,7 @@
             "description": "与寇尔芙契合度高的枪械，针对寇尔芙的作战偏好进行了一定的改造，更加实用、小巧、便捷，威力也有所提升。",
             "type": 1,
             "modelstype": 1,
+            "bullettype": 5,
             "element": 1,
             "resCode": "Weapon_TaurusCurve_4",
             "resPath": "Player/ColphneSR01/ColphneSR01_WL",
@@ -1107,6 +1293,7 @@
             "description": "维普蕾被配给的高性能霰弹枪，以莫洛12为原型，用于在表演出现意外时保护观众的安全。不过，作为专业的偶像，维普蕾会用这把枪偷偷猎取观众们的心也说不定。",
             "type": 6,
             "modelstype": 1,
+            "bullettype": 4,
             "element": 1,
             "resCode": "Weapon_Vepr12_5",
             "resPath": "Player/VepleySSR01/VepleySSR01_WL",
@@ -1167,6 +1354,7 @@
             "description": "维普蕾的训练专用制式武器，常用于小队配合训练，必要时也用于基础作战。",
             "type": 6,
             "modelstype": 1,
+            "bullettype": 4,
             "element": 1,
             "resCode": "Weapon_Vepr12_3",
             "resPath": "Player/VepleyR01/VepleyR01_WL",
@@ -1192,8 +1380,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1220,6 +1408,7 @@
             "description": "佩里缇亚被配给的高性能机枪，以佩切涅为原型，改装后，威力有了大幅提升。使用这把武器的人，是否也会像幻境一样消失？",
             "type": 5,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_Pecheng_5",
             "resPath": "Player/PerityaSSR01/PerityaSSR01_WL",
@@ -1280,6 +1469,7 @@
             "description": "与维普蕾契合度高的枪械，针对维普蕾的作战偏好进行了一定的改造，是更加适合元气可爱偶像使用的“演出道具”。",
             "type": 6,
             "modelstype": 1,
+            "bullettype": 4,
             "element": 1,
             "resCode": "Weapon_Vepr12_4",
             "resPath": "Player/VepleySR01/VepleySR01_WL",
@@ -1311,8 +1501,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1377,6 +1567,7 @@
             ],
             "audio": 1,
             "weaponTag": 16,
+            "bullettype": 0,
             "elemenSkill": 0,
             "buffSkill": 0,
             "slot": [],
@@ -1393,6 +1584,7 @@
             "description": "与闪电契合度高的枪械，针对闪电的作战偏好进行了一定的改造，在保证枪支便携性的同时，提升了威力和连射效果。",
             "type": 4,
             "modelstype": 2,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_OTS14_4",
             "resPath": "Player/GrozaSR01/GrozaSR01_WL",
@@ -1424,8 +1616,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1453,6 +1645,7 @@
             "description": "佩里缇亚的训练专用制式武器，常用于小队配合训练，必要时也用于基础作战。",
             "type": 5,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_Pecheng_3",
             "resPath": "Player/PerityaR01/PerityaR01_WL",
@@ -1506,6 +1699,7 @@
             "description": "与佩里缇亚契合度高的枪械，针对佩里缇亚的作战偏好进行了一定的改造，提升了火力和便携性，在佩里缇亚手中威力更强。",
             "type": 5,
             "modelstype": 1,
+            "bullettype": 2,
             "element": 1,
             "resCode": "Weapon_Pecheng_4",
             "resPath": "Player/PerityaSR01/PerityaSR01_WL",
@@ -1537,8 +1731,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1566,6 +1760,7 @@
             "description": "夏克里的训练专用制式武器，常用于小队配合训练，必要时也用于基础作战。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_ROBINSONXCR_3",
             "resPath": "Player/SharkryR01/SharkryR01_WL",
@@ -1591,8 +1786,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1619,6 +1814,7 @@
             "description": "与夏克里契合度高的枪械，针对夏克里的作战偏好进行了一定的改造，枪支的平衡性有了改善，射击精度也有提升。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_ROBINSONXCR_4",
             "resPath": "Player/SharkrySR01/SharkrySR01_WL",
@@ -1650,8 +1846,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1674,69 +1870,12 @@
             "characterId": 0
         },
         {
-            "id": 11032,
-            "name": "魅心者",
-            "description": "夏克里被配给的高性能突击步枪，以罗宾逊先进步枪为原型，针对夏克里的使用习惯做出了一定调整。当被可爱的小恶魔盯上，你的灵魂能够抵挡住诱惑吗？",
-            "type": 4,
-            "modelstype": 1,
-            "element": 1,
-            "resCode": "Weapon_ROBINSONXCR_5",
-            "resPath": "Player/SharkrySSR01/SharkrySSR01_WL",
-            "brand": "brand_icon01",
-            "rank": 5,
-            "skill": 10000,
-            "slot": [
-                1,
-                2,
-                3,
-                5
-            ],
-            "expRate": 1000,
-            "weaponOfferExp": 2000,
-            "weaponNeedCash": 6000,
-            "defaultMaxlv": 60,
-            "maxBreak": 6,
-            "soldGet": {
-                "2": 4
-            },
-            "propertyId": 41032,
-            "unlockCost": {
-                "12032": 60
-            },
-            "capacityMax": 30,
-            "weaponPolarityId": 1,
-            "polarityCostRandom": {
-                "2": 3000,
-                "8603": 1
-            },
-            "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
-            },
-            "modNum": 4,
-            "modTypeGroup": [
-                2011,
-                1011,
-                12011,
-                3011
-            ],
-            "isHide": true,
-            "audio": 302,
-            "weaponTag": 4,
-            "elemenSkill": 0,
-            "buffSkill": 0,
-            "soldDrop": [],
-            "privateSkill": 0,
-            "advanceWeapon": [],
-            "characterId": 0,
-            "weaponSkill": []
-        },
-        {
             "id": 11036,
             "name": "旧式卡拉什-阿尔法",
             "description": "托洛洛的训练专用制式武器，常用于小队配合训练，必要时也用于基础作战。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_AK-Alfa_3",
             "resPath": "Player/TololoR01/TololoR01_WL",
@@ -1763,8 +1902,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -1790,6 +1929,7 @@
             "description": "与托洛洛契合度高的枪械，针对托洛洛的作战偏好进行了一定的改造，提高了射击精度，也能够应对多种作战环境。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_AK-Alfa_4",
             "resPath": "Player/TololoSR01/TololoSR01_WL",
@@ -1850,6 +1990,7 @@
             "description": "托洛洛被配给的高性能突击步枪，以卡拉什-阿尔法为原型，枪身重量更轻，射击精度更高。它的设计风格轻盈且独辟蹊径，兼具实用主义的理性与探索未知的浪漫，与其主人非常相似。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_AK-Alfa_5",
             "resPath": "Player/TololoSSR01/TololoSSR01_WL",
@@ -1883,8 +2024,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "characterId": 11,
             "modNum": 4,
@@ -1910,6 +2051,7 @@
             "description": "奇塔的训练专用制式武器，常用于小队配合训练，必要时也用于基础作战。",
             "type": 2,
             "modelstype": 2,
+            "bullettype": 3,
             "element": 1,
             "resCode": "Weapon_MP7_3",
             "resPath": "Player/CheetaR01/CheetaR01_WL",
@@ -1945,7 +2087,7 @@
                 12012,
                 3012
             ],
-            "audio": 305,
+            "audio": 402,
             "weaponTag": 2,
             "elemenSkill": 0,
             "buffSkill": 0,
@@ -1963,6 +2105,7 @@
             "description": "与奇塔契合度高的枪械，针对奇塔的作战偏好进行了一定的改造，枪身小巧、重量极轻，但射击威力却十分强大。",
             "type": 2,
             "modelstype": 2,
+            "bullettype": 3,
             "element": 1,
             "resCode": "Weapon_MP7_4",
             "resPath": "Player/CheetaSR01/CheetaSR01_WL",
@@ -1994,8 +2137,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2004,7 +2147,7 @@
                 12012,
                 3012
             ],
-            "audio": 305,
+            "audio": 402,
             "weaponTag": 2,
             "weaponSkill": [
                 5100029
@@ -2018,64 +2161,12 @@
             "isHide": false
         },
         {
-            "id": 11041,
-            "name": "绝密手稿",
-            "description": "奇塔被配给的高性能冲锋枪，以黑科赫7为原型，是威力强劲且独具个性的武器，奇塔本人也对改造提出了诸多建议。“天才都会留下证明自己才华的手稿，本天才当然也是！”因此，奇塔固执地拒绝了除此以外所有的取名建议。",
-            "type": 2,
-            "modelstype": 2,
-            "element": 1,
-            "resCode": "Weapon_MP7_5",
-            "resPath": "Player/CheetaSSR01/CheetaSSR01_WL",
-            "brand": "brand_icon02",
-            "rank": 5,
-            "skill": 10000,
-            "expRate": 1000,
-            "weaponOfferExp": 2000,
-            "weaponNeedCash": 6000,
-            "defaultMaxlv": 60,
-            "maxBreak": 6,
-            "soldGet": {
-                "2": 4
-            },
-            "propertyId": 41041,
-            "unlockCost": {
-                "12041": 60
-            },
-            "capacityMax": 30,
-            "weaponPolarityId": 1,
-            "polarityCostRandom": {
-                "2": 3000,
-                "8603": 1
-            },
-            "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
-            },
-            "modNum": 4,
-            "modTypeGroup": [
-                2012,
-                1012,
-                12012,
-                3012
-            ],
-            "isHide": true,
-            "audio": 305,
-            "weaponTag": 2,
-            "elemenSkill": 0,
-            "buffSkill": 0,
-            "slot": [],
-            "soldDrop": [],
-            "privateSkill": 0,
-            "advanceWeapon": [],
-            "characterId": 0,
-            "weaponSkill": []
-        },
-        {
             "id": 11042,
             "name": "旧式一九一式",
             "description": "从暗商处采购的廉价武器，枪体上布满划痕，似乎久经风霜。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_QBZ-191_3",
             "resPath": "Player/QiongjiuR01/QiongjiuR01_WL",
@@ -2129,6 +2220,7 @@
             "description": "与琼玖契合度高的枪械，针对琼玖的作战偏好进行了一定的改造，射击时更加稳定，也更精准。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_QBZ-191_4",
             "resPath": "Player/QiongjiuSR01/QiongjiuSR01_WL",
@@ -2184,6 +2276,7 @@
             "description": "琼玖被配给的高性能突击步枪，以一九一式为原型，在保证多种环境泛用的基础上，提升了威力和稳定性。沉稳的节奏之下，是未曾改变的初心。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_QBZ-191_5",
             "resPath": "Player/QiongjiuSSR01/QiongjiuSSR01_WL",
@@ -2210,8 +2303,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "characterId": 14,
             "modNum": 4,
@@ -2239,6 +2332,7 @@
             "description": "从暗商处采购的廉价武器，磨损程度很高，看起来快要彻底报废了。",
             "type": 6,
             "modelstype": 2,
+            "bullettype": 4,
             "element": 1,
             "resCode": "Weapon_SPAS-12_3",
             "resPath": "Player/SabrinaR01/SabrinaR01_WL",
@@ -2264,8 +2358,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2292,6 +2386,7 @@
             "description": "与塞布丽娜契合度高的枪械，针对塞布丽娜的作战偏好进行了一定的改造，重量更轻，更加便于携带和使用。",
             "type": 6,
             "modelstype": 2,
+            "bullettype": 4,
             "element": 1,
             "resCode": "Weapon_SPAS-12_4",
             "resPath": "Player/SabrinaSR01/SabrinaSR01_WL",
@@ -2317,8 +2412,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2347,6 +2442,7 @@
             "description": "塞布丽娜被配给的高性能霰弹枪，以特殊用途自动型霰弹枪为原型，采用了特殊的设计，提升了稳定性的同时更加方便收纳和携带，但外观仍具有威慑性。出于不要惊吓到别人的想法，塞布丽娜用意餐中常见的厨具为它命名。",
             "type": 6,
             "modelstype": 2,
+            "bullettype": 4,
             "element": 1,
             "resCode": "Weapon_SPAS-12_5",
             "resPath": "Player/SabrinaSSR01/SabrinaSSR01_WL",
@@ -2373,8 +2469,8 @@
                 "8603": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "characterId": 12,
             "modNum": 4,
@@ -2439,6 +2535,7 @@
             ],
             "audio": 102,
             "weaponTag": 2,
+            "bullettype": 0,
             "elemenSkill": 0,
             "buffSkill": 0,
             "slot": [],
@@ -2495,6 +2592,7 @@
             "weaponSkill": [
                 5110499
             ],
+            "bullettype": 0,
             "elemenSkill": 0,
             "buffSkill": 0,
             "slot": [],
@@ -2505,64 +2603,12 @@
             "isHide": false
         },
         {
-            "id": 11050,
-            "name": "卡尔文南",
-            "description": "纳甘被配给的高性能手枪，以纳甘左轮为原型，经过特别的设计与改造，以实用性见长。一起成为保护这座城市的英雄吧！",
-            "type": 1,
-            "modelstype": 1,
-            "element": 1,
-            "resCode": "Weapon_M1895_5",
-            "resPath": "Player/NagantSSR01/NagantSSR01_WL",
-            "brand": "brand_icon11",
-            "rank": 5,
-            "skill": 10000,
-            "expRate": 1000,
-            "weaponOfferExp": 2000,
-            "weaponNeedCash": 6000,
-            "defaultMaxlv": 60,
-            "maxBreak": 6,
-            "soldGet": {
-                "2": 4
-            },
-            "propertyId": 41050,
-            "unlockCost": {
-                "12050": 60
-            },
-            "capacityMax": 30,
-            "weaponPolarityId": 1,
-            "polarityCostRandom": {
-                "2": 3000,
-                "8603": 1
-            },
-            "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
-            },
-            "modNum": 4,
-            "modTypeGroup": [
-                2041,
-                1032,
-                9012,
-                11012
-            ],
-            "isHide": true,
-            "audio": 102,
-            "weaponTag": 2,
-            "elemenSkill": 0,
-            "buffSkill": 0,
-            "slot": [],
-            "soldDrop": [],
-            "privateSkill": 0,
-            "advanceWeapon": [],
-            "characterId": 0,
-            "weaponSkill": []
-        },
-        {
             "id": 11051,
             "name": "旧式九五式",
             "description": "从暗商处采购的廉价武器，枪体布满修理痕迹，但还能正常击发。",
             "type": 4,
             "modelstype": 2,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_QBZ-95_3",
             "resPath": "Player/DaiyanR01/DaiyanR01_WL",
@@ -2588,8 +2634,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2616,6 +2662,7 @@
             "description": "与黛烟契合度高的枪械，针对黛烟的作战偏好进行了一定的改造，更加轻便，稳定性也有所提升。",
             "type": 4,
             "modelstype": 2,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_QBZ-95_4",
             "resPath": "Player/DaiyanSR01/DaiyanSR01_WL",
@@ -2671,6 +2718,7 @@
             "description": "黛烟被配给的高性能突击步枪，以九五式为原型，在保证威力的前提下，更拥有雅致的外观。在黛烟手中，作为武器的重弦也会如乐器一般优雅。",
             "type": 4,
             "modelstype": 2,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_QBZ-95_5",
             "resPath": "Player/DaiyanSSR01/DaiyanSSR01_WL",
@@ -2726,6 +2774,7 @@
             "description": "从暗商处采购的廉价武器，保养不佳，在使用前最好进行全面检查。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_G36_3",
             "resPath": "Player/CentaureissiR01/CentaureissiR01_WL",
@@ -2751,8 +2800,8 @@
                 "8601": 1
             },
             "polarityCostCustom": {
-                "2": 3000,
-                "8609": 1
+                "8609": 1,
+                "2": 3000
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2779,6 +2828,7 @@
             "description": "与桑朵莱希契合度高的枪械，针对桑朵莱希的作战偏好进行了一定的改造，进一步减轻了枪身重量。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_G36_4",
             "resPath": "Player/CentaureissiSR01/CentaureissiSR01_WL",
@@ -2804,8 +2854,8 @@
                 "8602": 1
             },
             "polarityCostCustom": {
-                "8609": 1,
-                "2": 3000
+                "2": 3000,
+                "8609": 1
             },
             "modNum": 4,
             "modTypeGroup": [
@@ -2834,6 +2884,7 @@
             "description": "桑朵莱希被配给的高性能突击步枪，以格威尔36为原型，使用了特殊的材料，正如其主人一般精确和精致，能够完美地完成自己的工作。这把枪，应该能够贯彻使用者的信念和准则吧。",
             "type": 4,
             "modelstype": 1,
+            "bullettype": 1,
             "element": 1,
             "resCode": "Weapon_G36_5",
             "resPath": "Player/CentaureissiSSR01/CentaureissiSSR01_WL",

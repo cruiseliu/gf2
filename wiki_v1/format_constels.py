@@ -2,7 +2,7 @@ from common import *
 from format_skills import format_skill_upgrade_desc
 
 def main():
-    for doll in Tables.GunData:
+    for doll in sort_dolls():
         print()
         print(doll['name'])
         print()

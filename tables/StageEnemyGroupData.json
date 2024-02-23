@@ -5416,6 +5416,16 @@
             "expandWaveId": 0
         },
         {
+            "id": 6100001,
+            "enemies": [
+                6100001,
+                6100002,
+                6100003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
             "id": 6101001,
             "enemies": [
                 6101001
@@ -12377,7 +12387,8 @@
             "enemies": [
                 10804007,
                 10804008,
-                10804009
+                10804009,
+                10804010
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -12385,10 +12396,10 @@
         {
             "id": 10804005,
             "enemies": [
-                10804010,
                 10804011,
                 10804012,
-                10804013
+                10804013,
+                10804014
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -12447,17 +12458,89 @@
             "expandWaveId": 0
         },
         {
-            "id": 10807001,
+            "id": 10806002,
             "enemies": [
-                10807001
+                10806001
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 10808001,
+            "id": 10806003,
             "enemies": [
-                10808001,
+                10806002,
+                10806003,
+                10806004,
+                10806005,
+                10806006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10806004,
+            "enemies": [
+                10806007,
+                10806008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10806005,
+            "enemies": [
+                10806009,
+                10806010,
+                10806011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10807002,
+            "enemies": [
+                10807001,
+                10807002,
+                10807003,
+                10807004,
+                10807005,
+                10807006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10807003,
+            "enemies": [
+                10807007,
+                10807008,
+                10807009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10807004,
+            "enemies": [
+                10807010,
+                10807011,
+                10807012,
+                10807013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10808002,
+            "enemies": [
+                10808001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10808003,
+            "enemies": [
                 10808002,
                 10808003,
                 10808004,
@@ -12467,21 +12550,79 @@
             "expandWaveId": 0
         },
         {
-            "id": 10808002,
+            "id": 10808004,
             "enemies": [
                 10808006,
-                10808007,
-                10808008,
-                10808009,
-                10808010
+                10808007
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 10809001,
+            "id": 10808005,
             "enemies": [
-                10809001
+                10808008,
+                10808009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10808006,
+            "enemies": [
+                10808010,
+                10808011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10809002,
+            "enemies": [
+                10809001,
+                10809002,
+                10809003,
+                10809004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10809003,
+            "enemies": [
+                10809005,
+                10809006,
+                10809007,
+                10809008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10809004,
+            "enemies": [
+                10809009,
+                10809010,
+                10809011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10809005,
+            "enemies": [
+                10809012,
+                10809013,
+                10809014,
+                10809015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10809006,
+            "enemies": [
+                10809016
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -12498,8 +12639,7 @@
             "id": 10810003,
             "enemies": [
                 10810002,
-                10810003,
-                10810004
+                10810003
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -12507,8 +12647,8 @@
         {
             "id": 10810004,
             "enemies": [
-                10810005,
-                10810006
+                10810004,
+                10810005
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -12516,17 +12656,429 @@
         {
             "id": 10810005,
             "enemies": [
-                10810007,
-                10810008
+                10810006,
+                10810007
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 10810006,
+            "id": 10841003,
             "enemies": [
-                10810009,
-                10810010
+                10841001,
+                10841002,
+                10841003,
+                10841004,
+                10841005,
+                10841006,
+                10841007,
+                10841008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10841004,
+            "enemies": [
+                10841009,
+                10841010,
+                10841011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10841005,
+            "enemies": [
+                10841012,
+                10841013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10842002,
+            "enemies": [
+                10842001,
+                10842002,
+                10842003,
+                10842004,
+                10842005,
+                10842006,
+                10842007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10842003,
+            "enemies": [
+                10842008,
+                10842009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10842004,
+            "enemies": [
+                10842010,
+                10842011,
+                10842012,
+                10842013,
+                10842014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10843001,
+            "enemies": [
+                10843001,
+                10843002,
+                10843003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10843002,
+            "enemies": [
+                10843004,
+                10843005,
+                10843006,
+                10843007,
+                10843008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10843003,
+            "enemies": [
+                10843011,
+                10843012,
+                10843013,
+                10843014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10843004,
+            "enemies": [
+                10843009,
+                10843010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10844001,
+            "enemies": [
+                10844001,
+                10844002,
+                10844003,
+                10844004,
+                10844005,
+                10844006,
+                10844007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10844002,
+            "enemies": [
+                10844011,
+                10844012,
+                10844013,
+                10844014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10844003,
+            "enemies": [
+                10844008,
+                10844009,
+                10844010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10845002,
+            "enemies": [
+                10845007,
+                10845008,
+                10845009,
+                10845010,
+                10845011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10845003,
+            "enemies": [
+                10845001,
+                10845002,
+                10845003,
+                10845004,
+                10845005,
+                10845006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10846001,
+            "enemies": [
+                10846001,
+                10846002,
+                10846003,
+                10846004,
+                10846005,
+                10846006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10846002,
+            "enemies": [
+                10846007,
+                10846008,
+                10846009,
+                10846010,
+                10846011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10861002,
+            "enemies": [
+                10861009,
+                10861010,
+                10861011,
+                10861012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10861003,
+            "enemies": [
+                10861013,
+                10861014,
+                10861015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10861004,
+            "enemies": [
+                10861001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10861005,
+            "enemies": [
+                10861002,
+                10861003,
+                10861004,
+                10861005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10861006,
+            "enemies": [
+                10861006,
+                10861007,
+                10861008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10862002,
+            "enemies": [
+                10862001,
+                10862002,
+                10862003,
+                10862004,
+                10862005,
+                10862006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10862003,
+            "enemies": [
+                10862007,
+                10862008,
+                10862009,
+                10862010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10862004,
+            "enemies": [
+                10862011,
+                10862012,
+                10862013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10863002,
+            "enemies": [
+                10863001,
+                10863002,
+                10863003,
+                10863004,
+                10863005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10863003,
+            "enemies": [
+                10863006,
+                10863007,
+                10863008,
+                10863009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10863004,
+            "enemies": [
+                10863010,
+                10863011,
+                10863012,
+                10863013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10863005,
+            "enemies": [
+                10863014,
+                10863015,
+                10863016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10863006,
+            "enemies": [
+                10863017,
+                10863018
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10864002,
+            "enemies": [
+                10864001,
+                10864002,
+                10864003,
+                10864004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10864003,
+            "enemies": [
+                10864005,
+                10864006,
+                10864007,
+                10864008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10864004,
+            "enemies": [
+                10864009,
+                10864010,
+                10864011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10864005,
+            "enemies": [
+                10864012,
+                10864013,
+                10864014,
+                10864015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10865002,
+            "enemies": [
+                10865001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10865003,
+            "enemies": [
+                10865002,
+                10865003,
+                10865004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10865004,
+            "enemies": [
+                10865005,
+                10865006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10865005,
+            "enemies": [
+                10865007,
+                10865008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 10865006,
+            "enemies": [
+                10865009,
+                10865010
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -16582,6 +17134,882 @@
             "enemies": [
                 20551015,
                 20551016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20611001,
+            "enemies": [
+                20611001,
+                20611002,
+                20611003,
+                20611004,
+                20611005,
+                20611006,
+                20611007,
+                20611008,
+                20611009,
+                20611010,
+                20611011,
+                20611012,
+                20611013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20611003,
+            "enemies": [
+                20611014,
+                20611015,
+                20611016,
+                20611017
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20611004,
+            "enemies": [
+                20611018,
+                20611019,
+                20611020,
+                20611021
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20611005,
+            "enemies": [
+                20611022,
+                20611023,
+                20611024,
+                20611025,
+                20611026
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621002,
+            "enemies": [
+                20621001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621003,
+            "enemies": [
+                20621002,
+                20621003,
+                20621004,
+                20621005,
+                20621006,
+                20621007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621004,
+            "enemies": [
+                20621008,
+                20621009,
+                20621010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621005,
+            "enemies": [
+                20621011,
+                20621012,
+                20621013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621006,
+            "enemies": [
+                20621014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621007,
+            "enemies": [
+                20621017,
+                20621018,
+                20621019
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621008,
+            "enemies": [
+                20621022,
+                20621023,
+                20621024,
+                20621025,
+                20621026
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621009,
+            "enemies": [
+                20621027,
+                20621028,
+                20621029
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621010,
+            "enemies": [
+                20621032,
+                20621033,
+                20621034
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621011,
+            "enemies": [
+                20621015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621012,
+            "enemies": [
+                20621030,
+                20621031
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621013,
+            "enemies": [
+                20621016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20621014,
+            "enemies": [
+                20621020,
+                20621021
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20631002,
+            "enemies": [
+                20631001,
+                20631002,
+                20631003,
+                20631004,
+                20631005,
+                20631006,
+                20631007,
+                20631008,
+                20631009,
+                20631010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20631003,
+            "enemies": [
+                20631012,
+                20631013,
+                20631014,
+                20631015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20631004,
+            "enemies": [
+                20631018
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20631005,
+            "enemies": [
+                20631016,
+                20631017
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20631006,
+            "enemies": [
+                20631019,
+                20631020,
+                20631021,
+                20631022,
+                20631023,
+                20631024,
+                20631025,
+                20631026
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20631007,
+            "enemies": [
+                20631011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20641002,
+            "enemies": [
+                20641001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20641003,
+            "enemies": [
+                20641015,
+                20641016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20641004,
+            "enemies": [
+                20641002,
+                20641003,
+                20641004,
+                20641005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20641005,
+            "enemies": [
+                20641006,
+                20641007,
+                20641008,
+                20641009,
+                20641010,
+                20641011,
+                20641012,
+                20641013,
+                20641014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20641006,
+            "enemies": [
+                20641018,
+                20641019,
+                20641020,
+                20641021,
+                20641022,
+                20641023
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20641007,
+            "enemies": [
+                20641024,
+                20641025,
+                20641026,
+                20641027,
+                20641028,
+                20641029
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20641008,
+            "enemies": [
+                20641030,
+                20641031
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20641009,
+            "enemies": [
+                20641017
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20651002,
+            "enemies": [
+                20651001,
+                20651002,
+                20651003,
+                20651004,
+                20651005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20651003,
+            "enemies": [
+                20651006,
+                20651007,
+                20651008,
+                20651009,
+                20651010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20651004,
+            "enemies": [
+                20651011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20651005,
+            "enemies": [
+                20651015,
+                20651016,
+                20651017,
+                20651018,
+                20651019,
+                20651020
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20651006,
+            "enemies": [
+                20651012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20651007,
+            "enemies": [
+                20651013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20651008,
+            "enemies": [
+                20651014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20711002,
+            "enemies": [
+                20711001,
+                20711002,
+                20711003,
+                20711004,
+                20711005,
+                20711006,
+                20711007,
+                20711008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20711003,
+            "enemies": [
+                20711009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20711004,
+            "enemies": [
+                20711010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20711005,
+            "enemies": [
+                20711011,
+                20711012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20711006,
+            "enemies": [
+                20711013,
+                20711014,
+                20711015,
+                20711016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20711007,
+            "enemies": [
+                20711017,
+                20711018,
+                20711019,
+                20711020
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721002,
+            "enemies": [
+                20721016,
+                20721017,
+                20721018,
+                20721019,
+                20721020
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721003,
+            "enemies": [
+                20721001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721004,
+            "enemies": [
+                20721002
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721005,
+            "enemies": [
+                20721003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721006,
+            "enemies": [
+                20721004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721007,
+            "enemies": [
+                20721005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721008,
+            "enemies": [
+                20721006,
+                20721007,
+                20721008,
+                20721009,
+                20721010,
+                20721011,
+                20721012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721009,
+            "enemies": [
+                20721013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721010,
+            "enemies": [
+                20721014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721011,
+            "enemies": [
+                20721021
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20721012,
+            "enemies": [
+                20721015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731002,
+            "enemies": [
+                20731001,
+                20731002,
+                20731003,
+                20731004,
+                20731005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731003,
+            "enemies": [
+                20731007,
+                20731008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731004,
+            "enemies": [
+                20731009,
+                20731010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731005,
+            "enemies": [
+                20731011,
+                20731012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731006,
+            "enemies": [
+                20731013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731007,
+            "enemies": [
+                20731014,
+                20731015,
+                20731016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731008,
+            "enemies": [
+                20731017,
+                20731018
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731010,
+            "enemies": [
+                20731006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731013,
+            "enemies": [
+                20731029
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731015,
+            "enemies": [
+                20731021,
+                20731022,
+                20731023
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731016,
+            "enemies": [
+                20731025,
+                20731026,
+                20731027,
+                20731028
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731017,
+            "enemies": [
+                20731024
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20731018,
+            "enemies": [
+                20731019,
+                20731020
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741002,
+            "enemies": [
+                20741001,
+                20741002,
+                20741003,
+                20741004,
+                20741005,
+                20741006,
+                20741007,
+                20741008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741003,
+            "enemies": [
+                20741009,
+                20741010,
+                20741011,
+                20741012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741004,
+            "enemies": [
+                20741013,
+                20741014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741005,
+            "enemies": [
+                20741015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741006,
+            "enemies": [
+                20741017,
+                20741018,
+                20741019,
+                20741020,
+                20741021
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741007,
+            "enemies": [
+                20741030,
+                20741031,
+                20741032,
+                20741033,
+                20741034
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741008,
+            "enemies": [
+                20741016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741009,
+            "enemies": [
+                20741022,
+                20741023,
+                20741024
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20741010,
+            "enemies": [
+                20741025,
+                20741026,
+                20741027,
+                20741028,
+                20741029
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751002,
+            "enemies": [
+                20751018
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751003,
+            "enemies": [
+                20751006,
+                20751007,
+                20751008,
+                20751009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751004,
+            "enemies": [
+                20751001,
+                20751002,
+                20751003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751005,
+            "enemies": [
+                20751004,
+                20751005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751006,
+            "enemies": [
+                20751019,
+                20751020,
+                20751021,
+                20751022,
+                20751023,
+                20751024,
+                20751025,
+                20751026,
+                20751027
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751007,
+            "enemies": [
+                20751028,
+                20751029,
+                20751030
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751008,
+            "enemies": [
+                20751010,
+                20751011,
+                20751012,
+                20751013,
+                20751014,
+                20751015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751010,
+            "enemies": [
+                20751016,
+                20751017
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 20751011,
+            "enemies": [
+                20751031,
+                20751032,
+                20751033
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -28080,8 +29508,7 @@
             "enemies": [
                 28013011,
                 28013012,
-                28013013,
-                28013014
+                28013013
             ],
             "expandWaveId": 3,
             "isWatchSpawn": 0
@@ -28421,6 +29848,485 @@
                 28025018
             ],
             "expandWaveId": 3,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28031001,
+            "enemies": [
+                28031001,
+                28031002,
+                28031003,
+                28031004,
+                28031005,
+                28031006,
+                28031007
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28031002,
+            "enemies": [
+                28031008,
+                28031009,
+                28031010,
+                28031011
+            ],
+            "expandWaveId": 2,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28031003,
+            "enemies": [
+                28031012,
+                28031013,
+                28031014,
+                28031015
+            ],
+            "expandWaveId": 3,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28031004,
+            "enemies": [
+                28031016,
+                28031017,
+                28031018,
+                28031019,
+                28031020,
+                28031021
+            ],
+            "expandWaveId": 4,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28032002,
+            "enemies": [
+                28032012,
+                28032013,
+                28032014,
+                28032015,
+                28032016,
+                28032017,
+                28032018,
+                28032019,
+                28032020,
+                28032021
+            ],
+            "expandWaveId": 2,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28032003,
+            "enemies": [
+                28032001
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28032004,
+            "enemies": [
+                28032002,
+                28032003,
+                28032004,
+                28032005,
+                28032006,
+                28032007,
+                28032008
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28032005,
+            "enemies": [
+                28032009
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28032006,
+            "enemies": [
+                28032010
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28032007,
+            "enemies": [
+                28032011
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28033002,
+            "enemies": [
+                28033001,
+                28033002
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28033003,
+            "enemies": [
+                28033003,
+                28033004,
+                28033005,
+                28033006,
+                28033007,
+                28033008,
+                28033009
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28033004,
+            "enemies": [
+                28033010,
+                28033011,
+                28033012,
+                28033013
+            ],
+            "expandWaveId": 2,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28034002,
+            "enemies": [
+                28034001,
+                28034002,
+                28034003,
+                28034004,
+                28034005,
+                28034006,
+                28034007,
+                28034008
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28034003,
+            "enemies": [
+                28034009,
+                28034010,
+                28034011,
+                28034012,
+                28034013
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28034004,
+            "enemies": [
+                28034014,
+                28034015
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28034006,
+            "enemies": [
+                28034016,
+                28034017,
+                28034018,
+                28034019,
+                28034020,
+                28034021,
+                28034022
+            ],
+            "expandWaveId": 2,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28035001,
+            "enemies": [
+                28035001,
+                28035002,
+                28035003,
+                28035004,
+                28035005,
+                28035006,
+                28035007,
+                28035008,
+                28035009,
+                28035010
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28035002,
+            "enemies": [
+                28035011,
+                28035012,
+                28035013
+            ],
+            "expandWaveId": 3,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28035003,
+            "enemies": [
+                28035014,
+                28035015,
+                28035016
+            ],
+            "expandWaveId": 3,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28035004,
+            "enemies": [
+                28035017,
+                28035018,
+                28035019,
+                28035020
+            ],
+            "expandWaveId": 2,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28041002,
+            "enemies": [
+                28041008,
+                28041009
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28041003,
+            "enemies": [
+                28041010,
+                28041011,
+                28041012,
+                28041013
+            ],
+            "expandWaveId": 2,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28041004,
+            "enemies": [
+                28041014,
+                28041015,
+                28041016,
+                28041017,
+                28041018
+            ],
+            "expandWaveId": 3,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28041005,
+            "enemies": [
+                28041001,
+                28041002,
+                28041003,
+                28041004,
+                28041005,
+                28041006,
+                28041007
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28042001,
+            "enemies": [
+                28042001,
+                28042002,
+                28042003,
+                28042004,
+                28042005,
+                28042006,
+                28042007,
+                28042008
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28042002,
+            "enemies": [
+                28042009,
+                28042010
+            ],
+            "expandWaveId": 2,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28042003,
+            "enemies": [
+                28042011,
+                28042012,
+                28042013
+            ],
+            "expandWaveId": 3,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28042004,
+            "enemies": [
+                28042014,
+                28042015
+            ],
+            "expandWaveId": 4,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28042005,
+            "enemies": [
+                28042016,
+                28042017
+            ],
+            "expandWaveId": 5,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28042006,
+            "enemies": [
+                28042018,
+                28042019
+            ],
+            "expandWaveId": 6,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28042007,
+            "enemies": [
+                28042020,
+                28042021,
+                28042022
+            ],
+            "expandWaveId": 7,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28043002,
+            "enemies": [
+                28043001
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28043003,
+            "enemies": [
+                28043002
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28043004,
+            "enemies": [
+                28043003,
+                28043004,
+                28043005,
+                28043006
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28043005,
+            "enemies": [
+                28043007,
+                28043008,
+                28043009,
+                28043010
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28044003,
+            "enemies": [
+                28044009,
+                28044010,
+                28044011,
+                28044012
+            ],
+            "expandWaveId": 2,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28044004,
+            "enemies": [
+                28044013,
+                28044014,
+                28044015,
+                28044016,
+                28044017,
+                28044018,
+                28044019
+            ],
+            "expandWaveId": 3,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28044005,
+            "enemies": [
+                28044001,
+                28044002,
+                28044003,
+                28044004,
+                28044005,
+                28044006,
+                28044007,
+                28044008
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28045002,
+            "enemies": [
+                28045001,
+                28045002,
+                28045003,
+                28045004,
+                28045005,
+                28045006,
+                28045007
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28045003,
+            "enemies": [
+                28045008,
+                28045009,
+                28045010,
+                28045011,
+                28045012,
+                28045013
+            ],
+            "expandWaveId": 1,
+            "isWatchSpawn": 0
+        },
+        {
+            "id": 28045004,
+            "enemies": [
+                28045014,
+                28045015,
+                28045016,
+                28045017,
+                28045018,
+                28045019
+            ],
+            "expandWaveId": 2,
             "isWatchSpawn": 0
         },
         {
@@ -32920,28 +34826,918 @@
             "expandWaveId": 0
         },
         {
+            "id": 30501002,
+            "enemies": [
+                30501008,
+                30501009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30501003,
+            "enemies": [
+                30501001,
+                30501002,
+                30501003,
+                30501004,
+                30501005,
+                30501006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30501004,
+            "enemies": [
+                30501007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30502002,
+            "enemies": [
+                30502001,
+                30502002,
+                30502003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30502003,
+            "enemies": [
+                30502004,
+                30502005,
+                30502006,
+                30502007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30502004,
+            "enemies": [
+                30502009,
+                30502010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30502005,
+            "enemies": [
+                30502008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30503002,
+            "enemies": [
+                30503001,
+                30503002,
+                30503003,
+                30503004,
+                30503005,
+                30503006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30503003,
+            "enemies": [
+                30503007,
+                30503008,
+                30503009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30504002,
+            "enemies": [
+                30504001,
+                30504002,
+                30504003,
+                30504004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30504003,
+            "enemies": [
+                30504005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30504004,
+            "enemies": [
+                30504006,
+                30504007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30504005,
+            "enemies": [
+                30504008,
+                30504009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30505002,
+            "enemies": [
+                30505001,
+                30505002,
+                30505003,
+                30505004,
+                30505005,
+                30505006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30505003,
+            "enemies": [
+                30505007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30506002,
+            "enemies": [
+                30506001,
+                30506002,
+                30506003,
+                30506004,
+                30506005,
+                30506006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30506003,
+            "enemies": [
+                30506007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30506004,
+            "enemies": [
+                30506008,
+                30506009,
+                30506010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30506005,
+            "enemies": [
+                30506011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30507002,
+            "enemies": [
+                30507001,
+                30507002,
+                30507003,
+                30507004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30507003,
+            "enemies": [
+                30507007,
+                30507008,
+                30507009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30507004,
+            "enemies": [
+                30507005,
+                30507006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30507005,
+            "enemies": [
+                30507010,
+                30507011,
+                30507012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30508002,
+            "enemies": [
+                30508013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30508003,
+            "enemies": [
+                30508014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30508004,
+            "enemies": [
+                30508015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30508005,
+            "enemies": [
+                30508009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30508006,
+            "enemies": [
+                30508010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30508007,
+            "enemies": [
+                30508011,
+                30508012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30508008,
+            "enemies": [
+                30508001,
+                30508002,
+                30508003,
+                30508004,
+                30508005,
+                30508006,
+                30508007,
+                30508008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30509002,
+            "enemies": [
+                30509001,
+                30509002,
+                30509003,
+                30509004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30509003,
+            "enemies": [
+                30509005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30509004,
+            "enemies": [
+                30509006,
+                30509007,
+                30509008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30509005,
+            "enemies": [
+                30509009,
+                30509010,
+                30509011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30510002,
+            "enemies": [
+                30510001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30510003,
+            "enemies": [
+                30510002,
+                30510003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30510004,
+            "enemies": [
+                30510004,
+                30510005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30510005,
+            "enemies": [
+                30510006,
+                30510007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30541002,
+            "enemies": [
+                30541001,
+                30541002,
+                30541003,
+                30541004,
+                30541005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30541003,
+            "enemies": [
+                30541006,
+                30541007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30541004,
+            "enemies": [
+                30541008,
+                30541009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30542002,
+            "enemies": [
+                30542001,
+                30542002,
+                30542003,
+                30542004,
+                30542005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30542003,
+            "enemies": [
+                30542006,
+                30542007,
+                30542008,
+                30542009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30542004,
+            "enemies": [
+                30542010,
+                30542011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30543002,
+            "enemies": [
+                30543001,
+                30543002,
+                30543003,
+                30543004,
+                30543005,
+                30543006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30543003,
+            "enemies": [
+                30543007,
+                30543008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30543004,
+            "enemies": [
+                30543009,
+                30543010,
+                30543011,
+                30543012,
+                30543013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30544002,
+            "enemies": [
+                30544001,
+                30544002,
+                30544003,
+                30544004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30544003,
+            "enemies": [
+                30544005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30544004,
+            "enemies": [
+                30544006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30544005,
+            "enemies": [
+                30544009,
+                30544010,
+                30544011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30544006,
+            "enemies": [
+                30544012,
+                30544013,
+                30544014,
+                30544015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30544008,
+            "enemies": [
+                30544007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30544010,
+            "enemies": [
+                30544008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30545002,
+            "enemies": [
+                30545001,
+                30545002,
+                30545003,
+                30545004,
+                30545005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30545003,
+            "enemies": [
+                30545006,
+                30545007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30545004,
+            "enemies": [
+                30545008,
+                30545009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30545005,
+            "enemies": [
+                30545010,
+                30545011,
+                30545012,
+                30545013,
+                30545014,
+                30545015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30545006,
+            "enemies": [
+                30545016,
+                30545017,
+                30545018,
+                30545019
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30546002,
+            "enemies": [
+                30546001,
+                30546002,
+                30546003,
+                30546004,
+                30546005,
+                30546006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30546003,
+            "enemies": [
+                30546007,
+                30546008,
+                30546009,
+                30546010,
+                30546011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30561002,
+            "enemies": [
+                30561011,
+                30561012,
+                30561013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30561003,
+            "enemies": [
+                30561014,
+                30561015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30561004,
+            "enemies": [
+                30561001,
+                30561002,
+                30561003,
+                30561004,
+                30561005,
+                30561006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30561005,
+            "enemies": [
+                30561007,
+                30561008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30561006,
+            "enemies": [
+                30561009,
+                30561010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30562002,
+            "enemies": [
+                30562001,
+                30562002,
+                30562003,
+                30562004,
+                30562005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30562003,
+            "enemies": [
+                30562008,
+                30562009,
+                30562010,
+                30562011,
+                30562012,
+                30562013,
+                30562014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30562004,
+            "enemies": [
+                30562015,
+                30562016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30562005,
+            "enemies": [
+                30562017,
+                30562018,
+                30562019
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30562006,
+            "enemies": [
+                30562006,
+                30562007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30563002,
+            "enemies": [
+                30563001,
+                30563002,
+                30563003,
+                30563004,
+                30563005,
+                30563006,
+                30563007,
+                30563008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30563003,
+            "enemies": [
+                30563009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30563004,
+            "enemies": [
+                30563010,
+                30563011,
+                30563012,
+                30563013,
+                30563014,
+                30563015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30563005,
+            "enemies": [
+                30563016,
+                30563017
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564002,
+            "enemies": [
+                30564012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564003,
+            "enemies": [
+                30564013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564004,
+            "enemies": [
+                30564014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564005,
+            "enemies": [
+                30564010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564007,
+            "enemies": [
+                30564011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564008,
+            "enemies": [
+                30564002,
+                30564003,
+                30564004,
+                30564005,
+                30564006,
+                30564007,
+                30564008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564009,
+            "enemies": [
+                30564001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564010,
+            "enemies": [
+                30564015,
+                30564016,
+                30564017,
+                30564018,
+                30564019
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564011,
+            "enemies": [
+                30564020,
+                30564021,
+                30564022
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30564012,
+            "enemies": [
+                30564009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30565002,
+            "enemies": [
+                30565001,
+                30565002,
+                30565003,
+                30565004,
+                30565005,
+                30565006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30565003,
+            "enemies": [
+                30565007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30565004,
+            "enemies": [
+                30565010,
+                30565011,
+                30565012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30565005,
+            "enemies": [
+                30565008,
+                30565009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30565006,
+            "enemies": [
+                30565015,
+                30565016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30565007,
+            "enemies": [
+                30565013,
+                30565014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
             "id": 30571002,
             "enemies": [
                 30571001,
                 30571002,
                 30571003,
-                30571004
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 30571003,
-            "enemies": [
+                30571004,
                 30571005,
-                30571006
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 30571004,
-            "enemies": [
+                30571006,
                 30571007,
                 30571008
             ],
@@ -32949,80 +35745,438 @@
             "expandWaveId": 0
         },
         {
-            "id": 30571005,
+            "id": 30571003,
+            "enemies": [
+                30571018,
+                30571019,
+                30571020
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30571004,
             "enemies": [
                 30571009,
                 30571010,
-                30571011
+                30571011,
+                30571012
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 30571006,
+            "id": 30571005,
             "enemies": [
-                30571012,
-                30571013
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 30571007,
-            "enemies": [
+                30571013,
                 30571014,
                 30571015,
-                30571016
+                30571016,
+                30571017
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 30571008,
+            "id": 30572002,
             "enemies": [
-                30571017,
-                30571018,
-                30571019
+                30572001,
+                30572002,
+                30572003,
+                30572004,
+                30572005,
+                30572006,
+                30572007
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 30571009,
+            "id": 30572003,
             "enemies": [
-                30571020,
-                30571021
+                30572008,
+                30572009,
+                30572010
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 30571010,
+            "id": 30572004,
             "enemies": [
-                30571022,
-                30571023
+                30572013,
+                30572014
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 30571011,
+            "id": 30572005,
             "enemies": [
-                30571024
+                30572015,
+                30572016,
+                30572017
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
         },
         {
-            "id": 30583001,
+            "id": 30572006,
             "enemies": [
-                30583001,
-                30583002,
-                30583003,
-                30583004,
-                30583005,
-                30583006,
-                30583007
+                30572011,
+                30572012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30572007,
+            "enemies": [
+                30572018,
+                30572019,
+                30572020
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30572008,
+            "enemies": [
+                30572021,
+                30572022,
+                30572023,
+                30572024
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30572009,
+            "enemies": [
+                30572025,
+                30572026
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30572010,
+            "enemies": [
+                30572027,
+                30572028
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30573002,
+            "enemies": [
+                30573008,
+                30573009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30573004,
+            "enemies": [
+                30573012,
+                30573013,
+                30573014,
+                30573015,
+                30573016,
+                30573017
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30573006,
+            "enemies": [
+                30573018,
+                30573019,
+                30573020,
+                30573021
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30573007,
+            "enemies": [
+                30573022,
+                30573023,
+                30573024,
+                30573025,
+                30573026,
+                30573027,
+                30573028
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30573008,
+            "enemies": [
+                30573001,
+                30573002,
+                30573003,
+                30573004,
+                30573005,
+                30573006,
+                30573007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30573010,
+            "enemies": [
+                30573010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30573011,
+            "enemies": [
+                30573011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30574001,
+            "enemies": [
+                30574001,
+                30574002,
+                30574003,
+                30574004,
+                30574005,
+                30574006,
+                30574007,
+                30574008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30574002,
+            "enemies": [
+                30574009,
+                30574010,
+                30574011,
+                30574012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30574003,
+            "enemies": [
+                30574016,
+                30574017,
+                30574018
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30574004,
+            "enemies": [
+                30574013,
+                30574014,
+                30574015
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30575002,
+            "enemies": [
+                30575006,
+                30575007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30575003,
+            "enemies": [
+                30575008,
+                30575009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30575004,
+            "enemies": [
+                30575010,
+                30575011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30575005,
+            "enemies": [
+                30575012,
+                30575013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30575006,
+            "enemies": [
+                30575001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30575007,
+            "enemies": [
+                30575002,
+                30575003,
+                30575004,
+                30575005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30581002,
+            "enemies": [
+                30581001,
+                30581002,
+                30581003,
+                30581004,
+                30581005,
+                30581006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30581003,
+            "enemies": [
+                30581009,
+                30581010,
+                30581011,
+                30581012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30581004,
+            "enemies": [
+                30581013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30581005,
+            "enemies": [
+                30581007,
+                30581008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30581006,
+            "enemies": [
+                30581023,
+                30581024,
+                30581025,
+                30581026
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30581007,
+            "enemies": [
+                30581021,
+                30581022
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30581008,
+            "enemies": [
+                30581014,
+                30581015,
+                30581016,
+                30581017,
+                30581018,
+                30581019,
+                30581020
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30582001,
+            "enemies": [
+                30582001,
+                30582002,
+                30582003,
+                30582004,
+                30582005,
+                30582006,
+                30582007,
+                30582008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30582002,
+            "enemies": [
+                30582009,
+                30582010,
+                30582011,
+                30582012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30582004,
+            "enemies": [
+                30582017,
+                30582018,
+                30582019,
+                30582020,
+                30582021
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30582005,
+            "enemies": [
+                30582022,
+                30582023,
+                30582024,
+                30582025
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30582006,
+            "enemies": [
+                30582013,
+                30582014,
+                30582015,
+                30582016
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33030,9 +36184,7 @@
         {
             "id": 30583002,
             "enemies": [
-                30583008,
-                30583009,
-                30583010
+                30583001
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33040,10 +36192,7 @@
         {
             "id": 30583003,
             "enemies": [
-                30583011,
-                30583012,
-                30583013,
-                30583014
+                30583012
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33051,11 +36200,14 @@
         {
             "id": 30583004,
             "enemies": [
-                30583015,
-                30583016,
-                30583017,
-                30583018,
-                30583019
+                30583002,
+                30583003,
+                30583004,
+                30583005,
+                30583006,
+                30583007,
+                30583008,
+                30583009
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33063,9 +36215,9 @@
         {
             "id": 30583005,
             "enemies": [
-                30583020,
-                30583021,
-                30583022
+                30583014,
+                30583015,
+                30583016
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33073,8 +36225,10 @@
         {
             "id": 30583006,
             "enemies": [
-                30583023,
-                30583024
+                30583017,
+                30583018,
+                30583019,
+                30583020
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33082,8 +36236,162 @@
         {
             "id": 30583007,
             "enemies": [
-                30583025,
-                30583026
+                30583021,
+                30583022
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30583008,
+            "enemies": [
+                30583010,
+                30583011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30583009,
+            "enemies": [
+                30583013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30583010,
+            "enemies": [
+                30583023
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30583011,
+            "enemies": [
+                30583024
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30584002,
+            "enemies": [
+                30584001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30584003,
+            "enemies": [
+                30584002,
+                30584003,
+                30584004,
+                30584005,
+                30584006,
+                30584007,
+                30584008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30584004,
+            "enemies": [
+                30584012,
+                30584013,
+                30584014,
+                30584015,
+                30584016,
+                30584017,
+                30584018,
+                30584019
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30584005,
+            "enemies": [
+                30584009,
+                30584010,
+                30584011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30585002,
+            "enemies": [
+                30585001,
+                30585002,
+                30585003,
+                30585004,
+                30585005,
+                30585006,
+                30585007,
+                30585008,
+                30585009,
+                30585010,
+                30585011,
+                30585012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30585003,
+            "enemies": [
+                30585013
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30585004,
+            "enemies": [
+                30585014
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30585005,
+            "enemies": [
+                30585015,
+                30585016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30585006,
+            "enemies": [
+                30585017,
+                30585018,
+                30585019
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30585007,
+            "enemies": [
+                30585020,
+                30585021,
+                30585022
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30585008,
+            "enemies": [
+                30585023,
+                30585024,
+                30585025
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33142,6 +36450,50 @@
             "expandWaveId": 0
         },
         {
+            "id": 30604001,
+            "enemies": [
+                30604001,
+                30604002,
+                30604003,
+                30604004,
+                30604005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30605001,
+            "enemies": [
+                30605001,
+                30605002,
+                30605003,
+                30605004,
+                30605005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30606002,
+            "enemies": [
+                30606001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30606003,
+            "enemies": [
+                30606002,
+                30606003,
+                30606004,
+                30606005,
+                30606006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
             "id": 30607001,
             "enemies": [
                 30607001,
@@ -33151,6 +36503,46 @@
                 30607005,
                 30607006,
                 30607007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30608001,
+            "enemies": [
+                30608001,
+                30608002,
+                30608003,
+                30608004,
+                30608005,
+                30608006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30609002,
+            "enemies": [
+                30609001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30609003,
+            "enemies": [
+                30609002,
+                30609003,
+                30609004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30609004,
+            "enemies": [
+                30609005,
+                30609006
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33183,6 +36575,76 @@
             "expandWaveId": 0
         },
         {
+            "id": 30612002,
+            "enemies": [
+                30612004,
+                30612005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30612003,
+            "enemies": [
+                30612001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30612004,
+            "enemies": [
+                30612002,
+                30612003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30613001,
+            "enemies": [
+                30613001,
+                30613002,
+                30613003,
+                30613004,
+                30613005,
+                30613006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30614001,
+            "enemies": [
+                30614001,
+                30614002,
+                30614003,
+                30614004,
+                30614005,
+                30614006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30615002,
+            "enemies": [
+                30615001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30615003,
+            "enemies": [
+                30615002,
+                30615003,
+                30615004
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
             "id": 30616001,
             "enemies": [
                 30616001,
@@ -33192,6 +36654,404 @@
                 30616005,
                 30616006,
                 30616007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30617001,
+            "enemies": [
+                30617001,
+                30617002,
+                30617003,
+                30617004,
+                30617005,
+                30617006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30618002,
+            "enemies": [
+                30618001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30618003,
+            "enemies": [
+                30618002,
+                30618003,
+                30618004,
+                30618005,
+                30618006,
+                30618007,
+                30618008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30618004,
+            "enemies": [
+                30618009,
+                30618010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30619001,
+            "enemies": [
+                30619001,
+                30619002,
+                30619003,
+                30619004,
+                30619005,
+                30619006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30620001,
+            "enemies": [
+                30620001,
+                30620002,
+                30620003,
+                30620004,
+                30620005,
+                30620006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30621002,
+            "enemies": [
+                30621001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30621003,
+            "enemies": [
+                30621002,
+                30621003,
+                30621004,
+                30621005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30621004,
+            "enemies": [
+                30621006,
+                30621007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30621005,
+            "enemies": [
+                30621008,
+                30621009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30622001,
+            "enemies": [
+                30622001,
+                30622002,
+                30622003,
+                30622004,
+                30622005,
+                30622006,
+                30622007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30623001,
+            "enemies": [
+                30623001,
+                30623002,
+                30623003,
+                30623004,
+                30623005,
+                30623006,
+                30623007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30623002,
+            "enemies": [
+                30623009,
+                30623010,
+                30623011
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30623003,
+            "enemies": [
+                30623008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30624002,
+            "enemies": [
+                30624001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30624003,
+            "enemies": [
+                30624002,
+                30624003,
+                30624004,
+                30624005,
+                30624006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30625001,
+            "enemies": [
+                30625001,
+                30625002,
+                30625003,
+                30625004,
+                30625005,
+                30625006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30625002,
+            "enemies": [
+                30625009,
+                30625010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30625003,
+            "enemies": [
+                30625007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30625004,
+            "enemies": [
+                30625008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30626001,
+            "enemies": [
+                30626001,
+                30626002,
+                30626003,
+                30626004,
+                30626005,
+                30626006,
+                30626007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30626002,
+            "enemies": [
+                30626010,
+                30626011,
+                30626012
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30626003,
+            "enemies": [
+                30626008,
+                30626009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30627002,
+            "enemies": [
+                30627001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30627003,
+            "enemies": [
+                30627002,
+                30627003,
+                30627004,
+                30627005,
+                30627006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30627004,
+            "enemies": [
+                30627007,
+                30627008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30627005,
+            "enemies": [
+                30627009,
+                30627010
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30628001,
+            "enemies": [
+                30628001,
+                30628002,
+                30628003,
+                30628004,
+                30628005,
+                30628006,
+                30628007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30629001,
+            "enemies": [
+                30629001,
+                30629002,
+                30629003,
+                30629004,
+                30629005,
+                30629006
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30630002,
+            "enemies": [
+                30630001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30630003,
+            "enemies": [
+                30630002,
+                30630003,
+                30630004,
+                30630005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30630004,
+            "enemies": [
+                30630006,
+                30630007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30631001,
+            "enemies": [
+                30631001,
+                30631002,
+                30631003,
+                30631004,
+                30631005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30632001,
+            "enemies": [
+                30632001,
+                30632002,
+                30632003,
+                30632004,
+                30632005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30633002,
+            "enemies": [
+                30633001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30633003,
+            "enemies": [
+                30633002,
+                30633003,
+                30633004,
+                30633005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30633004,
+            "enemies": [
+                30633006,
+                30633007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30633005,
+            "enemies": [
+                30633008,
+                30633009
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33222,6 +37082,41 @@
                 30805014,
                 30805015,
                 30805016
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30806001,
+            "enemies": [
+                30806001,
+                30806002,
+                30806003,
+                30806004,
+                30806005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30806002,
+            "enemies": [
+                30806006,
+                30806007,
+                30806008,
+                30806009
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 30806003,
+            "enemies": [
+                30806010,
+                30806011,
+                30806012,
+                30806013,
+                30806014
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33354,10 +37249,7 @@
         {
             "id": 39006001,
             "enemies": [
-                39006001,
-                39006002,
-                39006003,
-                39006004
+                39006001
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33365,8 +37257,27 @@
         {
             "id": 39006002,
             "enemies": [
+                39006002
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 39006003,
+            "enemies": [
+                39006004,
                 39006005,
-                39006006
+                39006006,
+                39006007,
+                39006008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 39006004,
+            "enemies": [
+                39006003
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -33376,8 +37287,26 @@
             "enemies": [
                 39007001,
                 39007002,
-                39007003,
-                39007004
+                39007003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 39007002,
+            "enemies": [
+                39007006,
+                39007007,
+                39007008
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 39007004,
+            "enemies": [
+                39007004,
+                39007005
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -39812,8 +43741,7 @@
             "id": 72501002,
             "enemies": [
                 72501001,
-                72501002,
-                72501003
+                72501002
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -39821,7 +43749,7 @@
         {
             "id": 72501004,
             "enemies": [
-                72501006
+                72501005
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -39829,7 +43757,7 @@
         {
             "id": 72501005,
             "enemies": [
-                72501005
+                72501004
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -39837,16 +43765,7 @@
         {
             "id": 72501006,
             "enemies": [
-                72501004
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 72501007,
-            "enemies": [
-                72501007,
-                72501008
+                72501003
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -39931,9 +43850,35 @@
             "expandWaveId": 0
         },
         {
-            "id": 72503001,
+            "id": 72503002,
             "enemies": [
                 72503001
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 72503003,
+            "enemies": [
+                72503002,
+                72503003
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 72503004,
+            "enemies": [
+                72503004,
+                72503005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 72503005,
+            "enemies": [
+                72503006
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -39986,7 +43931,7 @@
         {
             "id": 72602009,
             "enemies": [
-                72602017
+                72602015
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -39994,8 +43939,8 @@
         {
             "id": 72602011,
             "enemies": [
-                72602015,
-                72602016
+                72602013,
+                72602014
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -40009,33 +43954,20 @@
             "expandWaveId": 0
         },
         {
-            "id": 72602013,
-            "enemies": [
-                72602013
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 72602014,
-            "enemies": [
-                72602014
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 72602015,
-            "enemies": [
-                72602018
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
             "id": 72602016,
             "enemies": [
                 72602005
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 81005001,
+            "enemies": [
+                81005001,
+                81005002,
+                81005003,
+                81005004
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -43895,40 +47827,7 @@
             "enemies": [
                 91110001,
                 91110002,
-                91110003,
-                91110004
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 91110002,
-            "enemies": [
-                91110005
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 91110003,
-            "enemies": [
-                91110006
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 91110004,
-            "enemies": [
-                91110007
-            ],
-            "isWatchSpawn": 0,
-            "expandWaveId": 0
-        },
-        {
-            "id": 91110005,
-            "enemies": [
-                91110008
+                91110003
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -43964,7 +47863,11 @@
             "id": 91113001,
             "enemies": [
                 91113001,
-                91113002
+                91113002,
+                91113003,
+                91113004,
+                91113005,
+                91113006
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -44083,7 +47986,8 @@
         {
             "id": 91123001,
             "enemies": [
-                91123001
+                91123001,
+                91123002
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -44258,8 +48162,7 @@
                 91128006,
                 91128007,
                 91128008,
-                91128009,
-                91128010
+                91128009
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -44267,10 +48170,9 @@
         {
             "id": 91128002,
             "enemies": [
+                91128010,
                 91128011,
-                91128012,
-                91128013,
-                91128014
+                91128012
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -44278,11 +48180,10 @@
         {
             "id": 91128003,
             "enemies": [
+                91128013,
+                91128014,
                 91128015,
-                91128016,
-                91128017,
-                91128018,
-                91128019
+                91128016
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0
@@ -44297,6 +48198,17 @@
                 91129005,
                 91129006,
                 91129007
+            ],
+            "isWatchSpawn": 0,
+            "expandWaveId": 0
+        },
+        {
+            "id": 91130001,
+            "enemies": [
+                91130001,
+                91130002,
+                91130003,
+                91130004
             ],
             "isWatchSpawn": 0,
             "expandWaveId": 0

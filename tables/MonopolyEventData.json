@@ -89,6 +89,156 @@
             "eventParam1": 20,
             "eventParam2": 0,
             "spineExpression": ""
+        },
+        {
+            "id": 120001,
+            "eventName": "回收站",
+            "eventIcon": "Icon_ActivityTour_Event_Replacement_M",
+            "eventDesc": "请选择想要置换的指令 {0}/{1}，置换后，将获得等数量的新指令",
+            "eventType": 3,
+            "eventParam1": 2,
+            "eventParam2": 120100,
+            "spineExpression": ""
+        },
+        {
+            "id": 120002,
+            "eventName": "修改器",
+            "eventIcon": "Icon_ActivityTour_Event_LevelUp_M",
+            "eventDesc": "指令升级",
+            "eventType": 4,
+            "eventParam1": 3,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120003,
+            "eventName": "复写脚本",
+            "eventIcon": "Icon_ActivityTour_Event_Copy_M",
+            "eventDesc": "请选择想要复制的指令 {0}/{1}",
+            "eventType": 5,
+            "eventParam1": 1,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120004,
+            "eventName": "版本更新",
+            "eventIcon": "Icon_ActivityTour_Event_CurrencyUp_M",
+            "eventDesc": "行动密钥增加",
+            "eventType": 6,
+            "eventParam1": 150,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120005,
+            "eventName": "版本回退",
+            "eventIcon": "Icon_ActivityTour_Event_CurrencyDown_M",
+            "eventDesc": "行动密钥减少",
+            "eventType": 6,
+            "eventParam1": 90,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120101,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜1-1图通用商店",
+            "eventType": 2,
+            "eventParam1": 12011,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120201,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜1-2图通用商店",
+            "eventType": 2,
+            "eventParam1": 12021,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120301,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜1-3图通用商店",
+            "eventType": 2,
+            "eventParam1": 12031,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120401,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜2-1图通用商店",
+            "eventType": 2,
+            "eventParam1": 12041,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120501,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜2-2图通用商店",
+            "eventType": 2,
+            "eventParam1": 12051,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120601,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜2-3图通用商店",
+            "eventType": 2,
+            "eventParam1": 12061,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120701,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜3-1图通用商店",
+            "eventType": 2,
+            "eventParam1": 12071,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120801,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜3-2图通用商店",
+            "eventType": 2,
+            "eventParam1": 12081,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 120901,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜3-3图通用商店",
+            "eventType": 2,
+            "eventParam1": 12091,
+            "eventParam2": 0,
+            "spineExpression": ""
+        },
+        {
+            "id": 121001,
+            "eventName": "控制后台",
+            "eventIcon": "Icon_ActivityTour_Event_Shop_M",
+            "eventDesc": "莱娜3-4图通用商店",
+            "eventType": 2,
+            "eventParam1": 12101,
+            "eventParam2": 0,
+            "spineExpression": ""
         }
     ]
 }

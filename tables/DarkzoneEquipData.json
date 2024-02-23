@@ -1808,6 +1808,20 @@
             "battleSkillCe": 0
         },
         {
+            "id": 54611,
+            "buffLimits": 1,
+            "buffType": 1,
+            "buffBaseAffix": 11641,
+            "buffSubAffix": [
+                21601,
+                21601,
+                21601
+            ],
+            "buffLimitsProperty": [],
+            "lv": [],
+            "battleSkillCe": 0
+        },
+        {
             "id": 54621,
             "buffLimits": 1,
             "buffType": 2,
@@ -1946,6 +1960,22 @@
             "buffLimits": 1,
             "buffType": 5,
             "buffBaseAffix": 15151,
+            "buffSubAffix": [
+                21101,
+                21101
+            ],
+            "lv": [
+                15,
+                20
+            ],
+            "buffLimitsProperty": [],
+            "battleSkillCe": 0
+        },
+        {
+            "id": 55161,
+            "buffLimits": 1,
+            "buffType": 6,
+            "buffBaseAffix": 16151,
             "buffSubAffix": [
                 21101,
                 21101

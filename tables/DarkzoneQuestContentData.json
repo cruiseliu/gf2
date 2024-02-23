@@ -85,7 +85,7 @@
             "targetName": "消灭剑锷泰坦",
             "targetType": 1,
             "targetArgs": {
-                "110612311": 1
+                "110612310": 1
             }
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "targetId": 111002,
-            "targetName": "消灭黑眼",
+            "targetName": "消灭黑眼·弃形",
             "targetType": 1,
             "targetArgs": {
                 "11100810": 1
@@ -256,7 +256,7 @@
         },
         {
             "targetId": 111501,
-            "targetName": "消灭黑眼",
+            "targetName": "消灭黑眼·弃形",
             "targetType": 1,
             "targetArgs": {
                 "11150710": 1
@@ -304,37 +304,47 @@
         },
         {
             "targetId": 111701,
-            "targetName": "寻找纵火者",
+            "targetName": "寻找并消灭纵火者",
+            "targetType": 1,
+            "targetArgs": {
+                "11730110": 1
+            }
+        },
+        {
+            "targetId": 111702,
+            "targetName": "找到撤离信号站，完成撤离。",
             "targetType": 1,
             "targetArgs": {}
         },
         {
             "targetId": 111801,
-            "targetName": "使用骇入点开启电子安全门",
-            "targetType": 3,
+            "targetName": "消灭堡垒泰坦",
+            "targetType": 1,
             "targetArgs": {
-                "1118052": 1
+                "111812212": 1
             }
         },
         {
             "targetId": 111802,
-            "targetName": "消灭纵火者",
+            "targetName": "找到撤离信号站，完成撤离。",
             "targetType": 1,
-            "targetArgs": {
-                "11180112": 1
-            }
+            "targetArgs": {}
         },
         {
             "targetId": 111901,
-            "targetName": "消灭任意1名敌方头目单位",
+            "targetName": "消灭黑眼·弃形",
             "targetType": 1,
-            "targetArgs": {}
+            "targetArgs": {
+                "11190710": 1
+            }
         },
         {
             "targetId": 112001,
-            "targetName": "躲避黑眼的追击，避免与其开战",
+            "targetName": "避开敌方单位黑眼·弃形的追击，或击败黑眼·弃形。",
             "targetType": 1,
-            "targetArgs": {}
+            "targetArgs": {
+                "112016210": 1
+            }
         },
         {
             "targetId": 112002,

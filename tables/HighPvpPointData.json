@@ -5,34 +5,34 @@
             "pointGroup": 1001,
             "pointSection": [
                 0,
-                500
+                2160
             ],
-            "pointFormula": 32
+            "pointFormula": 30
         },
         {
             "id": 2,
             "pointGroup": 1001,
             "pointSection": [
-                501,
-                1000
+                2161,
+                3024
             ],
-            "pointFormula": 16
+            "pointFormula": 18
         },
         {
             "id": 3,
             "pointGroup": 1001,
             "pointSection": [
-                1001,
-                1500
+                3025,
+                3384
             ],
-            "pointFormula": 8
+            "pointFormula": 10
         },
         {
             "id": 4,
             "pointGroup": 1001,
             "pointSection": [
-                1501,
-                2000
+                3385,
+                3480
             ],
             "pointFormula": 4
         },
@@ -40,16 +40,7 @@
             "id": 5,
             "pointGroup": 1001,
             "pointSection": [
-                2001,
-                2500
-            ],
-            "pointFormula": 2
-        },
-        {
-            "id": 6,
-            "pointGroup": 1001,
-            "pointSection": [
-                2501,
+                3481,
                 99999
             ],
             "pointFormula": 1

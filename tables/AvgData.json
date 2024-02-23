@@ -78,7 +78,7 @@
         {
             "id": 1010198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10101,
@@ -108,7 +108,7 @@
         {
             "id": 1010298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10102,
@@ -168,7 +168,7 @@
         {
             "id": 1010398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10103,
@@ -213,7 +213,7 @@
         {
             "id": 1010498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10104,
@@ -228,7 +228,7 @@
         {
             "id": 1010598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10105,
@@ -258,7 +258,7 @@
         {
             "id": 1010698,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 6,
             "name": "",
             "condition": 10106,
@@ -288,7 +288,7 @@
         {
             "id": 1010798,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 7,
             "name": "",
             "condition": 10107,
@@ -1681,6 +1681,21 @@
             "playBgm": 0
         },
         {
+            "id": 1078101,
+            "type": 1,
+            "collectId": 8,
+            "sort": 1,
+            "name": "亚稳定",
+            "condition": 10781,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
             "id": 1078201,
             "type": 1,
             "collectId": 8,
@@ -1906,6 +1921,171 @@
             "playBgm": 0
         },
         {
+            "id": 3050111,
+            "type": 11,
+            "collectId": 99,
+            "sort": 1,
+            "name": "",
+            "condition": 30501,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3050211,
+            "type": 11,
+            "collectId": 99,
+            "sort": 2,
+            "name": "",
+            "condition": 30502,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3050311,
+            "type": 11,
+            "collectId": 99,
+            "sort": 3,
+            "name": "",
+            "condition": 30503,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3050331,
+            "type": 31,
+            "collectId": 99,
+            "sort": 4,
+            "name": "",
+            "condition": 30503,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3050511,
+            "type": 11,
+            "collectId": 99,
+            "sort": 5,
+            "name": "",
+            "condition": 30505,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3050611,
+            "type": 11,
+            "collectId": 99,
+            "sort": 6,
+            "name": "",
+            "condition": 30506,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3050631,
+            "type": 31,
+            "collectId": 99,
+            "sort": 7,
+            "name": "",
+            "condition": 30506,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3050711,
+            "type": 11,
+            "collectId": 99,
+            "sort": 9,
+            "name": "",
+            "condition": 30507,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3050911,
+            "type": 11,
+            "collectId": 99,
+            "sort": 8,
+            "name": "",
+            "condition": 30509,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3058601,
+            "type": 1,
+            "collectId": 99,
+            "sort": 8,
+            "name": "",
+            "condition": 30586,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 3058701,
+            "type": 1,
+            "collectId": 99,
+            "sort": 9,
+            "name": "",
+            "condition": 30587,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
             "id": 10000198,
             "type": 98,
             "collectId": 99,
@@ -1923,7 +2103,7 @@
         {
             "id": 10010198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10010,
@@ -1938,7 +2118,7 @@
         {
             "id": 10010298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10010,
@@ -1953,7 +2133,7 @@
         {
             "id": 10010398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10010,
@@ -1968,7 +2148,7 @@
         {
             "id": 10010498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10010,
@@ -1983,7 +2163,7 @@
         {
             "id": 10010598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10010,
@@ -1998,7 +2178,7 @@
         {
             "id": 10080198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10080,
@@ -2013,7 +2193,7 @@
         {
             "id": 10080298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10080,
@@ -2028,7 +2208,7 @@
         {
             "id": 10080398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10080,
@@ -2043,7 +2223,7 @@
         {
             "id": 10080498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10080,
@@ -2058,7 +2238,7 @@
         {
             "id": 10080598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10080,
@@ -2073,7 +2253,7 @@
         {
             "id": 10090198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10090,
@@ -2088,7 +2268,7 @@
         {
             "id": 10090298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10090,
@@ -2103,7 +2283,7 @@
         {
             "id": 10090398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10090,
@@ -2118,7 +2298,7 @@
         {
             "id": 10090498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10090,
@@ -2133,7 +2313,7 @@
         {
             "id": 10090598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10090,
@@ -2146,9 +2326,84 @@
             "playBgm": 0
         },
         {
+            "id": 10130198,
+            "type": 98,
+            "collectId": 99,
+            "sort": 1,
+            "name": "",
+            "condition": 10130,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 10130298,
+            "type": 98,
+            "collectId": 99,
+            "sort": 2,
+            "name": "",
+            "condition": 10130,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 10130398,
+            "type": 98,
+            "collectId": 99,
+            "sort": 3,
+            "name": "",
+            "condition": 10130,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 10130498,
+            "type": 98,
+            "collectId": 99,
+            "sort": 4,
+            "name": "",
+            "condition": 10130,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
+            "id": 10130598,
+            "type": 98,
+            "collectId": 99,
+            "sort": 5,
+            "name": "",
+            "condition": 10130,
+            "jumpType": 1,
+            "jumpDes": "",
+            "text": "完成关卡{0}后解锁",
+            "number": "",
+            "rewardType": "",
+            "rewardNumber": "",
+            "playBgm": 0
+        },
+        {
             "id": 10150198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10150,
@@ -2163,7 +2418,7 @@
         {
             "id": 10150298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10150,
@@ -2178,7 +2433,7 @@
         {
             "id": 10150398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10150,
@@ -2193,7 +2448,7 @@
         {
             "id": 10150498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10150,
@@ -2208,7 +2463,7 @@
         {
             "id": 10150598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10150,
@@ -2223,7 +2478,7 @@
         {
             "id": 10170198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10170,
@@ -2238,7 +2493,7 @@
         {
             "id": 10170298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10170,
@@ -2253,7 +2508,7 @@
         {
             "id": 10170398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10170,
@@ -2268,7 +2523,7 @@
         {
             "id": 10170498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10170,
@@ -2283,7 +2538,7 @@
         {
             "id": 10170598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10170,
@@ -2298,7 +2553,7 @@
         {
             "id": 10210198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10210,
@@ -2313,7 +2568,7 @@
         {
             "id": 10210298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10210,
@@ -2328,7 +2583,7 @@
         {
             "id": 10210398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10210,
@@ -2343,7 +2598,7 @@
         {
             "id": 10210498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10210,
@@ -2358,7 +2613,7 @@
         {
             "id": 10210598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10210,
@@ -2373,7 +2628,7 @@
         {
             "id": 10220198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10220,
@@ -2388,7 +2643,7 @@
         {
             "id": 10220298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10220,
@@ -2403,7 +2658,7 @@
         {
             "id": 10220398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10220,
@@ -2418,7 +2673,7 @@
         {
             "id": 10220498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10220,
@@ -2433,7 +2688,7 @@
         {
             "id": 10220598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10220,
@@ -2448,7 +2703,7 @@
         {
             "id": 10240198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10240,
@@ -2463,7 +2718,7 @@
         {
             "id": 10240298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10240,
@@ -2478,7 +2733,7 @@
         {
             "id": 10240398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10240,
@@ -2493,7 +2748,7 @@
         {
             "id": 10240498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10240,
@@ -2508,7 +2763,7 @@
         {
             "id": 10240598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10240,
@@ -2523,7 +2778,7 @@
         {
             "id": 10250198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10250,
@@ -2538,7 +2793,7 @@
         {
             "id": 10250298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10250,
@@ -2553,7 +2808,7 @@
         {
             "id": 10250398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10250,
@@ -2568,7 +2823,7 @@
         {
             "id": 10250498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10250,
@@ -2583,7 +2838,7 @@
         {
             "id": 10250598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10250,
@@ -2598,7 +2853,7 @@
         {
             "id": 10260198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10260,
@@ -2613,7 +2868,7 @@
         {
             "id": 10260298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10260,
@@ -2628,7 +2883,7 @@
         {
             "id": 10260398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10260,
@@ -2643,7 +2898,7 @@
         {
             "id": 10260498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10260,
@@ -2658,7 +2913,7 @@
         {
             "id": 10260598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10260,
@@ -2673,7 +2928,7 @@
         {
             "id": 10270198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10270,
@@ -2688,7 +2943,7 @@
         {
             "id": 10270298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10270,
@@ -2703,7 +2958,7 @@
         {
             "id": 10270398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10270,
@@ -2718,7 +2973,7 @@
         {
             "id": 10270498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10270,
@@ -2733,7 +2988,7 @@
         {
             "id": 10270598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10270,
@@ -2748,7 +3003,7 @@
         {
             "id": 10280198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10280,
@@ -2763,7 +3018,7 @@
         {
             "id": 10280298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10280,
@@ -2778,7 +3033,7 @@
         {
             "id": 10280398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10280,
@@ -2793,7 +3048,7 @@
         {
             "id": 10280498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10280,
@@ -2808,7 +3063,7 @@
         {
             "id": 10280598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10280,
@@ -2823,7 +3078,7 @@
         {
             "id": 10290198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10290,
@@ -2838,7 +3093,7 @@
         {
             "id": 10290298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10290,
@@ -2853,7 +3108,7 @@
         {
             "id": 10290398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10290,
@@ -2868,7 +3123,7 @@
         {
             "id": 10290498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10290,
@@ -2883,7 +3138,7 @@
         {
             "id": 10290598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10290,
@@ -2898,7 +3153,7 @@
         {
             "id": 10320198,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 1,
             "name": "",
             "condition": 10320,
@@ -2913,7 +3168,7 @@
         {
             "id": 10320298,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 2,
             "name": "",
             "condition": 10320,
@@ -2928,7 +3183,7 @@
         {
             "id": 10320398,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 3,
             "name": "",
             "condition": 10320,
@@ -2943,7 +3198,7 @@
         {
             "id": 10320498,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 4,
             "name": "",
             "condition": 10320,
@@ -2958,7 +3213,7 @@
         {
             "id": 10320598,
             "type": 98,
-            "collectId": 9,
+            "collectId": 99,
             "sort": 5,
             "name": "",
             "condition": 10320,

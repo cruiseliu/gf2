@@ -805,6 +805,27 @@
             "addAbbr": []
         },
         {
+            "id": 100801,
+            "grade": 1008,
+            "name": "0阶",
+            "abbr": [
+                10080401,
+                10080501,
+                10080701,
+                10080801
+            ],
+            "addAbbr": [
+                100804011,
+                100807011,
+                100805011
+            ],
+            "icon": "Combat_GunTypeIcon_1",
+            "description": "基础阶级，通过提升阶级来使人形的技能升级。",
+            "btPath": "BT/GunBT/1008/MainBT_1008.bt",
+            "costPiece": 0,
+            "capacity": 0.0
+        },
+        {
             "id": 100802,
             "grade": 1008,
             "name": "第一阶层",
@@ -1270,11 +1291,13 @@
                 10130801
             ],
             "addAbbr": [
-                101307011
+                101305011,
+                101307011,
+                101304011
             ],
             "icon": "Combat_GunTypeIcon_1",
             "description": "基础阶级，通过提升阶级来使人形的技能升级。",
-            "btPath": "BT/GunBT_skill1.bt",
+            "btPath": "BT/GunBT/1013/MainBT_1013.bt",
             "costPiece": 0,
             "capacity": 0.0
         },
@@ -1283,68 +1306,72 @@
             "grade": 1013,
             "name": "第一阶层",
             "abbr": [
-                10130502
+                10130802
             ],
             "addAbbr": [
+                101305011,
                 101307011,
-                101305021
+                101304011
             ],
             "icon": "Combat_GunTypeIcon_2",
             "description": "解锁 莱娜SSR技能",
             "costPiece": 30,
             "capacity": 0.05,
-            "btPath": "BT/GunBT_skill1.bt"
+            "btPath": "BT/GunBT/1013/MainBT_1013.bt"
         },
         {
             "id": 101303,
             "grade": 1013,
             "name": "第二阶层",
             "abbr": [
-                10130702
+                10130502
             ],
             "addAbbr": [
-                101307021,
-                101305021
+                101305021,
+                101307011,
+                101304011
             ],
             "icon": "Combat_GunTypeIcon_3",
             "description": "解锁 莱娜SSR技能",
             "costPiece": 30,
             "capacity": 0.1,
-            "btPath": "BT/GunBT_skill1.bt"
+            "btPath": "BT/GunBT/1013/MainBT_1013.bt"
         },
         {
             "id": 101304,
             "grade": 1013,
             "name": "第三阶层",
             "abbr": [
-                10130402
+                10130702
             ],
             "addAbbr": [
-                101307021,
-                101305021
+                101305021,
+                101307011,
+                101304011
             ],
             "icon": "Combat_GunTypeIcon_4",
             "description": "解锁 莱娜SSR技能",
             "costPiece": 30,
             "capacity": 0.15,
-            "btPath": "BT/GunBT_skill1.bt"
+            "btPath": "BT/GunBT/1013/MainBT_1013.bt"
         },
         {
             "id": 101305,
             "grade": 1013,
             "name": "第四阶层",
             "abbr": [
-                10130802
+                10130402
             ],
             "addAbbr": [
-                101307021,
-                101305021
+                101305021,
+                101307011,
+                101304011
             ],
             "icon": "Combat_GunTypeIcon_1",
             "description": "解锁 莱娜SSR技能",
             "costPiece": 30,
             "capacity": 0.2,
-            "btPath": "BT/GunBT_skill1.bt"
+            "btPath": "BT/GunBT/1013/MainBT_1013.bt"
         },
         {
             "id": 101306,
@@ -1354,14 +1381,15 @@
                 10130803
             ],
             "addAbbr": [
-                101307021,
-                101305021
+                101305021,
+                101307011,
+                101304011
             ],
             "icon": "Combat_GunTypeIcon_2",
             "description": "解锁 莱娜SSR技能",
             "costPiece": 30,
             "capacity": 0.25,
-            "btPath": "BT/GunBT_skill1.bt"
+            "btPath": "BT/GunBT/1013/MainBT_1013.bt"
         },
         {
             "id": 101307,
@@ -1371,15 +1399,15 @@
                 10130403
             ],
             "addAbbr": [
-                101307021,
                 101305021,
-                101304031
+                101307011,
+                101304011
             ],
             "icon": "Combat_GunTypeIcon_2",
             "description": "解锁 莱娜SSR技能",
             "costPiece": 30,
             "capacity": 0.3,
-            "btPath": "BT/GunBT_skill1.bt"
+            "btPath": "BT/GunBT/1013/MainBT_1013.bt"
         },
         {
             "id": 101401,
@@ -2378,6 +2406,7 @@
                 10240801
             ],
             "addAbbr": [
+                1024080111,
                 102405011,
                 102407011
             ],
@@ -2395,6 +2424,7 @@
                 10240402
             ],
             "addAbbr": [
+                1024080111,
                 102405011,
                 102407011
             ],
@@ -2412,6 +2442,7 @@
                 10240502
             ],
             "addAbbr": [
+                1024080111,
                 102405011,
                 102407011
             ],
@@ -2430,6 +2461,7 @@
             ],
             "addAbbr": [
                 102407021,
+                1024080111,
                 102405011,
                 102407011
             ],
@@ -2448,6 +2480,7 @@
             ],
             "addAbbr": [
                 102407021,
+                1024080111,
                 102405011,
                 102407011
             ],
@@ -2466,6 +2499,7 @@
             ],
             "addAbbr": [
                 102407021,
+                1024080311,
                 102405011,
                 102407011
             ],
@@ -2484,6 +2518,7 @@
             ],
             "addAbbr": [
                 102407021,
+                1024080111,
                 102405011,
                 102407011
             ],

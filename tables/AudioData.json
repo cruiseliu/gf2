@@ -826,6 +826,21 @@
             "audioName": "BGM_Event_Cafe/BGM_Event_Cafe"
         },
         {
+            "id": 30088,
+            "audioType": 3,
+            "audioName": "BGM_ev_Lenna_MiniGame_Shoot/BGM_ev_Lenna_MiniGame_Shoot"
+        },
+        {
+            "id": 30089,
+            "audioType": 3,
+            "audioName": "BGM_ev_Lenna_MiniGame_Monopoly/BGM_ev_Lenna_MiniGame_Monopoly"
+        },
+        {
+            "id": 30090,
+            "audioType": 3,
+            "audioName": "BGM_ev_Lenna_Main/BGM_ev_Lenna_Main"
+        },
+        {
             "id": 40001,
             "audioType": 4,
             "audioName": "BGM_Satellite_Station/BGM_Satellite_Station"
@@ -1402,8 +1417,13 @@
         },
         {
             "id": 52025,
-            "audioType": 5,
+            "audioType": 6,
             "audioName": "C_SR01_Littara/C_SR01_Littara_UltraSkill_Explo"
+        },
+        {
+            "id": 52026,
+            "audioType": 6,
+            "audioName": "Hit_Temp/Gun_Sniper_Hit_Heavy"
         },
         {
             "id": 53001,
@@ -1884,6 +1904,31 @@
             "id": 55024,
             "audioType": 5,
             "audioName": "EN_Foley_Common/HumanRobot_Mech_Body"
+        },
+        {
+            "id": 55025,
+            "audioType": 5,
+            "audioName": "EN_Foley_Common/EN_Small_Human_Run_Mech"
+        },
+        {
+            "id": 55026,
+            "audioType": 5,
+            "audioName": "EN_Foley_Common/EN_Small_Human_Walk_Mech"
+        },
+        {
+            "id": 55027,
+            "audioType": 5,
+            "audioName": "EN_Foley_Common/EN_Small_Human_Jump_Mech"
+        },
+        {
+            "id": 55028,
+            "audioType": 5,
+            "audioName": "EN_Foley_Common/EN_Small_Human_Collision_Body_Mech"
+        },
+        {
+            "id": 55029,
+            "audioType": 5,
+            "audioName": "EN_Foley_Common/EN_Small_Human_Collision_Foot_Mech"
         },
         {
             "id": 56001,
@@ -2816,6 +2861,61 @@
             "audioName": "Spine_Common/Spine_Charolic_Attack"
         },
         {
+            "id": 580013,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Human_Footstep_Run_Boots"
+        },
+        {
+            "id": 580014,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Nemertea_Atk"
+        },
+        {
+            "id": 580015,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Nemertea_Move"
+        },
+        {
+            "id": 580016,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Nemertea_Move_Stop"
+        },
+        {
+            "id": 580017,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Obshare_Attack"
+        },
+        {
+            "id": 580018,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Obshare_Footstep_Run"
+        },
+        {
+            "id": 580019,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Urokrake_Ark"
+        },
+        {
+            "id": 580020,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Urokrake_Mech_MoveStart"
+        },
+        {
+            "id": 580021,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Urokrake_Mech_MoveStop"
+        },
+        {
+            "id": 580022,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Urokrake_Footstep_Walk"
+        },
+        {
+            "id": 580023,
+            "audioType": 5,
+            "audioName": "Spine_Common/Spine_Olijfat_Attack"
+        },
+        {
             "id": 590001,
             "audioType": 5,
             "audioName": "Event_SP_Daiyan/SP_Daiyan_Burn"
@@ -2884,6 +2984,26 @@
             "id": 590014,
             "audioType": 5,
             "audioName": "Event_SP_Daiyan/SP_Daiyan_Terrain_Water"
+        },
+        {
+            "id": 590015,
+            "audioType": 5,
+            "audioName": "Event_SP_Daiyan/SP_Daiyan_Teleport_1"
+        },
+        {
+            "id": 590016,
+            "audioType": 5,
+            "audioName": "Event_SP_Daiyan/SP_Daiyan_Teleport_2"
+        },
+        {
+            "id": 590017,
+            "audioType": 5,
+            "audioName": "Event_SP_Daiyan/SP_Daiyan_Hit_Normal"
+        },
+        {
+            "id": 590018,
+            "audioType": 5,
+            "audioName": "Event_SP_Lenna/SP_Lenna_WeakEffect"
         },
         {
             "id": 900011,
@@ -3143,7 +3263,17 @@
         {
             "id": 1010037,
             "audioType": 1,
-            "audioName": "UI_Battle/UI_Battle_Rollback"
+            "audioName": ""
+        },
+        {
+            "id": 1010038,
+            "audioType": 1,
+            "audioName": "Audio_Temp/UIBat_Main_S_EnterUltraTL"
+        },
+        {
+            "id": 1010039,
+            "audioType": 1,
+            "audioName": "Audio_Temp/UIBat_S_CampChange"
         },
         {
             "id": 1020001,
@@ -4888,7 +5018,7 @@
         {
             "id": 1020349,
             "audioType": 1,
-            "audioName": "Audio_Temp/UISys_Bedroom_C_Like"
+            "audioName": "UI_System/UISys_Bedroom_C_Like"
         },
         {
             "id": 1020350,
@@ -5346,6 +5476,46 @@
             "audioName": "Audio_Temp/UISys_Bedroom_C_ActChange"
         },
         {
+            "id": 1020441,
+            "audioType": 1,
+            "audioName": "UI_HigherPVP/UI_HihgerPVP_S_SceneChange"
+        },
+        {
+            "id": 1020442,
+            "audioType": 1,
+            "audioName": "UI_HigherPVP/UI_HihgerPVP_S_NewSeason"
+        },
+        {
+            "id": 1020443,
+            "audioType": 1,
+            "audioName": "UI_HigherPVP/UI_HihgerPVP_S_Highlight"
+        },
+        {
+            "id": 1020444,
+            "audioType": 1,
+            "audioName": "UI_HigherPVP/UI_HihgerPVP_C_Start"
+        },
+        {
+            "id": 1020445,
+            "audioType": 1,
+            "audioName": "UI_HigherPVP/UI_HihgerPVP_S_StartCompare"
+        },
+        {
+            "id": 1020446,
+            "audioType": 1,
+            "audioName": "UI_HigherPVP/UI_HihgerPVP_S_CompareSuccess"
+        },
+        {
+            "id": 1020447,
+            "audioType": 1,
+            "audioName": "UI_HigherPVP/UI_HihgerPVP_S_Loading"
+        },
+        {
+            "id": 1020448,
+            "audioType": 1,
+            "audioName": "UI_HigherPVP/UI_HihgerPVP_S_FinishCount"
+        },
+        {
             "id": 1020449,
             "audioType": 1,
             "audioName": "Audio_Temp/UISys_TreasureBP_Final_Unlock"
@@ -5368,7 +5538,82 @@
         {
             "id": 1020453,
             "audioType": 1,
-            "audioName": "UI_DarkZone/UIDz_Carrier_S_Exchange"
+            "audioName": "UI_DarkZone/UIDZ_Carrier_S_Exchange"
+        },
+        {
+            "id": 1020454,
+            "audioType": 1,
+            "audioName": "UI_SP_Lenna/UIsp_Lenna_C_Common"
+        },
+        {
+            "id": 1020455,
+            "audioType": 1,
+            "audioName": "UI_SP_Lenna/UIsp_Lenna_S_ChangeScene"
+        },
+        {
+            "id": 1020456,
+            "audioType": 1,
+            "audioName": "UI_SP_Lenna/UIsp_Lenna_S_DifChange"
+        },
+        {
+            "id": 1020457,
+            "audioType": 1,
+            "audioName": "UI_SP_Lenna/UIsp_Lenna_S_MainScene"
+        },
+        {
+            "id": 1020458,
+            "audioType": 1,
+            "audioName": "UI_SP_Lenna/UIsp_Lenna_S_MainSceneClose"
+        },
+        {
+            "id": 1020459,
+            "audioType": 1,
+            "audioName": "Event_SP_Daiyan/SP_Lenna_S_RandomEvent"
+        },
+        {
+            "id": 1020460,
+            "audioType": 1,
+            "audioName": "Event_SP_Lenna/UI_MiniGame_Lenna_C_Confirm"
+        },
+        {
+            "id": 1020461,
+            "audioType": 1,
+            "audioName": "Event_SP_Lenna/UI_MiniGame_Lenna_C_Normal"
+        },
+        {
+            "id": 1020462,
+            "audioType": 1,
+            "audioName": "Event_SP_Lenna/UI_MiniGame_Lenna_S_MainEnter"
+        },
+        {
+            "id": 1020463,
+            "audioType": 1,
+            "audioName": "Event_SP_Lenna/UI_MiniGame_Lenna_S_WindowOpen"
+        },
+        {
+            "id": 1020464,
+            "audioType": 1,
+            "audioName": "Event_SP_Lenna/UI_MiniGame_Lenna_S_WindowClose"
+        },
+        {
+            "id": 1020465,
+            "audioType": 1,
+            "audioName": "UI_SP_Lenna/UIsp_Lenna_S_PreScene"
+        },
+        {
+            "id": 1020466,
+            "audioType": 1,
+            "audioName": "UI_SP_Lenna/UIsp_Lenna_S_PuzzleGet"
+        },
+        {
+            "id": 1020467,
+            "audioType": 1,
+            "audioName": "Event_SP_Daiyan/SP_Lenna_S_Modifier"
+        },
+        {
+            "id": 1020468,
+            "audioType": 1,
+            "audioName": "Event_SP_Daiyan/SP_Lenna_S_Updater"
         },
         {
             "id": 1030001,
@@ -6013,12 +6258,12 @@
         {
             "id": 1050095,
             "audioType": 10,
-            "audioName": "UI_System_Prepare/TL_SPP_Upgrade_KesinaSR"
+            "audioName": "UI_System_Prepare_Up/TL_SPP_Upgrade_KesinaSR"
         },
         {
             "id": 1050096,
             "audioType": 10,
-            "audioName": "UI_System_Prepare/TL_SPP_Break_KesinaSR"
+            "audioName": "UI_System_Prepare_Up/TL_SPP_Break_KesinaSR"
         },
         {
             "id": 1050097,
@@ -6079,6 +6324,26 @@
             "id": 1050108,
             "audioType": 10,
             "audioName": "UI_System_CharAct/TL_SP_CharAct_DaiyanSSR0103"
+        },
+        {
+            "id": 1050109,
+            "audioType": 10,
+            "audioName": "UI_GachaTL/TL_Gacha_LennaSSR"
+        },
+        {
+            "id": 1050110,
+            "audioType": 10,
+            "audioName": "UI_System_Prepare_Up/TL_SPP_Upgrade_LennaSSR"
+        },
+        {
+            "id": 1050111,
+            "audioType": 10,
+            "audioName": "UI_System_Prepare_Up/TL_SPP_Break_LennaSSR"
+        },
+        {
+            "id": 1050112,
+            "audioType": 10,
+            "audioName": "UI_System_Prepare_Up/TL_SPP_End_LennaSSR"
         },
         {
             "id": 1120001,
@@ -7738,7 +8003,7 @@
         {
             "id": 2018029,
             "audioType": 2,
-            "audioName": "BGE_AVG_Chapter08/BGE_Device_Knock_01"
+            "audioName": "BGE_AVG_Chapter07/BGE_Device_Knock_01"
         },
         {
             "id": 2018030,
@@ -7763,7 +8028,7 @@
         {
             "id": 2018034,
             "audioType": 2,
-            "audioName": "BGE_AVG_Chapter08/BGE_Metalbox_Close_01"
+            "audioName": "BGE_AVG_Chapter07/BGE_Metalbox_Close_01"
         },
         {
             "id": 2018035,
@@ -7863,7 +8128,7 @@
         {
             "id": 2018054,
             "audioType": 2,
-            "audioName": "BGE_AVG_Chapter08/BGE_Machine_Start_03"
+            "audioName": "BGE_AVG_Chapter07/BGE_Machine_Start_03"
         },
         {
             "id": 2018055,
@@ -7898,7 +8163,7 @@
         {
             "id": 2021001,
             "audioType": 2,
-            "audioName": "BGE_AVG_Special_Somi/BGE_Act_Female_36"
+            "audioName": "BGE_AVG_Special_Somi/BGE_Act_Female_41"
         },
         {
             "id": 2021002,
@@ -11058,137 +11323,137 @@
         {
             "id": 5102001,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Foley"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Foley"
         },
         {
             "id": 5102002,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Foley_Gun_Mech"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Foley_Gun_Mech"
         },
         {
             "id": 5102003,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Foley_Gun"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Foley_Gun"
         },
         {
             "id": 5102004,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_FS_Walk"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_FS_Walk"
         },
         {
             "id": 5102005,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_FS_Walk"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_FS_Walk"
         },
         {
             "id": 5102006,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Hand"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Hand"
         },
         {
             "id": 5102007,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Hand"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Hand"
         },
         {
             "id": 5102008,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_FS"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_FS"
         },
         {
             "id": 5102009,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_FS"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_FS"
         },
         {
             "id": 5102010,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Jump"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Jump"
         },
         {
             "id": 5102011,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Collision_Body"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Collision_Body"
         },
         {
             "id": 5102012,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Collision_Body"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Collision_Body"
         },
         {
             "id": 5102013,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Collision_Foot"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Collision_Foot"
         },
         {
             "id": 5102014,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Atk"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Atk"
         },
         {
             "id": 5102015,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Foley_Atk_Trigger"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Foley_Atk_Trigger"
         },
         {
             "id": 5102016,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Foley_Skill01_Start"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Foley_Skill01_Start"
         },
         {
             "id": 5102017,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Skill01_Explo"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Skill01_Explo"
         },
         {
             "id": 5102018,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Skill01"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Skill01"
         },
         {
             "id": 5102019,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Atk_Overlook"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Atk_Overlook"
         },
         {
             "id": 5102020,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_FS_Slide"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_FS_Slide"
         },
         {
             "id": 5102021,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_FS_Slide"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_FS_Slide"
         },
         {
             "id": 5102022,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_FS"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_FS"
         },
         {
             "id": 5102023,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Skill01_Loop"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Skill01_Loop"
         },
         {
             "id": 5102024,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_UltraSkill_Electric_Cast"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_UltraSkill_Electric_Cast"
         },
         {
             "id": 5102025,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_UltraSkill"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_UltraSkill"
         },
         {
             "id": 5102026,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Skill02_Blast"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Skill02_Blast"
         },
         {
             "id": 5102027,
             "audioType": 5,
-            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Skill02_Cast"
+            "audioName": "C_SSR01_Lenna_old/C_SSR01_Lenna_old_Skill02_Cast"
         },
         {
             "id": 5102028,
@@ -11229,6 +11494,56 @@
             "id": 5102035,
             "audioType": 5,
             "audioName": "C_Summon_Drone/C_Summon_Drone_UltraSkill"
+        },
+        {
+            "id": 5102036,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_skill01_Foley"
+        },
+        {
+            "id": 5102037,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_skill01_Fall"
+        },
+        {
+            "id": 5102038,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Skill01_Jump"
+        },
+        {
+            "id": 5102039,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_skill02_shot"
+        },
+        {
+            "id": 5102040,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_UltraSkill_Timeline"
+        },
+        {
+            "id": 5102041,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_UltraSkill_Timeline_Skip"
+        },
+        {
+            "id": 5102042,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Utrallskill_Cast"
+        },
+        {
+            "id": 5102043,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Passive_Hit"
+        },
+        {
+            "id": 5102044,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_Passive_ElecSquare"
+        },
+        {
+            "id": 5102045,
+            "audioType": 5,
+            "audioName": "C_SSR01_Lenna/C_SSR01_Lenna_skill01_shot"
         },
         {
             "id": 5102101,
@@ -12626,6 +12941,31 @@
             "audioName": "EN_FB_Hammer/EN_FB_Stronger_flgjbp_Bullet"
         },
         {
+            "id": 5614501,
+            "audioType": 5,
+            "audioName": "EN_FB_Imbiber/EN_FB_Imbiber_MoveStart"
+        },
+        {
+            "id": 5614502,
+            "audioType": 5,
+            "audioName": "EN_FB_Imbiber/EN_FB_Imbiber_MoveStop"
+        },
+        {
+            "id": 5614503,
+            "audioType": 5,
+            "audioName": "EN_FB_Imbiber/EN_FB_Imbiber_Atk_Shot"
+        },
+        {
+            "id": 5614504,
+            "audioType": 6,
+            "audioName": "EN_FB_Imbiber/EN_FB_Imbiber_SKill01_Buff"
+        },
+        {
+            "id": 5614505,
+            "audioType": 5,
+            "audioName": "EN_FB_Imbiber/EN_FB_Imbiber_SKill01_Shot"
+        },
+        {
             "id": 5617101,
             "audioType": 5,
             "audioName": "EN_FB_Oljefat/EN_FB_Oljefat_Skill_bwddkrw_Cast"
@@ -13276,6 +13616,116 @@
             "audioName": "EN_ELID_LycosaSingoriensis/EN_ELID_LycosaSingoriensis_Skill_hpyb_Cast"
         },
         {
+            "id": 5624701,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Move"
+        },
+        {
+            "id": 5624702,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Stop"
+        },
+        {
+            "id": 5624703,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Turn180"
+        },
+        {
+            "id": 5624704,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Turn90"
+        },
+        {
+            "id": 5624705,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Fall"
+        },
+        {
+            "id": 5624706,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Die"
+        },
+        {
+            "id": 5624707,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Die_Fly"
+        },
+        {
+            "id": 5624708,
+            "audioType": 6,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Die_Roar"
+        },
+        {
+            "id": 5624709,
+            "audioType": 6,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Die_Fly_Roar"
+        },
+        {
+            "id": 5624710,
+            "audioType": 6,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Hitted_Roar"
+        },
+        {
+            "id": 5624711,
+            "audioType": 6,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Break_Roar"
+        },
+        {
+            "id": 5624712,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Passive_Charge"
+        },
+        {
+            "id": 5624713,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Passive_Release"
+        },
+        {
+            "id": 5624714,
+            "audioType": 6,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Passive_Release_Roar"
+        },
+        {
+            "id": 5624715,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Atk_Shot"
+        },
+        {
+            "id": 5624716,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Atk_Bullet"
+        },
+        {
+            "id": 5624717,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Atk_Hit"
+        },
+        {
+            "id": 5624718,
+            "audioType": 6,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Atk_Roar"
+        },
+        {
+            "id": 5624719,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Skill01_Charge"
+        },
+        {
+            "id": 5624720,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Skill01_Shot"
+        },
+        {
+            "id": 5624721,
+            "audioType": 6,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Skill01_Roar"
+        },
+        {
+            "id": 5624722,
+            "audioType": 5,
+            "audioName": "EN_Elid_ScophinxMoths/EN_Elid_ScophinxMoths_Stop_NoFX"
+        },
+        {
             "id": 5625901,
             "audioType": 5,
             "audioName": "EN_ELID_Nemertea/EN_ELID_Nemertea_Atk"
@@ -13534,6 +13984,16 @@
             "id": 5631211,
             "audioType": 5,
             "audioName": "EN_TX_Golyat/EN_TX_Golyat_PassiveSkill_Explo_Freeze"
+        },
+        {
+            "id": 5631212,
+            "audioType": 5,
+            "audioName": "EN_TX_Golyat/EN_TX_SmallGolyath_Drop_Bullet"
+        },
+        {
+            "id": 5631213,
+            "audioType": 5,
+            "audioName": "EN_TX_Golyat/EN_TX_SmallGolyath_Born_Foley"
         },
         {
             "id": 5631301,
@@ -13901,6 +14361,31 @@
             "audioName": "EN_TX_AegisJetpack/EN_TX_AegisJetpack_Atk_Fire"
         },
         {
+            "id": 5634701,
+            "audioType": 5,
+            "audioName": "EN_TX_AegisLeah/EN_TX_AegisLeah_Passive_Shot"
+        },
+        {
+            "id": 5634702,
+            "audioType": 5,
+            "audioName": "EN_TX_AegisLeah/EN_TX_AegisLeah_Skill01_Icon"
+        },
+        {
+            "id": 5634703,
+            "audioType": 5,
+            "audioName": "EN_TX_AegisLeah/EN_TX_AegisLeah_Passive_Foley"
+        },
+        {
+            "id": 5634704,
+            "audioType": 5,
+            "audioName": "EN_TX_AegisLeah/EN_TX_AegisLeah_Atk"
+        },
+        {
+            "id": 5634705,
+            "audioType": 5,
+            "audioName": "EN_TX_AegisLeah/EN_TX_AegisLeah_Summon_Hint"
+        },
+        {
             "id": 5641001,
             "audioType": 5,
             "audioName": "EN_PLDS_U023/EN_PLDS_U023_Skill_hqps_Cast"
@@ -14024,6 +14509,36 @@
             "id": 5644205,
             "audioType": 5,
             "audioName": "EN_PLDS_Unitasion/EN_PLDS_Unitasion_Skill_ShotFire"
+        },
+        {
+            "id": 5644301,
+            "audioType": 6,
+            "audioName": "EN_PLDS_U036/EN_PLDS_U036_Passive_Buff"
+        },
+        {
+            "id": 5644302,
+            "audioType": 5,
+            "audioName": "EN_PLDS_U036/EN_PLDS_U036_Atk_Shot"
+        },
+        {
+            "id": 5644303,
+            "audioType": 5,
+            "audioName": "EN_PLDS_U036/EN_PLDS_U036_Passive_Jump"
+        },
+        {
+            "id": 5644304,
+            "audioType": 5,
+            "audioName": "EN_PLDS_U036/EN_PLDS_U036_Passive_Land"
+        },
+        {
+            "id": 5644305,
+            "audioType": 5,
+            "audioName": "EN_PLDS_U036/EN_PLDS_U036_Passive_Shot"
+        },
+        {
+            "id": 5644306,
+            "audioType": 5,
+            "audioName": "EN_PLDS_U036/EN_PLDS_U036_Passive_Explo"
         },
         {
             "id": 5648101,
@@ -14539,6 +15054,96 @@
             "id": 5685327,
             "audioType": 5,
             "audioName": "EN_CF_Sextans/EN_CF_Sextans_Skill_ay_Cast"
+        },
+        {
+            "id": 5685801,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Atk_Foley"
+        },
+        {
+            "id": 5685802,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Atk_Shoot"
+        },
+        {
+            "id": 5685803,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill01_Foley"
+        },
+        {
+            "id": 5685804,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill01_Shot"
+        },
+        {
+            "id": 5685805,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill01_Hit"
+        },
+        {
+            "id": 5685806,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill02_Charge"
+        },
+        {
+            "id": 5685807,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill02_Shot"
+        },
+        {
+            "id": 5685808,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill02_Explo"
+        },
+        {
+            "id": 5685809,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill02_Hit"
+        },
+        {
+            "id": 5685810,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill03_Foley"
+        },
+        {
+            "id": 5685811,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill03_Cast"
+        },
+        {
+            "id": 5685812,
+            "audioType": 6,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill03_Buff"
+        },
+        {
+            "id": 5685813,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill04_Foley"
+        },
+        {
+            "id": 5685814,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill04_Icon"
+        },
+        {
+            "id": 5685815,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill04_Shot"
+        },
+        {
+            "id": 5685816,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill04_Bullet"
+        },
+        {
+            "id": 5685817,
+            "audioType": 5,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Skill04_Aim"
+        },
+        {
+            "id": 5685818,
+            "audioType": 6,
+            "audioName": "EN_CF_LoseSextans/EN_CF_LoseSextans_Born"
         },
         {
             "id": 5687101,
@@ -17969,6 +18574,56 @@
             "id": 7101380,
             "audioType": 7,
             "audioName": "VO_Lenna/VO_Lenna_Single_Passive_SSR_001"
+        },
+        {
+            "id": 7101381,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Hitted"
+        },
+        {
+            "id": 7101382,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_HittedLast"
+        },
+        {
+            "id": 7101383,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Chosen"
+        },
+        {
+            "id": 7101384,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Chosen_Auto"
+        },
+        {
+            "id": 7101385,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Set_Click"
+        },
+        {
+            "id": 7101386,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Set_Fall"
+        },
+        {
+            "id": 7101387,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Cancel"
+        },
+        {
+            "id": 7101388,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Battle_Start"
+        },
+        {
+            "id": 7101389,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Move_Start"
+        },
+        {
+            "id": 7101390,
+            "audioType": 7,
+            "audioName": "VO_Lenna/VO_Lenna_Series_Shield_Broken"
         },
         {
             "id": 7101901,
@@ -71371,6 +72026,51 @@
             "audioName": "UI_System_CharAct/TL_Colphne_Camera_Aroud"
         },
         {
+            "id": 12101301,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_Behave_InspectExclusive"
+        },
+        {
+            "id": 12101302,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_Behave_InspectNormal"
+        },
+        {
+            "id": 12101303,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_Behave_Stretch"
+        },
+        {
+            "id": 12101304,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_Camera_Aroud"
+        },
+        {
+            "id": 12101305,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_Camera_Look"
+        },
+        {
+            "id": 12101306,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_Touch_Gun"
+        },
+        {
+            "id": 12101307,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_Touch_Head"
+        },
+        {
+            "id": 12101308,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_Touch_Pocket"
+        },
+        {
+            "id": 12101309,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Lenna_BarrackEntrance_Normal"
+        },
+        {
             "id": 12101501,
             "audioType": 10,
             "audioName": "UI_System_CharAct/TL_Vepley_Touch_Head"
@@ -71951,6 +72651,11 @@
             "audioName": "UI_System_CharAct/TL_Littara_Touch_Pocket"
         },
         {
+            "id": 12103809,
+            "audioType": 10,
+            "audioName": "UI_System_CharAct/TL_Littara_Touch_Candy"
+        },
+        {
             "id": 13100101,
             "audioType": 10,
             "audioName": "UI_BedroomTL/c_CharolicDorm_Bedroom_01_Idle"
@@ -72129,6 +72834,66 @@
             "id": 13100912,
             "audioType": 10,
             "audioName": "UI_BedroomTL/c_ColphneDorm_Cloth_Before"
+        },
+        {
+            "id": 13101301,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_01_Idle"
+        },
+        {
+            "id": 13101302,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_02_Idle"
+        },
+        {
+            "id": 13101303,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_03_Idle"
+        },
+        {
+            "id": 13101304,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_04_Idle"
+        },
+        {
+            "id": 13101305,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_05_Idle"
+        },
+        {
+            "id": 13101306,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_0101"
+        },
+        {
+            "id": 13101307,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_0201"
+        },
+        {
+            "id": 13101308,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_0301"
+        },
+        {
+            "id": 13101309,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_0401"
+        },
+        {
+            "id": 13101310,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Bedroom_0501"
+        },
+        {
+            "id": 13101311,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Cloth_After"
+        },
+        {
+            "id": 13101312,
+            "audioType": 10,
+            "audioName": "UI_BedroomTL/c_LennaDorm_Cloth_Before"
         },
         {
             "id": 13101501,
@@ -72951,9 +73716,24 @@
             "audioName": "EN_Foley_Common/EN_Small_Human_Collision_Foot_bare"
         },
         {
+            "id": 56414101,
+            "audioType": 5,
+            "audioName": "EN_PLDS_U033/EN_PLDS_U033_Skill01_Icon"
+        },
+        {
             "id": 56431101,
             "audioType": 5,
             "audioName": "EN_PLDS_U047/EN_PLDS_U047_Atk"
+        },
+        {
+            "id": 56601101,
+            "audioType": 5,
+            "audioName": "EN_MotorDrivenN1/EN_MotorDrivenN1_Atk_Foley"
+        },
+        {
+            "id": 56601102,
+            "audioType": 5,
+            "audioName": "EN_MotorDrivenN1/EN_MotorDrivenN1_Atk_Shot"
         },
         {
             "id": 56602101,
@@ -75691,6 +76471,71 @@
             "audioName": "VO_ServR_Colphne/VO_Colphne_Touch_Pocket"
         },
         {
+            "id": 71101301,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Behave_InspectExclusive"
+        },
+        {
+            "id": 71101302,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Behave_InspectNormal"
+        },
+        {
+            "id": 71101303,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Behave_Stretch"
+        },
+        {
+            "id": 71101304,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Camera_Aroud"
+        },
+        {
+            "id": 71101305,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Camera_Look"
+        },
+        {
+            "id": 71101306,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Touch_Gun"
+        },
+        {
+            "id": 71101307,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Touch_Head"
+        },
+        {
+            "id": 71101308,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Touch_Pocket"
+        },
+        {
+            "id": 71101309,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_BarrackEntrance_Normal"
+        },
+        {
+            "id": 71101310,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Upgrade"
+        },
+        {
+            "id": 71101311,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Break"
+        },
+        {
+            "id": 71101312,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Gacha"
+        },
+        {
+            "id": 71101313,
+            "audioType": 7,
+            "audioName": "VO_ServR_Lenna/VO_Lenna_Ending"
+        },
+        {
             "id": 71101501,
             "audioType": 7,
             "audioName": "VO_ServR_Vepley/VO_Vepley_Upgrade"
@@ -76511,6 +77356,11 @@
             "audioName": "VO_ServR_Littara/VO_Littara_Upgrade"
         },
         {
+            "id": 71103814,
+            "audioType": 7,
+            "audioName": "VO_ServR_Littara/VO_Littara_Touch_Candy"
+        },
+        {
             "id": 72012801,
             "audioType": 7,
             "audioName": "VO_Bedroom_Centaureissi/VO_c_CentaureissiDorm_Bedroom_0101"
@@ -76749,6 +77599,66 @@
             "id": 72100912,
             "audioType": 7,
             "audioName": "VO_Bedroom_Colphne/VO_Colphne_Cloth_Before"
+        },
+        {
+            "id": 72101301,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_0101"
+        },
+        {
+            "id": 72101302,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_01_Idle"
+        },
+        {
+            "id": 72101303,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_0201"
+        },
+        {
+            "id": 72101304,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_02_Idle"
+        },
+        {
+            "id": 72101305,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_0301"
+        },
+        {
+            "id": 72101306,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_03_Idle"
+        },
+        {
+            "id": 72101307,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_0401"
+        },
+        {
+            "id": 72101308,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_04_Idle"
+        },
+        {
+            "id": 72101309,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_0501"
+        },
+        {
+            "id": 72101310,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_c_LennaDorm_Bedroom_05_Idle"
+        },
+        {
+            "id": 72101311,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_Lenna_Cloth_After"
+        },
+        {
+            "id": 72101312,
+            "audioType": 7,
+            "audioName": "VO_Bedroom_Lenna/VO_Lenna_Cloth_Before"
         },
         {
             "id": 72101501,

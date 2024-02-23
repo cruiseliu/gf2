@@ -1234,10 +1234,10 @@
         },
         {
             "id": 21,
-            "coverName": "掩体",
-            "coverInfo": "不可通行",
-            "showCoverType": "<color=#a8d7ea>地形</color>",
-            "canShowCoverInfo": "0",
+            "coverName": "能量掩体",
+            "coverInfo": "可通行",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
             "propertyId": 2002,
             "coverHeightArray": [
                 2.0
@@ -2100,10 +2100,10 @@
         },
         {
             "id": 35,
-            "coverName": "掩体",
-            "coverInfo": "不可通行",
-            "showCoverType": "<color=#a8d7ea>地形</color>",
-            "canShowCoverInfo": "0",
+            "coverName": "易损能量掩体",
+            "coverInfo": "可通行 可破坏",
+            "showCoverType": "<color=#a8d7ea>掩体</color>",
+            "canShowCoverInfo": "1",
             "propertyId": 2002,
             "coverHeightArray": [
                 2.0

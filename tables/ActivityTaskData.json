@@ -10,12 +10,12 @@
             "conditionClass": 901,
             "conditionNum": 1,
             "conditionArg0": 101,
+            "conditionArg1": 3002,
             "rewardList": [
                 "2:500",
                 "170001:15"
             ],
             "unlock": 0,
-            "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
             "link": ""
@@ -462,21 +462,21 @@
         {
             "id": 30101,
             "taskGroup": 301,
-            "name": "每日登陆",
-            "des": "每日登陆",
+            "name": "累计消耗情报拼图20个",
+            "des": "累计消耗情报拼图20个",
             "sequence": 1,
-            "conditionClass": 400,
-            "conditionNum": 1,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 20,
+            "conditionArg0": 101,
             "rewardList": [
-                "170001:1"
+                "170101:4"
             ],
-            "actionParam": 0,
+            "link": "1000",
             "unlock": 0,
-            "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0,
-            "link": ""
+            "conditionArg3": 0
         },
         {
             "id": 30102,
@@ -484,14 +484,14 @@
             "name": "累计消耗情报拼图60个",
             "des": "累计消耗情报拼图60个",
             "sequence": 2,
+            "actionParam": 1,
             "conditionClass": 2,
             "conditionNum": 60,
             "conditionArg0": 101,
             "rewardList": [
-                "170001:3"
+                "170101:4"
             ],
             "link": "1000",
-            "actionParam": 0,
             "unlock": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
@@ -500,21 +500,21 @@
         {
             "id": 30201,
             "taskGroup": 302,
-            "name": "每日登陆",
-            "des": "每日登陆",
+            "name": "每日签到",
+            "des": "每日签到",
             "sequence": 1,
+            "actionParam": 1,
             "conditionClass": 400,
             "conditionNum": 1,
             "rewardList": [
-                "170001:1"
+                "170101:4"
             ],
-            "actionParam": 0,
+            "link": "1",
             "unlock": 0,
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0,
-            "link": ""
+            "conditionArg3": 0
         },
         {
             "id": 30202,
@@ -522,14 +522,14 @@
             "name": "累计消耗情报拼图60个",
             "des": "累计消耗情报拼图60个",
             "sequence": 2,
+            "actionParam": 1,
             "conditionClass": 2,
             "conditionNum": 60,
             "conditionArg0": 101,
             "rewardList": [
-                "170001:3"
+                "170101:4"
             ],
             "link": "1000",
-            "actionParam": 0,
             "unlock": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
@@ -538,21 +538,21 @@
         {
             "id": 30301,
             "taskGroup": 303,
-            "name": "每日登陆",
-            "des": "每日登陆",
+            "name": "每日签到",
+            "des": "每日签到",
             "sequence": 1,
+            "actionParam": 1,
             "conditionClass": 400,
             "conditionNum": 1,
             "rewardList": [
-                "170001:1"
+                "170101:4"
             ],
-            "actionParam": 0,
+            "link": "1",
             "unlock": 0,
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0,
-            "link": ""
+            "conditionArg3": 0
         },
         {
             "id": 30302,
@@ -560,14 +560,14 @@
             "name": "累计消耗情报拼图60个",
             "des": "累计消耗情报拼图60个",
             "sequence": 2,
+            "actionParam": 1,
             "conditionClass": 2,
             "conditionNum": 60,
             "conditionArg0": 101,
             "rewardList": [
-                "170001:3"
+                "170101:4"
             ],
             "link": "1000",
-            "actionParam": 0,
             "unlock": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
@@ -576,21 +576,21 @@
         {
             "id": 30401,
             "taskGroup": 304,
-            "name": "每日登陆",
-            "des": "每日登陆",
+            "name": "每日签到",
+            "des": "每日签到",
             "sequence": 1,
+            "actionParam": 1,
             "conditionClass": 400,
             "conditionNum": 1,
             "rewardList": [
-                "170001:1"
+                "170101:4"
             ],
-            "actionParam": 0,
+            "link": "1",
             "unlock": 0,
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0,
-            "link": ""
+            "conditionArg3": 0
         },
         {
             "id": 30402,
@@ -598,14 +598,14 @@
             "name": "累计消耗情报拼图60个",
             "des": "累计消耗情报拼图60个",
             "sequence": 2,
+            "actionParam": 1,
             "conditionClass": 2,
             "conditionNum": 60,
             "conditionArg0": 101,
             "rewardList": [
-                "170001:3"
+                "170101:4"
             ],
             "link": "1000",
-            "actionParam": 0,
             "unlock": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
@@ -614,21 +614,21 @@
         {
             "id": 30501,
             "taskGroup": 305,
-            "name": "每日登陆",
-            "des": "每日登陆",
+            "name": "每日签到",
+            "des": "每日签到",
             "sequence": 1,
+            "actionParam": 1,
             "conditionClass": 400,
             "conditionNum": 1,
             "rewardList": [
-                "170001:1"
+                "170101:4"
             ],
-            "actionParam": 0,
+            "link": "1",
             "unlock": 0,
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0,
-            "link": ""
+            "conditionArg3": 0
         },
         {
             "id": 30502,
@@ -636,14 +636,14 @@
             "name": "累计消耗情报拼图60个",
             "des": "累计消耗情报拼图60个",
             "sequence": 2,
+            "actionParam": 1,
             "conditionClass": 2,
             "conditionNum": 60,
             "conditionArg0": 101,
             "rewardList": [
-                "170001:3"
+                "170101:4"
             ],
             "link": "1000",
-            "actionParam": 0,
             "unlock": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
@@ -652,21 +652,21 @@
         {
             "id": 30601,
             "taskGroup": 306,
-            "name": "每日登陆",
-            "des": "每日登陆",
+            "name": "每日签到",
+            "des": "每日签到",
             "sequence": 1,
+            "actionParam": 1,
             "conditionClass": 400,
             "conditionNum": 1,
             "rewardList": [
-                "170001:1"
+                "170101:4"
             ],
-            "actionParam": 0,
+            "link": "1",
             "unlock": 0,
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0,
-            "link": ""
+            "conditionArg3": 0
         },
         {
             "id": 30602,
@@ -674,14 +674,14 @@
             "name": "累计消耗情报拼图60个",
             "des": "累计消耗情报拼图60个",
             "sequence": 2,
+            "actionParam": 1,
             "conditionClass": 2,
             "conditionNum": 60,
             "conditionArg0": 101,
             "rewardList": [
-                "170001:3"
+                "170101:4"
             ],
             "link": "1000",
-            "actionParam": 0,
             "unlock": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
@@ -690,21 +690,21 @@
         {
             "id": 30701,
             "taskGroup": 307,
-            "name": "每日登陆",
-            "des": "每日登陆",
+            "name": "每日签到",
+            "des": "每日签到",
             "sequence": 1,
+            "actionParam": 1,
             "conditionClass": 400,
             "conditionNum": 1,
             "rewardList": [
-                "170001:1"
+                "170101:4"
             ],
-            "actionParam": 0,
+            "link": "1",
             "unlock": 0,
             "conditionArg0": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
-            "conditionArg3": 0,
-            "link": ""
+            "conditionArg3": 0
         },
         {
             "id": 30702,
@@ -712,14 +712,888 @@
             "name": "累计消耗情报拼图60个",
             "des": "累计消耗情报拼图60个",
             "sequence": 2,
+            "actionParam": 1,
             "conditionClass": 2,
             "conditionNum": 60,
             "conditionArg0": 101,
             "rewardList": [
-                "170001:3"
+                "170101:4"
             ],
             "link": "1000",
-            "actionParam": 0,
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 30801,
+            "taskGroup": 308,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 30802,
+            "taskGroup": 308,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 30901,
+            "taskGroup": 309,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 30902,
+            "taskGroup": 309,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31001,
+            "taskGroup": 310,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31002,
+            "taskGroup": 310,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31101,
+            "taskGroup": 311,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31102,
+            "taskGroup": 311,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31201,
+            "taskGroup": 312,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31202,
+            "taskGroup": 312,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31301,
+            "taskGroup": 313,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31302,
+            "taskGroup": 313,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31401,
+            "taskGroup": 314,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31402,
+            "taskGroup": 314,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31501,
+            "taskGroup": 315,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31502,
+            "taskGroup": 315,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31601,
+            "taskGroup": 316,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31602,
+            "taskGroup": 316,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31701,
+            "taskGroup": 317,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31702,
+            "taskGroup": 317,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31801,
+            "taskGroup": 318,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31802,
+            "taskGroup": 318,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31901,
+            "taskGroup": 319,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 31902,
+            "taskGroup": 319,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32001,
+            "taskGroup": 320,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32002,
+            "taskGroup": 320,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32101,
+            "taskGroup": 321,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32102,
+            "taskGroup": 321,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32201,
+            "taskGroup": 322,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32202,
+            "taskGroup": 322,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32301,
+            "taskGroup": 323,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32302,
+            "taskGroup": 323,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32401,
+            "taskGroup": 324,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32402,
+            "taskGroup": 324,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32501,
+            "taskGroup": 325,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32502,
+            "taskGroup": 325,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32601,
+            "taskGroup": 326,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32602,
+            "taskGroup": 326,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32701,
+            "taskGroup": 327,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32702,
+            "taskGroup": 327,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32801,
+            "taskGroup": 328,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32802,
+            "taskGroup": 328,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32901,
+            "taskGroup": 329,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 32902,
+            "taskGroup": 329,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 33001,
+            "taskGroup": 330,
+            "name": "每日签到",
+            "des": "每日签到",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 400,
+            "conditionNum": 1,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1",
+            "unlock": 0,
+            "conditionArg0": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0
+        },
+        {
+            "id": 33002,
+            "taskGroup": 330,
+            "name": "累计消耗情报拼图60个",
+            "des": "累计消耗情报拼图60个",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 2,
+            "conditionNum": 60,
+            "conditionArg0": 101,
+            "rewardList": [
+                "170101:4"
+            ],
+            "link": "1000",
             "unlock": 0,
             "conditionArg1": 0,
             "conditionArg2": 0,
@@ -729,18 +1603,19 @@
             "id": 35101,
             "taskGroup": 351,
             "name": "每日指标1",
-            "des": "进入1次追缉协奏曲界面",
+            "des": "进入1次云域演练界面",
             "sequence": 1,
             "actionParam": 1,
             "conditionClass": 901,
             "conditionNum": 1,
-            "conditionArg0": 101,
+            "conditionArg0": 103,
+            "conditionArg1": 3002,
             "rewardList": [
-                "2:500",
-                "170001:15"
+                "170104:1",
+                "170105:1",
+                "2:500"
             ],
             "unlock": 0,
-            "conditionArg1": 0,
             "conditionArg2": 0,
             "conditionArg3": 0,
             "link": ""
@@ -749,16 +1624,18 @@
             "id": 35102,
             "taskGroup": 351,
             "name": "每日指标2",
-            "des": "完成1次追缉协奏曲的任意关卡（包含自律）",
+            "des": "完成1次云域演练进行时的任意关卡（包含自律）",
             "sequence": 1,
             "actionParam": 1,
             "conditionClass": 906,
             "conditionNum": 1,
-            "conditionArg0": 101,
+            "conditionArg0": 103,
             "conditionArg1": -1,
             "rewardList": [
-                "2:500",
-                "170001:15"
+                "170106:1",
+                "170107:1",
+                "170108:1",
+                "2:500"
             ],
             "unlock": 0,
             "conditionArg2": 0,
@@ -769,15 +1646,14 @@
             "id": 35103,
             "taskGroup": 351,
             "name": "固定指标1",
-            "des": "解锁3个指令图鉴",
+            "des": "解锁1个指令图鉴",
             "sequence": 1,
             "conditionClass": 908,
-            "conditionNum": 3,
-            "conditionArg0": 101,
+            "conditionNum": 1,
+            "conditionArg0": 103,
             "conditionArg1": -1,
             "rewardList": [
-                "2:1000",
-                "170003:2"
+                "25:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -789,15 +1665,14 @@
             "id": 35104,
             "taskGroup": 351,
             "name": "固定指标2",
-            "des": "解锁5个指令图鉴",
+            "des": "解锁3个指令图鉴",
             "sequence": 2,
             "conditionClass": 908,
-            "conditionNum": 5,
-            "conditionArg0": 101,
+            "conditionNum": 3,
+            "conditionArg0": 103,
             "conditionArg1": -1,
             "rewardList": [
-                "2:1000",
-                "170004:2"
+                "8301:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -809,15 +1684,14 @@
             "id": 35105,
             "taskGroup": 351,
             "name": "固定指标3",
-            "des": "解锁7个指令图鉴",
+            "des": "解锁6个指令图鉴",
             "sequence": 3,
             "conditionClass": 908,
-            "conditionNum": 7,
-            "conditionArg0": 101,
+            "conditionNum": 6,
+            "conditionArg0": 103,
             "conditionArg1": -1,
             "rewardList": [
-                "2:1000",
-                "170005:2"
+                "25:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -833,11 +1707,10 @@
             "sequence": 4,
             "conditionClass": 908,
             "conditionNum": 9,
-            "conditionArg0": 101,
+            "conditionArg0": 103,
             "conditionArg1": -1,
             "rewardList": [
-                "2:1000",
-                "170006:2"
+                "8301:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -853,11 +1726,10 @@
             "sequence": 5,
             "conditionClass": 908,
             "conditionNum": 12,
-            "conditionArg0": 101,
+            "conditionArg0": 103,
             "conditionArg1": -1,
             "rewardList": [
-                "2:1000",
-                "170007:2"
+                "25:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -869,16 +1741,15 @@
             "id": 35108,
             "taskGroup": 351,
             "name": "固定指标6",
-            "des": "使用20次任意等级的移动指令",
+            "des": "使用1次任意等级的移动指令",
             "sequence": 6,
             "conditionClass": 910,
-            "conditionNum": 20,
-            "conditionArg0": 101,
-            "conditionArg1": 100,
+            "conditionNum": 1,
+            "conditionArg0": 103,
+            "conditionArg1": 12100,
             "conditionArg2": -1,
             "rewardList": [
-                "2:1000",
-                "170005:2"
+                "8301:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -889,16 +1760,15 @@
             "id": 35109,
             "taskGroup": 351,
             "name": "固定指标7",
-            "des": "使用10次任意等级的遥控指令",
+            "des": "使用3次任意等级的移动指令",
             "sequence": 7,
             "conditionClass": 910,
-            "conditionNum": 10,
-            "conditionArg0": 101,
-            "conditionArg1": 101,
+            "conditionNum": 3,
+            "conditionArg0": 103,
+            "conditionArg1": 12100,
             "conditionArg2": -1,
             "rewardList": [
-                "2:1000",
-                "170006:2"
+                "25:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -909,16 +1779,15 @@
             "id": 35110,
             "taskGroup": 351,
             "name": "固定指标8",
-            "des": "使用10次任意等级的稳态组件",
+            "des": "使用1次任意等级的遥控指令",
             "sequence": 8,
             "conditionClass": 910,
-            "conditionNum": 10,
-            "conditionArg0": 101,
-            "conditionArg1": 27,
+            "conditionNum": 1,
+            "conditionArg0": 103,
+            "conditionArg1": 12101,
             "conditionArg2": -1,
             "rewardList": [
-                "2:1000",
-                "170007:2"
+                "8301:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -929,16 +1798,15 @@
             "id": 35111,
             "taskGroup": 351,
             "name": "固定指标9",
-            "des": "使用10次任意等级的应急电源",
+            "des": "使用1次任意等级的引雷针",
             "sequence": 9,
             "conditionClass": 910,
-            "conditionNum": 10,
-            "conditionArg0": 101,
-            "conditionArg1": 102,
+            "conditionNum": 1,
+            "conditionArg0": 103,
+            "conditionArg1": 12106,
             "conditionArg2": -1,
             "rewardList": [
-                "2:1000",
-                "170003:2"
+                "25:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -949,16 +1817,15 @@
             "id": 35112,
             "taskGroup": 351,
             "name": "固定指标10",
-            "des": "使用5次任意等级的地锁",
+            "des": "使用1次任意等级的稳态组件",
             "sequence": 10,
             "conditionClass": 910,
-            "conditionNum": 5,
-            "conditionArg0": 101,
-            "conditionArg1": 6,
+            "conditionNum": 1,
+            "conditionArg0": 103,
+            "conditionArg1": 12103,
             "conditionArg2": -1,
             "rewardList": [
-                "2:1000",
-                "170004:2"
+                "8301:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -969,16 +1836,15 @@
             "id": 35113,
             "taskGroup": 351,
             "name": "固定指标11",
-            "des": "使用5次任意等级的临时护盾",
+            "des": "使用1次任意等级的应急电源",
             "sequence": 11,
             "conditionClass": 910,
-            "conditionNum": 5,
-            "conditionArg0": 101,
-            "conditionArg1": 103,
+            "conditionNum": 1,
+            "conditionArg0": 103,
+            "conditionArg1": 12102,
             "conditionArg2": -1,
             "rewardList": [
-                "2:1000",
-                "170007:2"
+                "25:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -989,16 +1855,15 @@
             "id": 35114,
             "taskGroup": 351,
             "name": "固定指标12",
-            "des": "使用5次任意等级的引雷针",
+            "des": "使用1次任意等级的拦截指令",
             "sequence": 12,
             "conditionClass": 910,
-            "conditionNum": 5,
-            "conditionArg0": 101,
-            "conditionArg1": 21,
+            "conditionNum": 1,
+            "conditionArg0": 103,
+            "conditionArg1": 12108,
             "conditionArg2": -1,
             "rewardList": [
-                "2:1000",
-                "170006:2"
+                "8301:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
@@ -1009,19 +1874,18 @@
             "id": 35115,
             "taskGroup": 351,
             "name": "固定指标13",
-            "des": "使用5次任意等级的清障套组",
+            "des": "累计通关1次云域演练进行时的任意关卡",
             "sequence": 13,
-            "conditionClass": 910,
-            "conditionNum": 5,
-            "conditionArg0": 101,
-            "conditionArg1": 22,
-            "conditionArg2": -1,
+            "conditionClass": 909,
+            "conditionNum": 1,
+            "conditionArg0": 103,
+            "conditionArg1": -1,
             "rewardList": [
-                "2:1000",
-                "170005:2"
+                "25:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
+            "conditionArg2": 0,
             "conditionArg3": 0,
             "link": ""
         },
@@ -1029,19 +1893,18 @@
             "id": 35116,
             "taskGroup": 351,
             "name": "固定指标14",
-            "des": "使用5次任意等级的禁行标识",
+            "des": "累计通关5次云域演练进行时的任意关卡",
             "sequence": 14,
-            "conditionClass": 910,
+            "conditionClass": 909,
             "conditionNum": 5,
-            "conditionArg0": 101,
-            "conditionArg1": 16,
-            "conditionArg2": -1,
+            "conditionArg0": 103,
+            "conditionArg1": -1,
             "rewardList": [
-                "2:1000",
-                "170004:2"
+                "8301:2000"
             ],
             "actionParam": 0,
             "unlock": 0,
+            "conditionArg2": 0,
             "conditionArg3": 0,
             "link": ""
         },
@@ -1049,21 +1912,196 @@
             "id": 35117,
             "taskGroup": 351,
             "name": "固定指标15",
-            "des": "使用5次任意等级的全自动压路机",
+            "des": "累计通关10次云域演练进行时的任意关卡",
             "sequence": 15,
-            "conditionClass": 910,
-            "conditionNum": 5,
-            "conditionArg0": 101,
-            "conditionArg1": 5,
-            "conditionArg2": -1,
+            "conditionClass": 909,
+            "conditionNum": 10,
+            "conditionArg0": 103,
+            "conditionArg1": -1,
             "rewardList": [
-                "2:1000",
-                "170003:2"
+                "25:3000"
             ],
             "actionParam": 0,
             "unlock": 0,
+            "conditionArg2": 0,
             "conditionArg3": 0,
             "link": ""
+        },
+        {
+            "id": 35118,
+            "taskGroup": 351,
+            "name": "固定指标16",
+            "des": "累计通关20次云域演练进行时的任意关卡",
+            "sequence": 16,
+            "conditionClass": 909,
+            "conditionNum": 20,
+            "conditionArg0": 103,
+            "conditionArg1": -1,
+            "rewardList": [
+                "8301:3000"
+            ],
+            "actionParam": 0,
+            "unlock": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "link": ""
+        },
+        {
+            "id": 35119,
+            "taskGroup": 351,
+            "name": "固定指标17",
+            "des": "累计通关35次云域演练进行时的任意关卡",
+            "sequence": 17,
+            "conditionClass": 909,
+            "conditionNum": 35,
+            "conditionArg0": 103,
+            "conditionArg1": -1,
+            "rewardList": [
+                "25:3000"
+            ],
+            "actionParam": 0,
+            "unlock": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "link": ""
+        },
+        {
+            "id": 35120,
+            "taskGroup": 351,
+            "name": "固定指标18",
+            "des": "累计通关50次云域演练进行时的任意关卡",
+            "sequence": 18,
+            "conditionClass": 909,
+            "conditionNum": 50,
+            "conditionArg0": 103,
+            "conditionArg1": -1,
+            "rewardList": [
+                "8301:3000"
+            ],
+            "actionParam": 0,
+            "unlock": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "link": ""
+        },
+        {
+            "id": 50101,
+            "taskGroup": 501,
+            "name": "开业筹备",
+            "des": "累计完成补给作战2次",
+            "sequence": 1,
+            "actionParam": 1,
+            "conditionClass": 209,
+            "conditionNum": 2,
+            "conditionArg0": 3,
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "rewardList": [],
+            "link": ""
+        },
+        {
+            "id": 50102,
+            "taskGroup": 502,
+            "name": "启动资金",
+            "des": "累计完成标准同调2次",
+            "sequence": 2,
+            "actionParam": 1,
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "conditionArg0": 20,
+            "conditionArg1": 1,
+            "conditionArg2": -1,
+            "link": "3300",
+            "unlock": 0,
+            "conditionArg3": 0,
+            "rewardList": []
+        },
+        {
+            "id": 50103,
+            "taskGroup": 503,
+            "name": "装备收集",
+            "des": "累计完成定向精研2次",
+            "sequence": 3,
+            "actionParam": 1,
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "conditionArg0": 41,
+            "conditionArg1": 1,
+            "conditionArg2": -1,
+            "link": "3800",
+            "unlock": 0,
+            "conditionArg3": 0,
+            "rewardList": []
+        },
+        {
+            "id": 50104,
+            "taskGroup": 504,
+            "name": "素体调配",
+            "des": "累计完成决策构象2次",
+            "sequence": 4,
+            "actionParam": 1,
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "conditionArg0": 22,
+            "conditionArg1": 1,
+            "conditionArg2": -1,
+            "link": "3150",
+            "unlock": 0,
+            "conditionArg3": 0,
+            "rewardList": []
+        },
+        {
+            "id": 50105,
+            "taskGroup": 505,
+            "name": "经验累积",
+            "des": "累计完成深度搜索2次",
+            "sequence": 5,
+            "actionParam": 1,
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "conditionArg0": 21,
+            "conditionArg1": 1,
+            "conditionArg2": -1,
+            "link": "3200",
+            "unlock": 0,
+            "conditionArg3": 0,
+            "rewardList": []
+        },
+        {
+            "id": 50106,
+            "taskGroup": 506,
+            "name": "物资存储",
+            "des": "累计完成军备解析2次",
+            "sequence": 6,
+            "actionParam": 1,
+            "conditionClass": 201,
+            "conditionNum": 2,
+            "conditionArg0": 31,
+            "conditionArg1": 1,
+            "conditionArg2": -1,
+            "link": "3400",
+            "unlock": 0,
+            "conditionArg3": 0,
+            "rewardList": []
+        },
+        {
+            "id": 50107,
+            "taskGroup": 507,
+            "name": "模拟演练",
+            "des": "累计完成实兵演习1次",
+            "sequence": 7,
+            "actionParam": 1,
+            "conditionClass": 301,
+            "conditionNum": 1,
+            "conditionArg0": -1,
+            "link": "3014",
+            "unlock": 0,
+            "conditionArg1": 0,
+            "conditionArg2": 0,
+            "conditionArg3": 0,
+            "rewardList": []
         }
     ]
 }

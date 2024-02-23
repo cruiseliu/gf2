@@ -197,6 +197,102 @@
             "name": "激活人形绛雨天赋树所有属性点",
             "des": "需解锁所有前置位点",
             "conditionNum": 1
+        },
+        {
+            "id": 101,
+            "name": "",
+            "des": "通关连战关卡STAGE1",
+            "conditionNum": 1
+        },
+        {
+            "id": 102,
+            "name": "",
+            "des": "通关连战关卡STAGE2",
+            "conditionNum": 1
+        },
+        {
+            "id": 103,
+            "name": "",
+            "des": "通关连战关卡STAGE3",
+            "conditionNum": 1
+        },
+        {
+            "id": 104,
+            "name": "",
+            "des": "通关连战关卡STAGE4",
+            "conditionNum": 1
+        },
+        {
+            "id": 105,
+            "name": "",
+            "des": "通关连战关卡STAGE5",
+            "conditionNum": 1
+        },
+        {
+            "id": 106,
+            "name": "",
+            "des": "通关连战关卡STAGE6",
+            "conditionNum": 1
+        },
+        {
+            "id": 107,
+            "name": "",
+            "des": "通关连战关卡STAGE7",
+            "conditionNum": 1
+        },
+        {
+            "id": 131,
+            "name": "",
+            "des": "连战关卡SGATE3总积分达到4000",
+            "conditionNum": 4000
+        },
+        {
+            "id": 141,
+            "name": "",
+            "des": "连战关卡SGATE4总积分达到4000",
+            "conditionNum": 4000
+        },
+        {
+            "id": 151,
+            "name": "",
+            "des": "连战关卡SGATE5总积分达到4000",
+            "conditionNum": 4000
+        },
+        {
+            "id": 152,
+            "name": "",
+            "des": "连战关卡SGATE5总积分达到8000",
+            "conditionNum": 8000
+        },
+        {
+            "id": 161,
+            "name": "",
+            "des": "连战关卡SGATE6总积分达到4000",
+            "conditionNum": 4000
+        },
+        {
+            "id": 162,
+            "name": "",
+            "des": "连战关卡SGATE6总积分达到8000",
+            "conditionNum": 8000
+        },
+        {
+            "id": 171,
+            "name": "",
+            "des": "连战关卡SGATE7总积分达到5000",
+            "conditionNum": 5000
+        },
+        {
+            "id": 172,
+            "name": "",
+            "des": "连战关卡SGATE7总积分达到10000",
+            "conditionNum": 10000
+        },
+        {
+            "id": 9999,
+            "name": "指挥官等级达到30级",
+            "des": "测试用解锁条件",
+            "conditionNum": 28
         }
     ]
 }

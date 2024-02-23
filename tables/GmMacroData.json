@@ -242,7 +242,7 @@
             "id": 43,
             "type": "发道具类",
             "name": "想清楚了再点-全角色",
-            "arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1",
+            "arg": "SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1|SendItem@1013@1",
             "argClient": ""
         },
         {
@@ -296,9 +296,9 @@
         },
         {
             "id": 51,
-            "type": "暗区",
-            "name": "推车一键解锁",
-            "arg": "GMSimCafeDoUpGrade@99905|GMSimCafeDoUpGrade@99905|GMSimCafeDoUpGrade@99905|GMSimCafeDoUpGrade@99905|GMSimCafeDoUpGrade@99905|GMSimCafeDoUpGrade@99905|GMDzCarModifyPoint@1001@330|GMDzCarModifyPoint@1002@380|GMDzCarModifyPoint@2001@550|GMDzCarModifyPoint@2003@960|GMDzCarModifyPoint@3001@1150|GMDzCarModifyPoint@3003@2180",
+            "type": "标准人(暗区)",
+            "name": "20级",
+            "arg": "SetLevelExp@20|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|CharacterClassUp@1@3|CharacterClassUp@2@3|CharacterClassUp@3@3|CharacterClassUp@4@3|CharacterClassUp@5@3|CharacterClassUp@6@3|CharacterClassUp@7@3|CharacterClassUp@8@3|CharacterClassUp@9@3|CharacterClassUp@10@3|CharacterClassUp@11@3|CharacterClassUp@12@3|CharacterClassUp@13@3|CharacterClassUp@14@3|CharacterClassUp@15@3|CharacterClassUp@16@3|CharacterLevelUp@1@20|CharacterLevelUp@2@20|CharacterLevelUp@3@20|CharacterLevelUp@4@20|CharacterLevelUp@5@20|CharacterLevelUp@6@20|CharacterLevelUp@7@20|CharacterLevelUp@8@20|CharacterLevelUp@9@20|CharacterLevelUp@10@20|CharacterLevelUp@11@20|CharacterLevelUp@12@20|CharacterLevelUp@13@20|CharacterLevelUp@14@20|CharacterLevelUp@15@20|CharacterLevelUp@16@20|SendItem@11023@1|SendItem@11014@1|SendItem@11015@1|SendItem@11049@1|SendItem@11007@1|SendItem@11031@1|SendItem@11040@1|GunWeaponLevelUp@0@20|SendItem@2031311@4|SendItem@2031312@4|SendItem@2031313@4|SendItem@2011311@4|SendItem@2011312@4|SendItem@2011313@4|SendItem@2041311@4|SendItem@2041312@4|SendItem@2041313@4|SendItem@2021311@4|SendItem@2021312@4|SendItem@2021313@4|SendItem@3011311@4|SendItem@3011312@4|SendItem@3011313@4|SendItem@1011311@4|SendItem@1011312@4|SendItem@1011313@4|SendItem@1021311@4|SendItem@1021312@4|SendItem@1021313@4|SendItem@1031311@4|SendItem@1031312@4|SendItem@1031313@4|SendItem@12011311@4|SendItem@12011312@4|SendItem@12011313@4|SendItem@13011311@4|SendItem@13011312@4|SendItem@13011313@4|SendItem@4011311@4|SendItem@4011312@4|SendItem@4011313@4|SendItem@8011311@4|SendItem@8011312@4|SendItem@8011313@4|SendItem@9011311@4|SendItem@9011312@4|SendItem@9011313@4|SendItem@10011311@4|SendItem@10011312@4|SendItem@10011313@4|SendItem@11011311@4|SendItem@11011312@4|SendItem@11011313@4|SendItem@14011311@4|SendItem@14011312@4|SendItem@14011313@4|UniqueGunWeaponModLvUp@0@1|TalentRecursiveTree@1001@1001001001|TalentRecursiveTree@1008@1002001001|TalentRecursiveTree@1009@1003001001|TalentRecursiveTree@1015@1004001001|TalentRecursiveTree@1017@1005001001|TalentRecursiveTree@1022@1006001001|TalentRecursiveTree@1023@1007001001|TalentRecursiveTree@1013@1008001001|TalentRecursiveTree@1021@1009001001|TalentRecursiveTree@1024@1010001001|TalentRecursiveTree@1025@1011001001|TalentRecursiveTree@1026@1012001001|TalentRecursiveTree@1027@1013001001|TalentRecursiveTree@1028@1014001001|TalentRecursiveTree@1029@1015001001|TalentRecursiveTree@1032@1016001001|TalentRecursiveTree@1001@1001001002|TalentRecursiveTree@1008@1002001002|TalentRecursiveTree@1009@1003001002|TalentRecursiveTree@1015@1004001002|TalentRecursiveTree@1017@1005001002|TalentRecursiveTree@1022@1006001002|TalentRecursiveTree@1023@1007001002|TalentRecursiveTree@1013@1008001002|TalentRecursiveTree@1021@1009001002|TalentRecursiveTree@1024@1010001002|TalentRecursiveTree@1025@1011001002|TalentRecursiveTree@1026@1012001002|TalentRecursiveTree@1027@1013001002|TalentRecursiveTree@1028@1014001002|TalentRecursiveTree@1029@1015001002|TalentRecursiveTree@1032@1016001002|TalentRecursiveTree@1001@1001001003|TalentRecursiveTree@1008@1002001003|TalentRecursiveTree@1009@1003001003|TalentRecursiveTree@1015@1004001003|TalentRecursiveTree@1017@1005001003|TalentRecursiveTree@1022@1006001003|TalentRecursiveTree@1023@1007001003|TalentRecursiveTree@1013@1008001003|TalentRecursiveTree@1021@1009001003|TalentRecursiveTree@1024@1010001003|TalentRecursiveTree@1025@1011001003|TalentRecursiveTree@1026@1012001003|TalentRecursiveTree@1027@1013001003|TalentRecursiveTree@1028@1014001003|TalentRecursiveTree@1029@1015001003|TalentRecursiveTree@1032@1016001003|UnlockSystem@12000|UnlockSystem@12003",
             "argClient": ""
         },
         {
@@ -369,41 +369,6 @@
             "type": "一键类",
             "name": "生成引导新手账号",
             "arg": "UnlockAllSystem|SetLevelExp@30|SendItem@1001@1|SendItem@1008@1|SendItem@1009@1|SendItem@1015@1|SendItem@1017@1|SendItem@1021@1|SendItem@1022@1|SendItem@1024@1|SendItem@1025@1|SendItem@1029@1|SendItem@1026@1|SendItem@1027@1|SendItem@1028@1|SendItem@1032@1|SendItem@1033@1|SendItem@1036@1|SendItem@1038@1",
-            "argClient": ""
-        },
-        {
-            "id": 62,
-            "type": "暗区",
-            "name": "运载机残血",
-            "arg": "1#GMSetCarProperty@101@9",
-            "argClient": ""
-        },
-        {
-            "id": 63,
-            "type": "暗区",
-            "name": "运载机满血",
-            "arg": "1#GMSetCarProperty@101@2000",
-            "argClient": ""
-        },
-        {
-            "id": 64,
-            "type": "暗区",
-            "name": "推车图启动运载机",
-            "arg": "1#SendItemById@170012@12",
-            "argClient": ""
-        },
-        {
-            "id": 65,
-            "type": "暗区",
-            "name": "加骇入点",
-            "arg": "1#AddBuff@20016@0|1#AddBuff@20016@0",
-            "argClient": ""
-        },
-        {
-            "id": 66,
-            "type": "暗区",
-            "name": "一键所有宝箱进度变满",
-            "arg": "DarkZoneQuestChest@10101|DarkZoneQuestChest@10102|DarkZoneQuestChest@10103|DarkZoneQuestChest@10104|DarkZoneQuestChest@10105|DarkZoneQuestChest@10106|DarkZoneQuestChest@10107|DarkZoneQuestChest@10108|DarkZoneQuestChest@10109|DarkZoneQuestChest@10110|DarkZoneQuestChest@10111|DarkZoneQuestChest@10112|DarkZoneQuestChest@10113|DarkZoneQuestChest@10114|DarkZoneQuestChest@10115|DarkZoneQuestChest@10116",
             "argClient": ""
         }
     ]

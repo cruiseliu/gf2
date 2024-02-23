@@ -171,6 +171,54 @@
             "linkAddr": ""
         },
         {
+            "id": 4024,
+            "title": "小试身手活动结束",
+            "addresser": "1",
+            "content": "尊敬的指挥官：\n        小试身手已结束，以下是您未领取的热身补给，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 4025,
+            "title": "极端映射活动结束",
+            "addresser": "1",
+            "content": "尊敬的指挥官：\n        极端映射活动已结束，您在超算阶群中未结算的映射得分和任务进度，已为您自动结算。\n        以下是对应奖励，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 4026,
+            "title": "交织突进活动结束",
+            "addresser": "1",
+            "content": "尊敬的<color=#f26c1c>{0}</color>阁下：\n     交织突进活动已结束，您还有挑战宝箱奖励未领取，现通过邮件发放，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
+            "id": 4027,
+            "title": "交织突进活动结束",
+            "addresser": "1",
+            "content": "尊敬的<color=#f26c1c>{0}</color>阁下：\n     交织突进活动已结束，您未使用的狮鬃奖章和技巧道具已按一定比例兑换为萨狄斯金，现通过邮件发放，请注意查收。",
+            "linkButtonTxt": "",
+            "shelfLife": 2592000,
+            "hintText": "",
+            "attachment": {},
+            "linkType": 0,
+            "linkAddr": ""
+        },
+        {
             "id": 5001,
             "title": "扩编战轮换模式奖励补发",
             "addresser": "1",

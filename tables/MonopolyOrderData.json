@@ -39,11 +39,11 @@
             },
             "orderContent": "1:1002",
             "section": {
-                "6": 10,
-                "2": 10,
-                "3": 10,
-                "1": 10,
                 "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 30,
@@ -65,11 +65,11 @@
             },
             "orderContent": "1:1003",
             "section": {
-                "6": 10,
+                "4": 10,
                 "2": 10,
                 "3": 10,
                 "1": 10,
-                "4": 10,
+                "6": 10,
                 "5": 10
             },
             "sold": 60,
@@ -138,9 +138,9 @@
                 "1012": 2
             },
             "section": {
-                "4": 10,
-                "2": 10,
                 "3": 10,
+                "2": 10,
+                "4": 10,
                 "1": 10,
                 "6": 10,
                 "5": 10
@@ -166,9 +166,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "6": 10,
-                "1": 10,
                 "3": 10,
+                "1": 10,
+                "6": 10,
                 "5": 10
             },
             "sold": 15,
@@ -192,11 +192,11 @@
             },
             "orderContent": "1:1012",
             "section": {
-                "6": 10,
-                "2": 10,
-                "3": 10,
-                "1": 10,
                 "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 30,
@@ -220,9 +220,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "3": 10,
-                "1": 10,
                 "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 60,
@@ -273,9 +273,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "6": 10,
-                "1": 10,
                 "3": 10,
+                "1": 10,
+                "6": 10,
                 "5": 10
             },
             "sold": 30,
@@ -352,9 +352,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "3": 10,
-                "1": 10,
                 "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 30,
@@ -376,11 +376,11 @@
             },
             "orderContent": "2:3003",
             "section": {
-                "6": 10,
-                "2": 10,
-                "3": 10,
-                "1": 10,
                 "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 60,
@@ -455,9 +455,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "6": 10,
-                "1": 10,
                 "3": 10,
+                "1": 10,
+                "6": 10,
                 "5": 10
             },
             "sold": 15,
@@ -481,9 +481,9 @@
             },
             "orderContent": "2:2022",
             "section": {
-                "3": 10,
-                "2": 10,
                 "4": 10,
+                "2": 10,
+                "3": 10,
                 "1": 10,
                 "6": 10,
                 "5": 10
@@ -507,11 +507,11 @@
             },
             "orderContent": "2:2023",
             "section": {
-                "6": 10,
-                "2": 10,
-                "3": 10,
-                "1": 10,
                 "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 60,
@@ -584,9 +584,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "3": 10,
-                "1": 10,
                 "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 30,
@@ -608,11 +608,11 @@
             },
             "orderContent": "1:1053",
             "section": {
-                "4": 10,
+                "6": 10,
                 "2": 10,
                 "3": 10,
                 "1": 10,
-                "6": 10,
+                "4": 10,
                 "5": 10
             },
             "sold": 60,
@@ -635,9 +635,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "6": 10,
-                "1": 10,
                 "3": 10,
+                "1": 10,
+                "6": 10,
                 "5": 10
             },
             "sold": 15,
@@ -687,9 +687,9 @@
             },
             "orderContent": "1:1063",
             "section": {
-                "4": 10,
-                "2": 10,
                 "3": 10,
+                "2": 10,
+                "4": 10,
                 "1": 10,
                 "6": 10,
                 "5": 10
@@ -711,11 +711,11 @@
             "level": 1,
             "orderContent": "1:1073",
             "section": {
-                "6": 10,
-                "2": 10,
-                "3": 10,
-                "1": 10,
                 "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 60,
@@ -729,14 +729,54 @@
         {
             "id": 2001,
             "orderClass": 200,
-            "className": "移动-1~2",
-            "name": "移动-1~2",
-            "orderDesc": "移动-1~2",
+            "className": "强攻指令",
+            "name": "强攻指令",
+            "orderDesc": "现在是进攻的时候了。\n使用后，可移动一定距离。\n敌人专用指令",
             "orderIcon": "Item_Icon_monopoly_order9_1",
             "level": 1,
             "section": {
                 "2": 10,
                 "1": 10
+            },
+            "sold": 10,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "orderContent": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2002,
+            "orderClass": 200,
+            "className": "强攻指令",
+            "name": "强攻指令",
+            "orderDesc": "现在是进攻的时候了。\n使用后，可移动一定距离。\n敌人专用指令",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "section": {
+                "1": 10
+            },
+            "sold": 10,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "orderContent": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2003,
+            "orderClass": 200,
+            "className": "强攻指令",
+            "name": "强攻指令",
+            "orderDesc": "现在是进攻的时候了。\n使用后，可移动一定距离。\n敌人专用指令",
+            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "level": 1,
+            "section": {
+                "5": 10
             },
             "sold": 10,
             "orderDesc2": "",
@@ -759,7 +799,7 @@
             "section": {
                 "1": 10
             },
-            "sold": 10,
+            "sold": 15,
             "orderDesc2": "",
             "nextLevelOrder": 0,
             "upClass": {},
@@ -770,17 +810,263 @@
         {
             "id": 2021,
             "orderClass": 202,
-            "className": "1%威慑-1~2",
-            "name": "1%威慑-1~2",
-            "orderDesc": "1%威慑-1~2",
-            "orderIcon": "Item_Icon_monopoly_order9_1",
+            "className": "强攻指令",
+            "name": "强攻指令",
+            "orderDesc": "现在是进攻的时候了。\n使用后，可移动一定距离，并对目标造成<color=#f26c1c>1%</color>的伤害。",
+            "orderIcon": "Item_Icon_monopoly_order7_1",
             "level": 1,
             "orderContent": "1:2001",
             "section": {
                 "2": 10,
                 "1": 10
             },
-            "sold": 10,
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2022,
+            "orderClass": 202,
+            "className": "强攻指令",
+            "name": "强攻指令",
+            "orderDesc": "现在是进攻的时候了。\n使用后，可移动一定距离，并对目标造成<color=#f26c1c>3%</color>的伤害。",
+            "orderIcon": "Item_Icon_monopoly_order7_1",
+            "level": 1,
+            "orderContent": "1:2003",
+            "section": {
+                "2": 10,
+                "3": 10,
+                "4": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2023,
+            "orderClass": 202,
+            "className": "强攻指令",
+            "name": "强攻指令",
+            "orderDesc": "现在是进攻的时候了。\n使用后，可移动一定距离，并对目标造成<color=#f26c1c>3%</color>的伤害。",
+            "orderIcon": "Item_Icon_monopoly_order7_1",
+            "level": 1,
+            "orderContent": "1:2003",
+            "section": {
+                "3": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2024,
+            "orderClass": 202,
+            "className": "强攻指令",
+            "name": "强攻指令",
+            "orderDesc": "现在是进攻的时候了。\n使用后，可移动一定距离，并对目标造成<color=#f26c1c>3%</color>的伤害。",
+            "orderIcon": "Item_Icon_monopoly_order7_1",
+            "level": 1,
+            "orderContent": "1:2003",
+            "section": {
+                "6": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2025,
+            "orderClass": 202,
+            "className": "强攻指令",
+            "name": "强攻指令",
+            "orderDesc": "现在是进攻的时候了。\n使用后，可移动一定距离，并对目标造成<color=#f26c1c>1%</color>的伤害。",
+            "orderIcon": "Item_Icon_monopoly_order7_1",
+            "level": 1,
+            "orderContent": "1:2001",
+            "section": {
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2031,
+            "orderClass": 203,
+            "className": "限制指令",
+            "name": "限制指令",
+            "orderDesc": "一、二、三，木头人！\n使用后，可为目标赋予<color=#f26c1c>1</color>层<color=#f26c1c>减速</color>状态，持续<color=#f26c1c>1</color>回合\n敌人所使用的特殊指令，效果与玩家所用的指令略有区别。",
+            "orderIcon": "Item_Icon_monopoly_order131",
+            "level": 1,
+            "orderContent": "1:1094",
+            "section": {
+                "1": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2041,
+            "orderClass": 204,
+            "className": "加密算法",
+            "name": "加密算法",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将前后<color=#f26c1c>6</color>格范围内1个地格变为我方占领状态。\n敌人所使用的特殊指令，效果与玩家所用的指令略有区别。",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "orderContent": "2:3002",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2042,
+            "orderClass": 204,
+            "className": "加密算法",
+            "name": "加密算法",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将全图<color=#f26c1c>任意</color>范围内1个地格变为我方占领状态。\n敌人所使用的特殊指令，效果与玩家所用的指令略有区别。",
+            "orderIcon": "Item_Icon_monopoly_order6_2",
+            "level": 2,
+            "orderContent": "2:3003",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2043,
+            "orderClass": 204,
+            "className": "加密算法",
+            "name": "加密算法",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将前后<color=#f26c1c>6</color>格范围内1个地格变为我方占领状态。\n敌人所使用的特殊指令，效果与玩家所用的指令略有区别。",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "orderContent": "2:3002",
+            "section": {
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2044,
+            "orderClass": 204,
+            "className": "加密算法",
+            "name": "加密算法",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将前后<color=#f26c1c>6</color>格范围内1个地格变为我方占领状态。\n敌人所使用的特殊指令，效果与玩家所用的指令略有区别。",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "orderContent": "2:3002",
+            "section": {
+                "2": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2045,
+            "orderClass": 12105,
+            "className": "加密算法",
+            "name": "加密算法",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将全图<color=#f26c1c>任意</color>范围内2个地格变为我方占领状态。\n敌人所使用的特殊指令，效果与玩家所用的指令略有区别。",
+            "orderIcon": "Item_Icon_monopoly_order6_3",
+            "level": 3,
+            "orderContent": "2:3004",
+            "section": {
+                "6": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 2046,
+            "orderClass": 12105,
+            "className": "加密算法",
+            "name": "加密算法",
+            "orderDesc": "便捷实用的占地工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将前后<color=#f26c1c>6</color>格范围内1个地格变为我方占领状态。\n敌人所使用的特殊指令，效果与玩家所用的指令略有区别。",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "orderContent": "2:3002",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 15,
             "orderDesc2": "",
             "nextLevelOrder": 0,
             "upClass": {},
@@ -797,11 +1083,11 @@
             "level": 1,
             "orderContent": "1:9901",
             "section": {
-                "4": 10,
-                "2": 10,
-                "6": 10,
-                "1": 10,
                 "3": 10,
+                "2": 10,
+                "4": 10,
+                "1": 10,
+                "6": 10,
                 "5": 10
             },
             "sold": 15,
@@ -824,9 +1110,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "6": 10,
-                "1": 10,
                 "3": 10,
+                "1": 10,
+                "6": 10,
                 "5": 10
             },
             "sold": 15,
@@ -847,11 +1133,11 @@
             "level": 1,
             "orderContent": "2:9001",
             "section": {
-                "6": 10,
-                "2": 10,
-                "3": 10,
-                "1": 10,
                 "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
                 "5": 10
             },
             "sold": 15,
@@ -874,9 +1160,9 @@
             "section": {
                 "4": 10,
                 "2": 10,
-                "6": 10,
-                "1": 10,
                 "3": 10,
+                "1": 10,
+                "6": 10,
                 "5": 10
             },
             "sold": 15,
@@ -897,9 +1183,9 @@
             "level": 1,
             "orderContent": "3:1001",
             "section": {
-                "3": 10,
-                "2": 10,
                 "4": 10,
+                "2": 10,
+                "3": 10,
                 "1": 10,
                 "6": 10,
                 "5": 10
@@ -922,14 +1208,39 @@
             "level": 1,
             "orderContent": "1:9904",
             "section": {
-                "4": 10,
+                "6": 10,
                 "2": 10,
                 "3": 10,
                 "1": 10,
-                "6": 10,
+                "4": 10,
                 "5": 10
             },
             "sold": 15,
+            "orderDesc2": "",
+            "orderClass": 0,
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 9907,
+            "className": "测试用移动指令",
+            "name": "测试用移动指令",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后本回合可获得(3~6)<color=#f26c1c>+4</color>点移动点数。",
+            "orderIcon": "Item_Icon_monopoly_order1_3",
+            "level": 3,
+            "orderContent": "1:1004",
+            "section": {
+                "6": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 60,
             "orderDesc2": "",
             "orderClass": 0,
             "nextLevelOrder": 0,
@@ -947,6 +1258,422 @@
             "level": 1,
             "orderContent": "3:1001",
             "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "orderClass": 0,
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121001,
+            "orderClass": 12100,
+            "className": "移动指令",
+            "name": "移动指令 Lv.1",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后本回合可获得(1~6)<color=#f26c1c>+1</color>点移动点数。\n升级后可获得更多的移动点数。",
+            "orderIcon": "Item_Icon_monopoly_order1_1",
+            "level": 1,
+            "nextLevelOrder": 121002,
+            "orderContent": "1:1001",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121002,
+            "orderClass": 12100,
+            "className": "移动指令",
+            "name": "移动指令 Lv.2",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后本回合可获得(2~6)<color=#f26c1c>+2</color>点移动点数。\n升级后可获得更多的移动点数。",
+            "orderIcon": "Item_Icon_monopoly_order1_2",
+            "level": 2,
+            "nextLevelOrder": 121003,
+            "upClass": {
+                "121001": 2
+            },
+            "orderContent": "1:1002",
+            "section": {
+                "2": 10,
+                "4": 10,
+                "6": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121003,
+            "orderClass": 12100,
+            "className": "移动指令",
+            "name": "移动指令 Lv.3",
+            "orderDesc": "有了它，走遍世界的每个角落也只是时间问题。\n使用后本回合可获得(3~6)<color=#f26c1c>+4</color>点移动点数。",
+            "orderIcon": "Item_Icon_monopoly_order1_3",
+            "level": 3,
+            "upClass": {
+                "121002": 2
+            },
+            "orderContent": "1:1003",
+            "section": {
+                "6": 10,
+                "3": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121011,
+            "orderClass": 12101,
+            "className": "遥控指令",
+            "name": "遥控指令 Lv.1",
+            "orderDesc": "只是指定步数而已，可不算出千啊？\n使用后，可指定本回合的移动点数，该点数不受增减益效果影响。\n升级后可指定的移动点数会增加。",
+            "orderIcon": "Item_Icon_monopoly_order14_1",
+            "level": 1,
+            "nextLevelOrder": 121012,
+            "section": {
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "orderType": 1,
+            "upClass": {},
+            "orderContent": "",
+            "minMove": 0,
+            "maxMove": 0
+        },
+        {
+            "id": 121012,
+            "orderClass": 12101,
+            "className": "遥控指令",
+            "name": "遥控指令 Lv.2",
+            "orderDesc": "只是指定步数而已，可不算出千啊？\n使用后，可指定本回合的移动点数，该点数不受增减益效果影响。\n升级后可指定的移动点数会增加。",
+            "orderIcon": "Item_Icon_monopoly_order14_2",
+            "level": 2,
+            "nextLevelOrder": 121013,
+            "upClass": {
+                "121011": 2
+            },
+            "section": {
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "orderType": 1,
+            "orderContent": "",
+            "minMove": 0,
+            "maxMove": 0
+        },
+        {
+            "id": 121013,
+            "orderClass": 12101,
+            "className": "遥控指令",
+            "name": "遥控指令 Lv.3",
+            "orderDesc": "只是指定步数而已，可不算出千啊？\n使用后，可指定本回合的移动点数，该点数不受增减益效果影响。",
+            "orderIcon": "Item_Icon_monopoly_order14_3",
+            "level": 3,
+            "upClass": {
+                "121012": 2
+            },
+            "section": {
+                "3": 10,
+                "2": 10,
+                "4": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "orderType": 1,
+            "nextLevelOrder": 0,
+            "orderContent": "",
+            "minMove": 0,
+            "maxMove": 0
+        },
+        {
+            "id": 121021,
+            "orderClass": 12102,
+            "className": "应急电源",
+            "name": "应急电源 Lv.1",
+            "orderDesc": "总是在电量不足的时候，才能显出它的珍贵。\n使用后恢复小队中所有人形<color=#f26c1c>30%</color>生命值。\n升级后可增加恢复量。\n（恢复生命值不会大于该人形最大生命值，死亡人形无法恢复生命）",
+            "orderIcon": "Item_Icon_monopoly_order17_1",
+            "level": 1,
+            "nextLevelOrder": 121022,
+            "orderContent": "1:1012",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121022,
+            "orderClass": 12102,
+            "className": "应急电源",
+            "name": "应急电源 Lv.2",
+            "orderDesc": "总是在电量不足的时候，才能显出它的珍贵。\n使用后恢复小队中所有人形<color=#f26c1c>60%</color>生命值。\n升级后可增加恢复量。\n（恢复生命值不会大于该人形最大生命值，死亡人形无法恢复生命）",
+            "orderIcon": "Item_Icon_monopoly_order17_2",
+            "level": 2,
+            "nextLevelOrder": 121023,
+            "upClass": {
+                "121021": 2
+            },
+            "orderContent": "1:1015",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121023,
+            "orderClass": 12102,
+            "className": "应急电源",
+            "name": "应急电源 Lv.3",
+            "orderDesc": "总是在电量不足的时候，才能显出它的珍贵。\n使用后恢复小队中所有人形<color=#f26c1c>100%</color>生命值。\n（恢复生命值不会大于该人形最大生命值，死亡人形无法恢复生命）",
+            "orderIcon": "Item_Icon_monopoly_order17_3",
+            "level": 3,
+            "upClass": {
+                "121022": 2
+            },
+            "orderContent": "1:1016",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121031,
+            "orderClass": 12103,
+            "className": "稳态组件",
+            "name": "稳态组件 Lv.1",
+            "orderDesc": "设计轻便的小型组件，使用后可快速恢复稳态指数。\n使用后恢复小队中所有人形稳态<color=#f26c1c>5</color>点。\n升级后恢复量提升。\n（恢复稳态值不可大于该人形最大稳态，死亡人形无法恢复）",
+            "orderIcon": "Item_Icon_monopoly_order27_1",
+            "level": 1,
+            "nextLevelOrder": 121032,
+            "orderContent": "1:1062",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121032,
+            "orderClass": 12103,
+            "className": "稳态组件",
+            "name": "稳态组件 Lv.2",
+            "orderDesc": "设计轻便的小型组件，使用后可快速恢复稳态指数。\n使用后恢复小队中所有人形稳态<color=#f26c1c>7</color>点。\n升级后恢复量提升。\n（恢复稳态值不可大于该人形最大稳态，死亡人形无法恢复）",
+            "orderIcon": "Item_Icon_monopoly_order27_2",
+            "level": 2,
+            "nextLevelOrder": 121033,
+            "upClass": {
+                "121031": 2
+            },
+            "orderContent": "1:1064",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121033,
+            "orderClass": 12103,
+            "className": "稳态组件",
+            "name": "稳态组件 Lv.3",
+            "orderDesc": "设计轻便的小型组件，使用后可快速恢复稳态指数。\n使用后恢复小队中所有人形稳态<color=#f26c1c>12</color>点\n（恢复稳态值不可大于该人形最大稳态，死亡人形无法恢复）",
+            "orderIcon": "Item_Icon_monopoly_order27_3",
+            "level": 3,
+            "upClass": {
+                "121032": 2
+            },
+            "orderContent": "1:1065",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121041,
+            "orderClass": 12104,
+            "className": "临时护盾",
+            "name": "临时护盾 Lv.1",
+            "orderDesc": "能提供的保护不多，但总比没有好。\n使用后，获得减伤效果，减少<color=#f26c1c>20%</color>敌方地图攻击\n造成伤害，持续2回合。\n升级后可获得更高的减伤。",
+            "orderIcon": "Item_Icon_monopoly_order20_1",
+            "level": 1,
+            "nextLevelOrder": 121042,
+            "orderContent": "1:1021",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121042,
+            "orderClass": 12104,
+            "className": "临时护盾",
+            "name": "临时护盾 Lv.2",
+            "orderDesc": "能提供的保护不多，但总比没有好。\n使用后，获得减伤效果，减少<color=#f26c1c>35%</color>敌方地图攻击\n造成伤害，持续3回合。\n升级后可获得更高的减伤。",
+            "orderIcon": "Item_Icon_monopoly_order20_2",
+            "level": 2,
+            "nextLevelOrder": 121043,
+            "upClass": {
+                "101041": 2
+            },
+            "orderContent": "1:1022",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121043,
+            "orderClass": 12104,
+            "className": "临时护盾",
+            "name": "临时护盾 Lv.3",
+            "orderDesc": "能提供的保护不多，但总比没有好。\n使用后，获得减伤效果，减少<color=#f26c1c>50%</color>敌方地图攻击造成伤害，持续4回合。",
+            "orderIcon": "Item_Icon_monopoly_order20_3",
+            "level": 3,
+            "upClass": {
+                "121042": 2
+            },
+            "orderContent": "1:1023",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121051,
+            "orderClass": 12105,
+            "className": "加密算法",
+            "name": "加密算法 lv.1",
+            "orderDesc": "便捷实用的防御工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将前后<color=#f26c1c>6</color>格范围内1个地格变为我方占领状态（若地格已经是我方占领则无法选择）。\n升级增加使用范围。",
+            "orderIcon": "Item_Icon_monopoly_order6_1",
+            "level": 1,
+            "nextLevelOrder": 121052,
+            "orderContent": "2:3002",
+            "section": {
                 "3": 10,
                 "2": 10,
                 "4": 10,
@@ -956,9 +1683,425 @@
             },
             "sold": 15,
             "orderDesc2": "",
-            "orderClass": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121052,
+            "orderClass": 12105,
+            "className": "加密算法",
+            "name": "加密算法 lv.2",
+            "orderDesc": "便捷实用的防御工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将全图<color=#f26c1c>任意</color>范围内1个地格变为我方占领状态（若地格已经是我方占领则无法选择）。\n升级增加占领地格数量。",
+            "orderIcon": "Item_Icon_monopoly_order6_2",
+            "level": 2,
+            "nextLevelOrder": 121053,
+            "upClass": {
+                "121051": 2
+            },
+            "orderContent": "2:3003",
+            "section": {
+                "6": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121053,
+            "orderClass": 12105,
+            "className": "加密算法",
+            "name": "加密算法 lv.3",
+            "orderDesc": "便捷实用的防御工具，为自己创造愉悦，为敌人增添困扰。\n使用后，可将全图<color=#f26c1c>任意</color>范围内2个地格变为我方占领状态（若地格已经是我方占领则无法选择）。",
+            "orderIcon": "Item_Icon_monopoly_order6_3",
+            "level": 3,
+            "upClass": {
+                "121052": 2
+            },
+            "orderContent": "2:3004",
+            "section": {
+                "3": 10,
+                "2": 10,
+                "4": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121062,
+            "orderClass": 12106,
+            "className": "引雷针",
+            "name": "引雷针 Lv.2",
+            "orderDesc": "迅速定位，精准打击。\n使用后，可选择地图任意地点1个目标造成<color=#f26c1c>50%</color>伤害。\n升级增加伤害。\n被引雷针移除的怪物无法获得战斗奖励。\n该指令对首领效果极差，请注意。\n敌方目标对我方使用该指令时，效果会削弱。",
+            "orderIcon": "Item_Icon_monopoly_order21_2",
+            "level": 2,
+            "nextLevelOrder": 121063,
+            "orderContent": "1:1052",
+            "section": {
+                "3": 10,
+                "2": 10,
+                "4": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121063,
+            "orderClass": 12106,
+            "className": "引雷针",
+            "name": "引雷针 Lv.3",
+            "orderDesc": "迅速定位，精准打击。\n使用后，可选择地图任意地点1个目标造成<color=#f26c1c>100%</color>伤害。\n升级增加伤害。\n被引雷针移除的怪物无法获得战斗奖励。\n该指令对首领效果极差，请注意。\n敌方目标对我方使用该指令时，效果会削弱。",
+            "orderIcon": "Item_Icon_monopoly_order21_3",
+            "level": 3,
+            "upClass": {
+                "121062": 2
+            },
+            "orderContent": "1:1053",
+            "section": {
+                "6": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121071,
+            "orderClass": 12107,
+            "className": "清障套组",
+            "name": "清障套组 lv.1",
+            "orderDesc": "擅长扫清眼前的一切障碍。\n使用后，在前后<color=#f26c1c>3</color>格范围内清除1个路障，若该地格上无路障则无事发生。\n升级使用范围。",
+            "orderIcon": "Item_Icon_monopoly_order22_1",
+            "level": 1,
+            "nextLevelOrder": 121072,
+            "orderContent": "2:2021",
+            "section": {
+                "6": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121072,
+            "orderClass": 12107,
+            "className": "清障套组",
+            "name": "清障套组 lv.2",
+            "orderDesc": "擅长扫清眼前的一切障碍。\n使用后，在前后<color=#f26c1c>6</color>格范围内清除1个路障，若该地格上无路障则无事发生。\n升级使用范围。",
+            "orderIcon": "Item_Icon_monopoly_order22_2",
+            "level": 2,
+            "nextLevelOrder": 121073,
+            "upClass": {
+                "121071": 2
+            },
+            "orderContent": "2:2022",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121073,
+            "orderClass": 12107,
+            "className": "清障套组",
+            "name": "清障套组 lv.3",
+            "orderDesc": "擅长扫清眼前的一切障碍。\n使用后，可在全图<color=#f26c1c>任意</color>范围内清除1个路障，若该地格上无路障则无事发生。",
+            "orderIcon": "Item_Icon_monopoly_order22_3",
+            "level": 3,
+            "upClass": {
+                "121072": 2
+            },
+            "orderContent": "2:2023",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121082,
+            "orderClass": 12108,
+            "className": "拦截指令",
+            "name": "拦截指令 Lv.2",
+            "orderDesc": "攻击的同时，也别忘了拦住敌人入侵的脚步。\n可选择地图任意地点创造<color=#f26c1c>1</color>个路障。\n升级增加创建路障的数量。\n\n路障：移动被阻挡1回合，触发阻挡后路障销毁。",
+            "orderIcon": "Item_Icon_monopoly_order16_2",
+            "level": 2,
+            "nextLevelOrder": 121083,
+            "orderContent": "2:2012",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121083,
+            "orderClass": 12108,
+            "className": "拦截指令",
+            "name": "拦截指令 Lv.3",
+            "orderDesc": "攻击的同时，也别忘了拦住敌人入侵的脚步。\n可选择地图任意地点创造<color=#f26c1c>2</color>个路障。\n\n路障：移动被阻挡1回合，触发阻挡后路障销毁。",
+            "orderIcon": "Item_Icon_monopoly_order16_3",
+            "level": 3,
+            "upClass": {
+                "121082": 2
+            },
+            "orderContent": "2:2013",
+            "section": {
+                "6": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121093,
+            "orderClass": 12109,
+            "className": "净化剂",
+            "name": "净化剂 Lv.3",
+            "orderDesc": "净化，由内而外。\n使用后净化我方身上的减益状态。",
+            "orderIcon": "Item_Icon_monopoly_order18_3",
+            "level": 3,
+            "orderContent": "1:1041",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
             "nextLevelOrder": 0,
             "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121103,
+            "orderClass": 12110,
+            "className": "截获指令",
+            "name": "截获指令 Lv.3",
+            "orderDesc": "你的是我的，我的还是我的。\n使用后，可选择地图任意1个敌方目标窃取其可能使用的指令中的1个，敌方的指令被窃取后，不会再使用该指令。",
+            "orderIcon": "Item_Icon_monopoly_order173",
+            "level": 3,
+            "orderContent": "1:1073",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121112,
+            "orderClass": 12111,
+            "className": "强力护盾",
+            "name": "强力护盾 Lv.2",
+            "orderDesc": "长效保护，行动更有底气。\n使用后，获得持续<color=#f26c1c>3</color>回合的横行效果。\n升级后效果持续回合数提升。\n横行：免疫所有异位地格和敌方地图攻击。",
+            "orderIcon": "Item_Icon_monopoly_order11_2",
+            "level": 2,
+            "nextLevelOrder": 121113,
+            "orderContent": "1:1081",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "6": 10,
+                "1": 10,
+                "3": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121113,
+            "orderClass": 12111,
+            "className": "强力护盾",
+            "name": "强力护盾 Lv.3",
+            "orderDesc": "长效保护，行动更有底气。\n使用后，获得持续<color=#f26c1c>5</color>回合的横行效果。\n横行：免疫所有异位地格和敌方地图攻击。",
+            "orderIcon": "Item_Icon_monopoly_order11_3",
+            "level": 3,
+            "upClass": {
+                "121112": 2
+            },
+            "orderContent": "1:1082",
+            "section": {
+                "3": 10,
+                "2": 10,
+                "4": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121121,
+            "orderClass": 12112,
+            "className": "限制指令",
+            "name": "限制指令 lv.1",
+            "orderDesc": "一、二、三，木头人！\n使用后，可为目标赋予<color=#f26c1c>1</color>层<color=#f26c1c>限速</color>状态，持续3回合。\n升级增加赋予限速buff的层数。\n敌方目标对我方使用该指令时，效果会削弱。",
+            "orderIcon": "Item_Icon_monopoly_order131",
+            "level": 1,
+            "nextLevelOrder": 121122,
+            "orderContent": "1:1091",
+            "section": {
+                "6": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "4": 10,
+                "5": 10
+            },
+            "sold": 15,
+            "orderDesc2": "",
+            "upClass": {},
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121122,
+            "orderClass": 12112,
+            "className": "限制指令",
+            "name": "限制指令 lv.2",
+            "orderDesc": "一、二、三，木头人！\n使用后，可为目标赋予<color=#f26c1c>2</color>层<color=#f26c1c>限速</color>状态，持续3回合。\n升级增加赋予限速buff的层数。\n敌方目标对我方使用该指令时，效果会削弱。",
+            "orderIcon": "Item_Icon_monopoly_order132",
+            "level": 2,
+            "nextLevelOrder": 121123,
+            "upClass": {
+                "121121": 2
+            },
+            "orderContent": "1:1092",
+            "section": {
+                "3": 10,
+                "2": 10,
+                "4": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 30,
+            "orderDesc2": "",
+            "minMove": 0,
+            "maxMove": 0,
+            "orderType": 0
+        },
+        {
+            "id": 121123,
+            "orderClass": 12112,
+            "className": "限制指令",
+            "name": "限制指令 lv.3",
+            "orderDesc": "一、二、三，木头人！\n使用后，可为目标赋予<color=#f26c1c>4</color>层<color=#f26c1c>限速</color>状态，持续3回合。\n敌方目标对我方使用该指令时，效果会削弱。",
+            "orderIcon": "Item_Icon_monopoly_order133",
+            "level": 3,
+            "upClass": {
+                "121122": 2
+            },
+            "orderContent": "1:1093",
+            "section": {
+                "4": 10,
+                "2": 10,
+                "3": 10,
+                "1": 10,
+                "6": 10,
+                "5": 10
+            },
+            "sold": 60,
+            "orderDesc2": "",
+            "nextLevelOrder": 0,
             "minMove": 0,
             "maxMove": 0,
             "orderType": 0
