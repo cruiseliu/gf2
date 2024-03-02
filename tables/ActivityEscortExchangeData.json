@@ -1,103 +1,103 @@
 {
-    "data": [
-        {
-            "itemId": 170011,
-            "itemName": "放置材料1",
-            "rewardBagnum": 1,
-            "goodsName": "铁料",
-            "goodsDes": "破损的铁制品，可以回收，蚊子再小也是肉。\n可在醇香委托中，通过物资置换，自动转化为<color=#7967BA>【咖啡 胶囊】</color>。",
-            "goodsLevel": 4,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem1",
-            "goodsType": 1,
-            "rewardPoint": 0
-        },
-        {
-            "itemId": 170012,
-            "itemName": "放置材料2",
-            "rewardBagnum": 1,
-            "goodsName": "铜料",
-            "goodsDes": "破损的铜制品，可以回收，蚊子再小也是肉。\n可在醇香委托中，通过物资置换，自动转化为<color=#7967BA>【混合果汁 】</color>。",
-            "goodsLevel": 4,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem2",
-            "goodsType": 1,
-            "rewardPoint": 0
-        },
-        {
-            "itemId": 170013,
-            "itemName": "放置材料3",
-            "rewardBagnum": 1,
-            "goodsName": "铝料",
-            "goodsDes": "破损的铝制品，可以回收，蚊子再小也是肉。\n可在醇香委托中，通过物资置换，自动转化为<color=#7967BA>【苏打水】</color>。",
-            "goodsLevel": 4,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem3",
-            "goodsType": 1,
-            "rewardPoint": 0
-        },
-        {
-            "itemId": 170015,
-            "itemName": "咖啡1材料",
-            "rewardBagnum": 1,
-            "rewardPoint": 10,
-            "goodsName": "珠粒鹅卵石·一",
-            "goodsDes": "<color=#f26c1c>物资等级一</color>小粒的圆形鹅卵石，常被用作装饰材料，回收价值一般。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【丝绒拿铁】</color>所需的原料包。",
-            "goodsLevel": 3,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_1",
-            "goodsType": 3
-        },
-        {
-            "itemId": 170016,
-            "itemName": "咖啡2材料",
-            "rewardBagnum": 1,
-            "rewardPoint": 15,
-            "goodsName": "椭圆鹅卵石·二",
-            "goodsDes": "<color=#f26c1c>物资等级二</color>椭圆形的鹅卵石，常被用作装饰材料，回收价值一般。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【生椰雪山】</color>所需的原料包。",
-            "goodsLevel": 3,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_2",
-            "goodsType": 3
-        },
-        {
-            "itemId": 170017,
-            "itemName": "咖啡3材料",
-            "rewardBagnum": 1,
-            "rewardPoint": 20,
-            "goodsName": "三角鹅卵石·三",
-            "goodsDes": "<color=#f26c1c>物资等级三</color>三角形的鹅卵石，常被用作装饰材料，回收价值一般。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【闪耀之夜】</color>所需的原料包。",
-            "goodsLevel": 4,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_3",
-            "goodsType": 3
-        },
-        {
-            "itemId": 170018,
-            "itemName": "咖啡4材料",
-            "rewardBagnum": 1,
-            "rewardPoint": 25,
-            "goodsName": "星星鹅卵石·四",
-            "goodsDes": "<color=#f26c1c>物资等级四</color>星星形的鹅卵石，常被用作装饰材料，回收价值一般。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【厚乳生酪】</color>所需的原料包。",
-            "goodsLevel": 4,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_4",
-            "goodsType": 3
-        },
-        {
-            "itemId": 170019,
-            "itemName": "咖啡5材料",
-            "rewardBagnum": 1,
-            "rewardPoint": 30,
-            "goodsName": "白色燧石·五",
-            "goodsDes": "<color=#f26c1c>物资等级五</color>白色的坚硬石块，常用于取火和制作临时工具，具有一定的回收价值。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【长夏琅戈】</color>所需的原料包。",
-            "goodsLevel": 5,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_5",
-            "goodsType": 3
-        },
-        {
-            "itemId": 170020,
-            "itemName": "咖啡6材料",
-            "rewardBagnum": 1,
-            "rewardPoint": 40,
-            "goodsName": "黄色燧石·六",
-            "goodsDes": "<color=#f26c1c>物资等级六</color>黄色的坚硬石块，常用于取火和制作临时工具，具有一定的回收价值。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【挚爱玛绮朵】</color>所需的原料包。",
-            "goodsLevel": 5,
-            "goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_6",
-            "goodsType": 3
-        }
-    ]
+	"data": [
+		{
+			"itemId": 170011,
+			"itemName": "放置材料1",
+			"rewardBagnum": 1,
+			"goodsName": "铁料",
+			"goodsDes": "破损的铁制品，可以回收，蚊子再小也是肉。\n可在醇香委托中，通过物资置换，自动转化为<color=#7967BA>【咖啡 胶囊】</color>。",
+			"goodsLevel": 4,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem1",
+			"goodsType": 1,
+			"rewardPoint": 0
+		},
+		{
+			"itemId": 170012,
+			"itemName": "放置材料2",
+			"rewardBagnum": 1,
+			"goodsName": "铜料",
+			"goodsDes": "破损的铜制品，可以回收，蚊子再小也是肉。\n可在醇香委托中，通过物资置换，自动转化为<color=#7967BA>【混合果汁 】</color>。",
+			"goodsLevel": 4,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem2",
+			"goodsType": 1,
+			"rewardPoint": 0
+		},
+		{
+			"itemId": 170013,
+			"itemName": "放置材料3",
+			"rewardBagnum": 1,
+			"goodsName": "铝料",
+			"goodsDes": "破损的铝制品，可以回收，蚊子再小也是肉。\n可在醇香委托中，通过物资置换，自动转化为<color=#7967BA>【苏打水】</color>。",
+			"goodsLevel": 4,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem3",
+			"goodsType": 1,
+			"rewardPoint": 0
+		},
+		{
+			"itemId": 170015,
+			"itemName": "咖啡1材料",
+			"rewardBagnum": 1,
+			"rewardPoint": 10,
+			"goodsName": "珠粒鹅卵石·一",
+			"goodsDes": "<color=#f26c1c>物资等级一</color>小粒的圆形鹅卵石，常被用作装饰材料，回收价值一般。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【丝绒拿铁】</color>所需的原料包。",
+			"goodsLevel": 3,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_1",
+			"goodsType": 3
+		},
+		{
+			"itemId": 170016,
+			"itemName": "咖啡2材料",
+			"rewardBagnum": 1,
+			"rewardPoint": 15,
+			"goodsName": "椭圆鹅卵石·二",
+			"goodsDes": "<color=#f26c1c>物资等级二</color>椭圆形的鹅卵石，常被用作装饰材料，回收价值一般。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【生椰雪山】</color>所需的原料包。",
+			"goodsLevel": 3,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_2",
+			"goodsType": 3
+		},
+		{
+			"itemId": 170017,
+			"itemName": "咖啡3材料",
+			"rewardBagnum": 1,
+			"rewardPoint": 20,
+			"goodsName": "三角鹅卵石·三",
+			"goodsDes": "<color=#f26c1c>物资等级三</color>三角形的鹅卵石，常被用作装饰材料，回收价值一般。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【闪耀之夜】</color>所需的原料包。",
+			"goodsLevel": 4,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_3",
+			"goodsType": 3
+		},
+		{
+			"itemId": 170018,
+			"itemName": "咖啡4材料",
+			"rewardBagnum": 1,
+			"rewardPoint": 25,
+			"goodsName": "星星鹅卵石·四",
+			"goodsDes": "<color=#f26c1c>物资等级四</color>星星形的鹅卵石，常被用作装饰材料，回收价值一般。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【厚乳生酪】</color>所需的原料包。",
+			"goodsLevel": 4,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_4",
+			"goodsType": 3
+		},
+		{
+			"itemId": 170019,
+			"itemName": "咖啡5材料",
+			"rewardBagnum": 1,
+			"rewardPoint": 30,
+			"goodsName": "白色燧石·五",
+			"goodsDes": "<color=#f26c1c>物资等级五</color>白色的坚硬石块，常用于取火和制作临时工具，具有一定的回收价值。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【长夏琅戈】</color>所需的原料包。",
+			"goodsLevel": 5,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_5",
+			"goodsType": 3
+		},
+		{
+			"itemId": 170020,
+			"itemName": "咖啡6材料",
+			"rewardBagnum": 1,
+			"rewardPoint": 40,
+			"goodsName": "黄色燧石·六",
+			"goodsDes": "<color=#f26c1c>物资等级六</color>黄色的坚硬石块，常用于取火和制作临时工具，具有一定的回收价值。\n可在醇香委托中，通过物资置换，自动转化为制作<color=#f26c1c>【挚爱玛绮朵】</color>所需的原料包。",
+			"goodsLevel": 5,
+			"goodsPic": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_6",
+			"goodsType": 3
+		}
+	]
 }

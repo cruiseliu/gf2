@@ -1,25 +1,25 @@
 {
-    "data": [
-        {
-            "synthesisGroup": 1015,
-            "transferItem": 2,
-            "transferLimit": 2000,
-            "singleTransfer": 50,
-            "transferItemN": [
-                "170031:25",
-                "170036:8301",
-                "170041:2"
-            ],
-            "transferLimitN": [
-                40000,
-                40000,
-                20000
-            ],
-            "transferNum": [
-                1000,
-                1000,
-                500
-            ]
-        }
-    ]
+	"data": [
+		{
+			"synthesisGroup": 1015,
+			"transferItem": 2,
+			"transferLimit": 2000,
+			"singleTransfer": 50,
+			"transferItemN": [
+				"170031:25",
+				"170036:8301",
+				"170041:2"
+			],
+			"transferLimitN": [
+				40000,
+				40000,
+				20000
+			],
+			"transferNum": [
+				1000,
+				1000,
+				500
+			]
+		}
+	]
 }

@@ -1,26 +1,26 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "title": "材料",
-            "titleEn": "指挥官的资源",
-            "icon": "Icon_Repository_Res",
-            "itemType": [
-                102
-            ]
-        },
-        {
-            "id": 2,
-            "title": "物资",
-            "titleEn": "指挥官的道具",
-            "icon": "Icon_Repository_Item",
-            "itemType": [
-                1,
-                4,
-                7,
-                21,
-                20
-            ]
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"title": "材料",
+			"titleEn": "指挥官的资源",
+			"icon": "Icon_Repository_Res",
+			"itemType": [
+				102
+			]
+		},
+		{
+			"id": 2,
+			"title": "物资",
+			"titleEn": "指挥官的道具",
+			"icon": "Icon_Repository_Item",
+			"itemType": [
+				1,
+				4,
+				7,
+				21,
+				20
+			]
+		}
+	]
 }

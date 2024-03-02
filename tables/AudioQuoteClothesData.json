@@ -1,552 +1,541 @@
 {
-    "data": [
-        {
-            "Id": 1001,
-            "typeCode": 1,
-            "model": "CharolicSR01",
-            "clothId": 201,
-            "shoesId": 2,
-            "audioVoice": 114,
-            "cuesheetUsed": [
-                "C_SR01_Charolic"
-            ]
-        },
-        {
-            "Id": 1008,
-            "typeCode": 1,
-            "model": "NemesisSR01",
-            "clothId": 202,
-            "shoesId": 2,
-            "audioVoice": 113,
-            "cuesheetUsed": [
-                "C_SR01_Nemesis",
-                "Gun_RF"
-            ]
-        },
-        {
-            "Id": 1009,
-            "typeCode": 1,
-            "model": "ColphneSR01",
-            "clothId": 201,
-            "shoesId": 3,
-            "audioVoice": 102,
-            "cuesheetUsed": [
-                "C_SR01_Colphne",
-                "Gun_HG"
-            ]
-        },
-        {
-            "Id": 1013,
-            "typeCode": 1,
-            "model": "LennaSR01",
-            "clothId": 201,
-            "shoesId": 3,
-            "audioVoice": 118,
-            "cuesheetUsed": [
-                "C_SSR01_Lenna",
-                "Gun_SMG"
-            ]
-        },
-        {
-            "Id": 1015,
-            "typeCode": 1,
-            "model": "VepleySSR01",
-            "clothId": 203,
-            "shoesId": 3,
-            "audioVoice": 107,
-            "cuesheetUsed": [
-                "C_SSR01_Vepley",
-                "Gun_SG",
-                "C_SR01_Groza"
-            ]
-        },
-        {
-            "Id": 1017,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 112,
-            "cuesheetUsed": [
-                "C_SR01_Groza",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 1021,
-            "typeCode": 1,
-            "model": "PerityaSSR01",
-            "clothId": 201,
-            "shoesId": 1,
-            "audioVoice": 106,
-            "cuesheetUsed": [
-                "C_SSR01_Peritya",
-                "Gun_MG"
-            ]
-        },
-        {
-            "Id": 1022,
-            "typeCode": 1,
-            "model": "SharkrySR01",
-            "audioVoice": 104,
-            "cuesheetUsed": [
-                "C_SSR01_Sharkry",
-                "Gun_AR"
-            ],
-            "clothId": 0,
-            "shoesId": 0
-        },
-        {
-            "Id": 1024,
-            "typeCode": 1,
-            "model": "CheetaSR01",
-            "audioVoice": 110,
-            "cuesheetUsed": [
-                "C_SR_Cheeta",
-                "Gun_SMG"
-            ],
-            "clothId": 0,
-            "shoesId": 0
-        },
-        {
-            "Id": 1025,
-            "typeCode": 1,
-            "model": "TololoSSR01",
-            "clothId": 201,
-            "shoesId": 2,
-            "audioVoice": 108,
-            "cuesheetUsed": [
-                "C_SSR01_Tololo",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 1026,
-            "typeCode": 1,
-            "model": "NagantSR01",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 109,
-            "cuesheetUsed": [
-                "C_SR01_Nagant",
-                "Gun_HG"
-            ]
-        },
-        {
-            "Id": 1027,
-            "typeCode": 1,
-            "model": "QiongjiuSSR01",
-            "clothId": 201,
-            "shoesId": 2,
-            "audioVoice": 111,
-            "cuesheetUsed": [
-                "C_SSR01_Qiongjiu",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 1028,
-            "typeCode": 1,
-            "model": "CentaureissiSSR01",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 103,
-            "cuesheetUsed": [
-                "C_SSR01_Centaureissi",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 1029,
-            "typeCode": 1,
-            "model": "SabrinaSSR01",
-            "clothId": 205,
-            "shoesId": 3,
-            "audioVoice": 105,
-            "cuesheetUsed": [
-                "C_SSR01_Sabrina",
-                "Gun_SG"
-            ]
-        },
-        {
-            "Id": 1032,
-            "typeCode": 1,
-            "model": "DaiyanSSR01",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 101,
-            "cuesheetUsed": [
-                "C_SSR01_Daiyan",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 1033,
-            "typeCode": 1,
-            "model": "MosinnagantSSR01",
-            "clothId": 201,
-            "shoesId": 2,
-            "audioVoice": 117,
-            "cuesheetUsed": [
-                "C_SSR01_Mosinnagant",
-                "Gun_RF"
-            ]
-        },
-        {
-            "Id": 1034,
-            "typeCode": 1,
-            "model": "MacqiatoSSR01",
-            "clothId": 204,
-            "shoesId": 2,
-            "cuesheetUsed": [
-                "C_SSR01_Macqiato",
-                "Gun_AR"
-            ],
-            "audioVoice": 0
-        },
-        {
-            "Id": 1035,
-            "typeCode": 1,
-            "model": "YinzhuSSR01",
-            "cuesheetUsed": [
-                "C_SSR01_Jiangyu",
-                "Gun_AR"
-            ],
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0
-        },
-        {
-            "Id": 1036,
-            "typeCode": 1,
-            "model": "KseniaSR01",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 115,
-            "cuesheetUsed": [
-                "C_SR01_Kesina",
-                "Gun_HG"
-            ]
-        },
-        {
-            "Id": 1037,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1038,
-            "typeCode": 1,
-            "model": "LittaraSR01",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 116,
-            "cuesheetUsed": [
-                "C_SR01_Littara",
-                "Gun_MG"
-            ]
-        },
-        {
-            "Id": 1039,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1040,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1041,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1042,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1043,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1044,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1045,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1046,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1047,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1048,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 1049,
-            "typeCode": 1,
-            "model": "GrozaSR01",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 100101,
-            "typeCode": 1,
-            "model": "CharolicSR0101",
-            "clothId": 201,
-            "shoesId": 2,
-            "audioVoice": 114,
-            "cuesheetUsed": [
-                "C_SR01_Charolic"
-            ]
-        },
-        {
-            "Id": 100103,
-            "typeCode": 1,
-            "model": "CharolicSR0103",
-            "clothId": 201,
-            "shoesId": 2,
-            "audioVoice": 114,
-            "cuesheetUsed": [
-                "C_SR01_Charolic"
-            ]
-        },
-        {
-            "Id": 100803,
-            "typeCode": 1,
-            "model": "NemesisSR0103",
-            "clothId": 202,
-            "shoesId": 2,
-            "audioVoice": 113,
-            "cuesheetUsed": [
-                "C_SR01_Nemesis",
-                "Gun_RF"
-            ]
-        },
-        {
-            "Id": 100804,
-            "typeCode": 1,
-            "model": "NemesisSR0103",
-            "clothId": 202,
-            "shoesId": 2,
-            "audioVoice": 113,
-            "cuesheetUsed": [
-                "C_SR01_Nemesis",
-                "Gun_RF"
-            ]
-        },
-        {
-            "Id": 100805,
-            "typeCode": 1,
-            "model": "NemesisSR0103",
-            "clothId": 202,
-            "shoesId": 2,
-            "audioVoice": 113,
-            "cuesheetUsed": [
-                "C_SR01_Nemesis",
-                "Gun_RF"
-            ]
-        },
-        {
-            "Id": 100901,
-            "typeCode": 1,
-            "model": "ColphneSR0103",
-            "clothId": 202,
-            "shoesId": 2,
-            "audioVoice": 113,
-            "cuesheetUsed": [
-                "C_SR01_Nemesis",
-                "Gun_RF"
-            ]
-        },
-        {
-            "Id": 100903,
-            "typeCode": 1,
-            "model": "ColphneSR0103",
-            "clothId": 201,
-            "shoesId": 3,
-            "audioVoice": 102,
-            "cuesheetUsed": [
-                "C_SR01_Colphne",
-                "Gun_HG"
-            ]
-        },
-        {
-            "Id": 101301,
-            "typeCode": 1,
-            "model": "",
-            "clothId": 0,
-            "shoesId": 0,
-            "audioVoice": 0,
-            "cuesheetUsed": []
-        },
-        {
-            "Id": 101305,
-            "typeCode": 1,
-            "model": "LennaSSR0105",
-            "clothId": 202,
-            "shoesId": 2,
-            "audioVoice": 118,
-            "cuesheetUsed": [
-                "C_SSR01_Lenna",
-                "Gun_SMG"
-            ]
-        },
-        {
-            "Id": 101501,
-            "typeCode": 1,
-            "model": "VepleySSR0101",
-            "clothId": 202,
-            "shoesId": 2,
-            "audioVoice": 107,
-            "cuesheetUsed": [
-                "C_SSR01_Vepley",
-                "Gun_SG",
-                "C_SR01_Groza"
-            ]
-        },
-        {
-            "Id": 101701,
-            "typeCode": 1,
-            "model": "GrozaSR0101",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 112,
-            "cuesheetUsed": [
-                "C_SR01_Groza",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 101703,
-            "typeCode": 1,
-            "model": "GrozaSR0103",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 112,
-            "cuesheetUsed": [
-                "C_SR01_Groza",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 101704,
-            "typeCode": 1,
-            "model": "GrozaSR0104",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 112,
-            "cuesheetUsed": [
-                "C_SR01_Groza",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 101705,
-            "typeCode": 1,
-            "model": "GrozaSR0105",
-            "clothId": 204,
-            "shoesId": 2,
-            "audioVoice": 112,
-            "cuesheetUsed": [
-                "C_SR01_Groza",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 102601,
-            "typeCode": 1,
-            "model": "NagantSR0101",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 109,
-            "cuesheetUsed": [
-                "C_SR01_Nagant",
-                "Gun_HG"
-            ]
-        },
-        {
-            "Id": 103201,
-            "typeCode": 1,
-            "model": "DaiyanSSR0101",
-            "clothId": 202,
-            "shoesId": 3,
-            "audioVoice": 101,
-            "cuesheetUsed": [
-                "C_SSR01_Daiyan",
-                "Gun_AR"
-            ]
-        },
-        {
-            "Id": 103203,
-            "typeCode": 1,
-            "model": "DaiyanSSR0103",
-            "clothId": 204,
-            "shoesId": 2,
-            "audioVoice": 101,
-            "cuesheetUsed": [
-                "C_SSR01_Daiyan",
-                "Gun_AR"
-            ]
-        }
-    ]
+	"data": [
+		{
+			"Id": 1001,
+			"typeCode": 1,
+			"model": "CharolicSR01",
+			"clothId": 201,
+			"shoesId": 2,
+			"audioVoice": 114,
+			"cuesheetUsed": [
+				"C_SR01_Charolic"
+			]
+		},
+		{
+			"Id": 1008,
+			"typeCode": 1,
+			"model": "NemesisSR01",
+			"clothId": 202,
+			"shoesId": 2,
+			"audioVoice": 113,
+			"cuesheetUsed": [
+				"C_SR01_Nemesis",
+				"Gun_RF"
+			]
+		},
+		{
+			"Id": 1009,
+			"typeCode": 1,
+			"model": "ColphneSR01",
+			"clothId": 201,
+			"shoesId": 3,
+			"audioVoice": 102,
+			"cuesheetUsed": [
+				"C_SR01_Colphne",
+				"Gun_HG"
+			]
+		},
+		{
+			"Id": 1013,
+			"typeCode": 1,
+			"model": "LennaSR01",
+			"clothId": 201,
+			"shoesId": 3,
+			"audioVoice": 118,
+			"cuesheetUsed": [
+				"C_SSR01_Lenna",
+				"Gun_SMG"
+			]
+		},
+		{
+			"Id": 1015,
+			"typeCode": 1,
+			"model": "VepleySSR01",
+			"clothId": 203,
+			"shoesId": 3,
+			"audioVoice": 107,
+			"cuesheetUsed": [
+				"C_SSR01_Vepley",
+				"Gun_SG",
+				"C_SR01_Groza"
+			]
+		},
+		{
+			"Id": 1017,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 112,
+			"cuesheetUsed": [
+				"C_SR01_Groza",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 1021,
+			"typeCode": 1,
+			"model": "PerityaSSR01",
+			"clothId": 201,
+			"shoesId": 1,
+			"audioVoice": 106,
+			"cuesheetUsed": [
+				"C_SSR01_Peritya",
+				"Gun_MG"
+			]
+		},
+		{
+			"Id": 1022,
+			"typeCode": 1,
+			"model": "SharkrySR01",
+			"audioVoice": 104,
+			"cuesheetUsed": [
+				"C_SSR01_Sharkry",
+				"Gun_AR"
+			],
+			"clothId": 0,
+			"shoesId": 0
+		},
+		{
+			"Id": 1024,
+			"typeCode": 1,
+			"model": "CheetaSR01",
+			"audioVoice": 110,
+			"cuesheetUsed": [
+				"C_SR_Cheeta",
+				"Gun_SMG"
+			],
+			"clothId": 0,
+			"shoesId": 0
+		},
+		{
+			"Id": 1025,
+			"typeCode": 1,
+			"model": "TololoSSR01",
+			"clothId": 201,
+			"shoesId": 2,
+			"audioVoice": 108,
+			"cuesheetUsed": [
+				"C_SSR01_Tololo",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 1026,
+			"typeCode": 1,
+			"model": "NagantSR01",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 109,
+			"cuesheetUsed": [
+				"C_SR01_Nagant",
+				"Gun_HG"
+			]
+		},
+		{
+			"Id": 1027,
+			"typeCode": 1,
+			"model": "QiongjiuSSR01",
+			"clothId": 201,
+			"shoesId": 2,
+			"audioVoice": 111,
+			"cuesheetUsed": [
+				"C_SSR01_Qiongjiu",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 1028,
+			"typeCode": 1,
+			"model": "CentaureissiSSR01",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 103,
+			"cuesheetUsed": [
+				"C_SSR01_Centaureissi",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 1029,
+			"typeCode": 1,
+			"model": "SabrinaSSR01",
+			"clothId": 205,
+			"shoesId": 3,
+			"audioVoice": 105,
+			"cuesheetUsed": [
+				"C_SSR01_Sabrina",
+				"Gun_SG"
+			]
+		},
+		{
+			"Id": 1032,
+			"typeCode": 1,
+			"model": "DaiyanSSR01",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 101,
+			"cuesheetUsed": [
+				"C_SSR01_Daiyan",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 1033,
+			"typeCode": 1,
+			"model": "MosinnagantSSR01",
+			"clothId": 201,
+			"shoesId": 2,
+			"audioVoice": 117,
+			"cuesheetUsed": [
+				"C_SSR01_Mosinnagant",
+				"Gun_RF"
+			]
+		},
+		{
+			"Id": 1034,
+			"typeCode": 1,
+			"model": "MacqiatoSSR01",
+			"clothId": 204,
+			"shoesId": 2,
+			"cuesheetUsed": [
+				"C_SSR01_Macqiato",
+				"Gun_AR"
+			],
+			"audioVoice": 0
+		},
+		{
+			"Id": 1035,
+			"typeCode": 1,
+			"model": "YinzhuSSR01",
+			"cuesheetUsed": [
+				"C_SSR01_Jiangyu",
+				"Gun_AR"
+			],
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0
+		},
+		{
+			"Id": 1036,
+			"typeCode": 1,
+			"model": "KseniaSR01",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 115,
+			"cuesheetUsed": [
+				"C_SR01_Kesina",
+				"Gun_HG"
+			]
+		},
+		{
+			"Id": 1037,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1038,
+			"typeCode": 1,
+			"model": "LittaraSR01",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 116,
+			"cuesheetUsed": [
+				"C_SR01_Littara",
+				"Gun_MG"
+			]
+		},
+		{
+			"Id": 1039,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1040,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1041,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1042,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1043,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1044,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1045,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1046,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1047,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1048,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 1049,
+			"typeCode": 1,
+			"model": "GrozaSR01",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 100103,
+			"typeCode": 1,
+			"model": "CharolicSR0103",
+			"clothId": 201,
+			"shoesId": 2,
+			"audioVoice": 114,
+			"cuesheetUsed": [
+				"C_SR01_Charolic"
+			]
+		},
+		{
+			"Id": 100803,
+			"typeCode": 1,
+			"model": "NemesisSR0103",
+			"clothId": 202,
+			"shoesId": 2,
+			"audioVoice": 113,
+			"cuesheetUsed": [
+				"C_SR01_Nemesis",
+				"Gun_RF"
+			]
+		},
+		{
+			"Id": 100804,
+			"typeCode": 1,
+			"model": "NemesisSR0103",
+			"clothId": 202,
+			"shoesId": 2,
+			"audioVoice": 113,
+			"cuesheetUsed": [
+				"C_SR01_Nemesis",
+				"Gun_RF"
+			]
+		},
+		{
+			"Id": 100805,
+			"typeCode": 1,
+			"model": "NemesisSR0103",
+			"clothId": 202,
+			"shoesId": 2,
+			"audioVoice": 113,
+			"cuesheetUsed": [
+				"C_SR01_Nemesis",
+				"Gun_RF"
+			]
+		},
+		{
+			"Id": 100901,
+			"typeCode": 1,
+			"model": "ColphneSR0103",
+			"clothId": 202,
+			"shoesId": 2,
+			"audioVoice": 113,
+			"cuesheetUsed": [
+				"C_SR01_Nemesis",
+				"Gun_RF"
+			]
+		},
+		{
+			"Id": 100903,
+			"typeCode": 1,
+			"model": "ColphneSR0103",
+			"clothId": 201,
+			"shoesId": 3,
+			"audioVoice": 102,
+			"cuesheetUsed": [
+				"C_SR01_Colphne",
+				"Gun_HG"
+			]
+		},
+		{
+			"Id": 101301,
+			"typeCode": 1,
+			"model": "",
+			"clothId": 0,
+			"shoesId": 0,
+			"audioVoice": 0,
+			"cuesheetUsed": []
+		},
+		{
+			"Id": 101305,
+			"typeCode": 1,
+			"model": "LennaSSR0105",
+			"clothId": 202,
+			"shoesId": 2,
+			"audioVoice": 118,
+			"cuesheetUsed": [
+				"C_SSR01_Lenna",
+				"Gun_SMG"
+			]
+		},
+		{
+			"Id": 101501,
+			"typeCode": 1,
+			"model": "VepleySSR0101",
+			"clothId": 202,
+			"shoesId": 2,
+			"audioVoice": 107,
+			"cuesheetUsed": [
+				"C_SSR01_Vepley",
+				"Gun_SG",
+				"C_SR01_Groza"
+			]
+		},
+		{
+			"Id": 101701,
+			"typeCode": 1,
+			"model": "GrozaSR0101",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 112,
+			"cuesheetUsed": [
+				"C_SR01_Groza",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 101703,
+			"typeCode": 1,
+			"model": "GrozaSR0103",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 112,
+			"cuesheetUsed": [
+				"C_SR01_Groza",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 101704,
+			"typeCode": 1,
+			"model": "GrozaSR0104",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 112,
+			"cuesheetUsed": [
+				"C_SR01_Groza",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 101705,
+			"typeCode": 1,
+			"model": "GrozaSR0105",
+			"clothId": 204,
+			"shoesId": 2,
+			"audioVoice": 112,
+			"cuesheetUsed": [
+				"C_SR01_Groza",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 102601,
+			"typeCode": 1,
+			"model": "NagantSR0101",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 109,
+			"cuesheetUsed": [
+				"C_SR01_Nagant",
+				"Gun_HG"
+			]
+		},
+		{
+			"Id": 103201,
+			"typeCode": 1,
+			"model": "DaiyanSSR0101",
+			"clothId": 202,
+			"shoesId": 3,
+			"audioVoice": 101,
+			"cuesheetUsed": [
+				"C_SSR01_Daiyan",
+				"Gun_AR"
+			]
+		},
+		{
+			"Id": 103203,
+			"typeCode": 1,
+			"model": "DaiyanSSR0103",
+			"clothId": 204,
+			"shoesId": 2,
+			"audioVoice": 101,
+			"cuesheetUsed": [
+				"C_SSR01_Daiyan",
+				"Gun_AR"
+			]
+		}
+	]
 }

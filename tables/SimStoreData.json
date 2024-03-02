@@ -1,38 +1,38 @@
 {
-    "data": [
-        {
-            "id": 10141,
-            "shopGroup": 1014,
-            "shopLevel": 1,
-            "tabId": 601,
-            "itemNum": {}
-        },
-        {
-            "id": 10142,
-            "shopGroup": 1014,
-            "shopLevel": 2,
-            "itemNum": {
-                "170044": 500
-            },
-            "tabId": 602
-        },
-        {
-            "id": 10143,
-            "shopGroup": 1014,
-            "shopLevel": 3,
-            "itemNum": {
-                "170044": 2000
-            },
-            "tabId": 603
-        },
-        {
-            "id": 10144,
-            "shopGroup": 1014,
-            "shopLevel": 4,
-            "itemNum": {
-                "170044": 9000
-            },
-            "tabId": 604
-        }
-    ]
+	"data": [
+		{
+			"id": 10141,
+			"shopGroup": 1014,
+			"shopLevel": 1,
+			"tabId": 601,
+			"itemNum": {}
+		},
+		{
+			"id": 10142,
+			"shopGroup": 1014,
+			"shopLevel": 2,
+			"itemNum": {
+				"170044": 500
+			},
+			"tabId": 602
+		},
+		{
+			"id": 10143,
+			"shopGroup": 1014,
+			"shopLevel": 3,
+			"itemNum": {
+				"170044": 2000
+			},
+			"tabId": 603
+		},
+		{
+			"id": 10144,
+			"shopGroup": 1014,
+			"shopLevel": 4,
+			"itemNum": {
+				"170044": 9000
+			},
+			"tabId": 604
+		}
+	]
 }

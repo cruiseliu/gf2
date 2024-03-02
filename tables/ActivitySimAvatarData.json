@@ -1,228 +1,228 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "avatarGroup": 101,
-            "avatarId": 1001,
-            "avatarType": 1,
-            "avaterPath": "Springfield",
-            "pathGroup": 11002
-        },
-        {
-            "id": 2,
-            "avatarGroup": 101,
-            "avatarId": 1002,
-            "avatarType": 1,
-            "avaterPath": "Centaureissi",
-            "pathGroup": 11001
-        },
-        {
-            "id": 3,
-            "avatarGroup": 101,
-            "avatarId": 1003,
-            "avatarType": 1,
-            "avaterPath": "customer_reporter",
-            "pathGroup": 11003
-        },
-        {
-            "id": 4,
-            "avatarGroup": 101,
-            "avatarId": 1004,
-            "avatarType": 1,
-            "avaterPath": "customer_gourmet",
-            "pathGroup": 11004
-        },
-        {
-            "id": 5,
-            "avatarGroup": 101,
-            "avatarId": 1005,
-            "avatarType": 1,
-            "avaterPath": "customer_artist",
-            "pathGroup": 11005
-        },
-        {
-            "id": 6,
-            "avatarGroup": 101,
-            "avatarId": 2008,
-            "avatarType": 1,
-            "avaterPath": "customer_shopkeeper",
-            "pathGroup": 11006
-        },
-        {
-            "id": 7,
-            "avatarGroup": 101,
-            "avatarId": 2012,
-            "avatarType": 1,
-            "avaterPath": "customer_headmaster",
-            "pathGroup": 11007
-        },
-        {
-            "id": 1001,
-            "avatarGroup": 102,
-            "avatarId": 1001,
-            "avatarType": 1,
-            "avaterPath": "Springfield",
-            "pathGroup": 21002
-        },
-        {
-            "id": 1002,
-            "avatarGroup": 102,
-            "avatarId": 1002,
-            "avatarType": 1,
-            "avaterPath": "Centaureissi",
-            "pathGroup": 21001
-        },
-        {
-            "id": 1003,
-            "avatarGroup": 102,
-            "avatarId": 1003,
-            "avatarType": 1,
-            "avaterPath": "customer_reporter",
-            "pathGroup": 21003
-        },
-        {
-            "id": 1004,
-            "avatarGroup": 102,
-            "avatarId": 1004,
-            "avatarType": 1,
-            "avaterPath": "customer_gourmet",
-            "pathGroup": 21004
-        },
-        {
-            "id": 1005,
-            "avatarGroup": 102,
-            "avatarId": 1005,
-            "avatarType": 1,
-            "avaterPath": "customer_artist",
-            "pathGroup": 21005
-        },
-        {
-            "id": 2001,
-            "avatarGroup": 102,
-            "avatarId": 2001,
-            "avatarType": 2,
-            "avaterPath": "customer_builder",
-            "pathGroup": 22001
-        },
-        {
-            "id": 2002,
-            "avatarGroup": 102,
-            "avatarId": 2002,
-            "avatarType": 2,
-            "avaterPath": "customer_designer",
-            "pathGroup": 22002
-        },
-        {
-            "id": 2003,
-            "avatarGroup": 102,
-            "avatarId": 2003,
-            "avatarType": 2,
-            "avaterPath": "customer_engineer",
-            "pathGroup": 22003
-        },
-        {
-            "id": 2004,
-            "avatarGroup": 102,
-            "avatarId": 2004,
-            "avatarType": 2,
-            "avaterPath": "customer_PM",
-            "pathGroup": 22004
-        },
-        {
-            "id": 2005,
-            "avatarGroup": 102,
-            "avatarId": 2005,
-            "avatarType": 2,
-            "avaterPath": "customer_handyman",
-            "pathGroup": 22005
-        },
-        {
-            "id": 2006,
-            "avatarGroup": 102,
-            "avatarId": 2006,
-            "avatarType": 2,
-            "avaterPath": "customer_desserter",
-            "pathGroup": 22006
-        },
-        {
-            "id": 2007,
-            "avatarGroup": 102,
-            "avatarId": 2007,
-            "avatarType": 2,
-            "avaterPath": "customer_chief",
-            "pathGroup": 22007
-        },
-        {
-            "id": 2008,
-            "avatarGroup": 102,
-            "avatarId": 2008,
-            "avatarType": 2,
-            "avaterPath": "customer_shopkeeper",
-            "pathGroup": 22008
-        },
-        {
-            "id": 2009,
-            "avatarGroup": 102,
-            "avatarId": 2009,
-            "avatarType": 2,
-            "avaterPath": "customer_TA",
-            "pathGroup": 22009
-        },
-        {
-            "id": 2010,
-            "avatarGroup": 102,
-            "avatarId": 2010,
-            "avatarType": 2,
-            "avaterPath": "customer_lecturer",
-            "pathGroup": 22010
-        },
-        {
-            "id": 2011,
-            "avatarGroup": 102,
-            "avatarId": 2011,
-            "avatarType": 2,
-            "avaterPath": "customer_professor",
-            "pathGroup": 22011
-        },
-        {
-            "id": 2012,
-            "avatarGroup": 102,
-            "avatarId": 2012,
-            "avatarType": 2,
-            "avaterPath": "customer_headmaster",
-            "pathGroup": 22012
-        },
-        {
-            "id": 3001,
-            "avatarGroup": 102,
-            "avatarId": 3001,
-            "avatarType": 3,
-            "avaterPath": "Daiyan",
-            "pathGroup": 23001
-        },
-        {
-            "id": 3002,
-            "avatarGroup": 102,
-            "avatarId": 3002,
-            "avatarType": 3,
-            "avaterPath": "Chaohui",
-            "pathGroup": 23002
-        },
-        {
-            "id": 3003,
-            "avatarGroup": 102,
-            "avatarId": 3003,
-            "avatarType": 3,
-            "avaterPath": "Jiangyu",
-            "pathGroup": 23003
-        },
-        {
-            "id": 3004,
-            "avatarGroup": 102,
-            "avatarId": 3004,
-            "avatarType": 3,
-            "avaterPath": "Cheeta",
-            "pathGroup": 23004
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"avatarGroup": 101,
+			"avatarId": 1001,
+			"avatarType": 1,
+			"avaterPath": "Springfield",
+			"pathGroup": 11002
+		},
+		{
+			"id": 2,
+			"avatarGroup": 101,
+			"avatarId": 1002,
+			"avatarType": 1,
+			"avaterPath": "Centaureissi",
+			"pathGroup": 11001
+		},
+		{
+			"id": 3,
+			"avatarGroup": 101,
+			"avatarId": 1003,
+			"avatarType": 1,
+			"avaterPath": "customer_reporter",
+			"pathGroup": 11003
+		},
+		{
+			"id": 4,
+			"avatarGroup": 101,
+			"avatarId": 1004,
+			"avatarType": 1,
+			"avaterPath": "customer_gourmet",
+			"pathGroup": 11004
+		},
+		{
+			"id": 5,
+			"avatarGroup": 101,
+			"avatarId": 1005,
+			"avatarType": 1,
+			"avaterPath": "customer_artist",
+			"pathGroup": 11005
+		},
+		{
+			"id": 6,
+			"avatarGroup": 101,
+			"avatarId": 2008,
+			"avatarType": 1,
+			"avaterPath": "customer_shopkeeper",
+			"pathGroup": 11006
+		},
+		{
+			"id": 7,
+			"avatarGroup": 101,
+			"avatarId": 2012,
+			"avatarType": 1,
+			"avaterPath": "customer_headmaster",
+			"pathGroup": 11007
+		},
+		{
+			"id": 1001,
+			"avatarGroup": 102,
+			"avatarId": 1001,
+			"avatarType": 1,
+			"avaterPath": "Springfield",
+			"pathGroup": 21002
+		},
+		{
+			"id": 1002,
+			"avatarGroup": 102,
+			"avatarId": 1002,
+			"avatarType": 1,
+			"avaterPath": "Centaureissi",
+			"pathGroup": 21001
+		},
+		{
+			"id": 1003,
+			"avatarGroup": 102,
+			"avatarId": 1003,
+			"avatarType": 1,
+			"avaterPath": "customer_reporter",
+			"pathGroup": 21003
+		},
+		{
+			"id": 1004,
+			"avatarGroup": 102,
+			"avatarId": 1004,
+			"avatarType": 1,
+			"avaterPath": "customer_gourmet",
+			"pathGroup": 21004
+		},
+		{
+			"id": 1005,
+			"avatarGroup": 102,
+			"avatarId": 1005,
+			"avatarType": 1,
+			"avaterPath": "customer_artist",
+			"pathGroup": 21005
+		},
+		{
+			"id": 2001,
+			"avatarGroup": 102,
+			"avatarId": 2001,
+			"avatarType": 2,
+			"avaterPath": "customer_builder",
+			"pathGroup": 22001
+		},
+		{
+			"id": 2002,
+			"avatarGroup": 102,
+			"avatarId": 2002,
+			"avatarType": 2,
+			"avaterPath": "customer_designer",
+			"pathGroup": 22002
+		},
+		{
+			"id": 2003,
+			"avatarGroup": 102,
+			"avatarId": 2003,
+			"avatarType": 2,
+			"avaterPath": "customer_engineer",
+			"pathGroup": 22003
+		},
+		{
+			"id": 2004,
+			"avatarGroup": 102,
+			"avatarId": 2004,
+			"avatarType": 2,
+			"avaterPath": "customer_PM",
+			"pathGroup": 22004
+		},
+		{
+			"id": 2005,
+			"avatarGroup": 102,
+			"avatarId": 2005,
+			"avatarType": 2,
+			"avaterPath": "customer_handyman",
+			"pathGroup": 22005
+		},
+		{
+			"id": 2006,
+			"avatarGroup": 102,
+			"avatarId": 2006,
+			"avatarType": 2,
+			"avaterPath": "customer_desserter",
+			"pathGroup": 22006
+		},
+		{
+			"id": 2007,
+			"avatarGroup": 102,
+			"avatarId": 2007,
+			"avatarType": 2,
+			"avaterPath": "customer_chief",
+			"pathGroup": 22007
+		},
+		{
+			"id": 2008,
+			"avatarGroup": 102,
+			"avatarId": 2008,
+			"avatarType": 2,
+			"avaterPath": "customer_shopkeeper",
+			"pathGroup": 22008
+		},
+		{
+			"id": 2009,
+			"avatarGroup": 102,
+			"avatarId": 2009,
+			"avatarType": 2,
+			"avaterPath": "customer_TA",
+			"pathGroup": 22009
+		},
+		{
+			"id": 2010,
+			"avatarGroup": 102,
+			"avatarId": 2010,
+			"avatarType": 2,
+			"avaterPath": "customer_lecturer",
+			"pathGroup": 22010
+		},
+		{
+			"id": 2011,
+			"avatarGroup": 102,
+			"avatarId": 2011,
+			"avatarType": 2,
+			"avaterPath": "customer_professor",
+			"pathGroup": 22011
+		},
+		{
+			"id": 2012,
+			"avatarGroup": 102,
+			"avatarId": 2012,
+			"avatarType": 2,
+			"avaterPath": "customer_headmaster",
+			"pathGroup": 22012
+		},
+		{
+			"id": 3001,
+			"avatarGroup": 102,
+			"avatarId": 3001,
+			"avatarType": 3,
+			"avaterPath": "Daiyan",
+			"pathGroup": 23001
+		},
+		{
+			"id": 3002,
+			"avatarGroup": 102,
+			"avatarId": 3002,
+			"avatarType": 3,
+			"avaterPath": "Chaohui",
+			"pathGroup": 23002
+		},
+		{
+			"id": 3003,
+			"avatarGroup": 102,
+			"avatarId": 3003,
+			"avatarType": 3,
+			"avaterPath": "Jiangyu",
+			"pathGroup": 23003
+		},
+		{
+			"id": 3004,
+			"avatarGroup": 102,
+			"avatarId": 3004,
+			"avatarType": 3,
+			"avaterPath": "Cheeta",
+			"pathGroup": 23004
+		}
+	]
 }

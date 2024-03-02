@@ -1,85 +1,85 @@
 {
-    "data": [
-        {
-            "id": 100101,
-            "bingoReward": 1001,
-            "itemId": {
-                "25": 5000
-            },
-            "rewardPos": "A2",
-            "rewardCondition": "B2,C2,D2,E2;"
-        },
-        {
-            "id": 100102,
-            "bingoReward": 1001,
-            "itemId": {
-                "8": 1
-            },
-            "rewardPos": "A3",
-            "rewardCondition": "B3,C3,D3,E3;"
-        },
-        {
-            "id": 100103,
-            "bingoReward": 1001,
-            "itemId": {
-                "2": 5000
-            },
-            "rewardPos": "A4",
-            "rewardCondition": "B4,C4,D4,E4;"
-        },
-        {
-            "id": 100104,
-            "bingoReward": 1001,
-            "itemId": {
-                "1": 50
-            },
-            "rewardPos": "A5",
-            "rewardCondition": "B5,C5,D5,E5;"
-        },
-        {
-            "id": 100105,
-            "bingoReward": 1001,
-            "itemId": {
-                "8301": 2500
-            },
-            "rewardPos": "B6",
-            "rewardCondition": "B2,B3,B4,B5;"
-        },
-        {
-            "id": 100106,
-            "bingoReward": 1001,
-            "itemId": {
-                "1": 50
-            },
-            "rewardPos": "C6",
-            "rewardCondition": "C2,C3,C4,C5;"
-        },
-        {
-            "id": 100107,
-            "bingoReward": 1001,
-            "itemId": {
-                "8301": 2500
-            },
-            "rewardPos": "D6",
-            "rewardCondition": "D2,D3,D4,D5;"
-        },
-        {
-            "id": 100108,
-            "bingoReward": 1001,
-            "itemId": {
-                "8": 1
-            },
-            "rewardPos": "E6",
-            "rewardCondition": "E2,E3,E4,E5;"
-        },
-        {
-            "id": 100109,
-            "bingoReward": 1001,
-            "itemId": {
-                "24029": 1
-            },
-            "rewardCondition": "B2,B3,B4,B5,C2,C3,C4,C5,D2,D3,D4,D5,E2,E3,E4,E5;",
-            "rewardPos": ""
-        }
-    ]
+	"data": [
+		{
+			"id": 100101,
+			"bingoReward": 1001,
+			"itemId": {
+				"25": 5000
+			},
+			"rewardPos": "A2",
+			"rewardCondition": "B2,C2,D2,E2;"
+		},
+		{
+			"id": 100102,
+			"bingoReward": 1001,
+			"itemId": {
+				"8": 1
+			},
+			"rewardPos": "A3",
+			"rewardCondition": "B3,C3,D3,E3;"
+		},
+		{
+			"id": 100103,
+			"bingoReward": 1001,
+			"itemId": {
+				"2": 5000
+			},
+			"rewardPos": "A4",
+			"rewardCondition": "B4,C4,D4,E4;"
+		},
+		{
+			"id": 100104,
+			"bingoReward": 1001,
+			"itemId": {
+				"1": 50
+			},
+			"rewardPos": "A5",
+			"rewardCondition": "B5,C5,D5,E5;"
+		},
+		{
+			"id": 100105,
+			"bingoReward": 1001,
+			"itemId": {
+				"8301": 2500
+			},
+			"rewardPos": "B6",
+			"rewardCondition": "B2,B3,B4,B5;"
+		},
+		{
+			"id": 100106,
+			"bingoReward": 1001,
+			"itemId": {
+				"1": 50
+			},
+			"rewardPos": "C6",
+			"rewardCondition": "C2,C3,C4,C5;"
+		},
+		{
+			"id": 100107,
+			"bingoReward": 1001,
+			"itemId": {
+				"8301": 2500
+			},
+			"rewardPos": "D6",
+			"rewardCondition": "D2,D3,D4,D5;"
+		},
+		{
+			"id": 100108,
+			"bingoReward": 1001,
+			"itemId": {
+				"8": 1
+			},
+			"rewardPos": "E6",
+			"rewardCondition": "E2,E3,E4,E5;"
+		},
+		{
+			"id": 100109,
+			"bingoReward": 1001,
+			"itemId": {
+				"24029": 1
+			},
+			"rewardCondition": "B2,B3,B4,B5,C2,C3,C4,C5,D2,D3,D4,D5,E2,E3,E4,E5;",
+			"rewardPos": ""
+		}
+	]
 }

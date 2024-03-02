@@ -1,24 +1,24 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "storehouseUnlock": [
-                "2:5000:10",
-                "2:10000:10"
-            ],
-            "darkzoneChequer": 99,
-            "darkzoneSpeedAttack": 300,
-            "darkzoneRange": 600,
-            "darkzoneVisualDay": 800,
-            "darkzoneMaxStrength": 20,
-            "darkzoneSpeedNormal": 350,
-            "darkzoneVisualNight": 800,
-            "darkzoneStrengthRecover": 2,
-            "darkzonePickingRegion": 200,
-            "heroId": 0,
-            "darkzoneCure": 0,
-            "darkzoneBoxOpentimeReducePercentage": 0,
-            "darkzoneBoxOpentimeReduceValue": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"storehouseUnlock": [
+				"2:5000:10",
+				"2:10000:10"
+			],
+			"darkzoneChequer": 99,
+			"darkzoneSpeedAttack": 300,
+			"darkzoneRange": 600,
+			"darkzoneVisualDay": 800,
+			"darkzoneMaxStrength": 20,
+			"darkzoneSpeedNormal": 350,
+			"darkzoneVisualNight": 800,
+			"darkzoneStrengthRecover": 2,
+			"darkzonePickingRegion": 200,
+			"heroId": 0,
+			"darkzoneCure": 0,
+			"darkzoneBoxOpentimeReducePercentage": 0,
+			"darkzoneBoxOpentimeReduceValue": 0
+		}
+	]
 }

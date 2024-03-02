@@ -1,160 +1,166 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "title": "剧情战役",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 3,
-            "title": "购置",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 5,
-            "title": "黑市",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 6,
-            "title": "仓库",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 7,
-            "title": "情报拼图购买",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 8,
-            "title": "邮件",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 9,
-            "title": "战役",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 10,
-            "title": "指挥室",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 14,
-            "title": "战役掉落",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 16,
-            "title": "模拟作战-决策构象",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 18,
-            "title": "模拟作战-实兵演习",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 19,
-            "title": "易物所",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 20,
-            "title": "整备室",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 21,
-            "title": "模拟作战-深度搜索",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 22,
-            "title": "模拟作战-标准同调",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 23,
-            "title": "模拟作战-战术评估",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 24,
-            "title": "模拟作战-训段采集",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 25,
-            "title": "考核订单",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 26,
-            "title": "通讯",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 27,
-            "title": "机库",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 28,
-            "title": "困难本",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 29,
-            "title": "暗区",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 31,
-            "title": "模拟作战-军备解析",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 32,
-            "title": "主题活动",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 33,
-            "title": "扩编实练",
-            "canJump": false,
-            "jumpCode": ""
-        },
-        {
-            "id": 99,
-            "title": "纯文本",
-            "canJump": false,
-            "jumpCode": ""
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"title": "剧情战役",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 3,
+			"title": "购置",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 5,
+			"title": "黑市",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 6,
+			"title": "仓库",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 7,
+			"title": "情报拼图购买",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 8,
+			"title": "邮件",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 9,
+			"title": "战役",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 10,
+			"title": "指挥室",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 14,
+			"title": "战役掉落",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 16,
+			"title": "模拟作战-决策构象",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 18,
+			"title": "模拟作战-实兵演习",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 19,
+			"title": "易物所",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 20,
+			"title": "整备室",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 21,
+			"title": "模拟作战-深度搜索",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 22,
+			"title": "模拟作战-标准同调",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 23,
+			"title": "模拟作战-战术评估",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 24,
+			"title": "模拟作战-训段采集",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 25,
+			"title": "考核订单",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 26,
+			"title": "通讯",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 27,
+			"title": "机库",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 28,
+			"title": "困难本",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 29,
+			"title": "暗区",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 30,
+			"title": "远航巡录",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 31,
+			"title": "模拟作战-军备解析",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 32,
+			"title": "主题活动",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 33,
+			"title": "扩编实练",
+			"canJump": false,
+			"jumpCode": ""
+		},
+		{
+			"id": 99,
+			"title": "纯文本",
+			"canJump": false,
+			"jumpCode": ""
+		}
+	]
 }

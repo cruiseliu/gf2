@@ -1,1795 +1,1795 @@
 {
-    "data": [
-        {
-            "id": 101,
-            "condition": [
-                1201
-            ],
-            "priority": 9999,
-            "timing": 1,
-            "finishCondition": 1208,
-            "finishConditionList": [
-                1208
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 102,
-            "condition": [
-                1201
-            ],
-            "priority": 9999,
-            "timing": 1101,
-            "globalTab": 81,
-            "tabPaths": [
-                "Canvas/Default/BattleIndexPanel(Clone)/Root/GrpStoryMode_0/GrpTabList/GrpList/Viewport/Content:1"
-            ],
-            "finishCondition": 1204,
-            "finishConditionList": [
-                1204
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 103,
-            "condition": [
-                1204
-            ],
-            "priority": 9999,
-            "timing": 1101,
-            "globalTab": 82,
-            "tabPaths": [
-                "Canvas/Default/BattleIndexPanel(Clone)/Root/GrpStoryMode_0/GrpTabList/GrpList/Viewport/Content:2"
-            ],
-            "finishCondition": 1208,
-            "finishConditionList": [
-                1208
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 201,
-            "condition": [
-                1202
-            ],
-            "priority": 201,
-            "timing": 1103,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 202,
-            "condition": [
-                1202
-            ],
-            "priority": 202,
-            "timing": 1,
-            "finishCondition": 1022,
-            "finishConditionList": [
-                1022,
-                1240
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 203,
-            "condition": [
-                1202
-            ],
-            "priority": 202,
-            "timing": 1401,
-            "finishCondition": 1022,
-            "finishConditionList": [
-                1022,
-                1240
-            ],
-            "finishGroup": [
-                201,
-                202
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 301,
-            "condition": [
-                1022
-            ],
-            "priority": 301,
-            "timing": 1403,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 302,
-            "condition": [
-                1022
-            ],
-            "priority": 302,
-            "timing": 1,
-            "finishGroup": [
-                301
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 303,
-            "lastTutorialGroup": [
-                302
-            ],
-            "priority": 303,
-            "timing": 1006,
-            "finishGroup": [
-                301,
-                302
-            ],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 501,
-            "condition": [
-                1204
-            ],
-            "priority": 501,
-            "timing": 1101,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 502,
-            "condition": [
-                1204
-            ],
-            "clientCondition": [
-                10
-            ],
-            "priority": 502,
-            "timing": 1,
-            "finishGroup": [
-                501,
-                512
-            ],
-            "lastTutorialGroup": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 503,
-            "lastTutorialGroup": [
-                502
-            ],
-            "clientCondition": [
-                1
-            ],
-            "priority": 504,
-            "timing": 1,
-            "finishGroup": [
-                504,
-                512
-            ],
-            "condition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 504,
-            "lastTutorialGroup": [
-                502
-            ],
-            "priority": 505,
-            "timing": 1,
-            "finishGroup": [
-                503,
-                512
-            ],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 505,
-            "lastTutorialGroup": [
-                502
-            ],
-            "priority": 506,
-            "timing": 1002,
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 506,
-            "lastTutorialGroup": [
-                505
-            ],
-            "priority": 507,
-            "timing": 1002,
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 507,
-            "lastTutorialGroup": [
-                506
-            ],
-            "priority": 508,
-            "timing": 1002,
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 508,
-            "lastTutorialGroup": [
-                507
-            ],
-            "clientCondition": [
-                3
-            ],
-            "priority": 509,
-            "timing": 1,
-            "condition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 509,
-            "lastTutorialGroup": [
-                507
-            ],
-            "priority": 510,
-            "timing": 1,
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 510,
-            "lastTutorialGroup": [
-                507
-            ],
-            "priority": 511,
-            "timing": 2,
-            "finishGroup": [
-                505,
-                506,
-                507,
-                508,
-                509
-            ],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 511,
-            "lastTutorialGroup": [
-                507
-            ],
-            "priority": 512,
-            "timing": 1601,
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 512,
-            "condition": [
-                1204
-            ],
-            "priority": 503,
-            "timing": 1,
-            "finishGroup": [
-                501,
-                502
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1001,
-            "condition": [
-                1206
-            ],
-            "priority": 1001,
-            "timing": 1,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1002,
-            "condition": [
-                1206
-            ],
-            "priority": 1002,
-            "timing": 1103,
-            "finishGroup": [
-                1001
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1101,
-            "condition": [
-                1207
-            ],
-            "priority": 1101,
-            "timing": 1103,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1102,
-            "condition": [
-                1207
-            ],
-            "clientCondition": [
-                7
-            ],
-            "priority": 1102,
-            "timing": 1,
-            "finishGroup": [
-                1103
-            ],
-            "lastTutorialGroup": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1103,
-            "condition": [
-                1207
-            ],
-            "priority": 1103,
-            "timing": 1,
-            "finishGroup": [
-                1102
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1104,
-            "condition": [
-                1207
-            ],
-            "priority": 1104,
-            "timing": 1001,
-            "finishGroup": [
-                1101,
-                1102,
-                1103
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1301,
-            "condition": [
-                1010
-            ],
-            "priority": 1301,
-            "timing": 1101,
-            "globalTab": 23,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1501,
-            "condition": [
-                1014
-            ],
-            "clientCondition": [
-                1
-            ],
-            "priority": 1511,
-            "timing": 1,
-            "lastTutorialGroup": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1502,
-            "condition": [
-                1014
-            ],
-            "priority": 1512,
-            "timing": 1,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1503,
-            "condition": [
-                1014
-            ],
-            "priority": 1513,
-            "timing": 1001,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1504,
-            "lastTutorialGroup": [
-                1503
-            ],
-            "priority": 1514,
-            "timing": 1006,
-            "finishGroup": [
-                1501,
-                1502,
-                1503,
-                1511,
-                1512,
-                1513,
-                1514,
-                1515,
-                1516,
-                1517,
-                1518,
-                1519,
-                1520
-            ],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1511,
-            "condition": [
-                1014
-            ],
-            "priority": 1501,
-            "timing": 500,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1512,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 1103,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1513,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 2103,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1514,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 2102,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1515,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 2104,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1516,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 2105,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1517,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 2502,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1518,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 2101,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1519,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 1201,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1520,
-            "condition": [
-                1014
-            ],
-            "priority": 1502,
-            "timing": 3004,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1601,
-            "lastTutorialGroup": [
-                1504
-            ],
-            "priority": 1601,
-            "timing": 1006,
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1602,
-            "lastTutorialGroup": [
-                1504
-            ],
-            "priority": 1602,
-            "timing": 1,
-            "finishGroup": [
-                1601
-            ],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1701,
-            "condition": [
-                1041
-            ],
-            "clientCondition": [
-                1
-            ],
-            "priority": 1711,
-            "timing": 1,
-            "finishGroup": [
-                1702,
-                1711,
-                1712,
-                1713,
-                1714,
-                1715,
-                1716,
-                1717,
-                1718,
-                1719,
-                1720
-            ],
-            "lastTutorialGroup": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1702,
-            "condition": [
-                1041
-            ],
-            "priority": 1712,
-            "timing": 1,
-            "finishGroup": [
-                1701,
-                1711,
-                1712,
-                1713,
-                1714,
-                1715,
-                1716,
-                1717,
-                1718,
-                1719,
-                1720
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1703,
-            "lastTutorialGroup": [
-                1701
-            ],
-            "priority": 1713,
-            "timing": 1001,
-            "globalTab": 33,
-            "tabPaths": [
-                "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/GrpTop/GrpTopRightBtn:1&Btn_ChrBarrackTopBarItemV3(Clone):3"
-            ],
-            "condition": [],
-            "clientCondition": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1711,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 500,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1712,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 1103,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1713,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 2103,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1714,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 2102,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1715,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 2104,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1716,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 2105,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1717,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 2502,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1718,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 2101,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1719,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 1201,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1720,
-            "condition": [
-                1041
-            ],
-            "priority": 1701,
-            "timing": 3004,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1801,
-            "lastTutorialGroup": [
-                1702
-            ],
-            "priority": 1801,
-            "timing": 1001,
-            "globalTab": 33,
-            "tabPaths": [
-                "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/GrpTop/GrpTopRightBtn:1&Btn_ChrBarrackTopBarItemV3(Clone):3"
-            ],
-            "condition": [],
-            "clientCondition": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1802,
-            "lastTutorialGroup": [
-                1701
-            ],
-            "condition": [
-                1041
-            ],
-            "priority": 1802,
-            "timing": 1,
-            "finishGroup": [
-                1801
-            ],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1803,
-            "condition": [
-                1128
-            ],
-            "priority": 1803,
-            "timing": 2502,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1901,
-            "condition": [
-                1043
-            ],
-            "clientCondition": [
-                1
-            ],
-            "priority": 1911,
-            "timing": 1,
-            "finishGroup": [
-                1902,
-                1911,
-                1912,
-                1913,
-                1914,
-                1915,
-                1916,
-                1917,
-                1918,
-                1919,
-                1920
-            ],
-            "lastTutorialGroup": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1902,
-            "condition": [
-                1043
-            ],
-            "priority": 1912,
-            "timing": 1,
-            "finishGroup": [
-                1901,
-                1911,
-                1912,
-                1913,
-                1914,
-                1915,
-                1916,
-                1917,
-                1918,
-                1919,
-                1920
-            ],
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1903,
-            "condition": [
-                1043
-            ],
-            "priority": 1913,
-            "timing": 1005,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1911,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 500,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1912,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 1103,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1913,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 2103,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1914,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 2102,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1915,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 2104,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1916,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 2105,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1917,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 2502,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1918,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 2101,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1919,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 1201,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 1920,
-            "condition": [
-                1043
-            ],
-            "priority": 1901,
-            "timing": 3004,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2001,
-            "lastTutorialGroup": [
-                1901
-            ],
-            "condition": [
-                1043
-            ],
-            "priority": 2001,
-            "timing": 1005,
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2002,
-            "lastTutorialGroup": [
-                1901
-            ],
-            "condition": [
-                1043
-            ],
-            "priority": 2002,
-            "timing": 1,
-            "finishGroup": [
-                2001
-            ],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2102,
-            "condition": [
-                2001
-            ],
-            "priority": 2111,
-            "timing": 2101,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2202,
-            "condition": [
-                1044
-            ],
-            "priority": 2201,
-            "timing": 2201,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2302,
-            "condition": [
-                1017
-            ],
-            "priority": 2301,
-            "timing": 2401,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2303,
-            "lastTutorialGroup": [
-                2302
-            ],
-            "condition": [
-                1017
-            ],
-            "priority": 2303,
-            "timing": 2401,
-            "finishCondition": 1026,
-            "finishConditionList": [
-                1026
-            ],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2304,
-            "lastTutorialGroup": [
-                2302
-            ],
-            "condition": [
-                1017
-            ],
-            "priority": 2304,
-            "timing": 2404,
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2305,
-            "lastTutorialGroup": [
-                2302
-            ],
-            "priority": 2302,
-            "timing": 2401,
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2401,
-            "condition": [
-                1017
-            ],
-            "priority": 2401,
-            "timing": 2301,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2501,
-            "priority": 2501,
-            "timing": 1701,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2601,
-            "condition": [
-                1041
-            ],
-            "priority": 2601,
-            "timing": 1003,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2701,
-            "clientCondition": [
-                13
-            ],
-            "priority": 2701,
-            "timing": 4001,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2801,
-            "clientCondition": [
-                14
-            ],
-            "priority": 2801,
-            "timing": 4002,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 2901,
-            "priority": 2901,
-            "timing": 4005,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3001,
-            "clientCondition": [
-                14
-            ],
-            "priority": 3001,
-            "timing": 4003,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3101,
-            "priority": 3101,
-            "timing": 4006,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3201,
-            "clientCondition": [
-                14
-            ],
-            "priority": 3201,
-            "timing": 4007,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3301,
-            "condition": [
-                2211
-            ],
-            "clientCondition": [
-                14
-            ],
-            "priority": 3301,
-            "timing": 4006,
-            "lastTutorialGroup": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3401,
-            "clientCondition": [
-                14,
-                9
-            ],
-            "priority": 3401,
-            "timing": 4007,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3501,
-            "condition": [
-                29301
-            ],
-            "clientCondition": [
-                12
-            ],
-            "priority": 3501,
-            "timing": 5001,
-            "lastTutorialGroup": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3601,
-            "lastTutorialGroup": [
-                3501
-            ],
-            "condition": [
-                29301
-            ],
-            "clientCondition": [
-                12
-            ],
-            "priority": 3601,
-            "timing": 5001,
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3701,
-            "lastTutorialGroup": [
-                3601
-            ],
-            "condition": [
-                29301
-            ],
-            "clientCondition": [
-                12
-            ],
-            "priority": 3701,
-            "timing": 5001,
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 3901,
-            "lastTutorialGroup": [
-                3701
-            ],
-            "condition": [
-                29301
-            ],
-            "clientCondition": [
-                12
-            ],
-            "priority": 3901,
-            "timing": 5004,
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 4101,
-            "condition": [
-                2010
-            ],
-            "priority": 4101,
-            "timing": 3101,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 4201,
-            "priority": 4201,
-            "timing": 4008,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 4301,
-            "condition": [
-                33002
-            ],
-            "priority": 4301,
-            "timing": 1005,
-            "lastTutorialGroup": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 4401,
-            "condition": [
-                29301
-            ],
-            "clientCondition": [
-                11
-            ],
-            "priority": 4401,
-            "timing": 5001,
-            "lastTutorialGroup": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 4501,
-            "priority": 4501,
-            "timing": 5101,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "clientCondition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        },
-        {
-            "id": 4601,
-            "clientCondition": [
-                16
-            ],
-            "priority": 4601,
-            "timing": 4007,
-            "lastTutorialGroup": [],
-            "condition": [],
-            "globalTab": 0,
-            "tabPaths": [],
-            "finishCondition": 0,
-            "finishConditionList": [],
-            "finishGroup": [],
-            "skipFinishGroup": []
-        }
-    ]
+	"data": [
+		{
+			"id": 101,
+			"condition": [
+				1201
+			],
+			"priority": 9999,
+			"timing": 1,
+			"finishCondition": 1208,
+			"finishConditionList": [
+				1208
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 102,
+			"condition": [
+				1201
+			],
+			"priority": 9999,
+			"timing": 1101,
+			"globalTab": 81,
+			"tabPaths": [
+				"Canvas/Default/BattleIndexPanel(Clone)/Root/GrpStoryMode_0/GrpTabList/GrpList/Viewport/Content:1"
+			],
+			"finishCondition": 1204,
+			"finishConditionList": [
+				1204
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 103,
+			"condition": [
+				1204
+			],
+			"priority": 9999,
+			"timing": 1101,
+			"globalTab": 82,
+			"tabPaths": [
+				"Canvas/Default/BattleIndexPanel(Clone)/Root/GrpStoryMode_0/GrpTabList/GrpList/Viewport/Content:2"
+			],
+			"finishCondition": 1208,
+			"finishConditionList": [
+				1208
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 201,
+			"condition": [
+				1202
+			],
+			"priority": 201,
+			"timing": 1103,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 202,
+			"condition": [
+				1202
+			],
+			"priority": 202,
+			"timing": 1,
+			"finishCondition": 1022,
+			"finishConditionList": [
+				1022,
+				1240
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 203,
+			"condition": [
+				1202
+			],
+			"priority": 202,
+			"timing": 1401,
+			"finishCondition": 1022,
+			"finishConditionList": [
+				1022,
+				1240
+			],
+			"finishGroup": [
+				201,
+				202
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 301,
+			"condition": [
+				1022
+			],
+			"priority": 301,
+			"timing": 1403,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 302,
+			"condition": [
+				1022
+			],
+			"priority": 302,
+			"timing": 1,
+			"finishGroup": [
+				301
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 303,
+			"lastTutorialGroup": [
+				302
+			],
+			"priority": 303,
+			"timing": 1006,
+			"finishGroup": [
+				301,
+				302
+			],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 501,
+			"condition": [
+				1204
+			],
+			"priority": 501,
+			"timing": 1101,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 502,
+			"condition": [
+				1204
+			],
+			"clientCondition": [
+				10
+			],
+			"priority": 502,
+			"timing": 1,
+			"finishGroup": [
+				501,
+				512
+			],
+			"lastTutorialGroup": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 503,
+			"lastTutorialGroup": [
+				502
+			],
+			"clientCondition": [
+				1
+			],
+			"priority": 504,
+			"timing": 1,
+			"finishGroup": [
+				504,
+				512
+			],
+			"condition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 504,
+			"lastTutorialGroup": [
+				502
+			],
+			"priority": 505,
+			"timing": 1,
+			"finishGroup": [
+				503,
+				512
+			],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 505,
+			"lastTutorialGroup": [
+				502
+			],
+			"priority": 506,
+			"timing": 1002,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 506,
+			"lastTutorialGroup": [
+				505
+			],
+			"priority": 507,
+			"timing": 1002,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 507,
+			"lastTutorialGroup": [
+				506
+			],
+			"priority": 508,
+			"timing": 1002,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 508,
+			"lastTutorialGroup": [
+				507
+			],
+			"clientCondition": [
+				3
+			],
+			"priority": 509,
+			"timing": 1,
+			"condition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 509,
+			"lastTutorialGroup": [
+				507
+			],
+			"priority": 510,
+			"timing": 1,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 510,
+			"lastTutorialGroup": [
+				507
+			],
+			"priority": 511,
+			"timing": 2,
+			"finishGroup": [
+				505,
+				506,
+				507,
+				508,
+				509
+			],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 511,
+			"lastTutorialGroup": [
+				507
+			],
+			"priority": 512,
+			"timing": 1601,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 512,
+			"condition": [
+				1204
+			],
+			"priority": 503,
+			"timing": 1,
+			"finishGroup": [
+				501,
+				502
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1001,
+			"condition": [
+				1206
+			],
+			"priority": 1001,
+			"timing": 1,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1002,
+			"condition": [
+				1206
+			],
+			"priority": 1002,
+			"timing": 1103,
+			"finishGroup": [
+				1001
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1101,
+			"condition": [
+				1207
+			],
+			"priority": 1101,
+			"timing": 1103,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1102,
+			"condition": [
+				1207
+			],
+			"clientCondition": [
+				7
+			],
+			"priority": 1102,
+			"timing": 1,
+			"finishGroup": [
+				1103
+			],
+			"lastTutorialGroup": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1103,
+			"condition": [
+				1207
+			],
+			"priority": 1103,
+			"timing": 1,
+			"finishGroup": [
+				1102
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1104,
+			"condition": [
+				1207
+			],
+			"priority": 1104,
+			"timing": 1001,
+			"finishGroup": [
+				1101,
+				1102,
+				1103
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1301,
+			"condition": [
+				1010
+			],
+			"priority": 1301,
+			"timing": 1101,
+			"globalTab": 23,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1501,
+			"condition": [
+				1014
+			],
+			"clientCondition": [
+				1
+			],
+			"priority": 1511,
+			"timing": 1,
+			"lastTutorialGroup": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1502,
+			"condition": [
+				1014
+			],
+			"priority": 1512,
+			"timing": 1,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1503,
+			"condition": [
+				1014
+			],
+			"priority": 1513,
+			"timing": 1001,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1504,
+			"lastTutorialGroup": [
+				1503
+			],
+			"priority": 1514,
+			"timing": 1006,
+			"finishGroup": [
+				1501,
+				1502,
+				1503,
+				1511,
+				1512,
+				1513,
+				1514,
+				1515,
+				1516,
+				1517,
+				1518,
+				1519,
+				1520
+			],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1511,
+			"condition": [
+				1014
+			],
+			"priority": 1501,
+			"timing": 500,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1512,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 1103,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1513,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 2103,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1514,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 2102,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1515,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 2104,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1516,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 2105,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1517,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 2502,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1518,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 2101,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1519,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 1201,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1520,
+			"condition": [
+				1014
+			],
+			"priority": 1502,
+			"timing": 3004,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1601,
+			"lastTutorialGroup": [
+				1504
+			],
+			"priority": 1601,
+			"timing": 1006,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1602,
+			"lastTutorialGroup": [
+				1504
+			],
+			"priority": 1602,
+			"timing": 1,
+			"finishGroup": [
+				1601
+			],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1701,
+			"condition": [
+				1041
+			],
+			"clientCondition": [
+				1
+			],
+			"priority": 1711,
+			"timing": 1,
+			"finishGroup": [
+				1702,
+				1711,
+				1712,
+				1713,
+				1714,
+				1715,
+				1716,
+				1717,
+				1718,
+				1719,
+				1720
+			],
+			"lastTutorialGroup": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1702,
+			"condition": [
+				1041
+			],
+			"priority": 1712,
+			"timing": 1,
+			"finishGroup": [
+				1701,
+				1711,
+				1712,
+				1713,
+				1714,
+				1715,
+				1716,
+				1717,
+				1718,
+				1719,
+				1720
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1703,
+			"lastTutorialGroup": [
+				1701
+			],
+			"priority": 1713,
+			"timing": 1001,
+			"globalTab": 33,
+			"tabPaths": [
+				"Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/GrpTop/GrpTopRightBtn:1&Btn_ChrBarrackTopBarItemV3(Clone):3"
+			],
+			"condition": [],
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1711,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 500,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1712,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 1103,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1713,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 2103,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1714,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 2102,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1715,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 2104,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1716,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 2105,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1717,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 2502,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1718,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 2101,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1719,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 1201,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1720,
+			"condition": [
+				1041
+			],
+			"priority": 1701,
+			"timing": 3004,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1801,
+			"lastTutorialGroup": [
+				1702
+			],
+			"priority": 1801,
+			"timing": 1001,
+			"globalTab": 33,
+			"tabPaths": [
+				"Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/GrpTop/GrpTopRightBtn:1&Btn_ChrBarrackTopBarItemV3(Clone):3"
+			],
+			"condition": [],
+			"clientCondition": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1802,
+			"lastTutorialGroup": [
+				1701
+			],
+			"condition": [
+				1041
+			],
+			"priority": 1802,
+			"timing": 1,
+			"finishGroup": [
+				1801
+			],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1803,
+			"condition": [
+				1128
+			],
+			"priority": 1803,
+			"timing": 2502,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1901,
+			"condition": [
+				1043
+			],
+			"clientCondition": [
+				1
+			],
+			"priority": 1911,
+			"timing": 1,
+			"finishGroup": [
+				1902,
+				1911,
+				1912,
+				1913,
+				1914,
+				1915,
+				1916,
+				1917,
+				1918,
+				1919,
+				1920
+			],
+			"lastTutorialGroup": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1902,
+			"condition": [
+				1043
+			],
+			"priority": 1912,
+			"timing": 1,
+			"finishGroup": [
+				1901,
+				1911,
+				1912,
+				1913,
+				1914,
+				1915,
+				1916,
+				1917,
+				1918,
+				1919,
+				1920
+			],
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1903,
+			"condition": [
+				1043
+			],
+			"priority": 1913,
+			"timing": 1005,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1911,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 500,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1912,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 1103,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1913,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 2103,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1914,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 2102,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1915,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 2104,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1916,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 2105,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1917,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 2502,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1918,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 2101,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1919,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 1201,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 1920,
+			"condition": [
+				1043
+			],
+			"priority": 1901,
+			"timing": 3004,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2001,
+			"lastTutorialGroup": [
+				1901
+			],
+			"condition": [
+				1043
+			],
+			"priority": 2001,
+			"timing": 1005,
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2002,
+			"lastTutorialGroup": [
+				1901
+			],
+			"condition": [
+				1043
+			],
+			"priority": 2002,
+			"timing": 1,
+			"finishGroup": [
+				2001
+			],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2102,
+			"condition": [
+				2001
+			],
+			"priority": 2111,
+			"timing": 2101,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2202,
+			"condition": [
+				1044
+			],
+			"priority": 2201,
+			"timing": 2201,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2302,
+			"condition": [
+				1017
+			],
+			"priority": 2301,
+			"timing": 2401,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2303,
+			"lastTutorialGroup": [
+				2302
+			],
+			"condition": [
+				1017
+			],
+			"priority": 2303,
+			"timing": 2401,
+			"finishCondition": 1026,
+			"finishConditionList": [
+				1026
+			],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2304,
+			"lastTutorialGroup": [
+				2302
+			],
+			"condition": [
+				1017
+			],
+			"priority": 2304,
+			"timing": 2404,
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2305,
+			"lastTutorialGroup": [
+				2302
+			],
+			"priority": 2302,
+			"timing": 2401,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2401,
+			"condition": [
+				1017
+			],
+			"priority": 2401,
+			"timing": 2301,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2501,
+			"priority": 2501,
+			"timing": 1701,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2601,
+			"condition": [
+				1041
+			],
+			"priority": 2601,
+			"timing": 1003,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2701,
+			"clientCondition": [
+				13
+			],
+			"priority": 2701,
+			"timing": 4001,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2801,
+			"clientCondition": [
+				14
+			],
+			"priority": 2801,
+			"timing": 4002,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 2901,
+			"priority": 2901,
+			"timing": 4005,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3001,
+			"clientCondition": [
+				14
+			],
+			"priority": 3001,
+			"timing": 4003,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3101,
+			"priority": 3101,
+			"timing": 4006,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3201,
+			"clientCondition": [
+				14
+			],
+			"priority": 3201,
+			"timing": 4007,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3301,
+			"condition": [
+				2211
+			],
+			"clientCondition": [
+				14
+			],
+			"priority": 3301,
+			"timing": 4006,
+			"lastTutorialGroup": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3401,
+			"clientCondition": [
+				14,
+				9
+			],
+			"priority": 3401,
+			"timing": 4007,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3501,
+			"condition": [
+				29301
+			],
+			"clientCondition": [
+				12
+			],
+			"priority": 3501,
+			"timing": 5001,
+			"lastTutorialGroup": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3601,
+			"lastTutorialGroup": [
+				3501
+			],
+			"condition": [
+				29301
+			],
+			"clientCondition": [
+				12
+			],
+			"priority": 3601,
+			"timing": 5001,
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3701,
+			"lastTutorialGroup": [
+				3601
+			],
+			"condition": [
+				29301
+			],
+			"clientCondition": [
+				12
+			],
+			"priority": 3701,
+			"timing": 5001,
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 3901,
+			"lastTutorialGroup": [
+				3701
+			],
+			"condition": [
+				29301
+			],
+			"clientCondition": [
+				12
+			],
+			"priority": 3901,
+			"timing": 5004,
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 4101,
+			"condition": [
+				2010
+			],
+			"priority": 4101,
+			"timing": 3101,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 4201,
+			"priority": 4201,
+			"timing": 4008,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 4301,
+			"condition": [
+				33002
+			],
+			"priority": 4301,
+			"timing": 1005,
+			"lastTutorialGroup": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 4401,
+			"condition": [
+				29301
+			],
+			"clientCondition": [
+				11
+			],
+			"priority": 4401,
+			"timing": 5001,
+			"lastTutorialGroup": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 4501,
+			"priority": 4501,
+			"timing": 5101,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		},
+		{
+			"id": 4601,
+			"clientCondition": [
+				16
+			],
+			"priority": 4601,
+			"timing": 4007,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": [],
+			"skipFinishGroup": []
+		}
+	]
 }

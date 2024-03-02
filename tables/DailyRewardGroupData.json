@@ -1,34 +1,34 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "rewardList": [
-                1,
-                2,
-                3,
-                4
-            ],
-            "unlock": 0
-        },
-        {
-            "id": 2,
-            "unlock": 71015,
-            "rewardList": [
-                5,
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "id": 3,
-            "unlock": 71016,
-            "rewardList": [
-                9,
-                10,
-                11,
-                12
-            ]
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"rewardList": [
+				1,
+				2,
+				3,
+				4
+			],
+			"unlock": 0
+		},
+		{
+			"id": 2,
+			"unlock": 71015,
+			"rewardList": [
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"id": 3,
+			"unlock": 71016,
+			"rewardList": [
+				9,
+				10,
+				11,
+				12
+			]
+		}
+	]
 }

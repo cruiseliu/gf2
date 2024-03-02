@@ -1,94 +1,94 @@
 {
-    "data": [
-        {
-            "id": 201,
-            "action": 1,
-            "dialog": "指挥官，你来了",
-            "tag": "",
-            "npcstatement": [],
-            "objectInteract": "",
-            "animationInteract": 0,
-            "dialogId": [],
-            "memo": 0
-        },
-        {
-            "id": 202,
-            "action": 100011,
-            "objectInteract": "f_Cup_Groza_Lngbe_skin",
-            "animationInteract": 200011,
-            "dialog": "指挥官，尝尝甜度怎么样？",
-            "dialogId": [
-                200001,
-                200002
-            ],
-            "tag": "",
-            "npcstatement": [],
-            "memo": 0
-        },
-        {
-            "id": 203,
-            "action": 100015,
-            "objectInteract": "s_Lng_simple_Notebook_skin",
-            "animationInteract": 200015,
-            "dialogId": [
-                200003
-            ],
-            "tag": "",
-            "npcstatement": [],
-            "dialog": "",
-            "memo": 0
-        },
-        {
-            "id": 205,
-            "action": 100020,
-            "dialogId": [
-                200004
-            ],
-            "tag": "",
-            "npcstatement": [],
-            "objectInteract": "",
-            "animationInteract": 0,
-            "dialog": "",
-            "memo": 0
-        },
-        {
-            "id": 207,
-            "action": 100025,
-            "objectInteract": "s_Lng_simple_NailFile_skin",
-            "animationInteract": 200030,
-            "dialogId": [
-                200005
-            ],
-            "tag": "",
-            "npcstatement": [],
-            "dialog": "",
-            "memo": 0
-        },
-        {
-            "id": 209,
-            "action": 100030,
-            "dialogId": [
-                200006
-            ],
-            "tag": "",
-            "npcstatement": [],
-            "objectInteract": "",
-            "animationInteract": 0,
-            "dialog": "",
-            "memo": 0
-        },
-        {
-            "id": 211,
-            "action": 100035,
-            "objectInteract": "s_Lng_simple_Chair_skin",
-            "animationInteract": 200020,
-            "dialogId": [
-                200007
-            ],
-            "tag": "",
-            "npcstatement": [],
-            "dialog": "",
-            "memo": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 201,
+			"action": 1,
+			"dialog": "指挥官，你来了",
+			"tag": "",
+			"npcstatement": [],
+			"objectInteract": "",
+			"animationInteract": 0,
+			"dialogId": [],
+			"memo": 0
+		},
+		{
+			"id": 202,
+			"action": 100011,
+			"objectInteract": "f_Cup_Groza_Lngbe_skin",
+			"animationInteract": 200011,
+			"dialog": "指挥官，尝尝甜度怎么样？",
+			"dialogId": [
+				200001,
+				200002
+			],
+			"tag": "",
+			"npcstatement": [],
+			"memo": 0
+		},
+		{
+			"id": 203,
+			"action": 100015,
+			"objectInteract": "s_Lng_simple_Notebook_skin",
+			"animationInteract": 200015,
+			"dialogId": [
+				200003
+			],
+			"tag": "",
+			"npcstatement": [],
+			"dialog": "",
+			"memo": 0
+		},
+		{
+			"id": 205,
+			"action": 100020,
+			"dialogId": [
+				200004
+			],
+			"tag": "",
+			"npcstatement": [],
+			"objectInteract": "",
+			"animationInteract": 0,
+			"dialog": "",
+			"memo": 0
+		},
+		{
+			"id": 207,
+			"action": 100025,
+			"objectInteract": "s_Lng_simple_NailFile_skin",
+			"animationInteract": 200030,
+			"dialogId": [
+				200005
+			],
+			"tag": "",
+			"npcstatement": [],
+			"dialog": "",
+			"memo": 0
+		},
+		{
+			"id": 209,
+			"action": 100030,
+			"dialogId": [
+				200006
+			],
+			"tag": "",
+			"npcstatement": [],
+			"objectInteract": "",
+			"animationInteract": 0,
+			"dialog": "",
+			"memo": 0
+		},
+		{
+			"id": 211,
+			"action": 100035,
+			"objectInteract": "s_Lng_simple_Chair_skin",
+			"animationInteract": 200020,
+			"dialogId": [
+				200007
+			],
+			"tag": "",
+			"npcstatement": [],
+			"dialog": "",
+			"memo": 0
+		}
+	]
 }

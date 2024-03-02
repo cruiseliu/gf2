@@ -1,46 +1,46 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "stepNum": 6,
-            "reward": {
-                "9006": 6
-            }
-        },
-        {
-            "id": 2,
-            "stepNum": 12,
-            "reward": {
-                "1": 50
-            }
-        },
-        {
-            "id": 3,
-            "stepNum": 21,
-            "reward": {
-                "2": 5000
-            }
-        },
-        {
-            "id": 4,
-            "stepNum": 30,
-            "reward": {
-                "1": 100
-            }
-        },
-        {
-            "id": 5,
-            "stepNum": 36,
-            "reward": {
-                "9008": 10
-            }
-        },
-        {
-            "id": 6,
-            "stepNum": 42,
-            "reward": {
-                "31037": 1
-            }
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"stepNum": 6,
+			"reward": {
+				"9006": 6
+			}
+		},
+		{
+			"id": 2,
+			"stepNum": 12,
+			"reward": {
+				"1": 50
+			}
+		},
+		{
+			"id": 3,
+			"stepNum": 21,
+			"reward": {
+				"2": 5000
+			}
+		},
+		{
+			"id": 4,
+			"stepNum": 30,
+			"reward": {
+				"1": 100
+			}
+		},
+		{
+			"id": 5,
+			"stepNum": 36,
+			"reward": {
+				"9008": 10
+			}
+		},
+		{
+			"id": 6,
+			"stepNum": 42,
+			"reward": {
+				"31037": 1
+			}
+		}
+	]
 }

@@ -1,292 +1,292 @@
 {
-    "data": [
-        {
-            "id": 1001,
-            "npcId": 401,
-            "favorLevel": 1,
-            "discount": 1000,
-            "favorEffect": "",
-            "npcStory": "佩妮泽，一个在猎人中流传甚广的名字——就像她名字的原本意思一样，这位干练的女性，总是会向自己的客户露出神秘优雅又具有迷惑性的笑容。",
-            "needFavorPoint": 0
-        },
-        {
-            "id": 1002,
-            "npcId": 401,
-            "favorLevel": 2,
-            "needFavorPoint": 1000,
-            "discount": 1000,
-            "favorEffect": "解锁新商品",
-            "npcStory": "在多年的经商生涯中，佩妮泽逐步建立起了属于自己的、稳固而隐秘的关系网。虽说只要钱给够，她总是知无不言，但对于大多数猎人来说，从她的“知无不言”中获取情报就像解谜游戏一样困难——在字里行间里隐藏着的那些看似无用的字词，往往会是最关键的提示。"
-        },
-        {
-            "id": 1003,
-            "npcId": 401,
-            "favorLevel": 3,
-            "needFavorPoint": 2000,
-            "discount": 1000,
-            "favorEffect": "增加部分商品可购买次数",
-            "npcStory": "至于为什么要当主理人，她是这么回答的：“也许只有在这些无人踏足的危险地带，才能发现让我感兴趣的奇珍异宝吧？”此条答案价值0.5盎司萨迪斯金，记得及时支付哦。"
-        },
-        {
-            "id": 1004,
-            "npcId": 401,
-            "favorLevel": 4,
-            "needFavorPoint": 3000,
-            "discount": 1000,
-            "favorEffect": "解锁新商品",
-            "npcStory": ""
-        },
-        {
-            "id": 1005,
-            "npcId": 401,
-            "favorLevel": 5,
-            "needFavorPoint": 4000,
-            "discount": 950,
-            "favorEffect": "商品价格降低5%",
-            "npcStory": ""
-        },
-        {
-            "id": 1006,
-            "npcId": 401,
-            "favorLevel": 6,
-            "needFavorPoint": 5000,
-            "discount": 900,
-            "favorEffect": "商品价格降低5%",
-            "npcStory": ""
-        },
-        {
-            "id": 1007,
-            "npcId": 401,
-            "favorLevel": 7,
-            "needFavorPoint": 6000,
-            "discount": 900,
-            "favorEffect": "解锁新商品",
-            "npcStory": ""
-        },
-        {
-            "id": 1008,
-            "npcId": 401,
-            "favorLevel": 8,
-            "needFavorPoint": 8000,
-            "discount": 800,
-            "favorEffect": "商品价格降低10%",
-            "npcStory": ""
-        },
-        {
-            "id": 2001,
-            "npcId": 402,
-            "favorLevel": 1,
-            "discount": 1000,
-            "favorEffect": "",
-            "npcStory": "明明“担任主理人需知”上写着要使用虚拟形象，但最后，却只有将名字标示为“格琳喵”的这位暗商选择了虚拟形象，其他人却直接使用了自己的真实形象——顺带一提，格琳喵在虚拟形象库里挑选时，可是一眼就看中了这只和自己某个客户长得很像的大橘猫。",
-            "needFavorPoint": 0
-        },
-        {
-            "id": 2002,
-            "npcId": 402,
-            "favorLevel": 2,
-            "needFavorPoint": 1000,
-            "discount": 1000,
-            "favorEffect": "解锁新商品",
-            "npcStory": "形象一旦选定就无法修改，接受了猫猫设定的格琳喵，开始利用各种时间摸鱼，并对猎人们爱答不理。不过，过分关注猎人们财务状况的格琳喵，总会让人有“这只胖猫在觊觎自己钱包”的错觉。"
-        },
-        {
-            "id": 2003,
-            "npcId": 402,
-            "favorLevel": 3,
-            "needFavorPoint": 2000,
-            "discount": 1000,
-            "favorEffect": "增加部分商品可购买次数",
-            "npcStory": "对于有些猎人来说，可爱的猫咪形象确实很加分，经常有即使没什么要卖也要来看看格琳喵的猎人。至于为什么要在句尾加“喵”——"
-        },
-        {
-            "id": 2004,
-            "npcId": 402,
-            "favorLevel": 4,
-            "needFavorPoint": 3000,
-            "discount": 1000,
-            "favorEffect": "解锁新商品",
-            "npcStory": "“那个啊，纯粹是源于对这个虚拟形象的信念感啦。哦，喵。”"
-        },
-        {
-            "id": 2005,
-            "npcId": 402,
-            "favorLevel": 5,
-            "needFavorPoint": 4000,
-            "discount": 950,
-            "favorEffect": "商品价格降低5%",
-            "npcStory": ""
-        },
-        {
-            "id": 2006,
-            "npcId": 402,
-            "favorLevel": 6,
-            "needFavorPoint": 5000,
-            "discount": 900,
-            "favorEffect": "商品价格降低5%",
-            "npcStory": ""
-        },
-        {
-            "id": 2007,
-            "npcId": 402,
-            "favorLevel": 7,
-            "needFavorPoint": 6000,
-            "discount": 900,
-            "favorEffect": "解锁新商品",
-            "npcStory": ""
-        },
-        {
-            "id": 2008,
-            "npcId": 402,
-            "favorLevel": 8,
-            "needFavorPoint": 8000,
-            "discount": 800,
-            "favorEffect": "商品价格降低10%",
-            "npcStory": ""
-        },
-        {
-            "id": 3001,
-            "npcId": 403,
-            "favorLevel": 1,
-            "discount": 1000,
-            "favorEffect": "",
-            "npcStory": "作为一名暗商，阿米达显然是那种“看上去就不靠谱”的类型，娃娃脸，身材娇小，还时刻洋溢着热情的微笑。",
-            "needFavorPoint": 0
-        },
-        {
-            "id": 3002,
-            "npcId": 403,
-            "favorLevel": 2,
-            "needFavorPoint": 1000,
-            "discount": 1000,
-            "favorEffect": "解锁新商品",
-            "npcStory": "但实际上，阿米达经商天分极高，记忆力超强，否则也不会被她的师父——资深暗商罗斯收为接班人培养。"
-        },
-        {
-            "id": 3003,
-            "npcId": 403,
-            "favorLevel": 3,
-            "needFavorPoint": 2000,
-            "discount": 1000,
-            "favorEffect": "增加部分商品可购买次数",
-            "npcStory": "为了不被小瞧，阿米达还经常穿着不符合自己气质的成熟服装，希望至少先从外形上向着能独当一面的暗商靠拢。"
-        },
-        {
-            "id": 3004,
-            "npcId": 403,
-            "favorLevel": 4,
-            "needFavorPoint": 3000,
-            "discount": 1000,
-            "favorEffect": "解锁新商品",
-            "npcStory": "阿米达的经营理念是“来者不拒”，不论向她出售什么她都乐于接收，这和她从小在污染区的成长经历有关。"
-        },
-        {
-            "id": 3005,
-            "npcId": 403,
-            "favorLevel": 5,
-            "needFavorPoint": 4000,
-            "discount": 950,
-            "favorEffect": "商品价格降低5%",
-            "npcStory": "据说她的大背包里，除了满满当当的货物以外，还常年装备着可以随时跑路的物资。"
-        },
-        {
-            "id": 3006,
-            "npcId": 403,
-            "favorLevel": 6,
-            "needFavorPoint": 5000,
-            "discount": 900,
-            "favorEffect": "商品价格降低5%",
-            "npcStory": "“阿米达，不要再囤货了！这种东西怎么可能卖得出去啊！”——来自师父的咆哮。"
-        },
-        {
-            "id": 3007,
-            "npcId": 403,
-            "favorLevel": 7,
-            "needFavorPoint": 6000,
-            "discount": 900,
-            "favorEffect": "解锁新商品",
-            "npcStory": ""
-        },
-        {
-            "id": 3008,
-            "npcId": 403,
-            "favorLevel": 8,
-            "needFavorPoint": 8000,
-            "discount": 800,
-            "favorEffect": "商品价格降低10%",
-            "npcStory": ""
-        },
-        {
-            "id": 4001,
-            "npcId": 404,
-            "favorLevel": 1,
-            "discount": 1000,
-            "favorEffect": "",
-            "npcStory": "在主理中心流传着这么一句话：“能让巴鲁克掏出放大镜的东西，绝对是难得一见的珍品。”",
-            "needFavorPoint": 0
-        },
-        {
-            "id": 4002,
-            "npcId": 404,
-            "favorLevel": 2,
-            "needFavorPoint": 1000,
-            "discount": 1000,
-            "favorEffect": "解锁新商品",
-            "npcStory": "巴鲁克，一位看上去文质彬彬的绅士，多数时候都会选择待在工作间研究、拆解古董和文物，只有在看到他感兴趣的东西时，才会两眼放光地跑过来。"
-        },
-        {
-            "id": 4003,
-            "npcId": 404,
-            "favorLevel": 3,
-            "needFavorPoint": 2000,
-            "discount": 1000,
-            "favorEffect": "增加部分商品可购买次数",
-            "npcStory": "而这时，有经验的猎人就会察觉，这是个大赚一笔的好机会。"
-        },
-        {
-            "id": 4004,
-            "npcId": 404,
-            "favorLevel": 4,
-            "needFavorPoint": 3000,
-            "discount": 1000,
-            "favorEffect": "解锁新商品",
-            "npcStory": "虽然巴鲁克对于各种物件及其内部构造如数家珍，但他却对于污染区的情况却知之甚少，对于科技产品更是不太待见，佩妮泽甚至调侃他是个只会使用老年机的老古董。"
-        },
-        {
-            "id": 4005,
-            "npcId": 404,
-            "favorLevel": 5,
-            "needFavorPoint": 4000,
-            "discount": 950,
-            "favorEffect": "商品价格降低5%",
-            "npcStory": "不过对于他来说，赚钱只是附带的，他感兴趣的，从来只有“作为暗商”这件事。至于那些他不感兴趣的事情，全都交给助手做就好了，“毕竟，我又不缺钱。”"
-        },
-        {
-            "id": 4006,
-            "npcId": 404,
-            "favorLevel": 6,
-            "needFavorPoint": 5000,
-            "discount": 900,
-            "favorEffect": "商品价格降低5%",
-            "npcStory": ""
-        },
-        {
-            "id": 4007,
-            "npcId": 404,
-            "favorLevel": 7,
-            "needFavorPoint": 6000,
-            "discount": 900,
-            "favorEffect": "解锁新商品",
-            "npcStory": ""
-        },
-        {
-            "id": 4008,
-            "npcId": 404,
-            "favorLevel": 8,
-            "needFavorPoint": 8000,
-            "discount": 800,
-            "favorEffect": "商品价格降低10%",
-            "npcStory": ""
-        }
-    ]
+	"data": [
+		{
+			"id": 1001,
+			"npcId": 401,
+			"favorLevel": 1,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": "佩妮泽，一个在猎人中流传甚广的名字——就像她名字的原本意思一样，这位干练的女性，总是会向自己的客户露出神秘优雅又具有迷惑性的笑容。",
+			"needFavorPoint": 0
+		},
+		{
+			"id": 1002,
+			"npcId": 401,
+			"favorLevel": 2,
+			"needFavorPoint": 1000,
+			"discount": 1000,
+			"favorEffect": "解锁新商品",
+			"npcStory": "在多年的经商生涯中，佩妮泽逐步建立起了属于自己的、稳固而隐秘的关系网。虽说只要钱给够，她总是知无不言，但对于大多数猎人来说，从她的“知无不言”中获取情报就像解谜游戏一样困难——在字里行间里隐藏着的那些看似无用的字词，往往会是最关键的提示。"
+		},
+		{
+			"id": 1003,
+			"npcId": 401,
+			"favorLevel": 3,
+			"needFavorPoint": 2000,
+			"discount": 1000,
+			"favorEffect": "增加部分商品可购买次数",
+			"npcStory": "至于为什么要当主理人，她是这么回答的：“也许只有在这些无人踏足的危险地带，才能发现让我感兴趣的奇珍异宝吧？”此条答案价值0.5盎司萨迪斯金，记得及时支付哦。"
+		},
+		{
+			"id": 1004,
+			"npcId": 401,
+			"favorLevel": 4,
+			"needFavorPoint": 3000,
+			"discount": 1000,
+			"favorEffect": "解锁新商品",
+			"npcStory": ""
+		},
+		{
+			"id": 1005,
+			"npcId": 401,
+			"favorLevel": 5,
+			"needFavorPoint": 4000,
+			"discount": 950,
+			"favorEffect": "商品价格降低5%",
+			"npcStory": ""
+		},
+		{
+			"id": 1006,
+			"npcId": 401,
+			"favorLevel": 6,
+			"needFavorPoint": 5000,
+			"discount": 900,
+			"favorEffect": "商品价格降低5%",
+			"npcStory": ""
+		},
+		{
+			"id": 1007,
+			"npcId": 401,
+			"favorLevel": 7,
+			"needFavorPoint": 6000,
+			"discount": 900,
+			"favorEffect": "解锁新商品",
+			"npcStory": ""
+		},
+		{
+			"id": 1008,
+			"npcId": 401,
+			"favorLevel": 8,
+			"needFavorPoint": 8000,
+			"discount": 800,
+			"favorEffect": "商品价格降低10%",
+			"npcStory": ""
+		},
+		{
+			"id": 2001,
+			"npcId": 402,
+			"favorLevel": 1,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": "明明“担任主理人需知”上写着要使用虚拟形象，但最后，却只有将名字标示为“格琳喵”的这位暗商选择了虚拟形象，其他人却直接使用了自己的真实形象——顺带一提，格琳喵在虚拟形象库里挑选时，可是一眼就看中了这只和自己某个客户长得很像的大橘猫。",
+			"needFavorPoint": 0
+		},
+		{
+			"id": 2002,
+			"npcId": 402,
+			"favorLevel": 2,
+			"needFavorPoint": 1000,
+			"discount": 1000,
+			"favorEffect": "解锁新商品",
+			"npcStory": "形象一旦选定就无法修改，接受了猫猫设定的格琳喵，开始利用各种时间摸鱼，并对猎人们爱答不理。不过，过分关注猎人们财务状况的格琳喵，总会让人有“这只胖猫在觊觎自己钱包”的错觉。"
+		},
+		{
+			"id": 2003,
+			"npcId": 402,
+			"favorLevel": 3,
+			"needFavorPoint": 2000,
+			"discount": 1000,
+			"favorEffect": "增加部分商品可购买次数",
+			"npcStory": "对于有些猎人来说，可爱的猫咪形象确实很加分，经常有即使没什么要卖也要来看看格琳喵的猎人。至于为什么要在句尾加“喵”——"
+		},
+		{
+			"id": 2004,
+			"npcId": 402,
+			"favorLevel": 4,
+			"needFavorPoint": 3000,
+			"discount": 1000,
+			"favorEffect": "解锁新商品",
+			"npcStory": "“那个啊，纯粹是源于对这个虚拟形象的信念感啦。哦，喵。”"
+		},
+		{
+			"id": 2005,
+			"npcId": 402,
+			"favorLevel": 5,
+			"needFavorPoint": 4000,
+			"discount": 950,
+			"favorEffect": "商品价格降低5%",
+			"npcStory": ""
+		},
+		{
+			"id": 2006,
+			"npcId": 402,
+			"favorLevel": 6,
+			"needFavorPoint": 5000,
+			"discount": 900,
+			"favorEffect": "商品价格降低5%",
+			"npcStory": ""
+		},
+		{
+			"id": 2007,
+			"npcId": 402,
+			"favorLevel": 7,
+			"needFavorPoint": 6000,
+			"discount": 900,
+			"favorEffect": "解锁新商品",
+			"npcStory": ""
+		},
+		{
+			"id": 2008,
+			"npcId": 402,
+			"favorLevel": 8,
+			"needFavorPoint": 8000,
+			"discount": 800,
+			"favorEffect": "商品价格降低10%",
+			"npcStory": ""
+		},
+		{
+			"id": 3001,
+			"npcId": 403,
+			"favorLevel": 1,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": "作为一名暗商，阿米达显然是那种“看上去就不靠谱”的类型，娃娃脸，身材娇小，还时刻洋溢着热情的微笑。",
+			"needFavorPoint": 0
+		},
+		{
+			"id": 3002,
+			"npcId": 403,
+			"favorLevel": 2,
+			"needFavorPoint": 1000,
+			"discount": 1000,
+			"favorEffect": "解锁新商品",
+			"npcStory": "但实际上，阿米达经商天分极高，记忆力超强，否则也不会被她的师父——资深暗商罗斯收为接班人培养。"
+		},
+		{
+			"id": 3003,
+			"npcId": 403,
+			"favorLevel": 3,
+			"needFavorPoint": 2000,
+			"discount": 1000,
+			"favorEffect": "增加部分商品可购买次数",
+			"npcStory": "为了不被小瞧，阿米达还经常穿着不符合自己气质的成熟服装，希望至少先从外形上向着能独当一面的暗商靠拢。"
+		},
+		{
+			"id": 3004,
+			"npcId": 403,
+			"favorLevel": 4,
+			"needFavorPoint": 3000,
+			"discount": 1000,
+			"favorEffect": "解锁新商品",
+			"npcStory": "阿米达的经营理念是“来者不拒”，不论向她出售什么她都乐于接收，这和她从小在污染区的成长经历有关。"
+		},
+		{
+			"id": 3005,
+			"npcId": 403,
+			"favorLevel": 5,
+			"needFavorPoint": 4000,
+			"discount": 950,
+			"favorEffect": "商品价格降低5%",
+			"npcStory": "据说她的大背包里，除了满满当当的货物以外，还常年装备着可以随时跑路的物资。"
+		},
+		{
+			"id": 3006,
+			"npcId": 403,
+			"favorLevel": 6,
+			"needFavorPoint": 5000,
+			"discount": 900,
+			"favorEffect": "商品价格降低5%",
+			"npcStory": "“阿米达，不要再囤货了！这种东西怎么可能卖得出去啊！”——来自师父的咆哮。"
+		},
+		{
+			"id": 3007,
+			"npcId": 403,
+			"favorLevel": 7,
+			"needFavorPoint": 6000,
+			"discount": 900,
+			"favorEffect": "解锁新商品",
+			"npcStory": ""
+		},
+		{
+			"id": 3008,
+			"npcId": 403,
+			"favorLevel": 8,
+			"needFavorPoint": 8000,
+			"discount": 800,
+			"favorEffect": "商品价格降低10%",
+			"npcStory": ""
+		},
+		{
+			"id": 4001,
+			"npcId": 404,
+			"favorLevel": 1,
+			"discount": 1000,
+			"favorEffect": "",
+			"npcStory": "在主理中心流传着这么一句话：“能让巴鲁克掏出放大镜的东西，绝对是难得一见的珍品。”",
+			"needFavorPoint": 0
+		},
+		{
+			"id": 4002,
+			"npcId": 404,
+			"favorLevel": 2,
+			"needFavorPoint": 1000,
+			"discount": 1000,
+			"favorEffect": "解锁新商品",
+			"npcStory": "巴鲁克，一位看上去文质彬彬的绅士，多数时候都会选择待在工作间研究、拆解古董和文物，只有在看到他感兴趣的东西时，才会两眼放光地跑过来。"
+		},
+		{
+			"id": 4003,
+			"npcId": 404,
+			"favorLevel": 3,
+			"needFavorPoint": 2000,
+			"discount": 1000,
+			"favorEffect": "增加部分商品可购买次数",
+			"npcStory": "而这时，有经验的猎人就会察觉，这是个大赚一笔的好机会。"
+		},
+		{
+			"id": 4004,
+			"npcId": 404,
+			"favorLevel": 4,
+			"needFavorPoint": 3000,
+			"discount": 1000,
+			"favorEffect": "解锁新商品",
+			"npcStory": "虽然巴鲁克对于各种物件及其内部构造如数家珍，但他却对于污染区的情况却知之甚少，对于科技产品更是不太待见，佩妮泽甚至调侃他是个只会使用老年机的老古董。"
+		},
+		{
+			"id": 4005,
+			"npcId": 404,
+			"favorLevel": 5,
+			"needFavorPoint": 4000,
+			"discount": 950,
+			"favorEffect": "商品价格降低5%",
+			"npcStory": "不过对于他来说，赚钱只是附带的，他感兴趣的，从来只有“作为暗商”这件事。至于那些他不感兴趣的事情，全都交给助手做就好了，“毕竟，我又不缺钱。”"
+		},
+		{
+			"id": 4006,
+			"npcId": 404,
+			"favorLevel": 6,
+			"needFavorPoint": 5000,
+			"discount": 900,
+			"favorEffect": "商品价格降低5%",
+			"npcStory": ""
+		},
+		{
+			"id": 4007,
+			"npcId": 404,
+			"favorLevel": 7,
+			"needFavorPoint": 6000,
+			"discount": 900,
+			"favorEffect": "解锁新商品",
+			"npcStory": ""
+		},
+		{
+			"id": 4008,
+			"npcId": 404,
+			"favorLevel": 8,
+			"needFavorPoint": 8000,
+			"discount": 800,
+			"favorEffect": "商品价格降低10%",
+			"npcStory": ""
+		}
+	]
 }

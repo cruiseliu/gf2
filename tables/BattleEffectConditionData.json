@@ -1,34 +1,34 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "condition": "6334001",
-            "effectpath": "Skill/Shield_Blue",
-            "model": ""
-        },
-        {
-            "id": 901,
-            "condition": "6334001",
-            "effectpath": "Skill/Shield_Blue_hit",
-            "model": "6334"
-        },
-        {
-            "id": 62019,
-            "condition": "2019900",
-            "effectpath": "Skill/2019_LightHit_Gold",
-            "model": "62019"
-        },
-        {
-            "id": 62020,
-            "condition": "2019900",
-            "effectpath": "Skill/2020_LightHit_Gold",
-            "model": "62020,62021"
-        },
-        {
-            "id": 10270803,
-            "condition": "10270803",
-            "effectpath": "Skill/BulletHitMany_Fire",
-            "model": ""
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"condition": "6334001",
+			"effectpath": "Skill/Shield_Blue",
+			"model": ""
+		},
+		{
+			"id": 901,
+			"condition": "6334001",
+			"effectpath": "Skill/Shield_Blue_hit",
+			"model": "6334"
+		},
+		{
+			"id": 62019,
+			"condition": "2019900",
+			"effectpath": "Skill/2019_LightHit_Gold",
+			"model": "62019"
+		},
+		{
+			"id": 62020,
+			"condition": "2019900",
+			"effectpath": "Skill/2020_LightHit_Gold",
+			"model": "62020,62021"
+		},
+		{
+			"id": 10270803,
+			"condition": "10270803",
+			"effectpath": "Skill/BulletHitMany_Fire",
+			"model": ""
+		}
+	]
 }

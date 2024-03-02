@@ -1,247 +1,247 @@
 {
-    "data": [
-        {
-            "targetGroupId": 1101,
-            "targetGroupDesc": "找到指定敌方单位愚钝者，将其消灭。",
-            "targetList": [
-                110101,
-                110102
-            ]
-        },
-        {
-            "targetGroupId": 1102,
-            "targetGroupDesc": "找到指定敌方单位袭击者，将其消灭。",
-            "targetList": [
-                110201,
-                110202
-            ]
-        },
-        {
-            "targetGroupId": 1103,
-            "targetGroupDesc": "找到指定敌方单位堡垒泰坦，将其消灭。",
-            "targetList": [
-                110301
-            ]
-        },
-        {
-            "targetGroupId": 1104,
-            "targetGroupDesc": "消灭敌方单位攻袭泰坦后，找到撤离信号站，完成撤离。",
-            "targetList": [
-                110401,
-                110402
-            ]
-        },
-        {
-            "targetGroupId": 1105,
-            "targetGroupDesc": "找到指定敌方单位纽虫，将其消灭。",
-            "targetList": [
-                110501,
-                110502
-            ]
-        },
-        {
-            "targetGroupId": 1106,
-            "targetGroupDesc": "消灭敌方单位剑锷泰坦后，找到撤离信号站，完成撤离。",
-            "targetList": [
-                110601,
-                110602,
-                110603
-            ]
-        },
-        {
-            "targetGroupId": 1107,
-            "targetGroupDesc": "找到指定敌方单位重炮圣盾SWAP，将其消灭。",
-            "targetList": [
-                110701,
-                110702
-            ]
-        },
-        {
-            "targetGroupId": 1108,
-            "targetGroupDesc": "找到撤离信号站，完成撤离。",
-            "targetList": [
-                110801,
-                110802
-            ]
-        },
-        {
-            "targetGroupId": 1109,
-            "targetGroupDesc": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
-            "targetList": [
-                110901,
-                110902
-            ]
-        },
-        {
-            "targetGroupId": 1110,
-            "targetGroupDesc": "消灭敌方单位黑眼·弃形后，找到撤离信号站，完成撤离。",
-            "targetList": [
-                111001,
-                111002,
-                111003
-            ]
-        },
-        {
-            "targetGroupId": 1111,
-            "targetGroupDesc": "找到指定敌方单位纵火者，将其消灭。",
-            "targetList": [
-                111101,
-                111102,
-                111103,
-                111104
-            ]
-        },
-        {
-            "targetGroupId": 1112,
-            "targetGroupDesc": "找到指定敌方单位尖喙铁兽，将其消灭。",
-            "targetList": [
-                111201,
-                111202
-            ]
-        },
-        {
-            "targetGroupId": 1113,
-            "targetGroupDesc": "找到撤离信号站，完成撤离。",
-            "targetList": [
-                111301,
-                111302
-            ]
-        },
-        {
-            "targetGroupId": 1114,
-            "targetGroupDesc": "消灭指定敌方单位獠牙铁兽后，找到撤离信号站，完成撤离。",
-            "targetList": [
-                111401,
-                111402,
-                111403
-            ]
-        },
-        {
-            "targetGroupId": 1115,
-            "targetGroupDesc": "消灭敌方单位黑眼·弃形后，找到撤离信号站，完成撤离。",
-            "targetList": [
-                111501,
-                111502
-            ]
-        },
-        {
-            "targetGroupId": 1116,
-            "targetGroupDesc": "消灭敌方单位尖喙铁兽，找到撤离信号站，完成撤离。",
-            "targetList": [
-                111601,
-                111602,
-                111603,
-                111604
-            ]
-        },
-        {
-            "targetGroupId": 1117,
-            "targetGroupDesc": "消灭敌方单位纵火者，找到撤离信号站，完成撤离。",
-            "targetList": [
-                111701,
-                111702
-            ]
-        },
-        {
-            "targetGroupId": 1118,
-            "targetGroupDesc": "消灭敌方单位堡垒泰坦后，找到撤离信号站，完成撤离。",
-            "targetList": [
-                111801,
-                111802
-            ]
-        },
-        {
-            "targetGroupId": 1119,
-            "targetGroupDesc": "找到指定敌方单位黑眼·弃形，将其消灭。",
-            "targetList": [
-                111901
-            ]
-        },
-        {
-            "targetGroupId": 1120,
-            "targetGroupDesc": "避开敌方单位黑眼·弃形的追击，找到撤离信号站，完成撤离。",
-            "targetList": [
-                112001,
-                112002
-            ]
-        },
-        {
-            "targetGroupId": 1121,
-            "targetGroupDesc": "找到并消灭伊柏",
-            "targetList": [
-                112101
-            ]
-        },
-        {
-            "targetGroupId": 1122,
-            "targetGroupDesc": "找到并消灭伊柏",
-            "targetList": [
-                112201
-            ]
-        },
-        {
-            "targetGroupId": 1123,
-            "targetGroupDesc": "消灭纵火者与六分仪",
-            "targetList": [
-                112301
-            ]
-        },
-        {
-            "targetGroupId": 1124,
-            "targetGroupDesc": "找到并消灭堡垒泰坦",
-            "targetList": [
-                112401
-            ]
-        },
-        {
-            "targetGroupId": 1165,
-            "targetGroupDesc": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
-            "targetList": [
-                116501
-            ]
-        },
-        {
-            "targetGroupId": 1169,
-            "targetGroupDesc": "选择并击败任意一名敌方头目",
-            "targetList": [
-                116901
-            ]
-        },
-        {
-            "targetGroupId": 1170,
-            "targetGroupDesc": "选择并击败任意一名敌方头目",
-            "targetList": [
-                117001
-            ]
-        },
-        {
-            "targetGroupId": 1171,
-            "targetGroupDesc": "选择并击败任意一名敌方头目",
-            "targetList": [
-                117101
-            ]
-        },
-        {
-            "targetGroupId": 1172,
-            "targetGroupDesc": "找到指定敌方头目断角铁兽，将其消灭。",
-            "targetList": [
-                117201
-            ]
-        },
-        {
-            "targetGroupId": 1173,
-            "targetGroupDesc": "消灭指定敌方单位獠牙铁兽后，找到撤离信号站，完成撤离。",
-            "targetList": [
-                117301
-            ]
-        },
-        {
-            "targetGroupId": 2101,
-            "targetGroupDesc": "护送货运机械抵达运载终点",
-            "targetList": [
-                210102,
-                210103
-            ]
-        }
-    ]
+	"data": [
+		{
+			"targetGroupId": 1101,
+			"targetGroupDesc": "找到指定敌方单位愚钝者，将其消灭。",
+			"targetList": [
+				110101,
+				110102
+			]
+		},
+		{
+			"targetGroupId": 1102,
+			"targetGroupDesc": "找到指定敌方单位袭击者，将其消灭。",
+			"targetList": [
+				110201,
+				110202
+			]
+		},
+		{
+			"targetGroupId": 1103,
+			"targetGroupDesc": "找到指定敌方单位堡垒泰坦，将其消灭。",
+			"targetList": [
+				110301
+			]
+		},
+		{
+			"targetGroupId": 1104,
+			"targetGroupDesc": "消灭敌方单位攻袭泰坦后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				110401,
+				110402
+			]
+		},
+		{
+			"targetGroupId": 1105,
+			"targetGroupDesc": "找到指定敌方单位纽虫，将其消灭。",
+			"targetList": [
+				110501,
+				110502
+			]
+		},
+		{
+			"targetGroupId": 1106,
+			"targetGroupDesc": "消灭敌方单位剑锷泰坦后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				110601,
+				110602,
+				110603
+			]
+		},
+		{
+			"targetGroupId": 1107,
+			"targetGroupDesc": "找到指定敌方单位重炮圣盾SWAP，将其消灭。",
+			"targetList": [
+				110701,
+				110702
+			]
+		},
+		{
+			"targetGroupId": 1108,
+			"targetGroupDesc": "找到撤离信号站，完成撤离。",
+			"targetList": [
+				110801,
+				110802
+			]
+		},
+		{
+			"targetGroupId": 1109,
+			"targetGroupDesc": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
+			"targetList": [
+				110901,
+				110902
+			]
+		},
+		{
+			"targetGroupId": 1110,
+			"targetGroupDesc": "消灭敌方单位黑眼·弃形后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				111001,
+				111002,
+				111003
+			]
+		},
+		{
+			"targetGroupId": 1111,
+			"targetGroupDesc": "找到指定敌方单位纵火者，将其消灭。",
+			"targetList": [
+				111101,
+				111102,
+				111103,
+				111104
+			]
+		},
+		{
+			"targetGroupId": 1112,
+			"targetGroupDesc": "找到指定敌方单位尖喙铁兽，将其消灭。",
+			"targetList": [
+				111201,
+				111202
+			]
+		},
+		{
+			"targetGroupId": 1113,
+			"targetGroupDesc": "找到撤离信号站，完成撤离。",
+			"targetList": [
+				111301,
+				111302
+			]
+		},
+		{
+			"targetGroupId": 1114,
+			"targetGroupDesc": "消灭指定敌方单位獠牙铁兽后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				111401,
+				111402,
+				111403
+			]
+		},
+		{
+			"targetGroupId": 1115,
+			"targetGroupDesc": "消灭敌方单位黑眼·弃形后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				111501,
+				111502
+			]
+		},
+		{
+			"targetGroupId": 1116,
+			"targetGroupDesc": "消灭敌方单位尖喙铁兽，找到撤离信号站，完成撤离。",
+			"targetList": [
+				111601,
+				111602,
+				111603,
+				111604
+			]
+		},
+		{
+			"targetGroupId": 1117,
+			"targetGroupDesc": "消灭敌方单位纵火者，找到撤离信号站，完成撤离。",
+			"targetList": [
+				111701,
+				111702
+			]
+		},
+		{
+			"targetGroupId": 1118,
+			"targetGroupDesc": "消灭敌方单位堡垒泰坦后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				111801,
+				111802
+			]
+		},
+		{
+			"targetGroupId": 1119,
+			"targetGroupDesc": "找到指定敌方单位黑眼·弃形，将其消灭。",
+			"targetList": [
+				111901
+			]
+		},
+		{
+			"targetGroupId": 1120,
+			"targetGroupDesc": "避开敌方单位黑眼·弃形的追击，找到撤离信号站，完成撤离。",
+			"targetList": [
+				112001,
+				112002
+			]
+		},
+		{
+			"targetGroupId": 1121,
+			"targetGroupDesc": "找到并消灭伊柏",
+			"targetList": [
+				112101
+			]
+		},
+		{
+			"targetGroupId": 1122,
+			"targetGroupDesc": "找到并消灭伊柏",
+			"targetList": [
+				112201
+			]
+		},
+		{
+			"targetGroupId": 1123,
+			"targetGroupDesc": "消灭纵火者与六分仪",
+			"targetList": [
+				112301
+			]
+		},
+		{
+			"targetGroupId": 1124,
+			"targetGroupDesc": "找到并消灭堡垒泰坦",
+			"targetList": [
+				112401
+			]
+		},
+		{
+			"targetGroupId": 1165,
+			"targetGroupDesc": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				116501
+			]
+		},
+		{
+			"targetGroupId": 1169,
+			"targetGroupDesc": "选择并击败任意一名敌方头目",
+			"targetList": [
+				116901
+			]
+		},
+		{
+			"targetGroupId": 1170,
+			"targetGroupDesc": "选择并击败任意一名敌方头目",
+			"targetList": [
+				117001
+			]
+		},
+		{
+			"targetGroupId": 1171,
+			"targetGroupDesc": "选择并击败任意一名敌方头目",
+			"targetList": [
+				117101
+			]
+		},
+		{
+			"targetGroupId": 1172,
+			"targetGroupDesc": "找到指定敌方头目断角铁兽，将其消灭。",
+			"targetList": [
+				117201
+			]
+		},
+		{
+			"targetGroupId": 1173,
+			"targetGroupDesc": "消灭指定敌方单位獠牙铁兽后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				117301
+			]
+		},
+		{
+			"targetGroupId": 2101,
+			"targetGroupDesc": "护送货运机械抵达运载终点",
+			"targetList": [
+				210102,
+				210103
+			]
+		}
+	]
 }

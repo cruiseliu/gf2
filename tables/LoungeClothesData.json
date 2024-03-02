@@ -1,135 +1,135 @@
 {
-    "data": [
-        {
-            "id": 81101,
-            "name": "闪电初始休息服",
-            "npc": 3,
-            "body": "Groza/Groza_Pajama_bone",
-            "head": "Avatar_Head_GrozaSR",
-            "roomHead": "Avatar_Bust_GrozaSR",
-            "ui": "Img_Lounge_Clothes_Groza_Normal_1",
-            "des": "最基础舒适的家居套装。",
-            "storeCameraSetting": "0.3,0,0.5,1.9",
-            "storeCharacterType": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "storeScaleValue": [
-                1000,
-                1000,
-                1000
-            ],
-            "image": 0,
-            "action": 0,
-            "effect": "",
-            "behavior": []
-        },
-        {
-            "id": 81102,
-            "name": "测试1",
-            "npc": 3,
-            "body": "Groza/Groza_Pajama_bone",
-            "head": "Avatar_Head_ColphneSSR",
-            "roomHead": "Avatar_Bust_ColphneSSR",
-            "ui": "Img_Lounge_Clothes_Groza_Normal_1",
-            "des": "测试1",
-            "behavior": [
-                100011,
-                100012
-            ],
-            "storeCameraSetting": "0.3,0,0.5,1.9",
-            "storeCharacterType": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "storeScaleValue": [
-                1000,
-                1000,
-                1000
-            ],
-            "image": 0,
-            "action": 0,
-            "effect": ""
-        },
-        {
-            "id": 81103,
-            "name": "测试2",
-            "npc": 3,
-            "body": "Groza/Groza_Pajama_bone",
-            "head": "Avatar_Head_CannonDroneR",
-            "roomHead": "Avatar_Bust_CannonDroneR",
-            "ui": "Img_Lounge_Clothes_Groza_Normal_1",
-            "des": "测试2",
-            "storeCameraSetting": "0.3,0,0.6,1.9",
-            "storeCharacterType": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "storeScaleValue": [
-                1000,
-                1000,
-                1000
-            ],
-            "image": 0,
-            "action": 0,
-            "effect": "",
-            "behavior": []
-        },
-        {
-            "id": 81104,
-            "name": "测试3",
-            "npc": 3,
-            "body": "Groza/Groza_Pajama_bone",
-            "head": "Avatar_Head_PerityaSR",
-            "roomHead": "Avatar_Bust_PerityaSR",
-            "ui": "Img_Lounge_Clothes_Groza_Normal_1",
-            "des": "测试3",
-            "storeCameraSetting": "0.3,0,0.5,1.9",
-            "storeCharacterType": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "storeScaleValue": [
-                1000,
-                1000,
-                1000
-            ],
-            "image": 0,
-            "action": 0,
-            "effect": "",
-            "behavior": []
-        },
-        {
-            "id": 81105,
-            "name": "佩里缇亚初始休息服",
-            "npc": 7,
-            "body": "Peritya/Peritya_Base/Prefabs/Peritya_Pajama_skin",
-            "head": "Avatar_Head_PerityaSR",
-            "roomHead": "Avatar_Bust_PerityaSR",
-            "ui": "Img_Lounge_Clothes_Groza_Normal_1",
-            "des": "最基础舒适的家居套装。",
-            "behavior": [
-                100011,
-                100012
-            ],
-            "storeCameraSetting": "0.3,0,0.5,1.9",
-            "storeCharacterType": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "storeScaleValue": [
-                1000,
-                1000,
-                1000
-            ],
-            "image": 0,
-            "action": 0,
-            "effect": ""
-        }
-    ]
+	"data": [
+		{
+			"id": 81101,
+			"name": "闪电初始休息服",
+			"npc": 3,
+			"body": "Groza/Groza_Pajama_bone",
+			"head": "Avatar_Head_GrozaSR",
+			"roomHead": "Avatar_Bust_GrozaSR",
+			"ui": "Img_Lounge_Clothes_Groza_Normal_1",
+			"des": "最基础舒适的家居套装。",
+			"storeCameraSetting": "0.3,0,0.5,1.9",
+			"storeCharacterType": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"storeScaleValue": [
+				1000,
+				1000,
+				1000
+			],
+			"image": 0,
+			"action": 0,
+			"effect": "",
+			"behavior": []
+		},
+		{
+			"id": 81102,
+			"name": "测试1",
+			"npc": 3,
+			"body": "Groza/Groza_Pajama_bone",
+			"head": "Avatar_Head_ColphneSSR",
+			"roomHead": "Avatar_Bust_ColphneSSR",
+			"ui": "Img_Lounge_Clothes_Groza_Normal_1",
+			"des": "测试1",
+			"behavior": [
+				100011,
+				100012
+			],
+			"storeCameraSetting": "0.3,0,0.5,1.9",
+			"storeCharacterType": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"storeScaleValue": [
+				1000,
+				1000,
+				1000
+			],
+			"image": 0,
+			"action": 0,
+			"effect": ""
+		},
+		{
+			"id": 81103,
+			"name": "测试2",
+			"npc": 3,
+			"body": "Groza/Groza_Pajama_bone",
+			"head": "Avatar_Head_CannonDroneR",
+			"roomHead": "Avatar_Bust_CannonDroneR",
+			"ui": "Img_Lounge_Clothes_Groza_Normal_1",
+			"des": "测试2",
+			"storeCameraSetting": "0.3,0,0.6,1.9",
+			"storeCharacterType": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"storeScaleValue": [
+				1000,
+				1000,
+				1000
+			],
+			"image": 0,
+			"action": 0,
+			"effect": "",
+			"behavior": []
+		},
+		{
+			"id": 81104,
+			"name": "测试3",
+			"npc": 3,
+			"body": "Groza/Groza_Pajama_bone",
+			"head": "Avatar_Head_PerityaSR",
+			"roomHead": "Avatar_Bust_PerityaSR",
+			"ui": "Img_Lounge_Clothes_Groza_Normal_1",
+			"des": "测试3",
+			"storeCameraSetting": "0.3,0,0.5,1.9",
+			"storeCharacterType": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"storeScaleValue": [
+				1000,
+				1000,
+				1000
+			],
+			"image": 0,
+			"action": 0,
+			"effect": "",
+			"behavior": []
+		},
+		{
+			"id": 81105,
+			"name": "佩里缇亚初始休息服",
+			"npc": 7,
+			"body": "Peritya/Peritya_Base/Prefabs/Peritya_Pajama_skin",
+			"head": "Avatar_Head_PerityaSR",
+			"roomHead": "Avatar_Bust_PerityaSR",
+			"ui": "Img_Lounge_Clothes_Groza_Normal_1",
+			"des": "最基础舒适的家居套装。",
+			"behavior": [
+				100011,
+				100012
+			],
+			"storeCameraSetting": "0.3,0,0.5,1.9",
+			"storeCharacterType": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"storeScaleValue": [
+				1000,
+				1000,
+				1000
+			],
+			"image": 0,
+			"action": 0,
+			"effect": ""
+		}
+	]
 }

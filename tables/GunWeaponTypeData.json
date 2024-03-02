@@ -1,60 +1,60 @@
 {
-    "data": [
-        {
-            "typeId": 1,
-            "name": "手枪",
-            "abbr": "HG",
-            "description": "枪种的描述，不知道要不要，先加着",
-            "icon": "Icon_Weapon_HG",
-            "skinIcon": "Weapon_HG_None"
-        },
-        {
-            "typeId": 2,
-            "name": "冲锋枪",
-            "abbr": "SMG",
-            "description": "枪种的描述，不知道要不要，先加着",
-            "icon": "Icon_Weapon_SMG",
-            "skinIcon": "Weapon_SMG_None"
-        },
-        {
-            "typeId": 3,
-            "name": "狙击枪",
-            "abbr": "RF",
-            "description": "枪种的描述，不知道要不要，先加着",
-            "icon": "Icon_Weapon_RF",
-            "skinIcon": "Weapon_RF_None"
-        },
-        {
-            "typeId": 4,
-            "name": "突击步枪",
-            "abbr": "AR",
-            "description": "枪种的描述，不知道要不要，先加着",
-            "icon": "Icon_Weapon_AR",
-            "skinIcon": "Weapon_AR_None"
-        },
-        {
-            "typeId": 5,
-            "name": "机枪",
-            "abbr": "MG",
-            "description": "枪种的描述，不知道要不要，先加着",
-            "icon": "Icon_Weapon_MG",
-            "skinIcon": "Weapon_MG_None"
-        },
-        {
-            "typeId": 6,
-            "name": "霰弹枪",
-            "abbr": "SG",
-            "description": "枪种的描述，不知道要不要，先加着",
-            "icon": "Icon_Weapon_SG",
-            "skinIcon": "Weapon_SG_None"
-        },
-        {
-            "typeId": 7,
-            "name": "刀",
-            "abbr": "BLD",
-            "description": "枪种的描述，不知道要不要，先加着",
-            "icon": "Icon_Weapon_BLD",
-            "skinIcon": "Weapon_BLD_None"
-        }
-    ]
+	"data": [
+		{
+			"typeId": 1,
+			"name": "手枪",
+			"abbr": "HG",
+			"description": "枪种的描述，不知道要不要，先加着",
+			"icon": "Icon_Weapon_HG",
+			"skinIcon": "Weapon_HG_None"
+		},
+		{
+			"typeId": 2,
+			"name": "冲锋枪",
+			"abbr": "SMG",
+			"description": "枪种的描述，不知道要不要，先加着",
+			"icon": "Icon_Weapon_SMG",
+			"skinIcon": "Weapon_SMG_None"
+		},
+		{
+			"typeId": 3,
+			"name": "狙击枪",
+			"abbr": "RF",
+			"description": "枪种的描述，不知道要不要，先加着",
+			"icon": "Icon_Weapon_RF",
+			"skinIcon": "Weapon_RF_None"
+		},
+		{
+			"typeId": 4,
+			"name": "突击步枪",
+			"abbr": "AR",
+			"description": "枪种的描述，不知道要不要，先加着",
+			"icon": "Icon_Weapon_AR",
+			"skinIcon": "Weapon_AR_None"
+		},
+		{
+			"typeId": 5,
+			"name": "机枪",
+			"abbr": "MG",
+			"description": "枪种的描述，不知道要不要，先加着",
+			"icon": "Icon_Weapon_MG",
+			"skinIcon": "Weapon_MG_None"
+		},
+		{
+			"typeId": 6,
+			"name": "霰弹枪",
+			"abbr": "SG",
+			"description": "枪种的描述，不知道要不要，先加着",
+			"icon": "Icon_Weapon_SG",
+			"skinIcon": "Weapon_SG_None"
+		},
+		{
+			"typeId": 7,
+			"name": "刀",
+			"abbr": "BLD",
+			"description": "枪种的描述，不知道要不要，先加着",
+			"icon": "Icon_Weapon_BLD",
+			"skinIcon": "Weapon_BLD_None"
+		}
+	]
 }

@@ -1,2984 +1,2967 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "textId": 310001,
-            "limitOption": 2,
-            "priority": 1,
-            "weight": 50,
-            "firstMsg": [
-                311001,
-                311002
-            ],
-            "people": 12,
-            "messageInformationId": [
-                1,
-                2
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 2,
-            "textId": 1,
-            "weight": 50,
-            "firstMsg": [
-                311003,
-                311004,
-                311005,
-                312001
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 3,
-            "textId": 2,
-            "weight": 50,
-            "firstMsg": [
-                311006,
-                312002
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 4,
-            "textId": 3,
-            "weight": 50,
-            "firstMsg": [
-                311007,
-                311008
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 5,
-            "textId": 310001,
-            "limitOption": 2,
-            "priority": 2,
-            "weight": 50,
-            "firstMsg": [
-                311009,
-                311010
-            ],
-            "people": 12,
-            "messageInformationId": [
-                5
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 6,
-            "textId": 5,
-            "weight": 50,
-            "firstMsg": [
-                311011
-            ],
-            "people": 11,
-            "messageInformationId": [
-                6
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 7,
-            "textId": 6,
-            "weight": 50,
-            "firstMsg": [
-                311012,
-                311013
-            ],
-            "people": 12,
-            "messageInformationId": [
-                7
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 8,
-            "textId": 7,
-            "weight": 50,
-            "firstMsg": [
-                311014,
-                311015,
-                311016
-            ],
-            "people": 11,
-            "messageInformationId": [
-                8
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 9,
-            "textId": 8,
-            "weight": 50,
-            "firstMsg": [
-                311017
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 10,
-            "textId": 310001,
-            "limitOption": 2,
-            "priority": 3,
-            "weight": 50,
-            "firstMsg": [
-                311018,
-                311019
-            ],
-            "people": 12,
-            "messageInformationId": [
-                10
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 11,
-            "textId": 10,
-            "weight": 50,
-            "firstMsg": [
-                311020
-            ],
-            "people": 11,
-            "messageInformationId": [
-                11
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 12,
-            "textId": 11,
-            "weight": 50,
-            "firstMsg": [
-                311021,
-                311022,
-                311023
-            ],
-            "people": 12,
-            "messageInformationId": [
-                12
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 13,
-            "textId": 12,
-            "weight": 50,
-            "firstMsg": [
-                311024,
-                311025
-            ],
-            "people": 11,
-            "messageInformationId": [
-                13
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 14,
-            "textId": 13,
-            "weight": 50,
-            "firstMsg": [
-                311026,
-                311027
-            ],
-            "people": 12,
-            "messageInformationId": [
-                14
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 15,
-            "textId": 14,
-            "weight": 50,
-            "firstMsg": [
-                311028,
-                311029
-            ],
-            "people": 11,
-            "messageInformationId": [
-                15
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 16,
-            "textId": 15,
-            "weight": 50,
-            "firstMsg": [
-                311030,
-                311031
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 17,
-            "textId": 310001,
-            "limitOption": 2,
-            "priority": 4,
-            "weight": 50,
-            "firstMsg": [
-                311032,
-                311033
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 18,
-            "textId": 310001,
-            "limitOption": 3,
-            "priority": 1,
-            "weight": 50,
-            "firstMsg": [
-                311034
-            ],
-            "people": 12,
-            "messageInformationId": [
-                18
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 19,
-            "textId": 18,
-            "weight": 50,
-            "firstMsg": [
-                311035
-            ],
-            "people": 11,
-            "messageInformationId": [
-                19
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 20,
-            "textId": 19,
-            "weight": 50,
-            "firstMsg": [
-                311036
-            ],
-            "people": 12,
-            "messageInformationId": [
-                20
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 21,
-            "textId": 20,
-            "weight": 50,
-            "firstMsg": [
-                311037
-            ],
-            "people": 11,
-            "messageInformationId": [
-                21
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 22,
-            "textId": 21,
-            "weight": 50,
-            "firstMsg": [
-                311038
-            ],
-            "people": 12,
-            "messageInformationId": [
-                22
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 23,
-            "textId": 22,
-            "weight": 50,
-            "firstMsg": [
-                311039,
-                311040
-            ],
-            "people": 11,
-            "messageInformationId": [
-                23
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 24,
-            "textId": 23,
-            "weight": 50,
-            "firstMsg": [
-                311041,
-                311042
-            ],
-            "people": 12,
-            "messageInformationId": [
-                24
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 25,
-            "textId": 24,
-            "weight": 50,
-            "firstMsg": [
-                311043,
-                311044,
-                311045
-            ],
-            "people": 11,
-            "messageInformationId": [
-                25
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 26,
-            "textId": 25,
-            "weight": 50,
-            "firstMsg": [
-                311046
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 27,
-            "textId": 310001,
-            "limitOption": 3,
-            "priority": 1,
-            "weight": 50,
-            "firstMsg": [
-                311047,
-                311048,
-                311049
-            ],
-            "people": 12,
-            "messageInformationId": [
-                27
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 28,
-            "textId": 27,
-            "weight": 50,
-            "firstMsg": [
-                311050
-            ],
-            "people": 11,
-            "messageInformationId": [
-                28
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 29,
-            "textId": 28,
-            "weight": 50,
-            "firstMsg": [
-                311051,
-                311052
-            ],
-            "people": 12,
-            "messageInformationId": [
-                29,
-                31
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 30,
-            "textId": 29,
-            "weight": 50,
-            "firstMsg": [
-                311053
-            ],
-            "people": 11,
-            "messageInformationId": [
-                30
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 31,
-            "textId": 30,
-            "weight": 50,
-            "firstMsg": [
-                311054
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 32,
-            "textId": 31,
-            "weight": 50,
-            "firstMsg": [
-                311055
-            ],
-            "people": 11,
-            "messageInformationId": [
-                32
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 33,
-            "textId": 32,
-            "weight": 50,
-            "firstMsg": [
-                311056,
-                311057
-            ],
-            "people": 12,
-            "messageInformationId": [
-                33
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 34,
-            "textId": 33,
-            "weight": 50,
-            "firstMsg": [
-                311058,
-                311059
-            ],
-            "people": 11,
-            "messageInformationId": [
-                34
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 35,
-            "textId": 34,
-            "weight": 50,
-            "firstMsg": [
-                311060
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 36,
-            "textId": 310001,
-            "limitOption": 3,
-            "priority": 2,
-            "weight": 50,
-            "firstMsg": [
-                311061,
-                311062,
-                311063
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 37,
-            "textId": 36,
-            "weight": 50,
-            "firstMsg": [
-                311064,
-                311065
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 38,
-            "textId": 310001,
-            "limitOption": 3,
-            "priority": 3,
-            "weight": 50,
-            "firstMsg": [
-                311066,
-                311067
-            ],
-            "people": 12,
-            "messageInformationId": [
-                38
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 39,
-            "textId": 38,
-            "weight": 50,
-            "firstMsg": [
-                311068,
-                311069
-            ],
-            "people": 11,
-            "messageInformationId": [
-                39
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 40,
-            "textId": 39,
-            "weight": 50,
-            "firstMsg": [
-                311070,
-                311071,
-                311072
-            ],
-            "people": 12,
-            "messageInformationId": [
-                40
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 41,
-            "textId": 40,
-            "weight": 50,
-            "firstMsg": [
-                311073,
-                311074
-            ],
-            "people": 11,
-            "messageInformationId": [
-                41
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 42,
-            "textId": 41,
-            "weight": 50,
-            "firstMsg": [
-                311075,
-                311076
-            ],
-            "people": 12,
-            "messageInformationId": [
-                42
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 43,
-            "textId": 42,
-            "weight": 50,
-            "firstMsg": [
-                311077
-            ],
-            "people": 11,
-            "messageInformationId": [
-                43
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 44,
-            "textId": 43,
-            "weight": 50,
-            "firstMsg": [
-                311078
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 45,
-            "textId": 310001,
-            "limitOption": 3,
-            "priority": 4,
-            "weight": 50,
-            "firstMsg": [
-                311079,
-                311080
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 46,
-            "textId": 310001,
-            "limitOption": 4,
-            "priority": 1,
-            "weight": 50,
-            "firstMsg": [
-                311081
-            ],
-            "people": 12,
-            "messageInformationId": [
-                46
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 47,
-            "textId": 46,
-            "weight": 50,
-            "firstMsg": [
-                311082,
-                311083
-            ],
-            "people": 11,
-            "messageInformationId": [
-                47
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 48,
-            "textId": 47,
-            "weight": 50,
-            "firstMsg": [
-                311084,
-                311085
-            ],
-            "people": 12,
-            "messageInformationId": [
-                48
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 49,
-            "textId": 48,
-            "weight": 50,
-            "firstMsg": [
-                311086,
-                311087
-            ],
-            "people": 11,
-            "messageInformationId": [
-                49
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 50,
-            "textId": 49,
-            "weight": 50,
-            "firstMsg": [
-                311088
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 51,
-            "textId": 310001,
-            "limitOption": 4,
-            "priority": 1,
-            "weight": 50,
-            "firstMsg": [
-                311089,
-                311090
-            ],
-            "people": 12,
-            "messageInformationId": [
-                51
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 52,
-            "textId": 51,
-            "weight": 50,
-            "firstMsg": [
-                311091
-            ],
-            "people": 11,
-            "messageInformationId": [
-                52
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 53,
-            "textId": 52,
-            "weight": 50,
-            "firstMsg": [
-                311092,
-                311093
-            ],
-            "people": 12,
-            "messageInformationId": [
-                53
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 54,
-            "textId": 53,
-            "weight": 50,
-            "firstMsg": [
-                311094,
-                311095,
-                311096
-            ],
-            "people": 11,
-            "messageInformationId": [
-                54
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 55,
-            "textId": 54,
-            "weight": 50,
-            "firstMsg": [
-                311097,
-                311098
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 56,
-            "textId": 310001,
-            "limitOption": 4,
-            "priority": 2,
-            "weight": 50,
-            "firstMsg": [
-                311099,
-                311100
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 57,
-            "textId": 56,
-            "weight": 50,
-            "firstMsg": [
-                311101,
-                311102
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 58,
-            "textId": 310001,
-            "limitOption": 4,
-            "priority": 3,
-            "weight": 50,
-            "firstMsg": [
-                311103,
-                311104
-            ],
-            "people": 12,
-            "messageInformationId": [
-                58
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 59,
-            "textId": 58,
-            "weight": 50,
-            "firstMsg": [
-                311105
-            ],
-            "people": 11,
-            "messageInformationId": [
-                59
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 60,
-            "textId": 59,
-            "weight": 50,
-            "firstMsg": [
-                311106
-            ],
-            "people": 12,
-            "messageInformationId": [
-                60
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 61,
-            "textId": 60,
-            "weight": 50,
-            "firstMsg": [
-                311107,
-                311108
-            ],
-            "people": 11,
-            "messageInformationId": [
-                61
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 62,
-            "textId": 61,
-            "weight": 50,
-            "firstMsg": [
-                311109
-            ],
-            "people": 12,
-            "messageInformationId": [
-                62
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 63,
-            "textId": 62,
-            "weight": 50,
-            "firstMsg": [
-                311110,
-                311111,
-                311112
-            ],
-            "people": 11,
-            "messageInformationId": [
-                63
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 64,
-            "textId": 63,
-            "weight": 50,
-            "firstMsg": [
-                311113,
-                311114
-            ],
-            "people": 12,
-            "messageInformationId": [
-                64
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 65,
-            "textId": 64,
-            "weight": 50,
-            "firstMsg": [
-                311115
-            ],
-            "people": 11,
-            "messageInformationId": [
-                65
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 66,
-            "textId": 65,
-            "weight": 50,
-            "firstMsg": [
-                311116
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 67,
-            "textId": 310001,
-            "limitOption": 4,
-            "priority": 4,
-            "weight": 50,
-            "firstMsg": [
-                311117,
-                311118
-            ],
-            "people": 12,
-            "messageInformationId": [
-                67
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 68,
-            "textId": 67,
-            "weight": 50,
-            "firstMsg": [
-                311119
-            ],
-            "people": 11,
-            "messageInformationId": [
-                68
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 69,
-            "textId": 68,
-            "weight": 50,
-            "firstMsg": [
-                311120,
-                311121
-            ],
-            "people": 12,
-            "messageInformationId": [
-                69,
-                74
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 70,
-            "textId": 69,
-            "weight": 50,
-            "firstMsg": [
-                311122,
-                311123
-            ],
-            "people": 11,
-            "messageInformationId": [
-                70
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 71,
-            "textId": 70,
-            "weight": 50,
-            "firstMsg": [
-                311124,
-                311125,
-                311126
-            ],
-            "people": 12,
-            "messageInformationId": [
-                71
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 72,
-            "textId": 71,
-            "weight": 50,
-            "firstMsg": [
-                311127,
-                311128
-            ],
-            "people": 11,
-            "messageInformationId": [
-                72
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 73,
-            "textId": 72,
-            "weight": 50,
-            "firstMsg": [
-                311129,
-                311130,
-                311131
-            ],
-            "people": 12,
-            "messageInformationId": [
-                73
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 74,
-            "textId": 73,
-            "weight": 50,
-            "firstMsg": [
-                311132
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 75,
-            "textId": 74,
-            "weight": 50,
-            "firstMsg": [
-                311133,
-                311134
-            ],
-            "people": 11,
-            "messageInformationId": [
-                75
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 76,
-            "textId": 75,
-            "weight": 50,
-            "firstMsg": [
-                311135,
-                311136,
-                311137
-            ],
-            "people": 12,
-            "messageInformationId": [
-                76
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 77,
-            "textId": 76,
-            "weight": 50,
-            "firstMsg": [
-                311138,
-                311139,
-                311140
-            ],
-            "people": 11,
-            "messageInformationId": [
-                77
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 78,
-            "textId": 77,
-            "weight": 50,
-            "firstMsg": [
-                311141
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 79,
-            "textId": 310001,
-            "limitOption": 4,
-            "priority": 5,
-            "weight": 50,
-            "firstMsg": [
-                311142,
-                311143,
-                311144
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 80,
-            "textId": 79,
-            "weight": 50,
-            "firstMsg": [
-                311145,
-                311146
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 81,
-            "textId": 310001,
-            "limitOption": 4,
-            "priority": 6,
-            "weight": 50,
-            "firstMsg": [
-                311147,
-                311148
-            ],
-            "people": 12,
-            "messageInformationId": [
-                81
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 82,
-            "textId": 81,
-            "weight": 50,
-            "firstMsg": [
-                311149,
-                311150,
-                311151
-            ],
-            "people": 11,
-            "messageInformationId": [
-                82
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 83,
-            "textId": 82,
-            "weight": 50,
-            "firstMsg": [
-                311152
-            ],
-            "people": 12,
-            "messageInformationId": [
-                83
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 84,
-            "textId": 83,
-            "weight": 50,
-            "firstMsg": [
-                311153
-            ],
-            "people": 11,
-            "messageInformationId": [
-                84
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 85,
-            "textId": 84,
-            "weight": 50,
-            "firstMsg": [
-                311154,
-                311155
-            ],
-            "people": 12,
-            "messageInformationId": [
-                85
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 86,
-            "textId": 85,
-            "weight": 50,
-            "firstMsg": [
-                311156
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 87,
-            "textId": 310001,
-            "limitOption": 4,
-            "priority": 7,
-            "weight": 50,
-            "firstMsg": [
-                311157,
-                311158
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 88,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 1,
-            "weight": 50,
-            "firstMsg": [
-                711001,
-                711002
-            ],
-            "people": 12,
-            "messageInformationId": [
-                88
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 89,
-            "textId": 88,
-            "weight": 50,
-            "firstMsg": [
-                711003,
-                711004
-            ],
-            "people": 11,
-            "messageInformationId": [
-                89
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 90,
-            "textId": 89,
-            "weight": 50,
-            "firstMsg": [
-                711005,
-                711006
-            ],
-            "people": 12,
-            "messageInformationId": [
-                90
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 91,
-            "textId": 90,
-            "weight": 50,
-            "firstMsg": [
-                711007,
-                711008
-            ],
-            "people": 11,
-            "messageInformationId": [
-                91
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 92,
-            "textId": 91,
-            "weight": 50,
-            "firstMsg": [
-                711009,
-                711010
-            ],
-            "people": 12,
-            "messageInformationId": [
-                92
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 93,
-            "textId": 92,
-            "weight": 50,
-            "firstMsg": [
-                711011
-            ],
-            "people": 11,
-            "messageInformationId": [
-                93
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 94,
-            "textId": 93,
-            "weight": 50,
-            "firstMsg": [
-                711012
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 95,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 2,
-            "weight": 50,
-            "firstMsg": [
-                711013,
-                711014
-            ],
-            "people": 12,
-            "messageInformationId": [
-                95
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 96,
-            "textId": 95,
-            "weight": 50,
-            "firstMsg": [
-                711015
-            ],
-            "people": 11,
-            "messageInformationId": [
-                96
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 97,
-            "textId": 96,
-            "weight": 50,
-            "firstMsg": [
-                711016
-            ],
-            "people": 12,
-            "messageInformationId": [
-                97
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 98,
-            "textId": 97,
-            "weight": 50,
-            "firstMsg": [
-                711017
-            ],
-            "people": 11,
-            "messageInformationId": [
-                98
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 99,
-            "textId": 98,
-            "weight": 50,
-            "firstMsg": [
-                711018,
-                711019
-            ],
-            "people": 12,
-            "messageInformationId": [
-                99
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 100,
-            "textId": 99,
-            "weight": 50,
-            "firstMsg": [
-                711020
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 101,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 3,
-            "weight": 50,
-            "firstMsg": [
-                711021,
-                711022
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 102,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 4,
-            "weight": 50,
-            "firstMsg": [
-                711023
-            ],
-            "people": 12,
-            "messageInformationId": [
-                102
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 103,
-            "textId": 102,
-            "weight": 50,
-            "firstMsg": [
-                711024
-            ],
-            "people": 11,
-            "messageInformationId": [
-                103
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 104,
-            "textId": 103,
-            "weight": 50,
-            "firstMsg": [
-                711025,
-                711026
-            ],
-            "people": 12,
-            "messageInformationId": [
-                104
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 105,
-            "textId": 104,
-            "weight": 50,
-            "firstMsg": [
-                711027
-            ],
-            "people": 11,
-            "messageInformationId": [
-                105
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 106,
-            "textId": 105,
-            "weight": 50,
-            "firstMsg": [
-                711027
-            ],
-            "people": 12,
-            "messageInformationId": [
-                106
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 107,
-            "textId": 106,
-            "weight": 50,
-            "firstMsg": [
-                711029,
-                711030
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 108,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 5,
-            "weight": 50,
-            "firstMsg": [
-                711031
-            ],
-            "people": 12,
-            "messageInformationId": [
-                108
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 109,
-            "textId": 108,
-            "weight": 50,
-            "firstMsg": [
-                711032,
-                711033,
-                711034
-            ],
-            "people": 11,
-            "messageInformationId": [
-                109
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 110,
-            "textId": 109,
-            "weight": 50,
-            "firstMsg": [
-                711035,
-                711036,
-                711037
-            ],
-            "people": 12,
-            "messageInformationId": [
-                110
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 111,
-            "textId": 110,
-            "weight": 50,
-            "firstMsg": [
-                711038,
-                711039,
-                711040
-            ],
-            "people": 11,
-            "messageInformationId": [
-                111
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 112,
-            "textId": 111,
-            "weight": 50,
-            "firstMsg": [
-                711041,
-                711042
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 113,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 6,
-            "weight": 50,
-            "firstMsg": [
-                711043,
-                711044
-            ],
-            "people": 12,
-            "messageInformationId": [
-                113
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 114,
-            "textId": 113,
-            "weight": 50,
-            "firstMsg": [
-                711045,
-                711046
-            ],
-            "people": 11,
-            "messageInformationId": [
-                114
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 115,
-            "textId": 114,
-            "weight": 50,
-            "firstMsg": [
-                711047,
-                711048
-            ],
-            "people": 12,
-            "messageInformationId": [
-                115
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 116,
-            "textId": 115,
-            "weight": 50,
-            "firstMsg": [
-                711049,
-                711050,
-                711051
-            ],
-            "people": 11,
-            "messageInformationId": [
-                116
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 117,
-            "textId": 116,
-            "weight": 50,
-            "firstMsg": [
-                711052,
-                711053,
-                711054,
-                711055
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 118,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 7,
-            "weight": 50,
-            "firstMsg": [
-                711056,
-                711057,
-                711058
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 119,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 8,
-            "weight": 50,
-            "firstMsg": [
-                711059
-            ],
-            "people": 12,
-            "messageInformationId": [
-                119
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 120,
-            "textId": 119,
-            "weight": 50,
-            "firstMsg": [
-                711060,
-                711061,
-                711062
-            ],
-            "people": 11,
-            "messageInformationId": [
-                120
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 121,
-            "textId": 120,
-            "weight": 50,
-            "firstMsg": [
-                711063,
-                711064,
-                711065
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 122,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 9,
-            "weight": 50,
-            "firstMsg": [
-                711066,
-                711067,
-                711068
-            ],
-            "people": 12,
-            "messageInformationId": [
-                122
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 123,
-            "textId": 122,
-            "weight": 50,
-            "firstMsg": [
-                711069,
-                711070,
-                711071
-            ],
-            "people": 11,
-            "messageInformationId": [
-                123
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 124,
-            "textId": 123,
-            "weight": 50,
-            "firstMsg": [
-                711072,
-                711073
-            ],
-            "people": 12,
-            "messageInformationId": [
-                124
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 125,
-            "textId": 124,
-            "weight": 50,
-            "firstMsg": [
-                711074,
-                711075,
-                711076
-            ],
-            "people": 11,
-            "messageInformationId": [
-                125
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 126,
-            "textId": 125,
-            "weight": 50,
-            "firstMsg": [
-                711077,
-                711078,
-                711079
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 127,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 10,
-            "weight": 50,
-            "firstMsg": [
-                711080,
-                711081
-            ],
-            "people": 12,
-            "messageInformationId": [
-                127
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 128,
-            "textId": 127,
-            "weight": 50,
-            "firstMsg": [
-                711082
-            ],
-            "people": 11,
-            "messageInformationId": [
-                128
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 129,
-            "textId": 128,
-            "weight": 50,
-            "firstMsg": [
-                711083,
-                711084,
-                711085
-            ],
-            "people": 12,
-            "messageInformationId": [
-                129
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 130,
-            "textId": 129,
-            "weight": 50,
-            "firstMsg": [
-                711086,
-                711087,
-                711088
-            ],
-            "people": 11,
-            "messageInformationId": [
-                130
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 131,
-            "textId": 130,
-            "weight": 50,
-            "firstMsg": [
-                711089,
-                711090
-            ],
-            "people": 12,
-            "messageInformationId": [
-                131
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 132,
-            "textId": 131,
-            "weight": 50,
-            "firstMsg": [
-                711091
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 133,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 11,
-            "weight": 50,
-            "firstMsg": [
-                711092,
-                711093
-            ],
-            "people": 12,
-            "messageInformationId": [
-                133
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 134,
-            "textId": 133,
-            "weight": 50,
-            "firstMsg": [
-                711094,
-                711095,
-                711096,
-                711097
-            ],
-            "people": 11,
-            "messageInformationId": [
-                134
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 135,
-            "textId": 134,
-            "weight": 50,
-            "firstMsg": [
-                711098,
-                711099,
-                711100
-            ],
-            "people": 12,
-            "messageInformationId": [
-                135,
-                138
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 136,
-            "textId": 135,
-            "weight": 50,
-            "firstMsg": [
-                711101,
-                711102,
-                711103,
-                711104
-            ],
-            "people": 11,
-            "messageInformationId": [
-                136
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 137,
-            "textId": 136,
-            "weight": 50,
-            "firstMsg": [
-                711105,
-                711106
-            ],
-            "people": 12,
-            "messageInformationId": [
-                137
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 138,
-            "textId": 137,
-            "weight": 50,
-            "firstMsg": [
-                711107,
-                711108
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 139,
-            "textId": 138,
-            "weight": 50,
-            "firstMsg": [
-                711109,
-                711110
-            ],
-            "people": 11,
-            "messageInformationId": [
-                139
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 140,
-            "textId": 139,
-            "weight": 50,
-            "firstMsg": [
-                711111,
-                711112
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 141,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 12,
-            "weight": 50,
-            "firstMsg": [
-                711113,
-                711114
-            ],
-            "people": 12,
-            "messageEffect": {},
-            "messageInformationId": []
-        },
-        {
-            "id": 142,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 13,
-            "weight": 50,
-            "firstMsg": [
-                711115
-            ],
-            "people": 12,
-            "messageInformationId": [
-                142
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 143,
-            "textId": 142,
-            "weight": 50,
-            "firstMsg": [
-                711116,
-                711117
-            ],
-            "people": 11,
-            "messageInformationId": [
-                143
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 144,
-            "textId": 143,
-            "weight": 50,
-            "firstMsg": [
-                711118
-            ],
-            "people": 12,
-            "messageInformationId": [
-                144
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 145,
-            "textId": 144,
-            "weight": 50,
-            "firstMsg": [
-                711119
-            ],
-            "people": 11,
-            "messageInformationId": [
-                145
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 146,
-            "textId": 145,
-            "weight": 50,
-            "firstMsg": [
-                711120
-            ],
-            "people": 12,
-            "messageInformationId": [
-                146
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 147,
-            "textId": 146,
-            "weight": 50,
-            "firstMsg": [
-                711121
-            ],
-            "people": 11,
-            "messageInformationId": [
-                147
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 148,
-            "textId": 147,
-            "weight": 50,
-            "firstMsg": [
-                711122,
-                711123
-            ],
-            "people": 12,
-            "messageInformationId": [
-                148
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 149,
-            "textId": 148,
-            "weight": 50,
-            "firstMsg": [
-                711124,
-                711125
-            ],
-            "people": 11,
-            "messageInformationId": [
-                149
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 150,
-            "textId": 149,
-            "weight": 50,
-            "firstMsg": [
-                711126
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 151,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 14,
-            "weight": 50,
-            "firstMsg": [
-                711127,
-                711128
-            ],
-            "people": 12,
-            "messageInformationId": [
-                151
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 152,
-            "textId": 151,
-            "weight": 50,
-            "firstMsg": [
-                711129,
-                711130
-            ],
-            "people": 11,
-            "messageInformationId": [
-                152
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 153,
-            "textId": 152,
-            "weight": 50,
-            "firstMsg": [
-                711031
-            ],
-            "people": 12,
-            "messageInformationId": [
-                153
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 154,
-            "textId": 153,
-            "weight": 50,
-            "firstMsg": [
-                711132,
-                711133
-            ],
-            "people": 11,
-            "messageInformationId": [
-                154
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 155,
-            "textId": 154,
-            "weight": 50,
-            "firstMsg": [
-                711134,
-                711135
-            ],
-            "people": 12,
-            "messageInformationId": [
-                155
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 156,
-            "textId": 155,
-            "weight": 50,
-            "firstMsg": [
-                711136,
-                711137
-            ],
-            "people": 11,
-            "messageInformationId": [
-                156
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 157,
-            "textId": 156,
-            "weight": 50,
-            "firstMsg": [
-                711038
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 158,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 15,
-            "weight": 50,
-            "firstMsg": [
-                711039
-            ],
-            "people": 12,
-            "messageInformationId": [
-                158
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 159,
-            "textId": 158,
-            "weight": 50,
-            "firstMsg": [
-                711040
-            ],
-            "people": 11,
-            "messageInformationId": [
-                159
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 160,
-            "textId": 159,
-            "weight": 50,
-            "firstMsg": [
-                711141,
-                711142
-            ],
-            "people": 12,
-            "messageInformationId": [
-                160
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 161,
-            "textId": 160,
-            "weight": 50,
-            "firstMsg": [
-                711143,
-                711144
-            ],
-            "people": 11,
-            "messageInformationId": [
-                161
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 162,
-            "textId": 161,
-            "weight": 50,
-            "firstMsg": [
-                711145,
-                711146
-            ],
-            "people": 12,
-            "messageInformationId": [
-                162
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 163,
-            "textId": 162,
-            "weight": 50,
-            "firstMsg": [
-                711147,
-                711148
-            ],
-            "people": 11,
-            "messageInformationId": [
-                163
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 164,
-            "textId": 163,
-            "weight": 50,
-            "firstMsg": [
-                711149,
-                711150
-            ],
-            "people": 12,
-            "messageInformationId": [
-                164
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 165,
-            "textId": 164,
-            "weight": 50,
-            "firstMsg": [
-                711151,
-                711152,
-                711153
-            ],
-            "people": 11,
-            "messageInformationId": [
-                165
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 166,
-            "textId": 165,
-            "weight": 50,
-            "firstMsg": [
-                711154
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 167,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 16,
-            "weight": 50,
-            "firstMsg": [
-                711155,
-                711156
-            ],
-            "people": 12,
-            "messageInformationId": [
-                167
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 168,
-            "textId": 167,
-            "weight": 50,
-            "firstMsg": [
-                711157,
-                711158
-            ],
-            "people": 11,
-            "messageInformationId": [
-                168
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 169,
-            "textId": 168,
-            "weight": 50,
-            "firstMsg": [
-                711159
-            ],
-            "people": 12,
-            "messageInformationId": [
-                169
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 170,
-            "textId": 169,
-            "weight": 50,
-            "firstMsg": [
-                711160,
-                711161
-            ],
-            "people": 11,
-            "messageInformationId": [
-                170
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 171,
-            "textId": 170,
-            "weight": 50,
-            "firstMsg": [
-                711162,
-                711163
-            ],
-            "people": 12,
-            "messageInformationId": [
-                171,
-                173
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 172,
-            "textId": 171,
-            "weight": 50,
-            "firstMsg": [
-                711164,
-                711165
-            ],
-            "people": 11,
-            "messageInformationId": [
-                172
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 173,
-            "textId": 172,
-            "weight": 50,
-            "firstMsg": [
-                711166,
-                711167,
-                711168
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 174,
-            "textId": 173,
-            "weight": 50,
-            "firstMsg": [
-                711169,
-                711170
-            ],
-            "people": 11,
-            "messageInformationId": [
-                174
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 175,
-            "textId": 174,
-            "weight": 50,
-            "firstMsg": [
-                711171,
-                711172,
-                711173
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 176,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 17,
-            "weight": 50,
-            "firstMsg": [
-                711174
-            ],
-            "people": 12,
-            "messageInformationId": [
-                176
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 177,
-            "textId": 176,
-            "weight": 50,
-            "firstMsg": [
-                711175,
-                711176
-            ],
-            "people": 11,
-            "messageInformationId": [
-                177
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 178,
-            "textId": 177,
-            "weight": 50,
-            "firstMsg": [
-                711177,
-                711178
-            ],
-            "people": 12,
-            "messageInformationId": [
-                178
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 179,
-            "textId": 178,
-            "weight": 50,
-            "firstMsg": [
-                711179,
-                711180
-            ],
-            "people": 11,
-            "messageInformationId": [
-                179
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 180,
-            "textId": 179,
-            "weight": 50,
-            "firstMsg": [
-                711181
-            ],
-            "people": 12,
-            "messageInformationId": [
-                180
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 181,
-            "textId": 180,
-            "weight": 50,
-            "firstMsg": [
-                711182
-            ],
-            "people": 11,
-            "messageInformationId": [
-                181
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 182,
-            "textId": 181,
-            "weight": 50,
-            "firstMsg": [
-                711183,
-                711184
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 183,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 18,
-            "weight": 50,
-            "firstMsg": [
-                711185
-            ],
-            "people": 12,
-            "messageInformationId": [
-                183
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 184,
-            "textId": 183,
-            "weight": 50,
-            "firstMsg": [
-                711186,
-                711187
-            ],
-            "people": 11,
-            "messageInformationId": [
-                184
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 185,
-            "textId": 184,
-            "weight": 50,
-            "firstMsg": [
-                711188,
-                711189,
-                711190
-            ],
-            "people": 12,
-            "messageInformationId": [
-                185
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 186,
-            "textId": 185,
-            "weight": 50,
-            "firstMsg": [
-                711191,
-                711192,
-                711193
-            ],
-            "people": 11,
-            "messageInformationId": [
-                186
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 187,
-            "textId": 186,
-            "weight": 50,
-            "firstMsg": [
-                711194
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 188,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 19,
-            "weight": 50,
-            "firstMsg": [
-                711195,
-                711196
-            ],
-            "people": 12,
-            "messageInformationId": [
-                188
-            ],
-            "messageEffect": {}
-        },
-        {
-            "id": 189,
-            "textId": 188,
-            "weight": 50,
-            "firstMsg": [
-                711197
-            ],
-            "people": 11,
-            "messageInformationId": [
-                189
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 190,
-            "textId": 189,
-            "weight": 50,
-            "firstMsg": [
-                711198
-            ],
-            "people": 12,
-            "messageInformationId": [
-                190
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 191,
-            "textId": 190,
-            "weight": 50,
-            "firstMsg": [
-                711199
-            ],
-            "people": 11,
-            "messageInformationId": [
-                191
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {}
-        },
-        {
-            "id": 192,
-            "textId": 191,
-            "weight": 50,
-            "firstMsg": [
-                711200,
-                711201,
-                711202,
-                711203
-            ],
-            "limitOption": 0,
-            "priority": 0,
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        },
-        {
-            "id": 193,
-            "textId": 710001,
-            "limitOption": 1,
-            "priority": 20,
-            "weight": 50,
-            "firstMsg": [
-                711204,
-                711205
-            ],
-            "messageEffect": {},
-            "people": 0,
-            "messageInformationId": []
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"textId": 310001,
+			"limitOption": 2,
+			"priority": 1,
+			"weight": 50,
+			"firstMsg": [
+				311001,
+				311002
+			],
+			"people": 12,
+			"messageInformationId": [
+				1,
+				2
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 2,
+			"textId": 1,
+			"weight": 50,
+			"firstMsg": [
+				311003,
+				311004,
+				311005,
+				312001
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 3,
+			"textId": 2,
+			"weight": 50,
+			"firstMsg": [
+				311006,
+				312002
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 4,
+			"textId": 3,
+			"weight": 50,
+			"firstMsg": [
+				311007,
+				311008
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 5,
+			"textId": 310001,
+			"limitOption": 2,
+			"priority": 2,
+			"weight": 50,
+			"firstMsg": [
+				311009,
+				311010
+			],
+			"people": 12,
+			"messageInformationId": [
+				5
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 6,
+			"textId": 5,
+			"weight": 50,
+			"firstMsg": [
+				311011
+			],
+			"people": 11,
+			"messageInformationId": [
+				6
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 7,
+			"textId": 6,
+			"weight": 50,
+			"firstMsg": [
+				311012,
+				311013
+			],
+			"people": 12,
+			"messageInformationId": [
+				7
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 8,
+			"textId": 7,
+			"weight": 50,
+			"firstMsg": [
+				311014,
+				311015,
+				311016
+			],
+			"people": 11,
+			"messageInformationId": [
+				8
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 9,
+			"textId": 8,
+			"weight": 50,
+			"firstMsg": [
+				311017
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 10,
+			"textId": 310001,
+			"limitOption": 2,
+			"priority": 3,
+			"weight": 50,
+			"firstMsg": [
+				311018,
+				311019
+			],
+			"people": 12,
+			"messageInformationId": [
+				10
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 11,
+			"textId": 10,
+			"weight": 50,
+			"firstMsg": [
+				311020
+			],
+			"people": 11,
+			"messageInformationId": [
+				11
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 12,
+			"textId": 11,
+			"weight": 50,
+			"firstMsg": [
+				311021,
+				311022,
+				311023
+			],
+			"people": 12,
+			"messageInformationId": [
+				12
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 13,
+			"textId": 12,
+			"weight": 50,
+			"firstMsg": [
+				311024,
+				311025
+			],
+			"people": 11,
+			"messageInformationId": [
+				13
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 14,
+			"textId": 13,
+			"weight": 50,
+			"firstMsg": [
+				311026,
+				311027
+			],
+			"people": 12,
+			"messageInformationId": [
+				14
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 15,
+			"textId": 14,
+			"weight": 50,
+			"firstMsg": [
+				311028,
+				311029
+			],
+			"people": 11,
+			"messageInformationId": [
+				15
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 16,
+			"textId": 15,
+			"weight": 50,
+			"firstMsg": [
+				311030,
+				311031
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 17,
+			"textId": 310001,
+			"limitOption": 2,
+			"priority": 4,
+			"weight": 50,
+			"firstMsg": [
+				311032,
+				311033
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 18,
+			"textId": 310001,
+			"limitOption": 3,
+			"priority": 1,
+			"weight": 50,
+			"firstMsg": [
+				311034
+			],
+			"people": 12,
+			"messageInformationId": [
+				18
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 19,
+			"textId": 18,
+			"weight": 50,
+			"firstMsg": [
+				311035
+			],
+			"people": 11,
+			"messageInformationId": [
+				19
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 20,
+			"textId": 19,
+			"weight": 50,
+			"firstMsg": [
+				311036
+			],
+			"people": 12,
+			"messageInformationId": [
+				20
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 21,
+			"textId": 20,
+			"weight": 50,
+			"firstMsg": [
+				311037
+			],
+			"people": 11,
+			"messageInformationId": [
+				21
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 22,
+			"textId": 21,
+			"weight": 50,
+			"firstMsg": [
+				311038
+			],
+			"people": 12,
+			"messageInformationId": [
+				22
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 23,
+			"textId": 22,
+			"weight": 50,
+			"firstMsg": [
+				311039,
+				311040
+			],
+			"people": 11,
+			"messageInformationId": [
+				23
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 24,
+			"textId": 23,
+			"weight": 50,
+			"firstMsg": [
+				311041,
+				311042
+			],
+			"people": 12,
+			"messageInformationId": [
+				24
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 25,
+			"textId": 24,
+			"weight": 50,
+			"firstMsg": [
+				311043,
+				311044,
+				311045
+			],
+			"people": 11,
+			"messageInformationId": [
+				25
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 26,
+			"textId": 25,
+			"weight": 50,
+			"firstMsg": [
+				311046
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 27,
+			"textId": 310001,
+			"limitOption": 3,
+			"priority": 1,
+			"weight": 50,
+			"firstMsg": [
+				311047,
+				311048,
+				311049
+			],
+			"people": 12,
+			"messageInformationId": [
+				27
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 28,
+			"textId": 27,
+			"weight": 50,
+			"firstMsg": [
+				311050
+			],
+			"people": 11,
+			"messageInformationId": [
+				28
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 29,
+			"textId": 28,
+			"weight": 50,
+			"firstMsg": [
+				311051,
+				311052
+			],
+			"people": 12,
+			"messageInformationId": [
+				29,
+				31
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 30,
+			"textId": 29,
+			"weight": 50,
+			"firstMsg": [
+				311053
+			],
+			"people": 11,
+			"messageInformationId": [
+				30
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 31,
+			"textId": 30,
+			"weight": 50,
+			"firstMsg": [
+				311054
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 32,
+			"textId": 31,
+			"weight": 50,
+			"firstMsg": [
+				311055
+			],
+			"people": 11,
+			"messageInformationId": [
+				32
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 33,
+			"textId": 32,
+			"weight": 50,
+			"firstMsg": [
+				311056,
+				311057
+			],
+			"people": 12,
+			"messageInformationId": [
+				33
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 34,
+			"textId": 33,
+			"weight": 50,
+			"firstMsg": [
+				311058,
+				311059
+			],
+			"people": 11,
+			"messageInformationId": [
+				34
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 35,
+			"textId": 34,
+			"weight": 50,
+			"firstMsg": [
+				311060
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 36,
+			"textId": 310001,
+			"limitOption": 3,
+			"priority": 2,
+			"weight": 50,
+			"firstMsg": [
+				311061,
+				311062,
+				311063
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 37,
+			"textId": 36,
+			"weight": 50,
+			"firstMsg": [
+				311064,
+				311065
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 38,
+			"textId": 310001,
+			"limitOption": 3,
+			"priority": 3,
+			"weight": 50,
+			"firstMsg": [
+				311066,
+				311067
+			],
+			"people": 12,
+			"messageInformationId": [
+				38
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 39,
+			"textId": 38,
+			"weight": 50,
+			"firstMsg": [
+				311068,
+				311069
+			],
+			"people": 11,
+			"messageInformationId": [
+				39
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 40,
+			"textId": 39,
+			"weight": 50,
+			"firstMsg": [
+				311070,
+				311071,
+				311072
+			],
+			"people": 12,
+			"messageInformationId": [
+				40
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 41,
+			"textId": 40,
+			"weight": 50,
+			"firstMsg": [
+				311073,
+				311074
+			],
+			"people": 11,
+			"messageInformationId": [
+				41
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 42,
+			"textId": 41,
+			"weight": 50,
+			"firstMsg": [
+				311075,
+				311076
+			],
+			"people": 12,
+			"messageInformationId": [
+				42
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 43,
+			"textId": 42,
+			"weight": 50,
+			"firstMsg": [
+				311077
+			],
+			"people": 11,
+			"messageInformationId": [
+				43
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 44,
+			"textId": 43,
+			"weight": 50,
+			"firstMsg": [
+				311078
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 45,
+			"textId": 310001,
+			"limitOption": 3,
+			"priority": 4,
+			"weight": 50,
+			"firstMsg": [
+				311079,
+				311080
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 46,
+			"textId": 310001,
+			"limitOption": 4,
+			"priority": 1,
+			"weight": 50,
+			"firstMsg": [
+				311081
+			],
+			"people": 12,
+			"messageInformationId": [
+				46
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 47,
+			"textId": 46,
+			"weight": 50,
+			"firstMsg": [
+				311082,
+				311083
+			],
+			"people": 11,
+			"messageInformationId": [
+				47
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 48,
+			"textId": 47,
+			"weight": 50,
+			"firstMsg": [
+				311084,
+				311085
+			],
+			"people": 12,
+			"messageInformationId": [
+				48
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 49,
+			"textId": 48,
+			"weight": 50,
+			"firstMsg": [
+				311086,
+				311087
+			],
+			"people": 11,
+			"messageInformationId": [
+				49
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 50,
+			"textId": 49,
+			"weight": 50,
+			"firstMsg": [
+				311088
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 51,
+			"textId": 310001,
+			"limitOption": 4,
+			"priority": 1,
+			"weight": 50,
+			"firstMsg": [
+				311089,
+				311090
+			],
+			"people": 12,
+			"messageInformationId": [
+				51
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 52,
+			"textId": 51,
+			"weight": 50,
+			"firstMsg": [
+				311091
+			],
+			"people": 11,
+			"messageInformationId": [
+				52
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 53,
+			"textId": 52,
+			"weight": 50,
+			"firstMsg": [
+				311092,
+				311093
+			],
+			"people": 12,
+			"messageInformationId": [
+				53
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 54,
+			"textId": 53,
+			"weight": 50,
+			"firstMsg": [
+				311094,
+				311095,
+				311096
+			],
+			"people": 11,
+			"messageInformationId": [
+				54
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 55,
+			"textId": 54,
+			"weight": 50,
+			"firstMsg": [
+				311097,
+				311098
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 56,
+			"textId": 310001,
+			"limitOption": 4,
+			"priority": 2,
+			"weight": 50,
+			"firstMsg": [
+				311099,
+				311100
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 57,
+			"textId": 56,
+			"weight": 50,
+			"firstMsg": [
+				311101,
+				311102
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 58,
+			"textId": 310001,
+			"limitOption": 4,
+			"priority": 3,
+			"weight": 50,
+			"firstMsg": [
+				311103,
+				311104
+			],
+			"people": 12,
+			"messageInformationId": [
+				58
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 59,
+			"textId": 58,
+			"weight": 50,
+			"firstMsg": [
+				311105
+			],
+			"people": 11,
+			"messageInformationId": [
+				59
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 60,
+			"textId": 59,
+			"weight": 50,
+			"firstMsg": [
+				311106
+			],
+			"people": 12,
+			"messageInformationId": [
+				60
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 61,
+			"textId": 60,
+			"weight": 50,
+			"firstMsg": [
+				311107,
+				311108
+			],
+			"people": 11,
+			"messageInformationId": [
+				61
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 62,
+			"textId": 61,
+			"weight": 50,
+			"firstMsg": [
+				311109
+			],
+			"people": 12,
+			"messageInformationId": [
+				62
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 63,
+			"textId": 62,
+			"weight": 50,
+			"firstMsg": [
+				311110,
+				311111,
+				311112
+			],
+			"people": 11,
+			"messageInformationId": [
+				63
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 64,
+			"textId": 63,
+			"weight": 50,
+			"firstMsg": [
+				311113,
+				311114
+			],
+			"people": 12,
+			"messageInformationId": [
+				64
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 65,
+			"textId": 64,
+			"weight": 50,
+			"firstMsg": [
+				311115
+			],
+			"people": 11,
+			"messageInformationId": [
+				65
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 66,
+			"textId": 65,
+			"weight": 50,
+			"firstMsg": [
+				311116
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 67,
+			"textId": 310001,
+			"limitOption": 4,
+			"priority": 4,
+			"weight": 50,
+			"firstMsg": [
+				311117,
+				311118
+			],
+			"people": 12,
+			"messageInformationId": [
+				67
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 68,
+			"textId": 67,
+			"weight": 50,
+			"firstMsg": [
+				311119
+			],
+			"people": 11,
+			"messageInformationId": [
+				68
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 69,
+			"textId": 68,
+			"weight": 50,
+			"firstMsg": [
+				311120,
+				311121
+			],
+			"people": 12,
+			"messageInformationId": [
+				69,
+				74
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 70,
+			"textId": 69,
+			"weight": 50,
+			"firstMsg": [
+				311122,
+				311123
+			],
+			"people": 11,
+			"messageInformationId": [
+				70
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 71,
+			"textId": 70,
+			"weight": 50,
+			"firstMsg": [
+				311124,
+				311125,
+				311126
+			],
+			"people": 12,
+			"messageInformationId": [
+				71
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 72,
+			"textId": 71,
+			"weight": 50,
+			"firstMsg": [
+				311127,
+				311128
+			],
+			"people": 11,
+			"messageInformationId": [
+				72
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 73,
+			"textId": 72,
+			"weight": 50,
+			"firstMsg": [
+				311129,
+				311130,
+				311131
+			],
+			"people": 12,
+			"messageInformationId": [
+				73
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 74,
+			"textId": 73,
+			"weight": 50,
+			"firstMsg": [
+				311132
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 75,
+			"textId": 74,
+			"weight": 50,
+			"firstMsg": [
+				311133,
+				311134
+			],
+			"people": 11,
+			"messageInformationId": [
+				75
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 76,
+			"textId": 75,
+			"weight": 50,
+			"firstMsg": [
+				311135,
+				311136,
+				311137
+			],
+			"people": 12,
+			"messageInformationId": [
+				76
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 77,
+			"textId": 76,
+			"weight": 50,
+			"firstMsg": [
+				311138,
+				311139,
+				311140
+			],
+			"people": 11,
+			"messageInformationId": [
+				77
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 78,
+			"textId": 77,
+			"weight": 50,
+			"firstMsg": [
+				311141
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 79,
+			"textId": 310001,
+			"limitOption": 4,
+			"priority": 5,
+			"weight": 50,
+			"firstMsg": [
+				311142,
+				311143,
+				311144
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 80,
+			"textId": 79,
+			"weight": 50,
+			"firstMsg": [
+				311145,
+				311146
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 81,
+			"textId": 310001,
+			"limitOption": 4,
+			"priority": 6,
+			"weight": 50,
+			"firstMsg": [
+				311147,
+				311148
+			],
+			"people": 12,
+			"messageInformationId": [
+				81
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 82,
+			"textId": 81,
+			"weight": 50,
+			"firstMsg": [
+				311149,
+				311150,
+				311151
+			],
+			"people": 11,
+			"messageInformationId": [
+				82
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 83,
+			"textId": 82,
+			"weight": 50,
+			"firstMsg": [
+				311152
+			],
+			"people": 12,
+			"messageInformationId": [
+				83
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 84,
+			"textId": 83,
+			"weight": 50,
+			"firstMsg": [
+				311153
+			],
+			"people": 11,
+			"messageInformationId": [
+				84
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 85,
+			"textId": 84,
+			"weight": 50,
+			"firstMsg": [
+				311154,
+				311155
+			],
+			"people": 12,
+			"messageInformationId": [
+				85
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 86,
+			"textId": 85,
+			"weight": 50,
+			"firstMsg": [
+				311156
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 87,
+			"textId": 310001,
+			"limitOption": 4,
+			"priority": 7,
+			"weight": 50,
+			"firstMsg": [
+				311157,
+				311158
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 88,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 1,
+			"weight": 50,
+			"firstMsg": [
+				711001,
+				711002
+			],
+			"people": 12,
+			"messageInformationId": [
+				88
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 89,
+			"textId": 88,
+			"weight": 50,
+			"firstMsg": [
+				711003,
+				711004
+			],
+			"people": 11,
+			"messageInformationId": [
+				89
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 90,
+			"textId": 89,
+			"weight": 50,
+			"firstMsg": [
+				711005,
+				711006
+			],
+			"people": 12,
+			"messageInformationId": [
+				90
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 91,
+			"textId": 90,
+			"weight": 50,
+			"firstMsg": [
+				711007,
+				711008
+			],
+			"people": 11,
+			"messageInformationId": [
+				91
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 92,
+			"textId": 91,
+			"weight": 50,
+			"firstMsg": [
+				711009,
+				711010
+			],
+			"people": 12,
+			"messageInformationId": [
+				92
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 93,
+			"textId": 92,
+			"weight": 50,
+			"firstMsg": [
+				711011
+			],
+			"people": 11,
+			"messageInformationId": [
+				93
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 94,
+			"textId": 93,
+			"weight": 50,
+			"firstMsg": [
+				711012
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 95,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 2,
+			"weight": 50,
+			"firstMsg": [
+				711013,
+				711014
+			],
+			"people": 12,
+			"messageInformationId": [
+				95
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 96,
+			"textId": 95,
+			"weight": 50,
+			"firstMsg": [
+				711015
+			],
+			"people": 11,
+			"messageInformationId": [
+				96
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 97,
+			"textId": 96,
+			"weight": 50,
+			"firstMsg": [
+				711016
+			],
+			"people": 12,
+			"messageInformationId": [
+				97
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 98,
+			"textId": 97,
+			"weight": 50,
+			"firstMsg": [
+				711017
+			],
+			"people": 11,
+			"messageInformationId": [
+				98
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 99,
+			"textId": 98,
+			"weight": 50,
+			"firstMsg": [
+				711018,
+				711019
+			],
+			"people": 12,
+			"messageInformationId": [
+				99
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 100,
+			"textId": 99,
+			"weight": 50,
+			"firstMsg": [
+				711020
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 101,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 3,
+			"weight": 50,
+			"firstMsg": [
+				711021,
+				711022
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 102,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 4,
+			"weight": 50,
+			"firstMsg": [
+				711023
+			],
+			"people": 12,
+			"messageInformationId": [
+				102
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 103,
+			"textId": 102,
+			"weight": 50,
+			"firstMsg": [
+				711024
+			],
+			"people": 11,
+			"messageInformationId": [
+				103
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 104,
+			"textId": 103,
+			"weight": 50,
+			"firstMsg": [
+				711025,
+				711026
+			],
+			"people": 12,
+			"messageInformationId": [
+				104
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 105,
+			"textId": 104,
+			"weight": 50,
+			"firstMsg": [
+				711027
+			],
+			"people": 11,
+			"messageInformationId": [
+				105
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 106,
+			"textId": 105,
+			"weight": 50,
+			"firstMsg": [
+				711027
+			],
+			"people": 12,
+			"messageInformationId": [
+				106
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 107,
+			"textId": 106,
+			"weight": 50,
+			"firstMsg": [
+				711029,
+				711030
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 108,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 5,
+			"weight": 50,
+			"firstMsg": [
+				711031
+			],
+			"people": 12,
+			"messageInformationId": [
+				108
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 109,
+			"textId": 108,
+			"weight": 50,
+			"firstMsg": [
+				711032,
+				711033,
+				711034
+			],
+			"people": 11,
+			"messageInformationId": [
+				109
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 110,
+			"textId": 109,
+			"weight": 50,
+			"firstMsg": [
+				711035,
+				711036,
+				711037
+			],
+			"people": 12,
+			"messageInformationId": [
+				110
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 111,
+			"textId": 110,
+			"weight": 50,
+			"firstMsg": [
+				711038,
+				711039,
+				711040
+			],
+			"people": 11,
+			"messageInformationId": [
+				111
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 112,
+			"textId": 111,
+			"weight": 50,
+			"firstMsg": [
+				711041,
+				711042
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 113,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 6,
+			"weight": 50,
+			"firstMsg": [
+				711043,
+				711044
+			],
+			"people": 12,
+			"messageInformationId": [
+				113
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 114,
+			"textId": 113,
+			"weight": 50,
+			"firstMsg": [
+				711045,
+				711046
+			],
+			"people": 11,
+			"messageInformationId": [
+				114
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 115,
+			"textId": 114,
+			"weight": 50,
+			"firstMsg": [
+				711047,
+				711048
+			],
+			"people": 12,
+			"messageInformationId": [
+				115
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 116,
+			"textId": 115,
+			"weight": 50,
+			"firstMsg": [
+				711049,
+				711050,
+				711051
+			],
+			"people": 11,
+			"messageInformationId": [
+				116
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 117,
+			"textId": 116,
+			"weight": 50,
+			"firstMsg": [
+				711052,
+				711053,
+				711054,
+				711055
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 118,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 7,
+			"weight": 50,
+			"firstMsg": [
+				711056,
+				711057,
+				711058
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 119,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 8,
+			"weight": 50,
+			"firstMsg": [
+				711059
+			],
+			"people": 12,
+			"messageInformationId": [
+				119
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 121,
+			"textId": 120,
+			"weight": 50,
+			"firstMsg": [
+				711063,
+				711064,
+				711065
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 122,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 9,
+			"weight": 50,
+			"firstMsg": [
+				711066,
+				711067,
+				711068
+			],
+			"people": 12,
+			"messageInformationId": [
+				122
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 123,
+			"textId": 122,
+			"weight": 50,
+			"firstMsg": [
+				711069,
+				711070,
+				711071
+			],
+			"people": 11,
+			"messageInformationId": [
+				123
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 124,
+			"textId": 123,
+			"weight": 50,
+			"firstMsg": [
+				711072,
+				711073
+			],
+			"people": 12,
+			"messageInformationId": [
+				124
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 125,
+			"textId": 124,
+			"weight": 50,
+			"firstMsg": [
+				711074,
+				711075,
+				711076
+			],
+			"people": 11,
+			"messageInformationId": [
+				125
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 126,
+			"textId": 125,
+			"weight": 50,
+			"firstMsg": [
+				711077,
+				711078,
+				711079
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 127,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 10,
+			"weight": 50,
+			"firstMsg": [
+				711080,
+				711081
+			],
+			"people": 12,
+			"messageInformationId": [
+				127
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 128,
+			"textId": 127,
+			"weight": 50,
+			"firstMsg": [
+				711082
+			],
+			"people": 11,
+			"messageInformationId": [
+				128
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 129,
+			"textId": 128,
+			"weight": 50,
+			"firstMsg": [
+				711083,
+				711084,
+				711085
+			],
+			"people": 12,
+			"messageInformationId": [
+				129
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 130,
+			"textId": 129,
+			"weight": 50,
+			"firstMsg": [
+				711086,
+				711087,
+				711088
+			],
+			"people": 11,
+			"messageInformationId": [
+				130
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 131,
+			"textId": 130,
+			"weight": 50,
+			"firstMsg": [
+				711089,
+				711090
+			],
+			"people": 12,
+			"messageInformationId": [
+				131
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 132,
+			"textId": 131,
+			"weight": 50,
+			"firstMsg": [
+				711091
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 133,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 11,
+			"weight": 50,
+			"firstMsg": [
+				711092,
+				711093
+			],
+			"people": 12,
+			"messageInformationId": [
+				133
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 134,
+			"textId": 133,
+			"weight": 50,
+			"firstMsg": [
+				711094,
+				711095,
+				711096,
+				711097
+			],
+			"people": 11,
+			"messageInformationId": [
+				134
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 135,
+			"textId": 134,
+			"weight": 50,
+			"firstMsg": [
+				711098,
+				711099,
+				711100
+			],
+			"people": 12,
+			"messageInformationId": [
+				135,
+				138
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 136,
+			"textId": 135,
+			"weight": 50,
+			"firstMsg": [
+				711101,
+				711102,
+				711103,
+				711104
+			],
+			"people": 11,
+			"messageInformationId": [
+				136
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 137,
+			"textId": 136,
+			"weight": 50,
+			"firstMsg": [
+				711105,
+				711106
+			],
+			"people": 12,
+			"messageInformationId": [
+				137
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 138,
+			"textId": 137,
+			"weight": 50,
+			"firstMsg": [
+				711107,
+				711108
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 139,
+			"textId": 138,
+			"weight": 50,
+			"firstMsg": [
+				711109,
+				711110
+			],
+			"people": 11,
+			"messageInformationId": [
+				139
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 140,
+			"textId": 139,
+			"weight": 50,
+			"firstMsg": [
+				711111,
+				711112
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 141,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 12,
+			"weight": 50,
+			"firstMsg": [
+				711113,
+				711114
+			],
+			"people": 12,
+			"messageEffect": {},
+			"messageInformationId": []
+		},
+		{
+			"id": 142,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 13,
+			"weight": 50,
+			"firstMsg": [
+				711115
+			],
+			"people": 12,
+			"messageInformationId": [
+				142
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 143,
+			"textId": 142,
+			"weight": 50,
+			"firstMsg": [
+				711116,
+				711117
+			],
+			"people": 11,
+			"messageInformationId": [
+				143
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 144,
+			"textId": 143,
+			"weight": 50,
+			"firstMsg": [
+				711118
+			],
+			"people": 12,
+			"messageInformationId": [
+				144
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 145,
+			"textId": 144,
+			"weight": 50,
+			"firstMsg": [
+				711119
+			],
+			"people": 11,
+			"messageInformationId": [
+				145
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 146,
+			"textId": 145,
+			"weight": 50,
+			"firstMsg": [
+				711120
+			],
+			"people": 12,
+			"messageInformationId": [
+				146
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 147,
+			"textId": 146,
+			"weight": 50,
+			"firstMsg": [
+				711121
+			],
+			"people": 11,
+			"messageInformationId": [
+				147
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 148,
+			"textId": 147,
+			"weight": 50,
+			"firstMsg": [
+				711122,
+				711123
+			],
+			"people": 12,
+			"messageInformationId": [
+				148
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 149,
+			"textId": 148,
+			"weight": 50,
+			"firstMsg": [
+				711124,
+				711125
+			],
+			"people": 11,
+			"messageInformationId": [
+				149
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 150,
+			"textId": 149,
+			"weight": 50,
+			"firstMsg": [
+				711126
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 151,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 14,
+			"weight": 50,
+			"firstMsg": [
+				711127,
+				711128
+			],
+			"people": 12,
+			"messageInformationId": [
+				151
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 152,
+			"textId": 151,
+			"weight": 50,
+			"firstMsg": [
+				711129,
+				711130
+			],
+			"people": 11,
+			"messageInformationId": [
+				152
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 153,
+			"textId": 152,
+			"weight": 50,
+			"firstMsg": [
+				711031
+			],
+			"people": 12,
+			"messageInformationId": [
+				153
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 154,
+			"textId": 153,
+			"weight": 50,
+			"firstMsg": [
+				711132,
+				711133
+			],
+			"people": 11,
+			"messageInformationId": [
+				154
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 155,
+			"textId": 154,
+			"weight": 50,
+			"firstMsg": [
+				711134,
+				711135
+			],
+			"people": 12,
+			"messageInformationId": [
+				155
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 156,
+			"textId": 155,
+			"weight": 50,
+			"firstMsg": [
+				711136,
+				711137
+			],
+			"people": 11,
+			"messageInformationId": [
+				156
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 157,
+			"textId": 156,
+			"weight": 50,
+			"firstMsg": [
+				711038
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 158,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 15,
+			"weight": 50,
+			"firstMsg": [
+				711039
+			],
+			"people": 12,
+			"messageInformationId": [
+				158
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 159,
+			"textId": 158,
+			"weight": 50,
+			"firstMsg": [
+				711040
+			],
+			"people": 11,
+			"messageInformationId": [
+				159
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 160,
+			"textId": 159,
+			"weight": 50,
+			"firstMsg": [
+				711141,
+				711142
+			],
+			"people": 12,
+			"messageInformationId": [
+				160
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 161,
+			"textId": 160,
+			"weight": 50,
+			"firstMsg": [
+				711143,
+				711144
+			],
+			"people": 11,
+			"messageInformationId": [
+				161
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 162,
+			"textId": 161,
+			"weight": 50,
+			"firstMsg": [
+				711145,
+				711146
+			],
+			"people": 12,
+			"messageInformationId": [
+				162
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 163,
+			"textId": 162,
+			"weight": 50,
+			"firstMsg": [
+				711147,
+				711148
+			],
+			"people": 11,
+			"messageInformationId": [
+				163
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 164,
+			"textId": 163,
+			"weight": 50,
+			"firstMsg": [
+				711149,
+				711150
+			],
+			"people": 12,
+			"messageInformationId": [
+				164
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 165,
+			"textId": 164,
+			"weight": 50,
+			"firstMsg": [
+				711151,
+				711152,
+				711153
+			],
+			"people": 11,
+			"messageInformationId": [
+				165
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 166,
+			"textId": 165,
+			"weight": 50,
+			"firstMsg": [
+				711154
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 167,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 16,
+			"weight": 50,
+			"firstMsg": [
+				711155,
+				711156
+			],
+			"people": 12,
+			"messageInformationId": [
+				167
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 168,
+			"textId": 167,
+			"weight": 50,
+			"firstMsg": [
+				711157,
+				711158
+			],
+			"people": 11,
+			"messageInformationId": [
+				168
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 169,
+			"textId": 168,
+			"weight": 50,
+			"firstMsg": [
+				711159
+			],
+			"people": 12,
+			"messageInformationId": [
+				169
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 170,
+			"textId": 169,
+			"weight": 50,
+			"firstMsg": [
+				711160,
+				711161
+			],
+			"people": 11,
+			"messageInformationId": [
+				170
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 171,
+			"textId": 170,
+			"weight": 50,
+			"firstMsg": [
+				711162,
+				711163
+			],
+			"people": 12,
+			"messageInformationId": [
+				171,
+				173
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 172,
+			"textId": 171,
+			"weight": 50,
+			"firstMsg": [
+				711164,
+				711165
+			],
+			"people": 11,
+			"messageInformationId": [
+				172
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 173,
+			"textId": 172,
+			"weight": 50,
+			"firstMsg": [
+				711166,
+				711167,
+				711168
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 174,
+			"textId": 173,
+			"weight": 50,
+			"firstMsg": [
+				711169,
+				711170
+			],
+			"people": 11,
+			"messageInformationId": [
+				174
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 175,
+			"textId": 174,
+			"weight": 50,
+			"firstMsg": [
+				711171,
+				711172,
+				711173
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 176,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 17,
+			"weight": 50,
+			"firstMsg": [
+				711174
+			],
+			"people": 12,
+			"messageInformationId": [
+				176
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 177,
+			"textId": 176,
+			"weight": 50,
+			"firstMsg": [
+				711175,
+				711176
+			],
+			"people": 11,
+			"messageInformationId": [
+				177
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 178,
+			"textId": 177,
+			"weight": 50,
+			"firstMsg": [
+				711177,
+				711178
+			],
+			"people": 12,
+			"messageInformationId": [
+				178
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 179,
+			"textId": 178,
+			"weight": 50,
+			"firstMsg": [
+				711179,
+				711180
+			],
+			"people": 11,
+			"messageInformationId": [
+				179
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 180,
+			"textId": 179,
+			"weight": 50,
+			"firstMsg": [
+				711181
+			],
+			"people": 12,
+			"messageInformationId": [
+				180
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 181,
+			"textId": 180,
+			"weight": 50,
+			"firstMsg": [
+				711182
+			],
+			"people": 11,
+			"messageInformationId": [
+				181
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 182,
+			"textId": 181,
+			"weight": 50,
+			"firstMsg": [
+				711183,
+				711184
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 183,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 18,
+			"weight": 50,
+			"firstMsg": [
+				711185
+			],
+			"people": 12,
+			"messageInformationId": [
+				183
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 184,
+			"textId": 183,
+			"weight": 50,
+			"firstMsg": [
+				711186,
+				711187
+			],
+			"people": 11,
+			"messageInformationId": [
+				184
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 185,
+			"textId": 184,
+			"weight": 50,
+			"firstMsg": [
+				711188,
+				711189,
+				711190
+			],
+			"people": 12,
+			"messageInformationId": [
+				185
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 186,
+			"textId": 185,
+			"weight": 50,
+			"firstMsg": [
+				711191,
+				711192,
+				711193
+			],
+			"people": 11,
+			"messageInformationId": [
+				186
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 187,
+			"textId": 186,
+			"weight": 50,
+			"firstMsg": [
+				711194
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 188,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 19,
+			"weight": 50,
+			"firstMsg": [
+				711195,
+				711196
+			],
+			"people": 12,
+			"messageInformationId": [
+				188
+			],
+			"messageEffect": {}
+		},
+		{
+			"id": 189,
+			"textId": 188,
+			"weight": 50,
+			"firstMsg": [
+				711197
+			],
+			"people": 11,
+			"messageInformationId": [
+				189
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 190,
+			"textId": 189,
+			"weight": 50,
+			"firstMsg": [
+				711198
+			],
+			"people": 12,
+			"messageInformationId": [
+				190
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 191,
+			"textId": 190,
+			"weight": 50,
+			"firstMsg": [
+				711199
+			],
+			"people": 11,
+			"messageInformationId": [
+				191
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {}
+		},
+		{
+			"id": 192,
+			"textId": 191,
+			"weight": 50,
+			"firstMsg": [
+				711200,
+				711201,
+				711202,
+				711203
+			],
+			"limitOption": 0,
+			"priority": 0,
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		},
+		{
+			"id": 193,
+			"textId": 710001,
+			"limitOption": 1,
+			"priority": 20,
+			"weight": 50,
+			"firstMsg": [
+				711204,
+				711205
+			],
+			"messageEffect": {},
+			"people": 0,
+			"messageInformationId": []
+		}
+	]
 }

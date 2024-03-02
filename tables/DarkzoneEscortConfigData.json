@@ -1,508 +1,508 @@
 {
-    "data": [
-        {
-            "id": 101,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 102,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 103,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 104,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 105,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 106,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 107,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 108,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 109,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 110,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 111,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 280,
-            "moveRespond": 360,
-            "lostTime": 30,
-            "tempControl": true,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 180,
-            "carrierDebuff": 10036,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false
-        },
-        {
-            "id": 201,
-            "maxHp": 2000,
-            "birthHp": 2000,
-            "speed": 250,
-            "moveRespond": 360,
-            "lostTime": 90,
-            "switchControl": true,
-            "maxTemp": 200,
-            "riseTemp": 5,
-            "declineTemp": 50,
-            "tempRate": [
-                0,
-                250,
-                500,
-                750
-            ],
-            "bleedTurn": [
-                1
-            ],
-            "odBleedTurn": [
-                1
-            ],
-            "bleedNum": [
-                100
-            ],
-            "odBleedNum": [
-                150
-            ],
-            "battleLost": 100,
-            "isRevert": true,
-            "revertTempRise": 1000,
-            "revertSpeed": 200,
-            "recoverHp": 0,
-            "lostAlarm": 0,
-            "lostExchange": 0,
-            "tempControl": false,
-            "birthTemp": 0,
-            "odRelieveTemp": 0,
-            "isRoomBattle": false,
-            "carrierDebuff": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 101,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 102,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 103,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 104,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 105,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 106,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 107,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 108,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 109,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 110,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 111,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 280,
+			"moveRespond": 360,
+			"lostTime": 30,
+			"tempControl": true,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 180,
+			"carrierDebuff": 10036,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false
+		},
+		{
+			"id": 201,
+			"maxHp": 2000,
+			"birthHp": 2000,
+			"speed": 250,
+			"moveRespond": 360,
+			"lostTime": 90,
+			"switchControl": true,
+			"maxTemp": 200,
+			"riseTemp": 5,
+			"declineTemp": 50,
+			"tempRate": [
+				0,
+				250,
+				500,
+				750
+			],
+			"bleedTurn": [
+				1
+			],
+			"odBleedTurn": [
+				1
+			],
+			"bleedNum": [
+				100
+			],
+			"odBleedNum": [
+				150
+			],
+			"battleLost": 100,
+			"isRevert": true,
+			"revertTempRise": 1000,
+			"revertSpeed": 200,
+			"recoverHp": 0,
+			"lostAlarm": 0,
+			"lostExchange": 0,
+			"tempControl": false,
+			"birthTemp": 0,
+			"odRelieveTemp": 0,
+			"isRoomBattle": false,
+			"carrierDebuff": 0
+		}
+	]
 }

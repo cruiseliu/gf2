@@ -1,158 +1,146 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "sequence": 1,
-            "title": "物理",
-            "itemType": [
-                21
-            ],
-            "args": [
-                1
-            ],
-            "icon": ""
-        },
-        {
-            "id": 2,
-            "sequence": 2,
-            "title": "燃烧",
-            "itemType": [
-                21
-            ],
-            "args": [
-                2
-            ],
-            "icon": ""
-        },
-        {
-            "id": 3,
-            "sequence": 3,
-            "title": "电导",
-            "itemType": [
-                21
-            ],
-            "args": [
-                3
-            ],
-            "icon": ""
-        },
-        {
-            "id": 4,
-            "sequence": 4,
-            "title": "冷凝",
-            "itemType": [
-                21
-            ],
-            "args": [
-                4
-            ],
-            "icon": ""
-        },
-        {
-            "id": 5,
-            "sequence": 5,
-            "title": "酸蚀",
-            "itemType": [
-                21
-            ],
-            "args": [
-                5
-            ],
-            "icon": ""
-        },
-        {
-            "id": 11,
-            "sequence": 11,
-            "title": "泛用",
-            "itemType": [
-                31
-            ],
-            "args": [
-                0
-            ],
-            "icon": ""
-        },
-        {
-            "id": 12,
-            "sequence": 12,
-            "title": "防卫",
-            "itemType": [
-                31
-            ],
-            "args": [
-                1
-            ],
-            "icon": ""
-        },
-        {
-            "id": 13,
-            "sequence": 13,
-            "title": "尖兵",
-            "itemType": [
-                31
-            ],
-            "args": [
-                2
-            ],
-            "icon": ""
-        },
-        {
-            "id": 14,
-            "sequence": 14,
-            "title": "支援",
-            "itemType": [
-                31
-            ],
-            "args": [
-                3
-            ],
-            "icon": ""
-        },
-        {
-            "id": 15,
-            "sequence": 15,
-            "title": "火力",
-            "itemType": [
-                31
-            ],
-            "args": [
-                4
-            ],
-            "icon": ""
-        },
-        {
-            "id": 21,
-            "sequence": 4,
-            "title": "道具箱",
-            "itemType": [
-                8,
-                105,
-                106,
-                107,
-                110
-            ],
-            "icon": "",
-            "args": []
-        },
-        {
-            "id": 401,
-            "sequence": 16,
-            "title": "心智存档",
-            "itemType": [
-                11
-            ],
-            "icon": "",
-            "args": []
-        },
-        {
-            "id": 402,
-            "sequence": 17,
-            "title": "武器蓝图",
-            "itemType": [
-                38
-            ],
-            "icon": "",
-            "args": []
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"sequence": 1,
+			"title": "物理",
+			"itemType": [
+				21
+			],
+			"args": [
+				1
+			],
+			"icon": ""
+		},
+		{
+			"id": 2,
+			"sequence": 2,
+			"title": "燃烧",
+			"itemType": [
+				21
+			],
+			"args": [
+				2
+			],
+			"icon": ""
+		},
+		{
+			"id": 3,
+			"sequence": 3,
+			"title": "电导",
+			"itemType": [
+				21
+			],
+			"args": [
+				3
+			],
+			"icon": ""
+		},
+		{
+			"id": 4,
+			"sequence": 4,
+			"title": "冷凝",
+			"itemType": [
+				21
+			],
+			"args": [
+				4
+			],
+			"icon": ""
+		},
+		{
+			"id": 5,
+			"sequence": 5,
+			"title": "酸蚀",
+			"itemType": [
+				21
+			],
+			"args": [
+				5
+			],
+			"icon": ""
+		},
+		{
+			"id": 12,
+			"sequence": 12,
+			"title": "防卫",
+			"itemType": [
+				31
+			],
+			"args": [
+				1
+			],
+			"icon": ""
+		},
+		{
+			"id": 13,
+			"sequence": 13,
+			"title": "尖兵",
+			"itemType": [
+				31
+			],
+			"args": [
+				2
+			],
+			"icon": ""
+		},
+		{
+			"id": 14,
+			"sequence": 14,
+			"title": "支援",
+			"itemType": [
+				31
+			],
+			"args": [
+				3
+			],
+			"icon": ""
+		},
+		{
+			"id": 15,
+			"sequence": 15,
+			"title": "火力",
+			"itemType": [
+				31
+			],
+			"args": [
+				4
+			],
+			"icon": ""
+		},
+		{
+			"id": 21,
+			"sequence": 4,
+			"title": "道具箱",
+			"itemType": [
+				8,
+				105,
+				106,
+				107,
+				110
+			],
+			"icon": "",
+			"args": []
+		},
+		{
+			"id": 401,
+			"sequence": 16,
+			"title": "心智存档",
+			"itemType": [
+				11
+			],
+			"icon": "",
+			"args": []
+		},
+		{
+			"id": 402,
+			"sequence": 17,
+			"title": "武器蓝图",
+			"itemType": [
+				38
+			],
+			"icon": "",
+			"args": []
+		}
+	]
 }

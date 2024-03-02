@@ -1,135 +1,135 @@
 {
-    "data": [
-        {
-            "gradeId": 1,
-            "gradeGroup": 1011,
-            "level": 1,
-            "taskGroup": 101101,
-            "idleLevel": 1,
-            "avatarCd": 60,
-            "avatarId": [
-                3001
-            ],
-            "menuMax": 1,
-            "shopMax": 1,
-            "dailyLimit": 2,
-            "uavMax": 1,
-            "gradeName": "下",
-            "packageLimit": 9999
-        },
-        {
-            "gradeId": 2,
-            "gradeGroup": 1011,
-            "level": 2,
-            "taskGroup": 101102,
-            "idleLevel": 1,
-            "avatarCd": 60,
-            "avatarId": [
-                3001,
-                3002
-            ],
-            "menuMax": 2,
-            "shopMax": 1,
-            "dailyLimit": 2,
-            "uavMax": 2,
-            "gradeName": "下+",
-            "packageLimit": 9999
-        },
-        {
-            "gradeId": 3,
-            "gradeGroup": 1011,
-            "level": 3,
-            "taskGroup": 101103,
-            "idleLevel": 1,
-            "avatarCd": 60,
-            "avatarId": [
-                3001,
-                3002
-            ],
-            "menuMax": 3,
-            "shopMax": 2,
-            "dailyLimit": 2,
-            "uavMax": 3,
-            "gradeName": "中",
-            "packageLimit": 9999
-        },
-        {
-            "gradeId": 4,
-            "gradeGroup": 1011,
-            "level": 4,
-            "taskGroup": 101104,
-            "idleLevel": 2,
-            "avatarCd": 60,
-            "avatarId": [
-                3001,
-                3002,
-                3003
-            ],
-            "menuMax": 4,
-            "shopMax": 2,
-            "dailyLimit": 2,
-            "uavMax": 4,
-            "gradeName": "中+",
-            "packageLimit": 9999
-        },
-        {
-            "gradeId": 5,
-            "gradeGroup": 1011,
-            "level": 5,
-            "taskGroup": 101105,
-            "idleLevel": 2,
-            "avatarCd": 60,
-            "avatarId": [
-                3001,
-                3002,
-                3003
-            ],
-            "menuMax": 5,
-            "shopMax": 3,
-            "dailyLimit": 2,
-            "uavMax": 5,
-            "gradeName": "上",
-            "packageLimit": 9999
-        },
-        {
-            "gradeId": 6,
-            "gradeGroup": 1011,
-            "level": 6,
-            "taskGroup": 101106,
-            "idleLevel": 3,
-            "avatarCd": 60,
-            "avatarId": [
-                3001,
-                3002,
-                3003,
-                3004
-            ],
-            "menuMax": 6,
-            "shopMax": 3,
-            "dailyLimit": 2,
-            "uavMax": 6,
-            "gradeName": "上+",
-            "packageLimit": 9999
-        },
-        {
-            "gradeId": 7,
-            "gradeGroup": 1011,
-            "level": 7,
-            "idleLevel": 4,
-            "avatarCd": 60,
-            "avatarId": [
-                3001,
-                3002,
-                3003,
-                3004
-            ],
-            "menuMax": 6,
-            "shopMax": 4,
-            "dailyLimit": 2,
-            "uavMax": 6,
-            "gradeName": "优",
-            "packageLimit": 9999,
-            "taskGroup": 0
-        }
-    ]
+	"data": [
+		{
+			"gradeId": 1,
+			"gradeGroup": 1011,
+			"level": 1,
+			"taskGroup": 101101,
+			"idleLevel": 1,
+			"avatarCd": 60,
+			"avatarId": [
+				3001
+			],
+			"menuMax": 1,
+			"shopMax": 1,
+			"dailyLimit": 2,
+			"uavMax": 1,
+			"gradeName": "下",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 2,
+			"gradeGroup": 1011,
+			"level": 2,
+			"taskGroup": 101102,
+			"idleLevel": 1,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002
+			],
+			"menuMax": 2,
+			"shopMax": 1,
+			"dailyLimit": 2,
+			"uavMax": 2,
+			"gradeName": "下+",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 3,
+			"gradeGroup": 1011,
+			"level": 3,
+			"taskGroup": 101103,
+			"idleLevel": 1,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002
+			],
+			"menuMax": 3,
+			"shopMax": 2,
+			"dailyLimit": 2,
+			"uavMax": 3,
+			"gradeName": "中",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 4,
+			"gradeGroup": 1011,
+			"level": 4,
+			"taskGroup": 101104,
+			"idleLevel": 2,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002,
+				3003
+			],
+			"menuMax": 4,
+			"shopMax": 2,
+			"dailyLimit": 2,
+			"uavMax": 4,
+			"gradeName": "中+",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 5,
+			"gradeGroup": 1011,
+			"level": 5,
+			"taskGroup": 101105,
+			"idleLevel": 2,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002,
+				3003
+			],
+			"menuMax": 5,
+			"shopMax": 3,
+			"dailyLimit": 2,
+			"uavMax": 5,
+			"gradeName": "上",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 6,
+			"gradeGroup": 1011,
+			"level": 6,
+			"taskGroup": 101106,
+			"idleLevel": 3,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002,
+				3003,
+				3004
+			],
+			"menuMax": 6,
+			"shopMax": 3,
+			"dailyLimit": 2,
+			"uavMax": 6,
+			"gradeName": "上+",
+			"packageLimit": 9999
+		},
+		{
+			"gradeId": 7,
+			"gradeGroup": 1011,
+			"level": 7,
+			"idleLevel": 4,
+			"avatarCd": 60,
+			"avatarId": [
+				3001,
+				3002,
+				3003,
+				3004
+			],
+			"menuMax": 6,
+			"shopMax": 4,
+			"dailyLimit": 2,
+			"uavMax": 6,
+			"gradeName": "优",
+			"packageLimit": 9999,
+			"taskGroup": 0
+		}
+	]
 }

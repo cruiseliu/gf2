@@ -1,318 +1,318 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "title": "系统刷新(助战，体力)",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 2,
-            "title": "休息室刷新",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 4,
-            "title": "任务每日刷新(日常)",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 5,
-            "title": "任务每周刷新(周常)",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {}
-        },
-        {
-            "id": 6,
-            "title": "战斗刷新(金币本，爬塔本，扫荡)",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 7,
-            "title": "玩法次数每日刷新",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 8,
-            "title": "玩法次数每周刷新",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {}
-        },
-        {
-            "id": 9,
-            "title": "暗区功能每日刷新",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "354": 1
-            },
-            "args2": ""
-        },
-        {
-            "id": 10,
-            "title": "暗区功能每周刷新",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {}
-        },
-        {
-            "id": 11,
-            "title": "签到每日更新时间",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 12,
-            "title": "商城（黑市手动刷新次数，商城好感)",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 13,
-            "title": "实兵演习每日刷新",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "102": 3
-            },
-            "args2": ""
-        },
-        {
-            "id": 14,
-            "title": "实兵演习每周刷新",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {}
-        },
-        {
-            "id": 15,
-            "title": "battlepass每日任务",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 16,
-            "title": "battlepass每周任务",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {}
-        },
-        {
-            "id": 17,
-            "title": "battlepass添加任务",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 18,
-            "title": "battlepass协作任务",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 19,
-            "title": "秘境每周刷新",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {}
-        },
-        {
-            "id": 20,
-            "title": "计数系统每日刷新",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 21,
-            "title": "计数系统每周刷新",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {}
-        },
-        {
-            "id": 22,
-            "title": "暗区任务模式每日可完成次数",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "311": 9999
-            },
-            "args2": ""
-        },
-        {
-            "id": 23,
-            "title": "艾莫号活动刷新时间",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 24,
-            "title": "周常本重置时间",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {
-                "304": 3
-            }
-        },
-        {
-            "id": 25,
-            "title": "经验日常副本挑战次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "300": 4
-            },
-            "args2": ""
-        },
-        {
-            "id": 26,
-            "title": "心智日常副本挑战次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "302": 2
-            },
-            "args2": ""
-        },
-        {
-            "id": 27,
-            "title": "武器经验日常副本挑战次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "305": 4
-            },
-            "args2": ""
-        },
-        {
-            "id": 28,
-            "title": "金币日常副本挑战次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "301": 2
-            },
-            "args2": ""
-        },
-        {
-            "id": 29,
-            "title": "新手7日活动刷新时间",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 30,
-            "title": "累计登录天",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        },
-        {
-            "id": 31,
-            "title": "心智防卫日常副本次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "355": 2
-            },
-            "args2": ""
-        },
-        {
-            "id": 32,
-            "title": "心智尖兵日常副本次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "356": 2
-            },
-            "args2": ""
-        },
-        {
-            "id": 33,
-            "title": "心智支援日常副本次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "357": 2
-            },
-            "args2": ""
-        },
-        {
-            "id": 34,
-            "title": "心智火力日常副本次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "358": 2
-            },
-            "args2": ""
-        },
-        {
-            "id": 35,
-            "title": "配件本日常副本次数重置时间",
-            "type": 1,
-            "args1": "5:0",
-            "recoveryItems": {
-                "359": 2
-            },
-            "args2": ""
-        },
-        {
-            "id": 36,
-            "title": "扩编战轮换模式-每周刷新",
-            "type": 2,
-            "args1": "5:0",
-            "args2": "1",
-            "recoveryItems": {}
-        },
-        {
-            "id": 37,
-            "title": "连战塔无尽塔每日刷新时间（解锁、次数回复）",
-            "type": 1,
-            "args1": "5:0",
-            "args2": "",
-            "recoveryItems": {}
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"title": "系统刷新(助战，体力)",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 2,
+			"title": "休息室刷新",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 4,
+			"title": "任务每日刷新(日常)",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 5,
+			"title": "任务每周刷新(周常)",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {}
+		},
+		{
+			"id": 6,
+			"title": "战斗刷新(金币本，爬塔本，扫荡)",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 7,
+			"title": "玩法次数每日刷新",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 8,
+			"title": "玩法次数每周刷新",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {}
+		},
+		{
+			"id": 9,
+			"title": "暗区功能每日刷新",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"354": 1
+			},
+			"args2": ""
+		},
+		{
+			"id": 10,
+			"title": "暗区功能每周刷新",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {}
+		},
+		{
+			"id": 11,
+			"title": "签到每日更新时间",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 12,
+			"title": "商城（黑市手动刷新次数，商城好感)",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 13,
+			"title": "实兵演习每日刷新",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"102": 3
+			},
+			"args2": ""
+		},
+		{
+			"id": 14,
+			"title": "实兵演习每周刷新",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {}
+		},
+		{
+			"id": 15,
+			"title": "battlepass每日任务",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 16,
+			"title": "battlepass每周任务",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {}
+		},
+		{
+			"id": 17,
+			"title": "battlepass添加任务",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 18,
+			"title": "battlepass协作任务",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 19,
+			"title": "秘境每周刷新",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {}
+		},
+		{
+			"id": 20,
+			"title": "计数系统每日刷新",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 21,
+			"title": "计数系统每周刷新",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {}
+		},
+		{
+			"id": 22,
+			"title": "暗区任务模式每日可完成次数",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"311": 9999
+			},
+			"args2": ""
+		},
+		{
+			"id": 23,
+			"title": "艾莫号活动刷新时间",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 24,
+			"title": "周常本重置时间",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {
+				"304": 3
+			}
+		},
+		{
+			"id": 25,
+			"title": "经验日常副本挑战次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"300": 4
+			},
+			"args2": ""
+		},
+		{
+			"id": 26,
+			"title": "心智日常副本挑战次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"302": 2
+			},
+			"args2": ""
+		},
+		{
+			"id": 27,
+			"title": "武器经验日常副本挑战次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"305": 4
+			},
+			"args2": ""
+		},
+		{
+			"id": 28,
+			"title": "金币日常副本挑战次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"301": 2
+			},
+			"args2": ""
+		},
+		{
+			"id": 29,
+			"title": "新手7日活动刷新时间",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 30,
+			"title": "累计登录天",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		},
+		{
+			"id": 31,
+			"title": "心智防卫日常副本次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"355": 2
+			},
+			"args2": ""
+		},
+		{
+			"id": 32,
+			"title": "心智尖兵日常副本次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"356": 2
+			},
+			"args2": ""
+		},
+		{
+			"id": 33,
+			"title": "心智支援日常副本次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"357": 2
+			},
+			"args2": ""
+		},
+		{
+			"id": 34,
+			"title": "心智火力日常副本次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"358": 2
+			},
+			"args2": ""
+		},
+		{
+			"id": 35,
+			"title": "配件本日常副本次数重置时间",
+			"type": 1,
+			"args1": "5:0",
+			"recoveryItems": {
+				"359": 2
+			},
+			"args2": ""
+		},
+		{
+			"id": 36,
+			"title": "扩编战轮换模式-每周刷新",
+			"type": 2,
+			"args1": "5:0",
+			"args2": "1",
+			"recoveryItems": {}
+		},
+		{
+			"id": 37,
+			"title": "连战塔无尽塔每日刷新时间（解锁、次数回复）",
+			"type": 1,
+			"args1": "5:0",
+			"args2": "",
+			"recoveryItems": {}
+		}
+	]
 }

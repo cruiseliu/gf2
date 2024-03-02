@@ -1,44 +1,44 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "group": 101,
-            "desc": "每日积分",
-            "conditionClass": 901,
-            "conditionNum": 1,
-            "point": 6,
-            "buttonTxt": "领取",
-            "questIcon": "Img_GashaponPic_W_1"
-        },
-        {
-            "id": 2,
-            "group": 101,
-            "desc": "完成问答1次",
-            "conditionClass": 902,
-            "conditionNum": 1,
-            "point": 10,
-            "buttonTxt": "答题",
-            "questIcon": "Img_GashaponPic_W_1"
-        },
-        {
-            "id": 3,
-            "group": 102,
-            "desc": "每日积分",
-            "conditionClass": 901,
-            "conditionNum": 1,
-            "point": 6,
-            "buttonTxt": "领取",
-            "questIcon": "Img_GashaponPic_W_1"
-        },
-        {
-            "id": 4,
-            "group": 102,
-            "desc": "完成问答1次",
-            "conditionClass": 902,
-            "conditionNum": 1,
-            "point": 10,
-            "buttonTxt": "答题",
-            "questIcon": "Img_GashaponPic_W_1"
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"group": 101,
+			"desc": "每日积分",
+			"conditionClass": 901,
+			"conditionNum": 1,
+			"point": 6,
+			"buttonTxt": "领取",
+			"questIcon": "Img_GashaponPic_W_1"
+		},
+		{
+			"id": 2,
+			"group": 101,
+			"desc": "完成问答1次",
+			"conditionClass": 902,
+			"conditionNum": 1,
+			"point": 10,
+			"buttonTxt": "答题",
+			"questIcon": "Img_GashaponPic_W_1"
+		},
+		{
+			"id": 3,
+			"group": 102,
+			"desc": "每日积分",
+			"conditionClass": 901,
+			"conditionNum": 1,
+			"point": 6,
+			"buttonTxt": "领取",
+			"questIcon": "Img_GashaponPic_W_1"
+		},
+		{
+			"id": 4,
+			"group": 102,
+			"desc": "完成问答1次",
+			"conditionClass": 902,
+			"conditionNum": 1,
+			"point": 10,
+			"buttonTxt": "答题",
+			"questIcon": "Img_GashaponPic_W_1"
+		}
+	]
 }

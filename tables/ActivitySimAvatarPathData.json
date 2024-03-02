@@ -1,768 +1,768 @@
 {
-    "data": [
-        {
-            "pathId": 1,
-            "pathGroup": 11001,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 999,
-            "point1": {
-                "1011002": 99999.0
-            },
-            "point2": {},
-            "point3": {},
-            "point4": {},
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 2,
-            "pathGroup": 11002,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 999,
-            "point1": {
-                "1013008": 120.0
-            },
-            "point2": {
-                "1013010": 120.0
-            },
-            "point3": {},
-            "point4": {},
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 3,
-            "pathGroup": 11003,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 10,
-            "point1": {
-                "1012004": 30.0
-            },
-            "point2": {
-                "1012002": 10.0
-            },
-            "point3": {
-                "1012003": 10.0
-            },
-            "point4": {
-                "1012002": 10.0
-            },
-            "point5": {
-                "1013009": 60.0
-            },
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 4,
-            "pathGroup": 11004,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 10,
-            "point1": {
-                "1012005": 40.0
-            },
-            "point2": {
-                "1012002": 10.0
-            },
-            "point3": {
-                "1012003": 10.0
-            },
-            "point4": {
-                "1012002": 10.0
-            },
-            "point5": {
-                "1013010": 60.0
-            },
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 5,
-            "pathGroup": 11005,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 10,
-            "point1": {
-                "1012006": 50.0
-            },
-            "point2": {
-                "1012002": 10.0
-            },
-            "point3": {
-                "1012003": 10.0
-            },
-            "point4": {
-                "1012001": 10.0
-            },
-            "point5": {
-                "1012002": 60.0
-            },
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 6,
-            "pathGroup": 11006,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 10,
-            "point1": {
-                "1012001": 10.0
-            },
-            "point2": {
-                "1013008": 20.0
-            },
-            "point3": {
-                "1011003": 120.0
-            },
-            "point4": {
-                "1011002": 10.0
-            },
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 7,
-            "pathGroup": 11007,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 10,
-            "point1": {
-                "1012001": 10.0
-            },
-            "point2": {
-                "1011002": 10.0
-            },
-            "point3": {
-                "1012006": 50.0
-            },
-            "point4": {
-                "1012002": 10.0
-            },
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 9,
-            "pathGroup": 21001,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 120,
-            "point1": {
-                "1023017": 120.0
-            },
-            "point2": {
-                "1023016": 120.0
-            },
-            "point3": {
-                "1023011": 120.0
-            },
-            "point4": {},
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 10,
-            "pathGroup": 21002,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 999,
-            "point1": {
-                "1023018": 300.0
-            },
-            "point2": {
-                "1021002": 300.0
-            },
-            "point3": {},
-            "point4": {},
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 11,
-            "pathGroup": 22001,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023008": 10.0
-            },
-            "point4": {
-                "1022011": 1.0
-            },
-            "point5": {
-                "1022005": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 12,
-            "pathGroup": 22002,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023008": 10.0
-            },
-            "point4": {
-                "1022011": 1.0
-            },
-            "point5": {
-                "1022005": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 13,
-            "pathGroup": 22003,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023008": 10.0
-            },
-            "point4": {
-                "1022011": 1.0
-            },
-            "point5": {
-                "1022005": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 14,
-            "pathGroup": 22004,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023008": 10.0
-            },
-            "point4": {
-                "1022011": 1.0
-            },
-            "point5": {
-                "1022005": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 15,
-            "pathGroup": 22005,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023009": 10.0
-            },
-            "point4": {
-                "1022012": 1.0
-            },
-            "point5": {
-                "1022006": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 16,
-            "pathGroup": 22006,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023009": 10.0
-            },
-            "point4": {
-                "1022012": 1.0
-            },
-            "point5": {
-                "1022006": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 17,
-            "pathGroup": 22007,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023009": 10.0
-            },
-            "point4": {
-                "1022012": 1.0
-            },
-            "point5": {
-                "1022006": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 18,
-            "pathGroup": 22008,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023009": 10.0
-            },
-            "point4": {
-                "1022012": 1.0
-            },
-            "point5": {
-                "1022006": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 19,
-            "pathGroup": 22009,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023010": 10.0
-            },
-            "point4": {
-                "1022013": 1.0
-            },
-            "point5": {
-                "1022004": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 20,
-            "pathGroup": 22010,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023010": 10.0
-            },
-            "point4": {
-                "1022013": 1.0
-            },
-            "point5": {
-                "1022004": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 21,
-            "pathGroup": 22011,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023010": 10.0
-            },
-            "point4": {
-                "1022013": 1.0
-            },
-            "point5": {
-                "1022004": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 22,
-            "pathGroup": 22012,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 2,
-            "pointTime": 10,
-            "point1": {
-                "1022001": 1.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1023010": 10.0
-            },
-            "point4": {
-                "1022013": 1.0
-            },
-            "point5": {
-                "1022004": 5.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 1.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 23,
-            "pathGroup": 21003,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 60,
-            "point1": {
-                "1022014": 60.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1022006": 10.0
-            },
-            "point4": {
-                "1022005": 60.0
-            },
-            "point5": {
-                "1022010": 1.0
-            },
-            "point6": {
-                "1023021": 60.0
-            },
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 24,
-            "pathGroup": 21004,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 60,
-            "point1": {
-                "1022015": 60.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1021013": 10.0
-            },
-            "point4": {
-                "1021009": 60.0
-            },
-            "point5": {
-                "1022010": 1.0
-            },
-            "point6": {
-                "1023018": 60.0
-            },
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 25,
-            "pathGroup": 21005,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 60,
-            "point1": {
-                "1022016": 60.0
-            },
-            "point2": {
-                "1022010": 1.0
-            },
-            "point3": {
-                "1022006": 10.0
-            },
-            "point4": {
-                "1021014": 10.0
-            },
-            "point5": {
-                "1021008": 60.0
-            },
-            "point6": {
-                "1022010": 1.0
-            },
-            "point7": {
-                "1022001": 60.0
-            },
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 26,
-            "pathGroup": 23001,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 5,
-            "point1": {
-                "1022003": 10.0
-            },
-            "point2": {
-                "1022004": 30.0
-            },
-            "point3": {
-                "1022019": 300.0
-            },
-            "point4": {
-                "1022017": 60.0
-            },
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 27,
-            "pathGroup": 23002,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 6,
-            "point1": {
-                "1023019": 99999.0
-            },
-            "point2": {},
-            "point3": {},
-            "point4": {},
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 28,
-            "pathGroup": 23003,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 7,
-            "point1": {
-                "1023020": 99999.0
-            },
-            "point2": {},
-            "point3": {},
-            "point4": {},
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        },
-        {
-            "pathId": 29,
-            "pathGroup": 23004,
-            "sceneId": "Activity_SimCafe",
-            "pathType": 1,
-            "pointTime": 8,
-            "point1": {
-                "1022017": 10.0
-            },
-            "point2": {
-                "1022003": 10.0
-            },
-            "point3": {
-                "1022004": 30.0
-            },
-            "point4": {
-                "1022018": 60.0
-            },
-            "point5": {},
-            "point6": {},
-            "point7": {},
-            "point8": {},
-            "point9": {},
-            "point10": {}
-        }
-    ]
+	"data": [
+		{
+			"pathId": 1,
+			"pathGroup": 11001,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 999,
+			"point1": {
+				"1011002": 99999.0
+			},
+			"point2": {},
+			"point3": {},
+			"point4": {},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 2,
+			"pathGroup": 11002,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 999,
+			"point1": {
+				"1013008": 120.0
+			},
+			"point2": {
+				"1013010": 120.0
+			},
+			"point3": {},
+			"point4": {},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 3,
+			"pathGroup": 11003,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 10,
+			"point1": {
+				"1012004": 30.0
+			},
+			"point2": {
+				"1012002": 10.0
+			},
+			"point3": {
+				"1012003": 10.0
+			},
+			"point4": {
+				"1012002": 10.0
+			},
+			"point5": {
+				"1013009": 60.0
+			},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 4,
+			"pathGroup": 11004,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 10,
+			"point1": {
+				"1012005": 40.0
+			},
+			"point2": {
+				"1012002": 10.0
+			},
+			"point3": {
+				"1012003": 10.0
+			},
+			"point4": {
+				"1012002": 10.0
+			},
+			"point5": {
+				"1013010": 60.0
+			},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 5,
+			"pathGroup": 11005,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 10,
+			"point1": {
+				"1012006": 50.0
+			},
+			"point2": {
+				"1012002": 10.0
+			},
+			"point3": {
+				"1012003": 10.0
+			},
+			"point4": {
+				"1012001": 10.0
+			},
+			"point5": {
+				"1012002": 60.0
+			},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 6,
+			"pathGroup": 11006,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 10,
+			"point1": {
+				"1012001": 10.0
+			},
+			"point2": {
+				"1013008": 20.0
+			},
+			"point3": {
+				"1011003": 120.0
+			},
+			"point4": {
+				"1011002": 10.0
+			},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 7,
+			"pathGroup": 11007,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 10,
+			"point1": {
+				"1012001": 10.0
+			},
+			"point2": {
+				"1011002": 10.0
+			},
+			"point3": {
+				"1012006": 50.0
+			},
+			"point4": {
+				"1012002": 10.0
+			},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 9,
+			"pathGroup": 21001,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 120,
+			"point1": {
+				"1023017": 120.0
+			},
+			"point2": {
+				"1023016": 120.0
+			},
+			"point3": {
+				"1023011": 120.0
+			},
+			"point4": {},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 10,
+			"pathGroup": 21002,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 999,
+			"point1": {
+				"1023018": 300.0
+			},
+			"point2": {
+				"1021002": 300.0
+			},
+			"point3": {},
+			"point4": {},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 11,
+			"pathGroup": 22001,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023008": 10.0
+			},
+			"point4": {
+				"1022011": 1.0
+			},
+			"point5": {
+				"1022005": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 12,
+			"pathGroup": 22002,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023008": 10.0
+			},
+			"point4": {
+				"1022011": 1.0
+			},
+			"point5": {
+				"1022005": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 13,
+			"pathGroup": 22003,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023008": 10.0
+			},
+			"point4": {
+				"1022011": 1.0
+			},
+			"point5": {
+				"1022005": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 14,
+			"pathGroup": 22004,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023008": 10.0
+			},
+			"point4": {
+				"1022011": 1.0
+			},
+			"point5": {
+				"1022005": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 15,
+			"pathGroup": 22005,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023009": 10.0
+			},
+			"point4": {
+				"1022012": 1.0
+			},
+			"point5": {
+				"1022006": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 16,
+			"pathGroup": 22006,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023009": 10.0
+			},
+			"point4": {
+				"1022012": 1.0
+			},
+			"point5": {
+				"1022006": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 17,
+			"pathGroup": 22007,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023009": 10.0
+			},
+			"point4": {
+				"1022012": 1.0
+			},
+			"point5": {
+				"1022006": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 18,
+			"pathGroup": 22008,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023009": 10.0
+			},
+			"point4": {
+				"1022012": 1.0
+			},
+			"point5": {
+				"1022006": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 19,
+			"pathGroup": 22009,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023010": 10.0
+			},
+			"point4": {
+				"1022013": 1.0
+			},
+			"point5": {
+				"1022004": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 20,
+			"pathGroup": 22010,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023010": 10.0
+			},
+			"point4": {
+				"1022013": 1.0
+			},
+			"point5": {
+				"1022004": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 21,
+			"pathGroup": 22011,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023010": 10.0
+			},
+			"point4": {
+				"1022013": 1.0
+			},
+			"point5": {
+				"1022004": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 22,
+			"pathGroup": 22012,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 2,
+			"pointTime": 10,
+			"point1": {
+				"1022001": 1.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1023010": 10.0
+			},
+			"point4": {
+				"1022013": 1.0
+			},
+			"point5": {
+				"1022004": 5.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 1.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 23,
+			"pathGroup": 21003,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 60,
+			"point1": {
+				"1022014": 60.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1022006": 10.0
+			},
+			"point4": {
+				"1022005": 60.0
+			},
+			"point5": {
+				"1022010": 1.0
+			},
+			"point6": {
+				"1023021": 60.0
+			},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 24,
+			"pathGroup": 21004,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 60,
+			"point1": {
+				"1022015": 60.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1021013": 10.0
+			},
+			"point4": {
+				"1021009": 60.0
+			},
+			"point5": {
+				"1022010": 1.0
+			},
+			"point6": {
+				"1023018": 60.0
+			},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 25,
+			"pathGroup": 21005,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 60,
+			"point1": {
+				"1022016": 60.0
+			},
+			"point2": {
+				"1022010": 1.0
+			},
+			"point3": {
+				"1022006": 10.0
+			},
+			"point4": {
+				"1021014": 10.0
+			},
+			"point5": {
+				"1021008": 60.0
+			},
+			"point6": {
+				"1022010": 1.0
+			},
+			"point7": {
+				"1022001": 60.0
+			},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 26,
+			"pathGroup": 23001,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 5,
+			"point1": {
+				"1022003": 10.0
+			},
+			"point2": {
+				"1022004": 30.0
+			},
+			"point3": {
+				"1022019": 300.0
+			},
+			"point4": {
+				"1022017": 60.0
+			},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 27,
+			"pathGroup": 23002,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 6,
+			"point1": {
+				"1023019": 99999.0
+			},
+			"point2": {},
+			"point3": {},
+			"point4": {},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 28,
+			"pathGroup": 23003,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 7,
+			"point1": {
+				"1023020": 99999.0
+			},
+			"point2": {},
+			"point3": {},
+			"point4": {},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		},
+		{
+			"pathId": 29,
+			"pathGroup": 23004,
+			"sceneId": "Activity_SimCafe",
+			"pathType": 1,
+			"pointTime": 8,
+			"point1": {
+				"1022017": 10.0
+			},
+			"point2": {
+				"1022003": 10.0
+			},
+			"point3": {
+				"1022004": 30.0
+			},
+			"point4": {
+				"1022018": 60.0
+			},
+			"point5": {},
+			"point6": {},
+			"point7": {},
+			"point8": {},
+			"point9": {},
+			"point10": {}
+		}
+	]
 }

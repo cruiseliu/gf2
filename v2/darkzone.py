@@ -2,7 +2,7 @@ from common import *
 
 from PIL import Image, ImageDraw
 
-assets_dir = Path('/mnt/c/_re/gf2/texture-240123')
+assets_dir = Path('/mnt/c/_re/gf2/image')
 icons_dir = Path('/mnt/c/_re/gf2/icons')
 output_dir = Path('/mnt/c/_re/gf2/maps')
 

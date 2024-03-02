@@ -1,42 +1,42 @@
 {
-    "data": [
-        {
-            "id": 3,
-            "name": "闪电",
-            "favorDefinitionId": 2,
-            "moodDefinitionId": 1,
-            "moodLikeId": 1,
-            "roomId": 1,
-            "messageOpen": 3,
-            "roomOpen": 2,
-            "open": 1,
-            "dress": 81101,
-            "invitation": 300025,
-            "roomGun": [
-                1004,
-                1007,
-                1017
-            ],
-            "roomCost": 0
-        },
-        {
-            "id": 7,
-            "name": "佩里缇亚",
-            "favorDefinitionId": 1,
-            "moodDefinitionId": 1,
-            "moodLikeId": 1,
-            "roomId": 1,
-            "messageOpen": 3,
-            "roomOpen": 1,
-            "open": 1,
-            "dress": 81105,
-            "invitation": 300025,
-            "roomGun": [
-                1019,
-                1014,
-                1021
-            ],
-            "roomCost": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 3,
+			"name": "闪电",
+			"favorDefinitionId": 2,
+			"moodDefinitionId": 1,
+			"moodLikeId": 1,
+			"roomId": 1,
+			"messageOpen": 3,
+			"roomOpen": 2,
+			"open": 1,
+			"dress": 81101,
+			"invitation": 300025,
+			"roomGun": [
+				1004,
+				1007,
+				1017
+			],
+			"roomCost": 0
+		},
+		{
+			"id": 7,
+			"name": "佩里缇亚",
+			"favorDefinitionId": 1,
+			"moodDefinitionId": 1,
+			"moodLikeId": 1,
+			"roomId": 1,
+			"messageOpen": 3,
+			"roomOpen": 1,
+			"open": 1,
+			"dress": 81105,
+			"invitation": 300025,
+			"roomGun": [
+				1019,
+				1014,
+				1021
+			],
+			"roomCost": 0
+		}
+	]
 }

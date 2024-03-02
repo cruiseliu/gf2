@@ -1,60 +1,60 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "测试昙花技能加上",
-            "description": "4R闪电队长气质",
-            "icon": 1,
-            "effectId": 30400,
-            "battleSkillCe": 500
-        },
-        {
-            "id": 2,
-            "name": "测试昙花buff加上",
-            "description": "移动速度增加",
-            "icon": 2,
-            "effectId": 1005,
-            "battleSkillCe": 500
-        },
-        {
-            "id": 3,
-            "name": "风语",
-            "description": "移动速度增加30%",
-            "icon": 2,
-            "effectId": 10001,
-            "battleSkillCe": 500
-        },
-        {
-            "id": 4,
-            "name": "鹰眼",
-            "description": "视野增加20%",
-            "icon": 2,
-            "effectId": 10002,
-            "battleSkillCe": 500
-        },
-        {
-            "id": 5,
-            "name": "狙击者",
-            "description": "射程增加200码",
-            "icon": 2,
-            "effectId": 10003,
-            "battleSkillCe": 500
-        },
-        {
-            "id": 6,
-            "name": "根性",
-            "description": "体力上限增加20点",
-            "icon": 2,
-            "effectId": 10004,
-            "battleSkillCe": 500
-        },
-        {
-            "id": 7,
-            "name": "止水",
-            "description": "体力回复增加2点",
-            "icon": 2,
-            "effectId": 10005,
-            "battleSkillCe": 500
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "测试昙花技能加上",
+			"description": "4R闪电队长气质",
+			"icon": 1,
+			"effectId": 30400,
+			"battleSkillCe": 500
+		},
+		{
+			"id": 2,
+			"name": "测试昙花buff加上",
+			"description": "移动速度增加",
+			"icon": 2,
+			"effectId": 1005,
+			"battleSkillCe": 500
+		},
+		{
+			"id": 3,
+			"name": "风语",
+			"description": "移动速度增加30%",
+			"icon": 2,
+			"effectId": 10001,
+			"battleSkillCe": 500
+		},
+		{
+			"id": 4,
+			"name": "鹰眼",
+			"description": "视野增加20%",
+			"icon": 2,
+			"effectId": 10002,
+			"battleSkillCe": 500
+		},
+		{
+			"id": 5,
+			"name": "狙击者",
+			"description": "射程增加200码",
+			"icon": 2,
+			"effectId": 10003,
+			"battleSkillCe": 500
+		},
+		{
+			"id": 6,
+			"name": "根性",
+			"description": "体力上限增加20点",
+			"icon": 2,
+			"effectId": 10004,
+			"battleSkillCe": 500
+		},
+		{
+			"id": 7,
+			"name": "止水",
+			"description": "体力回复增加2点",
+			"icon": 2,
+			"effectId": 10005,
+			"battleSkillCe": 500
+		}
+	]
 }

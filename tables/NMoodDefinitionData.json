@@ -1,88 +1,88 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "生气",
-            "icon": "Icon_Lounge_Mood1",
-            "moodStage": 200,
-            "daily": [
-                -10,
-                10
-            ],
-            "stateId": 1003,
-            "appointmentStep": [],
-            "appointmentProbability": [],
-            "random": 0
-        },
-        {
-            "id": 2,
-            "name": "平静",
-            "icon": "Icon_Lounge_Mood2",
-            "moodStage": 400,
-            "daily": [
-                -20,
-                20
-            ],
-            "stateId": 1002,
-            "appointmentStep": [],
-            "appointmentProbability": [],
-            "random": 0
-        },
-        {
-            "id": 3,
-            "name": "普通",
-            "icon": "Icon_Lounge_Mood3",
-            "moodStage": 600,
-            "daily": [
-                -30,
-                25
-            ],
-            "stateId": 1002,
-            "appointmentStep": [],
-            "appointmentProbability": [],
-            "random": 0
-        },
-        {
-            "id": 4,
-            "name": "开心",
-            "icon": "Icon_Lounge_Mood4",
-            "moodStage": 800,
-            "appointmentStep": [
-                1,
-                500,
-                600,
-                700
-            ],
-            "appointmentProbability": [
-                50,
-                350,
-                400,
-                450
-            ],
-            "daily": [
-                -40,
-                30
-            ],
-            "random": 10,
-            "stateId": 1001
-        },
-        {
-            "id": 5,
-            "name": "喜悦",
-            "icon": "Icon_Lounge_Mood5",
-            "moodStage": 999999,
-            "appointmentStep": [
-                1
-            ],
-            "appointmentProbability": [
-                500
-            ],
-            "daily": [
-                -70,
-                40
-            ],
-            "random": 20,
-            "stateId": 1001
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "生气",
+			"icon": "Icon_Lounge_Mood1",
+			"moodStage": 200,
+			"daily": [
+				-10,
+				10
+			],
+			"stateId": 1003,
+			"appointmentStep": [],
+			"appointmentProbability": [],
+			"random": 0
+		},
+		{
+			"id": 2,
+			"name": "平静",
+			"icon": "Icon_Lounge_Mood2",
+			"moodStage": 400,
+			"daily": [
+				-20,
+				20
+			],
+			"stateId": 1002,
+			"appointmentStep": [],
+			"appointmentProbability": [],
+			"random": 0
+		},
+		{
+			"id": 3,
+			"name": "普通",
+			"icon": "Icon_Lounge_Mood3",
+			"moodStage": 600,
+			"daily": [
+				-30,
+				25
+			],
+			"stateId": 1002,
+			"appointmentStep": [],
+			"appointmentProbability": [],
+			"random": 0
+		},
+		{
+			"id": 4,
+			"name": "开心",
+			"icon": "Icon_Lounge_Mood4",
+			"moodStage": 800,
+			"appointmentStep": [
+				1,
+				500,
+				600,
+				700
+			],
+			"appointmentProbability": [
+				50,
+				350,
+				400,
+				450
+			],
+			"daily": [
+				-40,
+				30
+			],
+			"random": 10,
+			"stateId": 1001
+		},
+		{
+			"id": 5,
+			"name": "喜悦",
+			"icon": "Icon_Lounge_Mood5",
+			"moodStage": 999999,
+			"appointmentStep": [
+				1
+			],
+			"appointmentProbability": [
+				500
+			],
+			"daily": [
+				-70,
+				40
+			],
+			"random": 20,
+			"stateId": 1001
+		}
+	]
 }

@@ -1,31 +1,31 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "tutorialPageId": 300403,
-            "description": "掩靠",
-            "path": "_LevelNode(Clone)/Canvas/Default/DarkzoneMainPanel(Clone)/Root/Trans_Main/BtnAction_[Platform]/BtnBunker",
-            "mapId": 10101,
-            "gameplayType": 1,
-            "functionId": 0
-        },
-        {
-            "id": 2,
-            "tutorialPageId": 300406,
-            "description": "瞄准",
-            "path": "_LevelNode(Clone)/Canvas/Default/DarkzoneMainPanel(Clone)/Root/Trans_Main/BtnAction_[Platform]/BtnAim",
-            "mapId": 10101,
-            "gameplayType": 1,
-            "functionId": 0
-        },
-        {
-            "id": 3,
-            "tutorialPageId": 300101,
-            "description": "设置",
-            "path": "_LevelNode(Clone)/Canvas/Default/DarkzoneMainPanel(Clone)/Root/Trans_Main/GrpTop/GrpTopBtnList/BtnBack/Btn_Back",
-            "mapId": 10101,
-            "gameplayType": 1,
-            "functionId": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"tutorialPageId": 300403,
+			"description": "掩靠",
+			"path": "_LevelNode(Clone)/Canvas/Default/DarkzoneMainPanel(Clone)/Root/Trans_Main/BtnAction_[Platform]/BtnBunker",
+			"mapId": 10101,
+			"gameplayType": 1,
+			"functionId": 0
+		},
+		{
+			"id": 2,
+			"tutorialPageId": 300406,
+			"description": "瞄准",
+			"path": "_LevelNode(Clone)/Canvas/Default/DarkzoneMainPanel(Clone)/Root/Trans_Main/BtnAction_[Platform]/BtnAim",
+			"mapId": 10101,
+			"gameplayType": 1,
+			"functionId": 0
+		},
+		{
+			"id": 3,
+			"tutorialPageId": 300101,
+			"description": "设置",
+			"path": "_LevelNode(Clone)/Canvas/Default/DarkzoneMainPanel(Clone)/Root/Trans_Main/GrpTop/GrpTopBtnList/BtnBack/Btn_Back",
+			"mapId": 10101,
+			"gameplayType": 1,
+			"functionId": 0
+		}
+	]
 }

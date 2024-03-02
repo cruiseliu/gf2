@@ -1,22 +1,22 @@
 {
-    "data": [
-        {
-            "effectId": 1,
-            "name": "强化配件",
-            "description": "强化配件",
-            "icon": "WeaponPart_Effect_Property"
-        },
-        {
-            "effectId": 3,
-            "name": "组装配件",
-            "description": "组装配件",
-            "icon": "WeaponPart_Effect_Combine"
-        },
-        {
-            "effectId": 4,
-            "name": "专项配件",
-            "description": "专项配件",
-            "icon": "WeaponPart_Effect_Master"
-        }
-    ]
+	"data": [
+		{
+			"effectId": 1,
+			"name": "强化配件",
+			"description": "强化配件",
+			"icon": "WeaponPart_Effect_Property"
+		},
+		{
+			"effectId": 3,
+			"name": "组装配件",
+			"description": "组装配件",
+			"icon": "WeaponPart_Effect_Combine"
+		},
+		{
+			"effectId": 4,
+			"name": "专项配件",
+			"description": "专项配件",
+			"icon": "WeaponPart_Effect_Master"
+		}
+	]
 }

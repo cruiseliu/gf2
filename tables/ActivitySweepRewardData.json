@@ -1,352 +1,352 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "sweepPlan": 1,
-            "sweepLevel": 3,
-            "point": [
-                260
-            ],
-            "sweepReward": {
-                "2": 210,
-                "25": 20,
-                "200": 10,
-                "170012": 200,
-                "170015": 30
-            },
-            "evaluateType": 3,
-            "evaluateLevel": "巅峰配货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
-        },
-        {
-            "id": 2,
-            "sweepPlan": 1,
-            "sweepLevel": 2,
-            "point": [
-                100,
-                259
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "标准载货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
-        },
-        {
-            "id": 3,
-            "sweepPlan": 1,
-            "sweepLevel": 1,
-            "point": [
-                0,
-                99
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "货仓亏空",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
-        },
-        {
-            "id": 4,
-            "sweepPlan": 2,
-            "sweepLevel": 3,
-            "point": [
-                450
-            ],
-            "sweepReward": {
-                "2": 250,
-                "25": 20,
-                "200": 10,
-                "170011": 300,
-                "170012": 300,
-                "170016": 36
-            },
-            "evaluateType": 3,
-            "evaluateLevel": "巅峰配货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
-        },
-        {
-            "id": 5,
-            "sweepPlan": 2,
-            "sweepLevel": 2,
-            "point": [
-                100,
-                449
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "标准载货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
-        },
-        {
-            "id": 6,
-            "sweepPlan": 2,
-            "sweepLevel": 1,
-            "point": [
-                0,
-                99
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "货仓亏空",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
-        },
-        {
-            "id": 7,
-            "sweepPlan": 3,
-            "sweepLevel": 4,
-            "point": [
-                700
-            ],
-            "sweepReward": {
-                "2": 290,
-                "25": 20,
-                "200": 10,
-                "170012": 400,
-                "170013": 300,
-                "170017": 42
-            },
-            "evaluateType": 3,
-            "evaluateLevel": "巅峰配货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
-        },
-        {
-            "id": 8,
-            "sweepPlan": 3,
-            "sweepLevel": 3,
-            "point": [
-                500,
-                699
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "高效运载",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_3"
-        },
-        {
-            "id": 9,
-            "sweepPlan": 3,
-            "sweepLevel": 2,
-            "point": [
-                200,
-                499
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "标准载货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
-        },
-        {
-            "id": 10,
-            "sweepPlan": 3,
-            "sweepLevel": 1,
-            "point": [
-                0,
-                199
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "货仓亏空",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
-        },
-        {
-            "id": 11,
-            "sweepPlan": 4,
-            "sweepLevel": 4,
-            "point": [
-                900
-            ],
-            "sweepReward": {
-                "2": 340,
-                "25": 20,
-                "200": 10,
-                "170011": 500,
-                "170012": 500,
-                "170018": 48
-            },
-            "evaluateType": 3,
-            "evaluateLevel": "巅峰配货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
-        },
-        {
-            "id": 12,
-            "sweepPlan": 4,
-            "sweepLevel": 3,
-            "point": [
-                600,
-                899
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "高效运载",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_3"
-        },
-        {
-            "id": 13,
-            "sweepPlan": 4,
-            "sweepLevel": 2,
-            "point": [
-                200,
-                599
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "标准载货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
-        },
-        {
-            "id": 14,
-            "sweepPlan": 4,
-            "sweepLevel": 1,
-            "point": [
-                0,
-                199
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "货仓亏空",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
-        },
-        {
-            "id": 15,
-            "sweepPlan": 5,
-            "sweepLevel": 5,
-            "point": [
-                1200
-            ],
-            "sweepReward": {
-                "2": 380,
-                "25": 20,
-                "200": 10,
-                "170012": 600,
-                "170013": 500,
-                "170019": 54
-            },
-            "evaluateType": 3,
-            "evaluateLevel": "巅峰配货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
-        },
-        {
-            "id": 16,
-            "sweepPlan": 5,
-            "sweepLevel": 4,
-            "point": [
-                1000,
-                1199
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "货舱盈满",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_4"
-        },
-        {
-            "id": 17,
-            "sweepPlan": 5,
-            "sweepLevel": 3,
-            "point": [
-                600,
-                999
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "高效运载",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_3"
-        },
-        {
-            "id": 18,
-            "sweepPlan": 5,
-            "sweepLevel": 2,
-            "point": [
-                300,
-                599
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "标准载货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
-        },
-        {
-            "id": 19,
-            "sweepPlan": 5,
-            "sweepLevel": 1,
-            "point": [
-                0,
-                299
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "货仓亏空",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
-        },
-        {
-            "id": 20,
-            "sweepPlan": 6,
-            "sweepLevel": 5,
-            "point": [
-                1800
-            ],
-            "sweepReward": {
-                "2": 420,
-                "25": 20,
-                "200": 10,
-                "170011": 800,
-                "170012": 800,
-                "170013": 800,
-                "170020": 60
-            },
-            "evaluateType": 3,
-            "evaluateLevel": "巅峰配货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
-        },
-        {
-            "id": 21,
-            "sweepPlan": 6,
-            "sweepLevel": 4,
-            "point": [
-                1500,
-                1799
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "货舱盈满",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_4"
-        },
-        {
-            "id": 22,
-            "sweepPlan": 6,
-            "sweepLevel": 3,
-            "point": [
-                1000,
-                1499
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "高效运载",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_3"
-        },
-        {
-            "id": 23,
-            "sweepPlan": 6,
-            "sweepLevel": 2,
-            "point": [
-                500,
-                999
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "标准载货",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
-        },
-        {
-            "id": 24,
-            "sweepPlan": 6,
-            "sweepLevel": 1,
-            "point": [
-                0,
-                499
-            ],
-            "sweepReward": {},
-            "evaluateType": 1,
-            "evaluateLevel": "货仓亏空",
-            "evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"sweepPlan": 1,
+			"sweepLevel": 3,
+			"point": [
+				260
+			],
+			"sweepReward": {
+				"2": 210,
+				"25": 20,
+				"200": 10,
+				"170012": 200,
+				"170015": 30
+			},
+			"evaluateType": 3,
+			"evaluateLevel": "巅峰配货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
+		},
+		{
+			"id": 2,
+			"sweepPlan": 1,
+			"sweepLevel": 2,
+			"point": [
+				100,
+				259
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "标准载货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
+		},
+		{
+			"id": 3,
+			"sweepPlan": 1,
+			"sweepLevel": 1,
+			"point": [
+				0,
+				99
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "货仓亏空",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
+		},
+		{
+			"id": 4,
+			"sweepPlan": 2,
+			"sweepLevel": 3,
+			"point": [
+				450
+			],
+			"sweepReward": {
+				"2": 250,
+				"25": 20,
+				"200": 10,
+				"170011": 300,
+				"170012": 300,
+				"170016": 36
+			},
+			"evaluateType": 3,
+			"evaluateLevel": "巅峰配货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
+		},
+		{
+			"id": 5,
+			"sweepPlan": 2,
+			"sweepLevel": 2,
+			"point": [
+				100,
+				449
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "标准载货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
+		},
+		{
+			"id": 6,
+			"sweepPlan": 2,
+			"sweepLevel": 1,
+			"point": [
+				0,
+				99
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "货仓亏空",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
+		},
+		{
+			"id": 7,
+			"sweepPlan": 3,
+			"sweepLevel": 4,
+			"point": [
+				700
+			],
+			"sweepReward": {
+				"2": 290,
+				"25": 20,
+				"200": 10,
+				"170012": 400,
+				"170013": 300,
+				"170017": 42
+			},
+			"evaluateType": 3,
+			"evaluateLevel": "巅峰配货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
+		},
+		{
+			"id": 8,
+			"sweepPlan": 3,
+			"sweepLevel": 3,
+			"point": [
+				500,
+				699
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "高效运载",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_3"
+		},
+		{
+			"id": 9,
+			"sweepPlan": 3,
+			"sweepLevel": 2,
+			"point": [
+				200,
+				499
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "标准载货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
+		},
+		{
+			"id": 10,
+			"sweepPlan": 3,
+			"sweepLevel": 1,
+			"point": [
+				0,
+				199
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "货仓亏空",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
+		},
+		{
+			"id": 11,
+			"sweepPlan": 4,
+			"sweepLevel": 4,
+			"point": [
+				900
+			],
+			"sweepReward": {
+				"2": 340,
+				"25": 20,
+				"200": 10,
+				"170011": 500,
+				"170012": 500,
+				"170018": 48
+			},
+			"evaluateType": 3,
+			"evaluateLevel": "巅峰配货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
+		},
+		{
+			"id": 12,
+			"sweepPlan": 4,
+			"sweepLevel": 3,
+			"point": [
+				600,
+				899
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "高效运载",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_3"
+		},
+		{
+			"id": 13,
+			"sweepPlan": 4,
+			"sweepLevel": 2,
+			"point": [
+				200,
+				599
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "标准载货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
+		},
+		{
+			"id": 14,
+			"sweepPlan": 4,
+			"sweepLevel": 1,
+			"point": [
+				0,
+				199
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "货仓亏空",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
+		},
+		{
+			"id": 15,
+			"sweepPlan": 5,
+			"sweepLevel": 5,
+			"point": [
+				1200
+			],
+			"sweepReward": {
+				"2": 380,
+				"25": 20,
+				"200": 10,
+				"170012": 600,
+				"170013": 500,
+				"170019": 54
+			},
+			"evaluateType": 3,
+			"evaluateLevel": "巅峰配货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
+		},
+		{
+			"id": 16,
+			"sweepPlan": 5,
+			"sweepLevel": 4,
+			"point": [
+				1000,
+				1199
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "货舱盈满",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_4"
+		},
+		{
+			"id": 17,
+			"sweepPlan": 5,
+			"sweepLevel": 3,
+			"point": [
+				600,
+				999
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "高效运载",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_3"
+		},
+		{
+			"id": 18,
+			"sweepPlan": 5,
+			"sweepLevel": 2,
+			"point": [
+				300,
+				599
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "标准载货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
+		},
+		{
+			"id": 19,
+			"sweepPlan": 5,
+			"sweepLevel": 1,
+			"point": [
+				0,
+				299
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "货仓亏空",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
+		},
+		{
+			"id": 20,
+			"sweepPlan": 6,
+			"sweepLevel": 5,
+			"point": [
+				1800
+			],
+			"sweepReward": {
+				"2": 420,
+				"25": 20,
+				"200": 10,
+				"170011": 800,
+				"170012": 800,
+				"170013": 800,
+				"170020": 60
+			},
+			"evaluateType": 3,
+			"evaluateLevel": "巅峰配货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_5"
+		},
+		{
+			"id": 21,
+			"sweepPlan": 6,
+			"sweepLevel": 4,
+			"point": [
+				1500,
+				1799
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "货舱盈满",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_4"
+		},
+		{
+			"id": 22,
+			"sweepPlan": 6,
+			"sweepLevel": 3,
+			"point": [
+				1000,
+				1499
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "高效运载",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_3"
+		},
+		{
+			"id": 23,
+			"sweepPlan": 6,
+			"sweepLevel": 2,
+			"point": [
+				500,
+				999
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "标准载货",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_2"
+		},
+		{
+			"id": 24,
+			"sweepPlan": 6,
+			"sweepLevel": 1,
+			"point": [
+				0,
+				499
+			],
+			"sweepReward": {},
+			"evaluateType": 1,
+			"evaluateLevel": "货仓亏空",
+			"evaluateIcon": "Darkzone/Icon_DarkzoneScore_Level_1"
+		}
+	]
 }

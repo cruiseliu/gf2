@@ -1,233 +1,233 @@
 {
-    "data": [
-        {
-            "id": 20,
-            "name": "标准同调",
-            "image": "Icon_SimCombatDaily_LogoGold",
-            "icon": "Icon_SimCombatDaily_Gold",
-            "bgPath": "SimCombatComBg_Gold",
-            "openTime": "全天开放",
-            "dropItem": 2,
-            "labelId": [
-                17
-            ],
-            "unlock": 11004,
-            "extraDropCost": 350,
-            "itemId": 301,
-            "extraDropTimes": 2,
-            "displayName": 194002,
-            "itemTimes": 28,
-            "unlockDescribe": "指挥官达到25级后解锁"
-        },
-        {
-            "id": 21,
-            "name": "深度搜索",
-            "image": "Icon_SimCombatDaily_LogoEpx",
-            "icon": "Icon_SimCombatDaily_Epx",
-            "bgPath": "SimCombatComBg_Exp",
-            "openTime": "全天开放",
-            "dropItem": 25,
-            "labelId": [
-                16
-            ],
-            "unlock": 11003,
-            "extraDropCost": 351,
-            "extraDropTimes": 2,
-            "unlockDescribe": "指挥官达到15级后解锁",
-            "itemId": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 22,
-            "name": "决策构象",
-            "image": "Icon_SimCombatDaily_LogoEquip",
-            "icon": "Icon_SimCombatDaily_Equip",
-            "bgPath": "SimCombatComBg_Equip",
-            "openTime": "",
-            "dropItem": 240,
-            "labelId": [
-                18
-            ],
-            "unlock": 11005,
-            "extraDropCost": 352,
-            "extraDropTimes": 2,
-            "unlockDescribe": "指挥官达到20级后解锁",
-            "itemId": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 23,
-            "name": "战术评估",
-            "image": "Img_SimCombat_6",
-            "icon": "Icon_SimCombat_6",
-            "openTime": "全天开放",
-            "labelId": [
-                8
-            ],
-            "unlock": 11007,
-            "unlockDescribe": "指挥官达到27级后解锁",
-            "bgPath": "",
-            "dropItem": 0,
-            "extraDropCost": 0,
-            "itemId": 0,
-            "extraDropTimes": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 24,
-            "name": "首领挑战",
-            "image": "Img_SimCombat_Week",
-            "icon": "Icon_SimCombat_Week",
-            "openTime": "限时开放",
-            "labelId": [
-                14,
-                19,
-                20
-            ],
-            "unlock": 11008,
-            "unlockDescribe": "指挥官达到27级后解锁",
-            "bgPath": "",
-            "dropItem": 0,
-            "extraDropCost": 0,
-            "itemId": 0,
-            "extraDropTimes": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 25,
-            "name": "峰值推定",
-            "image": "Img_SimCombat_Mythic",
-            "icon": "Icon_SimCombat_Mythic",
-            "openTime": "全天开放",
-            "labelId": [
-                15
-            ],
-            "unlock": 11009,
-            "unlockDescribe": "指挥官达到30级后解锁",
-            "bgPath": "",
-            "dropItem": 0,
-            "extraDropCost": 0,
-            "itemId": 0,
-            "extraDropTimes": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 30,
-            "name": "实兵演习",
-            "image": "Img_SimCombat_PVP",
-            "icon": "Icon_SimCombat_PVP",
-            "openTime": "",
-            "labelId": [
-                25
-            ],
-            "unlock": 14000,
-            "unlockDescribe": "指挥官达到30级后解锁",
-            "bgPath": "",
-            "dropItem": 0,
-            "extraDropCost": 0,
-            "itemId": 0,
-            "extraDropTimes": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 31,
-            "name": "军备解析",
-            "image": "Icon_SimCombatDaily_LogoWeapon",
-            "icon": "Icon_SimCombatDaily_Weapon",
-            "bgPath": "SimCombatComBg_WeaponExp",
-            "openTime": "全天开放",
-            "dropItem": 8301,
-            "labelId": [
-                9
-            ],
-            "unlock": 11006,
-            "extraDropCost": 353,
-            "extraDropTimes": 2,
-            "unlockDescribe": "指挥官达到15级后解锁",
-            "itemId": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 32,
-            "name": "心智勘测",
-            "image": "Img_SimCombat_Hard",
-            "icon": "Icon_SimCombat_Hard",
-            "openTime": "全天开放",
-            "labelId": [
-                26
-            ],
-            "unlock": 11002,
-            "unlockDescribe": "指挥官达到15级后解锁",
-            "bgPath": "",
-            "dropItem": 0,
-            "extraDropCost": 0,
-            "itemId": 0,
-            "extraDropTimes": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 33,
-            "name": "兵棋推演",
-            "image": "Img_SimCombat_HigherPVP",
-            "icon": "Icon_SimCombat_HigherPVP",
-            "openTime": "",
-            "unlock": 14500,
-            "unlockDescribe": "在实兵演习中达到资深·五段位后解锁",
-            "bgPath": "",
-            "dropItem": 0,
-            "labelId": [],
-            "extraDropCost": 0,
-            "itemId": 0,
-            "extraDropTimes": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 41,
-            "name": "定向精研",
-            "image": "Icon_SimCombatDaily_LogoWeaponPart",
-            "icon": "Icon_SimCombatDaily_WeaponPart",
-            "bgPath": "SimCombatComBg_WeaponPart",
-            "openTime": "全天开放",
-            "dropItem": 242,
-            "labelId": [
-                30,
-                31,
-                32,
-                33
-            ],
-            "unlock": 11012,
-            "unlockDescribe": "指挥官达到23级后解锁",
-            "extraDropCost": 0,
-            "itemId": 0,
-            "extraDropTimes": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        },
-        {
-            "id": 50,
-            "name": "扩编实练",
-            "image": "Img_SimCombat_Unite",
-            "icon": "Icon_SimCombat_Unite",
-            "openTime": "",
-            "unlock": 33001,
-            "unlockDescribe": "指挥官达到45级解锁",
-            "bgPath": "",
-            "dropItem": 0,
-            "labelId": [],
-            "extraDropCost": 0,
-            "itemId": 0,
-            "extraDropTimes": 0,
-            "displayName": 0,
-            "itemTimes": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 20,
+			"name": "标准同调",
+			"image": "Icon_SimCombatDaily_LogoGold",
+			"icon": "Icon_SimCombatDaily_Gold",
+			"bgPath": "SimCombatComBg_Gold",
+			"openTime": "全天开放",
+			"dropItem": 2,
+			"labelId": [
+				17
+			],
+			"unlock": 11004,
+			"extraDropCost": 350,
+			"itemId": 301,
+			"extraDropTimes": 2,
+			"displayName": 194002,
+			"itemTimes": 28,
+			"unlockDescribe": "指挥官达到25级后解锁"
+		},
+		{
+			"id": 21,
+			"name": "深度搜索",
+			"image": "Icon_SimCombatDaily_LogoEpx",
+			"icon": "Icon_SimCombatDaily_Epx",
+			"bgPath": "SimCombatComBg_Exp",
+			"openTime": "全天开放",
+			"dropItem": 25,
+			"labelId": [
+				16
+			],
+			"unlock": 11003,
+			"extraDropCost": 351,
+			"extraDropTimes": 2,
+			"unlockDescribe": "指挥官达到15级后解锁",
+			"itemId": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 22,
+			"name": "决策构象",
+			"image": "Icon_SimCombatDaily_LogoEquip",
+			"icon": "Icon_SimCombatDaily_Equip",
+			"bgPath": "SimCombatComBg_Equip",
+			"openTime": "",
+			"dropItem": 240,
+			"labelId": [
+				18
+			],
+			"unlock": 11005,
+			"extraDropCost": 352,
+			"extraDropTimes": 2,
+			"unlockDescribe": "指挥官达到20级后解锁",
+			"itemId": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 23,
+			"name": "战术评估",
+			"image": "Img_SimCombat_6",
+			"icon": "Icon_SimCombat_6",
+			"openTime": "全天开放",
+			"labelId": [
+				8
+			],
+			"unlock": 11007,
+			"unlockDescribe": "指挥官达到27级后解锁",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 24,
+			"name": "首领挑战",
+			"image": "Img_SimCombat_Week",
+			"icon": "Icon_SimCombat_Week",
+			"openTime": "限时开放",
+			"labelId": [
+				14,
+				19,
+				20
+			],
+			"unlock": 11008,
+			"unlockDescribe": "指挥官达到27级后解锁",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 25,
+			"name": "峰值推定",
+			"image": "Img_SimCombat_Mythic",
+			"icon": "Icon_SimCombat_Mythic",
+			"openTime": "全天开放",
+			"labelId": [
+				15
+			],
+			"unlock": 11009,
+			"unlockDescribe": "指挥官达到30级后解锁",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 30,
+			"name": "实兵演习",
+			"image": "Img_SimCombat_PVP",
+			"icon": "Icon_SimCombat_PVP",
+			"openTime": "",
+			"labelId": [
+				25
+			],
+			"unlock": 14000,
+			"unlockDescribe": "指挥官达到30级后解锁",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 31,
+			"name": "军备解析",
+			"image": "Icon_SimCombatDaily_LogoWeapon",
+			"icon": "Icon_SimCombatDaily_Weapon",
+			"bgPath": "SimCombatComBg_WeaponExp",
+			"openTime": "全天开放",
+			"dropItem": 8301,
+			"labelId": [
+				9
+			],
+			"unlock": 11006,
+			"extraDropCost": 353,
+			"extraDropTimes": 2,
+			"unlockDescribe": "指挥官达到15级后解锁",
+			"itemId": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 32,
+			"name": "心智勘测",
+			"image": "Img_SimCombat_Hard",
+			"icon": "Icon_SimCombat_Hard",
+			"openTime": "全天开放",
+			"labelId": [
+				26
+			],
+			"unlock": 11002,
+			"unlockDescribe": "指挥官达到15级后解锁",
+			"bgPath": "",
+			"dropItem": 0,
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 33,
+			"name": "兵棋推演",
+			"image": "Img_SimCombat_HigherPVP",
+			"icon": "Icon_SimCombat_HigherPVP",
+			"openTime": "",
+			"unlock": 14500,
+			"unlockDescribe": "在实兵演习中达到资深·五段位后解锁",
+			"bgPath": "",
+			"dropItem": 0,
+			"labelId": [],
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 41,
+			"name": "定向精研",
+			"image": "Icon_SimCombatDaily_LogoWeaponPart",
+			"icon": "Icon_SimCombatDaily_WeaponPart",
+			"bgPath": "SimCombatComBg_WeaponPart",
+			"openTime": "全天开放",
+			"dropItem": 242,
+			"labelId": [
+				30,
+				31,
+				32,
+				33
+			],
+			"unlock": 11012,
+			"unlockDescribe": "指挥官达到23级后解锁",
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		},
+		{
+			"id": 50,
+			"name": "扩编实练",
+			"image": "Img_SimCombat_Unite",
+			"icon": "Icon_SimCombat_Unite",
+			"openTime": "",
+			"unlock": 33001,
+			"unlockDescribe": "指挥官达到45级解锁",
+			"bgPath": "",
+			"dropItem": 0,
+			"labelId": [],
+			"extraDropCost": 0,
+			"itemId": 0,
+			"extraDropTimes": 0,
+			"displayName": 0,
+			"itemTimes": 0
+		}
+	]
 }

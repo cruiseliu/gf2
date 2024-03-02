@@ -1,108 +1,108 @@
 {
-    "data": [
-        {
-            "id": 10010101,
-            "type": 1,
-            "sort": 1,
-            "text": "尊敬的<color=#F26C1C>{0}</color>阁下：",
-            "hindId": 110047,
-            "nextId": 0
-        },
-        {
-            "id": 10010102,
-            "type": 1,
-            "sort": 2,
-            "text": "恭喜您在<color=#F26C1C>{0}</color>中完成所有基础评估指标，以实力取得了独立探索污染区的资格。B.R.I.E.F.将持续关注您的成长，期待您更为活跃的表现。",
-            "hindId": 110048,
-            "nextId": 0
-        },
-        {
-            "id": 10010201,
-            "type": 2,
-            "sort": 1,
-            "text": "在<color=#F26C1C>{0}</color>期间，您——",
-            "hindId": 110048,
-            "nextId": 0
-        },
-        {
-            "id": 10010202,
-            "type": 2,
-            "sort": 2,
-            "text": "积极探索待勘测区，完成了<color=#F26C1C>{0}</color>项推进任务，",
-            "nextId": 10010203,
-            "hindId": 0
-        },
-        {
-            "id": 10010203,
-            "type": 2,
-            "sort": 3,
-            "text": "推进任务进度达到<color=#F26C1C>{0}</color>。",
-            "hindId": 110049,
-            "nextId": 0
-        },
-        {
-            "id": 10010204,
-            "type": 2,
-            "sort": 4,
-            "text": "努力重启并校准光粒风标，总校准率达到<color=#F26C1C>{0}%</color>。",
-            "nextId": 0,
-            "hindId": 0
-        },
-        {
-            "id": 10010205,
-            "type": 2,
-            "sort": 5,
-            "text": "合理应对特殊悬赏，指挥人形小队行动<color=#F26C1C>{0}</color>次，",
-            "nextId": 10010206,
-            "hindId": 0
-        },
-        {
-            "id": 10010206,
-            "type": 2,
-            "sort": 6,
-            "text": "悬赏最高进度达<color=#F26C1C>{0}</color>。",
-            "nextId": 0,
-            "hindId": 0
-        },
-        {
-            "id": 10010301,
-            "type": 3,
-            "sort": 1,
-            "text": "您共搜集到<color=#F26C1C>{0}</color>份载波卡制作材料，",
-            "nextId": 10010302,
-            "hindId": 0
-        },
-        {
-            "id": 10010302,
-            "type": 3,
-            "sort": 2,
-            "text": "，其中<color=#F26C1C>{0}</color>份为<color=#F26C1C>奇缺材料</color>。",
-            "nextId": 0,
-            "hindId": 0
-        },
-        {
-            "id": 10010303,
-            "type": 3,
-            "sort": 3,
-            "text": "利用这些制作材料，您在分析机台制作了<color=#F26C1C>{0}</color>张载波卡。",
-            "nextId": 0,
-            "hindId": 0
-        },
-        {
-            "id": 10010304,
-            "type": 3,
-            "sort": 4,
-            "text": "使用载波卡，您一共进行了<color=#F26C1C>{0}</color>次定向调度，您总能清晰地知道自己想要什么，幸运也会青睐这样的您。",
-            "nextId": 0,
-            "hindId": 0
-        },
-        {
-            "id": 10010305,
-            "type": 3,
-            "sort": 5,
-            "text": "通过特殊悬赏，您获得了<color=#F26C1C>{0}</color>个<color=#F26C1C>橙色配件</color>，您的不懈努力将会为您带来丰厚的收获。",
-            "nextId": 10010306,
-            "hindId": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 10010101,
+			"type": 1,
+			"sort": 1,
+			"text": "尊敬的<color=#F26C1C>{0}</color>阁下：",
+			"hindId": 110047,
+			"nextId": 0
+		},
+		{
+			"id": 10010102,
+			"type": 1,
+			"sort": 2,
+			"text": "恭喜您在<color=#F26C1C>{0}</color>中完成所有基础评估指标，以实力取得了独立探索污染区的资格。B.R.I.E.F.将持续关注您的成长，期待您更为活跃的表现。",
+			"hindId": 110048,
+			"nextId": 0
+		},
+		{
+			"id": 10010201,
+			"type": 2,
+			"sort": 1,
+			"text": "在<color=#F26C1C>{0}</color>期间，您——",
+			"hindId": 110048,
+			"nextId": 0
+		},
+		{
+			"id": 10010202,
+			"type": 2,
+			"sort": 2,
+			"text": "积极探索待勘测区，完成了<color=#F26C1C>{0}</color>项推进任务，",
+			"nextId": 10010203,
+			"hindId": 0
+		},
+		{
+			"id": 10010203,
+			"type": 2,
+			"sort": 3,
+			"text": "推进任务进度达到<color=#F26C1C>{0}</color>。",
+			"hindId": 110049,
+			"nextId": 0
+		},
+		{
+			"id": 10010204,
+			"type": 2,
+			"sort": 4,
+			"text": "努力重启并校准光粒风标，总校准率达到<color=#F26C1C>{0}%</color>。",
+			"nextId": 0,
+			"hindId": 0
+		},
+		{
+			"id": 10010205,
+			"type": 2,
+			"sort": 5,
+			"text": "合理应对特殊悬赏，指挥人形小队行动<color=#F26C1C>{0}</color>次，",
+			"nextId": 10010206,
+			"hindId": 0
+		},
+		{
+			"id": 10010206,
+			"type": 2,
+			"sort": 6,
+			"text": "悬赏最高进度达<color=#F26C1C>{0}</color>。",
+			"nextId": 0,
+			"hindId": 0
+		},
+		{
+			"id": 10010301,
+			"type": 3,
+			"sort": 1,
+			"text": "您共搜集到<color=#F26C1C>{0}</color>份载波卡制作材料，",
+			"nextId": 10010302,
+			"hindId": 0
+		},
+		{
+			"id": 10010302,
+			"type": 3,
+			"sort": 2,
+			"text": "，其中<color=#F26C1C>{0}</color>份为<color=#F26C1C>奇缺材料</color>。",
+			"nextId": 0,
+			"hindId": 0
+		},
+		{
+			"id": 10010303,
+			"type": 3,
+			"sort": 3,
+			"text": "利用这些制作材料，您在分析机台制作了<color=#F26C1C>{0}</color>张载波卡。",
+			"nextId": 0,
+			"hindId": 0
+		},
+		{
+			"id": 10010304,
+			"type": 3,
+			"sort": 4,
+			"text": "使用载波卡，您一共进行了<color=#F26C1C>{0}</color>次定向调度，您总能清晰地知道自己想要什么，幸运也会青睐这样的您。",
+			"nextId": 0,
+			"hindId": 0
+		},
+		{
+			"id": 10010305,
+			"type": 3,
+			"sort": 5,
+			"text": "通过特殊悬赏，您获得了<color=#F26C1C>{0}</color>个<color=#F26C1C>橙色配件</color>，您的不懈努力将会为您带来丰厚的收获。",
+			"nextId": 10010306,
+			"hindId": 0
+		}
+	]
 }

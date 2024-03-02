@@ -1,239 +1,239 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "keyWord": "正面攻势",
-            "explanation": "只知道往前冲，然后攻击最近的敌人。"
-        },
-        {
-            "id": 2,
-            "keyWord": "隐蔽行动",
-            "explanation": "只知道躲在掩体后，然后发起攻击。"
-        },
-        {
-            "id": 3,
-            "keyWord": "灵活作战",
-            "explanation": "会躲在掩体后，或从最远处攻击敌人。"
-        },
-        {
-            "id": 4,
-            "keyWord": "近身搏斗",
-            "explanation": "会向前冲，但也会绕侧。"
-        },
-        {
-            "id": 5,
-            "keyWord": "平地疾驰",
-            "explanation": "可进行远距离移动。身体矮小，无法翻越掩体或攀登高地，也无法越过掩体攻击敌人。"
-        },
-        {
-            "id": 6,
-            "keyWord": "自毁",
-            "explanation": "损毁时将自爆，会对周围一定范围内的单位造成伤害。"
-        },
-        {
-            "id": 7,
-            "keyWord": "范围攻击",
-            "explanation": "对指定范围内的敌方单位造成无视掩体的群体伤害。"
-        },
-        {
-            "id": 8,
-            "keyWord": "急救",
-            "explanation": "能够为友方单位恢复生命值。"
-        },
-        {
-            "id": 9,
-            "keyWord": "效果残留",
-            "explanation": "会产生各种效果地格。"
-        },
-        {
-            "id": 10,
-            "keyWord": "猛撞",
-            "explanation": "能够沿直线向目标发起冲锋，无视路径上的窄边低掩体和友方单位。"
-        },
-        {
-            "id": 11,
-            "keyWord": "锁定",
-            "explanation": "锁定目标，下回合对目标进行攻击。"
-        },
-        {
-            "id": 12,
-            "keyWord": "精锐",
-            "explanation": "除了普通攻击，精锐单位往往具有额外的技能。"
-        },
-        {
-            "id": 13,
-            "keyWord": "深度屏蔽",
-            "explanation": "不会受到眩晕，嘲讽等控制以及指令禁止效果影响。"
-        },
-        {
-            "id": 14,
-            "keyWord": "大型目标",
-            "explanation": "体型巨大，不会受到掩体保护。"
-        },
-        {
-            "id": 15,
-            "keyWord": "反击",
-            "explanation": "攻击它的敌人会受到反击。"
-        },
-        {
-            "id": 16,
-            "keyWord": "协击",
-            "explanation": "射程内的单位受到攻击时，会立刻发动协助攻击。"
-        },
-        {
-            "id": 17,
-            "keyWord": "干扰",
-            "explanation": "能够让我方丧失部分行动能力。"
-        },
-        {
-            "id": 18,
-            "keyWord": "定向攻击",
-            "explanation": "可对敌方目标施加嘲讽效果。"
-        },
-        {
-            "id": 19,
-            "keyWord": "增援",
-            "explanation": "可呼叫不同的辅助单位进入战场，协助作战。"
-        },
-        {
-            "id": 20,
-            "keyWord": "定量轰炸",
-            "explanation": "造成的范围伤害可以被分摊。"
-        },
-        {
-            "id": 21,
-            "keyWord": "光学迷彩",
-            "explanation": "特定情况下无法被选中。"
-        },
-        {
-            "id": 22,
-            "keyWord": "监视",
-            "explanation": "在攻击或指定范围内，当有敌方目标尝试移动，会立刻发动1次攻击。"
-        },
-        {
-            "id": 23,
-            "keyWord": "激励",
-            "explanation": "满足特定条件时，将对目标造成额外的伤害。"
-        },
-        {
-            "id": 24,
-            "keyWord": "阻截",
-            "explanation": "在攻击或指定范围内，若敌方单位尝试攻击，则对其发动1次攻击。"
-        },
-        {
-            "id": 25,
-            "keyWord": "转变",
-            "explanation": "当陷入稳态崩溃时，会转换阵营。"
-        },
-        {
-            "id": 26,
-            "keyWord": "崩溃滞留",
-            "explanation": "当自身陷入稳态崩溃时，将无法移动。"
-        },
-        {
-            "id": 27,
-            "keyWord": "援护",
-            "explanation": "会为友方单位添加护盾。"
-        },
-        {
-            "id": 28,
-            "keyWord": "低空飞行",
-            "explanation": "攻击无视低位掩体的保护，但自身也无法受到低位掩体的保护。"
-        },
-        {
-            "id": 29,
-            "keyWord": "坚固",
-            "explanation": "能为友方目标提供稳态保护。"
-        },
-        {
-            "id": 30,
-            "keyWord": "先发制敌",
-            "explanation": "在攻击或指定范围内，若敌方单位做出任意行动，则对其发动1次攻击。"
-        },
-        {
-            "id": 31,
-            "keyWord": "友方强化",
-            "explanation": "为全体友方单位提供增益效果。"
-        },
-        {
-            "id": 32,
-            "keyWord": "攻击切换",
-            "explanation": "能够切换不同的战斗姿态。"
-        },
-        {
-            "id": 33,
-            "keyWord": "定位追踪",
-            "explanation": "能够让敌方单位暴露。"
-        },
-        {
-            "id": 34,
-            "keyWord": "追猎",
-            "explanation": "会优先攻击有某种特殊状态的敌人。"
-        },
-        {
-            "id": 35,
-            "keyWord": "递进狙击",
-            "explanation": "距离越远，攻击威力越大。"
-        },
-        {
-            "id": 36,
-            "keyWord": "聚宝盆",
-            "explanation": "挨打会掉落财宝！"
-        },
-        {
-            "id": 37,
-            "keyWord": "引力",
-            "explanation": "会将敌人吸引到身边。"
-        },
-        {
-            "id": 38,
-            "keyWord": "增幅装置",
-            "explanation": "在场上能够为友方提供增益"
-        },
-        {
-            "id": 40,
-            "keyWord": "鼓舞",
-            "explanation": "使指定范围内的友方单位获得增益效果。"
-        },
-        {
-            "id": 41,
-            "keyWord": "共鸣",
-            "explanation": "与特定友方距离近时获得增益效果。"
-        },
-        {
-            "id": 42,
-            "keyWord": "重型弹药",
-            "explanation": "射程不远，但有一定的威力"
-        },
-        {
-            "id": 43,
-            "keyWord": "重装防御",
-            "explanation": "生命值极高。"
-        },
-        {
-            "id": 44,
-            "keyWord": "演习设施",
-            "explanation": "能够在实兵演习中发挥作用。"
-        },
-        {
-            "id": 45,
-            "keyWord": "紧盯",
-            "explanation": "在攻击或指定范围内，当有敌方目标尝试攻击或释放技能，会立刻发动1次攻击。"
-        },
-        {
-            "id": 46,
-            "keyWord": "保护",
-            "explanation": "指定范围内友方目标被攻击时，自身会对攻击者进行反击"
-        },
-        {
-            "id": 47,
-            "keyWord": "开裂",
-            "explanation": "回合开始时开裂，将其诱捕的怪物放出。"
-        },
-        {
-            "id": 48,
-            "keyWord": "应激免疫",
-            "explanation": "受到眩晕，嘲讽等控制以及指令禁止效果的影响时，3回合内不会再受到眩晕，嘲讽等控制以及指令禁止效果影响。"
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"keyWord": "正面攻势",
+			"explanation": "只知道往前冲，然后攻击最近的敌人。"
+		},
+		{
+			"id": 2,
+			"keyWord": "隐蔽行动",
+			"explanation": "只知道躲在掩体后，然后发起攻击。"
+		},
+		{
+			"id": 3,
+			"keyWord": "灵活作战",
+			"explanation": "会躲在掩体后，或从最远处攻击敌人。"
+		},
+		{
+			"id": 4,
+			"keyWord": "近身搏斗",
+			"explanation": "会向前冲，但也会绕侧。"
+		},
+		{
+			"id": 5,
+			"keyWord": "平地疾驰",
+			"explanation": "可进行远距离移动。身体矮小，无法翻越掩体或攀登高地，也无法越过掩体攻击敌人。"
+		},
+		{
+			"id": 6,
+			"keyWord": "自毁",
+			"explanation": "损毁时将自爆，会对周围一定范围内的单位造成伤害。"
+		},
+		{
+			"id": 7,
+			"keyWord": "范围攻击",
+			"explanation": "对指定范围内的敌方单位造成无视掩体的群体伤害。"
+		},
+		{
+			"id": 8,
+			"keyWord": "急救",
+			"explanation": "能够为友方单位恢复生命值。"
+		},
+		{
+			"id": 9,
+			"keyWord": "效果残留",
+			"explanation": "会产生各种效果地格。"
+		},
+		{
+			"id": 10,
+			"keyWord": "猛撞",
+			"explanation": "能够沿直线向目标发起冲锋，无视路径上的窄边低掩体和友方单位。"
+		},
+		{
+			"id": 11,
+			"keyWord": "锁定",
+			"explanation": "锁定目标，下回合对目标进行攻击。"
+		},
+		{
+			"id": 12,
+			"keyWord": "精锐",
+			"explanation": "除了普通攻击，精锐单位往往具有额外的技能。"
+		},
+		{
+			"id": 13,
+			"keyWord": "深度屏蔽",
+			"explanation": "不会受到眩晕，嘲讽等控制以及指令禁止效果影响。"
+		},
+		{
+			"id": 14,
+			"keyWord": "大型目标",
+			"explanation": "体型巨大，不会受到掩体保护。"
+		},
+		{
+			"id": 15,
+			"keyWord": "反击",
+			"explanation": "攻击它的敌人会受到反击。"
+		},
+		{
+			"id": 16,
+			"keyWord": "协击",
+			"explanation": "射程内的单位受到攻击时，会立刻发动协助攻击。"
+		},
+		{
+			"id": 17,
+			"keyWord": "干扰",
+			"explanation": "能够让我方丧失部分行动能力。"
+		},
+		{
+			"id": 18,
+			"keyWord": "定向攻击",
+			"explanation": "可对敌方目标施加嘲讽效果。"
+		},
+		{
+			"id": 19,
+			"keyWord": "增援",
+			"explanation": "可呼叫不同的辅助单位进入战场，协助作战。"
+		},
+		{
+			"id": 20,
+			"keyWord": "定量轰炸",
+			"explanation": "造成的范围伤害可以被分摊。"
+		},
+		{
+			"id": 21,
+			"keyWord": "光学迷彩",
+			"explanation": "特定情况下无法被选中。"
+		},
+		{
+			"id": 22,
+			"keyWord": "监视",
+			"explanation": "在攻击或指定范围内，当有敌方目标尝试移动，会立刻发动1次攻击。"
+		},
+		{
+			"id": 23,
+			"keyWord": "激励",
+			"explanation": "满足特定条件时，将对目标造成额外的伤害。"
+		},
+		{
+			"id": 24,
+			"keyWord": "阻截",
+			"explanation": "在攻击或指定范围内，若敌方单位尝试攻击，则对其发动1次攻击。"
+		},
+		{
+			"id": 25,
+			"keyWord": "转变",
+			"explanation": "当陷入稳态崩溃时，会转换阵营。"
+		},
+		{
+			"id": 26,
+			"keyWord": "崩溃滞留",
+			"explanation": "当自身陷入稳态崩溃时，将无法移动。"
+		},
+		{
+			"id": 27,
+			"keyWord": "援护",
+			"explanation": "会为友方单位添加护盾。"
+		},
+		{
+			"id": 28,
+			"keyWord": "低空飞行",
+			"explanation": "攻击无视低位掩体的保护，但自身也无法受到低位掩体的保护。"
+		},
+		{
+			"id": 29,
+			"keyWord": "坚固",
+			"explanation": "能为友方目标提供稳态保护。"
+		},
+		{
+			"id": 30,
+			"keyWord": "先发制敌",
+			"explanation": "在攻击或指定范围内，若敌方单位做出任意行动，则对其发动1次攻击。"
+		},
+		{
+			"id": 31,
+			"keyWord": "友方强化",
+			"explanation": "为全体友方单位提供增益效果。"
+		},
+		{
+			"id": 32,
+			"keyWord": "攻击切换",
+			"explanation": "能够切换不同的战斗姿态。"
+		},
+		{
+			"id": 33,
+			"keyWord": "定位追踪",
+			"explanation": "能够让敌方单位暴露。"
+		},
+		{
+			"id": 34,
+			"keyWord": "追猎",
+			"explanation": "会优先攻击有某种特殊状态的敌人。"
+		},
+		{
+			"id": 35,
+			"keyWord": "递进狙击",
+			"explanation": "距离越远，攻击威力越大。"
+		},
+		{
+			"id": 36,
+			"keyWord": "聚宝盆",
+			"explanation": "挨打会掉落财宝！"
+		},
+		{
+			"id": 37,
+			"keyWord": "引力",
+			"explanation": "会将敌人吸引到身边。"
+		},
+		{
+			"id": 38,
+			"keyWord": "增幅装置",
+			"explanation": "在场上能够为友方提供增益"
+		},
+		{
+			"id": 40,
+			"keyWord": "鼓舞",
+			"explanation": "使指定范围内的友方单位获得增益效果。"
+		},
+		{
+			"id": 41,
+			"keyWord": "共鸣",
+			"explanation": "与特定友方距离近时获得增益效果。"
+		},
+		{
+			"id": 42,
+			"keyWord": "重型弹药",
+			"explanation": "射程不远，但有一定的威力"
+		},
+		{
+			"id": 43,
+			"keyWord": "重装防御",
+			"explanation": "生命值极高。"
+		},
+		{
+			"id": 44,
+			"keyWord": "演习设施",
+			"explanation": "能够在实兵演习中发挥作用。"
+		},
+		{
+			"id": 45,
+			"keyWord": "紧盯",
+			"explanation": "在攻击或指定范围内，当有敌方目标尝试攻击或释放技能，会立刻发动1次攻击。"
+		},
+		{
+			"id": 46,
+			"keyWord": "保护",
+			"explanation": "指定范围内友方目标被攻击时，自身会对攻击者进行反击"
+		},
+		{
+			"id": 47,
+			"keyWord": "开裂",
+			"explanation": "回合开始时开裂，将其诱捕的怪物放出。"
+		},
+		{
+			"id": 48,
+			"keyWord": "应激免疫",
+			"explanation": "受到眩晕，嘲讽等控制以及指令禁止效果的影响时，3回合内不会再受到眩晕，嘲讽等控制以及指令禁止效果影响。"
+		}
+	]
 }

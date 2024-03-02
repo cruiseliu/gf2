@@ -1,102 +1,102 @@
 {
-    "data": [
-        {
-            "groupId": 1001,
-            "groupType": 1,
-            "groupName": "主线-默认解锁-",
-            "npcId": 401,
-            "firstStep": 100101,
-            "groupIcon": "",
-            "unlockType": 0,
-            "unlockArgs": [],
-            "branchNum": 0
-        },
-        {
-            "groupId": 1002,
-            "groupType": 1,
-            "groupName": "主线-前置解锁-",
-            "unlockType": 1,
-            "unlockArgs": [
-                1001
-            ],
-            "npcId": 402,
-            "firstStep": 100201,
-            "groupIcon": "",
-            "branchNum": 0
-        },
-        {
-            "groupId": 1003,
-            "groupType": 1,
-            "groupName": "主线-好感度解锁-",
-            "unlockType": 2,
-            "unlockArgs": [
-                401,
-                500
-            ],
-            "npcId": 403,
-            "firstStep": 100301,
-            "groupIcon": "",
-            "branchNum": 0
-        },
-        {
-            "groupId": 1004,
-            "groupType": 1,
-            "groupName": "主线-暗区等级解锁-",
-            "unlockType": 3,
-            "unlockArgs": [
-                5
-            ],
-            "npcId": 404,
-            "firstStep": 100401,
-            "groupIcon": "",
-            "branchNum": 0
-        },
-        {
-            "groupId": 1005,
-            "groupType": 2,
-            "groupName": "每日-默认解锁-好感要求500",
-            "npcId": 401,
-            "firstStep": 100501,
-            "groupIcon": "",
-            "unlockType": 0,
-            "unlockArgs": [],
-            "branchNum": 0
-        },
-        {
-            "groupId": 1006,
-            "groupType": 2,
-            "groupName": "每日-默认解锁-好感要求1000",
-            "npcId": 401,
-            "firstStep": 100601,
-            "groupIcon": "",
-            "unlockType": 0,
-            "unlockArgs": [],
-            "branchNum": 0
-        },
-        {
-            "groupId": 1007,
-            "groupType": 2,
-            "groupName": "每日-默认解锁-好感要求1000",
-            "npcId": 401,
-            "firstStep": 100701,
-            "groupIcon": "",
-            "unlockType": 0,
-            "unlockArgs": [],
-            "branchNum": 0
-        },
-        {
-            "groupId": 1008,
-            "groupType": 1,
-            "groupName": "主线-好感度解锁-",
-            "unlockType": 2,
-            "unlockArgs": [
-                401,
-                500
-            ],
-            "npcId": 401,
-            "firstStep": 100801,
-            "groupIcon": "",
-            "branchNum": 0
-        }
-    ]
+	"data": [
+		{
+			"groupId": 1001,
+			"groupType": 1,
+			"groupName": "主线-默认解锁-",
+			"npcId": 401,
+			"firstStep": 100101,
+			"groupIcon": "",
+			"unlockType": 0,
+			"unlockArgs": [],
+			"branchNum": 0
+		},
+		{
+			"groupId": 1002,
+			"groupType": 1,
+			"groupName": "主线-前置解锁-",
+			"unlockType": 1,
+			"unlockArgs": [
+				1001
+			],
+			"npcId": 402,
+			"firstStep": 100201,
+			"groupIcon": "",
+			"branchNum": 0
+		},
+		{
+			"groupId": 1003,
+			"groupType": 1,
+			"groupName": "主线-好感度解锁-",
+			"unlockType": 2,
+			"unlockArgs": [
+				401,
+				500
+			],
+			"npcId": 403,
+			"firstStep": 100301,
+			"groupIcon": "",
+			"branchNum": 0
+		},
+		{
+			"groupId": 1004,
+			"groupType": 1,
+			"groupName": "主线-暗区等级解锁-",
+			"unlockType": 3,
+			"unlockArgs": [
+				5
+			],
+			"npcId": 404,
+			"firstStep": 100401,
+			"groupIcon": "",
+			"branchNum": 0
+		},
+		{
+			"groupId": 1005,
+			"groupType": 2,
+			"groupName": "每日-默认解锁-好感要求500",
+			"npcId": 401,
+			"firstStep": 100501,
+			"groupIcon": "",
+			"unlockType": 0,
+			"unlockArgs": [],
+			"branchNum": 0
+		},
+		{
+			"groupId": 1006,
+			"groupType": 2,
+			"groupName": "每日-默认解锁-好感要求1000",
+			"npcId": 401,
+			"firstStep": 100601,
+			"groupIcon": "",
+			"unlockType": 0,
+			"unlockArgs": [],
+			"branchNum": 0
+		},
+		{
+			"groupId": 1007,
+			"groupType": 2,
+			"groupName": "每日-默认解锁-好感要求1000",
+			"npcId": 401,
+			"firstStep": 100701,
+			"groupIcon": "",
+			"unlockType": 0,
+			"unlockArgs": [],
+			"branchNum": 0
+		},
+		{
+			"groupId": 1008,
+			"groupType": 1,
+			"groupName": "主线-好感度解锁-",
+			"unlockType": 2,
+			"unlockArgs": [
+				401,
+				500
+			],
+			"npcId": 401,
+			"firstStep": 100801,
+			"groupIcon": "",
+			"branchNum": 0
+		}
+	]
 }

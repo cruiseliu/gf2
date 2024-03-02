@@ -1,102 +1,91 @@
 {
-    "data": [
-        {
-            "id": 40101,
-            "simType": 18,
-            "number": "NO.1",
-            "tutorials": [
-                400101,
-                400102
-            ],
-            "tutorialsMark": 2,
-            "unlockStage": 0
-        },
-        {
-            "id": 40102,
-            "simType": 18,
-            "unlockStage": 40101,
-            "number": "NO.2",
-            "tutorials": [
-                400201,
-                400202
-            ],
-            "tutorialsMark": 2
-        },
-        {
-            "id": 40103,
-            "simType": 18,
-            "unlockStage": 40102,
-            "number": "NO.3",
-            "tutorials": [
-                400301
-            ],
-            "tutorialsMark": 1
-        },
-        {
-            "id": 40111,
-            "simType": 18,
-            "unlockStage": 40103,
-            "number": "NO.1",
-            "tutorials": [
-                400401,
-                400402
-            ],
-            "tutorialsMark": 2
-        },
-        {
-            "id": 40112,
-            "simType": 18,
-            "unlockStage": 40111,
-            "number": "NO.2",
-            "tutorials": [
-                400501,
-                400502,
-                400503
-            ],
-            "tutorialsMark": 3
-        },
-        {
-            "id": 40113,
-            "simType": 18,
-            "unlockStage": 40112,
-            "number": "NO.3",
-            "tutorials": [
-                400601,
-                400602,
-                400603
-            ],
-            "tutorialsMark": 3
-        },
-        {
-            "id": 40121,
-            "simType": 18,
-            "unlockStage": 40113,
-            "number": "NO.1",
-            "tutorials": [],
-            "tutorialsMark": 0
-        },
-        {
-            "id": 40122,
-            "simType": 18,
-            "unlockStage": 40121,
-            "number": "NO.2",
-            "tutorials": [
-                400801,
-                400802,
-                400803
-            ],
-            "tutorialsMark": 3
-        },
-        {
-            "id": 40123,
-            "simType": 18,
-            "unlockStage": 40122,
-            "number": "NO.3",
-            "tutorials": [
-                400901,
-                400902
-            ],
-            "tutorialsMark": 2
-        }
-    ]
+	"data": [
+		{
+			"id": 40102,
+			"simType": 18,
+			"unlockStage": 40101,
+			"number": "NO.2",
+			"tutorials": [
+				400201,
+				400202
+			],
+			"tutorialsMark": 2
+		},
+		{
+			"id": 40103,
+			"simType": 18,
+			"unlockStage": 40102,
+			"number": "NO.3",
+			"tutorials": [
+				400301
+			],
+			"tutorialsMark": 1
+		},
+		{
+			"id": 40111,
+			"simType": 18,
+			"unlockStage": 40103,
+			"number": "NO.1",
+			"tutorials": [
+				400401,
+				400402
+			],
+			"tutorialsMark": 2
+		},
+		{
+			"id": 40112,
+			"simType": 18,
+			"unlockStage": 40111,
+			"number": "NO.2",
+			"tutorials": [
+				400501,
+				400502,
+				400503
+			],
+			"tutorialsMark": 3
+		},
+		{
+			"id": 40113,
+			"simType": 18,
+			"unlockStage": 40112,
+			"number": "NO.3",
+			"tutorials": [
+				400601,
+				400602,
+				400603
+			],
+			"tutorialsMark": 3
+		},
+		{
+			"id": 40121,
+			"simType": 18,
+			"unlockStage": 40113,
+			"number": "NO.1",
+			"tutorials": [],
+			"tutorialsMark": 0
+		},
+		{
+			"id": 40122,
+			"simType": 18,
+			"unlockStage": 40121,
+			"number": "NO.2",
+			"tutorials": [
+				400801,
+				400802,
+				400803
+			],
+			"tutorialsMark": 3
+		},
+		{
+			"id": 40123,
+			"simType": 18,
+			"unlockStage": 40122,
+			"number": "NO.3",
+			"tutorials": [
+				400901,
+				400902
+			],
+			"tutorialsMark": 2
+		}
+	]
 }

@@ -1,20 +1,24 @@
 {
-    "data": [
-        {
-            "typeId": 51010,
-            "gridCanExit": 601
-        },
-        {
-            "typeId": 51030,
-            "gridCanExit": 602
-        },
-        {
-            "typeId": 51040,
-            "gridCanExit": 604
-        },
-        {
-            "typeId": 51070,
-            "gridCanExit": 605
-        }
-    ]
+	"data": [
+		{
+			"typeId": 51010,
+			"gridCanExit": 601
+		},
+		{
+			"typeId": 51030,
+			"gridCanExit": 602
+		},
+		{
+			"typeId": 51040,
+			"gridCanExit": 604
+		},
+		{
+			"typeId": 51050,
+			"gridCanExit": 603
+		},
+		{
+			"typeId": 51070,
+			"gridCanExit": 605
+		}
+	]
 }

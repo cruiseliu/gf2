@@ -1,81 +1,81 @@
 {
-    "data": [
-        {
-            "id": 24,
-            "phase": 1,
-            "rewardList": {
-                "3": 50
-            },
-            "description": "累计消耗演习徽记100个",
-            "conditionClass": 2,
-            "conditionNum": 100,
-            "link": ""
-        },
-        {
-            "id": 25,
-            "phase": 2,
-            "rewardList": {
-                "3": 50
-            },
-            "description": "累计消耗演习徽记200个",
-            "conditionClass": 2,
-            "conditionNum": 200,
-            "link": ""
-        },
-        {
-            "id": 26,
-            "phase": 3,
-            "rewardList": {
-                "3": 50
-            },
-            "description": "累计消耗演习徽记400个",
-            "conditionClass": 2,
-            "conditionNum": 400,
-            "link": ""
-        },
-        {
-            "id": 27,
-            "phase": 4,
-            "rewardList": {
-                "3": 50
-            },
-            "description": "累计消耗演习徽记600个",
-            "conditionClass": 2,
-            "conditionNum": 600,
-            "link": ""
-        },
-        {
-            "id": 28,
-            "phase": 5,
-            "rewardList": {
-                "3": 50
-            },
-            "description": "累计消耗演习徽记800个",
-            "conditionClass": 2,
-            "conditionNum": 800,
-            "link": ""
-        },
-        {
-            "id": 29,
-            "phase": 6,
-            "rewardList": {
-                "3": 50
-            },
-            "description": "累计消耗演习徽记1000个",
-            "conditionClass": 2,
-            "conditionNum": 1000,
-            "link": ""
-        },
-        {
-            "id": 30,
-            "phase": 7,
-            "rewardList": {
-                "3": 50
-            },
-            "description": "累计消耗演习徽记1500个",
-            "conditionClass": 2,
-            "conditionNum": 1500,
-            "link": ""
-        }
-    ]
+	"data": [
+		{
+			"id": 24,
+			"phase": 1,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "累计消耗演习徽记100个",
+			"conditionClass": 2,
+			"conditionNum": 100,
+			"link": ""
+		},
+		{
+			"id": 25,
+			"phase": 2,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "累计消耗演习徽记200个",
+			"conditionClass": 2,
+			"conditionNum": 200,
+			"link": ""
+		},
+		{
+			"id": 26,
+			"phase": 3,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "累计消耗演习徽记400个",
+			"conditionClass": 2,
+			"conditionNum": 400,
+			"link": ""
+		},
+		{
+			"id": 27,
+			"phase": 4,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "累计消耗演习徽记600个",
+			"conditionClass": 2,
+			"conditionNum": 600,
+			"link": ""
+		},
+		{
+			"id": 28,
+			"phase": 5,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "累计消耗演习徽记800个",
+			"conditionClass": 2,
+			"conditionNum": 800,
+			"link": ""
+		},
+		{
+			"id": 29,
+			"phase": 6,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "累计消耗演习徽记1000个",
+			"conditionClass": 2,
+			"conditionNum": 1000,
+			"link": ""
+		},
+		{
+			"id": 30,
+			"phase": 7,
+			"rewardList": {
+				"3": 50
+			},
+			"description": "累计消耗演习徽记1500个",
+			"conditionClass": 2,
+			"conditionNum": 1500,
+			"link": ""
+		}
+	]
 }

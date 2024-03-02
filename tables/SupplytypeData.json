@@ -1,24 +1,24 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "动能",
-            "enName": "Physical"
-        },
-        {
-            "name": "束流",
-            "enName": "Special",
-            "id": 0
-        },
-        {
-            "id": 2,
-            "name": "离子",
-            "enName": "Magical"
-        },
-        {
-            "id": 3,
-            "name": "稳态",
-            "enName": "Suppress"
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "动能",
+			"enName": "Physical"
+		},
+		{
+			"name": "束流",
+			"enName": "Special",
+			"id": 0
+		},
+		{
+			"id": 2,
+			"name": "离子",
+			"enName": "Magical"
+		},
+		{
+			"id": 3,
+			"name": "稳态",
+			"enName": "Suppress"
+		}
+	]
 }

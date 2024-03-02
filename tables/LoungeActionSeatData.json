@@ -1,234 +1,234 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "楼梯",
-            "icon": "Icon_LoungeSeatView_WeaponWall",
-            "coordinate": [
-                -3.072,
-                2.2727,
-                3.702
-            ],
-            "angleInitial": [
-                -4.308,
-                -34.446,
-                0.0
-            ],
-            "angleX": [
-                -50.0,
-                60.0
-            ],
-            "angleMaxX": [
-                -80.0,
-                80.0
-            ],
-            "angleY": [
-                -90.0,
-                30.0
-            ],
-            "angleMaxY": [
-                -110.0,
-                50.0
-            ],
-            "mirrorOperation": "Lounge_seat_timeline_WeaponWa",
-            "tips": "vfx_lounge_glow_02",
-            "tips1": "vfx_lounge_glow",
-            "tipsCoordinate": [
-                -4.529,
-                1.726,
-                5.57
-            ],
-            "dofSwitch": true,
-            "cameraArg": [
-                12.0,
-                12.0
-            ],
-            "lighting": "_LightSetting_stair",
-            "bubble": "FX_c_lng_bubble02_weaponwall"
-        },
-        {
-            "id": 2,
-            "name": "多功能区",
-            "icon": "Icon_LoungeSeatView_Function",
-            "coordinate": [
-                -4.809,
-                1.41,
-                1.326
-            ],
-            "angleInitial": [
-                3.162,
-                -64.87801,
-                0.0
-            ],
-            "angleX": [
-                -55.0,
-                60.0
-            ],
-            "angleMaxX": [
-                -75.0,
-                80.0
-            ],
-            "angleY": [
-                -68.0,
-                0.0
-            ],
-            "angleMaxY": [
-                -72.0,
-                20.0
-            ],
-            "mirrorOperation": "Lounge_seat_timeline_Function",
-            "tips": "vfx_lounge_glow_02",
-            "tips1": "vfx_lounge_glow",
-            "tipsCoordinate": [
-                -6.37,
-                1.0013,
-                1.394
-            ],
-            "dofSwitch": true,
-            "cameraArg": [
-                3.5,
-                10.0
-            ],
-            "lighting": "_LightSetting_functional",
-            "bubble": "FX_c_lng_bubble02_function"
-        },
-        {
-            "id": 3,
-            "name": "床",
-            "icon": "Icon_LoungeSeatView_Bed",
-            "coordinate": [
-                -1.265,
-                1.119,
-                0.81
-            ],
-            "angleInitial": [
-                4.594,
-                39.75,
-                -0.443
-            ],
-            "angleX": [
-                -50.0,
-                35.0
-            ],
-            "angleMaxX": [
-                -70.0,
-                45.0
-            ],
-            "angleY": [
-                -20.0,
-                60.0
-            ],
-            "angleMaxY": [
-                -40.0,
-                75.0
-            ],
-            "mirrorOperation": "Lounge_seat_timeline_Bed",
-            "tips": "vfx_lounge_glow_02",
-            "tips1": "vfx_lounge_glow",
-            "tipsCoordinate": [
-                -0.694,
-                0.8,
-                1.391
-            ],
-            "dofSwitch": true,
-            "cameraArg": [
-                3.5,
-                10.0
-            ],
-            "lighting": "_LightSetting_bed",
-            "bubble": "FX_c_lng_bubble02_bed"
-        },
-        {
-            "id": 4,
-            "name": "二楼",
-            "icon": "Icon_LoungeSeatView_Desk",
-            "coordinate": [
-                0.227,
-                3.61,
-                5.9546
-            ],
-            "angleInitial": [
-                7.111001,
-                -77.87,
-                0.217
-            ],
-            "angleX": [
-                -50.0,
-                65.0
-            ],
-            "angleMaxX": [
-                -70.0,
-                85.0
-            ],
-            "angleY": [
-                -137.0,
-                -17.0
-            ],
-            "angleMaxY": [
-                -157.0,
-                3.0
-            ],
-            "mirrorOperation": "Lounge_seat_timeline_Desk",
-            "tips": "vfx_lounge_glow_02",
-            "tips1": "vfx_lounge_glow",
-            "tipsCoordinate": [
-                -0.641,
-                3.538,
-                6.165
-            ],
-            "dofSwitch": true,
-            "cameraArg": [
-                6.0,
-                15.0
-            ],
-            "lighting": "_LightSetting_secondfloor",
-            "bubble": "FX_c_lng_bubble02_table"
-        },
-        {
-            "id": 5,
-            "name": "沙发",
-            "icon": "Icon_LoungeSeatView_Sofa",
-            "coordinate": [
-                1.4911,
-                1.088,
-                7.668
-            ],
-            "angleInitial": [
-                8.636001,
-                -100.171,
-                -0.369
-            ],
-            "angleX": [
-                -40.0,
-                30.0
-            ],
-            "angleMaxX": [
-                -60.0,
-                50.0
-            ],
-            "angleY": [
-                -160.0,
-                -40.0
-            ],
-            "angleMaxY": [
-                -180.0,
-                -20.0
-            ],
-            "mirrorOperation": "Lounge_seat_timeline_Sofa",
-            "tips": "vfx_lounge_glow_02",
-            "tips1": "vfx_lounge_glow",
-            "tipsCoordinate": [
-                0.398,
-                0.823,
-                7.919
-            ],
-            "dofSwitch": true,
-            "cameraArg": [
-                3.0,
-                15.0
-            ],
-            "lighting": "_LightSetting_sofa",
-            "bubble": "FX_c_lng_bubble02_sofa"
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "楼梯",
+			"icon": "Icon_LoungeSeatView_WeaponWall",
+			"coordinate": [
+				-3.072,
+				2.2727,
+				3.702
+			],
+			"angleInitial": [
+				-4.308,
+				-34.446,
+				0.0
+			],
+			"angleX": [
+				-50.0,
+				60.0
+			],
+			"angleMaxX": [
+				-80.0,
+				80.0
+			],
+			"angleY": [
+				-90.0,
+				30.0
+			],
+			"angleMaxY": [
+				-110.0,
+				50.0
+			],
+			"mirrorOperation": "Lounge_seat_timeline_WeaponWa",
+			"tips": "vfx_lounge_glow_02",
+			"tips1": "vfx_lounge_glow",
+			"tipsCoordinate": [
+				-4.529,
+				1.726,
+				5.57
+			],
+			"dofSwitch": true,
+			"cameraArg": [
+				12.0,
+				12.0
+			],
+			"lighting": "_LightSetting_stair",
+			"bubble": "FX_c_lng_bubble02_weaponwall"
+		},
+		{
+			"id": 2,
+			"name": "多功能区",
+			"icon": "Icon_LoungeSeatView_Function",
+			"coordinate": [
+				-4.809,
+				1.41,
+				1.326
+			],
+			"angleInitial": [
+				3.162,
+				-64.87801,
+				0.0
+			],
+			"angleX": [
+				-55.0,
+				60.0
+			],
+			"angleMaxX": [
+				-75.0,
+				80.0
+			],
+			"angleY": [
+				-68.0,
+				0.0
+			],
+			"angleMaxY": [
+				-72.0,
+				20.0
+			],
+			"mirrorOperation": "Lounge_seat_timeline_Function",
+			"tips": "vfx_lounge_glow_02",
+			"tips1": "vfx_lounge_glow",
+			"tipsCoordinate": [
+				-6.37,
+				1.0013,
+				1.394
+			],
+			"dofSwitch": true,
+			"cameraArg": [
+				3.5,
+				10.0
+			],
+			"lighting": "_LightSetting_functional",
+			"bubble": "FX_c_lng_bubble02_function"
+		},
+		{
+			"id": 3,
+			"name": "床",
+			"icon": "Icon_LoungeSeatView_Bed",
+			"coordinate": [
+				-1.265,
+				1.119,
+				0.81
+			],
+			"angleInitial": [
+				4.594,
+				39.75,
+				-0.443
+			],
+			"angleX": [
+				-50.0,
+				35.0
+			],
+			"angleMaxX": [
+				-70.0,
+				45.0
+			],
+			"angleY": [
+				-20.0,
+				60.0
+			],
+			"angleMaxY": [
+				-40.0,
+				75.0
+			],
+			"mirrorOperation": "Lounge_seat_timeline_Bed",
+			"tips": "vfx_lounge_glow_02",
+			"tips1": "vfx_lounge_glow",
+			"tipsCoordinate": [
+				-0.694,
+				0.8,
+				1.391
+			],
+			"dofSwitch": true,
+			"cameraArg": [
+				3.5,
+				10.0
+			],
+			"lighting": "_LightSetting_bed",
+			"bubble": "FX_c_lng_bubble02_bed"
+		},
+		{
+			"id": 4,
+			"name": "二楼",
+			"icon": "Icon_LoungeSeatView_Desk",
+			"coordinate": [
+				0.227,
+				3.61,
+				5.9546
+			],
+			"angleInitial": [
+				7.111001,
+				-77.87,
+				0.217
+			],
+			"angleX": [
+				-50.0,
+				65.0
+			],
+			"angleMaxX": [
+				-70.0,
+				85.0
+			],
+			"angleY": [
+				-137.0,
+				-17.0
+			],
+			"angleMaxY": [
+				-157.0,
+				3.0
+			],
+			"mirrorOperation": "Lounge_seat_timeline_Desk",
+			"tips": "vfx_lounge_glow_02",
+			"tips1": "vfx_lounge_glow",
+			"tipsCoordinate": [
+				-0.641,
+				3.538,
+				6.165
+			],
+			"dofSwitch": true,
+			"cameraArg": [
+				6.0,
+				15.0
+			],
+			"lighting": "_LightSetting_secondfloor",
+			"bubble": "FX_c_lng_bubble02_table"
+		},
+		{
+			"id": 5,
+			"name": "沙发",
+			"icon": "Icon_LoungeSeatView_Sofa",
+			"coordinate": [
+				1.4911,
+				1.088,
+				7.668
+			],
+			"angleInitial": [
+				8.636001,
+				-100.171,
+				-0.369
+			],
+			"angleX": [
+				-40.0,
+				30.0
+			],
+			"angleMaxX": [
+				-60.0,
+				50.0
+			],
+			"angleY": [
+				-160.0,
+				-40.0
+			],
+			"angleMaxY": [
+				-180.0,
+				-20.0
+			],
+			"mirrorOperation": "Lounge_seat_timeline_Sofa",
+			"tips": "vfx_lounge_glow_02",
+			"tips1": "vfx_lounge_glow",
+			"tipsCoordinate": [
+				0.398,
+				0.823,
+				7.919
+			],
+			"dofSwitch": true,
+			"cameraArg": [
+				3.0,
+				15.0
+			],
+			"lighting": "_LightSetting_sofa",
+			"bubble": "FX_c_lng_bubble02_sofa"
+		}
+	]
 }

@@ -1,688 +1,688 @@
 {
-    "data": [
-        {
-            "id": 10101,
-            "taskGroup": 101101,
-            "title": "安全通行",
-            "desc": "指挥官等级达到21级",
-            "conditionId": 402,
-            "conditionNum": 21,
-            "reward": {
-                "23042": 1
-            },
-            "preTask": 0,
-            "conditionArg0": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10102,
-            "taskGroup": 101101,
-            "title": "钱从四面八方来",
-            "desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到370",
-            "conditionId": 920,
-            "conditionNum": 370,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10103,
-            "taskGroup": 101101,
-            "title": "礼宾有道",
-            "desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到60人次",
-            "conditionId": 921,
-            "conditionNum": 60,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10104,
-            "taskGroup": 101101,
-            "title": "无阻于风沙",
-            "desc": "通过醇香委托，完成<color=#d67849>常规采送Ⅰ</color>1次",
-            "conditionId": 924,
-            "conditionNum": 1,
-            "conditionArg0": 101,
-            "conditionArg1": 1001,
-            "reward": {
-                "170014": 800
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10105,
-            "taskGroup": 101101,
-            "title": "货源充足",
-            "desc": "通过常规采送I，利用物资置换获取<color=#d67849>丝绒拿铁原料包</color>60份",
-            "conditionId": 5,
-            "conditionNum": 60,
-            "conditionArg0": 170015,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10106,
-            "taskGroup": 101101,
-            "title": "一杯又一杯",
-            "desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·丝绒拿铁</color>60杯",
-            "conditionId": 922,
-            "conditionNum": 60,
-            "conditionArg0": 101,
-            "conditionArg1": 170045,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10107,
-            "taskGroup": 101101,
-            "title": "意见采集",
-            "desc": "通过意见墙，累计统合<color=#d67849>任意2级·鼓励便签</color>3张",
-            "conditionId": 929,
-            "conditionNum": 3,
-            "conditionArg0": 101,
-            "conditionArg1": 2,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10108,
-            "taskGroup": 101102,
-            "title": "钱从四面八方来",
-            "desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到2130",
-            "conditionId": 920,
-            "conditionNum": 2130,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10109,
-            "taskGroup": 101102,
-            "title": "礼宾有道",
-            "desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到160人次",
-            "conditionId": 921,
-            "conditionNum": 160,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10110,
-            "taskGroup": 101102,
-            "title": "无阻于风沙",
-            "desc": "通过醇香委托，完成<color=#d67849>常规采送Ⅱ</color>1次",
-            "conditionId": 924,
-            "conditionNum": 1,
-            "conditionArg0": 101,
-            "conditionArg1": 1002,
-            "reward": {
-                "170014": 800
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10111,
-            "taskGroup": 101102,
-            "title": "货源充足",
-            "desc": "通过常规采送II，利用物资置换获取<color=#d67849>生椰雪山原料包</color>144份",
-            "conditionId": 5,
-            "conditionNum": 144,
-            "conditionArg0": 170016,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10112,
-            "taskGroup": 101102,
-            "title": "一杯又一杯",
-            "desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·生椰雪山</color>144杯",
-            "conditionId": 922,
-            "conditionNum": 144,
-            "conditionArg0": 101,
-            "conditionArg1": 170046,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10113,
-            "taskGroup": 101102,
-            "title": "意见采集",
-            "desc": "通过意见墙，累计统合<color=#d67849>任意2级·鼓励便签</color>14张",
-            "conditionId": 929,
-            "conditionNum": 14,
-            "conditionArg0": 101,
-            "conditionArg1": 2,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10114,
-            "taskGroup": 101103,
-            "title": "钱从四面八方来",
-            "desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到5800",
-            "conditionId": 920,
-            "conditionNum": 5800,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10115,
-            "taskGroup": 101103,
-            "title": "礼宾有道",
-            "desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到700人次",
-            "conditionId": 921,
-            "conditionNum": 700,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10116,
-            "taskGroup": 101103,
-            "title": "无阻于风沙",
-            "desc": "通过醇香委托，完成<color=#d67849>品质采送Ⅰ</color>1次",
-            "conditionId": 924,
-            "conditionNum": 1,
-            "conditionArg0": 101,
-            "conditionArg1": 2001,
-            "reward": {
-                "170014": 800
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10117,
-            "taskGroup": 101103,
-            "title": "货源充足",
-            "desc": "通过品质采送I，利用物资置换获取<color=#d67849>闪耀之夜原料包</color>252份",
-            "conditionId": 5,
-            "conditionNum": 252,
-            "conditionArg0": 170017,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10118,
-            "taskGroup": 101103,
-            "title": "一杯又一杯",
-            "desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·闪耀之夜</color>252杯",
-            "conditionId": 922,
-            "conditionNum": 252,
-            "conditionArg0": 101,
-            "conditionArg1": 170047,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10119,
-            "taskGroup": 101103,
-            "title": "意见采集",
-            "desc": "通过意见墙，累计统合<color=#d67849>任意3级·改进便签</color>14张",
-            "conditionId": 929,
-            "conditionNum": 14,
-            "conditionArg0": 101,
-            "conditionArg1": 3,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10120,
-            "taskGroup": 101104,
-            "title": "钱从四面八方来",
-            "desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到12300",
-            "conditionId": 920,
-            "conditionNum": 12300,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10121,
-            "taskGroup": 101104,
-            "title": "礼宾有道",
-            "desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到1300人次",
-            "conditionId": 921,
-            "conditionNum": 1300,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10122,
-            "taskGroup": 101104,
-            "title": "无阻于风沙",
-            "desc": "通过醇香委托，完成<color=#d67849>品质采送Ⅱ</color>1次",
-            "conditionId": 924,
-            "conditionNum": 1,
-            "conditionArg0": 101,
-            "conditionArg1": 2003,
-            "reward": {
-                "170014": 800
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10123,
-            "taskGroup": 101104,
-            "title": "货源充足",
-            "desc": "通过品质采送II，利用物资置换获取<color=#d67849>厚乳生酪原料包</color>288份",
-            "conditionId": 5,
-            "conditionNum": 288,
-            "conditionArg0": 170018,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10124,
-            "taskGroup": 101104,
-            "title": "一杯又一杯",
-            "desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·厚乳生酪</color>288杯",
-            "conditionId": 922,
-            "conditionNum": 288,
-            "conditionArg0": 101,
-            "conditionArg1": 170048,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10125,
-            "taskGroup": 101104,
-            "title": "意见采集",
-            "desc": "通过意见墙，累计统合<color=#d67849>任意3级·改进便签</color>24张",
-            "conditionId": 929,
-            "conditionNum": 24,
-            "conditionArg0": 101,
-            "conditionArg1": 3,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10126,
-            "taskGroup": 101105,
-            "title": "钱从四面八方来",
-            "desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到34300",
-            "conditionId": 920,
-            "conditionNum": 34300,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10127,
-            "taskGroup": 101105,
-            "title": "礼宾有道",
-            "desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到3580人次",
-            "conditionId": 921,
-            "conditionNum": 3580,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10128,
-            "taskGroup": 101105,
-            "title": "无阻于风沙",
-            "desc": "通过醇香委托，完成<color=#d67849>精品采送Ⅰ</color>1次",
-            "conditionId": 924,
-            "conditionNum": 1,
-            "conditionArg0": 101,
-            "conditionArg1": 3001,
-            "reward": {
-                "170014": 800
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10129,
-            "taskGroup": 101105,
-            "title": "货源充足",
-            "desc": "通过精品采送I，利用物资置换获取<color=#d67849>长夏琅戈原料包</color>324份",
-            "conditionId": 5,
-            "conditionNum": 324,
-            "conditionArg0": 170019,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10130,
-            "taskGroup": 101105,
-            "title": "一杯又一杯",
-            "desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·长夏琅戈</color>324杯",
-            "conditionId": 922,
-            "conditionNum": 324,
-            "conditionArg0": 101,
-            "conditionArg1": 170049,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10131,
-            "taskGroup": 101105,
-            "title": "意见采集",
-            "desc": "通过意见墙，累计统合<color=#d67849>任意4级·期望便签</color>16张",
-            "conditionId": 929,
-            "conditionNum": 16,
-            "conditionArg0": 101,
-            "conditionArg1": 4,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10132,
-            "taskGroup": 101106,
-            "title": "钱从四面八方来",
-            "desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到71800",
-            "conditionId": 920,
-            "conditionNum": 71800,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10133,
-            "taskGroup": 101106,
-            "title": "礼宾有道",
-            "desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到7120人次",
-            "conditionId": 921,
-            "conditionNum": 7120,
-            "conditionArg0": 101,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg1": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10134,
-            "taskGroup": 101106,
-            "title": "无阻于风沙",
-            "desc": "通过醇香委托，完成<color=#d67849>精品采送Ⅱ</color>1次",
-            "conditionId": 924,
-            "conditionNum": 1,
-            "conditionArg0": 101,
-            "conditionArg1": 3003,
-            "reward": {
-                "170014": 800
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10135,
-            "taskGroup": 101106,
-            "title": "一杯又一杯",
-            "desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·挚爱玛绮朵</color>720杯",
-            "conditionId": 922,
-            "conditionNum": 720,
-            "conditionArg0": 101,
-            "conditionArg1": 170050,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10136,
-            "taskGroup": 101106,
-            "title": "意见采集",
-            "desc": "通过意见墙，累计统合<color=#d67849>任意5级·好评便签</color>8张",
-            "conditionId": 929,
-            "conditionNum": 8,
-            "conditionArg0": 101,
-            "conditionArg1": 5,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10137,
-            "taskGroup": 101106,
-            "title": "战斗型配送员",
-            "desc": "通过精品采送II，累计击败<color=#d67849>獠牙铁兽</color>1次",
-            "conditionId": 575,
-            "conditionNum": 1,
-            "conditionArg0": 4,
-            "conditionArg1": 6956,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10138,
-            "taskGroup": 101106,
-            "title": "战斗型配送员",
-            "desc": "通过精品采送II，累计击败<color=#d67849>断角铁兽</color>1次",
-            "conditionId": 575,
-            "conditionNum": 1,
-            "conditionArg0": 4,
-            "conditionArg1": 6958,
-            "reward": {
-                "170014": 500
-            },
-            "preTask": 0,
-            "conditionArg2": 0,
-            "conditionArg3": 0,
-            "counterType": 0,
-            "resetType": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 10101,
+			"taskGroup": 101101,
+			"title": "安全通行",
+			"desc": "指挥官等级达到21级",
+			"conditionId": 402,
+			"conditionNum": 21,
+			"reward": {
+				"23042": 1
+			},
+			"preTask": 0,
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10102,
+			"taskGroup": 101101,
+			"title": "钱从四面八方来",
+			"desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到370",
+			"conditionId": 920,
+			"conditionNum": 370,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10103,
+			"taskGroup": 101101,
+			"title": "礼宾有道",
+			"desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到60人次",
+			"conditionId": 921,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10104,
+			"taskGroup": 101101,
+			"title": "无阻于风沙",
+			"desc": "通过醇香委托，完成<color=#d67849>常规采送Ⅰ</color>1次",
+			"conditionId": 924,
+			"conditionNum": 1,
+			"conditionArg0": 101,
+			"conditionArg1": 1001,
+			"reward": {
+				"170014": 800
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10105,
+			"taskGroup": 101101,
+			"title": "货源充足",
+			"desc": "通过常规采送I，利用物资置换获取<color=#d67849>丝绒拿铁原料包</color>60份",
+			"conditionId": 5,
+			"conditionNum": 60,
+			"conditionArg0": 170015,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10106,
+			"taskGroup": 101101,
+			"title": "一杯又一杯",
+			"desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·丝绒拿铁</color>60杯",
+			"conditionId": 922,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"conditionArg1": 170045,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10107,
+			"taskGroup": 101101,
+			"title": "意见采集",
+			"desc": "通过意见墙，累计统合<color=#d67849>任意2级·鼓励便签</color>3张",
+			"conditionId": 929,
+			"conditionNum": 3,
+			"conditionArg0": 101,
+			"conditionArg1": 2,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10108,
+			"taskGroup": 101102,
+			"title": "钱从四面八方来",
+			"desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到2130",
+			"conditionId": 920,
+			"conditionNum": 2130,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10109,
+			"taskGroup": 101102,
+			"title": "礼宾有道",
+			"desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到160人次",
+			"conditionId": 921,
+			"conditionNum": 160,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10110,
+			"taskGroup": 101102,
+			"title": "无阻于风沙",
+			"desc": "通过醇香委托，完成<color=#d67849>常规采送Ⅱ</color>1次",
+			"conditionId": 924,
+			"conditionNum": 1,
+			"conditionArg0": 101,
+			"conditionArg1": 1002,
+			"reward": {
+				"170014": 800
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10111,
+			"taskGroup": 101102,
+			"title": "货源充足",
+			"desc": "通过常规采送II，利用物资置换获取<color=#d67849>生椰雪山原料包</color>144份",
+			"conditionId": 5,
+			"conditionNum": 144,
+			"conditionArg0": 170016,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10112,
+			"taskGroup": 101102,
+			"title": "一杯又一杯",
+			"desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·生椰雪山</color>144杯",
+			"conditionId": 922,
+			"conditionNum": 144,
+			"conditionArg0": 101,
+			"conditionArg1": 170046,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10113,
+			"taskGroup": 101102,
+			"title": "意见采集",
+			"desc": "通过意见墙，累计统合<color=#d67849>任意2级·鼓励便签</color>14张",
+			"conditionId": 929,
+			"conditionNum": 14,
+			"conditionArg0": 101,
+			"conditionArg1": 2,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10114,
+			"taskGroup": 101103,
+			"title": "钱从四面八方来",
+			"desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到5800",
+			"conditionId": 920,
+			"conditionNum": 5800,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10115,
+			"taskGroup": 101103,
+			"title": "礼宾有道",
+			"desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到700人次",
+			"conditionId": 921,
+			"conditionNum": 700,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10116,
+			"taskGroup": 101103,
+			"title": "无阻于风沙",
+			"desc": "通过醇香委托，完成<color=#d67849>品质采送Ⅰ</color>1次",
+			"conditionId": 924,
+			"conditionNum": 1,
+			"conditionArg0": 101,
+			"conditionArg1": 2001,
+			"reward": {
+				"170014": 800
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10117,
+			"taskGroup": 101103,
+			"title": "货源充足",
+			"desc": "通过品质采送I，利用物资置换获取<color=#d67849>闪耀之夜原料包</color>252份",
+			"conditionId": 5,
+			"conditionNum": 252,
+			"conditionArg0": 170017,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10118,
+			"taskGroup": 101103,
+			"title": "一杯又一杯",
+			"desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·闪耀之夜</color>252杯",
+			"conditionId": 922,
+			"conditionNum": 252,
+			"conditionArg0": 101,
+			"conditionArg1": 170047,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10119,
+			"taskGroup": 101103,
+			"title": "意见采集",
+			"desc": "通过意见墙，累计统合<color=#d67849>任意3级·改进便签</color>14张",
+			"conditionId": 929,
+			"conditionNum": 14,
+			"conditionArg0": 101,
+			"conditionArg1": 3,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10120,
+			"taskGroup": 101104,
+			"title": "钱从四面八方来",
+			"desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到12300",
+			"conditionId": 920,
+			"conditionNum": 12300,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10121,
+			"taskGroup": 101104,
+			"title": "礼宾有道",
+			"desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到1300人次",
+			"conditionId": 921,
+			"conditionNum": 1300,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10122,
+			"taskGroup": 101104,
+			"title": "无阻于风沙",
+			"desc": "通过醇香委托，完成<color=#d67849>品质采送Ⅱ</color>1次",
+			"conditionId": 924,
+			"conditionNum": 1,
+			"conditionArg0": 101,
+			"conditionArg1": 2003,
+			"reward": {
+				"170014": 800
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10123,
+			"taskGroup": 101104,
+			"title": "货源充足",
+			"desc": "通过品质采送II，利用物资置换获取<color=#d67849>厚乳生酪原料包</color>288份",
+			"conditionId": 5,
+			"conditionNum": 288,
+			"conditionArg0": 170018,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10124,
+			"taskGroup": 101104,
+			"title": "一杯又一杯",
+			"desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·厚乳生酪</color>288杯",
+			"conditionId": 922,
+			"conditionNum": 288,
+			"conditionArg0": 101,
+			"conditionArg1": 170048,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10125,
+			"taskGroup": 101104,
+			"title": "意见采集",
+			"desc": "通过意见墙，累计统合<color=#d67849>任意3级·改进便签</color>24张",
+			"conditionId": 929,
+			"conditionNum": 24,
+			"conditionArg0": 101,
+			"conditionArg1": 3,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10126,
+			"taskGroup": 101105,
+			"title": "钱从四面八方来",
+			"desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到34300",
+			"conditionId": 920,
+			"conditionNum": 34300,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10127,
+			"taskGroup": 101105,
+			"title": "礼宾有道",
+			"desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到3580人次",
+			"conditionId": 921,
+			"conditionNum": 3580,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10128,
+			"taskGroup": 101105,
+			"title": "无阻于风沙",
+			"desc": "通过醇香委托，完成<color=#d67849>精品采送Ⅰ</color>1次",
+			"conditionId": 924,
+			"conditionNum": 1,
+			"conditionArg0": 101,
+			"conditionArg1": 3001,
+			"reward": {
+				"170014": 800
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10129,
+			"taskGroup": 101105,
+			"title": "货源充足",
+			"desc": "通过精品采送I，利用物资置换获取<color=#d67849>长夏琅戈原料包</color>324份",
+			"conditionId": 5,
+			"conditionNum": 324,
+			"conditionArg0": 170019,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10130,
+			"taskGroup": 101105,
+			"title": "一杯又一杯",
+			"desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·长夏琅戈</color>324杯",
+			"conditionId": 922,
+			"conditionNum": 324,
+			"conditionArg0": 101,
+			"conditionArg1": 170049,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10131,
+			"taskGroup": 101105,
+			"title": "意见采集",
+			"desc": "通过意见墙，累计统合<color=#d67849>任意4级·期望便签</color>16张",
+			"conditionId": 929,
+			"conditionNum": 16,
+			"conditionArg0": 101,
+			"conditionArg1": 4,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10132,
+			"taskGroup": 101106,
+			"title": "钱从四面八方来",
+			"desc": "多多售卖各种饮品，使<color=#d67849>销售总额</color>达到71800",
+			"conditionId": 920,
+			"conditionNum": 71800,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10133,
+			"taskGroup": 101106,
+			"title": "礼宾有道",
+			"desc": "确保自助吧台原料充足，使<color=#d67849>客流量</color>达到7120人次",
+			"conditionId": 921,
+			"conditionNum": 7120,
+			"conditionArg0": 101,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10134,
+			"taskGroup": 101106,
+			"title": "无阻于风沙",
+			"desc": "通过醇香委托，完成<color=#d67849>精品采送Ⅱ</color>1次",
+			"conditionId": 924,
+			"conditionNum": 1,
+			"conditionArg0": 101,
+			"conditionArg1": 3003,
+			"reward": {
+				"170014": 800
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10135,
+			"taskGroup": 101106,
+			"title": "一杯又一杯",
+			"desc": "确保指定原料充足，累计售出<color=#d67849>考核指定饮品·挚爱玛绮朵</color>720杯",
+			"conditionId": 922,
+			"conditionNum": 720,
+			"conditionArg0": 101,
+			"conditionArg1": 170050,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10136,
+			"taskGroup": 101106,
+			"title": "意见采集",
+			"desc": "通过意见墙，累计统合<color=#d67849>任意5级·好评便签</color>8张",
+			"conditionId": 929,
+			"conditionNum": 8,
+			"conditionArg0": 101,
+			"conditionArg1": 5,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10137,
+			"taskGroup": 101106,
+			"title": "战斗型配送员",
+			"desc": "通过精品采送II，累计击败<color=#d67849>獠牙铁兽</color>1次",
+			"conditionId": 575,
+			"conditionNum": 1,
+			"conditionArg0": 4,
+			"conditionArg1": 6956,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10138,
+			"taskGroup": 101106,
+			"title": "战斗型配送员",
+			"desc": "通过精品采送II，累计击败<color=#d67849>断角铁兽</color>1次",
+			"conditionId": 575,
+			"conditionNum": 1,
+			"conditionArg0": 4,
+			"conditionArg1": 6958,
+			"reward": {
+				"170014": 500
+			},
+			"preTask": 0,
+			"conditionArg2": 0,
+			"conditionArg3": 0,
+			"counterType": 0,
+			"resetType": 0
+		}
+	]
 }

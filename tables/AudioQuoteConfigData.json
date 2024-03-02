@@ -1,58 +1,58 @@
 {
-    "data": [
-        {
-            "totalFootstepId": [
-                53005,
-                53006,
-                53007,
-                53010,
-                53011,
-                53012,
-                53026
-            ],
-            "totalClothId": [
-                53015,
-                53016,
-                53017,
-                53018,
-                53019,
-                53020,
-                53021,
-                53022,
-                53023
-            ],
-            "climbFootstepId": [
-                53026
-            ],
-            "selectSound": 1010011,
-            "cancelSound": 1010002,
-            "moveSound": 1010012,
-            "attackTargetSound": 1010011,
-            "clickSound": 1010005,
-            "battleCommon": [
-                "Foley_Common",
-                "EN_Foley_Common",
-                "Common_Bullet",
-                "Gun_Series",
-                "Buff",
-                "Hit",
-                "Scene",
-                "UI_System",
-                "UI_Battle"
-            ],
-            "darkzoneCommon": [
-                "Foley_Common",
-                "EN_Foley_Common",
-                "Common_Bullet",
-                "Gun_Series",
-                "Buff",
-                "Hit",
-                "Scene",
-                "UI_System",
-                "UI_Battle"
-            ],
-            "selectSoundNoEnemy": 1010005,
-            "hpNearDeath": 300
-        }
-    ]
+	"data": [
+		{
+			"totalFootstepId": [
+				53005,
+				53006,
+				53007,
+				53010,
+				53011,
+				53012,
+				53026
+			],
+			"totalClothId": [
+				53015,
+				53016,
+				53017,
+				53018,
+				53019,
+				53020,
+				53021,
+				53022,
+				53023
+			],
+			"climbFootstepId": [
+				53026
+			],
+			"selectSound": 1010011,
+			"cancelSound": 1010002,
+			"moveSound": 1010012,
+			"attackTargetSound": 1010011,
+			"clickSound": 1010005,
+			"battleCommon": [
+				"Foley_Common",
+				"EN_Foley_Common",
+				"Common_Bullet",
+				"Gun_Series",
+				"Buff",
+				"Hit",
+				"Scene",
+				"UI_System",
+				"UI_Battle"
+			],
+			"darkzoneCommon": [
+				"Foley_Common",
+				"EN_Foley_Common",
+				"Common_Bullet",
+				"Gun_Series",
+				"Buff",
+				"Hit",
+				"Scene",
+				"UI_System",
+				"UI_Battle"
+			],
+			"selectSoundNoEnemy": 1010005,
+			"hpNearDeath": 300
+		}
+	]
 }

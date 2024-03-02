@@ -1,232 +1,232 @@
 {
-    "data": [
-        {
-            "id": 101,
-            "num": "01",
-            "name": "守望者",
-            "map": 1,
-            "position": 1,
-            "unlock": [
-                99201
-            ],
-            "sweepsReward": {
-                "9006": 6
-            },
-            "sweepsCost": {
-                "101": 20
-            },
-            "unlockHint": "指挥官等级达到15级解锁",
-            "chapterRewardValue": [
-                3,
-                9,
-                15
-            ],
-            "chapterRewardShow": {
-                "2": 12,
-                "3": 12,
-                "1": 12
-            },
-            "unlockPercentage": "0,50,100;",
-            "mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
-            "chapterReward": "9006:8,9012:1|9006:10,9012:2|9006:12,9012:2",
-            "uidExp": 20,
-            "level": 0,
-            "chapterSweepsSwitch": 0,
-            "sweepsTimes": 0,
-            "chapterReward1": {},
-            "chapterReward2": {},
-            "chapterReward3": {},
-            "preChapter": 0
-        },
-        {
-            "id": 102,
-            "num": "02",
-            "name": "流浪的人",
-            "map": 1,
-            "position": 2,
-            "unlock": [
-                99202
-            ],
-            "sweepsReward": {
-                "9007": 6
-            },
-            "sweepsCost": {
-                "101": 20
-            },
-            "unlockHint": "指挥官等级达到20级解锁",
-            "chapterRewardValue": [
-                3,
-                9,
-                15
-            ],
-            "chapterRewardShow": {
-                "2": 12,
-                "3": 12,
-                "1": 12
-            },
-            "preChapter": 101,
-            "unlockPercentage": "0,50,100;",
-            "mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
-            "chapterReward": "9007:8,9012:1|9007:10,9012:2|9007:12,9012:2",
-            "uidExp": 20,
-            "level": 0,
-            "chapterSweepsSwitch": 0,
-            "sweepsTimes": 0,
-            "chapterReward1": {},
-            "chapterReward2": {},
-            "chapterReward3": {}
-        },
-        {
-            "id": 103,
-            "num": "03",
-            "name": "限时替身",
-            "map": 1,
-            "position": 3,
-            "unlock": [
-                99203
-            ],
-            "sweepsReward": {
-                "9008": 5
-            },
-            "sweepsCost": {
-                "101": 20
-            },
-            "unlockHint": "指挥官等级达到25级解锁",
-            "chapterRewardValue": [
-                3,
-                9,
-                15
-            ],
-            "chapterRewardShow": {
-                "2": 12,
-                "3": 12,
-                "1": 12
-            },
-            "preChapter": 102,
-            "unlockPercentage": "0,50,100;",
-            "mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
-            "chapterReward": "9008:15,9012:1|9008:20,9012:2|9008:25,9012:2",
-            "uidExp": 20,
-            "level": 0,
-            "chapterSweepsSwitch": 0,
-            "sweepsTimes": 0,
-            "chapterReward1": {},
-            "chapterReward2": {},
-            "chapterReward3": {}
-        },
-        {
-            "id": 104,
-            "num": "04",
-            "name": "最后的命令",
-            "map": 1,
-            "position": 4,
-            "unlock": [
-                99204
-            ],
-            "sweepsReward": {
-                "9009": 4
-            },
-            "sweepsCost": {
-                "101": 20
-            },
-            "unlockHint": "指挥官等级达到30级解锁",
-            "chapterRewardValue": [
-                3,
-                9,
-                15
-            ],
-            "chapterRewardShow": {
-                "2": 12,
-                "3": 12,
-                "1": 12
-            },
-            "preChapter": 103,
-            "unlockPercentage": "0,50,100;",
-            "mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
-            "chapterReward": "9009:25,9012:1|9009:30,9012:2|9009:45,9012:2",
-            "uidExp": 20,
-            "level": 0,
-            "chapterSweepsSwitch": 0,
-            "sweepsTimes": 0,
-            "chapterReward1": {},
-            "chapterReward2": {},
-            "chapterReward3": {}
-        },
-        {
-            "id": 105,
-            "num": "05",
-            "name": "乘于裙摆之上",
-            "map": 1,
-            "position": 5,
-            "unlock": [
-                99205
-            ],
-            "sweepsReward": {
-                "9010": 3
-            },
-            "sweepsCost": {
-                "101": 20
-            },
-            "unlockHint": "指挥官等级达到35级解锁",
-            "chapterRewardValue": [
-                3,
-                9,
-                15
-            ],
-            "chapterRewardShow": {
-                "2": 12,
-                "3": 12,
-                "1": 12
-            },
-            "preChapter": 104,
-            "unlockPercentage": "0,50,100;",
-            "mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
-            "chapterReward": "9010:30,9012:1|9010:40,9012:2|9010:50,9012:2",
-            "uidExp": 20,
-            "level": 0,
-            "chapterSweepsSwitch": 0,
-            "sweepsTimes": 0,
-            "chapterReward1": {},
-            "chapterReward2": {},
-            "chapterReward3": {}
-        },
-        {
-            "id": 106,
-            "num": "06",
-            "name": "星点光芒闪耀时",
-            "map": 1,
-            "position": 6,
-            "unlock": [
-                99206
-            ],
-            "sweepsReward": {
-                "9011": 2
-            },
-            "sweepsCost": {
-                "101": 20
-            },
-            "unlockHint": "指挥官等级达到40级解锁",
-            "chapterRewardValue": [
-                3,
-                9,
-                15
-            ],
-            "chapterRewardShow": {
-                "2": 12,
-                "3": 12,
-                "1": 12
-            },
-            "preChapter": 105,
-            "unlockPercentage": "0,50,100;",
-            "mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
-            "chapterReward": "9011:30,9012:1|9011:40,9012:2|9011:50,9012:2",
-            "uidExp": 20,
-            "level": 0,
-            "chapterSweepsSwitch": 0,
-            "sweepsTimes": 0,
-            "chapterReward1": {},
-            "chapterReward2": {},
-            "chapterReward3": {}
-        }
-    ]
+	"data": [
+		{
+			"id": 101,
+			"num": "01",
+			"name": "守望者",
+			"map": 1,
+			"position": 1,
+			"unlock": [
+				99201
+			],
+			"sweepsReward": {
+				"9006": 6
+			},
+			"sweepsCost": {
+				"101": 20
+			},
+			"unlockHint": "指挥官等级达到15级解锁",
+			"chapterRewardValue": [
+				3,
+				9,
+				15
+			],
+			"chapterRewardShow": {
+				"2": 12,
+				"3": 12,
+				"1": 12
+			},
+			"unlockPercentage": "0,50,100;",
+			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
+			"chapterReward": "9006:8,9012:1|9006:10,9012:2|9006:12,9012:2",
+			"uidExp": 20,
+			"level": 0,
+			"chapterSweepsSwitch": 0,
+			"sweepsTimes": 0,
+			"chapterReward1": {},
+			"chapterReward2": {},
+			"chapterReward3": {},
+			"preChapter": 0
+		},
+		{
+			"id": 102,
+			"num": "02",
+			"name": "流浪的人",
+			"map": 1,
+			"position": 2,
+			"unlock": [
+				99202
+			],
+			"sweepsReward": {
+				"9007": 6
+			},
+			"sweepsCost": {
+				"101": 20
+			},
+			"unlockHint": "指挥官等级达到20级解锁",
+			"chapterRewardValue": [
+				3,
+				9,
+				15
+			],
+			"chapterRewardShow": {
+				"3": 12,
+				"2": 12,
+				"1": 12
+			},
+			"preChapter": 101,
+			"unlockPercentage": "0,50,100;",
+			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
+			"chapterReward": "9007:8,9012:1|9007:10,9012:2|9007:12,9012:2",
+			"uidExp": 20,
+			"level": 0,
+			"chapterSweepsSwitch": 0,
+			"sweepsTimes": 0,
+			"chapterReward1": {},
+			"chapterReward2": {},
+			"chapterReward3": {}
+		},
+		{
+			"id": 103,
+			"num": "03",
+			"name": "限时替身",
+			"map": 1,
+			"position": 3,
+			"unlock": [
+				99203
+			],
+			"sweepsReward": {
+				"9008": 5
+			},
+			"sweepsCost": {
+				"101": 20
+			},
+			"unlockHint": "指挥官等级达到25级解锁",
+			"chapterRewardValue": [
+				3,
+				9,
+				15
+			],
+			"chapterRewardShow": {
+				"2": 12,
+				"1": 12,
+				"3": 12
+			},
+			"preChapter": 102,
+			"unlockPercentage": "0,50,100;",
+			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
+			"chapterReward": "9008:15,9012:1|9008:20,9012:2|9008:25,9012:2",
+			"uidExp": 20,
+			"level": 0,
+			"chapterSweepsSwitch": 0,
+			"sweepsTimes": 0,
+			"chapterReward1": {},
+			"chapterReward2": {},
+			"chapterReward3": {}
+		},
+		{
+			"id": 104,
+			"num": "04",
+			"name": "最后的命令",
+			"map": 1,
+			"position": 4,
+			"unlock": [
+				99204
+			],
+			"sweepsReward": {
+				"9009": 4
+			},
+			"sweepsCost": {
+				"101": 20
+			},
+			"unlockHint": "指挥官等级达到30级解锁",
+			"chapterRewardValue": [
+				3,
+				9,
+				15
+			],
+			"chapterRewardShow": {
+				"1": 12,
+				"3": 12,
+				"2": 12
+			},
+			"preChapter": 103,
+			"unlockPercentage": "0,50,100;",
+			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
+			"chapterReward": "9009:25,9012:1|9009:30,9012:2|9009:45,9012:2",
+			"uidExp": 20,
+			"level": 0,
+			"chapterSweepsSwitch": 0,
+			"sweepsTimes": 0,
+			"chapterReward1": {},
+			"chapterReward2": {},
+			"chapterReward3": {}
+		},
+		{
+			"id": 105,
+			"num": "05",
+			"name": "乘于裙摆之上",
+			"map": 1,
+			"position": 5,
+			"unlock": [
+				99205
+			],
+			"sweepsReward": {
+				"9010": 3
+			},
+			"sweepsCost": {
+				"101": 20
+			},
+			"unlockHint": "指挥官等级达到35级解锁",
+			"chapterRewardValue": [
+				3,
+				9,
+				15
+			],
+			"chapterRewardShow": {
+				"3": 12,
+				"2": 12,
+				"1": 12
+			},
+			"preChapter": 104,
+			"unlockPercentage": "0,50,100;",
+			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
+			"chapterReward": "9010:30,9012:1|9010:40,9012:2|9010:50,9012:2",
+			"uidExp": 20,
+			"level": 0,
+			"chapterSweepsSwitch": 0,
+			"sweepsTimes": 0,
+			"chapterReward1": {},
+			"chapterReward2": {},
+			"chapterReward3": {}
+		},
+		{
+			"id": 106,
+			"num": "06",
+			"name": "星点光芒闪耀时",
+			"map": 1,
+			"position": 6,
+			"unlock": [
+				99206
+			],
+			"sweepsReward": {
+				"9011": 2
+			},
+			"sweepsCost": {
+				"101": 20
+			},
+			"unlockHint": "指挥官等级达到40级解锁",
+			"chapterRewardValue": [
+				3,
+				9,
+				15
+			],
+			"chapterRewardShow": {
+				"1": 12,
+				"2": 12,
+				"3": 12
+			},
+			"preChapter": 105,
+			"unlockPercentage": "0,50,100;",
+			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
+			"chapterReward": "9011:30,9012:1|9011:40,9012:2|9011:50,9012:2",
+			"uidExp": 20,
+			"level": 0,
+			"chapterSweepsSwitch": 0,
+			"sweepsTimes": 0,
+			"chapterReward1": {},
+			"chapterReward2": {},
+			"chapterReward3": {}
+		}
+	]
 }

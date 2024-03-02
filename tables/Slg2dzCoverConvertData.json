@@ -1,36 +1,36 @@
 {
-    "data": [
-        {
-            "typeId": 1,
-            "coverCanExit": 141100,
-            "coverCanExitList": [
-                14110000,
-                14110090
-            ]
-        },
-        {
-            "typeId": 3,
-            "coverCanExit": 141200,
-            "coverCanExitList": [
-                14120000,
-                14120090
-            ]
-        },
-        {
-            "typeId": 27,
-            "coverCanExit": 140100,
-            "coverCanExitList": [
-                14010000,
-                14010090
-            ]
-        },
-        {
-            "typeId": 1003,
-            "coverCanExit": 140200,
-            "coverCanExitList": [
-                14020000,
-                14020090
-            ]
-        }
-    ]
+	"data": [
+		{
+			"typeId": 1,
+			"coverCanExit": 141100,
+			"coverCanExitList": [
+				14110000,
+				14110090
+			]
+		},
+		{
+			"typeId": 3,
+			"coverCanExit": 141200,
+			"coverCanExitList": [
+				14120000,
+				14120090
+			]
+		},
+		{
+			"typeId": 27,
+			"coverCanExit": 140100,
+			"coverCanExitList": [
+				14010000,
+				14010090
+			]
+		},
+		{
+			"typeId": 1003,
+			"coverCanExit": 140200,
+			"coverCanExitList": [
+				14020000,
+				14020090
+			]
+		}
+	]
 }

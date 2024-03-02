@@ -1,554 +1,554 @@
 {
-    "data": [
-        {
-            "id": 100001,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_ReadStart",
-            "ifloop": false,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100002,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_ReadLoop",
-            "ifloop": true,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100003,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_ReadRandom",
-            "ifloop": false,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100004,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_ReadEnd",
-            "ifloop": false,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100005,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_CoffeeStart",
-            "ifloop": false,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100006,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_CoffeeLoop",
-            "ifloop": true,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100007,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_CoffeeEnd",
-            "ifloop": false,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100008,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_CoffeeInteractStart",
-            "ifloop": false,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100009,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_CoffeeInteractLoop",
-            "ifloop": true,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100010,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_CoffeeInteractEnd",
-            "ifloop": false,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100011,
-            "type": 1,
-            "npc": 3,
-            "name": "c_Groza_Lngbe_CoffeeInteract01",
-            "ifloop": false,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100012,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_SearchStart",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100013,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_SearchLoop1_s",
-            "ifloop": true,
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100014,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_SearchLoop2",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100015,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_SearchInteract01",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100016,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_SearchEnd",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100017,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StareblanklyStart",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100018,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StareblanklyLoop1_s",
-            "ifloop": true,
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100019,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StareblanklyLoop2",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100020,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StareblanklyInteract01",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100021,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StareblanklyEnd",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100022,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_CleanStart",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100023,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_CleanLoop1",
-            "ifloop": true,
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100024,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_CleanLoop2",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100025,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_CleanInteract01",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100026,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_CleanEnd",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100027,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StarebedStart",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100028,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StarebedLoop1_s",
-            "ifloop": true,
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100029,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StarebedLoop2",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100030,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StarebedInteract01",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100031,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_StarebedEnd",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100032,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_LookskyStart",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100033,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_LookskyLoop1_s",
-            "ifloop": true,
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100034,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_LookskyLoop2",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100035,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_LookskyInteract01",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 100036,
-            "type": 1,
-            "npc": 7,
-            "name": "c_Peritya_Lngbe_LookskyEnd",
-            "path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
-            "ifloop": false,
-            "timelineId": 0,
-            "dialog": {}
-        },
-        {
-            "id": 200001,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle01",
-            "timelineId": 300002,
-            "dialog": {
-                "0": 100015
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200002,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle02",
-            "timelineId": 300003,
-            "dialog": {
-                "100017": 100066
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200003,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle03",
-            "timelineId": 300004,
-            "dialog": {
-                "100019": 100067
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200004,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle04",
-            "timelineId": 300005,
-            "dialog": {
-                "100021": 100068
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200005,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle05",
-            "timelineId": 300006,
-            "dialog": {
-                "100025": 100026
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200006,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle06",
-            "timelineId": 300007,
-            "dialog": {
-                "100030": 100069
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200007,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle07",
-            "timelineId": 300008,
-            "dialog": {
-                "0": 100032
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200008,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle08",
-            "timelineId": 300009,
-            "dialog": {
-                "100036": 100070
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200009,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle09",
-            "timelineId": 300019,
-            "dialog": {
-                "0": 100041
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200010,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle10",
-            "timelineId": 300011,
-            "dialog": {
-                "100046": 100071
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200011,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle11",
-            "timelineId": 300012,
-            "dialog": {
-                "0": 100048
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200012,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle12",
-            "timelineId": 300013,
-            "dialog": {
-                "0": 100053
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200013,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle13",
-            "timelineId": 300014,
-            "dialog": {
-                "100056": 100069
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200015,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle15",
-            "timelineId": 300016,
-            "dialog": {
-                "0": 100063
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 200016,
-            "type": 2,
-            "npc": 3,
-            "name": "c_Groza_Lngap_lv4_test_idle16",
-            "timelineId": 300017,
-            "dialog": {
-                "100064": 100070
-            },
-            "ifloop": false,
-            "path": ""
-        },
-        {
-            "id": 600001,
-            "type": 6,
-            "npc": 3,
-            "name": "c_Groza_Lng_switch_room",
-            "ifloop": true,
-            "path": "",
-            "timelineId": 0,
-            "dialog": {}
-        }
-    ]
+	"data": [
+		{
+			"id": 100001,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_ReadStart",
+			"ifloop": false,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100002,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_ReadLoop",
+			"ifloop": true,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100003,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_ReadRandom",
+			"ifloop": false,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100004,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_ReadEnd",
+			"ifloop": false,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100005,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_CoffeeStart",
+			"ifloop": false,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100006,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_CoffeeLoop",
+			"ifloop": true,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100007,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_CoffeeEnd",
+			"ifloop": false,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100008,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_CoffeeInteractStart",
+			"ifloop": false,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100009,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_CoffeeInteractLoop",
+			"ifloop": true,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100010,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_CoffeeInteractEnd",
+			"ifloop": false,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100011,
+			"type": 1,
+			"npc": 3,
+			"name": "c_Groza_Lngbe_CoffeeInteract01",
+			"ifloop": false,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100012,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_SearchStart",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100013,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_SearchLoop1_s",
+			"ifloop": true,
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100014,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_SearchLoop2",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100015,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_SearchInteract01",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100016,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_SearchEnd",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100017,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StareblanklyStart",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100018,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StareblanklyLoop1_s",
+			"ifloop": true,
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100019,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StareblanklyLoop2",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100020,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StareblanklyInteract01",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100021,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StareblanklyEnd",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100022,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_CleanStart",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100023,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_CleanLoop1",
+			"ifloop": true,
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100024,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_CleanLoop2",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100025,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_CleanInteract01",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100026,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_CleanEnd",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100027,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StarebedStart",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100028,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StarebedLoop1_s",
+			"ifloop": true,
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100029,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StarebedLoop2",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100030,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StarebedInteract01",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100031,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_StarebedEnd",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100032,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_LookskyStart",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100033,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_LookskyLoop1_s",
+			"ifloop": true,
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100034,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_LookskyLoop2",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100035,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_LookskyInteract01",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 100036,
+			"type": 1,
+			"npc": 7,
+			"name": "c_Peritya_Lngbe_LookskyEnd",
+			"path": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky",
+			"ifloop": false,
+			"timelineId": 0,
+			"dialog": {}
+		},
+		{
+			"id": 200001,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle01",
+			"timelineId": 300002,
+			"dialog": {
+				"0": 100015
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200002,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle02",
+			"timelineId": 300003,
+			"dialog": {
+				"100017": 100066
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200003,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle03",
+			"timelineId": 300004,
+			"dialog": {
+				"100019": 100067
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200004,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle04",
+			"timelineId": 300005,
+			"dialog": {
+				"100021": 100068
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200005,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle05",
+			"timelineId": 300006,
+			"dialog": {
+				"100025": 100026
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200006,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle06",
+			"timelineId": 300007,
+			"dialog": {
+				"100030": 100069
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200007,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle07",
+			"timelineId": 300008,
+			"dialog": {
+				"0": 100032
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200008,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle08",
+			"timelineId": 300009,
+			"dialog": {
+				"100036": 100070
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200009,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle09",
+			"timelineId": 300019,
+			"dialog": {
+				"0": 100041
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200010,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle10",
+			"timelineId": 300011,
+			"dialog": {
+				"100046": 100071
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200011,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle11",
+			"timelineId": 300012,
+			"dialog": {
+				"0": 100048
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200012,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle12",
+			"timelineId": 300013,
+			"dialog": {
+				"0": 100053
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200013,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle13",
+			"timelineId": 300014,
+			"dialog": {
+				"100056": 100069
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200015,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle15",
+			"timelineId": 300016,
+			"dialog": {
+				"0": 100063
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 200016,
+			"type": 2,
+			"npc": 3,
+			"name": "c_Groza_Lngap_lv4_test_idle16",
+			"timelineId": 300017,
+			"dialog": {
+				"100064": 100070
+			},
+			"ifloop": false,
+			"path": ""
+		},
+		{
+			"id": 600001,
+			"type": 6,
+			"npc": 3,
+			"name": "c_Groza_Lng_switch_room",
+			"ifloop": true,
+			"path": "",
+			"timelineId": 0,
+			"dialog": {}
+		}
+	]
 }

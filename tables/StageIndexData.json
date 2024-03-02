@@ -1,83 +1,84 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "剧情战役",
-            "nameEn": "MAIN STORY",
-            "rank": 1,
-            "type": 1,
-            "detailId": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
-            ],
-            "underId": [
-                26
-            ],
-            "background": "Img_BattleIndexBg_Plot",
-            "globalTab": 21,
-            "unlock": 0,
-            "activityId": []
-        },
-        {
-            "id": 2,
-            "name": "模拟作战",
-            "nameEn": "RESOURCES",
-            "rank": 4,
-            "type": 2,
-            "detailId": [
-                32,
-                24,
-                30,
-                25,
-                50,
-                33
-            ],
-            "background": "Img_BattleIndexBg_Sim",
-            "unlock": 10999,
-            "globalTab": 24,
-            "underId": [],
-            "activityId": []
-        },
-        {
-            "id": 4,
-            "name": "补给作战",
-            "nameEn": "miao",
-            "rank": 3,
-            "type": 2,
-            "detailId": [
-                21,
-                31,
-                22,
-                41,
-                20
-            ],
-            "background": "Img_BattleIndexBg_Sim",
-            "unlock": 10998,
-            "globalTab": 23,
-            "underId": [],
-            "activityId": []
-        },
-        {
-            "id": 5,
-            "name": "往期活动",
-            "nameEn": "BRANCH STORY",
-            "rank": 2,
-            "type": 1,
-            "detailId": [
-                3003
-            ],
-            "background": "Img_BattleIndexBg_Sim",
-            "unlock": 10997,
-            "globalTab": 22,
-            "activityId": [
-                6
-            ],
-            "underId": []
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "剧情战役",
+			"nameEn": "MAIN STORY",
+			"rank": 1,
+			"type": 1,
+			"detailId": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"underId": [
+				26
+			],
+			"background": "Img_BattleIndexBg_Plot",
+			"globalTab": 21,
+			"unlock": 0,
+			"activityId": []
+		},
+		{
+			"id": 2,
+			"name": "模拟作战",
+			"nameEn": "RESOURCES",
+			"rank": 4,
+			"type": 2,
+			"detailId": [
+				32,
+				24,
+				30,
+				25,
+				50,
+				33,
+				35
+			],
+			"background": "Img_BattleIndexBg_Sim",
+			"unlock": 10999,
+			"globalTab": 24,
+			"underId": [],
+			"activityId": []
+		},
+		{
+			"id": 4,
+			"name": "补给作战",
+			"nameEn": "miao",
+			"rank": 3,
+			"type": 2,
+			"detailId": [
+				21,
+				31,
+				22,
+				41,
+				20
+			],
+			"background": "Img_BattleIndexBg_Sim",
+			"unlock": 10998,
+			"globalTab": 23,
+			"underId": [],
+			"activityId": []
+		},
+		{
+			"id": 5,
+			"name": "往期活动",
+			"nameEn": "BRANCH STORY",
+			"rank": 2,
+			"type": 1,
+			"detailId": [
+				3003
+			],
+			"background": "Img_BattleIndexBg_Sim",
+			"unlock": 10997,
+			"globalTab": 22,
+			"activityId": [
+				6
+			],
+			"underId": []
+		}
+	]
 }

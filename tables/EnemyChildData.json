@@ -1,1176 +1,1176 @@
 {
-    "data": [
-        {
-            "id": 693101,
-            "name": "约塔反潜武器",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮02炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                3,
-                -1
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,3;will_value,3",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                32
-            ],
-            "childOnground": true,
-            "childModelCode": 693101,
-            "skillActive": [
-                69310101
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childCannotChosen": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693102,
-            "name": "潜鸟深弹炮",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮03炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                0,
-                -2
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,3;will_value,3",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693102,
-            "skillActive": [
-                69310201,
-                69310202
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693103,
-            "name": "双联机枪",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮06炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                -4,
-                -1
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,10;will_value,10",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childReleaserTransfer": true,
-            "childModelCode": 693103,
-            "skillActive": [
-                6911904,
-                69310301
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693201,
-            "name": "约塔反潜武器",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮02炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                3,
-                -1
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,3;will_value,3",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                32
-            ],
-            "childOnground": true,
-            "childModelCode": 693101,
-            "skillActive": [
-                69310101
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childCannotChosen": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693202,
-            "name": "潜鸟深弹炮",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮03炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                0,
-                -2
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,3;will_value,3",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693102,
-            "skillActive": [
-                69310201,
-                69310202
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693203,
-            "name": "双联机枪",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮06炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                -4,
-                -1
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,10;will_value,10",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childReleaserTransfer": true,
-            "childModelCode": 693103,
-            "skillActive": [
-                6911904,
-                69310301
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693301,
-            "name": "约塔反潜武器",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮02炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                3,
-                -1
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,3;will_value,3",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                32
-            ],
-            "childOnground": true,
-            "childModelCode": 693101,
-            "skillActive": [
-                69310101
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childCannotChosen": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693302,
-            "name": "潜鸟深弹炮",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮03炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                0,
-                -2
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,3;will_value,3",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693102,
-            "skillActive": [
-                69310201,
-                69310202
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693303,
-            "name": "双联机枪",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "远北港哨炮06炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                -4,
-                -1
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_will_value,10;will_value,10",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childReleaserTransfer": true,
-            "childModelCode": 693103,
-            "skillActive": [
-                6911904,
-                69310301
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693601,
-            "name": "舰载激光武器",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "极光女王号01炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                -7,
-                -5
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693601,
-            "skillActive": [
-                69360101,
-                69360102
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693602,
-            "name": "潜鸟深弹炮组",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "极光女王号10炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                -2,
-                -4
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693602,
-            "skillActive": [
-                69360201
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693603,
-            "name": "极地导弹发射器",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "极光女王号08炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                2,
-                -5
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693603,
-            "skillActive": [
-                69360301
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693604,
-            "name": "多联连射机枪",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "极光女王号04炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                5,
-                -3
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693604,
-            "skillActive": [
-                6911907,
-                69360401,
-                69360402
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693701,
-            "name": "舰载激光武器",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "极光女王号01炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                -7,
-                -5
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693601,
-            "skillActive": [
-                69360101,
-                69360102
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693702,
-            "name": "潜鸟深弹炮组",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "极光女王号10炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                -2,
-                -4
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693602,
-            "skillActive": [
-                69360201
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693703,
-            "name": "极地导弹发射器",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "极光女王号08炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                2,
-                -5
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693603,
-            "skillActive": [
-                69360301
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 693704,
-            "name": "多联连射机枪",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "极光女王号04炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                5,
-                -3
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "childCannotChosen": true,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 693604,
-            "skillActive": [
-                6911907,
-                69360401,
-                69360402
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 694101,
-            "name": "极地导弹发射器·电磁",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "苔原玫瑰号08炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                -2,
-                -6
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 694101,
-            "skillActive": [
-                69410101
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childCannotChosen": false,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 694102,
-            "name": "双联机枪",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "苔原玫瑰号07炮",
-            "occupySize": 1,
-            "childCentralSquare": [
-                1,
-                -3
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,500000;hp,500000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 694102,
-            "skillActive": [
-                69410201
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childCannotChosen": false,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        },
-        {
-            "id": 694103,
-            "name": "极地导弹发射器·冷凝",
-            "textIndex": [
-                3
-            ],
-            "nameOnBar": "苔原玫瑰号08炮2",
-            "occupySize": 1,
-            "childCentralSquare": [
-                4,
-                -5
-            ],
-            "weakTag": [
-                4
-            ],
-            "childPropertyType": 100,
-            "childInheritPropertyFixed": "max_ap,0;ap,0",
-            "childInheritPropertyValue": "max_hp,5000;hp,5000",
-            "parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
-            "suppressGroup": [
-                3,
-                2,
-                1,
-                4,
-                0,
-                0
-            ],
-            "camp": 1,
-            "beSuppressedConfig": [
-                80000001,
-                2,
-                1000,
-                0,
-                8
-            ],
-            "childModelCode": 694103,
-            "skillActive": [
-                69410301
-            ],
-            "description": "",
-            "showPotential": false,
-            "shape": 0,
-            "shapeParam": [],
-            "shapeIcon": "",
-            "shapeTerrain": 0,
-            "propertyGroup": 0,
-            "addLevel": 0,
-            "childCannotChosen": false,
-            "childOnground": false,
-            "childReleaserTransfer": false,
-            "characterPic": "",
-            "skillNormalAttack": 0,
-            "skillTalent": [],
-            "ignorePlayer1Skill": 0,
-            "dzOpenBattle": 0,
-            "weakWeaponTag": 0,
-            "weaponTag": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 693101,
+			"name": "约塔反潜武器",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮02炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				3,
+				-1
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,3;will_value,3",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				32
+			],
+			"childOnground": true,
+			"childModelCode": 693101,
+			"skillActive": [
+				69310101
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childCannotChosen": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693102,
+			"name": "潜鸟深弹炮",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮03炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				0,
+				-2
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,3;will_value,3",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693102,
+			"skillActive": [
+				69310201,
+				69310202
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693103,
+			"name": "双联机枪",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮06炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				-4,
+				-1
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,10;will_value,10",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childReleaserTransfer": true,
+			"childModelCode": 693103,
+			"skillActive": [
+				6911904,
+				69310301
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693201,
+			"name": "约塔反潜武器",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮02炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				3,
+				-1
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,3;will_value,3",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				32
+			],
+			"childOnground": true,
+			"childModelCode": 693101,
+			"skillActive": [
+				69310101
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childCannotChosen": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693202,
+			"name": "潜鸟深弹炮",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮03炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				0,
+				-2
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,3;will_value,3",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693102,
+			"skillActive": [
+				69310201,
+				69310202
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693203,
+			"name": "双联机枪",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮06炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				-4,
+				-1
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,10;will_value,10",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childReleaserTransfer": true,
+			"childModelCode": 693103,
+			"skillActive": [
+				6911904,
+				69310301
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693301,
+			"name": "约塔反潜武器",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮02炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				3,
+				-1
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,3;will_value,3",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				32
+			],
+			"childOnground": true,
+			"childModelCode": 693101,
+			"skillActive": [
+				69310101
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childCannotChosen": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693302,
+			"name": "潜鸟深弹炮",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮03炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				0,
+				-2
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,3;will_value,3",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693102,
+			"skillActive": [
+				69310201,
+				69310202
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693303,
+			"name": "双联机枪",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "远北港哨炮06炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				-4,
+				-1
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_will_value,10;will_value,10",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childReleaserTransfer": true,
+			"childModelCode": 693103,
+			"skillActive": [
+				6911904,
+				69310301
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693601,
+			"name": "舰载激光武器",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "极光女王号01炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				-7,
+				-5
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693601,
+			"skillActive": [
+				69360101,
+				69360102
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693602,
+			"name": "潜鸟深弹炮组",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "极光女王号10炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				-2,
+				-4
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693602,
+			"skillActive": [
+				69360201
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693603,
+			"name": "极地导弹发射器",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "极光女王号08炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				2,
+				-5
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693603,
+			"skillActive": [
+				69360301
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693604,
+			"name": "多联连射机枪",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "极光女王号04炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				5,
+				-3
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693604,
+			"skillActive": [
+				6911907,
+				69360401,
+				69360402
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693701,
+			"name": "舰载激光武器",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "极光女王号01炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				-7,
+				-5
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693601,
+			"skillActive": [
+				69360101,
+				69360102
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693702,
+			"name": "潜鸟深弹炮组",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "极光女王号10炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				-2,
+				-4
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693602,
+			"skillActive": [
+				69360201
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693703,
+			"name": "极地导弹发射器",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "极光女王号08炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				2,
+				-5
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693603,
+			"skillActive": [
+				69360301
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 693704,
+			"name": "多联连射机枪",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "极光女王号04炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				5,
+				-3
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"childCannotChosen": true,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 693604,
+			"skillActive": [
+				6911907,
+				69360401,
+				69360402
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 694101,
+			"name": "极地导弹发射器·电磁",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "苔原玫瑰号08炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				-2,
+				-6
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 694101,
+			"skillActive": [
+				69410101
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childCannotChosen": false,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 694102,
+			"name": "双联机枪",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "苔原玫瑰号07炮",
+			"occupySize": 1,
+			"childCentralSquare": [
+				1,
+				-3
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,500000;hp,500000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 694102,
+			"skillActive": [
+				69410201
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childCannotChosen": false,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		},
+		{
+			"id": 694103,
+			"name": "极地导弹发射器·冷凝",
+			"textIndex": [
+				3
+			],
+			"nameOnBar": "苔原玫瑰号08炮2",
+			"occupySize": 1,
+			"childCentralSquare": [
+				4,
+				-5
+			],
+			"weakTag": [
+				4
+			],
+			"childPropertyType": 100,
+			"childInheritPropertyFixed": "max_ap,0;ap,0",
+			"childInheritPropertyValue": "max_hp,5000;hp,5000",
+			"parentPropertyNotSynchronization": "max_hp,hp,max_ap,ap",
+			"suppressGroup": [
+				3,
+				2,
+				1,
+				4,
+				0,
+				0
+			],
+			"camp": 1,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"childModelCode": 694103,
+			"skillActive": [
+				69410301
+			],
+			"description": "",
+			"showPotential": false,
+			"shape": 0,
+			"shapeParam": [],
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"propertyGroup": 0,
+			"addLevel": 0,
+			"childCannotChosen": false,
+			"childOnground": false,
+			"childReleaserTransfer": false,
+			"characterPic": "",
+			"skillNormalAttack": 0,
+			"skillTalent": [],
+			"ignorePlayer1Skill": 0,
+			"dzOpenBattle": 0,
+			"weakWeaponTag": 0,
+			"weaponTag": 0
+		}
+	]
 }

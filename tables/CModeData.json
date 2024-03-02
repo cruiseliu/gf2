@@ -1,274 +1,274 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "cellMun": 5,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 2,
-            "cellMun": 1,
-            "cellBorn": 2,
-            "regularControl": {
-                "4": 0,
-                "1": 0,
-                "7": 0,
-                "6": 0,
-                "8": 0,
-                "2": 0,
-                "3": 1,
-                "5": 1
-            },
-            "randomControl": 0
-        },
-        {
-            "id": 3,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 4,
-            "regularControl": {}
-        },
-        {
-            "id": 4,
-            "cellMun": 8,
-            "cellBorn": 2,
-            "regularControl": {
-                "4": 0,
-                "1": 1,
-                "7": 0,
-                "6": 0,
-                "8": 0,
-                "2": 0,
-                "3": 0,
-                "5": 0
-            },
-            "randomControl": 0
-        },
-        {
-            "id": 5,
-            "cellMun": 1,
-            "cellBorn": 1,
-            "randomControl": 0,
-            "regularControl": {}
-        },
-        {
-            "id": 6,
-            "cellMun": 2,
-            "cellBorn": 1,
-            "randomControl": 0,
-            "regularControl": {}
-        },
-        {
-            "id": 7,
-            "cellMun": 2,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 8,
-            "cellMun": 3,
-            "cellBorn": 1,
-            "randomControl": 0,
-            "regularControl": {}
-        },
-        {
-            "id": 9,
-            "cellMun": 3,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 10,
-            "cellMun": 3,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 11,
-            "cellMun": 4,
-            "cellBorn": 1,
-            "randomControl": 0,
-            "regularControl": {}
-        },
-        {
-            "id": 12,
-            "cellMun": 4,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 13,
-            "cellMun": 4,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 14,
-            "cellMun": 4,
-            "cellBorn": 1,
-            "randomControl": 2,
-            "regularControl": {}
-        },
-        {
-            "id": 15,
-            "cellMun": 5,
-            "cellBorn": 1,
-            "randomControl": 2,
-            "regularControl": {}
-        },
-        {
-            "id": 16,
-            "cellMun": 5,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 17,
-            "cellMun": 5,
-            "cellBorn": 1,
-            "randomControl": 0,
-            "regularControl": {}
-        },
-        {
-            "id": 18,
-            "cellMun": 6,
-            "cellBorn": 1,
-            "randomControl": 3,
-            "regularControl": {}
-        },
-        {
-            "id": 19,
-            "cellMun": 6,
-            "cellBorn": 1,
-            "randomControl": 2,
-            "regularControl": {}
-        },
-        {
-            "id": 20,
-            "cellMun": 6,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 21,
-            "cellMun": 6,
-            "cellBorn": 1,
-            "randomControl": 0,
-            "regularControl": {}
-        },
-        {
-            "id": 22,
-            "cellMun": 7,
-            "cellBorn": 1,
-            "randomControl": 3,
-            "regularControl": {}
-        },
-        {
-            "id": 23,
-            "cellMun": 7,
-            "cellBorn": 1,
-            "randomControl": 3,
-            "regularControl": {}
-        },
-        {
-            "id": 24,
-            "cellMun": 7,
-            "cellBorn": 1,
-            "randomControl": 2,
-            "regularControl": {}
-        },
-        {
-            "id": 25,
-            "cellMun": 7,
-            "cellBorn": 1,
-            "randomControl": 2,
-            "regularControl": {}
-        },
-        {
-            "id": 26,
-            "cellMun": 7,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 27,
-            "cellMun": 7,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 28,
-            "cellMun": 7,
-            "cellBorn": 1,
-            "randomControl": 0,
-            "regularControl": {}
-        },
-        {
-            "id": 29,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 4,
-            "regularControl": {}
-        },
-        {
-            "id": 30,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 3,
-            "regularControl": {}
-        },
-        {
-            "id": 31,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 3,
-            "regularControl": {}
-        },
-        {
-            "id": 32,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 2,
-            "regularControl": {}
-        },
-        {
-            "id": 33,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 2,
-            "regularControl": {}
-        },
-        {
-            "id": 34,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 35,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 1,
-            "regularControl": {}
-        },
-        {
-            "id": 36,
-            "cellMun": 8,
-            "cellBorn": 1,
-            "randomControl": 0,
-            "regularControl": {}
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"cellMun": 5,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 2,
+			"cellMun": 1,
+			"cellBorn": 2,
+			"regularControl": {
+				"7": 0,
+				"8": 0,
+				"1": 0,
+				"4": 0,
+				"3": 1,
+				"6": 0,
+				"5": 1,
+				"2": 0
+			},
+			"randomControl": 0
+		},
+		{
+			"id": 3,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 4,
+			"regularControl": {}
+		},
+		{
+			"id": 4,
+			"cellMun": 8,
+			"cellBorn": 2,
+			"regularControl": {
+				"3": 0,
+				"5": 0,
+				"7": 0,
+				"2": 0,
+				"8": 0,
+				"4": 0,
+				"1": 1,
+				"6": 0
+			},
+			"randomControl": 0
+		},
+		{
+			"id": 5,
+			"cellMun": 1,
+			"cellBorn": 1,
+			"randomControl": 0,
+			"regularControl": {}
+		},
+		{
+			"id": 6,
+			"cellMun": 2,
+			"cellBorn": 1,
+			"randomControl": 0,
+			"regularControl": {}
+		},
+		{
+			"id": 7,
+			"cellMun": 2,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 8,
+			"cellMun": 3,
+			"cellBorn": 1,
+			"randomControl": 0,
+			"regularControl": {}
+		},
+		{
+			"id": 9,
+			"cellMun": 3,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 10,
+			"cellMun": 3,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 11,
+			"cellMun": 4,
+			"cellBorn": 1,
+			"randomControl": 0,
+			"regularControl": {}
+		},
+		{
+			"id": 12,
+			"cellMun": 4,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 13,
+			"cellMun": 4,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 14,
+			"cellMun": 4,
+			"cellBorn": 1,
+			"randomControl": 2,
+			"regularControl": {}
+		},
+		{
+			"id": 15,
+			"cellMun": 5,
+			"cellBorn": 1,
+			"randomControl": 2,
+			"regularControl": {}
+		},
+		{
+			"id": 16,
+			"cellMun": 5,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 17,
+			"cellMun": 5,
+			"cellBorn": 1,
+			"randomControl": 0,
+			"regularControl": {}
+		},
+		{
+			"id": 18,
+			"cellMun": 6,
+			"cellBorn": 1,
+			"randomControl": 3,
+			"regularControl": {}
+		},
+		{
+			"id": 19,
+			"cellMun": 6,
+			"cellBorn": 1,
+			"randomControl": 2,
+			"regularControl": {}
+		},
+		{
+			"id": 20,
+			"cellMun": 6,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 21,
+			"cellMun": 6,
+			"cellBorn": 1,
+			"randomControl": 0,
+			"regularControl": {}
+		},
+		{
+			"id": 22,
+			"cellMun": 7,
+			"cellBorn": 1,
+			"randomControl": 3,
+			"regularControl": {}
+		},
+		{
+			"id": 23,
+			"cellMun": 7,
+			"cellBorn": 1,
+			"randomControl": 3,
+			"regularControl": {}
+		},
+		{
+			"id": 24,
+			"cellMun": 7,
+			"cellBorn": 1,
+			"randomControl": 2,
+			"regularControl": {}
+		},
+		{
+			"id": 25,
+			"cellMun": 7,
+			"cellBorn": 1,
+			"randomControl": 2,
+			"regularControl": {}
+		},
+		{
+			"id": 26,
+			"cellMun": 7,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 27,
+			"cellMun": 7,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 28,
+			"cellMun": 7,
+			"cellBorn": 1,
+			"randomControl": 0,
+			"regularControl": {}
+		},
+		{
+			"id": 29,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 4,
+			"regularControl": {}
+		},
+		{
+			"id": 30,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 3,
+			"regularControl": {}
+		},
+		{
+			"id": 31,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 3,
+			"regularControl": {}
+		},
+		{
+			"id": 32,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 2,
+			"regularControl": {}
+		},
+		{
+			"id": 33,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 2,
+			"regularControl": {}
+		},
+		{
+			"id": 34,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 35,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 1,
+			"regularControl": {}
+		},
+		{
+			"id": 36,
+			"cellMun": 8,
+			"cellBorn": 1,
+			"randomControl": 0,
+			"regularControl": {}
+		}
+	]
 }

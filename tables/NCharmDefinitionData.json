@@ -1,57 +1,57 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "知识",
-            "loungeStage": [
-                200,
-                400,
-                600,
-                800
-            ],
-            "loungeObtain": [
-                1,
-                2
-            ]
-        },
-        {
-            "id": 2,
-            "name": "运动",
-            "loungeStage": [
-                200,
-                400,
-                600,
-                800
-            ],
-            "loungeObtain": [
-                1
-            ]
-        },
-        {
-            "id": 3,
-            "name": "魅力",
-            "loungeStage": [
-                200,
-                400,
-                600,
-                800
-            ],
-            "loungeObtain": [
-                1
-            ]
-        },
-        {
-            "id": 4,
-            "name": "勇气",
-            "loungeStage": [
-                200,
-                400,
-                600,
-                800
-            ],
-            "loungeObtain": [
-                1
-            ]
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "知识",
+			"loungeStage": [
+				200,
+				400,
+				600,
+				800
+			],
+			"loungeObtain": [
+				1,
+				2
+			]
+		},
+		{
+			"id": 2,
+			"name": "运动",
+			"loungeStage": [
+				200,
+				400,
+				600,
+				800
+			],
+			"loungeObtain": [
+				1
+			]
+		},
+		{
+			"id": 3,
+			"name": "魅力",
+			"loungeStage": [
+				200,
+				400,
+				600,
+				800
+			],
+			"loungeObtain": [
+				1
+			]
+		},
+		{
+			"id": 4,
+			"name": "勇气",
+			"loungeStage": [
+				200,
+				400,
+				600,
+				800
+			],
+			"loungeObtain": [
+				1
+			]
+		}
+	]
 }

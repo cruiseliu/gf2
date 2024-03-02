@@ -1,472 +1,472 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "icon": "Icon_DarkzoneMap_Mask1",
-            "iconName": "高速导轨",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "待勘测区遗留的交通设施，使用后，可将人形直接转移至固定地点。",
-            "iconSort": 3
-        },
-        {
-            "id": 2,
-            "icon": "Icon_DarkzoneMap_Mask2",
-            "iconName": "机关",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2
-        },
-        {
-            "id": 3,
-            "icon": "Icon_DarkzoneMap_Mask3",
-            "iconName": "标记点",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 1,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 4,
-            "icon": "Icon_DarkzoneMap_Mask4",
-            "iconName": "赏金猎人（战斗中）",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 3,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 5,
-            "icon": "Icon_DarkzoneMap_Mask5",
-            "iconName": "战斗区域",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 6,
-            "icon": "Icon_DarkzoneMap_Mask6",
-            "iconName": "补给箱",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 1
-        },
-        {
-            "id": 7,
-            "icon": "Icon_DarkzoneMap_Mask7",
-            "iconName": "挂梯",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 3,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 8,
-            "icon": "Icon_DarkzoneMap_Mask8",
-            "iconName": "头目单位",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 3
-        },
-        {
-            "id": 9,
-            "icon": "Icon_DarkzoneMap_Mask9",
-            "iconName": "精锐单位",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2
-        },
-        {
-            "id": 10,
-            "icon": "Icon_DarkzoneMap_Mask10",
-            "iconName": "赏金猎人",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 3,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 11,
-            "icon": "Icon_DarkzoneMap_Mask11",
-            "iconName": "当前位置",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 1
-        },
-        {
-            "id": 12,
-            "icon": "Icon_DarkzoneMap_Mask12",
-            "iconName": "任务目标",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2
-        },
-        {
-            "id": 13,
-            "icon": "Icon_DarkzoneMap_Mask13",
-            "iconName": "任务目标区域",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 14,
-            "icon": "Icon_DarkzoneMap_Mask14",
-            "iconName": "远程勘测装置",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 15,
-            "icon": "Icon_DarkzoneMap_Mask15",
-            "iconName": "撤离信号站",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "撤离信号站所在位置，找到该装置发送信号，即可成功撤离。",
-            "iconSort": 3,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 16,
-            "icon": "Icon_DarkzoneMap_Mask10",
-            "iconName": "普通单位",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 3
-        },
-        {
-            "id": 17,
-            "icon": "Icon_DarkzoneMap_Mask16",
-            "iconName": "目标位置",
-            "iconVisible": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "任务目标所在位置，请找到并消灭该敌方单位。",
-            "iconSort": 1,
-            "iconAbovefog": false
-        },
-        {
-            "id": 18,
-            "icon": "Icon_DarkzoneMap_Mask17",
-            "iconName": "起始位置",
-            "iconVisible": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "我方进入待勘测区时的初始位置。",
-            "iconSort": 2,
-            "iconAbovefog": false
-        },
-        {
-            "id": 19,
-            "icon": "Icon_DarkzoneMap_Mask4",
-            "iconName": "[特用点]敌方单位",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 20,
-            "icon": "Icon_DarkzoneMap_Mask12",
-            "iconName": "目标点",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 21,
-            "icon": "Icon_DarkzoneMap_Mask16",
-            "iconName": "目标位置",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 22,
-            "icon": "Icon_DarkzoneMap_Mask12",
-            "iconName": "目标点",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 23,
-            "icon": "Icon_DarkzoneMap_Mask18",
-            "iconName": "光粒风标",
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 1,
-            "iconVisible": false
-        },
-        {
-            "id": 24,
-            "icon": "Icon_DarkzoneMap_Mask19",
-            "iconName": "修复桩",
-            "iconVisible": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2,
-            "iconAbovefog": false
-        },
-        {
-            "id": 25,
-            "icon": "Icon_DarkzoneMap_Mask20",
-            "iconName": "撤离信号站",
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 3,
-            "iconVisible": false
-        },
-        {
-            "id": 26,
-            "icon": "Icon_DarkzoneMap_Mask21",
-            "iconName": "滤芯补给桩",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 1
-        },
-        {
-            "id": 27,
-            "icon": "Icon_DarkzoneMap_Mask18",
-            "iconName": "运载机",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 2
-        },
-        {
-            "id": 28,
-            "icon": "Icon_DarkzoneMap_Mask6",
-            "iconName": "补给箱",
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 3,
-            "iconVisible": false
-        },
-        {
-            "id": 29,
-            "icon": "Icon_DarkzoneMap_Mask22",
-            "iconName": "重启整备站",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 0
-        },
-        {
-            "id": 30,
-            "icon": "Icon_DarkzoneMap_Mask23",
-            "iconName": "集成整备站",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 0
-        },
-        {
-            "id": 31,
-            "icon": "Icon_DarkzoneMap_Mask24",
-            "iconName": "机械维修桩",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 0
-        },
-        {
-            "id": 32,
-            "icon": "Icon_DarkzoneMap_Mask25",
-            "iconName": "控制单元",
-            "iconVisible": true,
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconSort": 0
-        },
-        {
-            "id": 33,
-            "icon": "Icon_DarkzoneMap_Mask26",
-            "iconName": "电网",
-            "iconAbovefog": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "",
-            "iconVisible": false,
-            "iconSort": 0
-        },
-        {
-            "id": 34,
-            "icon": "Icon_DarkzoneMap_Mask15",
-            "iconName": "撤离信号站",
-            "iconVisible": true,
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "运送环节结束的坐标点。运送货运机械抵达该坐标完成运载委托。",
-            "iconSort": 3,
-            "iconAbovefog": false
-        },
-        {
-            "id": 35,
-            "icon": "Icon_DarkzoneMap_Mask16",
-            "iconName": "目标位置",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "任务目标所在位置，请找到并消灭该敌方单位。",
-            "iconSort": 1,
-            "iconVisible": false,
-            "iconAbovefog": false
-        },
-        {
-            "id": 36,
-            "icon": "Icon_DarkzoneMap_Mask17",
-            "iconName": "起始位置",
-            "iconVisiableZoom": [
-                0,
-                10
-            ],
-            "iconDesc": "运送环节开始的坐标点。货运机械会以当前坐标位置为起点，开始运送。",
-            "iconSort": 2,
-            "iconVisible": false,
-            "iconAbovefog": false
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"icon": "Icon_DarkzoneMap_Mask1",
+			"iconName": "高速导轨",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "待勘测区遗留的交通设施，使用后，可将人形直接转移至固定地点。",
+			"iconSort": 3
+		},
+		{
+			"id": 2,
+			"icon": "Icon_DarkzoneMap_Mask2",
+			"iconName": "机关",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2
+		},
+		{
+			"id": 3,
+			"icon": "Icon_DarkzoneMap_Mask3",
+			"iconName": "标记点",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 4,
+			"icon": "Icon_DarkzoneMap_Mask4",
+			"iconName": "赏金猎人（战斗中）",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 5,
+			"icon": "Icon_DarkzoneMap_Mask5",
+			"iconName": "战斗区域",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 6,
+			"icon": "Icon_DarkzoneMap_Mask6",
+			"iconName": "补给箱",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1
+		},
+		{
+			"id": 7,
+			"icon": "Icon_DarkzoneMap_Mask7",
+			"iconName": "挂梯",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 8,
+			"icon": "Icon_DarkzoneMap_Mask8",
+			"iconName": "头目单位",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3
+		},
+		{
+			"id": 9,
+			"icon": "Icon_DarkzoneMap_Mask9",
+			"iconName": "精锐单位",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2
+		},
+		{
+			"id": 10,
+			"icon": "Icon_DarkzoneMap_Mask10",
+			"iconName": "赏金猎人",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 11,
+			"icon": "Icon_DarkzoneMap_Mask11",
+			"iconName": "当前位置",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1
+		},
+		{
+			"id": 12,
+			"icon": "Icon_DarkzoneMap_Mask12",
+			"iconName": "任务目标",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2
+		},
+		{
+			"id": 13,
+			"icon": "Icon_DarkzoneMap_Mask13",
+			"iconName": "任务目标区域",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 14,
+			"icon": "Icon_DarkzoneMap_Mask14",
+			"iconName": "远程勘测装置",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 15,
+			"icon": "Icon_DarkzoneMap_Mask15",
+			"iconName": "撤离信号站",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "撤离信号站所在位置，找到该装置发送信号，即可成功撤离。",
+			"iconSort": 3,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 16,
+			"icon": "Icon_DarkzoneMap_Mask10",
+			"iconName": "普通单位",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3
+		},
+		{
+			"id": 17,
+			"icon": "Icon_DarkzoneMap_Mask16",
+			"iconName": "目标位置",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "任务目标所在位置，请找到并消灭该敌方单位。",
+			"iconSort": 1,
+			"iconAbovefog": false
+		},
+		{
+			"id": 18,
+			"icon": "Icon_DarkzoneMap_Mask17",
+			"iconName": "起始位置",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "我方进入待勘测区时的初始位置。",
+			"iconSort": 2,
+			"iconAbovefog": false
+		},
+		{
+			"id": 19,
+			"icon": "Icon_DarkzoneMap_Mask4",
+			"iconName": "[特用点]敌方单位",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 20,
+			"icon": "Icon_DarkzoneMap_Mask12",
+			"iconName": "目标点",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 21,
+			"icon": "Icon_DarkzoneMap_Mask16",
+			"iconName": "目标位置",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 22,
+			"icon": "Icon_DarkzoneMap_Mask12",
+			"iconName": "目标点",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 23,
+			"icon": "Icon_DarkzoneMap_Mask18",
+			"iconName": "光粒风标",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1,
+			"iconVisible": false
+		},
+		{
+			"id": 24,
+			"icon": "Icon_DarkzoneMap_Mask19",
+			"iconName": "修复桩",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2,
+			"iconAbovefog": false
+		},
+		{
+			"id": 25,
+			"icon": "Icon_DarkzoneMap_Mask20",
+			"iconName": "撤离信号站",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false
+		},
+		{
+			"id": 26,
+			"icon": "Icon_DarkzoneMap_Mask21",
+			"iconName": "滤芯补给桩",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 1
+		},
+		{
+			"id": 27,
+			"icon": "Icon_DarkzoneMap_Mask18",
+			"iconName": "运载机",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 2
+		},
+		{
+			"id": 28,
+			"icon": "Icon_DarkzoneMap_Mask6",
+			"iconName": "补给箱",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 3,
+			"iconVisible": false
+		},
+		{
+			"id": 29,
+			"icon": "Icon_DarkzoneMap_Mask22",
+			"iconName": "重启整备站",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 0
+		},
+		{
+			"id": 30,
+			"icon": "Icon_DarkzoneMap_Mask23",
+			"iconName": "集成整备站",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 0
+		},
+		{
+			"id": 31,
+			"icon": "Icon_DarkzoneMap_Mask24",
+			"iconName": "机械维修桩",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 0
+		},
+		{
+			"id": 32,
+			"icon": "Icon_DarkzoneMap_Mask25",
+			"iconName": "控制单元",
+			"iconVisible": true,
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconSort": 0
+		},
+		{
+			"id": 33,
+			"icon": "Icon_DarkzoneMap_Mask26",
+			"iconName": "电网",
+			"iconAbovefog": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "",
+			"iconVisible": false,
+			"iconSort": 0
+		},
+		{
+			"id": 34,
+			"icon": "Icon_DarkzoneMap_Mask15",
+			"iconName": "撤离信号站",
+			"iconVisible": true,
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "运送环节结束的坐标点。运送货运机械抵达该坐标完成运载委托。",
+			"iconSort": 3,
+			"iconAbovefog": false
+		},
+		{
+			"id": 35,
+			"icon": "Icon_DarkzoneMap_Mask16",
+			"iconName": "目标位置",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "任务目标所在位置，请找到并消灭该敌方单位。",
+			"iconSort": 1,
+			"iconVisible": false,
+			"iconAbovefog": false
+		},
+		{
+			"id": 36,
+			"icon": "Icon_DarkzoneMap_Mask17",
+			"iconName": "起始位置",
+			"iconVisiableZoom": [
+				0,
+				10
+			],
+			"iconDesc": "运送环节开始的坐标点。货运机械会以当前坐标位置为起点，开始运送。",
+			"iconSort": 2,
+			"iconVisible": false,
+			"iconAbovefog": false
+		}
+	]
 }

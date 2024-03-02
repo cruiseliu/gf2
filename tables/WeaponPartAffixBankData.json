@@ -1,137 +1,137 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "抑伤lv:1",
-            "bankId": 1,
-            "skillId": 40010201,
-            "weight": 33
-        },
-        {
-            "id": 2,
-            "name": "降疗lv:1",
-            "bankId": 1,
-            "skillId": 40010801,
-            "weight": 33
-        },
-        {
-            "id": 3,
-            "name": "抑伤lv:2",
-            "bankId": 1,
-            "skillId": 40010202,
-            "weight": 17
-        },
-        {
-            "id": 4,
-            "name": "降疗lv:2",
-            "bankId": 1,
-            "skillId": 40010802,
-            "weight": 17
-        },
-        {
-            "id": 5,
-            "name": "弱甲lv:1",
-            "bankId": 2,
-            "skillId": 40010501,
-            "weight": 33
-        },
-        {
-            "id": 6,
-            "name": "偏离lv:1",
-            "bankId": 2,
-            "skillId": 40010601,
-            "weight": 33
-        },
-        {
-            "id": 7,
-            "name": "弱甲lv:2",
-            "bankId": 2,
-            "skillId": 40010502,
-            "weight": 17
-        },
-        {
-            "id": 8,
-            "name": "偏离lv:2",
-            "bankId": 2,
-            "skillId": 40010602,
-            "weight": 17
-        },
-        {
-            "id": 9,
-            "name": "抑伤lv:2",
-            "bankId": 3,
-            "skillId": 40010202,
-            "weight": 33
-        },
-        {
-            "id": 10,
-            "name": "降疗lv:2",
-            "bankId": 3,
-            "skillId": 40010802,
-            "weight": 33
-        },
-        {
-            "id": 11,
-            "name": "抑伤lv:3",
-            "bankId": 3,
-            "skillId": 40010203,
-            "weight": 17
-        },
-        {
-            "id": 12,
-            "name": "降疗lv:3",
-            "bankId": 3,
-            "skillId": 40010803,
-            "weight": 17
-        },
-        {
-            "id": 13,
-            "name": "弱甲lv:2",
-            "bankId": 4,
-            "skillId": 40010502,
-            "weight": 33
-        },
-        {
-            "id": 14,
-            "name": "偏离lv:2",
-            "bankId": 4,
-            "skillId": 40010602,
-            "weight": 33
-        },
-        {
-            "id": 15,
-            "name": "弱甲lv:3",
-            "bankId": 4,
-            "skillId": 40010503,
-            "weight": 17
-        },
-        {
-            "id": 16,
-            "name": "偏离lv:3",
-            "bankId": 4,
-            "skillId": 40010603,
-            "weight": 17
-        },
-        {
-            "id": 17,
-            "name": "制动lv:1",
-            "bankId": 5,
-            "skillId": 40010101,
-            "weight": 33
-        },
-        {
-            "id": 18,
-            "name": "致伤lv:1",
-            "bankId": 5,
-            "skillId": 40010701,
-            "weight": 33
-        },
-        {
-            "id": 19,
-            "name": "集中lv:1",
-            "bankId": 5,
-            "skillId": 40010901,
-            "weight": 33
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "抑伤lv:1",
+			"bankId": 1,
+			"skillId": 40010201,
+			"weight": 33
+		},
+		{
+			"id": 2,
+			"name": "降疗lv:1",
+			"bankId": 1,
+			"skillId": 40010801,
+			"weight": 33
+		},
+		{
+			"id": 3,
+			"name": "抑伤lv:2",
+			"bankId": 1,
+			"skillId": 40010202,
+			"weight": 17
+		},
+		{
+			"id": 4,
+			"name": "降疗lv:2",
+			"bankId": 1,
+			"skillId": 40010802,
+			"weight": 17
+		},
+		{
+			"id": 5,
+			"name": "弱甲lv:1",
+			"bankId": 2,
+			"skillId": 40010501,
+			"weight": 33
+		},
+		{
+			"id": 6,
+			"name": "偏离lv:1",
+			"bankId": 2,
+			"skillId": 40010601,
+			"weight": 33
+		},
+		{
+			"id": 7,
+			"name": "弱甲lv:2",
+			"bankId": 2,
+			"skillId": 40010502,
+			"weight": 17
+		},
+		{
+			"id": 8,
+			"name": "偏离lv:2",
+			"bankId": 2,
+			"skillId": 40010602,
+			"weight": 17
+		},
+		{
+			"id": 9,
+			"name": "抑伤lv:2",
+			"bankId": 3,
+			"skillId": 40010202,
+			"weight": 33
+		},
+		{
+			"id": 10,
+			"name": "降疗lv:2",
+			"bankId": 3,
+			"skillId": 40010802,
+			"weight": 33
+		},
+		{
+			"id": 11,
+			"name": "抑伤lv:3",
+			"bankId": 3,
+			"skillId": 40010203,
+			"weight": 17
+		},
+		{
+			"id": 12,
+			"name": "降疗lv:3",
+			"bankId": 3,
+			"skillId": 40010803,
+			"weight": 17
+		},
+		{
+			"id": 13,
+			"name": "弱甲lv:2",
+			"bankId": 4,
+			"skillId": 40010502,
+			"weight": 33
+		},
+		{
+			"id": 14,
+			"name": "偏离lv:2",
+			"bankId": 4,
+			"skillId": 40010602,
+			"weight": 33
+		},
+		{
+			"id": 15,
+			"name": "弱甲lv:3",
+			"bankId": 4,
+			"skillId": 40010503,
+			"weight": 17
+		},
+		{
+			"id": 16,
+			"name": "偏离lv:3",
+			"bankId": 4,
+			"skillId": 40010603,
+			"weight": 17
+		},
+		{
+			"id": 17,
+			"name": "制动lv:1",
+			"bankId": 5,
+			"skillId": 40010101,
+			"weight": 33
+		},
+		{
+			"id": 18,
+			"name": "致伤lv:1",
+			"bankId": 5,
+			"skillId": 40010701,
+			"weight": 33
+		},
+		{
+			"id": 19,
+			"name": "集中lv:1",
+			"bankId": 5,
+			"skillId": 40010901,
+			"weight": 33
+		}
+	]
 }

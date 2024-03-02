@@ -1,160 +1,160 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170027,
-            "nextItem": 170028,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170028": 1
-            }
-        },
-        {
-            "id": 2,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170028,
-            "nextItem": 170029,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170029": 1
-            }
-        },
-        {
-            "id": 3,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170029,
-            "nextItem": 170030,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170030": 1
-            }
-        },
-        {
-            "id": 4,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170030,
-            "nextItem": 170031,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170031": 1
-            }
-        },
-        {
-            "id": 6,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170032,
-            "nextItem": 170033,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170033": 1
-            }
-        },
-        {
-            "id": 7,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170033,
-            "nextItem": 170034,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170034": 1
-            }
-        },
-        {
-            "id": 8,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170034,
-            "nextItem": 170035,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170035": 1
-            }
-        },
-        {
-            "id": 10,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170035,
-            "nextItem": 170036,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170036": 1
-            }
-        },
-        {
-            "id": 11,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170037,
-            "nextItem": 170038,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170038": 1
-            }
-        },
-        {
-            "id": 12,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170038,
-            "nextItem": 170039,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170039": 1
-            }
-        },
-        {
-            "id": 13,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170039,
-            "nextItem": 170040,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170040": 1
-            }
-        },
-        {
-            "id": 14,
-            "synthesisOrder": 1016,
-            "synthesisItem": 170040,
-            "nextItem": 170041,
-            "synthesisNumBase": 3,
-            "outerNumBase": 1,
-            "synthesisNumExtra": 6,
-            "outerNumExtra": 2,
-            "extraBonus": {
-                "170041": 1
-            }
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170027,
+			"nextItem": 170028,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170028": 1
+			}
+		},
+		{
+			"id": 2,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170028,
+			"nextItem": 170029,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170029": 1
+			}
+		},
+		{
+			"id": 3,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170029,
+			"nextItem": 170030,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170030": 1
+			}
+		},
+		{
+			"id": 4,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170030,
+			"nextItem": 170031,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170031": 1
+			}
+		},
+		{
+			"id": 6,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170032,
+			"nextItem": 170033,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170033": 1
+			}
+		},
+		{
+			"id": 7,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170033,
+			"nextItem": 170034,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170034": 1
+			}
+		},
+		{
+			"id": 8,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170034,
+			"nextItem": 170035,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170035": 1
+			}
+		},
+		{
+			"id": 10,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170035,
+			"nextItem": 170036,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170036": 1
+			}
+		},
+		{
+			"id": 11,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170037,
+			"nextItem": 170038,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170038": 1
+			}
+		},
+		{
+			"id": 12,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170038,
+			"nextItem": 170039,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170039": 1
+			}
+		},
+		{
+			"id": 13,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170039,
+			"nextItem": 170040,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170040": 1
+			}
+		},
+		{
+			"id": 14,
+			"synthesisOrder": 1016,
+			"synthesisItem": 170040,
+			"nextItem": 170041,
+			"synthesisNumBase": 3,
+			"outerNumBase": 1,
+			"synthesisNumExtra": 6,
+			"outerNumExtra": 2,
+			"extraBonus": {
+				"170041": 1
+			}
+		}
+	]
 }

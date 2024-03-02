@@ -1,20 +1,20 @@
 {
-    "data": [
-        {
-            "id": 1001,
-            "name": "初始通用床组",
-            "tag": "common_simple_bed",
-            "desp": "最普通的床",
-            "pointId": 1,
-            "npc": 0
-        },
-        {
-            "id": 1002,
-            "name": "初始闪电功能台",
-            "tag": "Groza_simple_function",
-            "desp": "闪电日常烹饪的地方",
-            "pointId": 3,
-            "npc": 3
-        }
-    ]
+	"data": [
+		{
+			"id": 1001,
+			"name": "初始通用床组",
+			"tag": "common_simple_bed",
+			"desp": "最普通的床",
+			"pointId": 1,
+			"npc": 0
+		},
+		{
+			"id": 1002,
+			"name": "初始闪电功能台",
+			"tag": "Groza_simple_function",
+			"desp": "闪电日常烹饪的地方",
+			"pointId": 3,
+			"npc": 3
+		}
+	]
 }

@@ -8,28 +8,30 @@ import declarations
 
 def decode_tables(files: list[Path] | None = None) -> None:
     print('Decoding tables...')
+
     if files is None:
-        abs_files = Path(config.game_data_dir, 'Table').iterdir()
-        files = [f.relative_to(config.game_data_dir) for f in abs_files]
+        table_dir = Path(config.game_data_dir, 'Table')
+        files = list(table_dir.iterdir())
 
-    Path(config.tables_output_dir).mkdir(parents=True, exist_ok=True)
+    for output_dir in config.table_output_dirs:
+        Path(output_dir).mkdir(parents=True, exist_ok=True)
 
-    string_table = decode_table('LangPackageTableCnData', strings=None)
+    string_path = Path(config.game_data_dir, 'Table/LangPackageTableCnData.bytes')
+    string_table = decode_table(string_path, strings=None)
     strings = {int(s['id']): s['content'] for s in string_table}
 
     for file in files:
-        if file.parts[0] != 'Table':
-            continue
-        elif file.suffix != '.bytes':
-            print('SKIP', file.name)
-        elif file.stem != 'LangPackageTableCnData':
-            decode_table(file.stem, strings)
+        if file.parent.name == 'Table':
+            if file.stem == 'LangPackageTableCnData':
+                continue
+            if file.suffix == '.bytes':
+                decode_table(file, strings)
+            else:
+                print('SKIP', file.name)
 
-def decode_table(table_name: str, strings: dict[int, str] | None) -> dict | None:
-    from_path = Path(config.game_data_dir, f'Table/{table_name}.bytes')
-    to_path = Path(config.tables_output_dir, f'{table_name}.json')
-
-    data = from_path.read_bytes()
+def decode_table(path: Path, strings: dict[int, str] | None) -> dict | None:
+    table_name = path.stem
+    data = path.read_bytes()
     header_len = int.from_bytes(data[:4], 'little')
 
     try:
@@ -76,11 +78,14 @@ def decode_table(table_name: str, strings: dict[int, str] | None) -> dict | None
     if isinstance(table_obj['data'][0][primary_key], (int, str)):
         table_obj['data'] = sorted(table_obj['data'], key=(lambda obj: obj[primary_key]))
 
-    s = json.dumps(table_obj, indent=4, ensure_ascii=False)
-    to_path.write_text(s)
+    s = json.dumps(table_obj, indent='\t', ensure_ascii=False)
+    for output_dir in config.table_output_dirs:
+        path = Path(output_dir, f'{table_name}.json')
+        path.write_text(s)
 
     print('    ' + table_name)
     return table_obj['data']
 
 if __name__ == '__main__':
+    config.table_output_dirs = [Path(__file__).parents[1] / 'tables']
     decode_tables()

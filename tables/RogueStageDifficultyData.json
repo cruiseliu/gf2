@@ -1,34 +1,34 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "普通",
-            "iconPath": "Simple",
-            "quality": 3
-        },
-        {
-            "id": 2,
-            "name": "困难",
-            "iconPath": "Normal",
-            "quality": 4
-        },
-        {
-            "id": 3,
-            "name": "噩梦",
-            "iconPath": "Hard",
-            "quality": 5
-        },
-        {
-            "id": 20,
-            "name": "子群异",
-            "iconPath": "Hard",
-            "quality": 5
-        },
-        {
-            "id": 21,
-            "name": "子群终",
-            "iconPath": "Hard",
-            "quality": 5
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "普通",
+			"iconPath": "Simple",
+			"quality": 3
+		},
+		{
+			"id": 2,
+			"name": "困难",
+			"iconPath": "Normal",
+			"quality": 4
+		},
+		{
+			"id": 3,
+			"name": "噩梦",
+			"iconPath": "Hard",
+			"quality": 5
+		},
+		{
+			"id": 20,
+			"name": "子群异",
+			"iconPath": "Hard",
+			"quality": 5
+		},
+		{
+			"id": 21,
+			"name": "子群终",
+			"iconPath": "Hard",
+			"quality": 5
+		}
+	]
 }

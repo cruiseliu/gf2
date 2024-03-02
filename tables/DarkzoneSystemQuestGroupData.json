@@ -1,70 +1,70 @@
 {
-    "data": [
-        {
-            "groupId": 10101,
-            "groupType": 1,
-            "questBundleId": [
-                101,
-                102,
-                103
-            ],
-            "name": "基础任务"
-        },
-        {
-            "groupId": 10102,
-            "groupType": 2,
-            "questBundleId": [
-                111,
-                112
-            ],
-            "name": "进阶任务"
-        },
-        {
-            "groupId": 20101,
-            "groupType": 2,
-            "questBundleId": [
-                121,
-                122
-            ],
-            "name": "进阶任务"
-        },
-        {
-            "groupId": 30101,
-            "groupType": 2,
-            "questBundleId": [
-                131,
-                132,
-                133
-            ],
-            "name": "进阶任务"
-        },
-        {
-            "groupId": 40101,
-            "groupType": 2,
-            "questBundleId": [
-                141,
-                142,
-                143
-            ],
-            "name": "进阶任务"
-        },
-        {
-            "groupId": 50101,
-            "groupType": 2,
-            "questBundleId": [
-                151,
-                152,
-                153
-            ],
-            "name": "进阶任务"
-        },
-        {
-            "groupId": 60101,
-            "groupType": 3,
-            "questBundleId": [
-                99906
-            ],
-            "name": "推车测试任务"
-        }
-    ]
+	"data": [
+		{
+			"groupId": 10101,
+			"groupType": 1,
+			"questBundleId": [
+				101,
+				102,
+				103
+			],
+			"name": "基础任务"
+		},
+		{
+			"groupId": 10102,
+			"groupType": 2,
+			"questBundleId": [
+				111,
+				112
+			],
+			"name": "进阶任务"
+		},
+		{
+			"groupId": 20101,
+			"groupType": 2,
+			"questBundleId": [
+				121,
+				122
+			],
+			"name": "进阶任务"
+		},
+		{
+			"groupId": 30101,
+			"groupType": 2,
+			"questBundleId": [
+				131,
+				132,
+				133
+			],
+			"name": "进阶任务"
+		},
+		{
+			"groupId": 40101,
+			"groupType": 2,
+			"questBundleId": [
+				141,
+				142,
+				143
+			],
+			"name": "进阶任务"
+		},
+		{
+			"groupId": 50101,
+			"groupType": 2,
+			"questBundleId": [
+				151,
+				152,
+				153
+			],
+			"name": "进阶任务"
+		},
+		{
+			"groupId": 60101,
+			"groupType": 3,
+			"questBundleId": [
+				99906
+			],
+			"name": "推车测试任务"
+		}
+	]
 }

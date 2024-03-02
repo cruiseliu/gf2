@@ -1,32 +1,39 @@
 {
-    "data": [
-        {
-            "id": 401,
-            "type": 4,
-            "name": "佩妮泽",
-            "desc": "测试",
-            "resoureceCode": "Poludnitsa"
-        },
-        {
-            "id": 402,
-            "type": 4,
-            "name": "格琳喵",
-            "desc": "测试",
-            "resoureceCode": "Kalinia"
-        },
-        {
-            "id": 403,
-            "type": 4,
-            "name": "阿米达",
-            "desc": "测试",
-            "resoureceCode": "Aminda"
-        },
-        {
-            "id": 404,
-            "type": 4,
-            "name": "巴鲁克",
-            "desc": "测试",
-            "resoureceCode": "Baruch"
-        }
-    ]
+	"data": [
+		{
+			"id": 101,
+			"type": 1,
+			"name": "美玲",
+			"desc": "测试",
+			"resoureceCode": "Mayling"
+		},
+		{
+			"id": 401,
+			"type": 4,
+			"name": "佩妮泽",
+			"desc": "测试",
+			"resoureceCode": "Poludnitsa"
+		},
+		{
+			"id": 402,
+			"type": 4,
+			"name": "格琳喵",
+			"desc": "测试",
+			"resoureceCode": "Kalinia"
+		},
+		{
+			"id": 403,
+			"type": 4,
+			"name": "阿米达",
+			"desc": "测试",
+			"resoureceCode": "Aminda"
+		},
+		{
+			"id": 404,
+			"type": 4,
+			"name": "巴鲁克",
+			"desc": "测试",
+			"resoureceCode": "Baruch"
+		}
+	]
 }

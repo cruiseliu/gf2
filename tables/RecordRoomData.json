@@ -1,36 +1,36 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "sort": 1,
-            "name": "成员库",
-            "des": "记录整合艾莫号当前成员的信息",
-            "icon": "Img_ArchivesCenter_EnterBg1",
-            "unlock": 20004
-        },
-        {
-            "id": 2,
-            "sort": 2,
-            "name": "行迹回溯",
-            "des": "收录指挥官的经历及人形的心智记录",
-            "icon": "Img_ArchivesCenter_EnterBg2",
-            "unlock": 20005
-        },
-        {
-            "id": 3,
-            "sort": 3,
-            "name": "暂未接入",
-            "des": "-",
-            "icon": "Img_ArchivesCenter_EnterBg3",
-            "unlock": 20006
-        },
-        {
-            "id": 4,
-            "sort": 4,
-            "name": "武器图鉴",
-            "des": "武器图鉴",
-            "icon": "Img_ArchivesCenter_EnterBg4",
-            "unlock": 20006
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"sort": 1,
+			"name": "成员库",
+			"des": "记录整合艾莫号当前成员的信息",
+			"icon": "Img_ArchivesCenter_EnterBg1",
+			"unlock": 20004
+		},
+		{
+			"id": 2,
+			"sort": 2,
+			"name": "行迹回溯",
+			"des": "收录指挥官的经历及人形的心智记录",
+			"icon": "Img_ArchivesCenter_EnterBg2",
+			"unlock": 20005
+		},
+		{
+			"id": 3,
+			"sort": 3,
+			"name": "暂未接入",
+			"des": "-",
+			"icon": "Img_ArchivesCenter_EnterBg3",
+			"unlock": 20006
+		},
+		{
+			"id": 4,
+			"sort": 4,
+			"name": "武器图鉴",
+			"des": "武器图鉴",
+			"icon": "Img_ArchivesCenter_EnterBg4",
+			"unlock": 20006
+		}
+	]
 }

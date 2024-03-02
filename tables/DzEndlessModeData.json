@@ -1,30 +1,30 @@
 {
-    "data": [
-        {
-            "id": 105,
-            "resultDivide": 2,
-            "defaultVal": {
-                "1113": 600
-            },
-            "resultDivideNum": [
-                300,
-                600
-            ],
-            "eventTreeGroup": [
-                20012,
-                10015
-            ],
-            "propertyUpLimit": {
-                "1115": 600
-            },
-            "resultDesc1": "失效（状态值0）|滤芯状态值归零，行动失败。",
-            "resultDesc2": "下行（状态值1-300）|滤芯状态值偏低，我方视野范围缩小。",
-            "resultDesc3": "安全（状态值301-600）|滤芯状态值正常。",
-            "oxygenDownInSlg": 30,
-            "oxygenDownShow": 1,
-            "resultDesc4": "",
-            "resultDesc5": "",
-            "resultDesc6": ""
-        }
-    ]
+	"data": [
+		{
+			"id": 105,
+			"resultDivide": 2,
+			"defaultVal": {
+				"1113": 600
+			},
+			"resultDivideNum": [
+				300,
+				600
+			],
+			"eventTreeGroup": [
+				20012,
+				10015
+			],
+			"propertyUpLimit": {
+				"1115": 600
+			},
+			"resultDesc1": "失效（状态值0）|滤芯状态值归零，行动失败。",
+			"resultDesc2": "下行（状态值1-300）|滤芯状态值偏低，我方视野范围缩小。",
+			"resultDesc3": "安全（状态值301-600）|滤芯状态值正常。",
+			"oxygenDownInSlg": 30,
+			"oxygenDownShow": 1,
+			"resultDesc4": "",
+			"resultDesc5": "",
+			"resultDesc6": ""
+		}
+	]
 }

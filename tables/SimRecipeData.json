@@ -1,76 +1,76 @@
 {
-    "data": [
-        {
-            "recipeId": 10101,
-            "menuGroup": 1013,
-            "recipeName": "丝绒拿铁",
-            "recipeIcon": "Item_Icon_ActivityCafe_Latte",
-            "itemMaterial": 170015,
-            "materialNum": 1,
-            "itemCoffee": 170045,
-            "coffeeNum": 1,
-            "time": 600,
-            "value": 10
-        },
-        {
-            "recipeId": 10102,
-            "menuGroup": 1013,
-            "recipeName": "生椰雪山",
-            "recipeIcon": "Item_Icon_ActivityCafe_Coconut",
-            "itemMaterial": 170016,
-            "materialNum": 1,
-            "itemCoffee": 170046,
-            "coffeeNum": 1,
-            "time": 480,
-            "value": 15
-        },
-        {
-            "recipeId": 10103,
-            "menuGroup": 1013,
-            "recipeName": "闪耀之夜",
-            "recipeIcon": "Item_Icon_ActivityCafe_Shining",
-            "itemMaterial": 170017,
-            "materialNum": 1,
-            "itemCoffee": 170047,
-            "coffeeNum": 1,
-            "time": 360,
-            "value": 20
-        },
-        {
-            "recipeId": 10104,
-            "menuGroup": 1013,
-            "recipeName": "厚乳生酪",
-            "recipeIcon": "Item_Icon_ActivityCafe_Cheese",
-            "itemMaterial": 170018,
-            "materialNum": 1,
-            "itemCoffee": 170048,
-            "coffeeNum": 1,
-            "time": 300,
-            "value": 25
-        },
-        {
-            "recipeId": 10105,
-            "menuGroup": 1013,
-            "recipeName": "长夏琅戈",
-            "recipeIcon": "Item_Icon_ActivityCafe_Summer",
-            "itemMaterial": 170019,
-            "materialNum": 1,
-            "itemCoffee": 170049,
-            "coffeeNum": 1,
-            "time": 240,
-            "value": 30
-        },
-        {
-            "recipeId": 10106,
-            "menuGroup": 1013,
-            "recipeName": "挚爱玛绮朵",
-            "recipeIcon": "Item_Icon_ActivityCafe_Macchiato",
-            "itemMaterial": 170020,
-            "materialNum": 1,
-            "itemCoffee": 170050,
-            "coffeeNum": 1,
-            "time": 240,
-            "value": 40
-        }
-    ]
+	"data": [
+		{
+			"recipeId": 10101,
+			"menuGroup": 1013,
+			"recipeName": "丝绒拿铁",
+			"recipeIcon": "Item_Icon_ActivityCafe_Latte",
+			"itemMaterial": 170015,
+			"materialNum": 1,
+			"itemCoffee": 170045,
+			"coffeeNum": 1,
+			"time": 600,
+			"value": 10
+		},
+		{
+			"recipeId": 10102,
+			"menuGroup": 1013,
+			"recipeName": "生椰雪山",
+			"recipeIcon": "Item_Icon_ActivityCafe_Coconut",
+			"itemMaterial": 170016,
+			"materialNum": 1,
+			"itemCoffee": 170046,
+			"coffeeNum": 1,
+			"time": 480,
+			"value": 15
+		},
+		{
+			"recipeId": 10103,
+			"menuGroup": 1013,
+			"recipeName": "闪耀之夜",
+			"recipeIcon": "Item_Icon_ActivityCafe_Shining",
+			"itemMaterial": 170017,
+			"materialNum": 1,
+			"itemCoffee": 170047,
+			"coffeeNum": 1,
+			"time": 360,
+			"value": 20
+		},
+		{
+			"recipeId": 10104,
+			"menuGroup": 1013,
+			"recipeName": "厚乳生酪",
+			"recipeIcon": "Item_Icon_ActivityCafe_Cheese",
+			"itemMaterial": 170018,
+			"materialNum": 1,
+			"itemCoffee": 170048,
+			"coffeeNum": 1,
+			"time": 300,
+			"value": 25
+		},
+		{
+			"recipeId": 10105,
+			"menuGroup": 1013,
+			"recipeName": "长夏琅戈",
+			"recipeIcon": "Item_Icon_ActivityCafe_Summer",
+			"itemMaterial": 170019,
+			"materialNum": 1,
+			"itemCoffee": 170049,
+			"coffeeNum": 1,
+			"time": 240,
+			"value": 30
+		},
+		{
+			"recipeId": 10106,
+			"menuGroup": 1013,
+			"recipeName": "挚爱玛绮朵",
+			"recipeIcon": "Item_Icon_ActivityCafe_Macchiato",
+			"itemMaterial": 170020,
+			"materialNum": 1,
+			"itemCoffee": 170050,
+			"coffeeNum": 1,
+			"time": 240,
+			"value": 40
+		}
+	]
 }

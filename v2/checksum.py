@@ -10,30 +10,30 @@ def filter_updated_files() -> list[Path]:
 
     if prev_checksum is not None:
         print('Comparing checksum...')
-        files = []
+        rel_paths = []
 
-        for file, cur in cur_checksum.items():
-            prev = prev_checksum.pop(file, None)
+        for path, cur in cur_checksum.items():
+            prev = prev_checksum.pop(path, None)
             if cur != prev:
                 if prev is None:
-                    print('[new]', file)
+                    print('[new]', path)
                 else:
-                    print('[updated]', file)
-                files.append(file)
+                    print('[updated]', path)
+                rel_paths.append(path)
 
-        for file in prev_checksum.keys():
-            print('[removed]', file)
+        for path in prev_checksum.keys():
+            print('[removed]', path)
 
     else:
-        files = cur_checksum.keys()
+        rel_paths = cur_checksum.keys()
 
-    return [Path(file) for file in files]
+    return [Path(config.game_data_dir, path) for path in rel_paths]
 
 def get_checksum() -> dict[str, str]:
     # todo: use Version_D.txt ?
 
     try:
-        text = Path(config.output_dir, 'crc32.json').read_text()
+        text = Path(config.version_output_dir, 'crc32.json').read_text()
         return json.loads(text)
     except Exception:
         pass
@@ -57,7 +57,7 @@ def calc_checksum() -> dict[str, str]:
 
     text = json.dumps(file_hash, indent=4, ensure_ascii=False)
 
-    checksum_file = Path(config.output_dir, 'crc32.json')
+    checksum_file = Path(config.version_output_dir, 'crc32.json')  # FIXME
     checksum_file.parent.mkdir(parents=True, exist_ok=True)
     checksum_file.write_text(text)
 
@@ -67,7 +67,7 @@ def detect_previous_checksum() -> dict[str, str] | None:
     version = None
     checksum = None
 
-    for dir_ in Path(config.output_dir).parent.iterdir():
+    for dir_ in Path(config.version_output_dir).parent.iterdir():
         if version is not None and dir_.name < version:
             continue
         if dir_.name == config.game_version:

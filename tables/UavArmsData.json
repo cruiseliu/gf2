@@ -1,158 +1,158 @@
 {
-    "data": [
-        {
-            "id": 7000,
-            "name": "迷你炮机枪",
-            "rank": 4,
-            "type": 1,
-            "description": "迷你炮机枪",
-            "resCode": "MachineGun",
-            "cost": 1,
-            "itemId": 7000,
-            "unlockNum": 1,
-            "upgradeCost": [
-                2,
-                3,
-                5,
-                10,
-                20
-            ],
-            "skillSet": 1011,
-            "shieldType": 1,
-            "attackType": 2,
-            "uavArmLevelCost": 7000
-        },
-        {
-            "id": 7001,
-            "name": "固定炮塔",
-            "rank": 4,
-            "type": 2,
-            "description": "固定炮塔",
-            "resCode": "DefenseTower",
-            "cost": 3,
-            "itemId": 7001,
-            "unlockNum": 1,
-            "upgradeCost": [
-                2,
-                3,
-                5,
-                10,
-                20
-            ],
-            "skillSet": 1021,
-            "shieldType": 2,
-            "attackType": 1,
-            "uavArmLevelCost": 7000
-        },
-        {
-            "id": 7002,
-            "name": "寻敌导弹",
-            "rank": 4,
-            "type": 1,
-            "description": "寻敌导弹",
-            "resCode": "Missile",
-            "cost": 2,
-            "itemId": 7002,
-            "unlockNum": 1,
-            "upgradeCost": [
-                2,
-                3,
-                5,
-                10,
-                20
-            ],
-            "skillSet": 1031,
-            "shieldType": 2,
-            "attackType": 1,
-            "uavArmLevelCost": 7000
-        },
-        {
-            "id": 7003,
-            "name": "巡回式机枪车",
-            "rank": 4,
-            "type": 2,
-            "description": "巡回式机枪车",
-            "resCode": "MG_Vehicle",
-            "cost": 2,
-            "itemId": 7003,
-            "unlockNum": 1,
-            "upgradeCost": [
-                2,
-                3,
-                5,
-                10,
-                20
-            ],
-            "skillSet": 1071,
-            "shieldType": 1,
-            "attackType": 2,
-            "uavArmLevelCost": 7000
-        },
-        {
-            "id": 7004,
-            "name": "应急维修组件",
-            "rank": 4,
-            "type": 2,
-            "description": "应急维修组件",
-            "resCode": "AED",
-            "cost": 4,
-            "itemId": 7004,
-            "unlockNum": 1,
-            "upgradeCost": [
-                2,
-                3,
-                5,
-                10,
-                20
-            ],
-            "skillSet": 1081,
-            "shieldType": 1,
-            "uavArmLevelCost": 7000,
-            "attackType": 0
-        },
-        {
-            "id": 7005,
-            "name": "短效爆发组件",
-            "rank": 4,
-            "type": 2,
-            "description": "短效爆发组件",
-            "resCode": "Potential",
-            "cost": 5,
-            "itemId": 7005,
-            "unlockNum": 1,
-            "upgradeCost": [
-                2,
-                3,
-                5,
-                10,
-                20
-            ],
-            "skillSet": 1091,
-            "shieldType": 2,
-            "attackType": 1,
-            "uavArmLevelCost": 7000
-        },
-        {
-            "id": 9001,
-            "name": "寻敌导弹",
-            "rank": 4,
-            "type": 1,
-            "description": "寻敌导弹",
-            "resCode": "Missile",
-            "cost": 2,
-            "itemId": 7002,
-            "unlockNum": 1,
-            "upgradeCost": [
-                2,
-                3,
-                5,
-                10,
-                20
-            ],
-            "skillSet": 1031,
-            "shieldType": 2,
-            "attackType": 1,
-            "uavArmLevelCost": 7000
-        }
-    ]
+	"data": [
+		{
+			"id": 7000,
+			"name": "迷你炮机枪",
+			"rank": 4,
+			"type": 1,
+			"description": "迷你炮机枪",
+			"resCode": "MachineGun",
+			"cost": 1,
+			"itemId": 7000,
+			"unlockNum": 1,
+			"upgradeCost": [
+				2,
+				3,
+				5,
+				10,
+				20
+			],
+			"skillSet": 1011,
+			"shieldType": 1,
+			"attackType": 2,
+			"uavArmLevelCost": 7000
+		},
+		{
+			"id": 7001,
+			"name": "固定炮塔",
+			"rank": 4,
+			"type": 2,
+			"description": "固定炮塔",
+			"resCode": "DefenseTower",
+			"cost": 3,
+			"itemId": 7001,
+			"unlockNum": 1,
+			"upgradeCost": [
+				2,
+				3,
+				5,
+				10,
+				20
+			],
+			"skillSet": 1021,
+			"shieldType": 2,
+			"attackType": 1,
+			"uavArmLevelCost": 7000
+		},
+		{
+			"id": 7002,
+			"name": "寻敌导弹",
+			"rank": 4,
+			"type": 1,
+			"description": "寻敌导弹",
+			"resCode": "Missile",
+			"cost": 2,
+			"itemId": 7002,
+			"unlockNum": 1,
+			"upgradeCost": [
+				2,
+				3,
+				5,
+				10,
+				20
+			],
+			"skillSet": 1031,
+			"shieldType": 2,
+			"attackType": 1,
+			"uavArmLevelCost": 7000
+		},
+		{
+			"id": 7003,
+			"name": "巡回式机枪车",
+			"rank": 4,
+			"type": 2,
+			"description": "巡回式机枪车",
+			"resCode": "MG_Vehicle",
+			"cost": 2,
+			"itemId": 7003,
+			"unlockNum": 1,
+			"upgradeCost": [
+				2,
+				3,
+				5,
+				10,
+				20
+			],
+			"skillSet": 1071,
+			"shieldType": 1,
+			"attackType": 2,
+			"uavArmLevelCost": 7000
+		},
+		{
+			"id": 7004,
+			"name": "应急维修组件",
+			"rank": 4,
+			"type": 2,
+			"description": "应急维修组件",
+			"resCode": "AED",
+			"cost": 4,
+			"itemId": 7004,
+			"unlockNum": 1,
+			"upgradeCost": [
+				2,
+				3,
+				5,
+				10,
+				20
+			],
+			"skillSet": 1081,
+			"shieldType": 1,
+			"uavArmLevelCost": 7000,
+			"attackType": 0
+		},
+		{
+			"id": 7005,
+			"name": "短效爆发组件",
+			"rank": 4,
+			"type": 2,
+			"description": "短效爆发组件",
+			"resCode": "Potential",
+			"cost": 5,
+			"itemId": 7005,
+			"unlockNum": 1,
+			"upgradeCost": [
+				2,
+				3,
+				5,
+				10,
+				20
+			],
+			"skillSet": 1091,
+			"shieldType": 2,
+			"attackType": 1,
+			"uavArmLevelCost": 7000
+		},
+		{
+			"id": 9001,
+			"name": "寻敌导弹",
+			"rank": 4,
+			"type": 1,
+			"description": "寻敌导弹",
+			"resCode": "Missile",
+			"cost": 2,
+			"itemId": 7002,
+			"unlockNum": 1,
+			"upgradeCost": [
+				2,
+				3,
+				5,
+				10,
+				20
+			],
+			"skillSet": 1031,
+			"shieldType": 2,
+			"attackType": 1,
+			"uavArmLevelCost": 7000
+		}
+	]
 }

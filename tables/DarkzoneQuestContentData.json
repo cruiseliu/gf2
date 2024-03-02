@@ -1,432 +1,432 @@
 {
-    "data": [
-        {
-            "targetId": 110101,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "11010910": 1
-            }
-        },
-        {
-            "targetId": 110102,
-            "targetName": "消灭愚钝者",
-            "targetType": 1,
-            "targetArgs": {
-                "11019610": 1
-            }
-        },
-        {
-            "targetId": 110201,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "11024910": 1
-            }
-        },
-        {
-            "targetId": 110202,
-            "targetName": "消灭袭击者",
-            "targetType": 1,
-            "targetArgs": {
-                "11023510": 1
-            }
-        },
-        {
-            "targetId": 110301,
-            "targetName": "消灭堡垒泰坦",
-            "targetType": 1,
-            "targetArgs": {
-                "110312210": 1
-            }
-        },
-        {
-            "targetId": 110401,
-            "targetName": "消灭攻袭泰坦",
-            "targetType": 1,
-            "targetArgs": {
-                "110412110": 1
-            }
-        },
-        {
-            "targetId": 110402,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 3,
-            "targetArgs": {
-                "1104010": 1
-            }
-        },
-        {
-            "targetId": 110501,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "11051810": 1
-            }
-        },
-        {
-            "targetId": 110502,
-            "targetName": "消灭纽虫",
-            "targetType": 1,
-            "targetArgs": {
-                "11050210": 1
-            }
-        },
-        {
-            "targetId": 110601,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "110610310": 1
-            }
-        },
-        {
-            "targetId": 110602,
-            "targetName": "消灭剑锷泰坦",
-            "targetType": 1,
-            "targetArgs": {
-                "110612310": 1
-            }
-        },
-        {
-            "targetId": 110603,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 3,
-            "targetArgs": {
-                "1106021": 1
-            }
-        },
-        {
-            "targetId": 110701,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "11074710": 1
-            }
-        },
-        {
-            "targetId": 110702,
-            "targetName": "消灭重炮圣盾SWAP",
-            "targetType": 1,
-            "targetArgs": {
-                "11076410": 1
-            }
-        },
-        {
-            "targetId": 110801,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "11087112": 1
-            }
-        },
-        {
-            "targetId": 110802,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 3,
-            "targetArgs": {
-                "1108036": 1
-            }
-        },
-        {
-            "targetId": 110901,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "110910410": 1
-            }
-        },
-        {
-            "targetId": 110902,
-            "targetName": "找到百式圣盾SWAP",
-            "targetType": 1,
-            "targetArgs": {
-                "11096710": 1
-            }
-        },
-        {
-            "targetId": 111001,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "11104510": 1
-            }
-        },
-        {
-            "targetId": 111002,
-            "targetName": "消灭黑眼·弃形",
-            "targetType": 1,
-            "targetArgs": {
-                "11100810": 1
-            }
-        },
-        {
-            "targetId": 111003,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 3,
-            "targetArgs": {
-                "1110069": 1
-            }
-        },
-        {
-            "targetId": 111101,
-            "targetName": "探索区块左侧，获取骇入点",
-            "targetType": 3,
-            "targetArgs": {
-                "1111018": 1
-            }
-        },
-        {
-            "targetId": 111102,
-            "targetName": "探索区块右侧，获取骇入点",
-            "targetType": 3,
-            "targetArgs": {
-                "1111019": 1
-            }
-        },
-        {
-            "targetId": 111103,
-            "targetName": "使用骇入点开启电子安全门",
-            "targetType": 3,
-            "targetArgs": {
-                "1111005": 1
-            }
-        },
-        {
-            "targetId": 111104,
-            "targetName": "消灭纵火者",
-            "targetType": 1,
-            "targetArgs": {
-                "11110110": 1
-            }
-        },
-        {
-            "targetId": 111201,
-            "targetName": "利用传送装置寻找骇入点，开启电子安全门",
-            "targetType": 3,
-            "targetArgs": {
-                "1112052": 1
-            }
-        },
-        {
-            "targetId": 111202,
-            "targetName": "消灭尖喙铁兽",
-            "targetType": 1,
-            "targetArgs": {
-                "11129810": 1
-            }
-        },
-        {
-            "targetId": 111301,
-            "targetName": "消灭敌占区块的敌方单位",
-            "targetType": 1,
-            "targetArgs": {
-                "11137410": 1
-            }
-        },
-        {
-            "targetId": 111302,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 3,
-            "targetArgs": {
-                "1113077": 1
-            }
-        },
-        {
-            "targetId": 111401,
-            "targetName": "消灭獠牙铁兽",
-            "targetType": 1,
-            "targetArgs": {
-                "11149712": 1
-            }
-        },
-        {
-            "targetId": 111402,
-            "targetName": "找到撤离点撤退",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 111403,
-            "targetName": "（选做）消灭断角铁兽",
-            "targetType": 1,
-            "targetArgs": {
-                "117210012": 1
-            }
-        },
-        {
-            "targetId": 111501,
-            "targetName": "消灭黑眼·弃形",
-            "targetType": 1,
-            "targetArgs": {
-                "11150710": 1
-            }
-        },
-        {
-            "targetId": 111502,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 3,
-            "targetArgs": {
-                "1165021": 1
-            }
-        },
-        {
-            "targetId": 111601,
-            "targetName": "探索辐射区块，获取骇入点",
-            "targetType": 3,
-            "targetArgs": {
-                "1116013": 1
-            }
-        },
-        {
-            "targetId": 111602,
-            "targetName": "使用骇入点开启电子安全门",
-            "targetType": 3,
-            "targetArgs": {
-                "1116005": 1
-            }
-        },
-        {
-            "targetId": 111603,
-            "targetName": "消灭尖喙铁兽",
-            "targetType": 1,
-            "targetArgs": {
-                "11169812": 1
-            }
-        },
-        {
-            "targetId": 111604,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 3,
-            "targetArgs": {
-                "1116006": 1
-            }
-        },
-        {
-            "targetId": 111701,
-            "targetName": "寻找并消灭纵火者",
-            "targetType": 1,
-            "targetArgs": {
-                "11730110": 1
-            }
-        },
-        {
-            "targetId": 111702,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 111801,
-            "targetName": "消灭堡垒泰坦",
-            "targetType": 1,
-            "targetArgs": {
-                "111812212": 1
-            }
-        },
-        {
-            "targetId": 111802,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 111901,
-            "targetName": "消灭黑眼·弃形",
-            "targetType": 1,
-            "targetArgs": {
-                "11190710": 1
-            }
-        },
-        {
-            "targetId": 112001,
-            "targetName": "避开敌方单位黑眼·弃形的追击，或击败黑眼·弃形。",
-            "targetType": 1,
-            "targetArgs": {
-                "112016210": 1
-            }
-        },
-        {
-            "targetId": 112002,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 112101,
-            "targetName": "找到并消灭伊柏",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 112201,
-            "targetName": "找到并消灭伊柏",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 112301,
-            "targetName": "消灭纵火者与六分仪",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 112401,
-            "targetName": "找到并消灭堡垒泰坦",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 116501,
-            "targetName": "找到撤离信号站，完成撤离。",
-            "targetType": 3,
-            "targetArgs": {
-                "1165021": 1
-            }
-        },
-        {
-            "targetId": 116901,
-            "targetName": "击败敌方头目",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 117001,
-            "targetName": "击败敌方头目",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 117101,
-            "targetName": "击败敌方头目",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 117201,
-            "targetName": "消灭断角铁兽",
-            "targetType": 1,
-            "targetArgs": {
-                "117210012": 1
-            }
-        },
-        {
-            "targetId": 117301,
-            "targetName": "消灭敌方单位纵火者，找到撤离信号站，完成撤离。",
-            "targetType": 1,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 210102,
-            "targetName": "保护货运机械不被损毁",
-            "targetType": 0,
-            "targetArgs": {}
-        },
-        {
-            "targetId": 210103,
-            "targetName": "不要长时间远离货运机械响应范围",
-            "targetType": 0,
-            "targetArgs": {}
-        }
-    ]
+	"data": [
+		{
+			"targetId": 110101,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"11010910": 1
+			}
+		},
+		{
+			"targetId": 110102,
+			"targetName": "消灭愚钝者",
+			"targetType": 1,
+			"targetArgs": {
+				"11019610": 1
+			}
+		},
+		{
+			"targetId": 110201,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"11024910": 1
+			}
+		},
+		{
+			"targetId": 110202,
+			"targetName": "消灭袭击者",
+			"targetType": 1,
+			"targetArgs": {
+				"11023510": 1
+			}
+		},
+		{
+			"targetId": 110301,
+			"targetName": "消灭堡垒泰坦",
+			"targetType": 1,
+			"targetArgs": {
+				"110312210": 1
+			}
+		},
+		{
+			"targetId": 110401,
+			"targetName": "消灭攻袭泰坦",
+			"targetType": 1,
+			"targetArgs": {
+				"110412110": 1
+			}
+		},
+		{
+			"targetId": 110402,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 3,
+			"targetArgs": {
+				"1104010": 1
+			}
+		},
+		{
+			"targetId": 110501,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"11051810": 1
+			}
+		},
+		{
+			"targetId": 110502,
+			"targetName": "消灭纽虫",
+			"targetType": 1,
+			"targetArgs": {
+				"11050210": 1
+			}
+		},
+		{
+			"targetId": 110601,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"110610310": 1
+			}
+		},
+		{
+			"targetId": 110602,
+			"targetName": "消灭剑锷泰坦",
+			"targetType": 1,
+			"targetArgs": {
+				"110612310": 1
+			}
+		},
+		{
+			"targetId": 110603,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 3,
+			"targetArgs": {
+				"1106021": 1
+			}
+		},
+		{
+			"targetId": 110701,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"11074710": 1
+			}
+		},
+		{
+			"targetId": 110702,
+			"targetName": "消灭重炮圣盾SWAP",
+			"targetType": 1,
+			"targetArgs": {
+				"11076410": 1
+			}
+		},
+		{
+			"targetId": 110801,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"11087112": 1
+			}
+		},
+		{
+			"targetId": 110802,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 3,
+			"targetArgs": {
+				"1108036": 1
+			}
+		},
+		{
+			"targetId": 110901,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"110910410": 1
+			}
+		},
+		{
+			"targetId": 110902,
+			"targetName": "找到百式圣盾SWAP",
+			"targetType": 1,
+			"targetArgs": {
+				"11096710": 1
+			}
+		},
+		{
+			"targetId": 111001,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"11104510": 1
+			}
+		},
+		{
+			"targetId": 111002,
+			"targetName": "消灭黑眼·弃形",
+			"targetType": 1,
+			"targetArgs": {
+				"11100810": 1
+			}
+		},
+		{
+			"targetId": 111003,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 3,
+			"targetArgs": {
+				"1110069": 1
+			}
+		},
+		{
+			"targetId": 111101,
+			"targetName": "探索区块左侧，获取骇入点",
+			"targetType": 3,
+			"targetArgs": {
+				"1111018": 1
+			}
+		},
+		{
+			"targetId": 111102,
+			"targetName": "探索区块右侧，获取骇入点",
+			"targetType": 3,
+			"targetArgs": {
+				"1111019": 1
+			}
+		},
+		{
+			"targetId": 111103,
+			"targetName": "使用骇入点开启电子安全门",
+			"targetType": 3,
+			"targetArgs": {
+				"1111005": 1
+			}
+		},
+		{
+			"targetId": 111104,
+			"targetName": "消灭纵火者",
+			"targetType": 1,
+			"targetArgs": {
+				"11110110": 1
+			}
+		},
+		{
+			"targetId": 111201,
+			"targetName": "利用传送装置寻找骇入点，开启电子安全门",
+			"targetType": 3,
+			"targetArgs": {
+				"1112052": 1
+			}
+		},
+		{
+			"targetId": 111202,
+			"targetName": "消灭尖喙铁兽",
+			"targetType": 1,
+			"targetArgs": {
+				"11129810": 1
+			}
+		},
+		{
+			"targetId": 111301,
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"11137410": 1
+			}
+		},
+		{
+			"targetId": 111302,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 3,
+			"targetArgs": {
+				"1113077": 1
+			}
+		},
+		{
+			"targetId": 111401,
+			"targetName": "消灭獠牙铁兽",
+			"targetType": 1,
+			"targetArgs": {
+				"11149712": 1
+			}
+		},
+		{
+			"targetId": 111402,
+			"targetName": "找到撤离点撤退",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 111403,
+			"targetName": "（选做）消灭断角铁兽",
+			"targetType": 1,
+			"targetArgs": {
+				"117210012": 1
+			}
+		},
+		{
+			"targetId": 111501,
+			"targetName": "消灭黑眼·弃形",
+			"targetType": 1,
+			"targetArgs": {
+				"11150710": 1
+			}
+		},
+		{
+			"targetId": 111502,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 3,
+			"targetArgs": {
+				"1165021": 1
+			}
+		},
+		{
+			"targetId": 111601,
+			"targetName": "探索辐射区块，获取骇入点",
+			"targetType": 3,
+			"targetArgs": {
+				"1116013": 1
+			}
+		},
+		{
+			"targetId": 111602,
+			"targetName": "使用骇入点开启电子安全门",
+			"targetType": 3,
+			"targetArgs": {
+				"1116005": 1
+			}
+		},
+		{
+			"targetId": 111603,
+			"targetName": "消灭尖喙铁兽",
+			"targetType": 1,
+			"targetArgs": {
+				"11169812": 1
+			}
+		},
+		{
+			"targetId": 111604,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 3,
+			"targetArgs": {
+				"1116006": 1
+			}
+		},
+		{
+			"targetId": 111701,
+			"targetName": "寻找并消灭纵火者",
+			"targetType": 1,
+			"targetArgs": {
+				"11730110": 1
+			}
+		},
+		{
+			"targetId": 111702,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 111801,
+			"targetName": "消灭堡垒泰坦",
+			"targetType": 1,
+			"targetArgs": {
+				"111812212": 1
+			}
+		},
+		{
+			"targetId": 111802,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 111901,
+			"targetName": "消灭黑眼·弃形",
+			"targetType": 1,
+			"targetArgs": {
+				"11190710": 1
+			}
+		},
+		{
+			"targetId": 112001,
+			"targetName": "避开敌方单位黑眼·弃形的追击，或击败黑眼·弃形。",
+			"targetType": 1,
+			"targetArgs": {
+				"112016210": 1
+			}
+		},
+		{
+			"targetId": 112002,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 112101,
+			"targetName": "找到并消灭伊柏",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 112201,
+			"targetName": "找到并消灭伊柏",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 112301,
+			"targetName": "消灭纵火者与六分仪",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 112401,
+			"targetName": "找到并消灭堡垒泰坦",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 116501,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 3,
+			"targetArgs": {
+				"1165021": 1
+			}
+		},
+		{
+			"targetId": 116901,
+			"targetName": "击败敌方头目",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 117001,
+			"targetName": "击败敌方头目",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 117101,
+			"targetName": "击败敌方头目",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 117201,
+			"targetName": "消灭断角铁兽",
+			"targetType": 1,
+			"targetArgs": {
+				"117210012": 1
+			}
+		},
+		{
+			"targetId": 117301,
+			"targetName": "消灭敌方单位纵火者，找到撤离信号站，完成撤离。",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 210102,
+			"targetName": "保护货运机械不被损毁",
+			"targetType": 0,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 210103,
+			"targetName": "不要长时间远离货运机械响应范围",
+			"targetType": 0,
+			"targetArgs": {}
+		}
+	]
 }

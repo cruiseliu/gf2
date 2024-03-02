@@ -1,76 +1,76 @@
 {
-    "data": [
-        {
-            "dztoslgBuffId": 12,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 32001,
-            "timeScale": 1
-        },
-        {
-            "dztoslgBuffId": 10022,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 340202,
-            "timeScale": 30000
-        },
-        {
-            "dztoslgBuffId": 20000,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 52001,
-            "timeScale": 1
-        },
-        {
-            "dztoslgBuffId": 20002,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 52004,
-            "timeScale": 1
-        },
-        {
-            "dztoslgBuffId": 20003,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 52005,
-            "timeScale": 1
-        },
-        {
-            "dztoslgBuffId": 20004,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 52002,
-            "timeScale": 1
-        },
-        {
-            "dztoslgBuffId": 20008,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 52003,
-            "timeScale": 1
-        },
-        {
-            "dztoslgBuffId": 20013,
-            "condition": [
-                1,
-                2
-            ],
-            "inSlgBuffId": 52005,
-            "timeScale": 1
-        }
-    ]
+	"data": [
+		{
+			"dztoslgBuffId": 12,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 32001,
+			"timeScale": 1
+		},
+		{
+			"dztoslgBuffId": 10022,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 340202,
+			"timeScale": 30000
+		},
+		{
+			"dztoslgBuffId": 20000,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 52001,
+			"timeScale": 1
+		},
+		{
+			"dztoslgBuffId": 20002,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 52004,
+			"timeScale": 1
+		},
+		{
+			"dztoslgBuffId": 20003,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 52005,
+			"timeScale": 1
+		},
+		{
+			"dztoslgBuffId": 20004,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 52002,
+			"timeScale": 1
+		},
+		{
+			"dztoslgBuffId": 20008,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 52003,
+			"timeScale": 1
+		},
+		{
+			"dztoslgBuffId": 20013,
+			"condition": [
+				1,
+				2
+			],
+			"inSlgBuffId": 52005,
+			"timeScale": 1
+		}
+	]
 }

@@ -1,289 +1,289 @@
 {
-    "data": [
-        {
-            "id": 160001,
-            "unlockDes": "完成进阶任务 精确打击IV后解锁",
-            "jumpId": 10101,
-            "recipeType": 4,
-            "recipeDes": "套装类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe1",
-            "createShow": [
-                5,
-                15,
-                80
-            ],
-            "createTitle": "一型套装载波卡",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高协同防卫、战地救援、重装救援的【套装】配件的出现概率",
-            "recovery": true,
-            "material": {
-                "140001": 3,
-                "140003": 3,
-                "140007": 3
-            },
-            "create": {
-                "150003": 50,
-                "150001": 800,
-                "150002": 150
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160002,
-            "unlockDes": "完成进阶任务 强敌聚焦II后解锁",
-            "jumpId": 10102,
-            "recipeType": 4,
-            "recipeDes": "套装类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe2",
-            "createShow": [
-                5,
-                15,
-                80
-            ],
-            "createTitle": "二型套装载波卡",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高稳态坚守、警戒急救、爆破突袭的【套装】配件的出现概率",
-            "recovery": true,
-            "material": {
-                "140008": 3,
-                "140001": 3,
-                "140002": 3
-            },
-            "create": {
-                "150004": 800,
-                "150005": 150,
-                "150006": 50
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160003,
-            "unlockDes": "完成进阶任务 强敌聚焦III后解锁",
-            "jumpId": 10103,
-            "recipeType": 4,
-            "recipeDes": "套装类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe3",
-            "createShow": [
-                5,
-                15,
-                80
-            ],
-            "createTitle": "三型套装载波卡",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高散弹效应、导染聚能、稳态镇压的【套装】配件的出现概率",
-            "recovery": true,
-            "material": {
-                "140009": 3,
-                "140003": 3,
-                "140002": 3
-            },
-            "create": {
-                "150009": 50,
-                "150008": 150,
-                "150007": 800
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160004,
-            "unlockDes": "完成进阶任务 精确打击II后解锁",
-            "jumpId": 10104,
-            "recipeType": 1,
-            "recipeDes": "部位类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe4",
-            "createShow": [
-                5,
-                15,
-                80
-            ],
-            "createTitle": "一型部位载波卡",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高握把、脚架、链接组件和涂料图层的出现概率",
-            "recovery": true,
-            "material": {
-                "140004": 3,
-                "140003": 3,
-                "140001": 3
-            },
-            "create": {
-                "150010": 800,
-                "150012": 50,
-                "150011": 150
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160005,
-            "unlockDes": "完成进阶任务 精确打击III后解锁",
-            "jumpId": 10105,
-            "recipeType": 1,
-            "recipeDes": "部位类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe5",
-            "createShow": [
-                5,
-                15,
-                80
-            ],
-            "createTitle": "二型部位载波卡",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高瞄准设备和工程芯片的出现概率",
-            "recovery": true,
-            "material": {
-                "140005": 3,
-                "140002": 3,
-                "140003": 3
-            },
-            "create": {
-                "150013": 800,
-                "150014": 150,
-                "150015": 50
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160006,
-            "unlockDes": "完成基础任务 机动制敌III后解锁",
-            "jumpId": 10106,
-            "recipeType": 1,
-            "recipeDes": "部位类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe6",
-            "createShow": [
-                5,
-                15,
-                80
-            ],
-            "createTitle": "三型部位载波卡",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高枪口装置、涂料图层和工程芯片的出现概率",
-            "material": {
-                "140006": 3,
-                "140002": 3,
-                "140001": 3
-            },
-            "create": {
-                "150016": 800,
-                "150018": 50,
-                "150017": 150
-            },
-            "isShow": 1,
-            "recovery": false
-        },
-        {
-            "id": 160007,
-            "unlockDes": "完成进阶任务 多维协同III后解锁",
-            "jumpId": 10107,
-            "recipeType": 2,
-            "recipeDes": "功能类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe7",
-            "createShow": [
-                5,
-                15,
-                80
-            ],
-            "createTitle": "一型功能载波卡",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高组装类型的配件出现概率",
-            "recovery": true,
-            "material": {
-                "140011": 3,
-                "140001": 3,
-                "140002": 3
-            },
-            "create": {
-                "150020": 150,
-                "150019": 800,
-                "150021": 50
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160008,
-            "unlockDes": "完成进阶任务 多维协同II后解锁",
-            "jumpId": 10108,
-            "recipeType": 2,
-            "recipeDes": "功能类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe8",
-            "createShow": [
-                5,
-                15,
-                80
-            ],
-            "createTitle": "二型功能载波卡",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高无限类型的配件出现概率",
-            "recovery": true,
-            "material": {
-                "140012": 3,
-                "140002": 3,
-                "140003": 3
-            },
-            "create": {
-                "150023": 150,
-                "150024": 50,
-                "150022": 800
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160010,
-            "unlockDes": "完成进阶任务 强敌聚焦IV后解锁",
-            "jumpId": 10110,
-            "recipeType": 3,
-            "recipeDes": "成色类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe10",
-            "createShow": [
-                100
-            ],
-            "createTitle": "完美成色载波卡·短波",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
-            "recovery": true,
-            "material": {
-                "140013": 3,
-                "140001": 3,
-                "140002": 3
-            },
-            "create": {
-                "150028": 1000
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160011,
-            "unlockDes": "完成进阶任务 多维协同IV后解锁",
-            "jumpId": 10111,
-            "recipeType": 3,
-            "recipeDes": "成色类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe11",
-            "createShow": [
-                100
-            ],
-            "createTitle": "完美成色载波卡·中波",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
-            "recovery": true,
-            "material": {
-                "140014": 3,
-                "140001": 3,
-                "140003": 3
-            },
-            "create": {
-                "150029": 1000
-            },
-            "isShow": 1
-        },
-        {
-            "id": 160012,
-            "unlockDes": "完成进阶任务 多维协同IV后解锁",
-            "jumpId": 10111,
-            "recipeType": 3,
-            "recipeDes": "成色类载波卡",
-            "recipeIcon": "Item_Icon_Wish_Recipe12",
-            "createShow": [
-                100
-            ],
-            "createTitle": "完美成色载波卡·长波",
-            "createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
-            "recovery": true,
-            "material": {
-                "140001": 3,
-                "140003": 3,
-                "140015": 3
-            },
-            "create": {
-                "150030": 1000
-            },
-            "isShow": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 160001,
+			"unlockDes": "完成进阶任务 精确打击IV后解锁",
+			"jumpId": 10101,
+			"recipeType": 4,
+			"recipeDes": "套装类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe1",
+			"createShow": [
+				5,
+				15,
+				80
+			],
+			"createTitle": "一型套装载波卡",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高协同防卫、战地救援、重装救援的【套装】配件的出现概率",
+			"recovery": true,
+			"material": {
+				"140007": 3,
+				"140003": 3,
+				"140001": 3
+			},
+			"create": {
+				"150001": 800,
+				"150003": 50,
+				"150002": 150
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160002,
+			"unlockDes": "完成进阶任务 强敌聚焦II后解锁",
+			"jumpId": 10102,
+			"recipeType": 4,
+			"recipeDes": "套装类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe2",
+			"createShow": [
+				5,
+				15,
+				80
+			],
+			"createTitle": "二型套装载波卡",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高稳态坚守、警戒急救、爆破突袭的【套装】配件的出现概率",
+			"recovery": true,
+			"material": {
+				"140002": 3,
+				"140008": 3,
+				"140001": 3
+			},
+			"create": {
+				"150005": 150,
+				"150006": 50,
+				"150004": 800
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160003,
+			"unlockDes": "完成进阶任务 强敌聚焦III后解锁",
+			"jumpId": 10103,
+			"recipeType": 4,
+			"recipeDes": "套装类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe3",
+			"createShow": [
+				5,
+				15,
+				80
+			],
+			"createTitle": "三型套装载波卡",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高散弹效应、导染聚能、稳态镇压的【套装】配件的出现概率",
+			"recovery": true,
+			"material": {
+				"140009": 3,
+				"140002": 3,
+				"140003": 3
+			},
+			"create": {
+				"150008": 150,
+				"150009": 50,
+				"150007": 800
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160004,
+			"unlockDes": "完成进阶任务 精确打击II后解锁",
+			"jumpId": 10104,
+			"recipeType": 1,
+			"recipeDes": "部位类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe4",
+			"createShow": [
+				5,
+				15,
+				80
+			],
+			"createTitle": "一型部位载波卡",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高握把、脚架、链接组件和涂料图层的出现概率",
+			"recovery": true,
+			"material": {
+				"140001": 3,
+				"140003": 3,
+				"140004": 3
+			},
+			"create": {
+				"150011": 150,
+				"150012": 50,
+				"150010": 800
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160005,
+			"unlockDes": "完成进阶任务 精确打击III后解锁",
+			"jumpId": 10105,
+			"recipeType": 1,
+			"recipeDes": "部位类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe5",
+			"createShow": [
+				5,
+				15,
+				80
+			],
+			"createTitle": "二型部位载波卡",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高瞄准设备和工程芯片的出现概率",
+			"recovery": true,
+			"material": {
+				"140003": 3,
+				"140005": 3,
+				"140002": 3
+			},
+			"create": {
+				"150013": 800,
+				"150015": 50,
+				"150014": 150
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160006,
+			"unlockDes": "完成基础任务 机动制敌III后解锁",
+			"jumpId": 10106,
+			"recipeType": 1,
+			"recipeDes": "部位类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe6",
+			"createShow": [
+				5,
+				15,
+				80
+			],
+			"createTitle": "三型部位载波卡",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高枪口装置、涂料图层和工程芯片的出现概率",
+			"material": {
+				"140001": 3,
+				"140006": 3,
+				"140002": 3
+			},
+			"create": {
+				"150016": 800,
+				"150017": 150,
+				"150018": 50
+			},
+			"isShow": 1,
+			"recovery": false
+		},
+		{
+			"id": 160007,
+			"unlockDes": "完成进阶任务 多维协同III后解锁",
+			"jumpId": 10107,
+			"recipeType": 2,
+			"recipeDes": "功能类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe7",
+			"createShow": [
+				5,
+				15,
+				80
+			],
+			"createTitle": "一型功能载波卡",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高组装类型的配件出现概率",
+			"recovery": true,
+			"material": {
+				"140011": 3,
+				"140001": 3,
+				"140002": 3
+			},
+			"create": {
+				"150021": 50,
+				"150019": 800,
+				"150020": 150
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160008,
+			"unlockDes": "完成进阶任务 多维协同II后解锁",
+			"jumpId": 10108,
+			"recipeType": 2,
+			"recipeDes": "功能类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe8",
+			"createShow": [
+				5,
+				15,
+				80
+			],
+			"createTitle": "二型功能载波卡",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高无限类型的配件出现概率",
+			"recovery": true,
+			"material": {
+				"140002": 3,
+				"140003": 3,
+				"140012": 3
+			},
+			"create": {
+				"150023": 150,
+				"150024": 50,
+				"150022": 800
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160010,
+			"unlockDes": "完成进阶任务 强敌聚焦IV后解锁",
+			"jumpId": 10110,
+			"recipeType": 3,
+			"recipeDes": "成色类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe10",
+			"createShow": [
+				100
+			],
+			"createTitle": "完美成色载波卡·短波",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
+			"recovery": true,
+			"material": {
+				"140013": 3,
+				"140002": 3,
+				"140001": 3
+			},
+			"create": {
+				"150028": 1000
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160011,
+			"unlockDes": "完成进阶任务 多维协同IV后解锁",
+			"jumpId": 10111,
+			"recipeType": 3,
+			"recipeDes": "成色类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe11",
+			"createShow": [
+				100
+			],
+			"createTitle": "完美成色载波卡·中波",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
+			"recovery": true,
+			"material": {
+				"140001": 3,
+				"140003": 3,
+				"140014": 3
+			},
+			"create": {
+				"150029": 1000
+			},
+			"isShow": 1
+		},
+		{
+			"id": 160012,
+			"unlockDes": "完成进阶任务 多维协同IV后解锁",
+			"jumpId": 10111,
+			"recipeType": 3,
+			"recipeDes": "成色类载波卡",
+			"recipeIcon": "Item_Icon_Wish_Recipe12",
+			"createShow": [
+				100
+			],
+			"createTitle": "完美成色载波卡·长波",
+			"createDes": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
+			"recovery": true,
+			"material": {
+				"140001": 3,
+				"140015": 3,
+				"140003": 3
+			},
+			"create": {
+				"150030": 1000
+			},
+			"isShow": 0
+		}
+	]
 }

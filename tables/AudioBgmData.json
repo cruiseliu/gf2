@@ -1,1055 +1,1055 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "interfaceName": "UIEmbattlePanel",
-            "audioName": [
-                30014
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 2,
-            "interfaceName": "UIBattleTransitionPanel",
-            "audioName": [
-                30013
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 3,
-            "interfaceName": "UIBattleSettlementPanel",
-            "audioName": [
-                30016,
-                30017
-            ],
-            "priority": 2,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 4,
-            "audioName": [
-                30018
-            ],
-            "interfaceName": "",
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 5,
-            "interfaceName": "CommandCenterPanelV4",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 6,
-            "interfaceName": "UILoginPanel",
-            "audioName": [
-                30020
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 7,
-            "interfaceName": "UIChapterPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 8,
-            "interfaceName": "UIBattleIndexPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 9,
-            "audioName": [
-                30015
-            ],
-            "interfaceName": "",
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 10,
-            "audioName": [
-                30022
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 11,
-            "audioName": [
-                30024
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 12,
-            "audioName": [
-                30026
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 13,
-            "interfaceName": "UIChrPowerUpPanel",
-            "audioName": [
-                30028
-            ],
-            "selector": "MainMenu",
-            "track": "Depot",
-            "priority": 0
-        },
-        {
-            "id": 14,
-            "interfaceName": "UIGachaMainPanelV2",
-            "audioName": [
-                30030
-            ],
-            "selector": "ShopGacha",
-            "track": "Gacha",
-            "priority": 0
-        },
-        {
-            "id": 15,
-            "interfaceName": "UIStoreEntrancePanel",
-            "audioName": [
-                30029
-            ],
-            "selector": "ShopGacha",
-            "track": "Shop",
-            "priority": 0
-        },
-        {
-            "id": 16,
-            "audioName": [
-                30016
-            ],
-            "priority": 2,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 17,
-            "audioName": [
-                30021
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 18,
-            "audioName": [
-                30023
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 19,
-            "audioName": [
-                30025
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 20,
-            "audioName": [
-                30044
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 21,
-            "interfaceName": "UICombatMainPanel",
-            "audioName": [
-                30013
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 22,
-            "interfaceName": "UISimCombatTeachingPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 23,
-            "interfaceName": "UIChapterHardPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 24,
-            "interfaceName": "UISimCombatExpPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 25,
-            "interfaceName": "UISimCombatGoldPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 26,
-            "interfaceName": "UISimCombatEquipPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 27,
-            "interfaceName": "UISimCombatTrainingPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 28,
-            "interfaceName": "UISimCombatWeeklyPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 29,
-            "interfaceName": "UIBattleDefeatPanel",
-            "audioName": [
-                30017
-            ],
-            "priority": 2,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 30,
-            "audioName": [
-                30043
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 31,
-            "audioName": [
-                30033
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 32,
-            "audioName": [
-                30034
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 33,
-            "audioName": [
-                30035
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 34,
-            "audioName": [
-                30036
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 35,
-            "audioName": [
-                30037
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 36,
-            "audioName": [
-                30038
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 37,
-            "audioName": [
-                30039
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 38,
-            "audioName": [
-                30040
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 39,
-            "audioName": [
-                30041
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 40,
-            "audioName": [
-                30042
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 41,
-            "audioName": [
-                30045
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 42,
-            "audioName": [
-                30046
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 43,
-            "audioName": [
-                30047
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 44,
-            "audioName": [
-                30048
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 45,
-            "audioName": [
-                30049
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 46,
-            "audioName": [
-                30050
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 47,
-            "audioName": [
-                30051
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 48,
-            "audioName": [
-                30052
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 49,
-            "audioName": [
-                30053
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 50,
-            "audioName": [
-                30054
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 51,
-            "interfaceName": "UICommandCenterPanelV4",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 52,
-            "interfaceName": "UICommandCenterHudPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 53,
-            "audioName": [
-                30055
-            ],
-            "priority": 3,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 54,
-            "audioName": [
-                30056
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 55,
-            "audioName": [
-                30057
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 56,
-            "audioName": [
-                30058
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 57,
-            "audioName": [
-                30059
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 58,
-            "audioName": [
-                30060
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 59,
-            "audioName": [
-                30061
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 60,
-            "audioName": [
-                30062
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 61,
-            "audioName": [
-                30063
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 62,
-            "audioName": [
-                30064
-            ],
-            "priority": 3,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 63,
-            "interfaceName": "UIDarkZoneDefeatDialog",
-            "audioName": [
-                30065
-            ],
-            "priority": 3,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 64,
-            "interfaceName": "UIBattleDarkZoneSettlementPanel",
-            "audioName": [
-                30066
-            ],
-            "priority": 3,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 65,
-            "audioName": [
-                30067
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 66,
-            "interfaceName": "UIDarkZoneMainPanel",
-            "audioName": [
-                30068
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 67,
-            "audioName": [
-                30069
-            ],
-            "priority": 2,
-            "selector": "DZ_BattleMusic",
-            "track": "Common",
-            "interfaceName": ""
-        },
-        {
-            "id": 68,
-            "audioName": [
-                30070
-            ],
-            "priority": 2,
-            "selector": "DZ_BattleMusic",
-            "track": "Boss",
-            "interfaceName": ""
-        },
-        {
-            "id": 69,
-            "audioName": [
-                30071
-            ],
-            "priority": 2,
-            "selector": "DZ_BattleMusic",
-            "track": "Common",
-            "interfaceName": ""
-        },
-        {
-            "id": 70,
-            "audioName": [
-                30072
-            ],
-            "priority": 2,
-            "selector": "DZ_BattleMusic",
-            "track": "Boss",
-            "interfaceName": ""
-        },
-        {
-            "id": 71,
-            "audioName": [
-                30073
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 72,
-            "interfaceName": "UIDarkZoneModePanel",
-            "audioName": [
-                30068
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 73,
-            "interfaceName": "UIDarkZoneQuestPanel",
-            "audioName": [
-                30068
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 74,
-            "interfaceName": "UIDarkZoneTeamPanelV2",
-            "audioName": [
-                30068
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 75,
-            "audioName": [
-                30071
-            ],
-            "priority": 2,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 76,
-            "audioName": [
-                30070
-            ],
-            "priority": 2,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 77,
-            "audioName": [
-                30075
-            ],
-            "interfaceName": "",
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 78,
-            "audioName": [
-                30076
-            ],
-            "priority": 1,
-            "interfaceName": "",
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 79,
-            "interfaceName": "UINickNamePanelV2",
-            "audioName": [
-                30077
-            ],
-            "priority": 1,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 80,
-            "audioName": [
-                30078
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 81,
-            "audioName": [
-                30079
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 82,
-            "audioName": [
-                30080
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Prepare",
-            "interfaceName": ""
-        },
-        {
-            "id": 83,
-            "audioName": [
-                30081
-            ],
-            "priority": 1,
-            "selector": "Battle",
-            "track": "Inbattle",
-            "interfaceName": ""
-        },
-        {
-            "id": 84,
-            "interfaceName": "DaiyanMainPanel",
-            "audioName": [
-                30082
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 85,
-            "audioName": [
-                30083
-            ],
-            "interfaceName": "",
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 86,
-            "interfaceName": "DormMainPanel",
-            "audioName": [
-                30084
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 87,
-            "interfaceName": "ChrPowerUpPanelV3",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 88,
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "interfaceName": "",
-            "priority": 0
-        },
-        {
-            "id": 89,
-            "audioName": [
-                30085
-            ],
-            "selector": "Event_Selector",
-            "track": "Selector_1",
-            "interfaceName": "",
-            "priority": 0
-        },
-        {
-            "id": 90,
-            "audioName": [
-                30086
-            ],
-            "selector": "Event_Selector",
-            "track": "Selector_2",
-            "interfaceName": "",
-            "priority": 0
-        },
-        {
-            "id": 91,
-            "interfaceName": "UIActivityCafeChallengePanel",
-            "audioName": [
-                30087
-            ],
-            "selector": "Event_Selector",
-            "track": "Selector_3",
-            "priority": 0
-        },
-        {
-            "id": 92,
-            "interfaceName": "UIActivityCafeChapterPanel",
-            "audioName": [
-                30087
-            ],
-            "selector": "Event_Selector",
-            "track": "Selector_3",
-            "priority": 0
-        },
-        {
-            "id": 93,
-            "interfaceName": "UIDarkzoneModeCarrierPanel",
-            "audioName": [
-                30068
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 94,
-            "interfaceName": "UIRecentActivityPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 95,
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "interfaceName": "",
-            "priority": 0
-        },
-        {
-            "id": 96,
-            "interfaceName": "UISimCombatWeaponModPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 97,
-            "interfaceName": "UISimCombatWeaponExpPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 98,
-            "interfaceName": "UISimCombatDailyPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 99,
-            "interfaceName": "UIBattleIndexPanelV2",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 100,
-            "interfaceName": "UIHardChapterDetailPanel",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 101,
-            "interfaceName": "UIShootChrEnterPanel",
-            "audioName": [
-                30088
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 102,
-            "interfaceName": "LennaMainPanel",
-            "audioName": [
-                30090
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 103,
-            "interfaceName": "ActivityTourMainPanel",
-            "audioName": [
-                30089
-            ],
-            "priority": 0,
-            "selector": "",
-            "track": ""
-        },
-        {
-            "id": 104,
-            "interfaceName": "UIActivityDialog",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        },
-        {
-            "id": 105,
-            "interfaceName": "UIHardChapterSelectPanelV2",
-            "audioName": [
-                30027
-            ],
-            "selector": "MainMenu",
-            "track": "Lobby",
-            "priority": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"interfaceName": "UIEmbattlePanel",
+			"audioName": [
+				30014
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 2,
+			"interfaceName": "UIBattleTransitionPanel",
+			"audioName": [
+				30013
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 3,
+			"interfaceName": "UIBattleSettlementPanel",
+			"audioName": [
+				30016,
+				30017
+			],
+			"priority": 2,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 4,
+			"audioName": [
+				30018
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 5,
+			"interfaceName": "CommandCenterPanelV4",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 6,
+			"interfaceName": "UILoginPanel",
+			"audioName": [
+				30020
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 7,
+			"interfaceName": "UIChapterPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 8,
+			"interfaceName": "UIBattleIndexPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 9,
+			"audioName": [
+				30015
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 10,
+			"audioName": [
+				30022
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 11,
+			"audioName": [
+				30024
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 12,
+			"audioName": [
+				30026
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 13,
+			"interfaceName": "UIChrPowerUpPanel",
+			"audioName": [
+				30028
+			],
+			"selector": "MainMenu",
+			"track": "Depot",
+			"priority": 0
+		},
+		{
+			"id": 14,
+			"interfaceName": "UIGachaMainPanelV2",
+			"audioName": [
+				30030
+			],
+			"selector": "ShopGacha",
+			"track": "Gacha",
+			"priority": 0
+		},
+		{
+			"id": 15,
+			"interfaceName": "UIStoreEntrancePanel",
+			"audioName": [
+				30029
+			],
+			"selector": "ShopGacha",
+			"track": "Shop",
+			"priority": 0
+		},
+		{
+			"id": 16,
+			"audioName": [
+				30016
+			],
+			"priority": 2,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 17,
+			"audioName": [
+				30021
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 18,
+			"audioName": [
+				30023
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 19,
+			"audioName": [
+				30025
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 20,
+			"audioName": [
+				30044
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 21,
+			"interfaceName": "UICombatMainPanel",
+			"audioName": [
+				30013
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 22,
+			"interfaceName": "UISimCombatTeachingPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 23,
+			"interfaceName": "UIChapterHardPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 24,
+			"interfaceName": "UISimCombatExpPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 25,
+			"interfaceName": "UISimCombatGoldPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 26,
+			"interfaceName": "UISimCombatEquipPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 27,
+			"interfaceName": "UISimCombatTrainingPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 28,
+			"interfaceName": "UISimCombatWeeklyPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 29,
+			"interfaceName": "UIBattleDefeatPanel",
+			"audioName": [
+				30017
+			],
+			"priority": 2,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 30,
+			"audioName": [
+				30043
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 31,
+			"audioName": [
+				30033
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 32,
+			"audioName": [
+				30034
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 33,
+			"audioName": [
+				30035
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 34,
+			"audioName": [
+				30036
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 35,
+			"audioName": [
+				30037
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 36,
+			"audioName": [
+				30038
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 37,
+			"audioName": [
+				30039
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 38,
+			"audioName": [
+				30040
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 39,
+			"audioName": [
+				30041
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 40,
+			"audioName": [
+				30042
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 41,
+			"audioName": [
+				30045
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 42,
+			"audioName": [
+				30046
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 43,
+			"audioName": [
+				30047
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 44,
+			"audioName": [
+				30048
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 45,
+			"audioName": [
+				30049
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 46,
+			"audioName": [
+				30050
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 47,
+			"audioName": [
+				30051
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 48,
+			"audioName": [
+				30052
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 49,
+			"audioName": [
+				30053
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 50,
+			"audioName": [
+				30054
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 51,
+			"interfaceName": "UICommandCenterPanelV4",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 52,
+			"interfaceName": "UICommandCenterHudPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 53,
+			"audioName": [
+				30055
+			],
+			"priority": 3,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 54,
+			"audioName": [
+				30056
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 55,
+			"audioName": [
+				30057
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 56,
+			"audioName": [
+				30058
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 57,
+			"audioName": [
+				30059
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 58,
+			"audioName": [
+				30060
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 59,
+			"audioName": [
+				30061
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 60,
+			"audioName": [
+				30062
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 61,
+			"audioName": [
+				30063
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 62,
+			"audioName": [
+				30064
+			],
+			"priority": 3,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 63,
+			"interfaceName": "UIDarkZoneDefeatDialog",
+			"audioName": [
+				30065
+			],
+			"priority": 3,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 64,
+			"interfaceName": "UIBattleDarkZoneSettlementPanel",
+			"audioName": [
+				30066
+			],
+			"priority": 3,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 65,
+			"audioName": [
+				30067
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 66,
+			"interfaceName": "UIDarkZoneMainPanel",
+			"audioName": [
+				30068
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 67,
+			"audioName": [
+				30069
+			],
+			"priority": 2,
+			"selector": "DZ_BattleMusic",
+			"track": "Common",
+			"interfaceName": ""
+		},
+		{
+			"id": 68,
+			"audioName": [
+				30070
+			],
+			"priority": 2,
+			"selector": "DZ_BattleMusic",
+			"track": "Boss",
+			"interfaceName": ""
+		},
+		{
+			"id": 69,
+			"audioName": [
+				30071
+			],
+			"priority": 2,
+			"selector": "DZ_BattleMusic",
+			"track": "Common",
+			"interfaceName": ""
+		},
+		{
+			"id": 70,
+			"audioName": [
+				30072
+			],
+			"priority": 2,
+			"selector": "DZ_BattleMusic",
+			"track": "Boss",
+			"interfaceName": ""
+		},
+		{
+			"id": 71,
+			"audioName": [
+				30073
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 72,
+			"interfaceName": "UIDarkZoneModePanel",
+			"audioName": [
+				30068
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 73,
+			"interfaceName": "UIDarkZoneQuestPanel",
+			"audioName": [
+				30068
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 74,
+			"interfaceName": "UIDarkZoneTeamPanelV2",
+			"audioName": [
+				30068
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 75,
+			"audioName": [
+				30071
+			],
+			"priority": 2,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 76,
+			"audioName": [
+				30070
+			],
+			"priority": 2,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 77,
+			"audioName": [
+				30075
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 78,
+			"audioName": [
+				30076
+			],
+			"priority": 1,
+			"interfaceName": "",
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 79,
+			"interfaceName": "UINickNamePanelV2",
+			"audioName": [
+				30077
+			],
+			"priority": 1,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 80,
+			"audioName": [
+				30078
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 81,
+			"audioName": [
+				30079
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 82,
+			"audioName": [
+				30080
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Prepare",
+			"interfaceName": ""
+		},
+		{
+			"id": 83,
+			"audioName": [
+				30081
+			],
+			"priority": 1,
+			"selector": "Battle",
+			"track": "Inbattle",
+			"interfaceName": ""
+		},
+		{
+			"id": 84,
+			"interfaceName": "DaiyanMainPanel",
+			"audioName": [
+				30082
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 85,
+			"audioName": [
+				30083
+			],
+			"interfaceName": "",
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 86,
+			"interfaceName": "DormMainPanel",
+			"audioName": [
+				30084
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 87,
+			"interfaceName": "ChrPowerUpPanelV3",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 88,
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"interfaceName": "",
+			"priority": 0
+		},
+		{
+			"id": 89,
+			"audioName": [
+				30085
+			],
+			"selector": "Event_Selector",
+			"track": "Selector_1",
+			"interfaceName": "",
+			"priority": 0
+		},
+		{
+			"id": 90,
+			"audioName": [
+				30086
+			],
+			"selector": "Event_Selector",
+			"track": "Selector_2",
+			"interfaceName": "",
+			"priority": 0
+		},
+		{
+			"id": 91,
+			"interfaceName": "UIActivityCafeChallengePanel",
+			"audioName": [
+				30087
+			],
+			"selector": "Event_Selector",
+			"track": "Selector_3",
+			"priority": 0
+		},
+		{
+			"id": 92,
+			"interfaceName": "UIActivityCafeChapterPanel",
+			"audioName": [
+				30087
+			],
+			"selector": "Event_Selector",
+			"track": "Selector_3",
+			"priority": 0
+		},
+		{
+			"id": 93,
+			"interfaceName": "UIDarkzoneModeCarrierPanel",
+			"audioName": [
+				30068
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 94,
+			"interfaceName": "UIRecentActivityPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 95,
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"interfaceName": "",
+			"priority": 0
+		},
+		{
+			"id": 96,
+			"interfaceName": "UISimCombatWeaponModPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 97,
+			"interfaceName": "UISimCombatWeaponExpPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 98,
+			"interfaceName": "UISimCombatDailyPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 99,
+			"interfaceName": "UIBattleIndexPanelV2",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 100,
+			"interfaceName": "UIHardChapterDetailPanel",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 101,
+			"interfaceName": "UIShootChrEnterPanel",
+			"audioName": [
+				30088
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 102,
+			"interfaceName": "LennaMainPanel",
+			"audioName": [
+				30090
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 103,
+			"interfaceName": "ActivityTourMainPanel",
+			"audioName": [
+				30089
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 104,
+			"interfaceName": "UIActivityDialog",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		},
+		{
+			"id": 105,
+			"interfaceName": "UIHardChapterSelectPanelV2",
+			"audioName": [
+				30027
+			],
+			"selector": "MainMenu",
+			"track": "Lobby",
+			"priority": 0
+		}
+	]
 }

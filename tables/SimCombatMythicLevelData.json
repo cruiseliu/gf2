@@ -1,244 +1,244 @@
 {
-    "data": [
-        {
-            "levelId": 1011,
-            "levelName": "子群一",
-            "levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
-            "baseRequire": 20111,
-            "recommendLevel": 30,
-            "mainEnemy": "Monster_Half_Commander"
-        },
-        {
-            "levelId": 1012,
-            "levelName": "子群二",
-            "levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
-            "baseRequire": 20121,
-            "recommendLevel": 31,
-            "mainEnemy": "Monster_Half_AegisArtillery_SWAP"
-        },
-        {
-            "levelId": 1013,
-            "levelName": "子群三",
-            "levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
-            "baseRequire": 20131,
-            "recommendLevel": 32,
-            "mainEnemy": "Monster_Half_FelaskjuCaptain"
-        },
-        {
-            "levelId": 1014,
-            "levelName": "子群四",
-            "levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
-            "baseRequire": 20141,
-            "recommendLevel": 33,
-            "mainEnemy": "Monster_Half_FelaskjuCaptain"
-        },
-        {
-            "levelId": 1015,
-            "levelName": "子群五",
-            "levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
-            "baseRequire": 20151,
-            "recommendLevel": 35,
-            "mainEnemy": "Monster_Half_FelaskjuCaptain"
-        },
-        {
-            "levelId": 2011,
-            "levelName": "子群一",
-            "levelDesc": "灵活地调整策略，应对多变的战况。",
-            "baseRequire": 20211,
-            "recommendLevel": 35,
-            "mainEnemy": "Monster_Half_AegisArtillery_SWAP"
-        },
-        {
-            "levelId": 2012,
-            "levelName": "子群二",
-            "levelDesc": "灵活地调整策略，应对多变的战况。",
-            "baseRequire": 20221,
-            "recommendLevel": 36,
-            "mainEnemy": "Monster_Half_FelaskjuCaptain"
-        },
-        {
-            "levelId": 2013,
-            "levelName": "子群三",
-            "levelDesc": "灵活地调整策略，应对多变的战况。",
-            "baseRequire": 20231,
-            "recommendLevel": 37,
-            "mainEnemy": "Monster_Half_ArrowThornElite"
-        },
-        {
-            "levelId": 2014,
-            "levelName": "子群四",
-            "levelDesc": "灵活地调整策略，应对多变的战况。",
-            "baseRequire": 20241,
-            "recommendLevel": 38,
-            "mainEnemy": "Monster_Half_FelaskjuCaptain"
-        },
-        {
-            "levelId": 2015,
-            "levelName": "子群五",
-            "levelDesc": "灵活地调整策略，应对多变的战况。",
-            "baseRequire": 20251,
-            "recommendLevel": 40,
-            "mainEnemy": "Monster_Half_AegisArtillery_SWAP"
-        },
-        {
-            "levelId": 3011,
-            "levelName": "子群一",
-            "levelDesc": "有时候，进攻是最好的防守。",
-            "baseRequire": 20311,
-            "recommendLevel": 40,
-            "mainEnemy": "Monster_Half_AegisArtillery_SWAP"
-        },
-        {
-            "levelId": 3012,
-            "levelName": "子群二",
-            "levelDesc": "有时候，进攻是最好的防守。",
-            "baseRequire": 20321,
-            "recommendLevel": 41,
-            "mainEnemy": "Monster_Half_Commander"
-        },
-        {
-            "levelId": 3013,
-            "levelName": "子群三",
-            "levelDesc": "有时候，进攻是最好的防守。",
-            "baseRequire": 20331,
-            "recommendLevel": 42,
-            "mainEnemy": "Monster_Half_Commander"
-        },
-        {
-            "levelId": 3014,
-            "levelName": "子群四",
-            "levelDesc": "有时候，进攻是最好的防守。",
-            "baseRequire": 20341,
-            "recommendLevel": 43,
-            "mainEnemy": "Monster_Half_AegisJetpack"
-        },
-        {
-            "levelId": 3015,
-            "levelName": "子群五",
-            "levelDesc": "有时候，进攻是最好的防守。",
-            "baseRequire": 20351,
-            "recommendLevel": 45,
-            "mainEnemy": "Monster_Half_ArrowThornElite"
-        },
-        {
-            "levelId": 4011,
-            "levelName": "子群一",
-            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
-            "baseRequire": 20411,
-            "recommendLevel": 45,
-            "mainEnemy": "Monster_Half_ArrowThornElite"
-        },
-        {
-            "levelId": 4012,
-            "levelName": "子群二",
-            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
-            "baseRequire": 20421,
-            "recommendLevel": 46,
-            "mainEnemy": "Monster_Half_ArrowThornElite"
-        },
-        {
-            "levelId": 4013,
-            "levelName": "子群三",
-            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
-            "baseRequire": 20431,
-            "recommendLevel": 47,
-            "mainEnemy": "Monster_Half_UnitasIon"
-        },
-        {
-            "levelId": 4014,
-            "levelName": "子群四",
-            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
-            "baseRequire": 20441,
-            "recommendLevel": 48,
-            "mainEnemy": "Monster_Half_Commander"
-        },
-        {
-            "levelId": 4015,
-            "levelName": "子群五",
-            "levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
-            "baseRequire": 20451,
-            "recommendLevel": 50,
-            "mainEnemy": "Monster_Half_Felaskju_Hummer"
-        },
-        {
-            "levelId": 5011,
-            "levelName": "子群一",
-            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
-            "baseRequire": 20511,
-            "recommendLevel": 50,
-            "mainEnemy": "Monster_Half_Commander"
-        },
-        {
-            "levelId": 5012,
-            "levelName": "子群二",
-            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
-            "baseRequire": 20521,
-            "recommendLevel": 51,
-            "mainEnemy": "Monster_Half_FelaskjuCaptain"
-        },
-        {
-            "levelId": 5013,
-            "levelName": "子群三",
-            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
-            "baseRequire": 20531,
-            "recommendLevel": 52,
-            "mainEnemy": "Monster_Half_HammerThornElite"
-        },
-        {
-            "levelId": 5014,
-            "levelName": "子群四",
-            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
-            "baseRequire": 20541,
-            "recommendLevel": 53,
-            "mainEnemy": "Monster_Half_Felaskju_Hummer"
-        },
-        {
-            "levelId": 5015,
-            "levelName": "子群五",
-            "levelDesc": "战场情况不同，取得胜利的方式也不同。",
-            "baseRequire": 20551,
-            "recommendLevel": 55,
-            "mainEnemy": "Monster_Half_AegisArtillery_SWAP"
-        },
-        {
-            "levelId": 6011,
-            "levelName": "子群一",
-            "levelDesc": "困局之中，谨慎与耐心缺一不可。",
-            "baseRequire": 20611,
-            "recommendLevel": 55,
-            "mainEnemy": "Monster_Half_ScophinxMoths"
-        },
-        {
-            "levelId": 6012,
-            "levelName": "子群二",
-            "levelDesc": "困局之中，谨慎与耐心缺一不可。",
-            "baseRequire": 20621,
-            "recommendLevel": 55,
-            "mainEnemy": "Monster_Half_AegisJetpack"
-        },
-        {
-            "levelId": 6013,
-            "levelName": "子群三",
-            "levelDesc": "困局之中，谨慎与耐心缺一不可。",
-            "baseRequire": 20631,
-            "recommendLevel": 55,
-            "mainEnemy": "Monster_Half_ArrowThornElite"
-        },
-        {
-            "levelId": 6014,
-            "levelName": "子群四",
-            "levelDesc": "困局之中，谨慎与耐心缺一不可。",
-            "baseRequire": 20641,
-            "recommendLevel": 55,
-            "mainEnemy": "Monster_Half_ArrowThornElite"
-        },
-        {
-            "levelId": 6015,
-            "levelName": "子群五",
-            "levelDesc": "困局之中，谨慎与耐心缺一不可。",
-            "baseRequire": 20651,
-            "recommendLevel": 55,
-            "mainEnemy": "Monster_Half_Commander"
-        }
-    ]
+	"data": [
+		{
+			"levelId": 1011,
+			"levelName": "子群一",
+			"levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
+			"baseRequire": 20111,
+			"recommendLevel": 30,
+			"mainEnemy": "Monster_Half_Commander"
+		},
+		{
+			"levelId": 1012,
+			"levelName": "子群二",
+			"levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
+			"baseRequire": 20121,
+			"recommendLevel": 31,
+			"mainEnemy": "Monster_Half_AegisArtillery_SWAP"
+		},
+		{
+			"levelId": 1013,
+			"levelName": "子群三",
+			"levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
+			"baseRequire": 20131,
+			"recommendLevel": 32,
+			"mainEnemy": "Monster_Half_FelaskjuCaptain"
+		},
+		{
+			"levelId": 1014,
+			"levelName": "子群四",
+			"levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
+			"baseRequire": 20141,
+			"recommendLevel": 33,
+			"mainEnemy": "Monster_Half_FelaskjuCaptain"
+		},
+		{
+			"levelId": 1015,
+			"levelName": "子群五",
+			"levelDesc": "要通过这场考验，勇气与谋略缺一不可。",
+			"baseRequire": 20151,
+			"recommendLevel": 35,
+			"mainEnemy": "Monster_Half_FelaskjuCaptain"
+		},
+		{
+			"levelId": 2011,
+			"levelName": "子群一",
+			"levelDesc": "灵活地调整策略，应对多变的战况。",
+			"baseRequire": 20211,
+			"recommendLevel": 35,
+			"mainEnemy": "Monster_Half_AegisArtillery_SWAP"
+		},
+		{
+			"levelId": 2012,
+			"levelName": "子群二",
+			"levelDesc": "灵活地调整策略，应对多变的战况。",
+			"baseRequire": 20221,
+			"recommendLevel": 36,
+			"mainEnemy": "Monster_Half_FelaskjuCaptain"
+		},
+		{
+			"levelId": 2013,
+			"levelName": "子群三",
+			"levelDesc": "灵活地调整策略，应对多变的战况。",
+			"baseRequire": 20231,
+			"recommendLevel": 37,
+			"mainEnemy": "Monster_Half_ArrowThornElite"
+		},
+		{
+			"levelId": 2014,
+			"levelName": "子群四",
+			"levelDesc": "灵活地调整策略，应对多变的战况。",
+			"baseRequire": 20241,
+			"recommendLevel": 38,
+			"mainEnemy": "Monster_Half_FelaskjuCaptain"
+		},
+		{
+			"levelId": 2015,
+			"levelName": "子群五",
+			"levelDesc": "灵活地调整策略，应对多变的战况。",
+			"baseRequire": 20251,
+			"recommendLevel": 40,
+			"mainEnemy": "Monster_Half_AegisArtillery_SWAP"
+		},
+		{
+			"levelId": 3011,
+			"levelName": "子群一",
+			"levelDesc": "有时候，进攻是最好的防守。",
+			"baseRequire": 20311,
+			"recommendLevel": 40,
+			"mainEnemy": "Monster_Half_AegisArtillery_SWAP"
+		},
+		{
+			"levelId": 3012,
+			"levelName": "子群二",
+			"levelDesc": "有时候，进攻是最好的防守。",
+			"baseRequire": 20321,
+			"recommendLevel": 41,
+			"mainEnemy": "Monster_Half_Commander"
+		},
+		{
+			"levelId": 3013,
+			"levelName": "子群三",
+			"levelDesc": "有时候，进攻是最好的防守。",
+			"baseRequire": 20331,
+			"recommendLevel": 42,
+			"mainEnemy": "Monster_Half_Commander"
+		},
+		{
+			"levelId": 3014,
+			"levelName": "子群四",
+			"levelDesc": "有时候，进攻是最好的防守。",
+			"baseRequire": 20341,
+			"recommendLevel": 43,
+			"mainEnemy": "Monster_Half_AegisJetpack"
+		},
+		{
+			"levelId": 3015,
+			"levelName": "子群五",
+			"levelDesc": "有时候，进攻是最好的防守。",
+			"baseRequire": 20351,
+			"recommendLevel": 45,
+			"mainEnemy": "Monster_Half_ArrowThornElite"
+		},
+		{
+			"levelId": 4011,
+			"levelName": "子群一",
+			"levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+			"baseRequire": 20411,
+			"recommendLevel": 45,
+			"mainEnemy": "Monster_Half_ArrowThornElite"
+		},
+		{
+			"levelId": 4012,
+			"levelName": "子群二",
+			"levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+			"baseRequire": 20421,
+			"recommendLevel": 46,
+			"mainEnemy": "Monster_Half_ArrowThornElite"
+		},
+		{
+			"levelId": 4013,
+			"levelName": "子群三",
+			"levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+			"baseRequire": 20431,
+			"recommendLevel": 47,
+			"mainEnemy": "Monster_Half_UnitasIon"
+		},
+		{
+			"levelId": 4014,
+			"levelName": "子群四",
+			"levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+			"baseRequire": 20441,
+			"recommendLevel": 48,
+			"mainEnemy": "Monster_Half_Commander"
+		},
+		{
+			"levelId": 4015,
+			"levelName": "子群五",
+			"levelDesc": "如果无法找出首要击杀目标，那就把敌人全部歼灭。",
+			"baseRequire": 20451,
+			"recommendLevel": 50,
+			"mainEnemy": "Monster_Half_Felaskju_Hummer"
+		},
+		{
+			"levelId": 5011,
+			"levelName": "子群一",
+			"levelDesc": "战场情况不同，取得胜利的方式也不同。",
+			"baseRequire": 20511,
+			"recommendLevel": 50,
+			"mainEnemy": "Monster_Half_Commander"
+		},
+		{
+			"levelId": 5012,
+			"levelName": "子群二",
+			"levelDesc": "战场情况不同，取得胜利的方式也不同。",
+			"baseRequire": 20521,
+			"recommendLevel": 51,
+			"mainEnemy": "Monster_Half_FelaskjuCaptain"
+		},
+		{
+			"levelId": 5013,
+			"levelName": "子群三",
+			"levelDesc": "战场情况不同，取得胜利的方式也不同。",
+			"baseRequire": 20531,
+			"recommendLevel": 52,
+			"mainEnemy": "Monster_Half_HammerThornElite"
+		},
+		{
+			"levelId": 5014,
+			"levelName": "子群四",
+			"levelDesc": "战场情况不同，取得胜利的方式也不同。",
+			"baseRequire": 20541,
+			"recommendLevel": 53,
+			"mainEnemy": "Monster_Half_Felaskju_Hummer"
+		},
+		{
+			"levelId": 5015,
+			"levelName": "子群五",
+			"levelDesc": "战场情况不同，取得胜利的方式也不同。",
+			"baseRequire": 20551,
+			"recommendLevel": 55,
+			"mainEnemy": "Monster_Half_AegisArtillery_SWAP"
+		},
+		{
+			"levelId": 6011,
+			"levelName": "子群一",
+			"levelDesc": "困局之中，谨慎与耐心缺一不可。",
+			"baseRequire": 20611,
+			"recommendLevel": 55,
+			"mainEnemy": "Monster_Half_ScophinxMoths"
+		},
+		{
+			"levelId": 6012,
+			"levelName": "子群二",
+			"levelDesc": "困局之中，谨慎与耐心缺一不可。",
+			"baseRequire": 20621,
+			"recommendLevel": 55,
+			"mainEnemy": "Monster_Half_AegisJetpack"
+		},
+		{
+			"levelId": 6013,
+			"levelName": "子群三",
+			"levelDesc": "困局之中，谨慎与耐心缺一不可。",
+			"baseRequire": 20631,
+			"recommendLevel": 55,
+			"mainEnemy": "Monster_Half_ArrowThornElite"
+		},
+		{
+			"levelId": 6014,
+			"levelName": "子群四",
+			"levelDesc": "困局之中，谨慎与耐心缺一不可。",
+			"baseRequire": 20641,
+			"recommendLevel": 55,
+			"mainEnemy": "Monster_Half_ArrowThornElite"
+		},
+		{
+			"levelId": 6015,
+			"levelName": "子群五",
+			"levelDesc": "困局之中，谨慎与耐心缺一不可。",
+			"baseRequire": 20651,
+			"recommendLevel": 55,
+			"mainEnemy": "Monster_Half_Commander"
+		}
+	]
 }

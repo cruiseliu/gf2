@@ -1,2266 +1,2266 @@
 {
-    "data": [
-        {
-            "id": 10997,
-            "condition": [
-                10997
-            ],
-            "prompt": "指挥官达到26级",
-            "unlockName": "往期活动",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 10998,
-            "condition": [
-                10998
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到10级后解锁补给作战",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_SimCombat",
-            "unlockName": "补给作战",
-            "sequence": 30,
-            "conditionType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 10999,
-            "condition": [
-                10999
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到13级后解锁模拟作战",
-            "unlockName": "模拟作战",
-            "sequence": 20,
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 11000,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "战役",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11001,
-            "lockType": 1,
-            "prompt": "",
-            "icon": "Icon_NewFunctionUnlock_Story",
-            "unlockName": "剧情战役",
-            "sequence": 1,
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 11002,
-            "condition": [
-                11002
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到16级后解锁困难模式",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Hard",
-            "homeButtonRedhint": 1,
-            "unlockName": "心智勘测",
-            "sequence": 31,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 11003,
-            "condition": [
-                11003
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到10级后\n解锁深度搜索",
-            "unlockName": "深度搜索",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11004,
-            "condition": [
-                11004
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到10级后\n解锁标准同调",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_SimGold",
-            "unlockName": "标准同调",
-            "sequence": 33,
-            "conditionType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 11005,
-            "condition": [
-                11005
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到10级后\n解锁决策构象",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_SimEquip",
-            "unlockName": "决策构象",
-            "sequence": 33,
-            "conditionType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 11006,
-            "condition": [
-                11006
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到10级后\n解锁军备解析",
-            "unlockName": "军备解析",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11007,
-            "condition": [
-                11007
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到27级后解锁战力推定",
-            "unlockName": "战术评估",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11008,
-            "condition": [
-                11008
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到18级后解锁首领挑战",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_SimWeekly",
-            "homeButtonRedhint": 1,
-            "unlockName": "首领挑战",
-            "openDetail": "1645736400",
-            "sequence": 32,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false
-        },
-        {
-            "id": 11009,
-            "condition": [
-                11009
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到28级后解锁峰值推定",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Mythic",
-            "homeButtonRedhint": 1,
-            "unlockName": "峰值推定",
-            "sequence": 32,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 11010,
-            "condition": [
-                11010
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-1后解锁新手教学",
-            "unlockName": "新手教学",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11011,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-天赋资源",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11012,
-            "condition": [
-                11012
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到23级后\n解锁配件本",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_SimWeaponPart",
-            "unlockName": "定向精研",
-            "conditionType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11101,
-            "condition": [
-                11101
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役1-6后解锁归航教学",
-            "unlockName": "模拟作战-新手教学",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11102,
-            "condition": [
-                11102
-            ],
-            "lockType": 1,
-            "prompt": "通关归航教学·地形教学后解锁",
-            "unlockName": "模拟作战-新手教学",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11103,
-            "condition": [
-                11103
-            ],
-            "lockType": 1,
-            "prompt": "通关地形六后解锁【使用机关】",
-            "unlockName": "模拟作战-新手教学",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11110,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-天赋资源",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11111,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-天赋资源",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11112,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-天赋资源",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11113,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-天赋资源",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11501,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战日常本标签1",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11502,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战日常本标签2",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11503,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战日常本标签3",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11504,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战日常本标签4",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11505,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战日常本标签5",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11506,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战日常本标签6",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11800,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-首领挑战",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11801,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-首领挑战",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11802,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-首领挑战",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11803,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-首领挑战",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11804,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-首领挑战",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 11805,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "模拟作战-首领挑战",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12000,
-            "condition": [
-                12000
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役SL-1-2后解锁整备室",
-            "icon": "Icon_NewFunctionUnlock_Barrack",
-            "unlockName": "整备室",
-            "sequence": 2,
-            "conditionType": 0,
-            "interfaceId": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 12001,
-            "condition": [
-                12001
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役SL-1-2后解锁效能提升",
-            "unlockName": "升级",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12002,
-            "condition": [
-                12002
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役SL-1-2后解锁云图强固",
-            "unlockName": "升阶",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12003,
-            "condition": [
-                12003
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役1-8后解锁人形武器",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Weapon",
-            "homeButtonRedhint": 1,
-            "unlockName": "人形武器",
-            "sequence": 5,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 12004,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "技能升级",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12005,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "心智回路",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12006,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "拟态图谱",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12007,
-            "condition": [
-                12007
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到13级后解锁武器配件",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_WeaponPart",
-            "homeButtonRedhint": 1,
-            "unlockName": "武器配件",
-            "sequence": 6,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 12008,
-            "condition": [
-                12007
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到13级后解锁配件强化",
-            "unlockName": "配件强化",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12009,
-            "condition": [
-                12007
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到13级后解锁配件精调",
-            "unlockName": "配件精调",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12010,
-            "condition": [
-                12010
-            ],
-            "prompt": "",
-            "unlockName": "皮肤商店",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12101,
-            "condition": [
-                12003
-            ],
-            "prompt": "",
-            "unlockName": "涂装",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12102,
-            "condition": [
-                12003
-            ],
-            "prompt": "",
-            "unlockName": "武器涂装商店",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 12103,
-            "condition": [
-                12003
-            ],
-            "prompt": "",
-            "unlockName": "配件涂装商店",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 13000,
-            "condition": [
-                13000
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役SL-1-2后解锁购置",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Gashapon",
-            "homeButtonRedhint": 1,
-            "unlockName": "招募",
-            "sequence": 3,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 14000,
-            "condition": [
-                14000
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到13级后解锁实兵演习",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_PVP",
-            "homeButtonRedhint": 1,
-            "unlockName": "实兵演习",
-            "sequence": 32,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 14001,
-            "condition": [
-                14001
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到13级后解锁荣誉专区",
-            "unlockName": "实兵演习",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 14002,
-            "condition": [
-                14002
-            ],
-            "lockType": 1,
-            "prompt": "累计消耗{0}/2000演习徽记解锁",
-            "unlockName": "实兵演习",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 14003,
-            "condition": [
-                14003
-            ],
-            "lockType": 1,
-            "prompt": "段位达到新锐·一解锁演习兵械",
-            "unlockName": "实兵演习",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 14004,
-            "condition": [
-                14004
-            ],
-            "lockType": 1,
-            "prompt": "服务器时间99999999天后开启新手任务",
-            "unlockName": "实兵演习",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 14005,
-            "condition": [
-                14005
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-10后解锁演习记录",
-            "unlockName": "实兵演习",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 14006,
-            "condition": [
-                14006
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-10后解锁排行榜",
-            "unlockName": "实兵演习",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 14007,
-            "condition": [
-                14007
-            ],
-            "lockType": 1,
-            "prompt": "段位达到职业·一开启战场机库",
-            "unlockName": "实兵演习",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 14500,
-            "condition": [
-                14500
-            ],
-            "prompt": "实兵演习段位达到专家·一后开启",
-            "unlockName": "兵棋推演",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 14501,
-            "condition": [
-                14500
-            ],
-            "prompt": "实兵演习段位达到专家·一后开启",
-            "interfaceId": 554,
-            "icon": "lcon_NewFunctionUnlock_High_PVP",
-            "unlockName": "兵棋推演",
-            "conditionType": 0,
-            "lockType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 15000,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "获得佩里缇亚后解锁",
-            "unlockName": "休息室",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 15001,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "获得佩里缇亚后解锁",
-            "unlockName": "休息室商店",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 15002,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "获得佩里缇亚后解锁",
-            "unlockName": "休息室礼物赠送",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 15100,
-            "condition": [
-                15100
-            ],
-            "prompt": "",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Lounge",
-            "homeButtonRedhint": 1,
-            "unlockName": "休息室",
-            "sequence": 12,
-            "conditionType": 0,
-            "lockType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 16000,
-            "condition": [
-                16000
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役1-1后解锁暗行",
-            "icon": "Icon_NewFunctionUnlock_StoreExchange",
-            "unlockName": "暗行",
-            "sequence": 4,
-            "conditionType": 0,
-            "interfaceId": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 16002,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "交换商店-武器碎片",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16003,
-            "condition": [
-                16003
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到15级后解锁荣誉专区",
-            "unlockName": "易物所-荣誉专区",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16004,
-            "condition": [
-                16004
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "易物所-互通聚场",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16005,
-            "condition": [
-                16005
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役SL-1-2后解锁人形堆栈",
-            "unlockName": "易物所-人形堆栈",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16006,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "易物所-人形堆栈高级",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16007,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "易物所-人形堆栈低级",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16008,
-            "condition": [
-                16008
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到20级后解锁讯段交易",
-            "unlockName": "讯段交易",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16101,
-            "lockType": 1,
-            "prompt": "完成剧情战役1-1后解锁易物所",
-            "unlockName": "易物所",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16201,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "商店入口",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 16202,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "商城-军需官换装",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 17000,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "仓库入口",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 17001,
-            "lockType": 1,
-            "prompt": "完成剧情战役1-8后解锁人形武器",
-            "unlockName": "仓库-武器页签",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 17002,
-            "condition": [
-                12006
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-1后解锁拟态图谱",
-            "unlockName": "仓库-拟态图谱",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 17003,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "仓库-人形核心",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 17004,
-            "condition": [
-                12007
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到15级后解锁配件",
-            "unlockName": "仓库-武器配件",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 17005,
-            "condition": [
-                18000
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-3后解锁武装零件",
-            "unlockName": "仓库-武装零件",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 17008,
-            "condition": [
-                29000
-            ],
-            "prompt": "指挥官达到22级后解锁衍生键",
-            "unlockName": "仓库-衍生键",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 18000,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "机库",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 19000,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "班组",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 20000,
-            "condition": [
-                20000
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役1-6后解锁行迹",
-            "unlockName": "艾莫云机房",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 20001,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "行迹-记忆回溯",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 20002,
-            "condition": [
-                20002
-            ],
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "行迹-机要秘报",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 20003,
-            "condition": [
-                11002
-            ],
-            "prompt": "暂未开放",
-            "unlockName": "困难本剧情",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 20004,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "行迹-角色图鉴",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 20005,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "世界观图鉴",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 20006,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "武器图鉴",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 21000,
-            "lockType": 1,
-            "prompt": "指挥官达到1级后解锁邮件",
-            "unlockName": "邮件",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 22000,
-            "lockType": 1,
-            "prompt": "完成剧情战役2-1后解锁公告",
-            "unlockName": "公告",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 23000,
-            "condition": [
-                23000
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-1后解锁通讯",
-            "unlockName": "通讯",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 24000,
-            "condition": [
-                24000
-            ],
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "委托",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 24001,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "考核目标",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 24002,
-            "condition": [
-                24002
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-1后解锁每日订单",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Quest",
-            "unlockName": "委托",
-            "conditionType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 25000,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "聊天",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 25001,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "世界聊天",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 25002,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "世界聊天",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 26000,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "个人详情",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 26001,
-            "condition": [
-                26001
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到7级后解锁成就",
-            "unlockName": "成就",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 26002,
-            "condition": [
-                26002
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-1后解锁出勤奖励",
-            "unlockName": "签到",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 27000,
-            "lockType": 1,
-            "prompt": "",
-            "unlockName": "体力购买",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 28000,
-            "condition": [
-                28000
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到20级后解锁边界推进",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_DarkZone",
-            "homeButtonRedhint": 1,
-            "unlockName": "边界推进",
-            "sequence": 40,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 28001,
-            "condition": [
-                28001
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到20级后解锁",
-            "unlockName": "边界推进",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 28002,
-            "lockType": 1,
-            "prompt": "指挥官达到20级后解锁",
-            "unlockName": "边界推进",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 28003,
-            "lockType": 1,
-            "prompt": "指挥官达到20级后解锁",
-            "unlockName": "边界推进",
-            "conditionType": 0,
-            "condition": [],
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 28004,
-            "condition": [
-                28000
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到20级后解锁",
-            "unlockName": "边界推进",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 28005,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "完成新手任务A01后解锁特殊悬赏模式",
-            "unlockName": "边界推进",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 28006,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "完成新手任务A09后解锁探索模式",
-            "unlockName": "边界推进",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 28007,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "暂未开放",
-            "unlockName": "暗区月报",
-            "openDetail": "1745096400",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "sequence": 0
-        },
-        {
-            "id": 29000,
-            "condition": [
-                29000
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到16级后解锁心智螺旋",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Squad",
-            "homeButtonRedhint": 1,
-            "unlockName": "心智螺旋",
-            "sequence": 15,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 29001,
-            "condition": [
-                29001
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到16级后解锁位键调控",
-            "unlockName": "位键调控",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29002,
-            "condition": [
-                29002
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役1-8后解锁武器提升",
-            "unlockName": "熟练度提升",
-            "sequence": 9,
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 29003,
-            "condition": [
-                29003
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役1-8后解锁武器调校",
-            "unlockName": "武器调校",
-            "sequence": 10,
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 29004,
-            "condition": [
-                99999
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到26级后解锁武器精调",
-            "unlockName": "武器精调",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29005,
-            "condition": [
-                29005
-            ],
-            "prompt": "完成剧情战役1-8后解锁武器管理",
-            "unlockName": "武器管理",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29101,
-            "condition": [
-                29101
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-6后解锁远航巡录",
-            "unlockName": "远航巡录",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29102,
-            "condition": [
-                29101
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-6后解锁远航巡录任务",
-            "unlockName": "远航巡录",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29103,
-            "condition": [
-                29101
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-6后解锁远航巡录典藏",
-            "unlockName": "远航巡录",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29104,
-            "condition": [
-                29101
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役2-6后解锁远航巡录商店",
-            "unlockName": "远航巡录",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29202,
-            "condition": [
-                29202
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到20级后解锁近期活动",
-            "unlockName": "活动",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29203,
-            "condition": [
-                29301
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到26级后解锁近期活动",
-            "unlockName": "暗区-活动模式",
-            "conditionType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29301,
-            "condition": [
-                29301
-            ],
-            "prompt": "指挥官达到26级后解锁主题活动",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_ThemeActivity",
-            "homeButtonRedhint": 1,
-            "unlockName": "主题活动",
-            "sequence": 10,
-            "conditionType": 0,
-            "lockType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 29302,
-            "condition": [
-                29302
-            ],
-            "prompt": "指挥官达到26级后解锁主题活动",
-            "unlockName": "主题活动-黛烟活动-巡游玩法",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29303,
-            "condition": [
-                29303
-            ],
-            "prompt": "指挥官达到26级后解锁主题活动",
-            "unlockName": "主题活动-黛烟活动-灵感玩法",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29304,
-            "condition": [
-                29304,
-                28005
-            ],
-            "prompt": "完成活动战役普通1-1后解锁",
-            "unlockName": "主题活动-桑朵莱希活动-暗区推车",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 29305,
-            "condition": [
-                29305
-            ],
-            "prompt": "完成活动战役普通1-1后解锁",
-            "unlockName": "主题活动-桑朵莱希活动-运载机",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 30001,
-            "condition": [
-                30001
-            ],
-            "lockType": 1,
-            "prompt": "完成剧情战役SL-1-2后解锁活动",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Event",
-            "homeButtonRedhint": 1,
-            "unlockName": "运营活动",
-            "sequence": 7,
-            "conditionType": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 31000,
-            "condition": [
-                31000
-            ],
-            "prompt": "完成剧情战役1-8后解锁悔棋",
-            "unlockName": "悔棋",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 31001,
-            "condition": [
-                31001
-            ],
-            "prompt": "完成剧情战役2-1后解锁倍速战斗",
-            "unlockName": "倍速战斗",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 31002,
-            "condition": [
-                31002
-            ],
-            "prompt": "完成剧情战役2-4后解锁自动战斗",
-            "unlockName": "自动战斗",
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "icon": "",
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0",
-            "sequence": 0
-        },
-        {
-            "id": 32001,
-            "condition": [
-                32001
-            ],
-            "prompt": "",
-            "icon": "Icon_NewFunctionUnlock_PVP",
-            "unlockName": "高位竞技场",
-            "sequence": 60,
-            "conditionType": 0,
-            "lockType": 0,
-            "interfaceId": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 33001,
-            "condition": [
-                33001
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到45级后解锁",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Unite",
-            "unlockName": "扩编实练",
-            "sequence": 41,
-            "conditionType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 33002,
-            "condition": [
-                33002
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到45级后解锁",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Decompose",
-            "unlockName": "精调增幅",
-            "sequence": 42,
-            "conditionType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        },
-        {
-            "id": 33003,
-            "condition": [
-                33003
-            ],
-            "lockType": 1,
-            "prompt": "指挥官达到45级后解锁",
-            "interfaceId": 554,
-            "icon": "Icon_NewFunctionUnlock_Calibration",
-            "unlockName": "配件校准",
-            "sequence": 43,
-            "conditionType": 0,
-            "homeButtonRedhint": 0,
-            "cmdList": [],
-            "isClose": false,
-            "openDetail": "0"
-        }
-    ]
+	"data": [
+		{
+			"id": 10997,
+			"condition": [
+				10997
+			],
+			"prompt": "指挥官达到26级",
+			"unlockName": "往期活动",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 10998,
+			"condition": [
+				10998
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到10级后解锁补给作战",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimCombat",
+			"unlockName": "补给作战",
+			"sequence": 30,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 10999,
+			"condition": [
+				10999
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到13级后解锁模拟作战",
+			"unlockName": "模拟作战",
+			"sequence": 20,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 11000,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "战役",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11001,
+			"lockType": 1,
+			"prompt": "",
+			"icon": "Icon_NewFunctionUnlock_Story",
+			"unlockName": "剧情战役",
+			"sequence": 1,
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 11002,
+			"condition": [
+				11002
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到16级后解锁困难模式",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Hard",
+			"homeButtonRedhint": 1,
+			"unlockName": "心智勘测",
+			"sequence": 31,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 11003,
+			"condition": [
+				11003
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到10级后\n解锁深度搜索",
+			"unlockName": "深度搜索",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11004,
+			"condition": [
+				11004
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到10级后\n解锁标准同调",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimGold",
+			"unlockName": "标准同调",
+			"sequence": 33,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 11005,
+			"condition": [
+				11005
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到10级后\n解锁决策构象",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimEquip",
+			"unlockName": "决策构象",
+			"sequence": 33,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 11006,
+			"condition": [
+				11006
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到10级后\n解锁军备解析",
+			"unlockName": "军备解析",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11007,
+			"condition": [
+				11007
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到27级后解锁战力推定",
+			"unlockName": "战术评估",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11008,
+			"condition": [
+				11008
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到18级后解锁首领挑战",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimWeekly",
+			"homeButtonRedhint": 1,
+			"unlockName": "首领挑战",
+			"openDetail": "1645736400",
+			"sequence": 32,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false
+		},
+		{
+			"id": 11009,
+			"condition": [
+				11009
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到28级后解锁峰值推定",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Mythic",
+			"homeButtonRedhint": 1,
+			"unlockName": "峰值推定",
+			"sequence": 32,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 11010,
+			"condition": [
+				11010
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-1后解锁新手教学",
+			"unlockName": "新手教学",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11011,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-天赋资源",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11012,
+			"condition": [
+				11012
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到23级后\n解锁配件本",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_SimWeaponPart",
+			"unlockName": "定向精研",
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11101,
+			"condition": [
+				11101
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役1-6后解锁归航教学",
+			"unlockName": "模拟作战-新手教学",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11102,
+			"condition": [
+				11102
+			],
+			"lockType": 1,
+			"prompt": "通关归航教学·地形教学后解锁",
+			"unlockName": "模拟作战-新手教学",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11103,
+			"condition": [
+				11103
+			],
+			"lockType": 1,
+			"prompt": "通关地形六后解锁【使用机关】",
+			"unlockName": "模拟作战-新手教学",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11110,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-天赋资源",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11111,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-天赋资源",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11112,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-天赋资源",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11113,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-天赋资源",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11501,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战日常本标签1",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11502,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战日常本标签2",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11503,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战日常本标签3",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11504,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战日常本标签4",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11505,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战日常本标签5",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11506,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战日常本标签6",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11800,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-首领挑战",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11801,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-首领挑战",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11802,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-首领挑战",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11803,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-首领挑战",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11804,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-首领挑战",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 11805,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "模拟作战-首领挑战",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12000,
+			"condition": [
+				12000
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役SL-1-2后解锁整备室",
+			"icon": "Icon_NewFunctionUnlock_Barrack",
+			"unlockName": "整备室",
+			"sequence": 2,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 12001,
+			"condition": [
+				12001
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役SL-1-2后解锁效能提升",
+			"unlockName": "升级",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12002,
+			"condition": [
+				12002
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役SL-1-2后解锁云图强固",
+			"unlockName": "升阶",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12003,
+			"condition": [
+				12003
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役1-8后解锁人形武器",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Weapon",
+			"homeButtonRedhint": 1,
+			"unlockName": "人形武器",
+			"sequence": 5,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 12004,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "技能升级",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12005,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "心智回路",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12006,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "拟态图谱",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12007,
+			"condition": [
+				12007
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到13级后解锁武器配件",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_WeaponPart",
+			"homeButtonRedhint": 1,
+			"unlockName": "武器配件",
+			"sequence": 6,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 12008,
+			"condition": [
+				12007
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到13级后解锁配件强化",
+			"unlockName": "配件强化",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12009,
+			"condition": [
+				12007
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到13级后解锁配件精调",
+			"unlockName": "配件精调",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12010,
+			"condition": [
+				12010
+			],
+			"prompt": "",
+			"unlockName": "皮肤商店",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12101,
+			"condition": [
+				12003
+			],
+			"prompt": "",
+			"unlockName": "涂装",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12102,
+			"condition": [
+				12003
+			],
+			"prompt": "",
+			"unlockName": "武器涂装商店",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 12103,
+			"condition": [
+				12003
+			],
+			"prompt": "",
+			"unlockName": "配件涂装商店",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 13000,
+			"condition": [
+				13000
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役SL-1-2后解锁购置",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Gashapon",
+			"homeButtonRedhint": 1,
+			"unlockName": "招募",
+			"sequence": 3,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 14000,
+			"condition": [
+				14000
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到13级后解锁实兵演习",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_PVP",
+			"homeButtonRedhint": 1,
+			"unlockName": "实兵演习",
+			"sequence": 32,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 14001,
+			"condition": [
+				14001
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到13级后解锁荣誉专区",
+			"unlockName": "实兵演习",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14002,
+			"condition": [
+				14002
+			],
+			"lockType": 1,
+			"prompt": "累计消耗{0}/2000演习徽记解锁",
+			"unlockName": "实兵演习",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14003,
+			"condition": [
+				14003
+			],
+			"lockType": 1,
+			"prompt": "段位达到新锐·一解锁演习兵械",
+			"unlockName": "实兵演习",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14004,
+			"condition": [
+				14004
+			],
+			"lockType": 1,
+			"prompt": "服务器时间99999999天后开启新手任务",
+			"unlockName": "实兵演习",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14005,
+			"condition": [
+				14005
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-10后解锁演习记录",
+			"unlockName": "实兵演习",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14006,
+			"condition": [
+				14006
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-10后解锁排行榜",
+			"unlockName": "实兵演习",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14007,
+			"condition": [
+				14007
+			],
+			"lockType": 1,
+			"prompt": "段位达到职业·一开启战场机库",
+			"unlockName": "实兵演习",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14500,
+			"condition": [
+				14500
+			],
+			"prompt": "实兵演习段位达到专家·一后开启",
+			"unlockName": "兵棋推演",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 14501,
+			"condition": [
+				14500
+			],
+			"prompt": "实兵演习段位达到专家·一后开启",
+			"interfaceId": 554,
+			"icon": "lcon_NewFunctionUnlock_High_PVP",
+			"unlockName": "兵棋推演",
+			"conditionType": 0,
+			"lockType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 15000,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "获得佩里缇亚后解锁",
+			"unlockName": "休息室",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 15001,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "获得佩里缇亚后解锁",
+			"unlockName": "休息室商店",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 15002,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "获得佩里缇亚后解锁",
+			"unlockName": "休息室礼物赠送",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 15100,
+			"condition": [
+				15100
+			],
+			"prompt": "",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Lounge",
+			"homeButtonRedhint": 1,
+			"unlockName": "休息室",
+			"sequence": 12,
+			"conditionType": 0,
+			"lockType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 16000,
+			"condition": [
+				16000
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役1-1后解锁暗行",
+			"icon": "Icon_NewFunctionUnlock_StoreExchange",
+			"unlockName": "暗行",
+			"sequence": 4,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 16002,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "交换商店-武器碎片",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16003,
+			"condition": [
+				16003
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到15级后解锁荣誉专区",
+			"unlockName": "易物所-荣誉专区",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16004,
+			"condition": [
+				16004
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "易物所-互通聚场",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16005,
+			"condition": [
+				16005
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役SL-1-2后解锁人形堆栈",
+			"unlockName": "易物所-人形堆栈",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16006,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "易物所-人形堆栈高级",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16007,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "易物所-人形堆栈低级",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16008,
+			"condition": [
+				16008
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到20级后解锁讯段交易",
+			"unlockName": "讯段交易",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16101,
+			"lockType": 1,
+			"prompt": "完成剧情战役1-1后解锁易物所",
+			"unlockName": "易物所",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16201,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "商店入口",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 16202,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "商城-军需官换装",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17000,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "仓库入口",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17001,
+			"lockType": 1,
+			"prompt": "完成剧情战役1-8后解锁人形武器",
+			"unlockName": "仓库-武器页签",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17002,
+			"condition": [
+				12006
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-1后解锁拟态图谱",
+			"unlockName": "仓库-拟态图谱",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17003,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "仓库-人形核心",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17004,
+			"condition": [
+				12007
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到15级后解锁配件",
+			"unlockName": "仓库-武器配件",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17005,
+			"condition": [
+				18000
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-3后解锁武装零件",
+			"unlockName": "仓库-武装零件",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 17008,
+			"condition": [
+				29000
+			],
+			"prompt": "指挥官达到22级后解锁衍生键",
+			"unlockName": "仓库-衍生键",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 18000,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "机库",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 19000,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "班组",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20000,
+			"condition": [
+				20000
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役1-6后解锁行迹",
+			"unlockName": "艾莫云机房",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20001,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "行迹-记忆回溯",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20002,
+			"condition": [
+				20002
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "行迹-机要秘报",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20003,
+			"condition": [
+				11002
+			],
+			"prompt": "暂未开放",
+			"unlockName": "困难本剧情",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20004,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "行迹-角色图鉴",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20005,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "世界观图鉴",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 20006,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "武器图鉴",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 21000,
+			"lockType": 1,
+			"prompt": "指挥官达到1级后解锁邮件",
+			"unlockName": "邮件",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 22000,
+			"lockType": 1,
+			"prompt": "完成剧情战役2-1后解锁公告",
+			"unlockName": "公告",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 23000,
+			"condition": [
+				23000
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-1后解锁通讯",
+			"unlockName": "通讯",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 24000,
+			"condition": [
+				24000
+			],
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "委托",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 24001,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "考核目标",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 24002,
+			"condition": [
+				24002
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-1后解锁每日订单",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Quest",
+			"unlockName": "委托",
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 25000,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "聊天",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 25001,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "世界聊天",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 25002,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "世界聊天",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 26000,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "个人详情",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 26001,
+			"condition": [
+				26001
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到7级后解锁成就",
+			"unlockName": "成就",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 26002,
+			"condition": [
+				26002
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-1后解锁出勤奖励",
+			"unlockName": "签到",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 27000,
+			"lockType": 1,
+			"prompt": "",
+			"unlockName": "体力购买",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28000,
+			"condition": [
+				28000
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到20级后解锁边界推进",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_DarkZone",
+			"homeButtonRedhint": 1,
+			"unlockName": "边界推进",
+			"sequence": 40,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 28001,
+			"condition": [
+				28001
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到20级后解锁",
+			"unlockName": "边界推进",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28002,
+			"lockType": 1,
+			"prompt": "指挥官达到20级后解锁",
+			"unlockName": "边界推进",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28003,
+			"lockType": 1,
+			"prompt": "指挥官达到20级后解锁",
+			"unlockName": "边界推进",
+			"conditionType": 0,
+			"condition": [],
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28004,
+			"condition": [
+				28000
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到20级后解锁",
+			"unlockName": "边界推进",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28005,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "完成新手任务A01后解锁特殊悬赏模式",
+			"unlockName": "边界推进",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28006,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "完成新手任务A09后解锁探索模式",
+			"unlockName": "边界推进",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 28007,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "暂未开放",
+			"unlockName": "暗区月报",
+			"openDetail": "1745096400",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"sequence": 0
+		},
+		{
+			"id": 29000,
+			"condition": [
+				29000
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到16级后解锁心智螺旋",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Squad",
+			"homeButtonRedhint": 1,
+			"unlockName": "心智螺旋",
+			"sequence": 15,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 29001,
+			"condition": [
+				29001
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到16级后解锁位键调控",
+			"unlockName": "位键调控",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29002,
+			"condition": [
+				29002
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役1-8后解锁武器提升",
+			"unlockName": "熟练度提升",
+			"sequence": 9,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 29003,
+			"condition": [
+				29003
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役1-8后解锁武器调校",
+			"unlockName": "武器调校",
+			"sequence": 10,
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 29004,
+			"condition": [
+				99999
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到26级后解锁武器精调",
+			"unlockName": "武器精调",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29005,
+			"condition": [
+				29005
+			],
+			"prompt": "完成剧情战役1-8后解锁武器管理",
+			"unlockName": "武器管理",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29101,
+			"condition": [
+				29101
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-6后解锁远航巡录",
+			"unlockName": "远航巡录",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29102,
+			"condition": [
+				29101
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-6后解锁远航巡录任务",
+			"unlockName": "远航巡录",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29103,
+			"condition": [
+				29101
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-6后解锁远航巡录典藏",
+			"unlockName": "远航巡录",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29104,
+			"condition": [
+				29101
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役2-6后解锁远航巡录商店",
+			"unlockName": "远航巡录",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29202,
+			"condition": [
+				29202
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到20级后解锁近期活动",
+			"unlockName": "活动",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29203,
+			"condition": [
+				29301
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到26级后解锁近期活动",
+			"unlockName": "暗区-活动模式",
+			"conditionType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29301,
+			"condition": [
+				29301
+			],
+			"prompt": "指挥官达到26级后解锁主题活动",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_ThemeActivity",
+			"homeButtonRedhint": 1,
+			"unlockName": "主题活动",
+			"sequence": 10,
+			"conditionType": 0,
+			"lockType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 29302,
+			"condition": [
+				29302
+			],
+			"prompt": "指挥官达到26级后解锁主题活动",
+			"unlockName": "主题活动-黛烟活动-巡游玩法",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29303,
+			"condition": [
+				29303
+			],
+			"prompt": "指挥官达到26级后解锁主题活动",
+			"unlockName": "主题活动-黛烟活动-灵感玩法",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29304,
+			"condition": [
+				29304,
+				28005
+			],
+			"prompt": "完成活动战役普通1-1后解锁",
+			"unlockName": "主题活动-桑朵莱希活动-暗区推车",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 29305,
+			"condition": [
+				29305
+			],
+			"prompt": "完成活动战役普通1-1后解锁",
+			"unlockName": "主题活动-桑朵莱希活动-运载机",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 30001,
+			"condition": [
+				30001
+			],
+			"lockType": 1,
+			"prompt": "完成剧情战役SL-1-2后解锁活动",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Event",
+			"homeButtonRedhint": 1,
+			"unlockName": "运营活动",
+			"sequence": 7,
+			"conditionType": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 31000,
+			"condition": [
+				31000
+			],
+			"prompt": "完成剧情战役1-8后解锁悔棋",
+			"unlockName": "悔棋",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 31001,
+			"condition": [
+				31001
+			],
+			"prompt": "完成剧情战役2-1后解锁倍速战斗",
+			"unlockName": "倍速战斗",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 31002,
+			"condition": [
+				31002
+			],
+			"prompt": "完成剧情战役2-4后解锁自动战斗",
+			"unlockName": "自动战斗",
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"icon": "",
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0",
+			"sequence": 0
+		},
+		{
+			"id": 32001,
+			"condition": [
+				32001
+			],
+			"prompt": "",
+			"icon": "Icon_NewFunctionUnlock_PVP",
+			"unlockName": "高位竞技场",
+			"sequence": 60,
+			"conditionType": 0,
+			"lockType": 0,
+			"interfaceId": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 33001,
+			"condition": [
+				33001
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到45级后解锁",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Unite",
+			"unlockName": "扩编实练",
+			"sequence": 41,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 33002,
+			"condition": [
+				33002
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到45级后解锁",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Decompose",
+			"unlockName": "精调增幅",
+			"sequence": 42,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		},
+		{
+			"id": 33003,
+			"condition": [
+				33003
+			],
+			"lockType": 1,
+			"prompt": "指挥官达到45级后解锁",
+			"interfaceId": 554,
+			"icon": "Icon_NewFunctionUnlock_Calibration",
+			"unlockName": "配件校准",
+			"sequence": 43,
+			"conditionType": 0,
+			"homeButtonRedhint": 0,
+			"cmdList": [],
+			"isClose": false,
+			"openDetail": "0"
+		}
+	]
 }

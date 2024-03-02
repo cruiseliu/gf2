@@ -1,265 +1,265 @@
 {
-    "data": [
-        {
-            "id": 2001,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "targetFilter": [
-                3
-            ],
-            "range": [
-                -3,
-                3
-            ],
-            "mapSkillType": 1,
-            "mapSkillParam": 110151,
-            "targetTips": "请选择想要设置庆典篝火的会场干道，已选择{0}/{1}"
-        },
-        {
-            "id": 2012,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "targetFilter": [
-                3
-            ],
-            "mapSkillType": 1,
-            "mapSkillParam": 110152,
-            "targetTips": "请选择想要设置庆典篝火的会场干道，已选择{0}/{1}",
-            "range": []
-        },
-        {
-            "id": 2013,
-            "targetType": 1,
-            "targetNum": [
-                2
-            ],
-            "targetFilter": [
-                3
-            ],
-            "mapSkillType": 1,
-            "mapSkillParam": 110152,
-            "targetTips": "请选择想要设置庆典篝火的会场干道，已选择{0}/{1}",
-            "range": []
-        },
-        {
-            "id": 2021,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "range": [
-                -3,
-                3
-            ],
-            "mapSkillType": 2,
-            "mapSkillParam": 110152,
-            "targetTips": "请选择想要消除的施工路障，已选择{0}/{1}",
-            "targetFilter": []
-        },
-        {
-            "id": 2022,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "range": [
-                -6,
-                6
-            ],
-            "mapSkillType": 2,
-            "mapSkillParam": 110152,
-            "targetTips": "请选择想要消除的施工路障，已选择{0}/{1}",
-            "targetFilter": []
-        },
-        {
-            "id": 2023,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "mapSkillType": 2,
-            "mapSkillParam": 110152,
-            "targetTips": "请选择想要消除的施工路障，已选择{0}/{1}",
-            "targetFilter": [],
-            "range": []
-        },
-        {
-            "id": 2031,
-            "targetType": 2,
-            "targetNum": [
-                163
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要控制的地格",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 2032,
-            "targetType": 2,
-            "targetNum": [
-                71
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要控制的地格",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 2033,
-            "targetType": 2,
-            "targetNum": [
-                163
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要控制的地格",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 2034,
-            "targetType": 2,
-            "targetNum": [
-                72
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要控制的地格",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 2035,
-            "targetType": 2,
-            "targetNum": [
-                163
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要控制的地格",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 2036,
-            "targetType": 2,
-            "targetNum": [
-                54
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要控制的地格",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 2037,
-            "targetType": 2,
-            "targetNum": [
-                20
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要控制的地格",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 2038,
-            "targetType": 2,
-            "targetNum": [
-                213
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要控制的地格",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 3001,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "range": [
-                -3,
-                3
-            ],
-            "mapSkillType": 4,
-            "targetTips": "请选择想要占领的会场干道，已选择{0}/{1}",
-            "targetFilter": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 3002,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "range": [
-                -6,
-                6
-            ],
-            "mapSkillType": 4,
-            "targetTips": "请选择想要占领的会场干道，已选择{0}/{1}",
-            "targetFilter": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 3003,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "mapSkillType": 4,
-            "targetTips": "请选择想要占领的会场干道，已选择{0}/{1}",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 3004,
-            "targetType": 1,
-            "targetNum": [
-                2
-            ],
-            "mapSkillType": 4,
-            "targetTips": "请选择想要占领的会场干道，已选择{0}/{1}",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 9001,
-            "targetType": 1,
-            "targetNum": [
-                1
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要操控的会场干道，已选择{0}/{1}",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        },
-        {
-            "id": 9002,
-            "targetType": 2,
-            "targetNum": [
-                53
-            ],
-            "mapSkillType": 5,
-            "targetTips": "请选择想要操控的会场干道，已选择{0}/{1}",
-            "targetFilter": [],
-            "range": [],
-            "mapSkillParam": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 2001,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"targetFilter": [
+				3
+			],
+			"range": [
+				-3,
+				3
+			],
+			"mapSkillType": 1,
+			"mapSkillParam": 110151,
+			"targetTips": "请选择想要设置庆典篝火的会场干道，已选择{0}/{1}"
+		},
+		{
+			"id": 2012,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"targetFilter": [
+				3
+			],
+			"mapSkillType": 1,
+			"mapSkillParam": 110152,
+			"targetTips": "请选择想要设置庆典篝火的会场干道，已选择{0}/{1}",
+			"range": []
+		},
+		{
+			"id": 2013,
+			"targetType": 1,
+			"targetNum": [
+				2
+			],
+			"targetFilter": [
+				3
+			],
+			"mapSkillType": 1,
+			"mapSkillParam": 110152,
+			"targetTips": "请选择想要设置庆典篝火的会场干道，已选择{0}/{1}",
+			"range": []
+		},
+		{
+			"id": 2021,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"range": [
+				-3,
+				3
+			],
+			"mapSkillType": 2,
+			"mapSkillParam": 110152,
+			"targetTips": "请选择想要消除的施工路障，已选择{0}/{1}",
+			"targetFilter": []
+		},
+		{
+			"id": 2022,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"range": [
+				-6,
+				6
+			],
+			"mapSkillType": 2,
+			"mapSkillParam": 110152,
+			"targetTips": "请选择想要消除的施工路障，已选择{0}/{1}",
+			"targetFilter": []
+		},
+		{
+			"id": 2023,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"mapSkillType": 2,
+			"mapSkillParam": 110152,
+			"targetTips": "请选择想要消除的施工路障，已选择{0}/{1}",
+			"targetFilter": [],
+			"range": []
+		},
+		{
+			"id": 2031,
+			"targetType": 2,
+			"targetNum": [
+				163
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要控制的地格",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 2032,
+			"targetType": 2,
+			"targetNum": [
+				71
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要控制的地格",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 2033,
+			"targetType": 2,
+			"targetNum": [
+				163
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要控制的地格",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 2034,
+			"targetType": 2,
+			"targetNum": [
+				72
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要控制的地格",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 2035,
+			"targetType": 2,
+			"targetNum": [
+				163
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要控制的地格",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 2036,
+			"targetType": 2,
+			"targetNum": [
+				54
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要控制的地格",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 2037,
+			"targetType": 2,
+			"targetNum": [
+				20
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要控制的地格",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 2038,
+			"targetType": 2,
+			"targetNum": [
+				213
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要控制的地格",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 3001,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"range": [
+				-3,
+				3
+			],
+			"mapSkillType": 4,
+			"targetTips": "请选择想要占领的会场干道，已选择{0}/{1}",
+			"targetFilter": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 3002,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"range": [
+				-6,
+				6
+			],
+			"mapSkillType": 4,
+			"targetTips": "请选择想要占领的会场干道，已选择{0}/{1}",
+			"targetFilter": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 3003,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"mapSkillType": 4,
+			"targetTips": "请选择想要占领的会场干道，已选择{0}/{1}",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 3004,
+			"targetType": 1,
+			"targetNum": [
+				2
+			],
+			"mapSkillType": 4,
+			"targetTips": "请选择想要占领的会场干道，已选择{0}/{1}",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 9001,
+			"targetType": 1,
+			"targetNum": [
+				1
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要操控的会场干道，已选择{0}/{1}",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		},
+		{
+			"id": 9002,
+			"targetType": 2,
+			"targetNum": [
+				53
+			],
+			"mapSkillType": 5,
+			"targetTips": "请选择想要操控的会场干道，已选择{0}/{1}",
+			"targetFilter": [],
+			"range": [],
+			"mapSkillParam": 0
+		}
+	]
 }

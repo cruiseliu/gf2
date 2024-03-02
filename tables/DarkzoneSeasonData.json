@@ -1,114 +1,114 @@
 {
-    "data": [
-        {
-            "id": 1001,
-            "name": "磁暴工程",
-            "icon": "Img_DarkzoneSeason01_Logo1",
-            "goods": [
-                1
-            ],
-            "questBundle": [
-                10101
-            ],
-            "exploreUnlockDes": "敬请期待",
-            "endlessUnlockDes": "敬请期待",
-            "exploreAreaUnlock": [
-                10113,
-                10117,
-                10121
-            ],
-            "mothlyImg": "Img_ArchivesCenter_DarkzoneBg0101",
-            "exploreUnlock": 0,
-            "endlessUnlock": 0,
-            "seasonReset": false
-        },
-        {
-            "id": 1002,
-            "name": "合相工程",
-            "icon": "Img_DarkzoneSeason01_Logo2",
-            "goods": [
-                1
-            ],
-            "questBundle": [
-                20101
-            ],
-            "exploreUnlockDes": "敬请期待",
-            "endlessUnlockDes": "敬请期待",
-            "exploreAreaUnlock": [
-                10201,
-                10205,
-                10209
-            ],
-            "mothlyImg": "Img_ArchivesCenter_DarkzoneBg0102",
-            "exploreUnlock": 0,
-            "endlessUnlock": 0,
-            "seasonReset": false
-        },
-        {
-            "id": 1003,
-            "name": "引雷工程",
-            "icon": "Img_DarkzoneSeason01_Logo3",
-            "goods": [
-                1
-            ],
-            "questBundle": [
-                20101
-            ],
-            "exploreUnlockDes": "敬请期待",
-            "endlessUnlockDes": "敬请期待",
-            "exploreAreaUnlock": [
-                10301,
-                10305,
-                10309
-            ],
-            "mothlyImg": "Img_ArchivesCenter_DarkzoneBg0103",
-            "exploreUnlock": 0,
-            "endlessUnlock": 0,
-            "seasonReset": false
-        },
-        {
-            "id": 1004,
-            "name": "尘风工程",
-            "icon": "Img_DarkzoneSeason01_Logo4",
-            "goods": [
-                1
-            ],
-            "questBundle": [
-                20101
-            ],
-            "exploreUnlockDes": "敬请期待",
-            "endlessUnlockDes": "敬请期待",
-            "exploreAreaUnlock": [
-                10401,
-                10405,
-                10409
-            ],
-            "mothlyImg": "Img_ArchivesCenter_DarkzoneBg0103",
-            "exploreUnlock": 0,
-            "endlessUnlock": 0,
-            "seasonReset": false
-        },
-        {
-            "id": 1005,
-            "name": "核子工程",
-            "icon": "Img_DarkzoneSeason01_Logo5",
-            "goods": [
-                1
-            ],
-            "questBundle": [
-                20101
-            ],
-            "exploreUnlockDes": "敬请期待",
-            "endlessUnlockDes": "敬请期待",
-            "exploreAreaUnlock": [
-                10401,
-                10405,
-                10409
-            ],
-            "mothlyImg": "Img_ArchivesCenter_DarkzoneBg0103",
-            "seasonReset": true,
-            "exploreUnlock": 0,
-            "endlessUnlock": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 1001,
+			"name": "磁暴工程",
+			"icon": "Img_DarkzoneSeason01_Logo1",
+			"goods": [
+				1
+			],
+			"questBundle": [
+				10101
+			],
+			"exploreUnlockDes": "敬请期待",
+			"endlessUnlockDes": "敬请期待",
+			"exploreAreaUnlock": [
+				10113,
+				10117,
+				10121
+			],
+			"mothlyImg": "Img_ArchivesCenter_DarkzoneBg0101",
+			"exploreUnlock": 0,
+			"endlessUnlock": 0,
+			"seasonReset": false
+		},
+		{
+			"id": 1002,
+			"name": "合相工程",
+			"icon": "Img_DarkzoneSeason01_Logo2",
+			"goods": [
+				1
+			],
+			"questBundle": [
+				20101
+			],
+			"exploreUnlockDes": "敬请期待",
+			"endlessUnlockDes": "敬请期待",
+			"exploreAreaUnlock": [
+				10201,
+				10205,
+				10209
+			],
+			"mothlyImg": "Img_ArchivesCenter_DarkzoneBg0102",
+			"exploreUnlock": 0,
+			"endlessUnlock": 0,
+			"seasonReset": false
+		},
+		{
+			"id": 1003,
+			"name": "引雷工程",
+			"icon": "Img_DarkzoneSeason01_Logo3",
+			"goods": [
+				1
+			],
+			"questBundle": [
+				20101
+			],
+			"exploreUnlockDes": "敬请期待",
+			"endlessUnlockDes": "敬请期待",
+			"exploreAreaUnlock": [
+				10301,
+				10305,
+				10309
+			],
+			"mothlyImg": "Img_ArchivesCenter_DarkzoneBg0103",
+			"exploreUnlock": 0,
+			"endlessUnlock": 0,
+			"seasonReset": false
+		},
+		{
+			"id": 1004,
+			"name": "尘风工程",
+			"icon": "Img_DarkzoneSeason01_Logo4",
+			"goods": [
+				1
+			],
+			"questBundle": [
+				20101
+			],
+			"exploreUnlockDes": "敬请期待",
+			"endlessUnlockDes": "敬请期待",
+			"exploreAreaUnlock": [
+				10401,
+				10405,
+				10409
+			],
+			"mothlyImg": "Img_ArchivesCenter_DarkzoneBg0103",
+			"exploreUnlock": 0,
+			"endlessUnlock": 0,
+			"seasonReset": false
+		},
+		{
+			"id": 1005,
+			"name": "核子工程",
+			"icon": "Img_DarkzoneSeason01_Logo5",
+			"goods": [
+				1
+			],
+			"questBundle": [
+				20101
+			],
+			"exploreUnlockDes": "敬请期待",
+			"endlessUnlockDes": "敬请期待",
+			"exploreAreaUnlock": [
+				10401,
+				10405,
+				10409
+			],
+			"mothlyImg": "Img_ArchivesCenter_DarkzoneBg0103",
+			"seasonReset": true,
+			"exploreUnlock": 0,
+			"endlessUnlock": 0
+		}
+	]
 }

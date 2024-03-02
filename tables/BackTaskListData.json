@@ -1,340 +1,340 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "完成本日签到",
-            "reward": {
-                "2": 2000
-            },
-            "conditionClass": 400,
-            "conditionNum": 1,
-            "link": "1",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 2,
-            "name": "在任意补给作战中获胜1次",
-            "reward": {
-                "8301": 2000
-            },
-            "conditionClass": 209,
-            "conditionNum": 1,
-            "link": "1098",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 3,
-            "name": "升级任意人形1次",
-            "reward": {
-                "25": 2000
-            },
-            "conditionClass": 1012,
-            "conditionNum": 1,
-            "link": "4002",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 4,
-            "name": "B.R.I.E.F.每日订单活跃度达到80",
-            "reward": {
-                "8": 1
-            },
-            "conditionClass": 5,
-            "conditionNum": 80,
-            "link": "7001",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 5,
-            "name": "完成本日签到",
-            "reward": {
-                "2": 2000
-            },
-            "conditionClass": 400,
-            "conditionNum": 1,
-            "link": "1",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 6,
-            "name": "在任意补给作战中获胜1次",
-            "reward": {
-                "8301": 2000
-            },
-            "conditionClass": 209,
-            "conditionNum": 1,
-            "link": "1098",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 7,
-            "name": "升级任意人形1次",
-            "reward": {
-                "25": 2000
-            },
-            "conditionClass": 1012,
-            "conditionNum": 1,
-            "link": "4002",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 8,
-            "name": "B.R.I.E.F.每日订单活跃度达到80",
-            "reward": {
-                "8": 1
-            },
-            "conditionClass": 5,
-            "conditionNum": 80,
-            "link": "7001",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 9,
-            "name": "完成本日签到",
-            "reward": {
-                "2": 2000
-            },
-            "conditionClass": 400,
-            "conditionNum": 1,
-            "link": "1",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 10,
-            "name": "在任意补给作战中获胜1次",
-            "reward": {
-                "8301": 2000
-            },
-            "conditionClass": 209,
-            "conditionNum": 1,
-            "link": "1098",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 11,
-            "name": "升级任意人形1次",
-            "reward": {
-                "25": 2000
-            },
-            "conditionClass": 1012,
-            "conditionNum": 1,
-            "link": "4002",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 12,
-            "name": "B.R.I.E.F.每日订单活跃度达到80",
-            "reward": {
-                "8": 1
-            },
-            "conditionClass": 5,
-            "conditionNum": 80,
-            "link": "7001",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 13,
-            "name": "完成本日签到",
-            "reward": {
-                "2": 2000
-            },
-            "conditionClass": 400,
-            "conditionNum": 1,
-            "link": "1",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 14,
-            "name": "在任意补给作战中获胜1次",
-            "reward": {
-                "8301": 2000
-            },
-            "conditionClass": 209,
-            "conditionNum": 1,
-            "link": "1098",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 15,
-            "name": "升级任意人形1次",
-            "reward": {
-                "25": 2000
-            },
-            "conditionClass": 1012,
-            "conditionNum": 1,
-            "link": "4002",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 16,
-            "name": "B.R.I.E.F.每日订单活跃度达到80",
-            "reward": {
-                "8": 1
-            },
-            "conditionClass": 5,
-            "conditionNum": 80,
-            "link": "7001",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 17,
-            "name": "完成本日签到",
-            "reward": {
-                "2": 2000
-            },
-            "conditionClass": 400,
-            "conditionNum": 1,
-            "link": "1",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 18,
-            "name": "在任意补给作战中获胜1次",
-            "reward": {
-                "8301": 2000
-            },
-            "conditionClass": 209,
-            "conditionNum": 1,
-            "link": "1098",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 19,
-            "name": "升级任意人形1次",
-            "reward": {
-                "25": 2000
-            },
-            "conditionClass": 1012,
-            "conditionNum": 1,
-            "link": "4002",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 20,
-            "name": "B.R.I.E.F.每日订单活跃度达到80",
-            "reward": {
-                "8": 1
-            },
-            "conditionClass": 5,
-            "conditionNum": 80,
-            "link": "7001",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 21,
-            "name": "完成本日签到",
-            "reward": {
-                "2": 2000
-            },
-            "conditionClass": 400,
-            "conditionNum": 1,
-            "link": "1",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 22,
-            "name": "在任意补给作战中获胜1次",
-            "reward": {
-                "8301": 2000
-            },
-            "conditionClass": 209,
-            "conditionNum": 1,
-            "link": "1098",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 23,
-            "name": "升级任意人形1次",
-            "reward": {
-                "25": 2000
-            },
-            "conditionClass": 1012,
-            "conditionNum": 1,
-            "link": "4002",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 24,
-            "name": "B.R.I.E.F.每日订单活跃度达到80",
-            "reward": {
-                "8": 1
-            },
-            "conditionClass": 5,
-            "conditionNum": 80,
-            "link": "7001",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 25,
-            "name": "完成本日签到",
-            "reward": {
-                "2": 2000
-            },
-            "conditionClass": 400,
-            "conditionNum": 1,
-            "link": "1",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 26,
-            "name": "在任意补给作战中获胜1次",
-            "reward": {
-                "8301": 2000
-            },
-            "conditionClass": 209,
-            "conditionNum": 1,
-            "link": "1098",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 27,
-            "name": "升级任意人形1次",
-            "reward": {
-                "25": 2000
-            },
-            "conditionClass": 1012,
-            "conditionNum": 1,
-            "link": "4002",
-            "counterType": 0,
-            "resetType": 0
-        },
-        {
-            "id": 28,
-            "name": "B.R.I.E.F.每日订单活跃度达到80",
-            "reward": {
-                "8": 1
-            },
-            "conditionClass": 5,
-            "conditionNum": 80,
-            "link": "7001",
-            "counterType": 0,
-            "resetType": 0
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"name": "完成本日签到",
+			"reward": {
+				"2": 2000
+			},
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"link": "1",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 2,
+			"name": "在任意补给作战中获胜1次",
+			"reward": {
+				"8301": 2000
+			},
+			"conditionClass": 209,
+			"conditionNum": 1,
+			"link": "1098",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 3,
+			"name": "升级任意人形1次",
+			"reward": {
+				"25": 2000
+			},
+			"conditionClass": 1012,
+			"conditionNum": 1,
+			"link": "4002",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 4,
+			"name": "B.R.I.E.F.每日订单活跃度达到80",
+			"reward": {
+				"8": 1
+			},
+			"conditionClass": 5,
+			"conditionNum": 80,
+			"link": "7001",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 5,
+			"name": "完成本日签到",
+			"reward": {
+				"2": 2000
+			},
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"link": "1",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 6,
+			"name": "在任意补给作战中获胜1次",
+			"reward": {
+				"8301": 2000
+			},
+			"conditionClass": 209,
+			"conditionNum": 1,
+			"link": "1098",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 7,
+			"name": "升级任意人形1次",
+			"reward": {
+				"25": 2000
+			},
+			"conditionClass": 1012,
+			"conditionNum": 1,
+			"link": "4002",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 8,
+			"name": "B.R.I.E.F.每日订单活跃度达到80",
+			"reward": {
+				"8": 1
+			},
+			"conditionClass": 5,
+			"conditionNum": 80,
+			"link": "7001",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 9,
+			"name": "完成本日签到",
+			"reward": {
+				"2": 2000
+			},
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"link": "1",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 10,
+			"name": "在任意补给作战中获胜1次",
+			"reward": {
+				"8301": 2000
+			},
+			"conditionClass": 209,
+			"conditionNum": 1,
+			"link": "1098",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 11,
+			"name": "升级任意人形1次",
+			"reward": {
+				"25": 2000
+			},
+			"conditionClass": 1012,
+			"conditionNum": 1,
+			"link": "4002",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 12,
+			"name": "B.R.I.E.F.每日订单活跃度达到80",
+			"reward": {
+				"8": 1
+			},
+			"conditionClass": 5,
+			"conditionNum": 80,
+			"link": "7001",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 13,
+			"name": "完成本日签到",
+			"reward": {
+				"2": 2000
+			},
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"link": "1",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 14,
+			"name": "在任意补给作战中获胜1次",
+			"reward": {
+				"8301": 2000
+			},
+			"conditionClass": 209,
+			"conditionNum": 1,
+			"link": "1098",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 15,
+			"name": "升级任意人形1次",
+			"reward": {
+				"25": 2000
+			},
+			"conditionClass": 1012,
+			"conditionNum": 1,
+			"link": "4002",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 16,
+			"name": "B.R.I.E.F.每日订单活跃度达到80",
+			"reward": {
+				"8": 1
+			},
+			"conditionClass": 5,
+			"conditionNum": 80,
+			"link": "7001",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 17,
+			"name": "完成本日签到",
+			"reward": {
+				"2": 2000
+			},
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"link": "1",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 18,
+			"name": "在任意补给作战中获胜1次",
+			"reward": {
+				"8301": 2000
+			},
+			"conditionClass": 209,
+			"conditionNum": 1,
+			"link": "1098",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 19,
+			"name": "升级任意人形1次",
+			"reward": {
+				"25": 2000
+			},
+			"conditionClass": 1012,
+			"conditionNum": 1,
+			"link": "4002",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 20,
+			"name": "B.R.I.E.F.每日订单活跃度达到80",
+			"reward": {
+				"8": 1
+			},
+			"conditionClass": 5,
+			"conditionNum": 80,
+			"link": "7001",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 21,
+			"name": "完成本日签到",
+			"reward": {
+				"2": 2000
+			},
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"link": "1",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 22,
+			"name": "在任意补给作战中获胜1次",
+			"reward": {
+				"8301": 2000
+			},
+			"conditionClass": 209,
+			"conditionNum": 1,
+			"link": "1098",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 23,
+			"name": "升级任意人形1次",
+			"reward": {
+				"25": 2000
+			},
+			"conditionClass": 1012,
+			"conditionNum": 1,
+			"link": "4002",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 24,
+			"name": "B.R.I.E.F.每日订单活跃度达到80",
+			"reward": {
+				"8": 1
+			},
+			"conditionClass": 5,
+			"conditionNum": 80,
+			"link": "7001",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 25,
+			"name": "完成本日签到",
+			"reward": {
+				"2": 2000
+			},
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"link": "1",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 26,
+			"name": "在任意补给作战中获胜1次",
+			"reward": {
+				"8301": 2000
+			},
+			"conditionClass": 209,
+			"conditionNum": 1,
+			"link": "1098",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 27,
+			"name": "升级任意人形1次",
+			"reward": {
+				"25": 2000
+			},
+			"conditionClass": 1012,
+			"conditionNum": 1,
+			"link": "4002",
+			"counterType": 0,
+			"resetType": 0
+		},
+		{
+			"id": 28,
+			"name": "B.R.I.E.F.每日订单活跃度达到80",
+			"reward": {
+				"8": 1
+			},
+			"conditionClass": 5,
+			"conditionNum": 80,
+			"link": "7001",
+			"counterType": 0,
+			"resetType": 0
+		}
+	]
 }

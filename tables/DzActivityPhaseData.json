@@ -1,37 +1,37 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "activityDz": 101,
-            "unlockRate": 1,
-            "dzActivityQuest": [
-                1001,
-                1002
-            ],
-            "modelTitle": "初级委托",
-            "unlockDaynum": 0
-        },
-        {
-            "id": 2,
-            "activityDz": 101,
-            "unlockDaynum": 1440,
-            "unlockRate": 3,
-            "dzActivityQuest": [
-                2001,
-                2003
-            ],
-            "modelTitle": "中级委托"
-        },
-        {
-            "id": 3,
-            "activityDz": 101,
-            "unlockDaynum": 4320,
-            "unlockRate": 5,
-            "dzActivityQuest": [
-                3001,
-                3003
-            ],
-            "modelTitle": "高级委托"
-        }
-    ]
+	"data": [
+		{
+			"id": 1,
+			"activityDz": 101,
+			"unlockRate": 1,
+			"dzActivityQuest": [
+				1001,
+				1002
+			],
+			"modelTitle": "初级委托",
+			"unlockDaynum": 0
+		},
+		{
+			"id": 2,
+			"activityDz": 101,
+			"unlockDaynum": 1440,
+			"unlockRate": 3,
+			"dzActivityQuest": [
+				2001,
+				2003
+			],
+			"modelTitle": "中级委托"
+		},
+		{
+			"id": 3,
+			"activityDz": 101,
+			"unlockDaynum": 4320,
+			"unlockRate": 5,
+			"dzActivityQuest": [
+				3001,
+				3003
+			],
+			"modelTitle": "高级委托"
+		}
+	]
 }

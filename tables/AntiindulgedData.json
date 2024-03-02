@@ -1,22 +1,31 @@
 {
-    "data": [
-        {
-            "age": 16,
-            "singleLimit": 50.0,
-            "monthlyLimit": 200.0,
-            "beginTime": "8:00:00",
-            "endTime": "20:00:00",
-            "dailyTotalTime": 5400,
-            "holidayTotalTime": 10800
-        },
-        {
-            "age": 18,
-            "singleLimit": 100.0,
-            "monthlyLimit": 400.0,
-            "beginTime": "8:00:00",
-            "endTime": "20:00:00",
-            "dailyTotalTime": 5400,
-            "holidayTotalTime": 10800
-        }
-    ]
+	"data": [
+		{
+			"age": 8,
+			"beginTime": "8:00:00",
+			"endTime": "20:00:00",
+			"dailyTotalTime": 5400,
+			"holidayTotalTime": 10800,
+			"singleLimit": 0.0,
+			"monthlyLimit": 0.0
+		},
+		{
+			"age": 16,
+			"singleLimit": 50.0,
+			"monthlyLimit": 200.0,
+			"beginTime": "8:00:00",
+			"endTime": "20:00:00",
+			"dailyTotalTime": 5400,
+			"holidayTotalTime": 10800
+		},
+		{
+			"age": 18,
+			"singleLimit": 100.0,
+			"monthlyLimit": 400.0,
+			"beginTime": "8:00:00",
+			"endTime": "20:00:00",
+			"dailyTotalTime": 5400,
+			"holidayTotalTime": 10800
+		}
+	]
 }
