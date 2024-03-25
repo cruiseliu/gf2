@@ -1,6 +1,36 @@
 {
 	"data": [
 		{
+			"id": 1001,
+			"buffList": [
+				152,
+				153,
+				158
+			],
+			"aiOrderClass": 20001,
+			"btPath": "BT/GunBT_skill1.bt",
+			"summonLevel": 3,
+			"propertyGroup": 1001,
+			"inheritPropertyKey": "will_value,max_will_value,ap,max_ap",
+			"inheritPropertyFixed": "0,0,200,200",
+			"hasCamera": true,
+			"cameraDuration": 60,
+			"attachMasterDead": 1,
+			"beSuppressedConfig": [
+				80000001,
+				-1,
+				500,
+				1000,
+				8
+			],
+			"suppressGroup": [
+				2,
+				5,
+				8,
+				7
+			]
+		},
+		{
 			"id": 6902918,
 			"buffList": [
 				6902911
@@ -24,12 +54,9 @@
 				8,
 				7
 			],
-			"aiList": [],
 			"summonLevel": 0,
 			"propertyGroup": 0,
-			"inheritPropertyValue": "",
-			"attachMasterDead": 0,
-			"feature": 0
+			"attachMasterDead": 0
 		}
 	]
 }

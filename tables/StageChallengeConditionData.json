@@ -1,19 +1,6 @@
 {
 	"data": [
 		{
-			"id": 1,
-			"chargetime": "C_1(time,{0})",
-			"chargetimeParm": [
-				"2"
-			],
-			"chargetimeFail": "C_1(time,{0})",
-			"chargetimeFailParm": [
-				"2"
-			],
-			"condition": "T_31(0,1,1)",
-			"conditionFail": "T_31(0,1,2)"
-		},
-		{
 			"id": 2,
 			"chargetime": "C_1(time,{0})",
 			"chargetimeParm": [

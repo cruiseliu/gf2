@@ -31,8 +31,6 @@
 			"attack": 0,
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": []
 		},
 		{
@@ -66,8 +64,6 @@
 			],
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": []
 		},
 		{
@@ -101,8 +97,6 @@
 			],
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": []
 		},
 		{
@@ -136,8 +130,6 @@
 				0.0,
 				-0.4
 			],
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": []
 		},
 		{
@@ -166,8 +158,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -197,8 +187,6 @@
 			"attack": 0,
 			"skillId": {},
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -228,8 +216,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -261,8 +247,6 @@
 				-0.4
 			],
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -302,9 +286,7 @@
 			"attack": 0,
 			"skillId": {},
 			"status": 0,
-			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0
+			"emenyInitialPoint": 0
 		},
 		{
 			"id": 120306,
@@ -342,9 +324,7 @@
 			"attack": 0,
 			"skillId": {},
 			"status": 0,
-			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0
+			"emenyInitialPoint": 0
 		},
 		{
 			"id": 120311,
@@ -372,8 +352,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -403,8 +381,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -434,8 +410,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -467,8 +441,6 @@
 				-0.4
 			],
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -498,8 +470,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -529,8 +499,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -562,8 +530,6 @@
 				-0.4
 			],
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -593,8 +559,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -624,8 +588,6 @@
 			"attack": 0,
 			"skillId": {},
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -657,8 +619,6 @@
 				-0.4
 			],
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -690,8 +650,6 @@
 				-0.4
 			],
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -721,8 +679,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -762,9 +718,7 @@
 			"attack": 0,
 			"skillId": {},
 			"status": 0,
-			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0
+			"emenyInitialPoint": 0
 		},
 		{
 			"id": 120705,
@@ -792,8 +746,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -823,8 +775,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -854,8 +804,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -885,8 +833,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -916,8 +862,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -956,9 +900,7 @@
 			"attack": 0,
 			"skillId": {},
 			"status": 0,
-			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0
+			"emenyInitialPoint": 0
 		},
 		{
 			"id": 120721,
@@ -986,8 +928,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1024,9 +964,7 @@
 			"attack": 0,
 			"skillId": {},
 			"status": 0,
-			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0
+			"emenyInitialPoint": 0
 		},
 		{
 			"id": 120807,
@@ -1054,8 +992,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1085,8 +1021,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1116,8 +1050,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1147,8 +1079,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1178,8 +1108,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1209,8 +1137,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1240,8 +1166,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1271,8 +1195,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1304,8 +1226,6 @@
 			],
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1337,8 +1257,6 @@
 			],
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1368,8 +1286,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1399,8 +1315,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1430,8 +1344,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1461,8 +1373,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1492,8 +1402,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1523,8 +1431,6 @@
 			"skillId": {},
 			"status": 0,
 			"emenyInitialPoint": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1556,8 +1462,6 @@
 				-0.4
 			],
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1587,8 +1491,6 @@
 			"attack": 0,
 			"skillId": {},
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		},
@@ -1620,8 +1522,6 @@
 				-0.4
 			],
 			"status": 0,
-			"emenyRoundPoint": 0,
-			"emenyOccupyPoint": 0,
 			"lockAttack": [],
 			"lockSkill": {}
 		}

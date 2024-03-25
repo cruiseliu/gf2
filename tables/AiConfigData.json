@@ -19,7 +19,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"farLimit": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -47,7 +46,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -72,7 +70,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -98,7 +95,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -124,7 +120,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -150,7 +145,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -176,7 +170,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -202,7 +195,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -228,7 +220,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -254,7 +245,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -280,7 +270,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -306,7 +295,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -332,7 +320,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -358,7 +345,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -387,7 +373,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -415,7 +400,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -443,7 +427,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -471,7 +454,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -499,7 +481,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -527,7 +508,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -555,7 +535,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -581,7 +560,6 @@
 			"farLimit": 1000,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -608,7 +586,6 @@
 			"farLimit": 1000,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -635,7 +612,6 @@
 			"farLimit": 1000,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -662,7 +638,6 @@
 			"farLimit": 1000,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -689,7 +664,6 @@
 			"farLimit": 1000,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -716,7 +690,6 @@
 			"farLimit": 1000,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -743,7 +716,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -774,7 +746,6 @@
 			],
 			"farmoveTactic": 2,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -804,7 +775,6 @@
 			],
 			"farmoveTactic": 2,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -834,7 +804,6 @@
 			],
 			"farmoveTactic": 2,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -864,7 +833,6 @@
 			],
 			"farmoveTactic": 2,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -894,7 +862,6 @@
 			],
 			"farmoveTactic": 2,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -924,7 +891,6 @@
 			],
 			"farmoveTactic": 2,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -954,7 +920,6 @@
 			"farmoveTactic": 2,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -984,7 +949,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1014,7 +978,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1044,7 +1007,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1074,7 +1036,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1104,7 +1065,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1134,7 +1094,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1164,7 +1123,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1194,7 +1152,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1224,7 +1181,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1254,7 +1210,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1284,7 +1239,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1314,7 +1268,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1344,7 +1297,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1374,7 +1326,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1404,7 +1355,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1434,7 +1384,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1464,7 +1413,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1494,7 +1442,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1524,7 +1471,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1554,7 +1500,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1584,7 +1529,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1614,7 +1558,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1646,7 +1589,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1678,7 +1620,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1710,7 +1651,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1742,7 +1682,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1774,7 +1713,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1806,7 +1744,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1838,7 +1775,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -1865,7 +1801,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -1892,7 +1827,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -1919,7 +1853,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -1946,7 +1879,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -1973,7 +1905,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2000,7 +1931,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2027,7 +1957,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2056,7 +1985,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2085,7 +2013,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2114,7 +2041,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2143,7 +2069,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2172,7 +2097,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2201,7 +2125,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2230,7 +2153,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2258,7 +2180,6 @@
 			"enableSkilldamage": true,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -2286,7 +2207,6 @@
 			"enableSkilldamage": true,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -2314,7 +2234,6 @@
 			"enableSkilldamage": true,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -2342,7 +2261,6 @@
 			"enableSkilldamage": true,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -2370,7 +2288,6 @@
 			"enableSkilldamage": true,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -2398,7 +2315,6 @@
 			"enableSkilldamage": true,
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -2426,7 +2342,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -2456,7 +2371,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2486,7 +2400,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2516,7 +2429,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2546,7 +2458,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2573,7 +2484,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -2603,7 +2513,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -2632,7 +2541,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -2661,7 +2569,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -2690,7 +2597,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -2719,7 +2625,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -2748,7 +2653,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -2777,7 +2681,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -2803,7 +2706,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -2835,7 +2737,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2867,7 +2768,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2899,7 +2799,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2931,7 +2830,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2963,7 +2861,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -2995,7 +2892,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3027,7 +2923,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3056,7 +2951,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3085,7 +2979,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3114,7 +3007,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3143,7 +3035,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3172,7 +3063,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3201,7 +3091,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3230,7 +3119,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3260,7 +3148,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3290,7 +3177,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3320,7 +3206,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3350,7 +3235,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3380,7 +3264,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3410,7 +3293,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3440,7 +3322,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3468,7 +3349,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3496,7 +3376,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3524,7 +3403,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3552,7 +3430,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3580,7 +3457,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3608,7 +3484,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3636,7 +3511,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3666,7 +3540,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3696,7 +3569,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3726,7 +3598,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3756,7 +3627,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3786,7 +3656,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3816,7 +3685,6 @@
 			],
 			"farmoveTactic": 1,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3846,7 +3714,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -3874,7 +3741,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -3902,7 +3768,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3930,7 +3795,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3958,7 +3822,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -3986,7 +3849,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4014,7 +3876,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4042,7 +3903,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4070,7 +3930,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4099,7 +3958,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4128,7 +3986,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4157,7 +4014,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4186,7 +4042,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4215,7 +4070,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4244,7 +4098,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4273,7 +4126,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4302,7 +4154,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4331,7 +4182,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4360,7 +4210,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4389,7 +4238,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4418,7 +4266,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4447,7 +4294,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4476,7 +4322,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4505,7 +4350,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4534,7 +4378,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4563,7 +4406,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4592,7 +4434,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4621,7 +4462,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4650,7 +4490,6 @@
 			"defValueEnemy": 500,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4679,7 +4518,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -4709,7 +4547,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -4738,7 +4575,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -4767,7 +4603,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -4796,7 +4631,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -4825,7 +4659,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -4854,7 +4687,6 @@
 			"defValueEnemy": 100,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -4883,7 +4715,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": []
 		},
 		{
@@ -4910,7 +4741,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -4938,7 +4768,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -4963,7 +4792,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -4989,7 +4817,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5016,7 +4843,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -5046,7 +4872,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -5071,7 +4896,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5101,7 +4925,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -5128,7 +4951,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -5158,7 +4980,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -5183,7 +5004,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5210,7 +5030,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -5240,7 +5059,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -5270,7 +5088,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -5301,7 +5118,6 @@
 			"defValueEnemy": 50,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false
 		},
 		{
@@ -5326,7 +5142,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -5353,7 +5168,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5383,7 +5197,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5413,7 +5226,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5443,7 +5255,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5473,7 +5284,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5499,7 +5309,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"farmoveTactic": 0,
@@ -5526,7 +5335,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5556,7 +5364,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"farmoveTactic": 0,
 			"defValueEnemy": 0
@@ -5582,7 +5389,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5613,7 +5419,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -5638,7 +5443,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5669,7 +5473,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -5699,7 +5502,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -5729,7 +5531,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -5755,7 +5556,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -5780,7 +5580,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5808,7 +5607,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -5834,7 +5632,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5861,7 +5658,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5890,7 +5686,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -5918,7 +5713,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5947,7 +5741,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -5974,7 +5767,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -6000,7 +5792,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -6025,7 +5816,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6051,7 +5841,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6082,7 +5871,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -6109,7 +5897,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -6136,7 +5923,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -6167,7 +5953,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false
 		},
 		{
@@ -6191,7 +5976,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6219,7 +6003,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -6249,7 +6032,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -6275,7 +6057,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6301,7 +6082,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6332,7 +6112,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -6359,7 +6138,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -6385,7 +6163,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -6410,7 +6187,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6441,7 +6217,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -6466,7 +6241,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6493,7 +6267,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": []
 		},
@@ -6522,7 +6295,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -6552,7 +6324,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6583,7 +6354,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6614,7 +6384,6 @@
 			"farLimit": 9999,
 			"farmoveTactic": 1,
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6645,7 +6414,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6676,7 +6444,6 @@
 			"farLimit": 9999,
 			"farmoveTactic": 1,
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6707,7 +6474,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6738,7 +6504,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6769,7 +6534,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6800,7 +6564,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6831,7 +6594,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6861,7 +6623,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6891,7 +6652,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6918,7 +6678,6 @@
 			"enableSkilldamage": true,
 			"farmoveTactic": 1,
 			"condition": "",
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -6948,7 +6707,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -6979,7 +6737,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7009,7 +6766,6 @@
 			"farLimit": 9999,
 			"farmoveTactic": 1,
 			"condition": "",
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7040,7 +6796,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7071,7 +6826,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7102,7 +6856,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7133,7 +6886,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7164,7 +6916,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7195,7 +6946,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7226,7 +6976,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7255,7 +7004,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -7284,7 +7032,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7314,7 +7061,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7345,7 +7091,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7376,7 +7121,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7407,7 +7151,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7438,7 +7181,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7469,7 +7211,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7500,7 +7241,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7531,7 +7271,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7562,7 +7301,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7593,7 +7331,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7624,7 +7361,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7655,7 +7391,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7686,7 +7421,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7717,7 +7451,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7748,7 +7481,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7779,7 +7511,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7810,7 +7541,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7841,7 +7571,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7863,7 +7592,6 @@
 			"moveParam": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"farLimit": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
@@ -7896,7 +7624,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -7918,7 +7645,6 @@
 			"moveParam": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"farLimit": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
@@ -7942,7 +7668,6 @@
 			"moveParam": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"farLimit": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
@@ -7966,7 +7691,6 @@
 			"moveParam": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"farLimit": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
@@ -7999,7 +7723,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8030,7 +7753,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8061,7 +7783,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8092,7 +7813,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8123,7 +7843,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8154,7 +7873,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8185,7 +7903,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8216,7 +7933,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8247,7 +7963,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8278,7 +7993,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8309,7 +8023,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8340,7 +8053,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8366,7 +8078,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8392,7 +8103,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8419,7 +8129,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8445,7 +8154,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8471,7 +8179,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8495,7 +8202,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8521,7 +8227,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8547,7 +8252,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8574,7 +8278,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8601,7 +8304,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8628,7 +8330,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8653,7 +8354,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8684,7 +8384,6 @@
 			"farLimit": 9999,
 			"farmoveTactic": 1,
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8715,7 +8414,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8744,7 +8442,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8770,7 +8467,6 @@
 			"farmoveTactic": 1,
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8796,7 +8492,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8822,7 +8517,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8848,7 +8542,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -8878,7 +8571,6 @@
 			"condition": "",
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -8904,7 +8596,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8933,7 +8624,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8959,7 +8649,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -8987,7 +8676,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -9020,7 +8708,6 @@
 			"defenceParam": 0,
 			"moveParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -9042,7 +8729,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"farmoveTactic": 0,
@@ -9069,7 +8755,6 @@
 			"timelineId": 0,
 			"actionParam": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9097,7 +8782,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"defValue": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9134,7 +8818,6 @@
 			"farmoveTactic": 1,
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -9163,7 +8846,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9194,7 +8876,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -9220,7 +8901,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9247,7 +8927,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9283,7 +8962,6 @@
 			"condition": "",
 			"defenceParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"defValueEnemy": 0
 		},
 		{
@@ -9314,7 +8992,6 @@
 			"farmoveTactic": 1,
 			"defenceParam": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"defValueEnemy": 0
 		},
 		{
@@ -9343,7 +9020,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -9369,7 +9045,6 @@
 			"condition": "",
 			"defValue": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9395,7 +9070,6 @@
 			"farmoveTactic": 1,
 			"condition": "",
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9419,7 +9093,6 @@
 			"defenceParam": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9450,7 +9123,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -9479,7 +9151,6 @@
 			"moveParam": 0,
 			"timelineId": 0,
 			"groundParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"defValueEnemy": 0
 		},
@@ -9506,7 +9177,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -9532,7 +9202,6 @@
 			"condition": "",
 			"defValue": 0,
 			"timelineId": 0,
-			"farMoveWeight": 0,
 			"skillPriority": [],
 			"defValueEnemy": 0
 		},
@@ -9557,7 +9226,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0
@@ -9583,7 +9251,6 @@
 			"defValue": 0,
 			"timelineId": 0,
 			"actionParam": 0,
-			"farMoveWeight": 0,
 			"enableSkilldamage": false,
 			"skillPriority": [],
 			"defValueEnemy": 0

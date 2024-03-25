@@ -7,11 +7,11 @@
 			"type": 1,
 			"priority": 64,
 			"state": {
-				"2": 99,
-				"5": 99,
-				"3": 99,
 				"0": 99,
-				"1": 99
+				"1": 99,
+				"2": 99,
+				"3": 99,
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_B_01.prefab",
 			"blockCollision": "0,100,0|40,200,360",
@@ -34,10 +34,10 @@
 				103
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
@@ -68,10 +68,10 @@
 			"type": 1,
 			"priority": 65,
 			"state": {
-				"1": 99,
 				"0": 99,
-				"3": 99,
+				"1": 99,
 				"2": 99,
+				"3": 99,
 				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_B_02.prefab",
@@ -95,17 +95,17 @@
 				203
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -129,11 +129,11 @@
 			"type": 13,
 			"priority": 66,
 			"state": {
-				"3": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"5": 99,
-				"0": 99
+				"2": 99,
+				"3": 99,
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_RoadSign_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -152,17 +152,17 @@
 				303
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1004;1",
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -187,11 +187,11 @@
 			"type": 999,
 			"priority": 71,
 			"state": {
-				"3": 99,
-				"2": 99,
-				"5": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99,
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Drop_lightBeam_01/dz_dio_eff_Dropbox_rare_05.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -221,10 +221,10 @@
 			},
 			"param": "999",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -248,11 +248,11 @@
 			"type": 1,
 			"priority": 62,
 			"state": {
-				"3": 99,
-				"5": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99,
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_A_01.prefab",
 			"blockCollision": "0,100,0|40,200,180",
@@ -275,17 +275,17 @@
 				503
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"3": 1,
-				"2": 1,
+				"0": 1,
 				"1": 1,
-				"0": 1
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -309,11 +309,11 @@
 			"type": 1,
 			"priority": 63,
 			"state": {
+				"0": 99,
+				"1": 99,
 				"2": 99,
 				"3": 99,
-				"5": 99,
-				"0": 99,
-				"1": 99
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_A_02.prefab",
 			"blockCollision": "0,100,0|40,200,180",
@@ -336,17 +336,17 @@
 				603
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 1,
-				"3": 1,
 				"0": 1,
-				"1": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -370,10 +370,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 204,
-				"2": 203,
+				"0": 201,
 				"1": 202,
-				"0": 201
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -404,10 +404,10 @@
 			"param": "18",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -428,10 +428,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"1": 1102,
 				"0": 1101,
-				"3": 1104,
-				"2": 1103
+				"1": 1102,
+				"2": 1103,
+				"3": 1104
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_B01/Dz_dio_Loot_B01.prefab",
 			"blockCollision": "0,0,0|40,100,40",
@@ -454,18 +454,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "16",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -486,9 +486,9 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"2": 1203,
-				"1": 1202,
 				"0": 1201,
+				"1": 1202,
+				"2": 1203,
 				"3": 1204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
@@ -512,19 +512,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "16",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 6,
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -544,10 +544,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 1204,
-				"2": 1203,
+				"0": 1201,
 				"1": 1202,
-				"0": 1201
+				"2": 1203,
+				"3": 1204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
 			"blockCollision": "0,0,0|40,100,40",
@@ -579,10 +579,10 @@
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 6,
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -602,10 +602,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 204,
-				"2": 203,
+				"0": 201,
 				"1": 202,
-				"0": 201
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Drop_lightBeam_01/dz_dio_eff_Dropbox_rare_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -628,17 +628,17 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"param": "11010",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -660,10 +660,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"1": 202,
 				"0": 201,
-				"3": 204,
-				"2": 203
+				"1": 202,
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Drop_lightBeam_01/dz_dio_eff_Dropbox_rare_02.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -686,16 +686,16 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "11010",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -718,10 +718,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 204,
-				"2": 203,
+				"0": 201,
 				"1": 202,
-				"0": 201
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Drop_lightBeam_01/dz_dio_eff_Dropbox_rare_03.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -744,16 +744,16 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "11010",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -777,9 +777,9 @@
 			"priority": 99,
 			"state": {
 				"0": 201,
-				"3": 204,
+				"1": 202,
 				"2": 203,
-				"1": 202
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Drop_lightBeam_01/dz_dio_eff_Dropbox_rare_04.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -802,17 +802,17 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "11010",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -834,10 +834,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 204,
-				"2": 203,
+				"0": 201,
 				"1": 202,
-				"0": 201
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Drop_lightBeam_01/dz_dio_eff_Dropbox_rare_05.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -868,9 +868,9 @@
 			"param": "11010",
 			"tokenByState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -892,10 +892,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
+				"0": 201,
 				"1": 202,
 				"2": 203,
-				"3": 204,
-				"0": 201
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -918,10 +918,10 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "111",
 			"isInvisiableInGrass": 1,
@@ -977,17 +977,17 @@
 			"isShowInteractToken": 1,
 			"interactTokenState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "112",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1008,10 +1008,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 1204,
 				"0": 1201,
 				"1": 1202,
-				"2": 1203
+				"2": 1203,
+				"3": 1204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -1034,19 +1034,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "113",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 6,
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1066,10 +1066,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 204,
 				"0": 201,
 				"1": 202,
-				"2": 203
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -1092,18 +1092,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"param": "121",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1150,18 +1150,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "122",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1182,10 +1182,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 1204,
 				"0": 1201,
 				"1": 1202,
-				"2": 1203
+				"2": 1203,
+				"3": 1204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -1209,9 +1209,9 @@
 			"isShowInteractToken": 1,
 			"interactTokenState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "123",
 			"isInvisiableInGrass": 1,
@@ -1240,10 +1240,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"2": 1203,
-				"3": 1204,
 				"0": 1201,
-				"1": 1202
+				"1": 1202,
+				"2": 1203,
+				"3": 1204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -1266,19 +1266,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "124",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 6,
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1298,10 +1298,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 204,
 				"0": 201,
 				"1": 202,
-				"2": 203
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -1324,18 +1324,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "131",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1356,10 +1356,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 1104,
 				"0": 1101,
 				"1": 1102,
-				"2": 1103
+				"2": 1103,
+				"3": 1104
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_B01/Dz_dio_Loot_B01.prefab",
 			"blockCollision": "0,0,0|80,100,60",
@@ -1382,18 +1382,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "132",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1415,9 +1415,9 @@
 			"priority": 99,
 			"state": {
 				"0": 1201,
-				"3": 1204,
+				"1": 1202,
 				"2": 1203,
-				"1": 1202
+				"3": 1204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -1449,10 +1449,10 @@
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 6,
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1472,10 +1472,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"3": 1204,
 				"0": 1201,
 				"1": 1202,
-				"2": 1203
+				"2": 1203,
+				"3": 1204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -1498,10 +1498,10 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "134",
 			"isInvisiableInGrass": 1,
@@ -1530,9 +1530,9 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"2": 203,
-				"1": 202,
 				"0": 201,
+				"1": 202,
+				"2": 203,
 				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
@@ -1556,18 +1556,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "141",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1588,10 +1588,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
+				"0": 1101,
 				"1": 1102,
 				"2": 1103,
-				"3": 1104,
-				"0": 1101
+				"3": 1104
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_B01/Dz_dio_Loot_B01.prefab",
 			"blockCollision": "0,0,0|80,100,60",
@@ -1614,18 +1614,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "142",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1672,10 +1672,10 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"param": "143",
 			"isInvisiableInGrass": 1,
@@ -1704,10 +1704,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"1": 1202,
 				"0": 1201,
-				"3": 1204,
-				"2": 1203
+				"1": 1202,
+				"2": 1203,
+				"3": 1204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Loot_A01.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -1730,19 +1730,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "144",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 6,
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1762,10 +1762,10 @@
 			"type": 13,
 			"priority": 99,
 			"state": {
+				"0": 58,
 				"1": 58,
 				"2": 203,
-				"3": 204,
-				"0": 58
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_04.prefab",
 			"blockCollision": "0,0,0|30,100,30",
@@ -1787,9 +1787,9 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "20016;0",
@@ -1819,10 +1819,10 @@
 			"type": 13,
 			"priority": 99,
 			"state": {
+				"0": 58,
 				"1": 58,
 				"2": 203,
-				"3": 204,
-				"0": 58
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_04.prefab",
 			"blockCollision": "0,0,0|30,100,30",
@@ -1845,18 +1845,18 @@
 			"isShowInteractToken": 1,
 			"interactTokenState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "20017;0",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 2,
 			"tokenByState": {
+				"0": 1,
 				"1": 1,
 				"2": 1,
-				"3": 1,
-				"0": 1
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1876,10 +1876,10 @@
 			"type": 13,
 			"priority": 99,
 			"state": {
-				"3": 204,
 				"0": 58,
 				"1": 58,
-				"2": 203
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_04.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -1901,19 +1901,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "20016;0",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 2,
 			"tokenByState": {
+				"0": 1,
 				"1": 1,
 				"2": 1,
-				"3": 1,
-				"0": 1
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1933,10 +1933,10 @@
 			"type": 13,
 			"priority": 99,
 			"state": {
-				"3": 204,
 				"0": 58,
 				"1": 58,
-				"2": 203
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_04.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -1958,19 +1958,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"param": "20017;0",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 2,
 			"tokenByState": {
-				"2": 1,
-				"3": 1,
 				"0": 1,
-				"1": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -1990,10 +1990,10 @@
 			"type": 13,
 			"priority": 99,
 			"state": {
+				"0": 58,
 				"1": 58,
 				"2": 203,
-				"3": 204,
-				"0": 58
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_04.prefab",
 			"blockCollision": "0,0,0|90,100,80",
@@ -2015,10 +2015,10 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"param": "20018;0",
 			"isInvisiableInGrass": 1,
@@ -2047,11 +2047,11 @@
 			"type": 6,
 			"priority": 23,
 			"state": {
-				"4": 99,
-				"2": 99,
-				"1": 99,
 				"0": 99,
-				"3": 99
+				"1": 99,
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -2072,17 +2072,17 @@
 				60103
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -2105,11 +2105,11 @@
 			"type": 6,
 			"priority": 24,
 			"state": {
-				"4": 99,
+				"0": 99,
 				"1": 99,
 				"2": 99,
 				"3": 99,
-				"0": 99
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -2130,17 +2130,17 @@
 				60203
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "37;51030;4;0;1;10018;1000;1109;999;-1;20004-1",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -2163,10 +2163,10 @@
 			"type": 6,
 			"priority": 25,
 			"state": {
-				"3": 99,
-				"2": 99,
-				"1": 99,
 				"0": 99,
+				"1": 99,
+				"2": 99,
+				"3": 99,
 				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
@@ -2188,17 +2188,17 @@
 				60303
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -2224,8 +2224,8 @@
 				"0": 99,
 				"1": 99,
 				"2": 99,
-				"4": 99,
-				"3": 99
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -2246,17 +2246,17 @@
 				60403
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -2279,10 +2279,10 @@
 			"type": 6,
 			"priority": 27,
 			"state": {
-				"3": 99,
-				"2": 99,
-				"1": 99,
 				"0": 99,
+				"1": 99,
+				"2": 99,
+				"3": 99,
 				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
@@ -2312,9 +2312,9 @@
 			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
 			"tokenByState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -2337,8 +2337,8 @@
 			"type": 7,
 			"priority": 57,
 			"state": {
-				"1": 99,
-				"0": 701
+				"0": 701,
+				"1": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -2365,10 +2365,10 @@
 			},
 			"param": "0",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -2392,12 +2392,12 @@
 			"type": 8,
 			"priority": 28,
 			"state": {
-				"5": 98,
-				"3": 99,
-				"4": 801,
+				"0": 801,
 				"1": 801,
 				"2": 99,
-				"0": 801
+				"3": 99,
+				"4": 801,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Factory_01/Dz_dio_factor_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -2420,10 +2420,10 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
-				"2": 2,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 2,
+				"3": 0
 			},
 			"param": "1001",
 			"tokenByState": {
@@ -2453,11 +2453,11 @@
 			"type": 1,
 			"priority": 29,
 			"state": {
-				"1": 904,
 				"0": 901,
-				"5": 98,
+				"1": 904,
+				"2": 902,
 				"3": 903,
-				"2": 902
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05a.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -2489,9 +2489,9 @@
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -2517,8 +2517,8 @@
 				"0": 901,
 				"1": 904,
 				"2": 902,
-				"5": 98,
-				"3": 903
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05b.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -2550,9 +2550,9 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1",
@@ -2579,11 +2579,11 @@
 			"type": 1,
 			"priority": 31,
 			"state": {
-				"2": 902,
-				"5": 98,
-				"1": 904,
 				"0": 901,
-				"3": 903
+				"1": 904,
+				"2": 902,
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05a.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -2615,17 +2615,17 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -2647,9 +2647,9 @@
 			"state": {
 				"0": 901,
 				"1": 904,
-				"5": 98,
 				"2": 902,
-				"3": 903
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05e.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -2674,9 +2674,9 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1",
@@ -2705,11 +2705,11 @@
 			"type": 1,
 			"priority": 33,
 			"state": {
-				"2": 902,
-				"5": 98,
-				"1": 904,
 				"0": 905,
-				"3": 903
+				"1": 904,
+				"2": 902,
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05c.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -2734,16 +2734,16 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -2766,11 +2766,11 @@
 			"type": 1,
 			"priority": 34,
 			"state": {
-				"5": 98,
 				"0": 901,
 				"1": 904,
 				"2": 902,
-				"3": 903
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05d.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -2802,17 +2802,17 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -2831,11 +2831,11 @@
 			"type": 1,
 			"priority": 35,
 			"state": {
-				"5": 98,
 				"0": 901,
-				"3": 903,
+				"1": 904,
 				"2": 902,
-				"1": 904
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05a.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -2874,9 +2874,9 @@
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -2896,11 +2896,11 @@
 			"type": 1,
 			"priority": 36,
 			"state": {
+				"0": 99,
 				"1": 99,
 				"2": 99,
-				"5": 99,
 				"3": 99,
-				"0": 99
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_block_B_02.prefab",
 			"blockCollision": "0,0,0|40,600,360",
@@ -2923,10 +2923,10 @@
 				90903
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
@@ -2957,11 +2957,11 @@
 			"type": 1,
 			"priority": 36,
 			"state": {
+				"0": 901,
+				"1": 904,
 				"2": 902,
 				"3": 903,
-				"5": 98,
-				"0": 901,
-				"1": 904
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01A.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -2986,9 +2986,9 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1",
@@ -3018,11 +3018,11 @@
 			"type": 1,
 			"priority": 37,
 			"state": {
-				"1": 904,
 				"0": 905,
-				"5": 98,
+				"1": 904,
+				"2": 902,
 				"3": 903,
-				"2": 902
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01A.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -3047,17 +3047,17 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -3079,11 +3079,11 @@
 			"type": 1,
 			"priority": 38,
 			"state": {
-				"3": 903,
-				"5": 98,
 				"0": 901,
 				"1": 904,
-				"2": 902
+				"2": 902,
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01B.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -3115,17 +3115,17 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -3144,11 +3144,11 @@
 			"type": 1,
 			"priority": 39,
 			"state": {
-				"1": 904,
 				"0": 905,
-				"5": 98,
+				"1": 904,
+				"2": 902,
 				"3": 903,
-				"2": 902
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01B.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -3180,16 +3180,16 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -3210,11 +3210,11 @@
 			"priority": 40,
 			"initState": 2,
 			"state": {
+				"0": 901,
 				"1": 904,
-				"5": 98,
 				"2": 902,
 				"3": 903,
-				"0": 901
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01A.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -3239,17 +3239,17 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"slgPrefabPath": "",
@@ -3270,11 +3270,11 @@
 			"type": 1,
 			"priority": 33,
 			"state": {
-				"3": 903,
-				"2": 902,
-				"5": 98,
+				"0": 99,
 				"1": 904,
-				"0": 99
+				"2": 902,
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Warning_01/Dz_dio_Warning_01.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -3298,17 +3298,17 @@
 				91603
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -3331,10 +3331,10 @@
 			"type": 1,
 			"priority": 33,
 			"state": {
-				"2": 902,
-				"3": 903,
 				"0": 905,
 				"1": 904,
+				"2": 902,
+				"3": 903,
 				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05c.prefab",
@@ -3361,16 +3361,16 @@
 			"isShowInteractToken": 1,
 			"interactTokenState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"minigameCreate": [
 				2,
@@ -3396,11 +3396,11 @@
 			"priority": 32,
 			"initState": 2,
 			"state": {
-				"5": 98,
-				"1": 904,
 				"0": 98,
+				"1": 904,
+				"2": 902,
 				"3": 903,
-				"2": 902
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_door_09/Dz_dio_door_09.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -3432,10 +3432,10 @@
 			},
 			"param": "1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"slgPrefabPath": "",
@@ -3456,11 +3456,11 @@
 			"type": 1,
 			"priority": 33,
 			"state": {
-				"3": 903,
 				"0": 98,
-				"5": 98,
 				"1": 904,
-				"2": 902
+				"2": 902,
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_door_09/Dz_dio_door_09.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -3489,10 +3489,10 @@
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -3515,10 +3515,10 @@
 			"priority": 33,
 			"state": {
 				"0": 99,
-				"5": 98,
-				"3": 903,
+				"1": 904,
 				"2": 902,
-				"1": 904
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Warning_01/Dz_dio_Warning_01.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -3542,17 +3542,17 @@
 				92003
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1003;1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -3597,16 +3597,16 @@
 			"isShowInteractToken": 1,
 			"interactTokenState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "99",
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -3631,8 +3631,8 @@
 			"priority": 59,
 			"initState": 1,
 			"state": {
-				"1": 99,
-				"0": 1001
+				"0": 1001,
+				"1": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/dz_loot_coin1.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -3651,17 +3651,17 @@
 				110103
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10;10;10;15",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"slgPrefabPath": "",
@@ -3686,8 +3686,8 @@
 			"priority": 59,
 			"initState": 1,
 			"state": {
-				"1": 99,
-				"0": 1001
+				"0": 1001,
+				"1": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Drop_lightBeam_01/dz_dio_eff_Dropbox_rare_03.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -3707,16 +3707,16 @@
 			],
 			"interactTokenState": {
 				"0": 0,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "10;10;10;15",
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"slgPrefabPath": "",
@@ -3740,8 +3740,8 @@
 			"type": 12,
 			"priority": 60,
 			"state": {
-				"1": 99,
-				"0": 13
+				"0": 13,
+				"1": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -3760,18 +3760,18 @@
 				120103
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "0",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"frontCheck": 1,
 			"tokenYShifting": 150,
@@ -3795,8 +3795,8 @@
 			"type": 12,
 			"priority": 61,
 			"state": {
-				"1": 99,
-				"0": 14
+				"0": 14,
+				"1": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -3815,18 +3815,18 @@
 				120203
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "0",
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"frontCheck": 1,
 			"tokenYShifting": 150,
@@ -3850,10 +3850,10 @@
 			"type": 13,
 			"priority": 41,
 			"state": {
+				"0": 51,
 				"1": 51,
 				"2": 203,
-				"3": 204,
-				"0": 51
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_06.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -3874,9 +3874,9 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1003;1",
@@ -3924,12 +3924,12 @@
 				1000
 			],
 			"cdSequence": {
-				"2": 1,
+				"0": 0,
 				"1": 1,
+				"2": 1,
 				"3": 1,
 				"4": 1,
-				"5": 1,
-				"0": 0
+				"5": 1
 			},
 			"shapeIds": [
 				130200,
@@ -3939,19 +3939,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 1,
-				"1": 1,
 				"0": 1,
+				"1": 1,
+				"2": 1,
 				"3": 0
 			},
 			"param": "1003;1",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 24,
 			"tokenByState": {
-				"2": 1,
-				"3": 1,
 				"0": 1,
-				"1": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -3971,10 +3971,10 @@
 			"type": 13,
 			"priority": 42,
 			"state": {
-				"1": 52,
 				"0": 52,
-				"3": 204,
-				"2": 203
+				"1": 52,
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_03.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -3995,19 +3995,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10016;0",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 26,
 			"tokenByState": {
 				"0": 1,
-				"3": 1,
+				"1": 1,
 				"2": 1,
-				"1": 1
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4028,10 +4028,10 @@
 			"type": 13,
 			"priority": 43,
 			"state": {
-				"1": 52,
 				"0": 52,
-				"3": 204,
-				"2": 203
+				"1": 52,
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_03.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -4061,9 +4061,9 @@
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 26,
 			"tokenByState": {
-				"2": 1,
-				"1": 1,
 				"0": 1,
+				"1": 1,
+				"2": 1,
 				"3": 1
 			},
 			"tokenYShifting": 150,
@@ -4085,9 +4085,9 @@
 			"type": 13,
 			"priority": 44,
 			"state": {
-				"2": 203,
-				"1": 52,
 				"0": 52,
+				"1": 52,
+				"2": 203,
 				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_03.prefab",
@@ -4118,9 +4118,9 @@
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 26,
 			"tokenByState": {
-				"2": 1,
-				"1": 1,
 				"0": 1,
+				"1": 1,
+				"2": 1,
 				"3": 1
 			},
 			"tokenYShifting": 150,
@@ -4142,10 +4142,10 @@
 			"type": 13,
 			"priority": 44,
 			"state": {
-				"3": 204,
-				"2": 203,
+				"0": 52,
 				"1": 52,
-				"0": 52
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_03.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -4166,18 +4166,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "10035;0",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 26,
 			"tokenByState": {
-				"2": 1,
-				"1": 1,
 				"0": 1,
+				"1": 1,
+				"2": 1,
 				"3": 1
 			},
 			"tokenYShifting": 150,
@@ -4199,10 +4199,10 @@
 			"type": 13,
 			"priority": 45,
 			"state": {
+				"0": 56,
 				"1": 56,
 				"2": 203,
-				"3": 204,
-				"0": 56
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_05.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -4223,19 +4223,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "10030;1",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 2,
 			"tokenByState": {
+				"0": 1,
 				"1": 1,
 				"2": 1,
-				"3": 1,
-				"0": 1
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4256,10 +4256,10 @@
 			"type": 13,
 			"priority": 47,
 			"state": {
-				"2": 203,
-				"3": 204,
 				"0": 56,
-				"1": 56
+				"1": 56,
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_05.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -4273,12 +4273,12 @@
 				1000
 			],
 			"cdSequence": {
-				"2": 1,
-				"5": 1,
 				"0": 0,
+				"1": 1,
+				"2": 1,
 				"3": 1,
 				"4": 1,
-				"1": 1
+				"5": 1
 			},
 			"shapeIds": [
 				132200,
@@ -4288,19 +4288,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
-				"2": 1,
+				"0": 1,
 				"1": 1,
-				"0": 1
+				"2": 1,
+				"3": 0
 			},
 			"param": "10030;1",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 2,
 			"tokenByState": {
+				"0": 1,
 				"1": 1,
 				"2": 1,
-				"3": 1,
-				"0": 1
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4337,12 +4337,12 @@
 				1000
 			],
 			"cdSequence": {
-				"5": 1,
 				"0": 0,
-				"2": 1,
-				"4": 1,
 				"1": 1,
-				"3": 1
+				"2": 1,
+				"3": 1,
+				"4": 1,
+				"5": 1
 			},
 			"shapeIds": [
 				133100,
@@ -4352,10 +4352,10 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"1": 1,
 				"0": 1,
-				"3": 0,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 0
 			},
 			"param": "20014;0",
 			"isShowOnMinimap": 2,
@@ -4385,9 +4385,9 @@
 			"priority": 49,
 			"state": {
 				"0": 99,
-				"3": 99,
+				"1": 99,
 				"2": 99,
-				"1": 99
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_DamageShelter_e01/Dz_dio_DamageShelter_e01.prefab",
 			"slgPrefabPath": "Dz_dio_DamageShelter_e01",
@@ -4415,10 +4415,10 @@
 			},
 			"param": "13;2;2;1;0",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4441,10 +4441,10 @@
 			"type": 14,
 			"priority": 50,
 			"state": {
-				"2": 99,
-				"3": 99,
 				"0": 99,
-				"1": 99
+				"1": 99,
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_DamageShelter_e01/Dz_dio_DamageShelter_h_e01.prefab",
 			"slgPrefabPath": "Dz_dio_DamageShelter_h_e01",
@@ -4465,17 +4465,17 @@
 				140203
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "27;2;2;1;0",
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4498,10 +4498,10 @@
 			"type": 14,
 			"priority": 51,
 			"state": {
-				"3": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_DamageShelter_c01/Dz_dio_DamageShelter_c01.prefab",
 			"slgPrefabPath": "Dz_dio_DamageShelter_c01",
@@ -4522,17 +4522,17 @@
 				141103
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;2;1;1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4579,17 +4579,17 @@
 				141203
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "3;2;1;1",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4612,11 +4612,11 @@
 			"type": 16,
 			"priority": 53,
 			"state": {
-				"2": 203,
-				"1": 53,
-				"4": 99,
 				"0": 53,
-				"3": 204
+				"1": 53,
+				"2": 203,
+				"3": 204,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Manhole_01A.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -4637,19 +4637,19 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "0;15000,0,7900;30001",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 1,
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 1,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4670,11 +4670,11 @@
 			"type": 16,
 			"priority": 54,
 			"state": {
-				"3": 204,
-				"2": 203,
+				"0": 55,
 				"1": 55,
-				"4": 99,
-				"0": 55
+				"2": 203,
+				"3": 204,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Manhole_01A.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -4695,18 +4695,18 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "1124;15000,0,7900;30001",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 1,
 			"tokenByState": {
-				"2": 0,
-				"1": 1,
 				"0": 1,
+				"1": 1,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -4728,10 +4728,10 @@
 			"type": 17,
 			"priority": 55,
 			"state": {
-				"1": 54,
 				"0": 54,
-				"3": 204,
-				"2": 203
+				"1": 54,
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Evacuate_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -4752,17 +4752,17 @@
 			],
 			"isShowInteractToken": 1,
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"isShowOnMinimap": 25,
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4785,10 +4785,10 @@
 			"type": 18,
 			"priority": 56,
 			"state": {
-				"3": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/dz_event_poison_idle.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -4807,16 +4807,16 @@
 				180103
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "20006;450;1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -4842,10 +4842,10 @@
 			"type": 18,
 			"priority": 56,
 			"state": {
-				"1": 99,
 				"0": 99,
-				"3": 99,
-				"2": 99
+				"1": 99,
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/dz_event_poison_idle.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -4864,17 +4864,17 @@
 				180203
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "20019;450;1",
 			"tokenByState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4899,10 +4899,10 @@
 			"type": 18,
 			"priority": 56,
 			"state": {
-				"3": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/dz_event_poison_idle.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -4921,17 +4921,17 @@
 				180303
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "20019;200;1",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -4956,10 +4956,10 @@
 			"type": 18,
 			"priority": 56,
 			"state": {
-				"1": 99,
 				"0": 99,
-				"3": 99,
-				"2": 99
+				"1": 99,
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/dz_event_poison_idle.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -4978,17 +4978,17 @@
 				180403
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "20019;300;1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -5035,16 +5035,16 @@
 				190103
 			],
 			"interactTokenState": {
-				"1": 0,
-				"0": 1
+				"0": 1,
+				"1": 0
 			},
 			"param": "0",
 			"isShowOnMinimap": 23,
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -5083,10 +5083,10 @@
 				210103
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "0",
 			"tokenByState": {
@@ -5135,17 +5135,17 @@
 				210203
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "0",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -5188,16 +5188,16 @@
 			],
 			"interactTokenState": {
 				"0": 0,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "1004;1",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -5239,10 +5239,10 @@
 				210403
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "0",
 			"tokenByState": {
@@ -5291,17 +5291,17 @@
 				210503
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "0",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -5343,17 +5343,17 @@
 				210603
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "0",
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -5378,10 +5378,10 @@
 			"type": 22,
 			"priority": 99,
 			"state": {
-				"1": 99,
 				"0": 99,
-				"3": 99,
-				"2": 99
+				"1": 99,
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_07.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -5409,9 +5409,9 @@
 			},
 			"isInvisiableInGrass": 1,
 			"tokenByState": {
-				"2": 1,
-				"1": 1,
 				"0": 1,
+				"1": 1,
+				"2": 1,
 				"3": 1
 			},
 			"tokenYShifting": 150,
@@ -5460,9 +5460,9 @@
 			],
 			"interactTokenState": {
 				"0": 0,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "480;50;10021;10021;10021",
 			"isInvisiableInGrass": 1,
@@ -5495,10 +5495,10 @@
 			"type": 24,
 			"priority": 99,
 			"state": {
-				"3": 204,
-				"2": 203,
+				"0": 59,
 				"1": 59,
-				"0": 59
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_09.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -5528,10 +5528,10 @@
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 29,
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 90,
 			"initState": 0,
@@ -5552,10 +5552,10 @@
 			"type": 13,
 			"priority": 41,
 			"state": {
-				"3": 204,
-				"2": 203,
+				"0": 60,
 				"1": 60,
-				"0": 60
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_Booster_10.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -5576,18 +5576,18 @@
 				211003
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "1003;11",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 31,
 			"tokenByState": {
-				"2": 1,
-				"1": 1,
 				"0": 1,
+				"1": 1,
+				"2": 1,
 				"3": 1
 			},
 			"tokenYShifting": 150,
@@ -5609,11 +5609,11 @@
 			"type": 1,
 			"priority": 33,
 			"state": {
-				"3": 903,
-				"2": 902,
-				"5": 98,
+				"0": 906,
 				"1": 904,
-				"0": 906
+				"2": 902,
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_door_09/Dz_dio_door_09.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -5637,16 +5637,16 @@
 				211103
 			],
 			"interactTokenState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -5670,10 +5670,10 @@
 			"type": 2,
 			"priority": 99,
 			"state": {
-				"2": 203,
-				"3": 204,
 				"0": 201,
-				"1": 202
+				"1": 202,
+				"2": 203,
+				"3": 204
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Loot_C01/Dz_dio_Loot_C01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -5695,10 +5695,10 @@
 				211203
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"param": "18",
 			"isInvisiableInGrass": 1,
@@ -5754,18 +5754,18 @@
 			],
 			"interactTokenState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "10037-10038;50;1023;1023;1023",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"2": 1,
-				"3": 1,
 				"0": 1,
-				"1": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -5811,19 +5811,19 @@
 				211403
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1024;1024;1024",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -5869,18 +5869,18 @@
 				211503
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1025;1025;1025",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"2": 1,
-				"1": 1,
 				"0": 1,
+				"1": 1,
+				"2": 1,
 				"3": 1
 			},
 			"minigameCreate": [
@@ -5929,19 +5929,19 @@
 				211603
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 2,
 				"1": 0,
-				"0": 2
+				"2": 0,
+				"3": 0
 			},
 			"param": "0;0,1000;0,1000",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 30,
 			"tokenByState": {
-				"2": 1,
-				"3": 1,
 				"0": 1,
-				"1": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 90,
 			"initState": 0,
@@ -5962,10 +5962,10 @@
 			"type": 25,
 			"priority": 99,
 			"state": {
-				"3": 903,
 				"0": 907,
 				"1": 904,
-				"2": 907
+				"2": 907,
+				"3": 903
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/dz_dio_switch/Dz_dio_switch.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -5986,19 +5986,19 @@
 				211703
 			],
 			"interactTokenState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"param": "1;0,0,0;0,0,0;0;0",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 32,
 			"tokenByState": {
-				"3": 1,
 				"0": 1,
 				"1": 1,
-				"2": 1
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 200,
 			"initState": 0,
@@ -6044,9 +6044,9 @@
 			],
 			"interactTokenState": {
 				"0": 2,
-				"3": 0,
+				"1": 0,
 				"2": 2,
-				"1": 0
+				"3": 0
 			},
 			"param": "1;0,0,0;0,0,0;0;0",
 			"isInvisiableInGrass": 1,
@@ -6076,11 +6076,11 @@
 			"type": 1,
 			"priority": 33,
 			"state": {
-				"3": 903,
-				"5": 98,
 				"0": 98,
 				"1": 904,
-				"2": 902
+				"2": 902,
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Door_05/Dz_dio_Door_05c.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -6109,10 +6109,10 @@
 			},
 			"param": "1",
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -6156,19 +6156,19 @@
 				212003
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1023;1023;1023",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -6214,19 +6214,19 @@
 				212103
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "10037-10038;50;1023;1023;1023",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"3": 1,
 				"0": 1,
 				"1": 1,
-				"2": 1
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -6272,19 +6272,19 @@
 				212203
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1023;1023;1023",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"3": 1,
 				"0": 1,
 				"1": 1,
-				"2": 1
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -6330,19 +6330,19 @@
 				212303
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1024;1024;1024",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"3": 1,
-				"2": 1,
+				"0": 1,
 				"1": 1,
-				"0": 1
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -6366,8 +6366,8 @@
 			"type": 23,
 			"priority": 99,
 			"state": {
-				"2": 902,
-				"0": 2001
+				"0": 2001,
+				"2": 902
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_powergrid/Dz_powergrid_mid.prefab",
 			"blockCollision": "80,100,0|20,220,20:-80,100,0|20,220,20",
@@ -6388,19 +6388,19 @@
 				212403
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1024;1024;1024",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"2": 1,
-				"3": 1,
 				"0": 1,
-				"1": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -6455,10 +6455,10 @@
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"3": 1,
-				"2": 1,
+				"0": 1,
 				"1": 1,
-				"0": 1
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -6482,8 +6482,8 @@
 			"type": 23,
 			"priority": 99,
 			"state": {
-				"2": 902,
-				"0": 2001
+				"0": 2001,
+				"2": 902
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_powergrid/Dz_powergrid_high.prefab",
 			"blockCollision": "80,100,0|20,220,20:-80,100,0|20,220,20",
@@ -6504,10 +6504,10 @@
 				212603
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1025;1025;1025",
 			"isInvisiableInGrass": 1,
@@ -6563,9 +6563,9 @@
 			],
 			"interactTokenState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "10037-10038;50;1025;1025;1025",
 			"isInvisiableInGrass": 1,
@@ -6598,8 +6598,8 @@
 			"type": 23,
 			"priority": 99,
 			"state": {
-				"2": 902,
-				"0": 2001
+				"0": 2001,
+				"2": 902
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_powergrid/Dz_powergrid_high.prefab",
 			"blockCollision": "80,100,0|20,220,20:-80,100,0|20,220,20",
@@ -6620,10 +6620,10 @@
 				212803
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1025;1025;1025",
 			"isInvisiableInGrass": 1,
@@ -6659,8 +6659,8 @@
 				"0": 98,
 				"1": 904,
 				"2": 902,
-				"5": 98,
-				"3": 903
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01A.prefab",
 			"blockCollision": "0,0,0|360,600,50",
@@ -6689,10 +6689,10 @@
 			},
 			"param": "1",
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -6715,11 +6715,11 @@
 			"priority": 33,
 			"initState": 2,
 			"state": {
+				"0": 98,
 				"1": 904,
-				"5": 98,
 				"2": 902,
 				"3": 903,
-				"0": 98
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_door_09/Dz_dio_door_09.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -6743,17 +6743,17 @@
 				213003
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"slgPrefabPath": "",
@@ -6776,10 +6776,10 @@
 			"priority": 37,
 			"initState": 2,
 			"state": {
-				"1": 904,
 				"0": 98,
-				"3": 903,
+				"1": 904,
 				"2": 902,
+				"3": 903,
 				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01A.prefab",
@@ -6809,9 +6809,9 @@
 			},
 			"param": "1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -6833,11 +6833,11 @@
 			"type": 1,
 			"priority": 33,
 			"state": {
-				"3": 903,
-				"2": 902,
+				"0": 906,
 				"1": 904,
-				"5": 98,
-				"0": 906
+				"2": 902,
+				"3": 903,
+				"5": 98
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_door_09/Dz_dio_door_09.prefab",
 			"blockCollision": "0,45,0|45,90,55",
@@ -6875,10 +6875,10 @@
 			},
 			"param": "1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -6898,8 +6898,8 @@
 			"type": 23,
 			"priority": 99,
 			"state": {
-				"2": 902,
-				"0": 2002
+				"0": 2002,
+				"2": 902
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_powergrid/Dz_powergrid_low.prefab",
 			"blockCollision": "80,100,0|20,220,20:-80,100,0|20,220,20",
@@ -6920,19 +6920,19 @@
 				220003
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1024;1024;1024",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -6956,8 +6956,8 @@
 			"type": 23,
 			"priority": 99,
 			"state": {
-				"2": 902,
-				"0": 2002
+				"0": 2002,
+				"2": 902
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_powergrid/Dz_powergrid_mid.prefab",
 			"blockCollision": "80,100,0|20,220,20:-80,100,0|20,220,20",
@@ -6978,19 +6978,19 @@
 				220103
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "10037-10038;50;1024;1024;1024",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"3": 1,
 				"0": 1,
 				"1": 1,
-				"2": 1
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -7036,19 +7036,19 @@
 				220203
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1024;1024;1024",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -7094,19 +7094,19 @@
 				220303
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "10037-10038;50;1024;1024;1024",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"3": 1,
 				"0": 1,
 				"1": 1,
-				"2": 1
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -7152,19 +7152,19 @@
 				220403
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1024;1024;1024",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -7210,10 +7210,10 @@
 				220503
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1025;1025;1025",
 			"isInvisiableInGrass": 1,
@@ -7268,19 +7268,19 @@
 				220603
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1025;1025;1025",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"2": 1,
-				"3": 1,
 				"0": 1,
-				"1": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -7326,19 +7326,19 @@
 				220703
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1025;1025;1025",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"3": 1,
 				"0": 1,
 				"1": 1,
-				"2": 1
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -7384,19 +7384,19 @@
 				220803
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "10037-10038;50;1025;1025;1025",
 			"isInvisiableInGrass": 1,
 			"isShowOnMinimap": 33,
 			"tokenByState": {
-				"3": 1,
 				"0": 1,
 				"1": 1,
-				"2": 1
+				"2": 1,
+				"3": 1
 			},
 			"minigameCreate": [
 				1,
@@ -7420,9 +7420,9 @@
 			"type": 14,
 			"priority": 51,
 			"state": {
-				"2": 99,
-				"1": 99,
 				"0": 99,
+				"1": 99,
+				"2": 99,
 				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_demo/Dz_dio_Decoration_demo.prefab",
@@ -7444,16 +7444,16 @@
 				500103
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "5101;2;1;1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -7477,10 +7477,10 @@
 			"type": 14,
 			"priority": 51,
 			"state": {
-				"1": 99,
 				"0": 99,
-				"3": 99,
-				"2": 99
+				"1": 99,
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_1_1/Dz_dio_Decoration_1_1.prefab",
 			"blockCollision": "0,37.5,0|180,75,180",
@@ -7500,18 +7500,18 @@
 				500203
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "4;2;1;1",
 			"showInSlg": 1,
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -7534,10 +7534,10 @@
 			"type": 14,
 			"priority": 51,
 			"state": {
-				"3": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_1_2/Dz_dio_Decoration_1_2.prefab",
 			"blockCollision": "0,37.5,0|180,75,180",
@@ -7557,17 +7557,17 @@
 				500303
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "4;2;1;1",
 			"showInSlg": 1,
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -7591,10 +7591,10 @@
 			"type": 14,
 			"priority": 51,
 			"state": {
-				"1": 99,
 				"0": 99,
-				"3": 99,
-				"2": 99
+				"1": 99,
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_1_3/Dz_dio_Decoration_1_3.prefab",
 			"blockCollision": "0,37.5,0|180,75,180",
@@ -7614,18 +7614,18 @@
 				500403
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "4;2;1;1",
 			"showInSlg": 1,
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -7648,10 +7648,10 @@
 			"type": 14,
 			"priority": 51,
 			"state": {
-				"3": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_2_2/Dz_dio_Decoration_2_2.prefab",
 			"blockCollision": "0,37.5,0|180,75,180",
@@ -7671,18 +7671,18 @@
 				500503
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "4;2;1;1",
 			"showInSlg": 1,
 			"tokenByState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -7706,9 +7706,9 @@
 			"priority": 51,
 			"state": {
 				"0": 99,
-				"3": 99,
+				"1": 99,
 				"2": 99,
-				"1": 99
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_2_3/Dz_dio_Decoration_2_3.prefab",
 			"blockCollision": "0,37.5,0|180,75,180",
@@ -7736,10 +7736,10 @@
 			"param": "4;2;1;1",
 			"showInSlg": 1,
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -7762,10 +7762,10 @@
 			"type": 14,
 			"priority": 51,
 			"state": {
-				"3": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_1_6/Dz_dio_Decoration_1_6.prefab",
 			"blockCollision": "0,37.5,0|180,75,180",
@@ -7793,10 +7793,10 @@
 			"param": "4;2;1;1",
 			"showInSlg": 1,
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -7820,9 +7820,9 @@
 			"priority": 51,
 			"state": {
 				"0": 99,
-				"3": 99,
+				"1": 99,
 				"2": 99,
-				"1": 99
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_1_12/Dz_dio_Decoration_1_12.prefab",
 			"blockCollision": "0,37.5,0|180,75,180",
@@ -7842,18 +7842,18 @@
 				500803
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "4;2;1;1",
 			"showInSlg": 1,
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -7876,10 +7876,10 @@
 			"type": 14,
 			"priority": 49,
 			"state": {
-				"1": 99,
 				"0": 99,
-				"3": 99,
-				"2": 99
+				"1": 99,
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_e01/Dz_dio_Decoration_e01.prefab",
 			"slgPrefabPath": "Dz_dio_Decoration_demo",
@@ -7900,17 +7900,17 @@
 				510103
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "13;2;2;1;0",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -7933,10 +7933,10 @@
 			"type": 14,
 			"priority": 51,
 			"state": {
-				"1": 99,
 				"0": 99,
-				"3": 99,
-				"2": 99
+				"1": 99,
+				"2": 99,
+				"3": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Decoration_c01/Dz_dio_Decoration_c01.prefab",
 			"blockCollision": "0,37.5,0|180,75,180",
@@ -7956,18 +7956,18 @@
 				510203
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "4;2;1;1",
 			"showInSlg": 1,
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -7990,11 +7990,11 @@
 			"type": 13,
 			"priority": 67,
 			"state": {
-				"5": 99,
-				"1": 99,
 				"0": 99,
+				"1": 99,
+				"2": 99,
 				"3": 99,
-				"2": 99
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_RoadSign_03.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8013,17 +8013,17 @@
 				9980203
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1004;1",
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8048,11 +8048,11 @@
 			"type": 13,
 			"priority": 68,
 			"state": {
-				"3": 99,
-				"5": 99,
 				"0": 99,
 				"1": 99,
-				"2": 99
+				"2": 99,
+				"3": 99,
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_RoadSign_02.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8071,17 +8071,17 @@
 				9980303
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1004;1",
 			"tokenByState": {
-				"2": 1,
-				"3": 1,
 				"0": 1,
-				"1": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8107,10 +8107,10 @@
 			"priority": 69,
 			"state": {
 				"0": 99,
-				"3": 99,
-				"5": 99,
+				"1": 99,
 				"2": 99,
-				"1": 99
+				"3": 99,
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_RoadSign_03A.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8129,17 +8129,17 @@
 				9980403
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "1004;1",
 			"tokenByState": {
-				"1": 1,
 				"0": 1,
-				"3": 1,
-				"2": 1
+				"1": 1,
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8164,11 +8164,11 @@
 			"type": 13,
 			"priority": 70,
 			"state": {
+				"0": 99,
+				"1": 99,
 				"2": 99,
 				"3": 99,
-				"5": 99,
-				"0": 99,
-				"1": 99
+				"5": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/DZ_dio_common_variant/Dz_dio_RoadSign_02A.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8188,16 +8188,16 @@
 			],
 			"interactTokenState": {
 				"0": 0,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"param": "1004;1",
 			"tokenByState": {
-				"3": 1,
 				"0": 1,
 				"1": 1,
-				"2": 1
+				"2": 1,
+				"3": 1
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8222,11 +8222,11 @@
 			"type": 19,
 			"priority": 72,
 			"state": {
-				"3": 99,
-				"4": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_A01/Dz_dio_grass_A01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8253,10 +8253,10 @@
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8280,10 +8280,10 @@
 			"type": 19,
 			"priority": 73,
 			"state": {
-				"2": 99,
-				"3": 99,
 				"0": 99,
 				"1": 99,
+				"2": 99,
+				"3": 99,
 				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_D01/Dz_dio_grass_D01.prefab",
@@ -8304,9 +8304,9 @@
 				9990203
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1;1",
@@ -8338,11 +8338,11 @@
 			"type": 19,
 			"priority": 74,
 			"state": {
-				"2": 99,
-				"1": 99,
-				"4": 99,
 				"0": 99,
-				"3": 99
+				"1": 99,
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_E01/Dz_dio_grass_E01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8362,17 +8362,17 @@
 				9990303
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8420,17 +8420,17 @@
 				9990403
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8455,10 +8455,10 @@
 			"priority": 76,
 			"state": {
 				"0": 99,
-				"4": 99,
-				"3": 99,
+				"1": 99,
 				"2": 99,
-				"1": 99
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_1_4.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8478,16 +8478,16 @@
 				9990503
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -8512,11 +8512,11 @@
 			"type": 19,
 			"priority": 77,
 			"state": {
-				"2": 99,
-				"4": 99,
-				"3": 99,
 				"0": 99,
-				"1": 99
+				"1": 99,
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_1_7.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8536,17 +8536,17 @@
 				9990603
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8570,11 +8570,11 @@
 			"type": 19,
 			"priority": 78,
 			"state": {
-				"4": 99,
-				"1": 99,
 				"0": 99,
+				"1": 99,
+				"2": 99,
 				"3": 99,
-				"2": 99
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_2_2.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8594,16 +8594,16 @@
 				9990703
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"2": 0,
-				"1": 0,
 				"0": 1,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"tokenYShifting": 150,
@@ -8630,9 +8630,9 @@
 			"state": {
 				"0": 99,
 				"1": 99,
-				"4": 99,
 				"2": 99,
-				"3": 99
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_2_3_L.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8652,9 +8652,9 @@
 				9990803
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1;1",
@@ -8686,11 +8686,11 @@
 			"type": 19,
 			"priority": 80,
 			"state": {
-				"2": 99,
-				"1": 99,
-				"4": 99,
 				"0": 99,
-				"3": 99
+				"1": 99,
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_4-4.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8710,17 +8710,17 @@
 				9990903
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8744,11 +8744,11 @@
 			"type": 19,
 			"priority": 81,
 			"state": {
+				"0": 99,
 				"1": 99,
-				"4": 99,
 				"2": 99,
 				"3": 99,
-				"0": 99
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_4_2_U.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8768,17 +8768,17 @@
 				9991003
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
+				"0": 1,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 1
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8803,10 +8803,10 @@
 			"priority": 82,
 			"state": {
 				"0": 99,
-				"4": 99,
-				"3": 99,
+				"1": 99,
 				"2": 99,
-				"1": 99
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_2_3_P.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8826,17 +8826,17 @@
 				9991103
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8863,8 +8863,8 @@
 				"0": 99,
 				"1": 99,
 				"2": 99,
-				"4": 99,
-				"3": 99
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_3_2_Z.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8884,17 +8884,17 @@
 				9991203
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -8918,11 +8918,11 @@
 			"type": 19,
 			"priority": 84,
 			"state": {
-				"3": 99,
-				"4": 99,
 				"0": 99,
 				"1": 99,
-				"2": 99
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_3_2_T.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -8942,9 +8942,9 @@
 				9991303
 			],
 			"interactTokenState": {
-				"2": 0,
-				"1": 0,
 				"0": 0,
+				"1": 0,
+				"2": 0,
 				"3": 0
 			},
 			"param": "1;1",
@@ -8976,11 +8976,11 @@
 			"type": 19,
 			"priority": 85,
 			"state": {
+				"0": 99,
+				"1": 99,
 				"2": 99,
 				"3": 99,
-				"4": 99,
-				"0": 99,
-				"1": 99
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_3_3_L.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -9000,10 +9000,10 @@
 				9991403
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
@@ -9034,11 +9034,11 @@
 			"type": 19,
 			"priority": 86,
 			"state": {
-				"3": 99,
-				"4": 99,
-				"2": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_2_3.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -9058,17 +9058,17 @@
 				9991503
 			],
 			"interactTokenState": {
-				"3": 0,
 				"0": 0,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
 				"0": 1,
-				"3": 0,
+				"1": 0,
 				"2": 0,
-				"1": 0
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -9092,11 +9092,11 @@
 			"type": 19,
 			"priority": 87,
 			"state": {
-				"2": 99,
-				"4": 99,
-				"3": 99,
 				"0": 99,
-				"1": 99
+				"1": 99,
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_2_3_U.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -9116,17 +9116,17 @@
 				9991603
 			],
 			"interactTokenState": {
-				"3": 0,
-				"2": 0,
+				"0": 0,
 				"1": 0,
-				"0": 0
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"2": 0,
-				"3": 0,
 				"0": 1,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -9150,11 +9150,11 @@
 			"type": 19,
 			"priority": 88,
 			"state": {
-				"3": 99,
-				"2": 99,
-				"4": 99,
+				"0": 99,
 				"1": 99,
-				"0": 99
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_2_3_L2.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -9174,17 +9174,17 @@
 				9991703
 			],
 			"interactTokenState": {
-				"2": 0,
-				"3": 0,
 				"0": 0,
-				"1": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"3": 0,
-				"2": 0,
+				"0": 1,
 				"1": 0,
-				"0": 1
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -9208,11 +9208,11 @@
 			"type": 19,
 			"priority": 89,
 			"state": {
-				"3": 99,
-				"4": 99,
 				"0": 99,
 				"1": 99,
-				"2": 99
+				"2": 99,
+				"3": 99,
+				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_2_5_L.prefab",
 			"blockCollision": "0,0,0|0,0,0",
@@ -9232,17 +9232,17 @@
 				9991803
 			],
 			"interactTokenState": {
-				"1": 0,
 				"0": 0,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"3": 0,
 				"0": 1,
 				"1": 0,
-				"2": 0
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,
@@ -9266,10 +9266,10 @@
 			"type": 19,
 			"priority": 89,
 			"state": {
-				"3": 99,
-				"2": 99,
-				"1": 99,
 				"0": 99,
+				"1": 99,
+				"2": 99,
+				"3": 99,
 				"4": 99
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_grass_Z01/Dz_dio_grass_5_6_L.prefab",
@@ -9290,17 +9290,17 @@
 				9991903
 			],
 			"interactTokenState": {
+				"0": 0,
 				"1": 0,
 				"2": 0,
-				"3": 0,
-				"0": 0
+				"3": 0
 			},
 			"param": "1;1",
 			"tokenByState": {
-				"1": 0,
 				"0": 1,
-				"3": 0,
-				"2": 0
+				"1": 0,
+				"2": 0,
+				"3": 0
 			},
 			"tokenYShifting": 150,
 			"initState": 0,

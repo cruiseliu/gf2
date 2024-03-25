@@ -44,9 +44,9 @@
 			"effectTypeDes": "指定套装",
 			"weightType": 4,
 			"weight": {
-				"8": 700,
+				"1": 700,
 				"3": 700,
-				"1": 700
+				"8": 700
 			},
 			"weightTypeShow": {
 				"1": 401
@@ -98,9 +98,9 @@
 			"effectTypeDes": "指定套装",
 			"weightType": 4,
 			"weight": {
-				"9": 367,
+				"2": 367,
 				"4": 367,
-				"2": 367
+				"9": 367
 			},
 			"weightTypeShow": {
 				"3": 1
@@ -125,8 +125,8 @@
 			"effectTypeDes": "指定套装",
 			"weightType": 4,
 			"weight": {
-				"4": 700,
 				"2": 700,
+				"4": 700,
 				"9": 700
 			},
 			"weightTypeShow": {}
@@ -150,9 +150,9 @@
 			"effectTypeDes": "指定套装",
 			"weightType": 4,
 			"weight": {
+				"2": 1000,
 				"4": 1000,
-				"9": 1000,
-				"2": 1000
+				"9": 1000
 			},
 			"weightTypeShow": {
 				"1": 401
@@ -177,9 +177,9 @@
 			"effectTypeDes": "指定套装",
 			"weightType": 4,
 			"weight": {
-				"7": 367,
+				"5": 367,
 				"6": 367,
-				"5": 367
+				"7": 367
 			},
 			"weightTypeShow": {
 				"2": 1
@@ -231,8 +231,8 @@
 			"effectTypeDes": "指定套装",
 			"weightType": 4,
 			"weight": {
-				"6": 1000,
 				"5": 1000,
+				"6": 1000,
 				"7": 1000
 			},
 			"weightTypeShow": {}
@@ -308,8 +308,8 @@
 			"effectTypeDes": "指定部位",
 			"weightType": 1,
 			"weight": {
-				"6": 367,
-				"2": 367
+				"2": 367,
+				"6": 367
 			},
 			"weightTypeShow": {}
 		},
@@ -327,8 +327,8 @@
 			"effectTypeDes": "指定部位",
 			"weightType": 1,
 			"weight": {
-				"6": 700,
-				"2": 700
+				"2": 700,
+				"6": 700
 			},
 			"weightTypeShow": {}
 		},
@@ -367,9 +367,9 @@
 			"effectTypeDes": "指定部位",
 			"weightType": 1,
 			"weight": {
+				"1": 367,
 				"5": 367,
-				"6": 367,
-				"1": 367
+				"6": 367
 			},
 			"weightTypeShow": {}
 		},
@@ -389,9 +389,9 @@
 			"effectTypeDes": "指定部位",
 			"weightType": 1,
 			"weight": {
-				"6": 700,
+				"1": 700,
 				"5": 700,
-				"1": 700
+				"6": 700
 			},
 			"weightTypeShow": {}
 		},
@@ -412,8 +412,8 @@
 			"weightType": 1,
 			"weight": {
 				"1": 1700,
-				"6": 1700,
-				"5": 1700
+				"5": 1700,
+				"6": 1700
 			},
 			"weightTypeShow": {}
 		},
@@ -617,8 +617,8 @@
 			"effectTypeDes": "指定成色",
 			"weightType": 3,
 			"weight": {
-				"3": 33,
-				"2": 100
+				"2": 100,
+				"3": 33
 			},
 			"weightTypeShow": {}
 		},
@@ -679,8 +679,8 @@
 			"effectTypeDes": "指定成色",
 			"weightType": 3,
 			"weight": {
-				"3": 75,
-				"2": 225
+				"2": 225,
+				"3": 75
 			},
 			"weightTypeShow": {}
 		}

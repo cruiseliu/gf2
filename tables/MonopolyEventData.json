@@ -7,8 +7,7 @@
 			"eventDesc": "测试用事件描述1",
 			"eventType": 1,
 			"eventParam1": 110101,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 1002,
@@ -17,8 +16,7 @@
 			"eventDesc": "测试用事件描述1",
 			"eventType": 1,
 			"eventParam1": 110102,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 1003,
@@ -27,8 +25,7 @@
 			"eventDesc": "测试用事件描述1",
 			"eventType": 1,
 			"eventParam1": 110103,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 1004,
@@ -37,8 +34,7 @@
 			"eventDesc": "测试用事件描述1",
 			"eventType": 1,
 			"eventParam1": 110104,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 99011,
@@ -47,8 +43,7 @@
 			"eventDesc": "测试用商店事件",
 			"eventType": 2,
 			"eventParam1": 11011,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 99012,
@@ -57,8 +52,7 @@
 			"eventDesc": "请选择想要置换的指令 {0}/{1}",
 			"eventType": 3,
 			"eventParam1": 2,
-			"eventParam2": 110104,
-			"spineExpression": ""
+			"eventParam2": 110104
 		},
 		{
 			"id": 99013,
@@ -67,8 +61,7 @@
 			"eventDesc": "指令升级",
 			"eventType": 4,
 			"eventParam1": 3,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 99014,
@@ -77,8 +70,7 @@
 			"eventDesc": "请选择想要复制的指令 {0}/{1}",
 			"eventType": 5,
 			"eventParam1": 1,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 99015,
@@ -87,8 +79,7 @@
 			"eventDesc": "测试用货币波动",
 			"eventType": 6,
 			"eventParam1": 20,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120001,
@@ -97,8 +88,7 @@
 			"eventDesc": "请选择想要置换的指令 {0}/{1}，置换后，将获得等数量的新指令",
 			"eventType": 3,
 			"eventParam1": 2,
-			"eventParam2": 120100,
-			"spineExpression": ""
+			"eventParam2": 120100
 		},
 		{
 			"id": 120002,
@@ -107,8 +97,7 @@
 			"eventDesc": "指令升级",
 			"eventType": 4,
 			"eventParam1": 3,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120003,
@@ -117,8 +106,7 @@
 			"eventDesc": "请选择想要复制的指令 {0}/{1}",
 			"eventType": 5,
 			"eventParam1": 1,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120004,
@@ -127,8 +115,7 @@
 			"eventDesc": "行动密钥增加",
 			"eventType": 6,
 			"eventParam1": 150,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120005,
@@ -137,8 +124,7 @@
 			"eventDesc": "行动密钥减少",
 			"eventType": 6,
 			"eventParam1": 90,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120101,
@@ -147,8 +133,7 @@
 			"eventDesc": "莱娜1-1图通用商店",
 			"eventType": 2,
 			"eventParam1": 12011,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120201,
@@ -157,8 +142,7 @@
 			"eventDesc": "莱娜1-2图通用商店",
 			"eventType": 2,
 			"eventParam1": 12021,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120301,
@@ -167,18 +151,16 @@
 			"eventDesc": "莱娜1-3图通用商店",
 			"eventType": 2,
 			"eventParam1": 12031,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
-			"id": 120501,
+			"id": 120401,
 			"eventName": "控制后台",
 			"eventIcon": "Icon_ActivityTour_Event_Shop_M",
-			"eventDesc": "莱娜2-2图通用商店",
+			"eventDesc": "莱娜2-1图通用商店",
 			"eventType": 2,
-			"eventParam1": 12051,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam1": 12041,
+			"eventParam2": 0
 		},
 		{
 			"id": 120601,
@@ -187,8 +169,7 @@
 			"eventDesc": "莱娜2-3图通用商店",
 			"eventType": 2,
 			"eventParam1": 12061,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120701,
@@ -197,8 +178,7 @@
 			"eventDesc": "莱娜3-1图通用商店",
 			"eventType": 2,
 			"eventParam1": 12071,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120801,
@@ -207,8 +187,7 @@
 			"eventDesc": "莱娜3-2图通用商店",
 			"eventType": 2,
 			"eventParam1": 12081,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 120901,
@@ -217,8 +196,7 @@
 			"eventDesc": "莱娜3-3图通用商店",
 			"eventType": 2,
 			"eventParam1": 12091,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		},
 		{
 			"id": 121001,
@@ -227,8 +205,7 @@
 			"eventDesc": "莱娜3-4图通用商店",
 			"eventType": 2,
 			"eventParam1": 12101,
-			"eventParam2": 0,
-			"spineExpression": ""
+			"eventParam2": 0
 		}
 	]
 }

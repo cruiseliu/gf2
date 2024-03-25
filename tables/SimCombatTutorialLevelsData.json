@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"id": 40101,
+			"simType": 18,
+			"number": "NO.1",
+			"tutorials": [
+				400101,
+				400102
+			],
+			"tutorialsMark": 2,
+			"unlockStage": 0
+		},
+		{
 			"id": 40102,
 			"simType": 18,
 			"unlockStage": 40101,

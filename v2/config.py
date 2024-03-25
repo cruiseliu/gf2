@@ -22,21 +22,23 @@ _personal = (getpass.getuser() == 'lz')
 if _personal:
     if sys.platform == 'linux':
         game_data_dir = Path('/mnt/d/Program Files/GF2Exilium/GF2 Game/GF2_Exilium_Data/LocalCache/Data')
-        output_dir = Path('/mnt/c/_re/gf2')
+        gf2_output_dir = Path('/mnt/c/_re/gf2')
     else:
-        output_dir = Path('C:/_re/gf2')
+        gf2_output_dir = Path('C:/_re/gf2')
 
     game_version = datetime.now().strftime('%y%m%d')
-    version_output_dir = output_dir / game_version
+    version_output_dir = gf2_output_dir / game_version
 
     table_output_dirs = [
-        output_dir / 'tables',
+        gf2_output_dir / 'tables',
         version_output_dir / 'tables',
     ]
 
     image_output_dirs = [
-        output_dir / 'image',
+        gf2_output_dir / 'image',
         version_output_dir / 'image'
     ]
 
     image_output_dirs.append(version_output_dir / 'image')
+
+    #lua_output_dirs = output_dir.parents[1] / 'lua'

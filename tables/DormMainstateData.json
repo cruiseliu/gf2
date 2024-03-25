@@ -17,15 +17,9 @@
 				0.0
 			],
 			"area": 1,
-			"conditionTime": [],
-			"conditionArea": [],
 			"conditionDecoration": 0,
-			"conditionAffection": 0,
-			"conditionAchievement": 0,
 			"branchStateId": [],
 			"responseStateId": [],
-			"chapterStateId": [],
-			"dialogueId": [],
 			"transitiondelay": 0
 		},
 		{
@@ -45,15 +39,9 @@
 				0.0
 			],
 			"area": 1,
-			"conditionTime": [],
-			"conditionArea": [],
 			"conditionDecoration": 0,
-			"conditionAffection": 0,
-			"conditionAchievement": 0,
 			"branchStateId": [],
 			"responseStateId": [],
-			"chapterStateId": [],
-			"dialogueId": [],
 			"transitiondelay": 0
 		},
 		{
@@ -82,13 +70,7 @@
 				4
 			],
 			"transitiondelay": 5,
-			"area": 1,
-			"conditionTime": [],
-			"conditionArea": [],
-			"conditionAffection": 0,
-			"conditionAchievement": 0,
-			"chapterStateId": [],
-			"dialogueId": []
+			"area": 1
 		}
 	]
 }

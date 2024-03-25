@@ -6,9 +6,7 @@
 			"action": "c_Mayling_greet",
 			"text": "队长你们安心战斗就好啦，维护交给我~",
 			"audio": 7200113,
-			"audioStart": 0,
-			"affectionLevel": 0,
-			"specarg": ""
+			"affectionLevel": 0
 		},
 		{
 			"id": 102,
@@ -16,9 +14,7 @@
 			"action": "c_Mayling_greet02",
 			"text": "如、如果有什么我可以帮忙，请告诉我。",
 			"audio": 7200102,
-			"audioStart": 0,
-			"affectionLevel": 0,
-			"specarg": ""
+			"affectionLevel": 0
 		},
 		{
 			"id": 103,
@@ -26,9 +22,7 @@
 			"action": "c_Mayling_greet02",
 			"text": "报告指挥官，一、一切准备就绪！",
 			"audio": 7200112,
-			"audioStart": 0,
-			"affectionLevel": 0,
-			"specarg": ""
+			"affectionLevel": 0
 		},
 		{
 			"id": 201,
@@ -36,9 +30,7 @@
 			"action": "c_Mayling_idle_selfactA",
 			"text": "",
 			"audio": 0,
-			"audioStart": 0,
-			"affectionLevel": 0,
-			"specarg": ""
+			"affectionLevel": 0
 		},
 		{
 			"id": 202,
@@ -46,9 +38,7 @@
 			"action": "c_Mayling_idle_selfactB",
 			"text": "",
 			"affectionLevel": 1,
-			"audio": 0,
-			"audioStart": 0,
-			"specarg": ""
+			"audio": 0
 		}
 	]
 }

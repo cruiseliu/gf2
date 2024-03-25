@@ -22,9 +22,7 @@
 			"disableStrongholdText": "撤离区域已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 2,
@@ -48,9 +46,7 @@
 			"disableStrongholdText": "拾取点已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 3,
@@ -74,9 +70,7 @@
 			"disableStrongholdText": "数据流已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 4,
@@ -100,9 +94,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 5,
@@ -126,9 +118,7 @@
 			"disableStrongholdText": "探索区域已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 6,
@@ -152,9 +142,7 @@
 			"disableStrongholdText": "埋设点已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 7,
@@ -178,9 +166,7 @@
 			"disableStrongholdText": "回收点已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 8,
@@ -204,9 +190,7 @@
 			"disableStrongholdText": "收集点已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 9,
@@ -230,9 +214,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 10,
@@ -256,9 +238,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 11,
@@ -282,9 +262,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 12,
@@ -308,9 +286,7 @@
 			"disableCellText": "受到腐蚀区域侵蚀，清理后，恢复为可用状态。",
 			"disableStrongholdText": "数据流已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
-			"gridOccupy": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"gridOccupy": 0
 		},
 		{
 			"id": 13,
@@ -334,9 +310,7 @@
 			"disableStrongholdText": "控制装置已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"gridOccupy": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"gridOccupy": 0
 		},
 		{
 			"id": 14,
@@ -360,9 +334,7 @@
 			"disableStrongholdText": "回收区域已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 15,
@@ -386,9 +358,7 @@
 			"disableStrongholdText": "密钥已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 101,
@@ -414,9 +384,7 @@
 			"disableStrongholdText": "弹药补给I已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 102,
@@ -442,9 +410,7 @@
 			"disableStrongholdText": "维修组件I已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 103,
@@ -468,9 +434,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 104,
@@ -496,9 +460,7 @@
 			"disableStrongholdText": "分析单元I已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 106,
@@ -522,9 +484,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 107,
@@ -548,9 +508,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 108,
@@ -574,9 +532,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 110,
@@ -600,9 +556,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 111,
@@ -626,9 +580,7 @@
 			"disableStrongholdText": "多次控制键已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 112,
@@ -652,9 +604,7 @@
 			"disableStrongholdText": "单次控制键已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 113,
@@ -680,9 +630,7 @@
 			"disableStrongholdText": "潜行程序已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 114,
@@ -706,9 +654,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 115,
@@ -732,9 +678,7 @@
 			"disableStrongholdText": "遥控开关已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"gridOccupy": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"gridOccupy": 0
 		},
 		{
 			"id": 116,
@@ -758,9 +702,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1011,
@@ -786,9 +728,7 @@
 			"disableStrongholdText": "弹药补给II已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1012,
@@ -814,9 +754,7 @@
 			"disableStrongholdText": "弹药补给III已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1021,
@@ -842,9 +780,7 @@
 			"disableStrongholdText": "维修组件II已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1022,
@@ -870,9 +806,7 @@
 			"disableStrongholdText": "维修组件III已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1041,
@@ -898,9 +832,7 @@
 			"disableStrongholdText": "分析单元II已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1042,
@@ -926,9 +858,7 @@
 			"disableStrongholdText": "分析单元III已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1087,
@@ -954,9 +884,7 @@
 			"disableStrongholdText": "硬质护甲I已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1088,
@@ -982,9 +910,7 @@
 			"disableStrongholdText": "稳态增强I已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1089,
@@ -1010,9 +936,7 @@
 			"disableStrongholdText": "机动补给已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1090,
@@ -1038,9 +962,7 @@
 			"disableTitle": "引火装置（禁用）",
 			"disableCellText": "受到腐蚀区域侵蚀，清理后，恢复为可用状态。",
 			"disableStrongholdText": "引火装置已禁用，完成特定事件后开启。",
-			"actionInteractionType": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"actionInteractionType": 0
 		},
 		{
 			"id": 1091,
@@ -1066,9 +988,7 @@
 			"disableTitle": "中继节点（禁用）",
 			"disableCellText": "受到腐蚀区域侵蚀，清理后，恢复为可用状态。",
 			"disableStrongholdText": "中继节点已禁用，完成特定事件后开启。",
-			"actionInteractionType": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"actionInteractionType": 0
 		},
 		{
 			"id": 1100,
@@ -1092,9 +1012,7 @@
 			"disableStrongholdText": "遗失的物资已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"gridOccupy": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"gridOccupy": 0
 		},
 		{
 			"id": 1900,
@@ -1118,9 +1036,7 @@
 			"disableCellText": "受到腐蚀区域侵蚀，清理后，恢复为可用状态。",
 			"disableStrongholdText": "遥控开关已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
-			"actionInteractionType": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"actionInteractionType": 0
 		},
 		{
 			"id": 1901,
@@ -1144,9 +1060,7 @@
 			"disableStrongholdText": "遥控开关已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1902,
@@ -1170,9 +1084,7 @@
 			"disableStrongholdText": "遥控开关已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1903,
@@ -1196,9 +1108,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1904,
@@ -1222,9 +1132,7 @@
 			"disableCellText": "受到腐蚀区域侵蚀，清理后，恢复为可用状态。",
 			"disableStrongholdText": "增援通道已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
-			"actionInteractionType": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"actionInteractionType": 0
 		},
 		{
 			"id": 1905,
@@ -1248,9 +1156,7 @@
 			"disableStrongholdText": "遥控开关已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1906,
@@ -1274,9 +1180,7 @@
 			"disableStrongholdText": "启动装置已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 1907,
@@ -1300,9 +1204,7 @@
 			"disableStrongholdText": "启动装置已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 2043,
@@ -1326,9 +1228,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 2044,
@@ -1352,9 +1252,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 10011,
@@ -1378,9 +1276,7 @@
 			"disableStrongholdText": "临时撤离区域已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 10103,
@@ -1404,9 +1300,7 @@
 			"disableStrongholdText": "拾取点已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"actionInteractionType": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 10161,
@@ -1430,9 +1324,7 @@
 			"disableStrongholdText": "拾取点已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 10871,
@@ -1458,9 +1350,7 @@
 			"disableStrongholdText": "硬质护甲II已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 10872,
@@ -1486,9 +1376,7 @@
 			"disableStrongholdText": "硬质护甲III已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 10881,
@@ -1514,9 +1402,7 @@
 			"disableStrongholdText": "稳态增强II已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 10882,
@@ -1542,9 +1428,7 @@
 			"disableStrongholdText": "稳态增强III已禁用，完成特定事件后开启。",
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 90001,
@@ -1568,9 +1452,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 90002,
@@ -1594,9 +1476,7 @@
 			"disableStrongholdText": "收集已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 90003,
@@ -1620,8 +1500,6 @@
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
 			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false,
 			"triggerMomentType": 0
 		},
 		{
@@ -1646,9 +1524,7 @@
 			"disableCellText": "受到腐蚀区域侵蚀，清理后，恢复为可用状态。",
 			"disableStrongholdText": "遥控开关已禁用，完成特定事件后开启。",
 			"skillGroupList": [],
-			"actionInteractionType": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"actionInteractionType": 0
 		},
 		{
 			"id": 90005,
@@ -1672,9 +1548,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		},
 		{
 			"id": 90006,
@@ -1698,9 +1572,7 @@
 			"skillGroupList": [],
 			"actionInteractionType": 0,
 			"gridOccupy": 0,
-			"isRemainActive": 0,
-			"interactionLevel": 0,
-			"triggerSummoned": false
+			"isRemainActive": 0
 		}
 	]
 }

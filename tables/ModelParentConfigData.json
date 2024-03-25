@@ -8,11 +8,7 @@
 			"figureType": 8,
 			"hurtPerformType": 1,
 			"dissolveStartDelay": 60,
-			"dissolveDuration": 120,
-			"additionalDamageEffect": "",
-			"delayDie": false,
-			"darkzoneAc": "",
-			"coverRendering": false
+			"dissolveDuration": 120
 		},
 		{
 			"id": 6931,
@@ -22,11 +18,7 @@
 			"figureType": 8,
 			"dissolveStartDelay": 60,
 			"dissolveDuration": 120,
-			"hurtPerformType": 0,
-			"additionalDamageEffect": "",
-			"delayDie": false,
-			"darkzoneAc": "",
-			"coverRendering": false
+			"hurtPerformType": 0
 		},
 		{
 			"id": 6936,
@@ -36,11 +28,7 @@
 			"figureType": 8,
 			"dissolveStartDelay": 60,
 			"dissolveDuration": 120,
-			"hurtPerformType": 0,
-			"additionalDamageEffect": "",
-			"delayDie": false,
-			"darkzoneAc": "",
-			"coverRendering": false
+			"hurtPerformType": 0
 		},
 		{
 			"id": 6941,
@@ -50,11 +38,7 @@
 			"figureType": 8,
 			"dissolveStartDelay": 60,
 			"dissolveDuration": 120,
-			"hurtPerformType": 0,
-			"additionalDamageEffect": "",
-			"delayDie": false,
-			"darkzoneAc": "",
-			"coverRendering": false
+			"hurtPerformType": 0
 		}
 	]
 }

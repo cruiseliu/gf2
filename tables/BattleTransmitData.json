@@ -7,10 +7,7 @@
 			"shapeParam": [],
 			"target": 0,
 			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"transmitFunction": 0,
-			"resultTransmit": ""
+			"transmitFunction": 0
 		},
 		{
 			"id": 2,
@@ -19,10 +16,7 @@
 			"shapeParam": [],
 			"target": 0,
 			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"transmitFunction": 0,
-			"resultTransmit": ""
+			"transmitFunction": 0
 		},
 		{
 			"id": 3,
@@ -31,10 +25,7 @@
 			"targetIgnore": 1,
 			"shapeParam": [],
 			"target": 0,
-			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": ""
+			"condition": ""
 		},
 		{
 			"id": 169,
@@ -43,10 +34,7 @@
 			"shapeParam": [],
 			"target": 0,
 			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"transmitFunction": 0,
-			"resultTransmit": ""
+			"transmitFunction": 0
 		},
 		{
 			"id": 6242300,
@@ -55,10 +43,7 @@
 			"targetIgnore": 1,
 			"shapeParam": [],
 			"target": 0,
-			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": ""
+			"condition": ""
 		},
 		{
 			"id": 6443301,
@@ -67,10 +52,7 @@
 			"targetIgnore": 1,
 			"shapeParam": [],
 			"target": 0,
-			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": ""
+			"condition": ""
 		},
 		{
 			"id": 6481201,
@@ -79,10 +61,7 @@
 			"targetIgnore": 1,
 			"shapeParam": [],
 			"target": 0,
-			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": ""
+			"condition": ""
 		},
 		{
 			"id": 6851901,
@@ -94,10 +73,7 @@
 			"target": 1,
 			"condition": "230",
 			"transmitFunction": 2,
-			"targetIgnore": 1,
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": ""
+			"targetIgnore": 1
 		},
 		{
 			"id": 6856501,
@@ -109,10 +85,7 @@
 			"target": 1,
 			"transmitFunction": 3,
 			"targetIgnore": 1,
-			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": ""
+			"condition": ""
 		},
 		{
 			"id": 6873701,
@@ -124,10 +97,7 @@
 			"target": 1,
 			"condition": "6873701",
 			"transmitFunction": 1,
-			"targetIgnore": 1,
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": ""
+			"targetIgnore": 1
 		},
 		{
 			"id": 6951201,
@@ -139,9 +109,6 @@
 			"target": 1,
 			"condition": "6951201",
 			"transmitFunction": 1,
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": "",
 			"targetIgnore": 0
 		},
 		{
@@ -151,9 +118,6 @@
 			"shapeParam": [],
 			"target": 0,
 			"condition": "",
-			"effectBeforeTransmit": "",
-			"effectAfterTransmit": "",
-			"resultTransmit": "",
 			"targetIgnore": 0
 		}
 	]

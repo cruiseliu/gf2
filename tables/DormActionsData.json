@@ -7,7 +7,6 @@
 			"clips": "c_Groza_SitbyChairTakeBookFront",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -17,8 +16,7 @@
 			"clips": "c_Groza_SitbyChairReadingIdle",
 			"cycleamount": 10,
 			"expressionName": "",
-			"faceexpression": 0,
-			"sound": ""
+			"faceexpression": 0
 		},
 		{
 			"id": 3,
@@ -27,7 +25,6 @@
 			"clips": "c_Groza_SitbyChairPutDownBookFront",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -37,7 +34,6 @@
 			"clips": "c_Groza_SitbyChairLookAtCamera",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -47,7 +43,6 @@
 			"clips": "c_Groza_SitbyChairLookAtCameraIdle",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -57,7 +52,6 @@
 			"clips": "c_Groza_SitbyChairLookOutCamera",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -67,7 +61,6 @@
 			"clips": "c_Groza_behave_ListenMusic",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -77,7 +70,6 @@
 			"clips": "c_Groza_idle_Stand1ForBlendTree_Facetest",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -87,7 +79,6 @@
 			"clips": "c_Groza_idle_Stand1ForBlendTree",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -97,8 +88,7 @@
 			"clips": "c_Groza_idle_stand1",
 			"cycleamount": 2,
 			"expressionName": "",
-			"faceexpression": 0,
-			"sound": ""
+			"faceexpression": 0
 		},
 		{
 			"id": 3002,
@@ -107,8 +97,7 @@
 			"clips": "c_Groza_idle_SitbyChair",
 			"expressionName": "开心",
 			"faceexpression": 1,
-			"cycleamount": 2,
-			"sound": ""
+			"cycleamount": 2
 		},
 		{
 			"id": 3003,
@@ -117,7 +106,6 @@
 			"clips": "c_Groza_idle_SitbyBed",
 			"expressionName": "开心",
 			"faceexpression": 1,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -127,7 +115,6 @@
 			"clips": "c_Groza_idle_stand2",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -137,7 +124,6 @@
 			"clips": "c_Groza_idle_Stand1LookAtCamera",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -147,7 +133,6 @@
 			"clips": "c_Groza_idle_Stand1LookAtCameraIdle",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -157,7 +142,6 @@
 			"clips": "c_Groza_behave_SitByChairTalk",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -167,7 +151,6 @@
 			"clips": "c_Groza_behave_SitByChairToTalk",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -177,7 +160,6 @@
 			"clips": "c_Groza_behave_bow",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -187,7 +169,6 @@
 			"clips": "c_Groza_behave_KonckWindow",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -197,7 +178,6 @@
 			"clips": "c_Groza_behave_bow1",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -207,7 +187,6 @@
 			"clips": "c_Groza_behave_HairLift",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -217,7 +196,6 @@
 			"clips": "c_Groza_behave_GiftRecieve1",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -227,7 +205,6 @@
 			"clips": "c_Groza_behave_GiftRecieve2",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -237,7 +214,6 @@
 			"clips": "c_Groza_behave_unhappy",
 			"expressionName": "悲伤",
 			"faceexpression": 2,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -247,7 +223,6 @@
 			"clips": "c_Groza_behave_doubt",
 			"expressionName": "惊喜",
 			"faceexpression": 5,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -257,7 +232,6 @@
 			"clips": "c_Groza_behave_sigh",
 			"expressionName": "吃惊",
 			"faceexpression": 4,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -267,7 +241,6 @@
 			"clips": "c_Groza_behave_confuse",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -277,7 +250,6 @@
 			"clips": "c_Groza_behave_smile",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -287,7 +259,6 @@
 			"clips": "c_Groza_behave_think1",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -297,7 +268,6 @@
 			"clips": "c_Groza_behave_think2",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -307,7 +277,6 @@
 			"clips": "c_Groza_idle_SitInToBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -317,7 +286,6 @@
 			"clips": "c_Groza_idle_SitOnBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -327,7 +295,6 @@
 			"clips": "c_Groza_idle_SitOutOnBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -337,7 +304,6 @@
 			"clips": "c_Groza_behave_MontionlessOnbed_1",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -347,7 +313,6 @@
 			"clips": "c_Groza_behave_SitOnBedToMontionlessOnbed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -357,7 +322,6 @@
 			"clips": "c_Groza_behave_MontionlessOnbedToSitOnBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -367,7 +331,6 @@
 			"clips": "c_Groza_behave_ListentoMusic_1",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -377,7 +340,6 @@
 			"clips": "c_Groza_behave_SitOnBedToListentoMusic",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -387,7 +349,6 @@
 			"clips": "c_Groza_behave_ListentoMusicToSitOnBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -397,7 +358,6 @@
 			"clips": "c_Groza_behave_Poster_1",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -407,7 +367,6 @@
 			"clips": "c_Groza_behave_SitOnBedToPoster",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -417,7 +376,6 @@
 			"clips": "c_Groza_behave_PosterToSitOnBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -427,7 +385,6 @@
 			"clips": "c_Groza_behave_inviteOnbed_1",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -437,7 +394,6 @@
 			"clips": "c_Groza_behave_SitOnBedToinviteOnbed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -447,7 +403,6 @@
 			"clips": "c_Groza_behave_inviteOnbedToSitOnBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -457,7 +412,6 @@
 			"clips": "c_Groza_behave_Sleep",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -467,7 +421,6 @@
 			"clips": "c_Groza_behave_SitOnBedToSleep",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -477,7 +430,6 @@
 			"clips": "c_Groza_behave_SleepToSitOnBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -487,7 +439,6 @@
 			"clips": "c_Groza_behave_ShockAwake",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -497,7 +448,6 @@
 			"clips": "c_Groza_SitByChairGetBook",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -507,8 +457,7 @@
 			"clips": "c_Groza_behave_SitByChairPaging",
 			"cycleamount": 3,
 			"expressionName": "",
-			"faceexpression": 0,
-			"sound": ""
+			"faceexpression": 0
 		},
 		{
 			"id": 3103,
@@ -517,7 +466,6 @@
 			"clips": "c_Groza_SitByChairCloseBook",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -527,7 +475,6 @@
 			"clips": "c_Groza_behave_SitByChairReading",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -537,7 +484,6 @@
 			"clips": "c_Groza_behave_LayDownOnBed",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -547,8 +493,7 @@
 			"clips": "c_Groza_behave_SleepIdle",
 			"cycleamount": 10,
 			"expressionName": "",
-			"faceexpression": 0,
-			"sound": ""
+			"faceexpression": 0
 		},
 		{
 			"id": 3107,
@@ -557,7 +502,6 @@
 			"clips": "c_Groza_behave_GetAwake",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -567,7 +511,6 @@
 			"clips": "c_Groza_behave_StretchInDream",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -577,7 +520,6 @@
 			"clips": "c_Groza_behave_SitByChairTakeNote",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -587,7 +529,6 @@
 			"clips": "c_Groza_behave_SitByChairReadScratch",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -597,7 +538,6 @@
 			"clips": "c_Groza_StandTalk1",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		},
 		{
@@ -607,7 +547,6 @@
 			"clips": "c_Groza_Dance",
 			"expressionName": "",
 			"faceexpression": 0,
-			"sound": "",
 			"cycleamount": 0
 		}
 	]

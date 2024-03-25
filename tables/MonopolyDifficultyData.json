@@ -37,18 +37,14 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170001": 100,
+				"25": 20,
 				"200": 10,
-				"25": 20
+				"170001": 100
 			},
 			"maxRewardPoint": 4,
 			"sweepTimes": 10,
 			"frontStageId": 0,
-			"unlockItemNum": {},
-			"unlockDayNum": 0,
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"unlockDayNum": 0
 		},
 		{
 			"id": 102,
@@ -88,22 +84,18 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170007": 1,
-				"170001": 120,
-				"170004": 1,
-				"170003": 1,
 				"25": 20,
 				"200": 10,
+				"170001": 120,
+				"170003": 1,
+				"170004": 1,
+				"170005": 1,
 				"170006": 1,
-				"170005": 1
+				"170007": 1
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"unlockItemNum": {},
-			"unlockDayNum": 0,
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"unlockDayNum": 0
 		},
 		{
 			"id": 103,
@@ -120,8 +112,8 @@
 			"enemyLevel": 28,
 			"frontStageId": 102,
 			"firstRewardItem": {
-				"170001": 300,
-				"22043": 1
+				"22043": 1,
+				"170001": 300
 			},
 			"maxRound": 24,
 			"promptRound": 20,
@@ -144,22 +136,18 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170006": 1,
-				"170001": 140,
-				"170004": 1,
-				"170007": 1,
 				"25": 20,
-				"170005": 1,
 				"200": 10,
-				"170003": 1
+				"170001": 140,
+				"170003": 1,
+				"170004": 1,
+				"170005": 1,
+				"170006": 1,
+				"170007": 1
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"unlockItemNum": {},
-			"unlockDayNum": 0,
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"unlockDayNum": 0
 		},
 		{
 			"id": 201,
@@ -199,22 +187,18 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170001": 160,
-				"170006": 1,
-				"170003": 1,
-				"170005": 1,
 				"25": 20,
-				"170007": 1,
 				"200": 10,
-				"170004": 1
+				"170001": 160,
+				"170003": 1,
+				"170004": 1,
+				"170005": 1,
+				"170006": 1,
+				"170007": 1
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"unlockItemNum": {},
-			"unlockDayNum": 0,
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"unlockDayNum": 0
 		},
 		{
 			"id": 202,
@@ -254,22 +238,18 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170007": 1,
-				"170005": 1,
-				"170003": 1,
 				"25": 20,
 				"200": 10,
 				"170001": 180,
+				"170003": 1,
+				"170004": 1,
+				"170005": 1,
 				"170006": 1,
-				"170004": 1
+				"170007": 1
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"unlockItemNum": {},
-			"unlockDayNum": 0,
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"unlockDayNum": 0
 		},
 		{
 			"id": 203,
@@ -312,20 +292,16 @@
 			"sweepReward": {
 				"25": 20,
 				"200": 10,
-				"170004": 1,
 				"170001": 200,
 				"170003": 1,
-				"170006": 1,
+				"170004": 1,
 				"170005": 1,
+				"170006": 1,
 				"170007": 1
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"unlockItemNum": {},
-			"unlockDayNum": 0,
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"unlockDayNum": 0
 		},
 		{
 			"id": 301,
@@ -366,22 +342,18 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170007": 1,
-				"170001": 220,
-				"170004": 1,
-				"170006": 1,
-				"170003": 1,
-				"170005": 1,
 				"25": 20,
-				"200": 10
+				"200": 10,
+				"170001": 220,
+				"170003": 1,
+				"170004": 1,
+				"170005": 1,
+				"170006": 1,
+				"170007": 1
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"unlockItemNum": {},
-			"unlockDayNum": 0,
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"unlockDayNum": 0
 		},
 		{
 			"id": 102011,
@@ -413,19 +385,15 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170103": 60,
 				"25": 20,
-				"200": 10
+				"200": 10,
+				"170103": 60
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
 			"dropShow": [],
 			"frontStageId": 0,
-			"unlockItemNum": {},
-			"unlockDayNum": 0,
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"unlockDayNum": 0
 		},
 		{
 			"id": 102012,
@@ -460,16 +428,12 @@
 			},
 			"sweepReward": {
 				"25": 20,
-				"170103": 70,
-				"200": 10
+				"200": 10,
+				"170103": 70
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		},
 		{
 			"id": 102013,
@@ -504,17 +468,13 @@
 				"101": 10
 			},
 			"sweepReward": {
+				"25": 20,
 				"200": 10,
-				"170103": 80,
-				"25": 20
+				"170103": 80
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		},
 		{
 			"id": 102021,
@@ -548,17 +508,13 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170103": 90,
 				"25": 20,
-				"200": 10
+				"200": 10,
+				"170103": 90
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		},
 		{
 			"id": 102022,
@@ -592,17 +548,13 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170103": 100,
 				"25": 20,
-				"200": 10
+				"200": 10,
+				"170103": 100
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		},
 		{
 			"id": 102023,
@@ -613,8 +565,8 @@
 			"frontStageId": 102022,
 			"unlockDayNum": 7200,
 			"firstRewardItem": {
-				"170103": 300,
-				"22055": 1
+				"22055": 1,
+				"170103": 300
 			},
 			"maxRound": 12,
 			"promptRound": 8,
@@ -638,16 +590,12 @@
 			},
 			"sweepReward": {
 				"25": 20,
-				"170103": 110,
-				"200": 10
+				"200": 10,
+				"170103": 110
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		},
 		{
 			"id": 102031,
@@ -681,17 +629,13 @@
 				"101": 10
 			},
 			"sweepReward": {
-				"170103": 120,
+				"25": 20,
 				"200": 10,
-				"25": 20
+				"170103": 120
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		},
 		{
 			"id": 102032,
@@ -726,16 +670,12 @@
 			},
 			"sweepReward": {
 				"25": 20,
-				"170103": 130,
-				"200": 10
+				"200": 10,
+				"170103": 130
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		},
 		{
 			"id": 102033,
@@ -770,16 +710,12 @@
 			},
 			"sweepReward": {
 				"25": 20,
-				"170103": 140,
-				"200": 10
+				"200": 10,
+				"170103": 140
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		},
 		{
 			"id": 102034,
@@ -820,11 +756,7 @@
 			},
 			"maxRewardPoint": 8,
 			"sweepTimes": 10,
-			"dropShow": [],
-			"unlockItemNum": {},
-			"rewardItem": {},
-			"roundPoint": 0,
-			"rewardRule": 0
+			"dropShow": []
 		}
 	]
 }

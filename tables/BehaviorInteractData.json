@@ -4,12 +4,9 @@
 			"id": 201,
 			"action": 1,
 			"dialog": "指挥官，你来了",
-			"tag": "",
-			"npcstatement": [],
 			"objectInteract": "",
 			"animationInteract": 0,
-			"dialogId": [],
-			"memo": 0
+			"dialogId": []
 		},
 		{
 			"id": 202,
@@ -20,10 +17,7 @@
 			"dialogId": [
 				200001,
 				200002
-			],
-			"tag": "",
-			"npcstatement": [],
-			"memo": 0
+			]
 		},
 		{
 			"id": 203,
@@ -33,10 +27,7 @@
 			"dialogId": [
 				200003
 			],
-			"tag": "",
-			"npcstatement": [],
-			"dialog": "",
-			"memo": 0
+			"dialog": ""
 		},
 		{
 			"id": 205,
@@ -44,12 +35,9 @@
 			"dialogId": [
 				200004
 			],
-			"tag": "",
-			"npcstatement": [],
 			"objectInteract": "",
 			"animationInteract": 0,
-			"dialog": "",
-			"memo": 0
+			"dialog": ""
 		},
 		{
 			"id": 207,
@@ -59,10 +47,7 @@
 			"dialogId": [
 				200005
 			],
-			"tag": "",
-			"npcstatement": [],
-			"dialog": "",
-			"memo": 0
+			"dialog": ""
 		},
 		{
 			"id": 209,
@@ -70,12 +55,9 @@
 			"dialogId": [
 				200006
 			],
-			"tag": "",
-			"npcstatement": [],
 			"objectInteract": "",
 			"animationInteract": 0,
-			"dialog": "",
-			"memo": 0
+			"dialog": ""
 		},
 		{
 			"id": 211,
@@ -85,10 +67,7 @@
 			"dialogId": [
 				200007
 			],
-			"tag": "",
-			"npcstatement": [],
-			"dialog": "",
-			"memo": 0
+			"dialog": ""
 		}
 	]
 }

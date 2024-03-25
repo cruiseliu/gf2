@@ -1,42 +1,6 @@
 {
 	"data": [
 		{
-			"id": 13,
-			"preparationCountdown": 0,
-			"canReconnect": false,
-			"canReconnectText": 0
-		},
-		{
-			"id": 26,
-			"preparationCountdown": 0,
-			"canReconnect": false,
-			"canReconnectText": 0
-		},
-		{
-			"id": 27,
-			"preparationCountdown": 0,
-			"canReconnect": false,
-			"canReconnectText": 0
-		},
-		{
-			"id": 28,
-			"preparationCountdown": 0,
-			"canReconnect": false,
-			"canReconnectText": 0
-		},
-		{
-			"id": 29,
-			"preparationCountdown": 0,
-			"canReconnect": false,
-			"canReconnectText": 0
-		},
-		{
-			"id": 33,
-			"preparationCountdown": 0,
-			"canReconnect": false,
-			"canReconnectText": 0
-		},
-		{
 			"canReconnect": true,
 			"id": 0,
 			"preparationCountdown": 0,
@@ -52,6 +16,12 @@
 			"id": 12,
 			"canReconnect": true,
 			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 13,
+			"preparationCountdown": 0,
+			"canReconnect": false,
 			"canReconnectText": 0
 		},
 		{
@@ -97,6 +67,30 @@
 			"canReconnectText": 0
 		},
 		{
+			"id": 26,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 27,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 28,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
+			"id": 29,
+			"preparationCountdown": 0,
+			"canReconnect": false,
+			"canReconnectText": 0
+		},
+		{
 			"id": 30,
 			"preparationCountdown": 80,
 			"canReconnect": true,
@@ -112,6 +106,12 @@
 			"id": 32,
 			"canReconnect": true,
 			"preparationCountdown": 0,
+			"canReconnectText": 0
+		},
+		{
+			"id": 33,
+			"preparationCountdown": 0,
+			"canReconnect": false,
 			"canReconnectText": 0
 		},
 		{

@@ -10,19 +10,17 @@
 			"level": 1,
 			"nextLevelOrder": 1002,
 			"section": {
-				"2": 10,
-				"4": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
 				"3": 10,
-				"5": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
 			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -39,17 +37,15 @@
 			},
 			"orderContent": "1:1002",
 			"section": {
+				"1": 10,
+				"2": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10,
 				"5": 10,
-				"2": 10,
 				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -65,18 +61,16 @@
 			},
 			"orderContent": "1:1003",
 			"section": {
+				"1": 10,
 				"2": 10,
-				"5": 10,
-				"6": 10,
-				"4": 10,
 				"3": 10,
-				"1": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -89,17 +83,15 @@
 			"level": 1,
 			"nextLevelOrder": 1012,
 			"section": {
-				"3": 10,
+				"1": 10,
 				"2": 10,
-				"1": 10
+				"3": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderType": 1,
 			"upClass": {},
-			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0
+			"orderContent": ""
 		},
 		{
 			"id": 1012,
@@ -114,17 +106,15 @@
 				"1011": 2
 			},
 			"section": {
-				"4": 10,
+				"1": 10,
 				"2": 10,
 				"3": 10,
-				"1": 10
+				"4": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
 			"orderType": 1,
-			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0
+			"orderContent": ""
 		},
 		{
 			"id": 1013,
@@ -138,20 +128,18 @@
 				"1012": 2
 			},
 			"section": {
-				"2": 10,
-				"4": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
 				"3": 10,
-				"5": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"orderType": 1,
 			"nextLevelOrder": 0,
-			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0
+			"orderContent": ""
 		},
 		{
 			"id": 1021,
@@ -164,18 +152,16 @@
 			"nextLevelOrder": 1022,
 			"orderContent": "1:1011",
 			"section": {
+				"1": 10,
 				"2": 10,
-				"5": 10,
-				"6": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -192,17 +178,15 @@
 			},
 			"orderContent": "1:1012",
 			"section": {
-				"2": 10,
-				"5": 10,
-				"3": 10,
-				"6": 10,
 				"1": 10,
-				"4": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -218,18 +202,16 @@
 			},
 			"orderContent": "1:1013",
 			"section": {
-				"5": 10,
-				"3": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -243,18 +225,16 @@
 			"nextLevelOrder": 1032,
 			"orderContent": "1:1021",
 			"section": {
-				"2": 10,
-				"5": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"6": 10,
-				"3": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -272,16 +252,14 @@
 			"orderContent": "1:1022",
 			"section": {
 				"1": 10,
+				"2": 10,
 				"3": 10,
 				"4": 10,
-				"6": 10,
 				"5": 10,
-				"2": 10
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -297,18 +275,16 @@
 			},
 			"orderContent": "1:1023",
 			"section": {
-				"5": 10,
-				"3": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -322,18 +298,16 @@
 			"nextLevelOrder": 1042,
 			"orderContent": "2:3001",
 			"section": {
-				"4": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
 				"3": 10,
+				"4": 10,
 				"5": 10,
-				"2": 10
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -350,17 +324,15 @@
 			},
 			"orderContent": "2:3002",
 			"section": {
+				"1": 10,
+				"2": 10,
 				"3": 10,
 				"4": 10,
-				"6": 10,
 				"5": 10,
-				"2": 10,
-				"1": 10
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -376,18 +348,16 @@
 			},
 			"orderContent": "2:3003",
 			"section": {
-				"6": 10,
-				"3": 10,
 				"1": 10,
-				"4": 10,
 				"2": 10,
-				"5": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -401,18 +371,16 @@
 			"nextLevelOrder": 1053,
 			"orderContent": "2:2012",
 			"section": {
-				"4": 10,
-				"3": 10,
-				"6": 10,
-				"5": 10,
+				"1": 10,
 				"2": 10,
-				"1": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -428,18 +396,16 @@
 			},
 			"orderContent": "2:2013",
 			"section": {
-				"3": 10,
-				"5": 10,
+				"1": 10,
 				"2": 10,
+				"3": 10,
 				"4": 10,
-				"6": 10,
-				"1": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -454,17 +420,15 @@
 			"orderContent": "2:2021",
 			"section": {
 				"1": 10,
-				"4": 10,
+				"2": 10,
 				"3": 10,
-				"6": 10,
+				"4": 10,
 				"5": 10,
-				"2": 10
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -481,17 +445,15 @@
 			},
 			"orderContent": "2:2022",
 			"section": {
-				"3": 10,
-				"6": 10,
-				"2": 10,
-				"5": 10,
 				"1": 10,
-				"4": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -507,18 +469,16 @@
 			},
 			"orderContent": "2:2023",
 			"section": {
-				"5": 10,
-				"2": 10,
-				"6": 10,
-				"3": 10,
 				"1": 10,
-				"4": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -531,19 +491,17 @@
 			"level": 3,
 			"orderContent": "1:1041",
 			"section": {
-				"4": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
 				"3": 10,
+				"4": 10,
 				"5": 10,
-				"2": 10
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -564,8 +522,6 @@
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -582,17 +538,15 @@
 			},
 			"orderContent": "1:1052",
 			"section": {
-				"6": 10,
-				"3": 10,
-				"4": 10,
 				"1": 10,
 				"2": 10,
-				"5": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -608,18 +562,16 @@
 			},
 			"orderContent": "1:1053",
 			"section": {
-				"3": 10,
 				"1": 10,
-				"6": 10,
-				"4": 10,
 				"2": 10,
-				"5": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -633,18 +585,16 @@
 			"nextLevelOrder": 1092,
 			"orderContent": "1:1061",
 			"section": {
-				"5": 10,
-				"6": 10,
+				"1": 10,
+				"2": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -661,17 +611,15 @@
 			},
 			"orderContent": "1:1062",
 			"section": {
-				"5": 10,
-				"3": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -687,18 +635,16 @@
 			},
 			"orderContent": "1:1063",
 			"section": {
+				"1": 10,
 				"2": 10,
-				"5": 10,
-				"6": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -711,19 +657,17 @@
 			"level": 1,
 			"orderContent": "1:1073",
 			"section": {
-				"4": 10,
-				"2": 10,
-				"5": 10,
-				"3": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
 				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -735,16 +679,14 @@
 			"orderIcon": "Item_Icon_monopoly_order9_1",
 			"level": 1,
 			"section": {
-				"2": 10,
-				"1": 10
+				"1": 10,
+				"2": 10
 			},
 			"sold": 10,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
 			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -763,8 +705,6 @@
 			"nextLevelOrder": 0,
 			"upClass": {},
 			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -783,8 +723,6 @@
 			"nextLevelOrder": 0,
 			"upClass": {},
 			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -803,8 +741,6 @@
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -824,8 +760,6 @@
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -838,16 +772,14 @@
 			"level": 1,
 			"orderContent": "1:2003",
 			"section": {
+				"2": 10,
 				"3": 10,
-				"4": 10,
-				"2": 10
+				"4": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -860,16 +792,14 @@
 			"level": 1,
 			"orderContent": "1:2003",
 			"section": {
+				"3": 10,
 				"4": 10,
-				"5": 10,
-				"3": 10
+				"5": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -890,8 +820,6 @@
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -910,8 +838,6 @@
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -930,8 +856,6 @@
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -944,19 +868,17 @@
 			"level": 1,
 			"orderContent": "2:3002",
 			"section": {
-				"5": 10,
-				"6": 10,
+				"1": 10,
+				"2": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -969,19 +891,17 @@
 			"level": 2,
 			"orderContent": "2:3003",
 			"section": {
-				"5": 10,
-				"2": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"6": 10,
-				"3": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1000,8 +920,6 @@
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1020,8 +938,6 @@
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1034,19 +950,17 @@
 			"level": 3,
 			"orderContent": "2:3004",
 			"section": {
-				"2": 10,
-				"5": 10,
-				"4": 10,
 				"1": 10,
-				"6": 10,
-				"3": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1059,19 +973,17 @@
 			"level": 1,
 			"orderContent": "2:3002",
 			"section": {
-				"4": 10,
 				"1": 10,
-				"5": 10,
 				"2": 10,
-				"6": 10,
-				"3": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1083,20 +995,18 @@
 			"level": 1,
 			"orderContent": "1:9901",
 			"section": {
-				"6": 10,
-				"5": 10,
-				"2": 10,
 				"1": 10,
+				"2": 10,
 				"3": 10,
-				"4": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderClass": 0,
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1108,20 +1018,18 @@
 			"level": 1,
 			"orderContent": "1:1014",
 			"section": {
-				"5": 10,
-				"6": 10,
-				"4": 10,
-				"3": 10,
 				"1": 10,
-				"2": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderClass": 0,
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1134,19 +1042,17 @@
 			"orderContent": "2:9001",
 			"section": {
 				"1": 10,
-				"6": 10,
-				"3": 10,
-				"5": 10,
 				"2": 10,
-				"4": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderClass": 0,
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1158,20 +1064,18 @@
 			"level": 1,
 			"orderContent": "1:9902",
 			"section": {
-				"6": 10,
 				"1": 10,
-				"3": 10,
-				"5": 10,
 				"2": 10,
-				"4": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderClass": 0,
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1183,20 +1087,18 @@
 			"level": 1,
 			"orderContent": "3:1001",
 			"section": {
-				"5": 10,
-				"2": 10,
-				"4": 10,
 				"1": 10,
-				"6": 10,
-				"3": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderClass": 0,
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1208,20 +1110,18 @@
 			"level": 1,
 			"orderContent": "1:9904",
 			"section": {
+				"1": 10,
 				"2": 10,
-				"5": 10,
-				"6": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderClass": 0,
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1233,20 +1133,18 @@
 			"level": 3,
 			"orderContent": "1:1004",
 			"section": {
-				"2": 10,
-				"4": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
 				"3": 10,
-				"5": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"orderClass": 0,
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1258,20 +1156,18 @@
 			"level": 1,
 			"orderContent": "3:1001",
 			"section": {
-				"2": 10,
-				"4": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
 				"3": 10,
-				"5": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderClass": 0,
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1285,18 +1181,16 @@
 			"nextLevelOrder": 121002,
 			"orderContent": "1:1001",
 			"section": {
+				"1": 10,
 				"2": 10,
-				"5": 10,
-				"6": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1313,16 +1207,14 @@
 			},
 			"orderContent": "1:1002",
 			"section": {
-				"3": 10,
 				"2": 10,
-				"6": 10,
+				"3": 10,
+				"4": 10,
 				"5": 10,
-				"4": 10
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1338,16 +1230,14 @@
 			},
 			"orderContent": "1:1003",
 			"section": {
-				"6": 10,
 				"3": 10,
+				"4": 10,
 				"5": 10,
-				"4": 10
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1362,16 +1252,14 @@
 			"section": {
 				"1": 10,
 				"2": 10,
-				"4": 10,
-				"3": 10
+				"3": 10,
+				"4": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"orderType": 1,
 			"upClass": {},
-			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0
+			"orderContent": ""
 		},
 		{
 			"id": 121012,
@@ -1387,17 +1275,15 @@
 			},
 			"section": {
 				"1": 10,
-				"4": 10,
 				"2": 10,
-				"5": 10,
-				"3": 10
+				"3": 10,
+				"4": 10,
+				"5": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
 			"orderType": 1,
-			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0
+			"orderContent": ""
 		},
 		{
 			"id": 121013,
@@ -1411,20 +1297,18 @@
 				"121012": 2
 			},
 			"section": {
-				"5": 10,
-				"2": 10,
-				"4": 10,
 				"1": 10,
-				"6": 10,
-				"3": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"orderType": 1,
 			"nextLevelOrder": 0,
-			"orderContent": "",
-			"minMove": 0,
-			"maxMove": 0
+			"orderContent": ""
 		},
 		{
 			"id": 121021,
@@ -1437,18 +1321,16 @@
 			"nextLevelOrder": 121022,
 			"orderContent": "1:1012",
 			"section": {
-				"5": 10,
-				"2": 10,
 				"1": 10,
-				"4": 10,
+				"2": 10,
 				"3": 10,
+				"4": 10,
+				"5": 10,
 				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1465,17 +1347,15 @@
 			},
 			"orderContent": "1:1015",
 			"section": {
-				"2": 10,
-				"4": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
 				"3": 10,
-				"5": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1491,18 +1371,16 @@
 			},
 			"orderContent": "1:1016",
 			"section": {
-				"5": 10,
+				"1": 10,
 				"2": 10,
 				"3": 10,
-				"6": 10,
 				"4": 10,
-				"1": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1516,18 +1394,16 @@
 			"nextLevelOrder": 121032,
 			"orderContent": "1:1062",
 			"section": {
-				"5": 10,
+				"1": 10,
 				"2": 10,
-				"6": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1544,17 +1420,15 @@
 			},
 			"orderContent": "1:1064",
 			"section": {
-				"2": 10,
-				"4": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
 				"3": 10,
-				"5": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1570,18 +1444,16 @@
 			},
 			"orderContent": "1:1065",
 			"section": {
-				"6": 10,
-				"3": 10,
-				"5": 10,
+				"1": 10,
 				"2": 10,
+				"3": 10,
 				"4": 10,
-				"1": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1595,18 +1467,16 @@
 			"nextLevelOrder": 121042,
 			"orderContent": "1:1021",
 			"section": {
-				"2": 10,
-				"4": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
 				"3": 10,
-				"5": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1623,17 +1493,15 @@
 			},
 			"orderContent": "1:1022",
 			"section": {
-				"5": 10,
-				"2": 10,
-				"4": 10,
 				"1": 10,
-				"6": 10,
-				"3": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1649,18 +1517,16 @@
 			},
 			"orderContent": "1:1023",
 			"section": {
-				"2": 10,
-				"5": 10,
-				"3": 10,
-				"6": 10,
 				"1": 10,
-				"4": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1674,18 +1540,16 @@
 			"nextLevelOrder": 121052,
 			"orderContent": "2:3002",
 			"section": {
-				"4": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
 				"3": 10,
+				"4": 10,
 				"5": 10,
-				"2": 10
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1703,16 +1567,14 @@
 			"orderContent": "2:3003",
 			"section": {
 				"1": 10,
-				"4": 10,
-				"3": 10,
-				"6": 10,
 				"2": 10,
-				"5": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1728,18 +1590,16 @@
 			},
 			"orderContent": "2:3004",
 			"section": {
-				"2": 10,
-				"4": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
 				"3": 10,
-				"5": 10
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1753,18 +1613,16 @@
 			"nextLevelOrder": 121063,
 			"orderContent": "1:1052",
 			"section": {
-				"4": 10,
-				"3": 10,
-				"6": 10,
+				"1": 10,
 				"2": 10,
+				"3": 10,
+				"4": 10,
 				"5": 10,
-				"1": 10
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1780,18 +1638,16 @@
 			},
 			"orderContent": "1:1053",
 			"section": {
-				"6": 10,
-				"5": 10,
-				"2": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"3": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1805,18 +1661,16 @@
 			"nextLevelOrder": 121072,
 			"orderContent": "2:2021",
 			"section": {
-				"5": 10,
-				"3": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1834,16 +1688,14 @@
 			"orderContent": "2:2022",
 			"section": {
 				"1": 10,
-				"4": 10,
-				"6": 10,
-				"3": 10,
 				"2": 10,
-				"5": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1859,18 +1711,16 @@
 			},
 			"orderContent": "2:2023",
 			"section": {
+				"1": 10,
+				"2": 10,
 				"3": 10,
 				"4": 10,
-				"6": 10,
 				"5": 10,
-				"2": 10,
-				"1": 10
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1884,18 +1734,16 @@
 			"nextLevelOrder": 121083,
 			"orderContent": "2:2012",
 			"section": {
-				"6": 10,
-				"3": 10,
-				"4": 10,
 				"1": 10,
 				"2": 10,
-				"5": 10
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1911,18 +1759,16 @@
 			},
 			"orderContent": "2:2013",
 			"section": {
-				"2": 10,
-				"5": 10,
-				"3": 10,
 				"1": 10,
-				"6": 10,
-				"4": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1936,18 +1782,16 @@
 			"orderContent": "1:1041",
 			"section": {
 				"1": 10,
-				"4": 10,
 				"2": 10,
-				"5": 10,
 				"3": 10,
+				"4": 10,
+				"5": 10,
 				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1960,19 +1804,17 @@
 			"level": 3,
 			"orderContent": "1:1073",
 			"section": {
-				"5": 10,
-				"2": 10,
-				"4": 10,
-				"6": 10,
 				"1": 10,
-				"3": 10
+				"2": 10,
+				"3": 10,
+				"4": 10,
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -1986,18 +1828,16 @@
 			"nextLevelOrder": 121113,
 			"orderContent": "1:1081",
 			"section": {
-				"4": 10,
 				"1": 10,
-				"6": 10,
+				"2": 10,
 				"3": 10,
+				"4": 10,
 				"5": 10,
-				"2": 10
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -2013,18 +1853,16 @@
 			},
 			"orderContent": "1:1082",
 			"section": {
-				"5": 10,
-				"3": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -2038,18 +1876,16 @@
 			"nextLevelOrder": 121122,
 			"orderContent": "1:1091",
 			"section": {
-				"5": 10,
-				"3": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 15,
 			"orderDesc2": "",
 			"upClass": {},
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -2066,17 +1902,15 @@
 			},
 			"orderContent": "1:1092",
 			"section": {
+				"1": 10,
 				"2": 10,
-				"6": 10,
 				"3": 10,
 				"4": 10,
-				"1": 10,
-				"5": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 30,
 			"orderDesc2": "",
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		},
 		{
@@ -2092,18 +1926,16 @@
 			},
 			"orderContent": "1:1093",
 			"section": {
-				"5": 10,
-				"3": 10,
-				"6": 10,
 				"1": 10,
+				"2": 10,
+				"3": 10,
 				"4": 10,
-				"2": 10
+				"5": 10,
+				"6": 10
 			},
 			"sold": 60,
 			"orderDesc2": "",
 			"nextLevelOrder": 0,
-			"minMove": 0,
-			"maxMove": 0,
 			"orderType": 0
 		}
 	]

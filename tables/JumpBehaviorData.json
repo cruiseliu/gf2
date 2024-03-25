@@ -259,12 +259,6 @@
 			"unlockId": 0
 		},
 		{
-			"id": 1701,
-			"jumpScene": "UAVhanger",
-			"jumpPrefab": "UIUAVPanel",
-			"unlockId": 0
-		},
-		{
 			"id": 1801,
 			"jumpScene": "CommandCenter",
 			"jumpPrefab": "UIMailPanelV2",
@@ -383,12 +377,6 @@
 			"jumpScene": "CommandCenter",
 			"jumpPrefab": "ArchivesCenterEnterPanelV2",
 			"unlockId": 20000
-		},
-		{
-			"id": 2301,
-			"jumpScene": "CommandCenter",
-			"jumpPrefab": "UIDailyCheckInPanel",
-			"unlockId": 26002
 		},
 		{
 			"id": 2401,

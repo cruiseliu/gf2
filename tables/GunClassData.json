@@ -21,9 +21,9 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8329": 8,
+				"2": 2000,
 				"8328": 6,
-				"2": 2000
+				"8329": 8
 			},
 			"propertyId": 10000101
 		},
@@ -50,8 +50,8 @@
 			"gunLevelMax": 50,
 			"itemCost": {
 				"2": 12000,
-				"8331": 5,
-				"8330": 12
+				"8330": 12,
+				"8331": 5
 			},
 			"propertyId": 10000103
 		},
@@ -73,8 +73,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -86,8 +86,8 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8328": 6,
 				"2": 2000,
+				"8328": 6,
 				"8329": 8
 			},
 			"propertyId": 10000201
@@ -100,8 +100,8 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8329": 16,
 				"2": 4000,
+				"8329": 16,
 				"8330": 8
 			},
 			"propertyId": 10000202
@@ -114,9 +114,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
+				"2": 12000,
 				"8330": 12,
-				"8331": 5,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10000203
 		},
@@ -138,8 +138,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -151,8 +151,8 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8328": 6,
 				"2": 2000,
+				"8328": 6,
 				"8329": 8
 			},
 			"propertyId": 10000301
@@ -165,8 +165,8 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8329": 16,
 				"2": 4000,
+				"8329": 16,
 				"8330": 8
 			},
 			"propertyId": 10000302
@@ -217,8 +217,8 @@
 			"gunLevelMax": 30,
 			"itemCost": {
 				"2": 2000,
-				"8329": 8,
-				"8328": 6
+				"8328": 6,
+				"8329": 8
 			},
 			"propertyId": 10000401
 		},
@@ -230,9 +230,9 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
+				"2": 4000,
 				"8329": 16,
-				"8330": 8,
-				"2": 4000
+				"8330": 8
 			},
 			"propertyId": 10000402
 		},
@@ -244,9 +244,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
-				"8331": 5,
+				"2": 12000,
 				"8330": 12,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10000403
 		},
@@ -268,8 +268,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -281,9 +281,9 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8329": 8,
 				"2": 2000,
-				"8328": 6
+				"8328": 6,
+				"8329": 8
 			},
 			"propertyId": 10000501
 		},
@@ -295,8 +295,8 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8329": 16,
 				"2": 4000,
+				"8329": 16,
 				"8330": 8
 			},
 			"propertyId": 10000502
@@ -309,9 +309,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
-				"8331": 5,
+				"2": 12000,
 				"8330": 12,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10000503
 		},
@@ -375,8 +375,8 @@
 			"gunLevelMax": 50,
 			"itemCost": {
 				"2": 12000,
-				"8331": 5,
-				"8330": 12
+				"8330": 12,
+				"8331": 5
 			},
 			"propertyId": 10000603
 		},
@@ -398,8 +398,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -425,8 +425,8 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8329": 16,
 				"2": 4000,
+				"8329": 16,
 				"8330": 8
 			},
 			"propertyId": 10000702
@@ -439,9 +439,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
-				"8331": 5,
+				"2": 12000,
 				"8330": 12,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10000703
 		},
@@ -463,8 +463,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -490,9 +490,9 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8330": 8,
+				"2": 4000,
 				"8329": 16,
-				"2": 4000
+				"8330": 8
 			},
 			"propertyId": 10000802
 		},
@@ -504,9 +504,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
+				"2": 12000,
 				"8330": 12,
-				"8331": 5,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10000803
 		},
@@ -528,8 +528,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -541,8 +541,8 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8328": 6,
 				"2": 2000,
+				"8328": 6,
 				"8329": 8
 			},
 			"propertyId": 10000901
@@ -555,9 +555,9 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8330": 8,
+				"2": 4000,
 				"8329": 16,
-				"2": 4000
+				"8330": 8
 			},
 			"propertyId": 10000902
 		},
@@ -593,8 +593,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -620,9 +620,9 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8330": 8,
+				"2": 4000,
 				"8329": 16,
-				"2": 4000
+				"8330": 8
 			},
 			"propertyId": 10001002
 		},
@@ -634,9 +634,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
+				"2": 12000,
 				"8330": 12,
-				"8331": 5,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10001003
 		},
@@ -658,8 +658,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -671,9 +671,9 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8329": 8,
 				"2": 2000,
-				"8328": 6
+				"8328": 6,
+				"8329": 8
 			},
 			"propertyId": 10001101
 		},
@@ -685,8 +685,8 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8329": 16,
 				"2": 4000,
+				"8329": 16,
 				"8330": 8
 			},
 			"propertyId": 10001102
@@ -699,9 +699,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
+				"2": 12000,
 				"8330": 12,
-				"8331": 5,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10001103
 		},
@@ -723,8 +723,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -736,9 +736,9 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8329": 8,
+				"2": 2000,
 				"8328": 6,
-				"2": 2000
+				"8329": 8
 			},
 			"propertyId": 10001201
 		},
@@ -750,8 +750,8 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8329": 16,
 				"2": 4000,
+				"8329": 16,
 				"8330": 8
 			},
 			"propertyId": 10001202
@@ -764,9 +764,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
-				"8331": 5,
+				"2": 12000,
 				"8330": 12,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10001203
 		},
@@ -788,8 +788,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -801,9 +801,9 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8329": 8,
+				"2": 2000,
 				"8328": 6,
-				"2": 2000
+				"8329": 8
 			},
 			"propertyId": 10001301
 		},
@@ -829,9 +829,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
-				"8331": 5,
+				"2": 12000,
 				"8330": 12,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10001303
 		},
@@ -866,8 +866,8 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8328": 6,
 				"2": 2000,
+				"8328": 6,
 				"8329": 8
 			},
 			"propertyId": 10001401
@@ -894,8 +894,8 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
-				"8330": 12,
 				"2": 12000,
+				"8330": 12,
 				"8331": 5
 			},
 			"propertyId": 10001403
@@ -918,8 +918,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -946,8 +946,8 @@
 			"gunLevelMax": 40,
 			"itemCost": {
 				"2": 4000,
-				"8330": 8,
-				"8329": 16
+				"8329": 16,
+				"8330": 8
 			},
 			"propertyId": 10001502
 		},
@@ -959,9 +959,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
+				"2": 12000,
 				"8330": 12,
-				"8331": 5,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10001503
 		},
@@ -983,8 +983,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -997,8 +997,8 @@
 			"gunLevelMax": 30,
 			"itemCost": {
 				"2": 2000,
-				"8329": 8,
-				"8328": 6
+				"8328": 6,
+				"8329": 8
 			},
 			"propertyId": 10001601
 		},
@@ -1010,9 +1010,9 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
+				"2": 4000,
 				"8329": 16,
-				"8330": 8,
-				"2": 4000
+				"8330": 8
 			},
 			"propertyId": 10001602
 		},
@@ -1061,9 +1061,9 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8329": 8,
 				"2": 2000,
-				"8328": 6
+				"8328": 6,
+				"8329": 8
 			},
 			"propertyId": 10001701
 		},
@@ -1076,8 +1076,8 @@
 			"gunLevelMax": 40,
 			"itemCost": {
 				"2": 4000,
-				"8330": 8,
-				"8329": 16
+				"8329": 16,
+				"8330": 8
 			},
 			"propertyId": 10001702
 		},
@@ -1113,8 +1113,8 @@
 			"icon": "Img_Mental_number_1",
 			"gunLevelMax": 20,
 			"itemCost": {
-				"8328": 4,
-				"2": 1000
+				"2": 1000,
+				"8328": 4
 			},
 			"propertyId": 99999999
 		},
@@ -1127,8 +1127,8 @@
 			"gunLevelMax": 30,
 			"itemCost": {
 				"2": 2000,
-				"8329": 8,
-				"8328": 6
+				"8328": 6,
+				"8329": 8
 			},
 			"propertyId": 10001801
 		},
@@ -1140,9 +1140,9 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8330": 8,
 				"2": 4000,
-				"8329": 16
+				"8329": 16,
+				"8330": 8
 			},
 			"propertyId": 10001802
 		},
@@ -1154,9 +1154,9 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
-				"8331": 5,
+				"2": 12000,
 				"8330": 12,
-				"2": 12000
+				"8331": 5
 			},
 			"propertyId": 10001803
 		},
@@ -1191,8 +1191,8 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8328": 6,
 				"2": 2000,
+				"8328": 6,
 				"8329": 8
 			},
 			"propertyId": 10001901
@@ -1206,8 +1206,8 @@
 			"gunLevelMax": 40,
 			"itemCost": {
 				"2": 4000,
-				"8330": 8,
-				"8329": 16
+				"8329": 16,
+				"8330": 8
 			},
 			"propertyId": 10001902
 		},
@@ -1219,8 +1219,8 @@
 			"icon": "Img_Mental_number_4",
 			"gunLevelMax": 50,
 			"itemCost": {
-				"8330": 12,
 				"2": 12000,
+				"8330": 12,
 				"8331": 5
 			},
 			"propertyId": 10001903
@@ -1256,9 +1256,9 @@
 			"icon": "Img_Mental_number_2",
 			"gunLevelMax": 30,
 			"itemCost": {
-				"8329": 8,
 				"2": 2000,
-				"8328": 6
+				"8328": 6,
+				"8329": 8
 			},
 			"propertyId": 10002001
 		},
@@ -1270,8 +1270,8 @@
 			"icon": "Img_Mental_number_3",
 			"gunLevelMax": 40,
 			"itemCost": {
-				"8329": 16,
 				"2": 4000,
+				"8329": 16,
 				"8330": 8
 			},
 			"propertyId": 10002002
@@ -1285,8 +1285,8 @@
 			"gunLevelMax": 50,
 			"itemCost": {
 				"2": 12000,
-				"8331": 5,
-				"8330": 12
+				"8330": 12,
+				"8331": 5
 			},
 			"propertyId": 10002003
 		},

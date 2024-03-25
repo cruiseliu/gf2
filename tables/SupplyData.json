@@ -8,8 +8,6 @@
 			"propertySkillDes": "较低规格的粒子蓄能器，适合偏好束流攻击的作战单位使用。可额外造成目标最大生命值10%的伤害。",
 			"resPath": "Icon_Supply_Special_1",
 			"type": 0,
-			"propertySkillId": [],
-			"condition": [],
 			"autoBuyCofig": 0
 		},
 		{
@@ -20,9 +18,7 @@
 			"resPath": "Icon_Supply_Special_2",
 			"autoBuyCofig": 10,
 			"type": 0,
-			"isNormalSupply": false,
-			"propertySkillId": [],
-			"condition": []
+			"isNormalSupply": false
 		},
 		{
 			"id": 80011,
@@ -32,8 +28,6 @@
 			"isNormalSupply": true,
 			"propertySkillDes": "较低规格的粒子蓄能器，装配上它，武器火力就能大幅提升。\n配置后，提升自身造成伤害的5%。",
 			"resPath": "Icon_Supply_Physical_1",
-			"propertySkillId": [],
-			"condition": [],
 			"autoBuyCofig": 0
 		},
 		{
@@ -44,9 +38,7 @@
 			"propertySkillDes": "能够提供更高浓度覆膜的粒子蓄能器，装配上它，武器火力就能大幅提升。\n配置后，提升自身造成伤害的10%。",
 			"resPath": "Icon_Supply_Physical_2",
 			"autoBuyCofig": 10,
-			"isNormalSupply": false,
-			"propertySkillId": [],
-			"condition": []
+			"isNormalSupply": false
 		},
 		{
 			"id": 80021,
@@ -56,8 +48,6 @@
 			"isNormalSupply": true,
 			"propertySkillDes": "较低规格的粒子蓄能器，适合偏好离子攻击的作战单位使用。为作战单位提供15点离子削减。",
 			"resPath": "Icon_Supply_Magical_1",
-			"propertySkillId": [],
-			"condition": [],
 			"autoBuyCofig": 0
 		},
 		{
@@ -68,9 +58,7 @@
 			"propertySkillDes": "能够提供更高浓度覆膜的粒子蓄能器，适合偏好离子攻击的作战单位使用。为作战单位提供30点离子削减。",
 			"resPath": "Icon_Supply_Magical_2",
 			"autoBuyCofig": 10,
-			"isNormalSupply": false,
-			"propertySkillId": [],
-			"condition": []
+			"isNormalSupply": false
 		},
 		{
 			"id": 80031,
@@ -80,9 +68,7 @@
 			"propertySkillDes": "较低规格的稳态粒子蓄能器，装配上它，能更高效地将敌方单位打入稳态崩溃。\n配置后，提升作战单位自身造成稳态指数削减量的15%。",
 			"resPath": "Icon_Supply_Suppress_1",
 			"autoBuyCofig": 10,
-			"isNormalSupply": false,
-			"propertySkillId": [],
-			"condition": []
+			"isNormalSupply": false
 		},
 		{
 			"id": 80032,
@@ -92,9 +78,7 @@
 			"propertySkillDes": "能够提供更高浓度覆膜的粒子蓄能器，装配上它，能更高效地将敌方单位打入稳态崩溃。\n配置后，提升作战单位造成稳态指数削减量的30%。",
 			"resPath": "Icon_Supply_Suppress_2",
 			"autoBuyCofig": 10,
-			"isNormalSupply": false,
-			"propertySkillId": [],
-			"condition": []
+			"isNormalSupply": false
 		}
 	]
 }

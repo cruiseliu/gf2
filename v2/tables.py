@@ -61,12 +61,15 @@ def decode_table(path: Path, strings: dict[int, str] | None) -> dict | None:
 
     table_obj = DataTableClass.to_dict(table_msg)
 
-    primary_key = None
+    first_obj = table_obj['data'][0]
+    n = len(table_obj['data'])
+    primary_key = next(iter(first_obj.keys()))
+    key_used = {key: bool(value) or n <= 1 for key, value in first_obj.items()}
+
     for msg, obj in zip(table_msg.data, table_obj['data']):
-        keys = list(obj.keys())
-        if primary_key is None:
-            primary_key = keys[0]
-        for key in keys:
+        for key in obj.keys():
+            if not key_used[key] and obj[key] != first_obj[key]:
+                key_used[key] = True
             field = getattr(msg, key)
             if isinstance(field, declarations.LanguageStringData) and strings is not None:
                 obj[key] = strings[int(field.id)]
@@ -74,6 +77,18 @@ def decode_table(path: Path, strings: dict[int, str] | None) -> dict | None:
                 # we don't really care the order
                 # sort them for easier diff
                 obj[key] = dict(sorted(zip(field.key, field.value)))
+            if type(field).__name__ == 'ScalarMapContainer':
+                if field:
+                    k0 = next(iter(field.keys()))
+                    if isinstance(k0, int):
+                        obj[key] = {int(k): v for k, v in obj[key].items()}
+                    obj[key] = dict(sorted(field.items()))
+
+    unused_keys = [key for key, used in key_used.items() if not used and key != primary_key]
+    if unused_keys:
+        for obj in table_obj['data']:
+            for key in unused_keys:
+                obj.pop(key)
 
     if isinstance(table_obj['data'][0][primary_key], (int, str)):
         table_obj['data'] = sorted(table_obj['data'], key=(lambda obj: obj[primary_key]))
@@ -88,4 +103,5 @@ def decode_table(path: Path, strings: dict[int, str] | None) -> dict | None:
 
 if __name__ == '__main__':
     config.table_output_dirs = [Path(__file__).parents[1] / 'tables']
+    #config.table_output_dirs = [config.table_output_dirs[0]]
     decode_tables()

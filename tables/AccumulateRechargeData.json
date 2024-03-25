@@ -8,9 +8,7 @@
 			"actionInteract": [
 				11
 			],
-			"sum": 0,
-			"rewardItem": {},
-			"desc": ""
+			"sum": 0
 		},
 		{
 			"id": 2,
@@ -21,9 +19,7 @@
 			"actionInteract": [
 				15,
 				21
-			],
-			"rewardItem": {},
-			"desc": ""
+			]
 		},
 		{
 			"id": 3,
@@ -32,9 +28,7 @@
 				22,
 				25
 			],
-			"rewardItem": {},
-			"actionBuy": [],
-			"desc": ""
+			"actionBuy": []
 		},
 		{
 			"id": 4,
@@ -43,9 +37,7 @@
 				26,
 				35
 			],
-			"rewardItem": {},
-			"actionBuy": [],
-			"desc": ""
+			"actionBuy": []
 		},
 		{
 			"id": 5,
@@ -56,9 +48,7 @@
 			"actionInteract": [
 				1,
 				30
-			],
-			"rewardItem": {},
-			"desc": ""
+			]
 		},
 		{
 			"id": 6,
@@ -69,9 +59,7 @@
 			"actionInteract": [
 				29,
 				31
-			],
-			"rewardItem": {},
-			"desc": ""
+			]
 		},
 		{
 			"id": 7,
@@ -79,9 +67,7 @@
 			"actionInteract": [
 				37
 			],
-			"rewardItem": {},
-			"actionBuy": [],
-			"desc": ""
+			"actionBuy": []
 		}
 	]
 }

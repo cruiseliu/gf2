@@ -223,7 +223,7 @@ def get_skill_upgrade_info(skill_id: int) -> str:
     display = Tables.BattleSkillDisplayData[skill_id]
     return format_skill_desc(display['upgradeDescription'])
 
-def format_skill_desc(desc: str) -> str:
+def format_skill_desc(desc: str | int) -> str:
     if isinstance(desc, int):
         desc = Tables.BattleSkillDisplayData[desc]['description']
 
@@ -247,6 +247,11 @@ def format_skill_desc(desc: str) -> str:
     #for line in lines[1:]:
     #    assert line.startswith('{{'), desc
     #return lines[0]
+
+def format_skill_brief_desc(desc: int | str) -> str:
+    if isinstance(desc, int):
+        desc = Tables.BattleSkillDisplayData[desc]['description']
+    return format_skill_upgrade_desc(desc)
 
 def format_skill_upgrade_desc(desc: int | str) -> str:
     lines = desc.split('\n')

@@ -53,8 +53,8 @@
 			"darkzoneMonsterBattle": "80:120",
 			"darkzoneDailyquestFinishLimit": 3,
 			"questAcceptLimit": {
-				"2": 1,
-				"1": 1
+				"1": 1,
+				"2": 1
 			},
 			"questRefresh": 3,
 			"matchBagSurplusLattice": 5,
@@ -200,17 +200,17 @@
 				"3": 1
 			},
 			"dzGlobalWarnDecreaseByEnemyType": {
-				"3": 50,
-				"2": 25
+				"2": 25,
+				"3": 50
 			},
 			"dzPlayerRootmotionBaseSpeed": 400,
 			"dzBuffReason": {
-				"5": 903499,
 				"0": 903494,
-				"3": 903497,
 				"1": 903495,
+				"2": 903496,
+				"3": 903497,
 				"4": 903498,
-				"2": 903496
+				"5": 903499
 			},
 			"dzCameraDragX": 400,
 			"dzCameraDragY": 400,

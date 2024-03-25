@@ -9,16 +9,12 @@
 			"moveCode": 1,
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6201201,
@@ -29,16 +25,12 @@
 			"moveCode": 1,
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6214201,
@@ -53,12 +45,8 @@
 			"effectCollision": "Skill/6213101_Hit_001",
 			"effectCollisionPoint": "104",
 			"drop": 0,
-			"blindageBreak": 0,
 			"collisionPlayer": 0,
-			"resultCollisionCover": "",
-			"resultDrop": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"resultCollisionCover": ""
 		},
 		{
 			"id": 6214202,
@@ -70,15 +58,11 @@
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
 			"effectTypeTarget": 1,
-			"blindageBreak": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6246601,
@@ -93,12 +77,8 @@
 			"resultCollisionCover": "1,1,pow,500,2,0,0,2,0,0,0,,32",
 			"effectCollision": "Skill/BluntWeapons_ATK01_Hit_white",
 			"effectCollisionPoint": "104",
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
-			"resultDrop": "",
-			"displacementId": 0,
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"displacementId": 0
 		},
 		{
 			"id": 6313101,
@@ -110,15 +90,11 @@
 			"collisionEnemy": 1,
 			"effectTypeTarget": 1,
 			"drop": 0,
-			"blindageBreak": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6410201,
@@ -129,16 +105,12 @@
 			"moveCode": 1,
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6443201,
@@ -154,11 +126,7 @@
 			"effectCollision": "Skill/6213101_Hit_001",
 			"effectCollisionPoint": "104",
 			"drop": 0,
-			"blindageBreak": 0,
-			"resultDrop": "",
-			"displacementId": 0,
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"displacementId": 0
 		},
 		{
 			"id": 6481402,
@@ -169,16 +137,12 @@
 			"moveCode": 1,
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6482402,
@@ -189,16 +153,12 @@
 			"moveCode": 1,
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6853212,
@@ -212,13 +172,9 @@
 			"effectCollision": "Skill/BluntWeapons_ATK01_Hit_white",
 			"effectCollisionPoint": "104",
 			"drop": 0,
-			"blindageBreak": 0,
 			"collisionPlayer": 0,
 			"resultCollisionCover": "",
-			"resultDrop": "",
-			"displacementId": 0,
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"displacementId": 0
 		},
 		{
 			"id": 6853312,
@@ -229,16 +185,12 @@
 			"moveCode": 1,
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6857301,
@@ -252,13 +204,9 @@
 			"effectCollision": "Skill/6857401_BeHit",
 			"effectCollisionPoint": "104",
 			"drop": 0,
-			"blindageBreak": 0,
 			"collisionPlayer": 0,
 			"resultCollisionCover": "",
-			"resultDrop": "",
-			"displacementId": 0,
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"displacementId": 0
 		},
 		{
 			"id": 6871101,
@@ -269,16 +217,12 @@
 			"moveCode": 1,
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 6951101,
@@ -289,16 +233,12 @@
 			"moveCode": 1,
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 10010401,
@@ -310,15 +250,11 @@
 			"effectCollision": "Skill/6213101_Hit_001",
 			"effectCollisionPoint": "104",
 			"drop": 0,
-			"blindageBreak": 0,
 			"collisionPlayer": 0,
 			"collisionEnemy": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
-			"resultCollisionCover": "",
-			"resultDrop": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"resultCollisionCover": ""
 		},
 		{
 			"id": 10010501,
@@ -330,15 +266,11 @@
 			"effectTypeTarget": 2,
 			"resultUnitTarget": "1,1,pow,1000,0,0,0,0,0,0,0,0",
 			"drop": 0,
-			"blindageBreak": 0,
 			"collisionPlayer": 0,
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 10080701,
@@ -349,16 +281,12 @@
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
 			"drop": 0,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 10130501,
@@ -369,16 +297,12 @@
 			"effectCollision": "Skill/10130501_FallSmoke",
 			"effectCollisionPoint": "109",
 			"drop": 0,
-			"blindageBreak": 0,
 			"collisionPlayer": 0,
 			"collisionEnemy": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
-			"displacementId": 0,
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"displacementId": 0
 		},
 		{
 			"id": 10130511,
@@ -389,16 +313,12 @@
 			"effectCollision": "Skill/10130501_FallSmoke",
 			"effectCollisionPoint": "109",
 			"drop": 0,
-			"blindageBreak": 0,
 			"collisionPlayer": 0,
 			"collisionEnemy": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
-			"displacementId": 0,
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"displacementId": 0
 		},
 		{
 			"id": 10150401,
@@ -409,16 +329,12 @@
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
 			"drop": 0,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 10150501,
@@ -429,16 +345,12 @@
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
 			"drop": 0,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 10150511,
@@ -449,16 +361,12 @@
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
 			"drop": 0,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 10210701,
@@ -469,16 +377,12 @@
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
 			"drop": 0,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 10210711,
@@ -489,16 +393,12 @@
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
 			"drop": 0,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 10290511,
@@ -509,16 +409,12 @@
 			"collisionPlayer": 1,
 			"collisionEnemy": 1,
 			"drop": 0,
-			"blindageBreak": 0,
 			"effectTypeTarget": 0,
 			"resultUnitTarget": "",
 			"resultCollisionCover": "",
-			"resultDrop": "",
 			"displacementId": 0,
 			"effectCollision": "",
-			"effectCollisionPoint": "",
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"effectCollisionPoint": ""
 		},
 		{
 			"id": 63153101,
@@ -534,11 +430,7 @@
 			"resultCollisionCover": "1,1,pow,500,2,0,0,2,0,0,0,,32",
 			"effectCollision": "Skill/BluntWeapons_ATK01_Hit_white",
 			"effectCollisionPoint": "104",
-			"blindageBreak": 0,
-			"resultDrop": "",
-			"displacementId": 0,
-			"effectTrailing": "",
-			"effectTrailingPoint": ""
+			"displacementId": 0
 		}
 	]
 }

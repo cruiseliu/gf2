@@ -22,20 +22,14 @@
 				15
 			],
 			"chapterRewardShow": {
+				"1": 12,
 				"2": 12,
-				"3": 12,
-				"1": 12
+				"3": 12
 			},
 			"unlockPercentage": "0,50,100;",
 			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
 			"chapterReward": "9006:8,9012:1|9006:10,9012:2|9006:12,9012:2",
 			"uidExp": 20,
-			"level": 0,
-			"chapterSweepsSwitch": 0,
-			"sweepsTimes": 0,
-			"chapterReward1": {},
-			"chapterReward2": {},
-			"chapterReward3": {},
 			"preChapter": 0
 		},
 		{
@@ -60,21 +54,15 @@
 				15
 			],
 			"chapterRewardShow": {
-				"3": 12,
+				"1": 12,
 				"2": 12,
-				"1": 12
+				"3": 12
 			},
 			"preChapter": 101,
 			"unlockPercentage": "0,50,100;",
 			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
 			"chapterReward": "9007:8,9012:1|9007:10,9012:2|9007:12,9012:2",
-			"uidExp": 20,
-			"level": 0,
-			"chapterSweepsSwitch": 0,
-			"sweepsTimes": 0,
-			"chapterReward1": {},
-			"chapterReward2": {},
-			"chapterReward3": {}
+			"uidExp": 20
 		},
 		{
 			"id": 103,
@@ -98,21 +86,15 @@
 				15
 			],
 			"chapterRewardShow": {
-				"2": 12,
 				"1": 12,
+				"2": 12,
 				"3": 12
 			},
 			"preChapter": 102,
 			"unlockPercentage": "0,50,100;",
 			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
 			"chapterReward": "9008:15,9012:1|9008:20,9012:2|9008:25,9012:2",
-			"uidExp": 20,
-			"level": 0,
-			"chapterSweepsSwitch": 0,
-			"sweepsTimes": 0,
-			"chapterReward1": {},
-			"chapterReward2": {},
-			"chapterReward3": {}
+			"uidExp": 20
 		},
 		{
 			"id": 104,
@@ -137,20 +119,14 @@
 			],
 			"chapterRewardShow": {
 				"1": 12,
-				"3": 12,
-				"2": 12
+				"2": 12,
+				"3": 12
 			},
 			"preChapter": 103,
 			"unlockPercentage": "0,50,100;",
 			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
 			"chapterReward": "9009:25,9012:1|9009:30,9012:2|9009:45,9012:2",
-			"uidExp": 20,
-			"level": 0,
-			"chapterSweepsSwitch": 0,
-			"sweepsTimes": 0,
-			"chapterReward1": {},
-			"chapterReward2": {},
-			"chapterReward3": {}
+			"uidExp": 20
 		},
 		{
 			"id": 105,
@@ -174,21 +150,15 @@
 				15
 			],
 			"chapterRewardShow": {
-				"3": 12,
+				"1": 12,
 				"2": 12,
-				"1": 12
+				"3": 12
 			},
 			"preChapter": 104,
 			"unlockPercentage": "0,50,100;",
 			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
 			"chapterReward": "9010:30,9012:1|9010:40,9012:2|9010:50,9012:2",
-			"uidExp": 20,
-			"level": 0,
-			"chapterSweepsSwitch": 0,
-			"sweepsTimes": 0,
-			"chapterReward1": {},
-			"chapterReward2": {},
-			"chapterReward3": {}
+			"uidExp": 20
 		},
 		{
 			"id": 106,
@@ -220,13 +190,7 @@
 			"unlockPercentage": "0,50,100;",
 			"mapBackground": "Img_ChapterBg_1,Img_ChapterBg_2,Img_ChapterBg_3",
 			"chapterReward": "9011:30,9012:1|9011:40,9012:2|9011:50,9012:2",
-			"uidExp": 20,
-			"level": 0,
-			"chapterSweepsSwitch": 0,
-			"sweepsTimes": 0,
-			"chapterReward1": {},
-			"chapterReward2": {},
-			"chapterReward3": {}
+			"uidExp": 20
 		}
 	]
 }

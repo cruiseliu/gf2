@@ -7,9 +7,9 @@
 				"101": 10
 			},
 			"questReward": {
-				"170012": 200,
+				"25": 20,
 				"200": 10,
-				"25": 20
+				"170012": 200
 			},
 			"questRewardShow": [
 				170012,
@@ -40,14 +40,14 @@
 			"questPic1": "ActivityCafe/Item_Icon_Cafe_Qulity_1",
 			"questPic2": "Icon/Item/Item_Icon_ActivityCafe_Latte_Package",
 			"darkzoneEnemies": {
-				"6855": 3,
-				"6852": 3,
 				"6851": 3,
-				"6854": 3,
-				"6857": 3,
-				"90008": 3,
+				"6852": 3,
 				"6853": 3,
-				"6856": 3
+				"6854": 3,
+				"6855": 3,
+				"6856": 3,
+				"6857": 3,
+				"90008": 3
 			},
 			"activityRewardshow": [
 				170015
@@ -60,7 +60,6 @@
 			"checkHint": 271314,
 			"frontQuest": 0,
 			"firstQuestReward": {},
-			"pointPlan": 0,
 			"resultShow": []
 		},
 		{
@@ -75,9 +74,9 @@
 			},
 			"questReward": {
 				"25": 20,
+				"200": 10,
 				"170011": 300,
-				"170012": 300,
-				"200": 10
+				"170012": 300
 			},
 			"questRewardShow": [
 				170012,
@@ -109,14 +108,14 @@
 			"questPic1": "ActivityCafe/Item_Icon_Cafe_Qulity_1",
 			"questPic2": "Icon/Item/Item_Icon_ActivityCafe_Coconut_Package",
 			"darkzoneEnemies": {
-				"6852": 3,
-				"6856": 3,
 				"6851": 3,
-				"6854": 3,
-				"90008": 3,
+				"6852": 3,
 				"6853": 3,
+				"6854": 3,
+				"6855": 3,
+				"6856": 3,
 				"6857": 3,
-				"6855": 3
+				"90008": 3
 			},
 			"activityRewardshow": [
 				170016
@@ -127,7 +126,6 @@
 			"sweepControl": true,
 			"taskCheck": 10111,
 			"checkHint": 271315,
-			"pointPlan": 0,
 			"resultShow": []
 		},
 		{
@@ -138,10 +136,10 @@
 				"101": 10
 			},
 			"questReward": {
-				"170012": 400,
+				"25": 20,
 				"200": 10,
-				"170013": 300,
-				"25": 20
+				"170012": 400,
+				"170013": 300
 			},
 			"questRewardShow": [
 				170012,
@@ -176,13 +174,13 @@
 			"questPic1": "ActivityCafe/Item_Icon_Cafe_Qulity_1",
 			"questPic2": "Icon/Item/Item_Icon_ActivityCafe_Shining_Package",
 			"darkzoneEnemies": {
-				"6854": 3,
 				"6851": 3,
-				"6857": 3,
+				"6852": 3,
 				"6853": 3,
+				"6854": 3,
 				"6855": 3,
 				"6856": 3,
-				"6852": 3,
+				"6857": 3,
 				"90008": 3
 			},
 			"activityRewardshow": [
@@ -194,8 +192,7 @@
 			"sweepControl": true,
 			"taskCheck": 10117,
 			"checkHint": 271316,
-			"firstQuestReward": {},
-			"pointPlan": 0
+			"firstQuestReward": {}
 		},
 		{
 			"questId": 2003,
@@ -208,10 +205,10 @@
 				"22047": 1
 			},
 			"questReward": {
+				"25": 20,
 				"200": 10,
 				"170011": 500,
-				"170012": 500,
-				"25": 20
+				"170012": 500
 			},
 			"questRewardShow": [
 				170012,
@@ -246,14 +243,14 @@
 			"questPic1": "ActivityCafe/Item_Icon_Cafe_Qulity_1",
 			"questPic2": "Icon/Item/Item_Icon_ActivityCafe_Cheese_Package",
 			"darkzoneEnemies": {
-				"6856": 3,
-				"6854": 3,
-				"6853": 3,
-				"6857": 3,
-				"6855": 3,
-				"90008": 3,
 				"6851": 3,
-				"6852": 3
+				"6852": 3,
+				"6853": 3,
+				"6854": 3,
+				"6855": 3,
+				"6856": 3,
+				"6857": 3,
+				"90008": 3
 			},
 			"activityRewardshow": [
 				170018
@@ -263,8 +260,7 @@
 			],
 			"sweepControl": true,
 			"taskCheck": 10123,
-			"checkHint": 271317,
-			"pointPlan": 0
+			"checkHint": 271317
 		},
 		{
 			"questId": 3001,
@@ -274,8 +270,8 @@
 				"101": 10
 			},
 			"questReward": {
-				"200": 10,
 				"25": 20,
+				"200": 10,
 				"170012": 600,
 				"170013": 500
 			},
@@ -312,14 +308,14 @@
 			"questPic1": "ActivityCafe/Item_Icon_Cafe_Qulity_1",
 			"questPic2": "Icon/Item/Item_Icon_ActivityCafe_Summer_Package",
 			"darkzoneEnemies": {
-				"6852": 3,
 				"6851": 3,
-				"6854": 3,
-				"6857": 3,
-				"90008": 3,
+				"6852": 3,
 				"6853": 3,
+				"6854": 3,
+				"6855": 3,
 				"6856": 3,
-				"6855": 3
+				"6857": 3,
+				"90008": 3
 			},
 			"activityRewardshow": [
 				170019
@@ -330,8 +326,7 @@
 			"sweepControl": true,
 			"taskCheck": 10129,
 			"checkHint": 271318,
-			"firstQuestReward": {},
-			"pointPlan": 0
+			"firstQuestReward": {}
 		},
 		{
 			"questId": 3003,
@@ -344,11 +339,11 @@
 				"22048": 1
 			},
 			"questReward": {
+				"25": 20,
+				"200": 10,
 				"170011": 800,
 				"170012": 800,
-				"170013": 800,
-				"200": 10,
-				"25": 20
+				"170013": 800
 			},
 			"questRewardShow": [
 				170012,
@@ -386,14 +381,14 @@
 			"questPic1": "ActivityCafe/Item_Icon_Cafe_Qulity_1",
 			"questPic2": "Icon/Item/Item_Icon_ActivityCafe_Macchiato_Package",
 			"darkzoneEnemies": {
-				"6854": 3,
 				"6851": 3,
-				"6857": 3,
+				"6852": 3,
 				"6853": 3,
-				"6856": 3,
-				"90008": 3,
+				"6854": 3,
 				"6855": 3,
-				"6852": 3
+				"6856": 3,
+				"6857": 3,
+				"90008": 3
 			},
 			"activityRewardshow": [
 				170020
@@ -402,7 +397,6 @@
 				2
 			],
 			"sweepControl": true,
-			"pointPlan": 0,
 			"taskCheck": 0,
 			"checkHint": 0
 		}

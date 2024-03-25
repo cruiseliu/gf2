@@ -415,12 +415,12 @@
 				30
 			],
 			"propertyPercentMap": {
-				"suppress_value_percent": "suppress_value",
-				"max_shield_hp_percent": "max_shield_hp",
 				"max_hp_percent": "max_hp",
-				"shield_armor_percent": "shield_armor",
+				"max_shield_hp_percent": "max_shield_hp",
+				"max_will_value_percent": "max_will_value",
 				"pow_percent": "pow",
-				"max_will_value_percent": "max_will_value"
+				"shield_armor_percent": "shield_armor",
+				"suppress_value_percent": "suppress_value"
 			},
 			"pvpLimitMax": 25,
 			"pvpLimitCoefficient": 0.5,

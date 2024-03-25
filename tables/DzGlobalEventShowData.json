@@ -14,15 +14,12 @@
 			"effectOut": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
 			"effectOutTime": 5000,
 			"effectContinue": {
-				"2": 1,
-				"1": 1
+				"1": 1,
+				"2": 1
 			},
 			"descShow": "事件开始后，坍塌辐射浓度将会骤增，对我方人形造成损伤。",
-			"sceneEff": "",
 			"timelinePos": "",
-			"timeline": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0
+			"timeline": ""
 		},
 		{
 			"id": 1002,
@@ -35,12 +32,9 @@
 			"time": -1,
 			"descShow": "事件开始，意味着我方踏入了危险地带，危机指数上升速度将明显提升。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -56,12 +50,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -77,12 +68,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -98,12 +86,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -119,12 +104,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -147,11 +129,8 @@
 				"2": 1
 			},
 			"descShow": "事件开始后，温度将急剧升高，地表变得滚烫，停在原地将对我方人形造成损伤。",
-			"sceneEff": "",
 			"timelinePos": "",
-			"timeline": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0
+			"timeline": ""
 		},
 		{
 			"id": 1008,
@@ -164,12 +143,9 @@
 			"time": -1,
 			"descShow": "事件开始后，能见度会因风沙干扰明显下降，我方人形视野范围也将因此缩小。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -187,10 +163,7 @@
 			"timeline": "Assets/ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_UAV_01/Animations/Dz_dio_UAV_01.prefab",
 			"descShow": "事件开始后，B.R.I.E.F.将利用无人机空投补给，我方可前往拾取。",
 			"afterEff": "",
-			"sceneEff": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -206,12 +179,9 @@
 			"time": -1,
 			"descShow": "事件开始后，大量有毒气体将积聚形成毒性气团，一旦碰触，将对我方人形造成损伤。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -227,12 +197,9 @@
 			"time": -1,
 			"descShow": "事件开始后，敌方单位将对周围的风吹草动更加敏感，觉察速度明显增加。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -255,11 +222,8 @@
 				"2": 1
 			},
 			"descShow": "事件开始后，坍塌辐射浓度将会骤增，对我方人形造成损伤。",
-			"sceneEff": "",
 			"timelinePos": "",
-			"timeline": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0
+			"timeline": ""
 		},
 		{
 			"id": 2002,
@@ -272,12 +236,9 @@
 			"time": -1,
 			"descShow": "事件开始，意味着我方踏入了危险地带，危机指数上升速度将明显提升。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -293,12 +254,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -314,12 +272,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -335,12 +290,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -356,12 +308,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -384,11 +333,8 @@
 				"2": 1
 			},
 			"descShow": "事件开始后，温度将急剧升高，地表变得滚烫，停在原地将对我方人形造成损伤。",
-			"sceneEff": "",
 			"timelinePos": "",
-			"timeline": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0
+			"timeline": ""
 		},
 		{
 			"id": 2008,
@@ -401,12 +347,9 @@
 			"time": -1,
 			"descShow": "事件开始后，能见度会因风沙干扰明显下降，我方人形视野范围也将因此缩小。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -424,10 +367,7 @@
 			"timeline": "Assets/ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_UAV_01/Animations/Dz_dio_UAV_01.prefab",
 			"descShow": "事件开始后，B.R.I.E.F.将利用无人机空投补给，我方可前往拾取。",
 			"afterEff": "",
-			"sceneEff": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -443,12 +383,9 @@
 			"time": -1,
 			"descShow": "事件开始后，大量有毒气体将积聚形成毒性气团，一旦碰触，将对我方人形造成损伤。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -464,12 +401,9 @@
 			"time": -1,
 			"descShow": "事件开始后，敌方单位将对周围的风吹草动更加敏感，觉察速度明显增加。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -492,11 +426,8 @@
 				"2": 1
 			},
 			"descShow": "事件开始后，坍塌辐射浓度将会骤增，对我方人形造成损伤。",
-			"sceneEff": "",
 			"timelinePos": "",
-			"timeline": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0
+			"timeline": ""
 		},
 		{
 			"id": 3002,
@@ -509,12 +440,9 @@
 			"time": -1,
 			"descShow": "事件开始，意味着我方踏入了危险地带，危机指数上升速度将明显提升。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -530,12 +458,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -551,12 +476,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -572,12 +494,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -593,12 +512,9 @@
 			"time": -1,
 			"descShow": "",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -621,11 +537,8 @@
 				"2": 1
 			},
 			"descShow": "事件开始后，温度将急剧升高，地表变得滚烫，停在原地将对我方人形造成损伤。",
-			"sceneEff": "",
 			"timelinePos": "",
-			"timeline": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0
+			"timeline": ""
 		},
 		{
 			"id": 3008,
@@ -638,12 +551,9 @@
 			"time": -1,
 			"descShow": "事件开始后，能见度会因风沙干扰明显下降，我方人形视野范围也将因此缩小。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -661,10 +571,7 @@
 			"timeline": "Assets/ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_UAV_01/Animations/Dz_dio_UAV_01.prefab",
 			"descShow": "事件开始后，B.R.I.E.F.将利用无人机空投补给，我方可前往拾取。",
 			"afterEff": "",
-			"sceneEff": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -680,12 +587,9 @@
 			"time": -1,
 			"descShow": "事件开始后，大量有毒气体将积聚形成毒性气团，一旦碰触，将对我方人形造成损伤。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
@@ -701,12 +605,9 @@
 			"time": -1,
 			"descShow": "事件开始后，敌方单位将对周围的风吹草动更加敏感，觉察速度明显增加。",
 			"afterEff": "",
-			"sceneEff": "",
 			"timelinePos": "",
 			"timeline": "",
 			"effectIn": "",
-			"inToLoopTime": 0,
-			"loopToOutTime": 0,
 			"effectOut": "",
 			"effectOutTime": 0,
 			"effectContinue": {}
