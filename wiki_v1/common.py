@@ -8,6 +8,7 @@ __all__ = [
     'sort_dolls',
 
     'Path',
+    'TypedDict',
     'math',
 ]
 
@@ -16,6 +17,7 @@ import json
 import math
 from pathlib import Path
 import re
+from typing import TypedDict
 
 tables_dir = Path(__file__).parents[1] / 'tables'
 

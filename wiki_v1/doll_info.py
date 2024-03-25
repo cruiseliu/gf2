@@ -43,7 +43,7 @@ def main():
         print('|class=' + Tables.GunDutyData[doll['duty']]['name'])
         print('|weapon=' + Tables.GunWeaponTypeData[doll['weaponType']]['name'])
         print('|quality=' + str(doll['rank']))
-        print('|pool=常驻')
+        print('|pool=限定')
         print('|move=' + str(move))
         print('|range=' + str(range_))
         print('|attack_type=' + types)
@@ -62,5 +62,64 @@ def main():
         #print(desc[-18])
         #print(desc[-17])
         #print(desc[-16])
+
+from stats import get_doll_stats
+
+def format_doll_info(doll: int | dict) -> list[str]:
+    if isinstance(doll, int):
+        doll_id = doll
+    else:
+        doll_id = doll['id']
+
+    doll = Tables.GunData[doll_id]
+    char = Tables.GunCharacterData[doll['characterId']]
+
+    stats = get_doll_stats(doll, level=1)
+    move = stats['move']
+
+    skills = get_doll_skills(doll)
+    range_ = skills[0]['range_dist']
+
+    ammo_types = set()
+    elem_types = set()
+    for skill in skills:
+        if skill['ammo_type']:
+            ammo_types.add(skill['ammo_type'])
+        if skill['elem_type']:
+            elem_types.add(skill['elem_type'])
+    types = sorted(ammo_types) + sorted(elem_types)
+    types = '{{' + '}}<br>{{'.join(types) + '}}'
+
+    weak_ammo = Tables.WeaponTagData[int(doll['weakWeaponTag'])]['name']
+    weak_elem = Tables.LanguageElementData[int(doll['weakTag'])]['name']
+    weak = '{{' + weak_ammo + '}}<br>{{' + weak_elem + '}}'
+
+    print()
+    print(doll['name'])
+    print()
+
+        print('==角色==')
+        print('===信息===')
+        print('{{doll_info')
+        print('|code=' + doll['code'])
+        print('|name=' + doll['name'])
+        print('|nickname=')
+        print('|class=' + Tables.GunDutyData[doll['duty']]['name'])
+        print('|weapon=' + Tables.GunWeaponTypeData[doll['weaponType']]['name'])
+        print('|quality=' + str(doll['rank']))
+        print('|pool=限定')
+        print('|move=' + str(move))
+        print('|range=' + str(range_))
+        print('|attack_type=' + types)
+        print('|weak_type=' + weak)
+        print('|cv_cn=' + char['cvCn'])
+        print('|cv_jp=' + char['cvJp'])
+        print('|doll_type=' + char['bodyId'])
+        print('|weapon_type=' + char['brand'])
+        print('|affiliation=' + char['belong'])
+        print('|desc=' + char['charInfo'].replace('', ''))
+        print('|color=' + char['color'][:6])
+        print('}}')
+
 
 main()
