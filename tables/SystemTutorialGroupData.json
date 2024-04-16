@@ -1688,6 +1688,49 @@
 			"finishCondition": 0,
 			"finishConditionList": [],
 			"finishGroup": []
+		},
+		{
+			"id": 4701,
+			"priority": 4701,
+			"timing": 5201,
+			"lastTutorialGroup": [],
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": []
+		},
+		{
+			"id": 4702,
+			"lastTutorialGroup": [
+				4701
+			],
+			"priority": 4702,
+			"timing": 5204,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": []
+		},
+		{
+			"id": 4703,
+			"lastTutorialGroup": [
+				4702
+			],
+			"priority": 4703,
+			"timing": 5202,
+			"condition": [],
+			"clientCondition": [],
+			"globalTab": 0,
+			"tabPaths": [],
+			"finishCondition": 0,
+			"finishConditionList": [],
+			"finishGroup": []
 		}
 	]
 }

@@ -271,6 +271,142 @@
 				"9009": 3,
 				"190007": 2
 			}
+		},
+		{
+			"id": 1017,
+			"type": 1,
+			"name": "累计消耗情报拼图60个",
+			"rewardItem": {
+				"190008": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"link": "1098",
+			"rewardItemSort": {
+				"190008": 1
+			}
+		},
+		{
+			"id": 1018,
+			"type": 1,
+			"name": "累计消耗宝藏线索1次",
+			"rewardItem": {
+				"190008": 1
+			},
+			"conditionClass": 2,
+			"conditionNum": 1,
+			"rewardItemSort": {
+				"190008": 1
+			},
+			"link": ""
+		},
+		{
+			"id": 1019,
+			"type": 1,
+			"name": "在补给作战中获胜2次",
+			"rewardItem": {
+				"190008": 1
+			},
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"link": "1098",
+			"rewardItemSort": {
+				"190008": 1
+			}
+		},
+		{
+			"id": 1020,
+			"type": 1,
+			"name": "在危境奇遇中进行游戏1次",
+			"rewardItem": {
+				"190008": 1
+			},
+			"conditionClass": 1200,
+			"conditionNum": 1,
+			"link": "16101",
+			"rewardItemSort": {
+				"190008": 1
+			}
+		},
+		{
+			"id": 1021,
+			"type": 3,
+			"name": "在危境奇遇中累计进行游戏2次",
+			"rewardItem": {
+				"1": 20,
+				"2": 1000,
+				"9008": 5,
+				"190008": 2
+			},
+			"conditionClass": 1200,
+			"conditionNum": 2,
+			"link": "16101",
+			"rewardItemSort": {
+				"1": 20,
+				"2": 1000,
+				"9008": 5,
+				"190008": 2
+			}
+		},
+		{
+			"id": 1022,
+			"type": 3,
+			"name": "在危境奇遇中累计进行游戏4次",
+			"rewardItem": {
+				"1": 20,
+				"2": 1000,
+				"9008": 5,
+				"190008": 2
+			},
+			"conditionClass": 1200,
+			"conditionNum": 4,
+			"link": "16101",
+			"rewardItemSort": {
+				"1": 20,
+				"2": 1000,
+				"9008": 5,
+				"190008": 2
+			}
+		},
+		{
+			"id": 1023,
+			"type": 3,
+			"name": "在危境奇遇中累计进行游戏6次",
+			"rewardItem": {
+				"1": 20,
+				"2": 1000,
+				"9009": 2,
+				"190008": 2
+			},
+			"conditionClass": 1200,
+			"conditionNum": 6,
+			"link": "16101",
+			"rewardItemSort": {
+				"1": 20,
+				"2": 1000,
+				"9009": 2,
+				"190008": 2
+			}
+		},
+		{
+			"id": 1024,
+			"type": 3,
+			"name": "在危境奇遇中累计进行游戏8次",
+			"rewardItem": {
+				"1": 20,
+				"2": 1000,
+				"9009": 3,
+				"190008": 2
+			},
+			"conditionClass": 1200,
+			"conditionNum": 8,
+			"link": "16101",
+			"rewardItemSort": {
+				"1": 20,
+				"2": 1000,
+				"9009": 3,
+				"190008": 2
+			}
 		}
 	]
 }

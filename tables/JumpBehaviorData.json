@@ -37,6 +37,12 @@
 			"unlockId": 0
 		},
 		{
+			"id": 201,
+			"jumpScene": "CommandCenter",
+			"jumpPrefab": "UIGravityJumpEnterPanel",
+			"unlockId": 0
+		},
+		{
 			"id": 833,
 			"jumpScene": "CommandCenter",
 			"jumpPrefab": "UIDarkZoneQuestPanel",
@@ -45,7 +51,7 @@
 		{
 			"id": 925,
 			"jumpScene": "CommandCenter",
-			"jumpPrefab": "UIRecentActivityPanel",
+			"jumpPrefab": "RecentActivitiePanelV2",
 			"unlockId": 0
 		},
 		{
@@ -259,6 +265,12 @@
 			"unlockId": 0
 		},
 		{
+			"id": 1701,
+			"jumpScene": "UAVhanger",
+			"jumpPrefab": "UIUAVPanel",
+			"unlockId": 0
+		},
+		{
 			"id": 1801,
 			"jumpScene": "CommandCenter",
 			"jumpPrefab": "UIMailPanelV2",
@@ -379,6 +391,12 @@
 			"unlockId": 20000
 		},
 		{
+			"id": 2301,
+			"jumpScene": "CommandCenter",
+			"jumpPrefab": "UIDailyCheckInPanel",
+			"unlockId": 26002
+		},
+		{
 			"id": 2401,
 			"jumpScene": "CommandCenter",
 			"jumpPrefab": "UIActivityCafeMainPanel",
@@ -388,6 +406,12 @@
 			"id": 2600,
 			"jumpScene": "CommandCenter",
 			"jumpPrefab": "UIDarkzoneModeCarrierPanel",
+			"unlockId": 29301
+		},
+		{
+			"id": 2701,
+			"jumpScene": "CommandCenter",
+			"jumpPrefab": "UIActivityThemeBMainPanel",
 			"unlockId": 29301
 		},
 		{

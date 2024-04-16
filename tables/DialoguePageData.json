@@ -8544,7 +8544,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "祂举起的烛火，未曾照亮此处。",
+			"text": "请伊默尔大人为迷途者降下救赎。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8562,7 +8562,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "即便身处黑暗，祂也将庇佑纯真的信奉者。",
+			"text": "听从祂的启示，祂将赐予光芒。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8616,7 +8616,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "敌人数量正在增多，不过目标尚无逃离的迹象！",
+			"text": "敌人来了一大堆，不过目标还没跑！",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8688,11 +8688,29 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "哈？这里是二级平层！？确定没有接入错误？",
+			"text": "哈？这里真是二级平层！？真没接错？",
 			"pcText": "",
 			"consoleText": "",
-			"delay": 0.5,
-			"finishPage": 1
+			"delay": 0.0,
+			"finishPage": 0
+		},
+		{
+			"id": 1080201002,
+			"group": 1080201,
+			"name": "闪电",
+			"avatar": "Avatar_Head_GrozaSR",
+			"avatarFemale": "Avatar_Head_GrozaSR",
+			"textPosition": [
+				1,
+				60,
+				215
+			],
+			"textDifference": "0",
+			"text": "确认无误，保持警惕。",
+			"pcText": "",
+			"consoleText": "",
+			"finishPage": 1,
+			"delay": 0.0
 		},
 		{
 			"id": 1080202001,
@@ -8724,7 +8742,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "开始入侵妮特心智。",
+			"text": "已成功阻断敌方攻势，准备开始侵入妮特心智。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8778,7 +8796,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "先回艾莫号吧，即将断开二级平层映射。",
+			"text": "先离开这里。即将断开二级平层映射。",
 			"pcText": "",
 			"consoleText": "",
 			"finishPage": 1,
@@ -8796,7 +8814,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "遵从祂的指引，在此等待您的归来。",
+			"text": "遵从祂的指引，在此等待您的归来。安帕利塔！",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8832,7 +8850,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "嗯，解决掉高威胁的敌人后立即撤离，注意安全。",
+			"text": "嗯，解决掉高威胁性敌人后立即撤离。注意安全。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8850,7 +8868,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "指挥官，我们已经抵达目标附近聚居点。",
+			"text": "指挥官，我们已经抵达目标附近的居住点。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8868,7 +8886,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "按原定计划执行，收集足够数量的帕拉蒂斯徒从服装，预备伪装潜入。",
+			"text": "按原计划行动，收集足够的徒从服装，准备伪装潜入。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8922,7 +8940,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "（纳语：都怪某些暴力狂下手没轻重）",
+			"text": "……崩乱的巨岩，随雷鸣滚落，撕裂……",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8958,7 +8976,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "我不砍翻他们，难不成那帮疯子会主动脱下来送你？",
+			"text": "不砍翻他们，难道要让他们主动把衣服送过来啊？",
 			"pcText": "",
 			"consoleText": "",
 			"finishPage": 1,
@@ -8976,7 +8994,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "好吧，注意安全。",
+			"text": "……继续收集，注意安全。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -8994,7 +9012,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "又是这个乱七八糟的二级平层！",
+			"text": "怎么又是这个乱七八糟的二级平层！",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -9030,7 +9048,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "嗯。但二级平层似乎加强了防卫等级。",
+			"text": "嗯。但这里的防卫等级有明显提升，注意警戒。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.0,
@@ -9084,7 +9102,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "啊——！",
+			"text": "呃！",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -9120,7 +9138,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "纳美西丝，我们一起掩护寇尔芙撤离。",
+			"text": "纳美西丝，一起掩护寇尔芙撤离。",
 			"pcText": "",
 			"consoleText": "",
 			"finishPage": 1,
@@ -9138,7 +9156,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "（纳语：寇尔芙比海伦娜还需要照顾）",
+			"text": "……冗余的蚁群，消逝……",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -9156,7 +9174,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "队长，海伦娜睡死了，需要我支援么？！",
+			"text": "队长，海伦娜睡着了叫不醒，不然我把她放地上去支援你们？要吗？",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -9192,7 +9210,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "闪电，无人机预计会在0015后抵达目标区域。",
+			"text": "闪电，无人机预计在0015后抵达出口位置。",
 			"pcText": "",
 			"consoleText": "",
 			"finishPage": 1,
@@ -9210,7 +9228,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "收到，无人机抵达前，我们会抵达目标区域并尽可能肃清敌人。",
+			"text": "收到。无人机抵达前，我们会前往目标区域，并尽可能消灭敌人。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -9246,7 +9264,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "闪电，发现敌人了么？",
+			"text": "闪电，发现敌人没？",
 			"pcText": "",
 			"consoleText": "",
 			"finishPage": 1,
@@ -9264,7 +9282,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "是帕拉蒂斯的追兵。",
+			"text": "发现帕拉蒂斯追兵。",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,
@@ -9282,7 +9300,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "以及……六分仪！",
+			"text": "前方出现强烈干扰，全员，注意警戒！",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.0,
@@ -9300,7 +9318,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "棘手的家伙……已你们目前的状况，能应对么？",
+			"text": "来了棘手的家伙？能应对吗？",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.0,
@@ -9318,7 +9336,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "没有十足的把握。",
+			"text": "我们……会尽力解决。",
 			"pcText": "",
 			"consoleText": "",
 			"finishPage": 1,
@@ -9336,7 +9354,7 @@
 				215
 			],
 			"textDifference": "0",
-			"text": "敌方发起进攻了！",
+			"text": "敌方发起进攻，各单位注意，准备作战！",
 			"pcText": "",
 			"consoleText": "",
 			"delay": 0.5,

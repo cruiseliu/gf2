@@ -167,35 +167,54 @@
 		},
 		{
 			"targetGroupId": 1121,
-			"targetGroupDesc": "找到并消灭伊柏",
+			"targetGroupDesc": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
 			"targetList": [
-				112101
+				112101,
+				112102
 			]
 		},
 		{
 			"targetGroupId": 1122,
-			"targetGroupDesc": "找到并消灭伊柏",
+			"targetGroupDesc": "消灭敌方单位纵火者，找到撤离信号站，完成撤离。",
 			"targetList": [
-				112201
+				112201,
+				112202
 			]
 		},
 		{
 			"targetGroupId": 1123,
-			"targetGroupDesc": "消灭纵火者与六分仪",
+			"targetGroupDesc": "找到撤离信号站，完成撤离。",
 			"targetList": [
-				112301
+				112301,
+				112302
 			]
 		},
 		{
 			"targetGroupId": 1124,
-			"targetGroupDesc": "找到并消灭堡垒泰坦",
+			"targetGroupDesc": "消灭指定敌方单位震荡泰坦后，找到撤离信号站，完成撤离。",
 			"targetList": [
-				112401
+				112401,
+				112402
+			]
+		},
+		{
+			"targetGroupId": 1125,
+			"targetGroupDesc": "消灭指定敌方单位穴居狼蛛后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				112501,
+				112502
+			]
+		},
+		{
+			"targetGroupId": 1127,
+			"targetGroupDesc": "消灭指定敌方单位震荡泰坦后，找到撤离信号站，完成撤离。",
+			"targetList": [
+				112701
 			]
 		},
 		{
 			"targetGroupId": 1165,
-			"targetGroupDesc": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
+			"targetGroupDesc": "消灭敌方单位黑眼·弃形后，找到撤离信号站，完成撤离。",
 			"targetList": [
 				116501
 			]

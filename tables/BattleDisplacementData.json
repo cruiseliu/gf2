@@ -431,6 +431,38 @@
 			"effectCollision": "Skill/BluntWeapons_ATK01_Hit_white",
 			"effectCollisionPoint": "104",
 			"displacementId": 0
+		},
+		{
+			"id": 63480701,
+			"type": 1,
+			"relative": 1,
+			"distance": 200,
+			"drop": 1,
+			"moveCode": 1,
+			"collisionPlayer": 1,
+			"collisionEnemy": 1,
+			"effectTypeTarget": 0,
+			"resultUnitTarget": "",
+			"resultCollisionCover": "",
+			"displacementId": 0,
+			"effectCollision": "",
+			"effectCollisionPoint": ""
+		},
+		{
+			"id": 103504111,
+			"type": 1,
+			"relative": 1,
+			"distance": 100,
+			"moveCode": 1,
+			"collisionPlayer": 1,
+			"collisionEnemy": 1,
+			"drop": 0,
+			"effectTypeTarget": 0,
+			"resultUnitTarget": "",
+			"resultCollisionCover": "",
+			"displacementId": 0,
+			"effectCollision": "",
+			"effectCollisionPoint": ""
 		}
 	]
 }

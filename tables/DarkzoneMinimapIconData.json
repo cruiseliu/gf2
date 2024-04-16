@@ -342,14 +342,14 @@
 			"id": 27,
 			"icon": "Icon_DarkzoneMap_Mask18",
 			"iconName": "运载机",
-			"iconVisible": true,
 			"iconAbovefog": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "",
-			"iconSort": 2
+			"iconSort": 2,
+			"iconVisible": false
 		},
 		{
 			"id": 28,
@@ -394,13 +394,13 @@
 			"id": 31,
 			"icon": "Icon_DarkzoneMap_Mask24",
 			"iconName": "机械维修桩",
-			"iconVisible": true,
 			"iconAbovefog": true,
 			"iconVisiableZoom": [
 				0,
 				10
 			],
 			"iconDesc": "",
+			"iconVisible": false,
 			"iconSort": 0
 		},
 		{

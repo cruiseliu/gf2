@@ -2543,7 +2543,7 @@
 			],
 			"icon": "Combat_GunTypeIcon_1",
 			"description": "基础阶级，通过提升阶级来使人形的技能升级。",
-			"btPath": "BT/GunBT/1025/MainBT_1025.bt",
+			"btPath": "BT/GunBT/1025/MainBT_1025_new.bt",
 			"costPiece": 0,
 			"capacity": 0.0
 		},
@@ -2561,7 +2561,7 @@
 			"description": "解锁 星隙闪烁lv2\n星辰的无序变化，预示着灾难的降临。选取周围半径9格内的1个地格目标，行动时，纳美西丝·变星将出现在该地格上。若当前导染指数大于等于140，则选取距离自身最近的1个敌方目标，为其施加失控效果。技能释放结束后，纳美西丝·变星将获得1次<color=#3487e0>行动追加</color>。",
 			"costPiece": 30,
 			"capacity": 0.05,
-			"btPath": "BT/GunBT/1025/MainBT_1025.bt"
+			"btPath": "BT/GunBT/1025/MainBT_1025_new.bt"
 		},
 		{
 			"id": 102503,
@@ -2577,7 +2577,7 @@
 			"description": "解锁 弹道预测lv1\n出现在镜中的模糊身影，是棱镜给与的指引。对自身施加<color=#3487e0>补充输出I</color>效果。\n\n<color=#3487e0>补充输出I</color>：若周围半径9格内存在受到友方单位攻击的敌方单位，则对该敌方单位造成自身攻击75%的伤害。若该敌方单位受到克罗丽科攻击，则该攻击将增加100%命中且100%暴击。该效果每回合最多触发1次",
 			"costPiece": 30,
 			"capacity": 0.1,
-			"btPath": "BT/GunBT/1025/MainBT_1025.bt"
+			"btPath": "BT/GunBT/1025/MainBT_1025_new.bt"
 		},
 		{
 			"id": 102504,
@@ -2593,7 +2593,7 @@
 			"description": "解锁 瞄准效果lv2\n狙击手的双眼，不会因为距离过远而失去焦点。若攻击周围半径6格外的敌方目标，则提升自身造成伤害的30%。",
 			"costPiece": 30,
 			"capacity": 0.15,
-			"btPath": "BT/GunBT/1025/MainBT_1025.bt"
+			"btPath": "BT/GunBT/1025/MainBT_1025_new.bt"
 		},
 		{
 			"id": 102505,
@@ -2609,7 +2609,7 @@
 			"description": "解锁 星隙闪烁lv3\n星辰的无序变化，预示着灾难的降临。选取周围半径9格内的1个地格目标，行动时，纳美西丝·变星将出现在该地格上。若当前导染指数大于等于140，则选取距离自身最近的2个敌方目标，为其施加失控效果。技能释放结束后，纳美西丝·变星将获得1次<color=#3487e0>行动追加</color>。",
 			"costPiece": 30,
 			"capacity": 0.2,
-			"btPath": "BT/GunBT/1025/MainBT_1025.bt"
+			"btPath": "BT/GunBT/1025/MainBT_1025_new.bt"
 		},
 		{
 			"id": 102506,
@@ -2625,7 +2625,7 @@
 			"description": "解锁 弹道预测lv2\n出现在镜中的模糊身影，是棱镜给与的指引。对自身施加<color=#3487e0>补充输出II</color>效果。\n\n<color=#3487e0>补充输出II</color>：若周围半径9格内存在受到友方单位攻击的敌方单位，则对该敌方单位造成自身攻击100%的伤害。若该敌方单位受到克罗丽科攻击，则该攻击将100%命中且100%暴击。该效果每回合最多触发1次。",
 			"costPiece": 30,
 			"capacity": 0.25,
-			"btPath": "BT/GunBT/1025/MainBT_1025.bt"
+			"btPath": "BT/GunBT/1025/MainBT_1025_new.bt"
 		},
 		{
 			"id": 102507,
@@ -2641,7 +2641,7 @@
 			"description": "解锁 弹道预测lv2\n出现在镜中的模糊身影，是棱镜给与的指引。对自身施加<color=#3487e0>补充输出II</color>效果。\n\n<color=#3487e0>补充输出II</color>：若周围半径9格内存在受到友方单位攻击的敌方单位，则对该敌方单位造成自身攻击100%的伤害。若该敌方单位受到克罗丽科攻击，则该攻击将100%命中且100%暴击。该效果每回合最多触发1次。",
 			"costPiece": 30,
 			"capacity": 0.3,
-			"btPath": "BT/GunBT/1025/MainBT_1025.bt"
+			"btPath": "BT/GunBT/1025/MainBT_1025_new.bt"
 		},
 		{
 			"id": 102601,
@@ -3527,10 +3527,15 @@
 				10350701,
 				10350801
 			],
+			"addAbbr": [
+				103505011,
+				103507011,
+				103504011,
+				103504016
+			],
 			"icon": "Combat_GunTypeIcon_1",
 			"description": "",
-			"btPath": "BT/GunBT_skill1.bt",
-			"addAbbr": [],
+			"btPath": "BT/GunBT/1035/MainBT_1035.bt",
 			"costPiece": 0,
 			"capacity": 0.0
 		},
@@ -3538,73 +3543,121 @@
 			"id": 103502,
 			"grade": 1035,
 			"name": "第一阶层",
+			"abbr": [
+				10350802
+			],
+			"addAbbr": [
+				103505011,
+				103507011,
+				103504011,
+				103504016
+			],
 			"icon": "Combat_GunTypeIcon_2",
 			"description": "",
 			"costPiece": 30,
 			"capacity": 0.05,
-			"btPath": "BT/GunBT_skill1.bt",
-			"abbr": [],
-			"addAbbr": []
+			"btPath": "BT/GunBT/1035/MainBT_1035.bt"
 		},
 		{
 			"id": 103503,
 			"grade": 1035,
 			"name": "第二阶层",
+			"abbr": [
+				10350402
+			],
+			"addAbbr": [
+				103505011,
+				103507011,
+				103504011,
+				103504021
+			],
 			"icon": "Combat_GunTypeIcon_3",
 			"description": "",
 			"costPiece": 30,
 			"capacity": 0.1,
-			"btPath": "BT/GunBT_skill1.bt",
-			"abbr": [],
-			"addAbbr": []
+			"btPath": "BT/GunBT/1035/MainBT_1035.bt"
 		},
 		{
 			"id": 103504,
 			"grade": 1035,
 			"name": "第三阶层",
+			"abbr": [
+				10350502
+			],
+			"addAbbr": [
+				103505011,
+				103507011,
+				103505021,
+				103504011,
+				103504021
+			],
 			"icon": "Combat_GunTypeIcon_4",
 			"description": "",
 			"costPiece": 30,
 			"capacity": 0.15,
-			"btPath": "BT/GunBT_skill1.bt",
-			"abbr": [],
-			"addAbbr": []
+			"btPath": "BT/GunBT/1035/MainBT_1035.bt"
 		},
 		{
 			"id": 103505,
 			"grade": 1035,
 			"name": "第四阶层",
+			"abbr": [
+				10350702
+			],
+			"addAbbr": [
+				103505011,
+				103507021,
+				103505021,
+				103504011,
+				103504021
+			],
 			"icon": "Combat_GunTypeIcon_1",
 			"description": "",
 			"costPiece": 30,
 			"capacity": 0.2,
-			"btPath": "BT/GunBT_skill1.bt",
-			"abbr": [],
-			"addAbbr": []
+			"btPath": "BT/GunBT/1035/MainBT_1035.bt"
 		},
 		{
 			"id": 103506,
 			"grade": 1035,
 			"name": "第五阶层",
+			"abbr": [
+				10350403
+			],
+			"addAbbr": [
+				103505011,
+				103507021,
+				103505021,
+				103504011,
+				103504031,
+				103504021
+			],
 			"icon": "Combat_GunTypeIcon_2",
 			"description": "",
 			"costPiece": 30,
 			"capacity": 0.25,
-			"btPath": "BT/GunBT_skill1.bt",
-			"abbr": [],
-			"addAbbr": []
+			"btPath": "BT/GunBT/1035/MainBT_1035.bt"
 		},
 		{
 			"id": 103507,
 			"grade": 1035,
 			"name": "第六阶层",
+			"abbr": [
+				10350803
+			],
+			"addAbbr": [
+				103505011,
+				103507021,
+				103505021,
+				103504011,
+				103504031,
+				103504021
+			],
 			"icon": "Combat_GunTypeIcon_2",
 			"description": "",
 			"costPiece": 30,
 			"capacity": 0.3,
-			"btPath": "BT/GunBT_skill1.bt",
-			"abbr": [],
-			"addAbbr": []
+			"btPath": "BT/GunBT/1035/MainBT_1035.bt"
 		},
 		{
 			"id": 103601,

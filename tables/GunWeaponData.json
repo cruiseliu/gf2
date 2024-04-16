@@ -95,7 +95,7 @@
 				3012
 			],
 			"isHide": true,
-			"audio": 402,
+			"audio": 401,
 			"weaponTag": 2,
 			"weaponSkill": [
 				5100029
@@ -681,6 +681,163 @@
 			"weaponTag": 8,
 			"weaponSkill": [
 				5110149
+			],
+			"elemenSkill": 0,
+			"slot": []
+		},
+		{
+			"id": 10351,
+			"name": "旧式九七式",
+			"description": "从暗商处采购的廉价武器，外观破旧，好像使用时如果不谨慎一些，就会立刻损坏。",
+			"type": 4,
+			"modelstype": 2,
+			"bullettype": 1,
+			"element": 1,
+			"resCode": "Weapon_QBZ97_3",
+			"resPath": "Player/JiangyuR01/JiangyuR01_WL",
+			"brand": "brand_icon17",
+			"rank": 3,
+			"skill": 5110091,
+			"expRate": 1000,
+			"weaponOfferExp": 400,
+			"weaponNeedCash": 1200,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 2
+			},
+			"propertyId": 41077,
+			"unlockCost": {
+				"15351": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8601": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 301,
+			"weaponTag": 4,
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0,
+			"weaponSkill": []
+		},
+		{
+			"id": 10352,
+			"name": "九七式",
+			"description": "与绛雨契合度高的枪械，针对绛雨的作战偏好进行了一定的改造，枪身结构更加坚固，威力也有不小的提升。",
+			"type": 4,
+			"modelstype": 2,
+			"bullettype": 1,
+			"element": 1,
+			"resCode": "Weapon_QBZ97_4",
+			"resPath": "Player/JiangyuSR01/JiangyuSR01_WL",
+			"brand": "brand_icon17",
+			"rank": 4,
+			"skill": 5103521,
+			"expRate": 1000,
+			"weaponOfferExp": 1000,
+			"weaponNeedCash": 3000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 3
+			},
+			"propertyId": 41078,
+			"unlockCost": {
+				"15352": 60
+			},
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8602": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 301,
+			"weaponTag": 4,
+			"weaponSkill": [
+				5103529
+			],
+			"elemenSkill": 0,
+			"slot": [],
+			"privateSkill": 0,
+			"characterId": 0
+		},
+		{
+			"id": 10353,
+			"name": "跃虎",
+			"description": "绛雨被配给的高性能突击步枪，以九七式为原型，是十分可靠的武器。子弹出膛的声音明快热烈，正如乐曲中激昂的鼓点，深受绛雨的喜爱。",
+			"type": 4,
+			"modelstype": 2,
+			"bullettype": 1,
+			"element": 1,
+			"resCode": "Weapon_QBZ97_5",
+			"resPath": "Player/JiangyuSSR01/JiangyuSSR01_WL",
+			"brand": "brand_icon17",
+			"rank": 5,
+			"skill": 5103531,
+			"expRate": 1000,
+			"weaponOfferExp": 2000,
+			"weaponNeedCash": 6000,
+			"defaultMaxlv": 60,
+			"maxBreak": 6,
+			"soldGet": {
+				"2": 4
+			},
+			"propertyId": 41079,
+			"unlockCost": {
+				"15353": 60
+			},
+			"privateSkill": 5103530,
+			"capacityMax": 30,
+			"weaponPolarityId": 1,
+			"polarityCostRandom": {
+				"2": 3000,
+				"8603": 1
+			},
+			"polarityCostCustom": {
+				"2": 3000,
+				"8609": 1
+			},
+			"characterId": 20,
+			"modNum": 4,
+			"modTypeGroup": [
+				2011,
+				1011,
+				12011,
+				3011
+			],
+			"isHide": true,
+			"audio": 301,
+			"weaponTag": 4,
+			"weaponSkill": [
+				5103539
 			],
 			"elemenSkill": 0,
 			"slot": []
@@ -1979,7 +2136,7 @@
 				12012,
 				3012
 			],
-			"audio": 402,
+			"audio": 401,
 			"weaponTag": 2,
 			"elemenSkill": 0,
 			"slot": [],
@@ -2036,7 +2193,7 @@
 				12012,
 				3012
 			],
-			"audio": 402,
+			"audio": 401,
 			"weaponTag": 2,
 			"weaponSkill": [
 				5100029

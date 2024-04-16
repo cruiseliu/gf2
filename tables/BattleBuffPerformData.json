@@ -8244,6 +8244,28 @@
 			"isLoop": ""
 		},
 		{
+			"id": 300901,
+			"name": "暴露",
+			"description": "稳态崩溃，不再享受稳态减伤。减益效果。",
+			"descriptionTips": "",
+			"iconName": "Buff_Expose",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
 			"id": 300902,
 			"name": "暴露",
 			"description": "稳态崩溃，不再享受稳态减伤。减益效果。",
@@ -8739,7 +8761,7 @@
 			"descriptionTips": "",
 			"iconName": "Buff_Stun",
 			"isShow": true,
-			"buffHeadShow": 1,
+			"buffHeadShow": 17,
 			"buffEffect": "",
 			"effectPlayTime": [],
 			"effectFadeTime": "",
@@ -9578,25 +9600,26 @@
 			"name": "僵冷",
 			"description": "无法移动、无法主动位移。冷凝类移动减益。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/buff_Frozen",
+			"buffEffect": "Buff/buff_Frozen|Buff/buff_Frozen",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "109",
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_IceUnmove",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -9606,7 +9629,36 @@
 			"name": "僵冷",
 			"description": "无法移动、无法主动位移。冷凝类移动减益。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/buff_Frozen",
+			"buffEffect": "Buff/buff_Frozen|Buff/buff_Frozen",
+			"effectPlayTime": [
+				1,
+				6
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_IceUnmove",
+			"isShow": true,
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 330301,
+			"name": "僵化",
+			"description": "行动力降低<color=#f26c1c>1格</color>；行动结束时，转化为<color=#3487e0>僵冷</color>，持续<color=#f26c1c>1回合</color>。可驱散冷凝类移动减益。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/FX_Elid_HammerThornElite_smoke",
 			"effectPlayTime": [
 				1
 			],
@@ -9617,8 +9669,8 @@
 				60
 			],
 			"effectFollowType": "1",
-			"effectBirthType": "109",
-			"iconName": "Buff_IceUnmove",
+			"effectBirthType": "104",
+			"iconName": "Buff_IceSpeedLow",
 			"isShow": true,
 			"buffHeadShow": 1,
 			"isLoop": "1",
@@ -10218,25 +10270,26 @@
 			"name": "麻痹",
 			"description": "指令禁止，禁止使用普通攻击和主动技能。电导类减益。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Paralysis",
+			"buffEffect": "Buff/Paralysis|Buff/Paralysis",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_ElectricUnattack",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10246,25 +10299,26 @@
 			"name": "麻痹",
 			"description": "指令禁止，禁止使用普通攻击和主动技能。电导类减益。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Paralysis",
+			"buffEffect": "Buff/Paralysis|Buff/Paralysis",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_ElectricUnattack",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10274,25 +10328,26 @@
 			"name": "麻痹",
 			"description": "指令禁止，禁止使用普通攻击和主动技能。电导类减益。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Paralysis",
+			"buffEffect": "Buff/Paralysis|Buff/Paralysis",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_ElectricUnattack",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10321,6 +10376,28 @@
 		},
 		{
 			"id": 350801,
+			"name": "导电",
+			"description": "受到伤害时，转化为<color=#3487e0>麻痹</color>。电导类减益。",
+			"descriptionTips": "",
+			"iconName": "Buff_ElectricTarget",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 350802,
 			"name": "导电",
 			"description": "受到伤害时，转化为<color=#3487e0>麻痹</color>。电导类减益。",
 			"descriptionTips": "",
@@ -10664,25 +10741,26 @@
 			"name": "嘲讽",
 			"description": "无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Taunt_loop",
+			"buffEffect": "Buff/Taunt_loop|Buff/Taunt_loop",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Taunt",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10692,25 +10770,26 @@
 			"name": "嘲讽",
 			"description": "无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Taunt_loop",
+			"buffEffect": "Buff/Taunt_loop|Buff/Taunt_loop",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Taunt",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10720,25 +10799,26 @@
 			"name": "嘲讽",
 			"description": "无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Taunt_loop",
+			"buffEffect": "Buff/Taunt_loop|Buff/Taunt_loop",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Taunt",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10748,25 +10828,26 @@
 			"name": "逃避",
 			"description": "无法操控，主动向状态施加者远离，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Fear",
+			"buffEffect": "Buff/Fear|Buff/Fear",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Fear",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10776,25 +10857,26 @@
 			"name": "逃避",
 			"description": "无法操控，主动向状态施加者远离，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Fear",
+			"buffEffect": "Buff/Fear|Buff/Fear",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Fear",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10804,25 +10886,26 @@
 			"name": "逃避",
 			"description": "无法操控，主动向状态施加者远离，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Fear",
+			"buffEffect": "Buff/Fear|Buff/Fear",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Fear",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10832,25 +10915,26 @@
 			"name": "诱导",
 			"description": "无法操控，主动向状态施加者靠近，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Taunt_Dance",
+			"buffEffect": "Buff/Taunt_Dance|Buff/Taunt_Dance",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Charm",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10860,25 +10944,26 @@
 			"name": "诱导",
 			"description": "无法操控，主动向状态施加者靠近，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Taunt_Dance",
+			"buffEffect": "Buff/Taunt_Dance|Buff/Taunt_Dance",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Charm",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10888,25 +10973,26 @@
 			"name": "诱导",
 			"description": "无法操控，主动向状态施加者靠近，施加者死亡时消除。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Taunt_Dance",
+			"buffEffect": "Buff/Taunt_Dance|Buff/Taunt_Dance",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"iconName": "Buff_Charm",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
@@ -10916,26 +11002,27 @@
 			"name": "眩晕",
 			"description": "无法行动。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Debuff_stun",
+			"buffEffect": "Buff/Debuff_stun|Buff/Debuff_stun",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"buffFix": 1,
 			"iconName": "Buff_Stun",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"showPriorityIcon": 0
 		},
@@ -10944,26 +11031,27 @@
 			"name": "眩晕",
 			"description": "无法行动。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Debuff_stun",
+			"buffEffect": "Buff/Debuff_stun|Buff/Debuff_stun",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"buffFix": 1,
 			"iconName": "Buff_Stun",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"showPriorityIcon": 0
 		},
@@ -10972,26 +11060,27 @@
 			"name": "眩晕",
 			"description": "无法行动。",
 			"descriptionTips": "",
-			"buffEffect": "Buff/Debuff_stun",
+			"buffEffect": "Buff/Debuff_stun|Buff/Debuff_stun",
 			"effectPlayTime": [
-				1
+				1,
+				6
 			],
+			"effectFadeTime": "0|0",
 			"cameraPlayTime": [
 				1
 			],
 			"cameraTime": [
 				60
 			],
-			"effectFollowType": "1",
-			"effectBirthType": "103",
+			"effectFollowType": "1|1",
+			"effectBirthType": "103|103",
+			"effectTypeGroup": "0|0",
 			"buffFix": 1,
 			"iconName": "Buff_Stun",
 			"isShow": true,
-			"buffHeadShow": 1,
-			"isLoop": "1",
-			"effectFadeTime": "",
+			"buffHeadShow": 17,
+			"isLoop": "1|1",
 			"shaderType": 0,
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"showPriorityIcon": 0
 		},
@@ -11383,10 +11472,10 @@
 			"effectFadeTime": "90",
 			"effectFollowType": "1",
 			"effectBirthType": "109",
+			"effectTypeGroup": "0",
 			"shaderType": 0,
 			"cameraPlayTime": [],
 			"cameraTime": [],
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"iconName": "",
@@ -12499,6 +12588,7 @@
 			],
 			"effectFollowType": "1",
 			"effectBirthType": "109",
+			"effectTypeGroup": "0",
 			"iconName": "Buff_CountSuppress",
 			"isShow": true,
 			"buffHeadShow": 1,
@@ -12508,7 +12598,6 @@
 			"shaderType": 0,
 			"cameraPlayTime": [],
 			"cameraTime": [],
-			"effectTypeGroup": "",
 			"showPriorityEffect": 0,
 			"buffFix": 0
 		},
@@ -12701,6 +12790,129 @@
 			"description": "受到致命伤害时，恢复<color=#f26c1c>1%</color>最大生命值，每回合生效<color=#f26c1c>1次</color>。增益不可驱散。",
 			"descriptionTips": "",
 			"iconName": "Buff_SelfHeal",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 6000171,
+			"name": "治疗和稳态恢复buff",
+			"description": "",
+			"descriptionTips": "",
+			"buffEffect": "Buff/StableHPRecover",
+			"effectPlayTime": [
+				1
+			],
+			"effectFadeTime": "90",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1",
+			"effectBirthType": "109",
+			"effectTypeGroup": "0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"iconName": "",
+			"isShow": false,
+			"buffHeadShow": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 6000201,
+			"name": "锋锐",
+			"description": "造成伤害提升<color=#f26c1c>10%</color>，可叠加<color=#f26c1c>10层</color>。可驱散增益。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AtkU|Buff/AtkU",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 6000221,
+			"name": "防御场",
+			"description": "获得造成伤害量<color=#f26c1c>50%</color>的护盾值。可叠加。",
+			"descriptionTips": "",
+			"iconName": "Buff_Armor",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 6000301,
+			"name": "暴露",
+			"description": "稳态崩溃，不再享受稳态减伤。减益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_Expose",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 6000311,
+			"name": "护甲强化",
+			"description": "持有<color=#3487e0>护甲强化</color>时受到伤害减少<color=#f26c1c>60%</color>，受到伤害时移除<color=#f26c1c>1层</color><color=#3487e0>护甲强化</color>。可叠加。增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_DefUpNeutral",
 			"isShow": true,
 			"buffHeadShow": 1,
 			"buffEffect": "",
@@ -15012,6 +15224,127 @@
 			"showPriorityEffect": 0,
 			"buffFix": 0,
 			"showPriorityIcon": 0
+		},
+		{
+			"id": 6279101,
+			"name": "余波",
+			"description": "受到的稳态伤害提高<color=#f26c1c>6点</color>。减益效果。",
+			"descriptionTips": "",
+			"iconName": "Buff_WillSub",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 6279102,
+			"name": "失陷",
+			"description": "受到的伤害提高<color=#f26c1c>100%</color>。减益效果。",
+			"descriptionTips": "",
+			"iconName": "Buff_EnemyHurtUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 6279522,
+			"name": "软肋",
+			"description": "受到主动攻击的伤害提高<color=#f26c1c>300%</color>，每被克制过<color=#f26c1c>1次</color>，受到的伤害提高额外增加<color=#f26c1c>5%</color>。生效<color=#f26c1c>1次</color>。减益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Skill/6279401_Core|Skill/6279401_CoreBreak",
+			"effectPlayTime": [
+				1,
+				3
+			],
+			"effectFadeTime": "0|90",
+			"effectFollowType": "1|1",
+			"effectBirthType": "204|204",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_NemerteaB2",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"isLoop": "1|0",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"showPriorityEffect": 0,
+			"buffFix": 0
+		},
+		{
+			"id": 6279532,
+			"name": "自愈",
+			"description": "行动结束时，恢复所有稳态指数，自身受到的稳态伤害永久降低<color=#f26c1c>2点</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Skill/6279401_Repair",
+			"effectPlayTime": [
+				3
+			],
+			"effectFadeTime": "90",
+			"effectFollowType": "1",
+			"effectBirthType": "109",
+			"iconName": "Buff_NemerteaB3",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 6279542,
+			"name": "行动受限",
+			"description": "无法行动。不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/Debuff_stun",
+			"effectPlayTime": [
+				1
+			],
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1",
+			"effectBirthType": "103",
+			"buffFix": 1,
+			"iconName": "Buff_Stun",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"isLoop": "1",
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0
 		},
 		{
 			"id": 6311211,
@@ -17477,7 +17810,7 @@
 		{
 			"id": 6872301,
 			"name": "索敌打击",
-			"description": "在敌方普攻或释放技能后，对其进行一次轰击，对其及其<color=#f26c1c>周围2格范围内</color>所有敌方目标造成<color=#f26c1c>40%</color>攻击力的范围物理伤害（摧毁可破坏掩体，跨越地形），并附加<color=#3487e0>移动降低I</color>，持续<color=#f26c1c>2回合</color>，每回合最多触发<color=#f26c1c>1次</color>。\n<color=#3487e0>移动降低I</color>：行动力降低<color=#f26c1c>1格</color>。",
+			"description": "在敌方普攻或释放技能后，对其进行一次轰击，对其及其<color=#f26c1c>周围2格范围内</color>所有敌方目标造成<color=#f26c1c>120%</color>攻击力的范围物理伤害（摧毁可破坏掩体，跨越地形），并附加<color=#3487e0>移动降低I</color>，持续<color=#f26c1c>2回合</color>，每回合最多触发<color=#f26c1c>1次</color>。\n<color=#3487e0>移动降低I</color>：行动力降低<color=#f26c1c>1格</color>。",
 			"descriptionTips": "",
 			"buffEffect": "Buff/6872201_Buff2,Buff/6872201_Buff1,Buff/6872202_Buff,Buff/6872203_Buff",
 			"effectPlayTime": [
@@ -17501,7 +17834,7 @@
 		{
 			"id": 6872302,
 			"name": "索敌打击",
-			"description": "在敌方普攻或释放技能后，对其进行一次轰击，对其及其<color=#f26c1c>周围2格范围内</color>所有敌方目标造成<color=#f26c1c>40%</color>攻击力的范围物理伤害（摧毁可破坏掩体，跨越地形），并附加<color=#3487e0>移动降低II</color>，持续<color=#f26c1c>2回合</color>，每回合最多触发<color=#f26c1c>2次</color>。\n<color=#3487e0>移动降低II</color>：行动力降低<color=#f26c1c>2格</color>。",
+			"description": "在敌方普攻或释放技能后，对其进行一次轰击，对其及其<color=#f26c1c>周围2格范围内</color>所有敌方目标造成<color=#f26c1c>120%</color>攻击力的范围物理伤害（摧毁可破坏掩体，跨越地形），并附加<color=#3487e0>移动降低II</color>，持续<color=#f26c1c>2回合</color>，每回合最多触发<color=#f26c1c>2次</color>。\n<color=#3487e0>移动降低II</color>：行动力降低<color=#f26c1c>2格</color>。",
 			"descriptionTips": "",
 			"buffEffect": "Buff/6872201_Buff2,Buff/6872201_Buff1,Buff/6872202_Buff,Buff/6872203_Buff",
 			"effectPlayTime": [
@@ -20748,6 +21081,138 @@
 			"buffFix": 0,
 			"isShow": false,
 			"buffHeadShow": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 51035311,
+			"name": "跃虎",
+			"description": "异位伤害永久提高<color=#f26c1c>2%</color>，至多叠加<color=#f26c1c>6层</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 51035321,
+			"name": "跃虎",
+			"description": "异位伤害永久提高<color=#f26c1c>2%</color>，至多叠加<color=#f26c1c>6层</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 51035331,
+			"name": "跃虎",
+			"description": "异位伤害永久提高<color=#f26c1c>4%</color>，至多叠加<color=#f26c1c>4层</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 51035341,
+			"name": "跃虎",
+			"description": "异位伤害永久提高<color=#f26c1c>6%</color>，至多叠加<color=#f26c1c>3层</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 51035351,
+			"name": "跃虎",
+			"description": "异位伤害永久提高<color=#f26c1c>6%</color>，至多叠加<color=#f26c1c>3层</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 51035361,
+			"name": "跃虎",
+			"description": "异位伤害永久提高<color=#f26c1c>10%</color>，至多叠加<color=#f26c1c>2层</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
 			"showPriorityIcon": 0,
 			"isLoop": ""
 		},
@@ -25746,6 +26211,116 @@
 			"isLoop": ""
 		},
 		{
+			"id": 62791101,
+			"name": "附加电导",
+			"description": "主动物理攻击修改为电导伤害,生效<color=#f26c1c>1次</color>。不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_ElectricUP",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 62791201,
+			"name": "附加燃烧",
+			"description": "主动物理攻击修改为燃烧伤害,生效<color=#f26c1c>1次</color>。不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_FireUP",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 62791301,
+			"name": "附加冷凝",
+			"description": "主动物理攻击修改为冷凝伤害,生效<color=#f26c1c>1次</color>。不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_IceUP",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 62791401,
+			"name": "附加酸蚀",
+			"description": "主动物理攻击修改为酸蚀伤害,生效<color=#f26c1c>1次</color>。不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_PoisonUP",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 62791501,
+			"name": "附加浊刻",
+			"description": "主动物理攻击修改为浊刻伤害,生效<color=#f26c1c>1次</color>。不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_WaterUP",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
 			"id": 63112010,
 			"name": "监视",
 			"description": "敌方单位在<color=#3487e0>监视</color>范围内进行移动前，若其位于准星圣盾<color=#f26c1c>周围半径3至10格内</color>，则对其造成<color=#f26c1c>130%</color>攻击力的物理伤害。不可驱散。",
@@ -25903,6 +26478,72 @@
 			"isLoop": ""
 		},
 		{
+			"id": 63480405,
+			"name": "蓄势待发",
+			"description": "进入阶段2后，每层本buff为BOSS提供10%攻击力和6%减伤加成，无限累进，增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_Stun",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 63480504,
+			"name": "反抗装甲",
+			"description": "攻击自身的目标固定稳态-1，增益不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_Stun",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 63480602,
+			"name": "迷惘",
+			"description": "无法释放伤害技能，持有者每次行动结束时都会进行一次豁免检定，有固定50%的概率会进行豁免，豁免后驱散此效果，不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_Stun",
+			"isShow": true,
+			"buffHeadShow": 17,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
 			"id": 64202011,
 			"name": "",
 			"description": "",
@@ -26025,6 +26666,267 @@
 			"buffHeadShow": 0,
 			"showPriorityIcon": 0,
 			"isLoop": ""
+		},
+		{
+			"id": 69310151,
+			"name": "能源补充",
+			"description": "造成的伤害提高<color=#f26c1c>5%</color>，造成的稳态伤害提高<color=#f26c1c>1点</color>，最多叠加<color=#f26c1c>3层</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AtkU|Buff/AtkU",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_AtkUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 69310156,
+			"name": "供能充足",
+			"description": "造成的稳态伤害永久提高<color=#f26c1c>4点</color>，可叠加。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AtkU|Buff/AtkU",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_SuppressAdd",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 69310164,
+			"name": "易伤",
+			"description": "受到伤害提高<color=#f26c1c>100%</color>，可叠加。减益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AccD|Buff/AccD",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_EnemyHurtUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 69360144,
+			"name": "易伤",
+			"description": "受到伤害提高<color=#f26c1c>100%</color>，可叠加。减益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AccD|Buff/AccD",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_EnemyHurtUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 69360146,
+			"name": "伤害提升",
+			"description": "造成伤害提升<color=#f26c1c>100%</color>，可叠加。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AtkU|Buff/AtkU",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 69360251,
+			"name": "联合舰阵",
+			"description": "受到伤害降低<color=#f26c1c>5%</color>，造成的稳态伤害提高<color=#f26c1c>1点</color>，最多叠加<color=#f26c1c>2层</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AtkU|Buff/AtkU",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_AllUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 69360256,
+			"name": "火力倾泻",
+			"description": "敌方目标受到伤害后，额外附加一次<color=#f26c1c>10%</color>敌方目标最大生命值的固定伤害，可叠加。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AtkU|Buff/AtkU",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 69410134,
+			"name": "易伤",
+			"description": "受到伤害提高<color=#f26c1c>100%</color>，可叠加。减益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AccD|Buff/AccD",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_EnemyHurtUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 69410136,
+			"name": "伤害提升",
+			"description": "造成伤害提升<color=#f26c1c>50%</color>，可叠加。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Buff/AtkU|Buff/AtkU",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "0|0",
+			"cameraPlayTime": [
+				1
+			],
+			"cameraTime": [
+				60
+			],
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_DamageUp",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
 		},
 		{
 			"id": 70081000,
@@ -27973,6 +28875,80 @@
 			"showPriorityIcon": 0
 		},
 		{
+			"id": 103405013,
+			"name": "",
+			"description": "",
+			"descriptionTips": "",
+			"buffEffect": "Buff/RefreshCD",
+			"effectPlayTime": [
+				1
+			],
+			"effectFadeTime": "60",
+			"effectFollowType": "1",
+			"effectBirthType": "9999",
+			"buffHeadShow": 4,
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"iconName": "",
+			"isShow": false,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 103504015,
+			"name": "回旋电势",
+			"description": "主动精准攻击前，对目标施加<color=#3487e0>导电</color>，持续<color=#f26c1c>1回合</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Skill/350901_buff|Skill/350901_buff",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "60|60",
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_ElectricUP",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
+			"id": 103504025,
+			"name": "回旋电势",
+			"description": "主动精准攻击前，对目标施加<color=#3487e0>导电</color>，持续<color=#f26c1c>1回合</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"buffEffect": "Skill/350901_buff|Skill/350901_buff",
+			"effectPlayTime": [
+				1,
+				4
+			],
+			"effectFadeTime": "60|60",
+			"effectFollowType": "1|1",
+			"effectBirthType": "109|109",
+			"effectTypeGroup": "0|0",
+			"iconName": "Buff_ElectricUP",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"isLoop": "0|0",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"showPriorityIcon": 0
+		},
+		{
 			"id": 103609032,
 			"name": "驱散减益",
 			"description": "驱散减益",
@@ -28174,6 +29150,50 @@
 			"iconName": "Buff_Felaskju1Neutral",
 			"isShow": true,
 			"buffHeadShow": 1,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 693601012,
+			"name": "舰毁预警",
+			"description": "<color=#3487e0>舰毁预警</color>达到5层时，<color=#3487e0>极光女王号</color>将释放<color=#3487e0>舰毁I</color>。不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_Tank5",
+			"isShow": true,
+			"buffHeadShow": 10,
+			"showPriorityIcon": 10,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectFollowType": "",
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 693601022,
+			"name": "舰毁预警",
+			"description": "<color=#3487e0>舰毁预警</color>达到6层时，<color=#3487e0>极光女王号</color>将释放<color=#3487e0>舰毁II</color>。不可驱散。",
+			"descriptionTips": "",
+			"iconName": "Buff_Tank5",
+			"isShow": true,
+			"buffHeadShow": 10,
 			"showPriorityIcon": 10,
 			"buffEffect": "",
 			"effectPlayTime": [],
@@ -28562,6 +29582,96 @@
 			"isShow": false,
 			"buffHeadShow": 0,
 			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 1035070111,
+			"name": "",
+			"description": "",
+			"descriptionTips": "",
+			"buffEffect": "Buff/del_buff",
+			"effectPlayTime": [
+				1
+			],
+			"effectFadeTime": "60",
+			"effectFollowType": "1",
+			"effectBirthType": "109",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"iconName": "",
+			"isShow": false,
+			"buffHeadShow": 0,
+			"showPriorityIcon": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 1035080111,
+			"name": "先发制人",
+			"description": "自身<color=#f26c1c>周围半径8格内</color>的敌方单位主动攻击前，消耗<color=#f26c1c>3点</color>导染指数，对其进行伏击，造成<color=#f26c1c>80%</color>攻击力的<color=#d4ae08>电导伤害</color>及<color=#f26c1c>2点</color>稳态伤害。攻击前有<color=#f26c1c>50%</color>的概率对目标施加<color=#3487e0>导电</color>，持续<color=#f26c1c>1回合</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"effectFollowType": "1",
+			"iconName": "Buff_Jiangyu1",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 5,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 1035080211,
+			"name": "先发制人",
+			"description": "自身<color=#f26c1c>周围半径8格内</color>的敌方单位主动攻击前，消耗<color=#f26c1c>3点</color>导染指数，对其进行伏击，造成<color=#f26c1c>100%</color>攻击力的<color=#d4ae08>电导伤害</color>及<color=#f26c1c>2点</color>稳态伤害。攻击前对目标施加<color=#3487e0>导电</color>，持续<color=#f26c1c>1回合</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"effectFollowType": "1",
+			"iconName": "Buff_Jiangyu1",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 5,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
+			"isLoop": ""
+		},
+		{
+			"id": 1035080311,
+			"name": "先发制人",
+			"description": "自身<color=#f26c1c>周围半径8格内</color>的敌方单位主动攻击前，消耗<color=#f26c1c>2点</color>导染指数，对其进行伏击，造成<color=#f26c1c>100%</color>攻击力的<color=#d4ae08>电导伤害</color>及<color=#f26c1c>2点</color>稳态伤害。攻击前对目标施加<color=#3487e0>导电</color>，持续<color=#f26c1c>1回合</color>。增益不可驱散。",
+			"descriptionTips": "",
+			"effectFollowType": "1",
+			"iconName": "Buff_Jiangyu1",
+			"isShow": true,
+			"buffHeadShow": 1,
+			"showPriorityIcon": 5,
+			"buffEffect": "",
+			"effectPlayTime": [],
+			"effectFadeTime": "",
+			"shaderType": 0,
+			"cameraPlayTime": [],
+			"cameraTime": [],
+			"effectBirthType": "",
+			"effectTypeGroup": "",
+			"showPriorityEffect": 0,
+			"buffFix": 0,
 			"isLoop": ""
 		}
 	]

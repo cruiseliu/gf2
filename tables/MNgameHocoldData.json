@@ -1,0 +1,31 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"group": 2001,
+			"name": "预演",
+			"scene": "Level1",
+			"collection": 2,
+			"entranceIcon": "Img_MiniGame_GravityJump_Map1",
+			"unlockCount": 0
+		},
+		{
+			"id": 2,
+			"group": 2001,
+			"name": "普通",
+			"scene": "Level2",
+			"collection": 4,
+			"entranceIcon": "Img_MiniGame_GravityJump_Map2",
+			"unlockCount": 2
+		},
+		{
+			"id": 3,
+			"group": 2001,
+			"name": "困难",
+			"scene": "Level3",
+			"collection": 4,
+			"entranceIcon": "Img_MiniGame_GravityJump_Map3",
+			"unlockCount": 3
+		}
+	]
+}

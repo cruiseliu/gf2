@@ -69,6 +69,7 @@ doll_order = [
     '莉塔拉',
     '桑朵莱希',
     '莱娜',
+    '绛雨',
 ]
 
 @functools.cache

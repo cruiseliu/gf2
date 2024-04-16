@@ -237,7 +237,6 @@
 			"uienName": "LennaSSR",
 			"rdrBg": "Img_ArchivesCenter_Chr_PerityaBg",
 			"rdrImg": "Img_ArchivesCenter_Chr_Peritya",
-			"color": "a6764dff",
 			"type": 1,
 			"unitId": [
 				1013
@@ -273,6 +272,7 @@
 			],
 			"dormModle": 101399,
 			"gunHigh": 2,
+			"color": "",
 			"chatList": [],
 			"storyOpen": false
 		},
@@ -834,7 +834,7 @@
 			],
 			"avgList": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
 			"charInfo": "恭谦却又坚守原则的人形。她会调制香气四溢的咖啡，也会坚定地守护咖啡馆——这便是“方糖”无可取代的屏障。",
-			"cvCn": "贺文萧",
+			"cvCn": "贺文潇",
 			"cvJp": "小清水亚美",
 			"cvEn": "",
 			"bodyId": "SSD-62D",
@@ -1035,6 +1035,52 @@
 				99999
 			],
 			"dormModle": 103399,
+			"gunHigh": 2,
+			"chatList": [],
+			"storyOpen": false
+		},
+		{
+			"id": 20,
+			"name": "绛雨",
+			"enName": "Jiangyu",
+			"uienName": "JiangyuSSR",
+			"rdrBg": "Img_ArchivesCenter_Chr_NemesisBg",
+			"rdrImg": "Img_ArchivesCenter_Chr_Nemesis",
+			"color": "ed6853ff",
+			"type": 1,
+			"unitId": [
+				1035
+			],
+			"avgList": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+			"charInfo": "如鼓点般活泼而热烈的人形，大大咧咧地追随着老姐的脚步。她与乐队的同伴们四处行走，为“季风”带来新奇而燥热的音符。",
+			"cvCn": "陈雨",
+			"cvJp": "佐仓绫音",
+			"cvEn": "",
+			"bodyId": "SSD-62D",
+			"brand": "九七式",
+			"belong": "无归属",
+			"petPhrase": "",
+			"sort": 21,
+			"darkzoneAudio": "7100301,7100305,7100308",
+			"audioList": [
+				7100301,
+				7100302,
+				7100303,
+				7100304,
+				7100305,
+				7100306,
+				7100307,
+				7100308,
+				7100309,
+				7100310
+			],
+			"showOpen": true,
+			"gachaGetTimeline": "GunGet/JiangyuSSR01_GunGetShow.usm",
+			"spine": "Jiangyu",
+			"unlockDorm": [
+				99999
+			],
+			"dormModle": 103599,
 			"gunHigh": 2,
 			"chatList": [],
 			"storyOpen": false

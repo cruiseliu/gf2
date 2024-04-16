@@ -27,6 +27,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0,
 			"unlock": [],
@@ -67,6 +68,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0
 		},
@@ -104,6 +106,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0
 		},
@@ -141,6 +144,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0
 		},
@@ -178,6 +182,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0
 		},
@@ -215,6 +220,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0
 		},
@@ -252,6 +258,45 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
+			"tabName": "",
+			"planId": 0
+		},
+		{
+			"id": 8,
+			"name": "叠影效应",
+			"difficultyType": 1,
+			"difficultyGroup": 108,
+			"type": 1,
+			"stageGroup": 8,
+			"unlock": [
+				99007
+			],
+			"unlockHint": "完成战役“放射衰变”关卡7-10后解锁",
+			"chapterRewardValue": [
+				16,
+				32,
+				48
+			],
+			"preChapter": [
+				7
+			],
+			"chapterDes": "崎路同行，频谱共振，分隔的影像终将再次重叠。",
+			"background": "Img_BattleIndexBg_Story8",
+			"mapBackground": "Img_ChapterBg_8",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:10000|12:1,1:100,8301:10000|12:2,1:150,2:10000",
+			"globalTab": 88,
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0
 		},
@@ -263,7 +308,7 @@
 			"type": 3,
 			"stageGroup": 3001,
 			"relation": 101,
-			"tab": 2,
+			"tab": 1,
 			"tabName": "活动剧情",
 			"planId": 70001,
 			"unlock": [
@@ -287,6 +332,7 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"notes": 0,
+			"o_NPNFFGANAFI": 0,
 			"preChapter": [],
 			"globalTab": 0
 		},
@@ -298,7 +344,7 @@
 			"type": 3,
 			"stageGroup": 3002,
 			"relation": 102,
-			"tab": 1,
+			"tab": 2,
 			"tabName": "活动战役",
 			"planId": 70002,
 			"unlock": [
@@ -319,6 +365,7 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"notes": 0,
+			"o_NPNFFGANAFI": 0,
 			"unlockHint": "",
 			"preChapter": [],
 			"decoration": "",
@@ -334,7 +381,7 @@
 			"stageGroup": 4006,
 			"relation": 103,
 			"tab": 1,
-			"tabName": "活动战役",
+			"tabName": "活动剧情",
 			"planId": 70003,
 			"unlock": [
 				10997
@@ -354,8 +401,45 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"notes": 0,
+			"o_NPNFFGANAFI": 0,
 			"unlockHint": "",
 			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 3004,
+			"name": "循迹追演",
+			"difficultyType": 1,
+			"difficultyGroup": 304,
+			"type": 3,
+			"stageGroup": 4007,
+			"relation": 104,
+			"tab": 1,
+			"o_NPNFFGANAFI": 501,
+			"tabName": "活动剧情",
+			"planId": 70004,
+			"unlock": [
+				10997
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"mapBackground": "",
 			"decoration": "",
 			"effects": "",
 			"globalTab": 0
@@ -369,7 +453,6 @@
 			"stageGroup": 3001,
 			"relation": 101,
 			"notes": 1,
-			"tabName": "活动剧情",
 			"planId": 50002,
 			"unlock": [
 				29301
@@ -391,6 +474,8 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
+			"tabName": "",
 			"unlockHint": "",
 			"preChapter": [],
 			"globalTab": 0
@@ -404,7 +489,6 @@
 			"stageGroup": 3002,
 			"relation": 102,
 			"notes": 1,
-			"tabName": "活动战役",
 			"planId": 50005,
 			"unlock": [
 				29301
@@ -426,41 +510,8 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"tab": 0,
-			"unlockHint": "",
-			"preChapter": [],
-			"globalTab": 0
-		},
-		{
-			"id": 4003,
-			"name": "交织突进",
-			"difficultyType": 1,
-			"difficultyGroup": 403,
-			"type": 4,
-			"stageGroup": 4006,
-			"tabName": "活动战役",
-			"planId": 50021,
-			"unlock": [
-				29301
-			],
-			"chapterRewardValue": [
-				15,
-				30,
-				45
-			],
-			"chapterDes": "",
-			"background": "Img_Branch_Lenna",
-			"mapBackground": "Img_Lenna_ChapterBg_1",
-			"decoration": "UIChapterDecoration1Item",
-			"effects": "story_sandwind",
-			"chapterRewardShow": {
-				"1": 1,
-				"2": 1,
-				"3": 1
-			},
-			"chapterReward": "1:50|1:100|1:150",
-			"relation": 0,
-			"notes": 0,
-			"tab": 0,
+			"o_NPNFFGANAFI": 0,
+			"tabName": "",
 			"unlockHint": "",
 			"preChapter": [],
 			"globalTab": 0
@@ -474,7 +525,6 @@
 			"stageGroup": 4006,
 			"relation": 103,
 			"notes": 1,
-			"tabName": "活动剧情",
 			"planId": 50021,
 			"unlock": [
 				29301
@@ -496,8 +546,46 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
+			"tabName": "",
 			"unlockHint": "",
 			"preChapter": [],
+			"globalTab": 0
+		},
+		{
+			"id": 4007,
+			"name": "循迹追演",
+			"difficultyType": 1,
+			"difficultyGroup": 407,
+			"type": 4,
+			"stageGroup": 4007,
+			"relation": 104,
+			"notes": 1,
+			"o_NPNFFGANAFI": 501,
+			"tabName": "普通模式",
+			"planId": 50017,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				9,
+				18,
+				27
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"mapBackground": "",
 			"globalTab": 0
 		},
 		{
@@ -528,6 +616,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0,
 			"preChapter": [],
@@ -567,6 +656,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0,
 			"decoration": "",
@@ -605,6 +695,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0,
 			"decoration": "",
@@ -643,6 +734,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0,
 			"decoration": "",
@@ -681,6 +773,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0,
 			"decoration": "",
@@ -719,6 +812,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0,
 			"decoration": "",
@@ -757,6 +851,46 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
+			"tabName": "",
+			"planId": 0,
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 91008,
+			"name": "叠影效应",
+			"difficultyType": 2,
+			"difficultyGroup": 108,
+			"type": 1,
+			"stageGroup": 91008,
+			"unlock": [
+				99108,
+				91007
+			],
+			"unlockHint": "完成战役“放射衰变”困难关卡1-5后解锁",
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"preChapter": [
+				91007
+			],
+			"chapterDes": "崎路同行，频谱共振，分隔的影像终将再次重叠。",
+			"background": "Img_BattleIndexBg_Story8",
+			"mapBackground": "Img_ChapterBg_8",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 12,
+				"3": 12
+			},
+			"chapterReward": "12:1,1:50,25:12000|12:1,1:100,8301:12000|12:2,1:150,2:12000",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"tabName": "",
 			"planId": 0,
 			"decoration": "",
@@ -771,7 +905,7 @@
 			"type": 3,
 			"stageGroup": 93001,
 			"relation": 201,
-			"tab": 2,
+			"tab": 1,
 			"tabName": "活动剧情",
 			"planId": 70001,
 			"chapterRewardValue": [
@@ -789,6 +923,7 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"notes": 0,
+			"o_NPNFFGANAFI": 0,
 			"unlock": [],
 			"unlockHint": "",
 			"preChapter": [],
@@ -804,7 +939,7 @@
 			"type": 3,
 			"stageGroup": 93002,
 			"relation": 202,
-			"tab": 1,
+			"tab": 2,
 			"tabName": "活动战役",
 			"planId": 70002,
 			"chapterRewardValue": [
@@ -822,6 +957,7 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"notes": 0,
+			"o_NPNFFGANAFI": 0,
 			"unlock": [],
 			"unlockHint": "",
 			"preChapter": [],
@@ -838,7 +974,7 @@
 			"stageGroup": 94006,
 			"relation": 203,
 			"tab": 1,
-			"tabName": "活动战役",
+			"tabName": "活动剧情",
 			"planId": 70003,
 			"chapterRewardValue": [
 				5,
@@ -847,6 +983,41 @@
 			],
 			"chapterDes": "",
 			"background": "Img_Branch_Lenna",
+			"mapBackground": "Img_Lenna_ChapterBg_1",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"notes": 0,
+			"o_NPNFFGANAFI": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 93004,
+			"name": "循迹追演",
+			"difficultyType": 2,
+			"difficultyGroup": 304,
+			"type": 3,
+			"stageGroup": 94007,
+			"relation": 204,
+			"tab": 1,
+			"o_NPNFFGANAFI": 502,
+			"tabName": "活动剧情",
+			"planId": 70004,
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
 			"mapBackground": "Img_Lenna_ChapterBg_1",
 			"chapterRewardShow": {
 				"1": 1,
@@ -871,7 +1042,6 @@
 			"stageGroup": 93001,
 			"relation": 201,
 			"notes": 1,
-			"tabName": "活动剧情",
 			"planId": 50002,
 			"chapterRewardValue": [
 				5,
@@ -888,6 +1058,8 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
+			"tabName": "",
 			"unlock": [],
 			"unlockHint": "",
 			"preChapter": [],
@@ -904,7 +1076,6 @@
 			"stageGroup": 93002,
 			"relation": 202,
 			"notes": 1,
-			"tabName": "活动战役",
 			"planId": 51001,
 			"chapterRewardValue": [
 				5,
@@ -921,39 +1092,8 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"tab": 0,
-			"unlock": [],
-			"unlockHint": "",
-			"preChapter": [],
-			"decoration": "",
-			"effects": "",
-			"globalTab": 0
-		},
-		{
-			"id": 94003,
-			"name": "交织突进",
-			"difficultyType": 2,
-			"difficultyGroup": 403,
-			"type": 4,
-			"stageGroup": 94006,
-			"tabName": "活动战役",
-			"planId": 51003,
-			"chapterRewardValue": [
-				5,
-				10,
-				15
-			],
-			"chapterDes": "",
-			"background": "Img_Branch_Lenna",
-			"mapBackground": "Img_Lenna_ChapterBg_1",
-			"chapterRewardShow": {
-				"1": 1,
-				"2": 1,
-				"3": 1
-			},
-			"chapterReward": "1:50|1:100|1:150",
-			"relation": 0,
-			"notes": 0,
-			"tab": 0,
+			"o_NPNFFGANAFI": 0,
+			"tabName": "",
 			"unlock": [],
 			"unlockHint": "",
 			"preChapter": [],
@@ -970,7 +1110,6 @@
 			"stageGroup": 94006,
 			"relation": 203,
 			"notes": 1,
-			"tabName": "活动战役",
 			"planId": 51003,
 			"chapterRewardValue": [
 				5,
@@ -987,11 +1126,49 @@
 			},
 			"chapterReward": "1:50|1:100|1:150",
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
+			"tabName": "",
 			"unlock": [],
 			"unlockHint": "",
 			"preChapter": [],
 			"decoration": "",
 			"effects": "",
+			"globalTab": 0
+		},
+		{
+			"id": 94007,
+			"name": "循迹追演",
+			"difficultyType": 2,
+			"difficultyGroup": 407,
+			"type": 4,
+			"stageGroup": 94007,
+			"relation": 204,
+			"notes": 1,
+			"o_NPNFFGANAFI": 502,
+			"tabName": "困难模式",
+			"planId": 51005,
+			"unlock": [
+				29301
+			],
+			"chapterRewardValue": [
+				5,
+				10,
+				15
+			],
+			"chapterDes": "",
+			"background": "Img_Branch_Jiangyu",
+			"decoration": "UIChapterDecoration1Item",
+			"effects": "story_sandwind",
+			"chapterRewardShow": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			},
+			"chapterReward": "1:50|1:100|1:150",
+			"tab": 0,
+			"unlockHint": "",
+			"preChapter": [],
+			"mapBackground": "",
 			"globalTab": 0
 		},
 		{
@@ -1009,6 +1186,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"unlock": [],
 			"unlockHint": "",
 			"chapterRewardValue": [],
@@ -1034,31 +1212,7 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
-			"unlock": [],
-			"unlockHint": "",
-			"chapterRewardValue": [],
-			"preChapter": [],
-			"decoration": "",
-			"effects": "",
-			"chapterRewardShow": {},
-			"chapterReward": "",
-			"globalTab": 0
-		},
-		{
-			"id": 994003,
-			"name": "交织突进",
-			"difficultyType": 3,
-			"difficultyGroup": 99403,
-			"type": 4,
-			"stageGroup": 994003,
-			"tabName": "挑战模式",
-			"planId": 51004,
-			"chapterDes": "",
-			"background": "Img_Branch_Lenna",
-			"mapBackground": "Img_Lenna_ChapterBg_2",
-			"relation": 0,
-			"notes": 0,
-			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"unlock": [],
 			"unlockHint": "",
 			"chapterRewardValue": [],
@@ -1084,10 +1238,37 @@
 			"relation": 0,
 			"notes": 0,
 			"tab": 0,
+			"o_NPNFFGANAFI": 0,
 			"unlock": [],
 			"unlockHint": "",
 			"chapterRewardValue": [],
 			"preChapter": [],
+			"decoration": "",
+			"effects": "",
+			"chapterRewardShow": {},
+			"chapterReward": "",
+			"globalTab": 0
+		},
+		{
+			"id": 994007,
+			"name": "循迹追演",
+			"difficultyType": 3,
+			"difficultyGroup": 99407,
+			"type": 4,
+			"stageGroup": 994007,
+			"o_NPNFFGANAFI": 503,
+			"tabName": "挑战模式",
+			"planId": 51006,
+			"chapterDes": "",
+			"background": "Img_Branch_Lenna",
+			"relation": 0,
+			"notes": 0,
+			"tab": 0,
+			"unlock": [],
+			"unlockHint": "",
+			"chapterRewardValue": [],
+			"preChapter": [],
+			"mapBackground": "",
 			"decoration": "",
 			"effects": "",
 			"chapterRewardShow": {},

@@ -35,6 +35,42 @@
 				99999
 			],
 			"pointFormula": 4
+		},
+		{
+			"id": 5,
+			"pointGroup": 1002,
+			"pointSection": [
+				0,
+				1510
+			],
+			"pointFormula": 30
+		},
+		{
+			"id": 6,
+			"pointGroup": 1002,
+			"pointSection": [
+				1511,
+				1930
+			],
+			"pointFormula": 24
+		},
+		{
+			"id": 7,
+			"pointGroup": 1002,
+			"pointSection": [
+				1931,
+				2250
+			],
+			"pointFormula": 18
+		},
+		{
+			"id": 8,
+			"pointGroup": 1002,
+			"pointSection": [
+				2251,
+				99999
+			],
+			"pointFormula": 12
 		}
 	]
 }

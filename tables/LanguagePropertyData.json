@@ -744,12 +744,12 @@
 			"showName": "燃烧加成",
 			"order": 41,
 			"icon": "Icon_Add_Fire",
-			"battleShow": 19,
+			"battleShow": 20,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "提高燃烧类型的异位伤害，燃烧是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -760,12 +760,12 @@
 			"showName": "电导加成",
 			"order": 42,
 			"icon": "Icon_Add_Electric",
-			"battleShow": 20,
+			"battleShow": 21,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "提高电导类型的异位伤害，电导是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -776,12 +776,12 @@
 			"showName": "冷凝加成",
 			"order": 43,
 			"icon": "Icon_Add_Ice",
-			"battleShow": 21,
+			"battleShow": 22,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "提高冷凝类型的异位伤害，冷凝是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -792,12 +792,12 @@
 			"showName": "酸蚀加成",
 			"order": 44,
 			"icon": "Icon_Add_Poison",
-			"battleShow": 22,
+			"battleShow": 23,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "提高酸蚀类型的异位伤害，酸蚀是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -856,12 +856,12 @@
 			"showName": "浊刻加成",
 			"order": 48,
 			"icon": "Icon_Add_Water",
-			"battleShow": 23,
+			"battleShow": 24,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "提高浊刻类型的异位伤害，浊刻是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -872,12 +872,12 @@
 			"showName": "燃烧抗性",
 			"order": 49,
 			"icon": "Icon_Against_Fire",
-			"battleShow": 24,
+			"battleShow": 25,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "降低受到的燃烧伤害的异位抗性，燃烧是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -888,12 +888,12 @@
 			"showName": "电导抗性",
 			"order": 50,
 			"icon": "Icon_Against_Electric",
-			"battleShow": 25,
+			"battleShow": 26,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "降低受到的电导伤害的异位抗性，电导是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -904,12 +904,12 @@
 			"showName": "冷凝抗性",
 			"order": 51,
 			"icon": "Icon_Against_Ice",
-			"battleShow": 26,
+			"battleShow": 27,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "降低受到的冷凝伤害的异位抗性，冷凝是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -920,12 +920,12 @@
 			"showName": "酸蚀抗性",
 			"order": 52,
 			"icon": "Icon_Against_Poison",
-			"battleShow": 27,
+			"battleShow": 28,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "降低受到的酸蚀伤害的异位抗性，酸蚀是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -984,12 +984,12 @@
 			"showName": "浊刻抗性",
 			"order": 56,
 			"icon": "Icon_Against_Water",
-			"battleShow": 28,
+			"battleShow": 29,
+			"noZeroShow": true,
 			"statue": 1,
 			"barrackShowDescription": "降低受到的浊刻伤害的异位抗性，浊刻是一种特殊的异位效应。",
 			"barrackShow": 0,
 			"battleChangeShow": false,
-			"noZeroShow": false,
 			"antiShow": false
 		},
 		{
@@ -1278,6 +1278,22 @@
 			"battleShow": 0,
 			"battleChangeShow": false,
 			"noZeroShow": false,
+			"antiShow": false
+		},
+		{
+			"id": 81,
+			"type": 1,
+			"showType": 1,
+			"sysName": "suppress_defend",
+			"showName": "稳态护甲",
+			"order": 81,
+			"icon": "Icon_Suppress_Armor",
+			"battleShow": 19,
+			"noZeroShow": true,
+			"statue": 2,
+			"barrackShowDescription": "受到的稳态伤害降低的值",
+			"barrackShow": 0,
+			"battleChangeShow": false,
 			"antiShow": false
 		},
 		{

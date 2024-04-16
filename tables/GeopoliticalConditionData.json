@@ -1,0 +1,166 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"des": "成功抵达1号任务点后。",
+			"conditionType": 940,
+			"conditionNum": 1,
+			"conditionArg1": 1,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0
+		},
+		{
+			"id": 1002,
+			"des": "成功抵达2号任务点后。",
+			"conditionType": 940,
+			"conditionNum": 1,
+			"conditionArg1": 2,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0
+		},
+		{
+			"id": 1003,
+			"des": "成功抵达3号任务点后。",
+			"conditionType": 940,
+			"conditionNum": 1,
+			"conditionArg1": 3,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0
+		},
+		{
+			"id": 1004,
+			"des": "成功抵达4号任务点后。",
+			"conditionType": 940,
+			"conditionNum": 1,
+			"conditionArg1": 4,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0
+		},
+		{
+			"id": 1005,
+			"des": "4回合内,累计被攻击3次后。",
+			"o_CNMAMBAEBCL": 4,
+			"conditionType": 941,
+			"conditionNum": 3,
+			"o_FIKBOELGKLF": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1006,
+			"des": "2回合内,累计被攻击2次后。",
+			"o_CNMAMBAEBCL": 2,
+			"conditionType": 941,
+			"conditionNum": 2,
+			"o_FIKBOELGKLF": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1007,
+			"des": "累计消灭1个敌方",
+			"conditionType": 942,
+			"conditionNum": 1,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1008,
+			"des": "累计消灭3个敌方",
+			"conditionType": 942,
+			"conditionNum": 3,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1009,
+			"des": "累计冲锋1次",
+			"conditionType": 946,
+			"conditionNum": 1,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1010,
+			"des": "累计冲锋3次",
+			"conditionType": 946,
+			"conditionNum": 3,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1011,
+			"des": "累计固守1次",
+			"conditionType": 945,
+			"conditionNum": 1,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1012,
+			"des": "累计固守3次",
+			"conditionType": 945,
+			"conditionNum": 3,
+			"o_FIKBOELGKLF": 0,
+			"o_CNMAMBAEBCL": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1013,
+			"des": "1回合内累计冲锋2次",
+			"o_CNMAMBAEBCL": 1,
+			"conditionType": 946,
+			"conditionNum": 2,
+			"o_FIKBOELGKLF": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1014,
+			"des": "1回合内累计冲锋3次",
+			"o_CNMAMBAEBCL": 1,
+			"conditionType": 946,
+			"conditionNum": 3,
+			"o_FIKBOELGKLF": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1015,
+			"des": "1回合内消灭敌方1个",
+			"o_CNMAMBAEBCL": 1,
+			"conditionType": 942,
+			"conditionNum": 1,
+			"o_FIKBOELGKLF": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1016,
+			"des": "1回合内消灭敌方2次",
+			"o_CNMAMBAEBCL": 1,
+			"conditionType": 942,
+			"conditionNum": 2,
+			"o_FIKBOELGKLF": 0,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1017,
+			"des": "2回合内，累计造成伤害2次",
+			"o_FIKBOELGKLF": 1,
+			"o_CNMAMBAEBCL": 2,
+			"conditionType": 947,
+			"conditionNum": 2,
+			"conditionArg1": 0
+		},
+		{
+			"id": 1018,
+			"des": "2回合内，累计造成伤害4次",
+			"o_FIKBOELGKLF": 1,
+			"o_CNMAMBAEBCL": 2,
+			"conditionType": 947,
+			"conditionNum": 4,
+			"conditionArg1": 0
+		}
+	]
+}

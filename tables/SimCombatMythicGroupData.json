@@ -2,57 +2,80 @@
 	"data": [
 		{
 			"id": 1,
+			"o_ANJIHPIMEOM": 1,
 			"goupName": "第一阶群",
 			"groupBg": "Img_SimCombatMythic_Battle_1",
 			"groupDesc": "在战斗中，不择手段也许是一种夸奖。",
 			"config": [
 				101
-			]
+			],
+			"groupType": 0
 		},
 		{
 			"id": 2,
+			"o_ANJIHPIMEOM": 2,
 			"goupName": "第二阶群",
 			"groupBg": "Img_SimCombatMythic_Battle_2",
 			"groupDesc": "怯懦者通常是战场上第一个牺牲品。",
 			"config": [
 				201
-			]
+			],
+			"groupType": 0
 		},
 		{
 			"id": 3,
+			"o_ANJIHPIMEOM": 3,
 			"goupName": "第三阶群",
 			"groupBg": "Img_SimCombatMythic_Battle_3",
 			"groupDesc": "耐心，就是不要在敌人犯错时打断他们。",
 			"config": [
 				301
-			]
+			],
+			"groupType": 0
 		},
 		{
 			"id": 4,
+			"o_ANJIHPIMEOM": 4,
 			"goupName": "第四阶群",
 			"groupBg": "Img_SimCombatMythic_Battle_4",
 			"groupDesc": "耐心和勇气会为你扫除前进的障碍。",
 			"config": [
 				401
-			]
+			],
+			"groupType": 0
 		},
 		{
 			"id": 5,
+			"o_ANJIHPIMEOM": 5,
 			"goupName": "第五阶群",
 			"groupBg": "Img_SimCombatMythic_Battle_5",
 			"groupDesc": "勇敢往往是有时限的。",
 			"config": [
 				501
-			]
+			],
+			"groupType": 0
 		},
 		{
 			"id": 6,
+			"o_ANJIHPIMEOM": 6,
 			"goupName": "第六阶群",
 			"groupBg": "Img_SimCombatMythic_Battle_6",
 			"groupDesc": "最初的选择，或许能够决定战局的走势。",
 			"config": [
 				601
-			]
+			],
+			"groupType": 0
+		},
+		{
+			"id": 7,
+			"groupType": 1,
+			"goupName": "第七阶群·变量",
+			"groupBg": "Img_SimCombatMythic_Battle_Infinite",
+			"groupDesc": "挑战瞬息万变，勇敢是生存下去的唯一法则。",
+			"config": [
+				701
+			],
+			"o_ANJIHPIMEOM": 0
 		}
 	]
 }

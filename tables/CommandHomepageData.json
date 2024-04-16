@@ -12,7 +12,7 @@
 			"id": 12000,
 			"name": "整备室",
 			"type": 2,
-			"sort": 1,
+			"sort": 2,
 			"icon": "Icon_CommandCenter_Barrack",
 			"globalTab": 11
 		},
@@ -42,9 +42,9 @@
 		},
 		{
 			"id": 29202,
-			"name": "活动",
+			"name": "限时开启",
 			"type": 2,
-			"sort": 2,
+			"sort": 1,
 			"icon": "Icon_CommandCenter_Activity",
 			"globalTab": 12
 		}

@@ -1,0 +1,166 @@
+{
+	"data": [
+		{
+			"o_NHOAJGJEOBM": 301,
+			"o_ELFGAMGHNAF": "1号占领",
+			"taskDes": "成功抵达1号任务点后。",
+			"o_KCIEGCNMJDN": "占领",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 3,
+			"conditionId": 1001
+		},
+		{
+			"o_NHOAJGJEOBM": 302,
+			"o_ELFGAMGHNAF": "2号占领",
+			"taskDes": "成功抵达2号任务点后。",
+			"o_KCIEGCNMJDN": "占领",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 3,
+			"conditionId": 1002
+		},
+		{
+			"o_NHOAJGJEOBM": 303,
+			"o_ELFGAMGHNAF": "3号占领",
+			"taskDes": "成功抵达3号任务点后。",
+			"o_KCIEGCNMJDN": "占领",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 3,
+			"conditionId": 1003
+		},
+		{
+			"o_NHOAJGJEOBM": 304,
+			"o_ELFGAMGHNAF": "4号占领",
+			"taskDes": "成功抵达4号任务点后。",
+			"o_KCIEGCNMJDN": "占领",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 3,
+			"conditionId": 1004
+		},
+		{
+			"o_NHOAJGJEOBM": 305,
+			"o_ELFGAMGHNAF": "密集承伤Ⅰ",
+			"taskDes": "4回合内,累计被攻击3次后。",
+			"o_KCIEGCNMJDN": "伤害",
+			"tag": "进攻",
+			"o_PFAHNLPKIND": 4,
+			"conditionId": 1005
+		},
+		{
+			"o_NHOAJGJEOBM": 306,
+			"o_ELFGAMGHNAF": "密集承伤Ⅱ",
+			"taskDes": "2回合内,累计被攻击2次后。",
+			"o_KCIEGCNMJDN": "伤害",
+			"tag": "进攻",
+			"o_PFAHNLPKIND": 7,
+			"conditionId": 1006
+		},
+		{
+			"o_NHOAJGJEOBM": 307,
+			"o_ELFGAMGHNAF": "任意歼灭Ⅰ",
+			"taskDes": "累计消灭1个敌方",
+			"o_KCIEGCNMJDN": "伤害",
+			"tag": "进攻",
+			"o_PFAHNLPKIND": 1,
+			"conditionId": 1007
+		},
+		{
+			"o_NHOAJGJEOBM": 308,
+			"o_ELFGAMGHNAF": "任意歼灭Ⅱ",
+			"taskDes": "累计消灭3个敌方",
+			"o_KCIEGCNMJDN": "伤害",
+			"tag": "进攻",
+			"o_PFAHNLPKIND": 2,
+			"conditionId": 1008
+		},
+		{
+			"o_NHOAJGJEOBM": 309,
+			"o_ELFGAMGHNAF": "长途跋涉Ⅰ",
+			"taskDes": "累计冲锋1次",
+			"o_KCIEGCNMJDN": "行为",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 1,
+			"conditionId": 1009
+		},
+		{
+			"o_NHOAJGJEOBM": 310,
+			"o_ELFGAMGHNAF": "长途跋涉Ⅱ",
+			"taskDes": "累计冲锋3次",
+			"o_KCIEGCNMJDN": "行为",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 2,
+			"conditionId": 1010
+		},
+		{
+			"o_NHOAJGJEOBM": 311,
+			"o_ELFGAMGHNAF": "固若金汤Ⅰ",
+			"taskDes": "累计固守1次",
+			"o_KCIEGCNMJDN": "行为",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 1,
+			"conditionId": 1011
+		},
+		{
+			"o_NHOAJGJEOBM": 312,
+			"o_ELFGAMGHNAF": "固若金汤Ⅱ",
+			"taskDes": "累计固守3次",
+			"o_KCIEGCNMJDN": "行为",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 2,
+			"conditionId": 1012
+		},
+		{
+			"o_NHOAJGJEOBM": 313,
+			"o_ELFGAMGHNAF": "徐疾如风Ⅰ",
+			"taskDes": "1回合内累计冲锋2次",
+			"o_KCIEGCNMJDN": "行为",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 1,
+			"conditionId": 1013
+		},
+		{
+			"o_NHOAJGJEOBM": 314,
+			"o_ELFGAMGHNAF": "徐疾如风Ⅱ",
+			"taskDes": "1回合内累计冲锋3次",
+			"o_KCIEGCNMJDN": "行为",
+			"tag": "防守",
+			"o_PFAHNLPKIND": 2,
+			"conditionId": 1014
+		},
+		{
+			"o_NHOAJGJEOBM": 315,
+			"o_ELFGAMGHNAF": "杀戮Ⅰ",
+			"taskDes": "1回合内消灭敌方1个",
+			"o_KCIEGCNMJDN": "伤害",
+			"tag": "进攻",
+			"o_PFAHNLPKIND": 1,
+			"conditionId": 1015
+		},
+		{
+			"o_NHOAJGJEOBM": 316,
+			"o_ELFGAMGHNAF": "杀戮Ⅱ",
+			"taskDes": "1回合内消灭敌方2次",
+			"o_KCIEGCNMJDN": "伤害",
+			"tag": "进攻",
+			"o_PFAHNLPKIND": 2,
+			"conditionId": 1016
+		},
+		{
+			"o_NHOAJGJEOBM": 317,
+			"o_ELFGAMGHNAF": "指挥Ⅰ",
+			"taskDes": "2回合内，累计造成伤害2次",
+			"o_KCIEGCNMJDN": "伤害",
+			"tag": "进攻",
+			"o_PFAHNLPKIND": 1,
+			"conditionId": 1017
+		},
+		{
+			"o_NHOAJGJEOBM": 318,
+			"o_ELFGAMGHNAF": "指挥Ⅱ",
+			"taskDes": "2回合内，累计造成伤害4次",
+			"o_KCIEGCNMJDN": "伤害",
+			"tag": "进攻",
+			"o_PFAHNLPKIND": 2,
+			"conditionId": 1018
+		}
+	]
+}

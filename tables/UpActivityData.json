@@ -13,6 +13,7 @@
 			"incomeItem": 190002,
 			"incomeTime": 5,
 			"incomeMagnification": 1,
+			"refreshType": 1,
 			"useOrder": 60043
 		},
 		{
@@ -28,6 +29,7 @@
 			"incomeItem": 190003,
 			"incomeTime": 5,
 			"incomeMagnification": 1,
+			"refreshType": 1,
 			"useOrder": 60021
 		},
 		{
@@ -39,6 +41,7 @@
 			"incomeItem": 190004,
 			"incomeTime": 3,
 			"incomeMagnification": 1,
+			"refreshType": 1,
 			"useOrder": 60044
 		},
 		{
@@ -50,6 +53,7 @@
 			"incomeItem": 190005,
 			"incomeTime": 3,
 			"incomeMagnification": 1,
+			"refreshType": 1,
 			"useOrder": 60030
 		},
 		{
@@ -65,7 +69,8 @@
 			"incomeItem": 190002,
 			"incomeTime": 5,
 			"incomeMagnification": 1,
-			"useOrder": 0
+			"refreshType": 1,
+			"useOrder": 60057
 		},
 		{
 			"mappingId": 60039,
@@ -76,7 +81,8 @@
 			"incomeItem": 190004,
 			"incomeTime": 3,
 			"incomeMagnification": 1,
-			"useOrder": 0
+			"refreshType": 1,
+			"useOrder": 60058
 		},
 		{
 			"mappingId": 60043,
@@ -91,6 +97,7 @@
 			"incomeItem": 190003,
 			"incomeTime": 5,
 			"incomeMagnification": 1,
+			"refreshType": 1,
 			"useOrder": 60038
 		},
 		{
@@ -102,7 +109,64 @@
 			"incomeItem": 190005,
 			"incomeTime": 3,
 			"incomeMagnification": 1,
+			"refreshType": 1,
 			"useOrder": 60039
+		},
+		{
+			"mappingId": 60054,
+			"activityText": "裂变·补给作战奖励今日剩余次数",
+			"stageType": [
+				20,
+				21,
+				22,
+				31,
+				41
+			],
+			"incomeItem": 190002,
+			"incomeTime": 5,
+			"incomeMagnification": 1,
+			"refreshType": 1,
+			"useOrder": 0
+		},
+		{
+			"mappingId": 60055,
+			"activityText": "裂变·心智勘测奖励今日剩余次数",
+			"stageType": [
+				32
+			],
+			"incomeItem": 190004,
+			"incomeTime": 3,
+			"incomeMagnification": 1,
+			"refreshType": 1,
+			"useOrder": 0
+		},
+		{
+			"mappingId": 60057,
+			"activityText": "裂变·补给作战奖励今日剩余次数",
+			"stageType": [
+				20,
+				21,
+				22,
+				31,
+				41
+			],
+			"incomeItem": 190003,
+			"incomeTime": 5,
+			"incomeMagnification": 1,
+			"refreshType": 1,
+			"useOrder": 60054
+		},
+		{
+			"mappingId": 60058,
+			"activityText": "裂变·心智勘测奖励今日剩余次数",
+			"stageType": [
+				32
+			],
+			"incomeItem": 190005,
+			"incomeTime": 3,
+			"incomeMagnification": 1,
+			"refreshType": 1,
+			"useOrder": 60055
 		},
 		{
 			"mappingId": 69999,
@@ -117,6 +181,7 @@
 			"incomeItem": 190001,
 			"incomeTime": 4,
 			"incomeMagnification": 1,
+			"refreshType": 1,
 			"useOrder": 60022
 		}
 	]

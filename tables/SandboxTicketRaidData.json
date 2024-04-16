@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"o_DPFKLBCEKAG": 101001,
+			"name": "关卡1",
+			"des": "描述1",
+			"icon": "icon1",
+			"o_IBHCNONLJCH": [
+				1001,
+				1002,
+				1003
+			]
+		},
+		{
+			"id": 1002,
+			"o_DPFKLBCEKAG": 101001,
+			"name": "关卡2",
+			"des": "描述2",
+			"icon": "icon2",
+			"o_IBHCNONLJCH": [
+				1001,
+				1002,
+				1003
+			]
+		},
+		{
+			"id": 1003,
+			"o_DPFKLBCEKAG": 101001,
+			"name": "关卡3",
+			"des": "描述3",
+			"icon": "icon3",
+			"o_IBHCNONLJCH": [
+				1001,
+				1002,
+				1003
+			]
+		}
+	]
+}

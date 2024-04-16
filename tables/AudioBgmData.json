@@ -733,7 +733,7 @@
 		},
 		{
 			"id": 74,
-			"interfaceName": "UIDarkZoneTeamPanelV2",
+			"interfaceName": "RecentActivitiePanelV2",
 			"audioName": [
 				30068
 			],
@@ -1050,6 +1050,36 @@
 			"selector": "MainMenu",
 			"track": "Lobby",
 			"priority": 0
+		},
+		{
+			"id": 106,
+			"interfaceName": "UIGravityJumpEnterPanel",
+			"audioName": [
+				30091
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 107,
+			"interfaceName": "UIGravityJumpMainPanel",
+			"audioName": [
+				30091
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
+		},
+		{
+			"id": 108,
+			"interfaceName": "UIActivityThemeBMainPanel",
+			"audioName": [
+				30092
+			],
+			"priority": 0,
+			"selector": "",
+			"track": ""
 		}
 	]
 }

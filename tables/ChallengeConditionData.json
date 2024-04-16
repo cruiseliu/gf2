@@ -1,0 +1,31 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"des": "击败关卡1boss",
+			"reward": {
+				"1": 100
+			},
+			"conditionType": 1,
+			"conditionNum": 1
+		},
+		{
+			"id": 1002,
+			"des": "击败关卡1小怪",
+			"reward": {
+				"1": 100
+			},
+			"conditionType": 2,
+			"conditionNum": 10
+		},
+		{
+			"id": 1003,
+			"des": "行动次数不大于20 通关关卡1",
+			"reward": {
+				"1": 100
+			},
+			"conditionType": 3,
+			"conditionNum": 20
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"rewardItemSort": "1:90,9009:3,9012:1;",
+			"name": "累计完成2次调查",
+			"conditionClass": 1013
+		},
+		{
+			"id": 1002,
+			"rewardItemSort": "1:90,9009:3;",
+			"name": "累计完成4次调查",
+			"conditionClass": 1013
+		},
+		{
+			"id": 1003,
+			"rewardItemSort": "1:90,9009:3,9012:1;",
+			"name": "累计完成6次调查",
+			"conditionClass": 1013
+		},
+		{
+			"id": 1004,
+			"rewardItemSort": "1:90,9009:3;",
+			"name": "累计完成8次调查",
+			"conditionClass": 1013
+		},
+		{
+			"id": 1005,
+			"rewardItemSort": "1:90,9009:4,9012:1;",
+			"name": "累计完成10次调查",
+			"conditionClass": 1013
+		},
+		{
+			"id": 1006,
+			"rewardItemSort": "1:75,9012:1;",
+			"name": "累计完成12次调查",
+			"conditionClass": 1013
+		}
+	]
+}

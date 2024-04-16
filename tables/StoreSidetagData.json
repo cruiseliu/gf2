@@ -185,6 +185,33 @@
 			"sort": 0
 		},
 		{
+			"id": 61,
+			"name": "模拟经营商店",
+			"sidetagType": 21,
+			"includeTag": [
+				601,
+				602,
+				603,
+				604
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
+			"id": 71,
+			"name": "幕后补给",
+			"sidetagType": 22,
+			"includeTag": [
+				701
+			],
+			"npc": 0,
+			"unlock": 0,
+			"globalTab": 0,
+			"sort": 0
+		},
+		{
 			"id": 99,
 			"name": "不可见页签",
 			"sidetagType": 4,

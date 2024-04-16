@@ -3569,6 +3569,136 @@
 			"minigameCreate": []
 		},
 		{
+			"id": 921,
+			"name": "电子安全门",
+			"desc": "",
+			"type": 1,
+			"priority": 39,
+			"state": {
+				"0": 901,
+				"1": 904,
+				"2": 902,
+				"3": 903,
+				"5": 98
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01B.prefab",
+			"blockCollision": "0,0,0|360,600,50",
+			"interactCollision": "0,0,0|360,100,250",
+			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "-150,150|150,150|150,-150|-150,-150",
+			"backCollision": "-150,150|150,150|0,0|0,0",
+			"useLimit": 1,
+			"cd": [
+				1500,
+				1500,
+				1500,
+				1500
+			],
+			"costType": 1,
+			"costId": [
+				1103
+			],
+			"costNum": [
+				25
+			],
+			"activeShape": true,
+			"shapeIds": [
+				92100,
+				92101,
+				92102,
+				92103
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "1",
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
+			"id": 922,
+			"name": "电子安全门",
+			"desc": "",
+			"type": 1,
+			"priority": 39,
+			"state": {
+				"0": 901,
+				"1": 904,
+				"2": 902,
+				"3": 903,
+				"5": 98
+			},
+			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Short_Door_01/Dz_dio_short_Door_01B.prefab",
+			"blockCollision": "0,0,0|360,600,50",
+			"interactCollision": "0,0,0|360,100,250",
+			"severBlockCollision": "-31,44|76,44|76,-54|-31,-54",
+			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
+			"monsterInteractCollision": "-150,150|150,150|150,-150|-150,-150",
+			"backCollision": "-150,150|150,150|0,0|0,0",
+			"useLimit": 1,
+			"cd": [
+				1500,
+				1500,
+				1500,
+				1500
+			],
+			"costType": 1,
+			"costId": [
+				1103
+			],
+			"costNum": [
+				200
+			],
+			"activeShape": true,
+			"shapeIds": [
+				92200,
+				92201,
+				92202,
+				92203
+			],
+			"isShowInteractToken": 1,
+			"interactTokenState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"param": "1",
+			"tokenByState": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0
+			},
+			"tokenYShifting": 150,
+			"initState": 0,
+			"slgPrefabPath": "",
+			"cdSequence": {},
+			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
+			"isShowOnMinimap": 0,
+			"frontCheck": 0,
+			"minigameCreate": []
+		},
+		{
 			"id": 1001,
 			"name": "【逻辑交互物】playerBox",
 			"desc": "",
@@ -3625,7 +3755,7 @@
 		},
 		{
 			"id": 1101,
-			"name": "一档箱（如果要吸附就配这个）",
+			"name": "吸附光点-5金币",
 			"desc": "",
 			"type": 11,
 			"priority": 59,
@@ -3745,7 +3875,7 @@
 			},
 			"prefabPath": "Assets/ConfigPrefab/Darkzone/DynamicInteractObject/Dz_dio_Empty_01/Dz_dio_Empty_01.prefab",
 			"blockCollision": "0,0,0|0,0,0",
-			"interactCollision": "0,0,0|180,100,120",
+			"interactCollision": "0,0,0|180,100,200",
 			"severBlockCollision": "-52,50|52,50|52,-52|-52,-52",
 			"severInteractCollision": "-197,179|239,179|239,-185|-197,-185",
 			"monsterInteractCollision": "0,0,0|0,0,0",
@@ -4647,7 +4777,7 @@
 			"isShowOnMinimap": 1,
 			"tokenByState": {
 				"0": 1,
-				"1": 1,
+				"1": 0,
 				"2": 0,
 				"3": 0
 			},
@@ -4705,7 +4835,7 @@
 			"isShowOnMinimap": 1,
 			"tokenByState": {
 				"0": 1,
-				"1": 1,
+				"1": 0,
 				"2": 0,
 				"3": 0
 			},
@@ -7962,7 +8092,6 @@
 				"3": 0
 			},
 			"param": "4;2;1;1",
-			"showInSlg": 1,
 			"tokenByState": {
 				"0": 1,
 				"1": 0,
@@ -7979,6 +8108,7 @@
 			"costNum": [],
 			"isShowInteractToken": 0,
 			"isInvisiableInGrass": 0,
+			"showInSlg": 0,
 			"isShowOnMinimap": 0,
 			"frontCheck": 0,
 			"minigameCreate": []

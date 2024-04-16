@@ -85,7 +85,7 @@
 			"targetName": "消灭剑锷泰坦",
 			"targetType": 1,
 			"targetArgs": {
-				"110612310": 1
+				"110612311": 1
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 		},
 		{
 			"targetId": 111002,
-			"targetName": "消灭黑眼·弃形",
+			"targetName": "消灭黑眼",
 			"targetType": 1,
 			"targetArgs": {
 				"11100810": 1
@@ -256,7 +256,7 @@
 		},
 		{
 			"targetId": 111501,
-			"targetName": "消灭黑眼·弃形",
+			"targetName": "消灭黑眼",
 			"targetType": 1,
 			"targetArgs": {
 				"11150710": 1
@@ -354,25 +354,77 @@
 		},
 		{
 			"targetId": 112101,
-			"targetName": "找到并消灭伊柏",
+			"targetName": "消灭敌占区块的敌方单位",
+			"targetType": 1,
+			"targetArgs": {
+				"112112710": 1
+			}
+		},
+		{
+			"targetId": 112102,
+			"targetName": "寻找并消灭百式圣盾SWAP",
 			"targetType": 1,
 			"targetArgs": {}
 		},
 		{
 			"targetId": 112201,
-			"targetName": "找到并消灭伊柏",
+			"targetName": "寻找并消灭纵火者",
+			"targetType": 1,
+			"targetArgs": {
+				"11220110": 1
+			}
+		},
+		{
+			"targetId": 112202,
+			"targetName": "找到撤离信号站，完成撤离。",
 			"targetType": 1,
 			"targetArgs": {}
 		},
 		{
 			"targetId": 112301,
-			"targetName": "消灭纵火者与六分仪",
+			"targetName": "（选做）消灭黑眼·弃形。",
+			"targetType": 1,
+			"targetArgs": {
+				"11230710": 1
+			}
+		},
+		{
+			"targetId": 112302,
+			"targetName": "找到撤离信号站，完成撤离。",
 			"targetType": 1,
 			"targetArgs": {}
 		},
 		{
 			"targetId": 112401,
-			"targetName": "找到并消灭堡垒泰坦",
+			"targetName": "找到并消灭震荡泰坦",
+			"targetType": 1,
+			"targetArgs": {
+				"112412012": 1
+			}
+		},
+		{
+			"targetId": 112402,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 112501,
+			"targetName": "找到并消灭穴居狼蛛",
+			"targetType": 1,
+			"targetArgs": {
+				"11255412": 1
+			}
+		},
+		{
+			"targetId": 112502,
+			"targetName": "找到撤离信号站，完成撤离。",
+			"targetType": 1,
+			"targetArgs": {}
+		},
+		{
+			"targetId": 112701,
+			"targetName": "找到撤离信号站，完成撤离。",
 			"targetType": 1,
 			"targetArgs": {}
 		},

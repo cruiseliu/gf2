@@ -242,6 +242,15 @@
 			]
 		},
 		{
+			"Id": 6145,
+			"typeCode": 2,
+			"model": "FB_Imbiber",
+			"audioVoice": 12001,
+			"cuesheetUsed": [
+				"EN_FB_Imbiber"
+			]
+		},
+		{
 			"Id": 6151,
 			"typeCode": 2,
 			"model": "Boss_Tosk",
@@ -340,8 +349,10 @@
 			"Id": 6217,
 			"typeCode": 2,
 			"model": "ELID_Obshare",
-			"audioVoice": 0,
-			"cuesheetUsed": []
+			"cuesheetUsed": [
+				"EN_ELID_Obshare"
+			],
+			"audioVoice": 0
 		},
 		{
 			"Id": 6220,
@@ -431,8 +442,10 @@
 			"Id": 6247,
 			"typeCode": 2,
 			"model": "Elid_ScophinxMoths",
-			"audioVoice": 0,
-			"cuesheetUsed": []
+			"cuesheetUsed": [
+				"EN_Elid_ScophinxMoths"
+			],
+			"audioVoice": 0
 		},
 		{
 			"Id": 6248,
@@ -510,8 +523,10 @@
 			"Id": 6317,
 			"typeCode": 2,
 			"model": "TX_MachineSpider",
-			"audioVoice": 0,
-			"cuesheetUsed": []
+			"cuesheetUsed": [
+				"EN_TX_MachineSpider"
+			],
+			"audioVoice": 0
 		},
 		{
 			"Id": 6321,
@@ -600,8 +615,10 @@
 			"Id": 6347,
 			"typeCode": 2,
 			"model": "TX_AegisLeah",
-			"audioVoice": 0,
-			"cuesheetUsed": []
+			"cuesheetUsed": [
+				"EN_TX_AegisLeah"
+			],
+			"audioVoice": 0
 		},
 		{
 			"Id": 6410,
@@ -643,8 +660,10 @@
 			"Id": 6414,
 			"typeCode": 2,
 			"model": "PLDS_U033Sniper",
-			"audioVoice": 0,
-			"cuesheetUsed": []
+			"cuesheetUsed": [
+				"EN_PLDS_U033"
+			],
+			"audioVoice": 0
 		},
 		{
 			"Id": 6420,
@@ -767,17 +786,21 @@
 		},
 		{
 			"Id": 6601,
-			"typeCode": 2,
-			"model": "None_MotorDrivenN1",
-			"audioVoice": 0,
-			"cuesheetUsed": []
+			"cuesheetUsed": [
+				"EN_MotorDrivenN1"
+			],
+			"typeCode": 0,
+			"model": "",
+			"audioVoice": 0
 		},
 		{
 			"Id": 6602,
+			"cuesheetUsed": [
+				"EN_MotorDrivenN2"
+			],
 			"typeCode": 0,
 			"model": "",
-			"audioVoice": 0,
-			"cuesheetUsed": []
+			"audioVoice": 0
 		},
 		{
 			"Id": 6851,
@@ -814,7 +837,9 @@
 			"typeCode": 2,
 			"model": "CF_LoseSextans",
 			"audioVoice": 11005,
-			"cuesheetUsed": []
+			"cuesheetUsed": [
+				"EN_CF_LoseSextans"
+			]
 		},
 		{
 			"Id": 6871,
@@ -877,33 +902,30 @@
 		},
 		{
 			"Id": 6931,
-			"audioVoice": 110,
 			"cuesheetUsed": [
-				"C_SR_Cheeta",
-				"Gun_SMG"
+				"EN_MISC_DeepWarship"
 			],
 			"typeCode": 0,
-			"model": ""
+			"model": "",
+			"audioVoice": 0
 		},
 		{
 			"Id": 6936,
-			"audioVoice": 12001,
 			"cuesheetUsed": [
-				"EN_FB_ZY",
-				"Gun_SMG"
+				"EN_MISC_DeepWarship"
 			],
 			"typeCode": 0,
-			"model": ""
+			"model": "",
+			"audioVoice": 0
 		},
 		{
 			"Id": 6941,
-			"audioVoice": 12001,
 			"cuesheetUsed": [
-				"EN_FB_ZY",
-				"Gun_SMG"
+				"EN_MISC_DeepWarship"
 			],
 			"typeCode": 0,
-			"model": ""
+			"model": "",
+			"audioVoice": 0
 		},
 		{
 			"Id": 6951,
@@ -1141,8 +1163,10 @@
 			"Id": 66347,
 			"typeCode": 2,
 			"model": "TX_SmallGoliath",
-			"audioVoice": 0,
-			"cuesheetUsed": []
+			"cuesheetUsed": [
+				"EN_TX_Golyat"
+			],
+			"audioVoice": 0
 		},
 		{
 			"Id": 68521,

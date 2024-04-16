@@ -6,46 +6,49 @@ max_level = 60
 def main():
     for doll in Tables.GunData:
         #print(doll['name'])
+        format_doll_stats(doll)
 
-        level_stats, final_stats = get_doll_stats(doll['id'])
+def format_doll_stats(doll):
+    level_stats, final_stats = get_doll_stats(doll['id'])
 
-        lines = []
-        arg_keys = [
-            'weapon',
-            'atk', 'atk_base', 'atk_buff',
-            'def', 'def_base', 'def_buff',
-            'hp', 'hp_base', 'hp_buff',
-            'posture',
-            'crit',
-            'critdmg',
-            'move',
-        ]
-        for i, stats in enumerate(final_stats):
-            args = []
-            for stat in stats:
-                if isinstance(stat, tuple):
-                    args += stat
-                else:
-                    args.append(stat)
-            args = [str(a) for a in args]
-            for k, v in zip(arg_keys, args):
-                lines.append(f'|{k}{i + 1}={v}')
-        table1 = '{{stats_max|\n' + '\n'.join(lines) + '\n}}\n'
-
-        lines = []
-        for stats in level_stats:
-            stats = [str(s) for s in stats]
-            if stats[0] == '增域':
-                line = '!' + '!!'.join(stats)
+    lines = []
+    arg_keys = [
+        'weapon',
+        'atk', 'atk_base', 'atk_buff',
+        'def', 'def_base', 'def_buff',
+        'hp', 'hp_base', 'hp_buff',
+        'posture',
+        'crit',
+        'critdmg',
+        'move',
+    ]
+    for i, stats in enumerate(final_stats):
+        args = []
+        for stat in stats:
+            if isinstance(stat, tuple):
+                args += stat
             else:
-                line = '|' + '||'.join(stats)
-            lines.append(line)
-        table2 = '{{stats_level_header}}\n' + '\n|-\n'.join(lines) + '\n|}\n'
+                args.append(stat)
+        args = [str(a) for a in args]
+        for k, v in zip(arg_keys, args):
+            lines.append(f'|{k}{i + 1}={v}')
+    table1 = '{{stats_max|\n' + '\n'.join(lines) + '\n}}\n'
 
-        doll_name = doll['name']
-        text = '==属性==\n' + table1 + '\n' + table2
-        Path('wiki').mkdir(parents=True, exist_ok=True)
-        Path(f'wiki/{doll_name}-stats.wiki').write_text(text)
+    lines = []
+    for stats in level_stats:
+        stats = [str(s) for s in stats]
+        if stats[0] == '增域':
+            line = '!' + '!!'.join(stats)
+        else:
+            line = '|' + '||'.join(stats)
+        lines.append(line)
+    table2 = '{{stats_level_header}}\n' + '\n|-\n'.join(lines) + '\n|}\n'
+
+    doll_name = doll['name']
+    text = table1 + '\n' + table2
+    #Path('wiki').mkdir(parents=True, exist_ok=True)
+    #Path(f'wiki/{doll_name}-stats.wiki').write_text(text)
+    return text
 
 def get_doll_stats(doll_id):
     doll = Tables.GunData[doll_id]

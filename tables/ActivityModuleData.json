@@ -16,21 +16,6 @@
 			"keepSubmodule": {}
 		},
 		{
-			"id": 112102,
-			"stageType": 1,
-			"type": 122,
-			"activitySubmodule": {
-				"1011": 1001
-			},
-			"activityRole": "",
-			"activityMainBg": "",
-			"activityInformation": "",
-			"entranceType": {
-				"1011": 1
-			},
-			"keepSubmodule": {}
-		},
-		{
 			"id": 112103,
 			"stageType": 1,
 			"type": 122,
@@ -84,31 +69,6 @@
 			}
 		},
 		{
-			"id": 222102,
-			"stageType": 2,
-			"type": 221,
-			"activitySubmodule": {
-				"2001": 4003,
-				"2002": 994003,
-				"3002": 102,
-				"4001": 102,
-				"5001": 102
-			},
-			"keepSubmodule": {
-				"5001": 11
-			},
-			"activityRole": "Avatar_Daiyan",
-			"activityMainBg": "Img_DaiyanMain_Bg",
-			"activityInformation": "旷野之上危机四伏，虚拟空间险境交织。\n为了应对现实与虚拟的双重威胁，来和莱娜一起训练，掌握防御技巧吧！",
-			"entranceType": {
-				"2001": 1,
-				"2002": 1,
-				"3002": 1,
-				"4001": 1,
-				"5001": 1
-			}
-		},
-		{
 			"id": 222103,
 			"stageType": 2,
 			"type": 221,
@@ -153,6 +113,31 @@
 			"keepSubmodule": {}
 		},
 		{
+			"id": 225101,
+			"stageType": 2,
+			"type": 252,
+			"activitySubmodule": {
+				"2002": 994007,
+				"2003": 4007,
+				"2004": 94007,
+				"3001": 501,
+				"11001": 22,
+				"11002": 501
+			},
+			"activityRole": "Avatar_Jiangyu",
+			"activityMainBg": "Img_Jiangyu_Bg",
+			"activityInformation": "模拟作战功能测试的邀请函？绛雨要等不及大显身手了！",
+			"entranceType": {
+				"2002": 1,
+				"2003": 1,
+				"2004": 1,
+				"3001": 1,
+				"11001": 1,
+				"11002": 1
+			},
+			"keepSubmodule": {}
+		},
+		{
 			"id": 322101,
 			"stageType": 3,
 			"type": 221,
@@ -168,28 +153,6 @@
 			"activityInformation": "活动已结束，\n当前可继续参与丰祝摇奖机和风闻撷律。",
 			"entranceType": {
 				"2001": 2,
-				"3002": 2,
-				"4001": 1,
-				"5001": 1
-			}
-		},
-		{
-			"id": 322102,
-			"stageType": 3,
-			"type": 221,
-			"activitySubmodule": {
-				"4001": 102,
-				"5001": 102
-			},
-			"keepSubmodule": {
-				"5001": 11
-			},
-			"activityRole": "Avatar_Daiyan",
-			"activityMainBg": "Img_DaiyanMain_Bg",
-			"activityInformation": "活动已结束，\n当前可继续参与惊喜数据池和循迹追踪。",
-			"entranceType": {
-				"2001": 2,
-				"2002": 2,
 				"3002": 2,
 				"4001": 1,
 				"5001": 1
@@ -231,6 +194,30 @@
 			"entranceType": {
 				"3003": 1,
 				"7001": 4
+			},
+			"keepSubmodule": {}
+		},
+		{
+			"id": 325101,
+			"stageType": 3,
+			"type": 252,
+			"activitySubmodule": {
+				"2002": 994007,
+				"2003": 4007,
+				"2004": 94007,
+				"11001": 22,
+				"11002": 501
+			},
+			"activityRole": "Avatar_Jiangyu",
+			"activityMainBg": "Img_Jiangyu_Bg",
+			"activityInformation": "模拟作战功能测试的邀请函？绛雨要等不及大显身手了！",
+			"entranceType": {
+				"2002": 2,
+				"2003": 2,
+				"2004": 2,
+				"3001": 2,
+				"11001": 1,
+				"11002": 1
 			},
 			"keepSubmodule": {}
 		}

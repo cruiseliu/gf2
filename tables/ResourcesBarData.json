@@ -51,10 +51,20 @@
 			"ppt": 0
 		},
 		{
+			"interfaceId": 80,
+			"ruleButton": 1,
+			"ppt": 3401,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0
+		},
+		{
 			"interfaceId": 87,
 			"resources": "101:2",
 			"ruleButton": 1,
-			"ppt": 3016,
+			"ppt": 3301,
 			"system": "",
 			"systemIcon": "",
 			"color": 0,
@@ -64,7 +74,7 @@
 			"interfaceId": 88,
 			"resources": "101:2",
 			"ruleButton": 1,
-			"ppt": 3016,
+			"ppt": 3301,
 			"system": "",
 			"systemIcon": "",
 			"color": 0,
@@ -73,22 +83,42 @@
 		{
 			"interfaceId": 92,
 			"resources": "101:2",
-			"ruleButton": 1,
-			"ppt": 3016,
 			"system": "",
 			"systemIcon": "",
 			"color": 0,
-			"homeButton": 0
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
 		},
 		{
 			"interfaceId": 95,
 			"resources": "101:2",
-			"ruleButton": 1,
-			"ppt": 3016,
 			"system": "",
 			"systemIcon": "",
 			"color": 0,
-			"homeButton": 0
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 106,
+			"resources": "101:2",
+			"color": 1,
+			"homeButton": 1,
+			"system": "",
+			"systemIcon": "",
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 108,
+			"resources": "",
+			"system": "",
+			"systemIcon": "",
+			"color": 0,
+			"homeButton": 0,
+			"ruleButton": 0,
+			"ppt": 0
 		},
 		{
 			"interfaceId": 522,
@@ -897,6 +927,16 @@
 			"system": "",
 			"systemIcon": "",
 			"color": 0,
+			"ruleButton": 0,
+			"ppt": 0
+		},
+		{
+			"interfaceId": 3053,
+			"resources": "101:2",
+			"color": 1,
+			"system": "",
+			"systemIcon": "",
+			"homeButton": 0,
 			"ruleButton": 0,
 			"ppt": 0
 		}

@@ -1,0 +1,81 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"rewardGroup": 101,
+			"taskDes": "通关关卡1",
+			"conditionClass": 951,
+			"conditionNum": 1,
+			"rewardList": {
+				"1": 10
+			},
+			"o_LEHPIIMPBOP": 0
+		},
+		{
+			"id": 2,
+			"rewardGroup": 101,
+			"taskDes": "通关关卡2",
+			"conditionClass": 951,
+			"conditionNum": 1,
+			"rewardList": {
+				"1": 20
+			},
+			"o_LEHPIIMPBOP": 0
+		},
+		{
+			"id": 3,
+			"rewardGroup": 101,
+			"taskDes": "通关关卡3",
+			"conditionClass": 951,
+			"conditionNum": 1,
+			"rewardList": {
+				"1": 30
+			},
+			"o_LEHPIIMPBOP": 0
+		},
+		{
+			"id": 4,
+			"rewardGroup": 101,
+			"taskDes": "通关关卡4",
+			"conditionClass": 951,
+			"conditionNum": 1,
+			"rewardList": {
+				"1": 40
+			},
+			"o_LEHPIIMPBOP": 0
+		},
+		{
+			"id": 5,
+			"rewardGroup": 101,
+			"taskDes": "通关关卡5",
+			"conditionClass": 951,
+			"conditionNum": 1,
+			"rewardList": {
+				"1": 50
+			},
+			"o_LEHPIIMPBOP": 0
+		},
+		{
+			"id": 6,
+			"rewardGroup": 101,
+			"taskDes": "通关关卡6",
+			"conditionClass": 951,
+			"conditionNum": 1,
+			"rewardList": {
+				"1": 60
+			},
+			"o_LEHPIIMPBOP": 0
+		},
+		{
+			"id": 7,
+			"rewardGroup": 101,
+			"taskDes": "通关关卡7",
+			"conditionClass": 951,
+			"conditionNum": 1,
+			"rewardList": {
+				"180001": 1
+			},
+			"o_LEHPIIMPBOP": 1
+		}
+	]
+}

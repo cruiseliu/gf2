@@ -2,21 +2,30 @@
 	"data": [
 		{
 			"typeId": 1,
+			"name": "手枪类",
 			"skinNum": [
 				1,
 				2
 			],
 			"modMount1": [
-				204
+				2041
 			],
 			"modMount2": [
-				103
+				1031,
+				1032
 			],
+			"o_OCJLECBCKPO": "枪口涂装",
+			"o_NGJMFIMLINM": "瞄准涂装",
+			"o_KHHFOJKGENE": "",
+			"o_MPHFFILLALG": "",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": "",
 			"modMount3": [],
 			"modMount4": []
 		},
 		{
 			"typeId": 2,
+			"name": "冲锋类",
 			"skinNum": [
 				1,
 				2,
@@ -24,20 +33,34 @@
 				4
 			],
 			"modMount1": [
-				201
+				2011,
+				2012
 			],
 			"modMount2": [
-				101
+				1011,
+				1012,
+				1013
 			],
 			"modMount3": [
-				1201
+				12011,
+				12012
 			],
 			"modMount4": [
-				301
-			]
+				3011,
+				3012,
+				3013,
+				3014
+			],
+			"o_OCJLECBCKPO": "枪口涂装",
+			"o_NGJMFIMLINM": "瞄准涂装",
+			"o_KHHFOJKGENE": "握把涂装",
+			"o_MPHFFILLALG": "下挂涂装",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": ""
 		},
 		{
 			"typeId": 3,
+			"name": "狙击类",
 			"skinNum": [
 				1,
 				2,
@@ -45,20 +68,32 @@
 				4
 			],
 			"modMount1": [
-				202
+				2021,
+				2022
 			],
 			"modMount2": [
-				101
+				1021
 			],
 			"modMount3": [
-				1301
+				13011,
+				13012
 			],
 			"modMount4": [
-				301
-			]
+				3011,
+				3012,
+				3013,
+				3014
+			],
+			"o_OCJLECBCKPO": "枪口涂装",
+			"o_NGJMFIMLINM": "瞄准涂装",
+			"o_KHHFOJKGENE": "脚架涂装",
+			"o_MPHFFILLALG": "下挂涂装",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": ""
 		},
 		{
 			"typeId": 4,
+			"name": "突击类",
 			"skinNum": [
 				1,
 				2,
@@ -66,20 +101,34 @@
 				4
 			],
 			"modMount1": [
-				201
+				2011,
+				2012
 			],
 			"modMount2": [
-				101
+				1011,
+				1012,
+				1013
 			],
 			"modMount3": [
-				1201
+				12011,
+				12012
 			],
 			"modMount4": [
-				301
-			]
+				3011,
+				3012,
+				3013,
+				3014
+			],
+			"o_OCJLECBCKPO": "枪口涂装",
+			"o_NGJMFIMLINM": "瞄准涂装",
+			"o_KHHFOJKGENE": "握把涂装",
+			"o_MPHFFILLALG": "下挂涂装",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": ""
 		},
 		{
 			"typeId": 5,
+			"name": "机枪类",
 			"skinNum": [
 				1,
 				2,
@@ -87,41 +136,69 @@
 				4
 			],
 			"modMount1": [
-				202
+				2021,
+				2022
 			],
 			"modMount2": [
-				102
+				1011,
+				1012,
+				1013
 			],
 			"modMount3": [
-				1301
+				13011,
+				13012
 			],
 			"modMount4": [
-				301
-			]
+				3011,
+				3012,
+				3013,
+				3014
+			],
+			"o_OCJLECBCKPO": "枪口涂装",
+			"o_NGJMFIMLINM": "瞄准涂装",
+			"o_KHHFOJKGENE": "脚架涂装",
+			"o_MPHFFILLALG": "下挂涂装",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": ""
 		},
 		{
 			"typeId": 6,
+			"name": "霰弹类",
 			"skinNum": [
 				1,
 				2
 			],
 			"modMount1": [
-				203
+				2031
 			],
 			"modMount2": [
-				103
+				1031,
+				1032
 			],
+			"o_OCJLECBCKPO": "枪口涂装",
+			"o_NGJMFIMLINM": "瞄准涂装",
+			"o_KHHFOJKGENE": "",
+			"o_MPHFFILLALG": "",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": "",
 			"modMount3": [],
 			"modMount4": []
 		},
 		{
 			"typeId": 7,
+			"name": "特殊武器类型",
 			"skinNum": [
 				1
 			],
 			"modMount1": [
-				401
+				4011
 			],
+			"o_OCJLECBCKPO": "刀刃涂装",
+			"o_NGJMFIMLINM": "",
+			"o_KHHFOJKGENE": "",
+			"o_MPHFFILLALG": "",
+			"o_EPCBIGJPCGB": "",
+			"o_APOELNFDBNH": "",
 			"modMount2": [],
 			"modMount3": [],
 			"modMount4": []

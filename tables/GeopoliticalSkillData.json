@@ -1,0 +1,108 @@
+{
+	"data": [
+		{
+			"id": 1001,
+			"skillName": "吸血LV1",
+			"skillDescription": "攻击成功后，恢复自身1点生命",
+			"level": 1,
+			"o_CHBNNPDFJMP": 1,
+			"o_CNKAJJCMOLA": "1:1"
+		},
+		{
+			"id": 1002,
+			"skillName": "窃取LV1",
+			"skillDescription": "无论攻击是否成功，窃取目标1点防御，持续3回合，可叠加",
+			"level": 1,
+			"o_CHBNNPDFJMP": 2,
+			"o_CNKAJJCMOLA": "1:11,2:12"
+		},
+		{
+			"id": 1003,
+			"skillName": "窃取LV1",
+			"skillDescription": "无论攻击是否成功，窃取目标1点攻击，持续3回合，可叠加",
+			"level": 1,
+			"o_CHBNNPDFJMP": 2,
+			"o_CNKAJJCMOLA": "1:9,2:10"
+		},
+		{
+			"id": 1004,
+			"skillName": "撞击LV1",
+			"skillDescription": "攻击成功后，击退目标2格，若发生碰撞，则使碰撞双方受到6点生命损失",
+			"level": 1,
+			"o_CHBNNPDFJMP": 1,
+			"o_CNKAJJCMOLA": "2:2,6:3"
+		},
+		{
+			"id": 1005,
+			"skillName": "推离LV2",
+			"skillDescription": "攻击成功后，选择一个方向，将目标推开1-2格",
+			"level": 2,
+			"o_CHBNNPDFJMP": 1,
+			"o_CNKAJJCMOLA": "2:4"
+		},
+		{
+			"id": 1006,
+			"skillName": "能量增援LV1",
+			"skillDescription": "每当自身回合开始时，有30%概率获得1点额外能量，上限2点，可叠加",
+			"level": 1,
+			"o_CHBNNPDFJMP": 3,
+			"o_CNKAJJCMOLA": "1:17"
+		},
+		{
+			"id": 1008,
+			"skillName": "干扰LV1",
+			"skillDescription": "选择1张对方的任务牌，放回牌库",
+			"level": 1,
+			"o_CHBNNPDFJMP": 4,
+			"o_CNKAJJCMOLA": "4:6"
+		},
+		{
+			"id": 1009,
+			"skillName": "范围伤害Ⅰ",
+			"skillDescription": "对范围内的敌方单位，扣除1点生命",
+			"level": 1,
+			"o_CHBNNPDFJMP": 4,
+			"o_CNKAJJCMOLA": "2:7"
+		},
+		{
+			"id": 1010,
+			"skillName": "控制Ⅰ",
+			"skillDescription": "获取一个敌方单位控制权，直至该单位死亡为止",
+			"level": 1,
+			"o_CHBNNPDFJMP": 4,
+			"o_CNKAJJCMOLA": "2:8"
+		},
+		{
+			"id": 1011,
+			"skillName": "范围减攻Ⅰ",
+			"skillDescription": "对范围内的敌方单位，扣除1点攻击，持续3回合",
+			"level": 1,
+			"o_CHBNNPDFJMP": 4,
+			"o_CNKAJJCMOLA": "2:10"
+		},
+		{
+			"id": 1012,
+			"skillName": "范围减防Ⅰ",
+			"skillDescription": "对范围内的敌方单位，扣除1点防御，持续3回合",
+			"level": 1,
+			"o_CHBNNPDFJMP": 4,
+			"o_CNKAJJCMOLA": "2:12"
+		},
+		{
+			"id": 2001,
+			"skillName": "陷阱减防",
+			"skillDescription": "对陷阱上的单位-1防",
+			"level": 1,
+			"o_CHBNNPDFJMP": 5,
+			"o_CNKAJJCMOLA": "7:101"
+		},
+		{
+			"id": 2002,
+			"skillName": "陷阱加防",
+			"skillDescription": "对陷阱上的单位+1防",
+			"level": 1,
+			"o_CHBNNPDFJMP": 5,
+			"o_CNKAJJCMOLA": "7:102"
+		}
+	]
+}

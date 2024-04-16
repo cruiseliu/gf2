@@ -1,0 +1,66 @@
+{
+	"data": [
+		{
+			"id": 101001,
+			"mapId": 101001,
+			"pointId": 1,
+			"enable": true,
+			"o_AMKNCHOLNKE": true,
+			"pointType": 1,
+			"o_GCJNFJCFJNP": {
+				"-10": 100
+			},
+			"o_DLBIICLPJLA": 0,
+			"o_LLKGDDMIOAL": 0
+		},
+		{
+			"id": 101002,
+			"mapId": 101001,
+			"pointId": 2,
+			"enable": true,
+			"pointType": 2,
+			"o_GCJNFJCFJNP": {
+				"10": 100
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0,
+			"o_LLKGDDMIOAL": 0
+		},
+		{
+			"id": 101003,
+			"mapId": 101001,
+			"pointId": 3,
+			"enable": true,
+			"pointType": 3,
+			"o_DLBIICLPJLA": 9002,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {},
+			"o_LLKGDDMIOAL": 0
+		},
+		{
+			"id": 101004,
+			"mapId": 101001,
+			"pointId": 4,
+			"enable": true,
+			"pointType": 4,
+			"o_GCJNFJCFJNP": {
+				"-10": 50,
+				"10": 50
+			},
+			"o_AMKNCHOLNKE": false,
+			"o_DLBIICLPJLA": 0,
+			"o_LLKGDDMIOAL": 0
+		},
+		{
+			"id": 101005,
+			"mapId": 101001,
+			"pointId": 5,
+			"enable": true,
+			"pointType": 5,
+			"o_LLKGDDMIOAL": 27101,
+			"o_AMKNCHOLNKE": false,
+			"o_GCJNFJCFJNP": {},
+			"o_DLBIICLPJLA": 0
+		}
+	]
+}

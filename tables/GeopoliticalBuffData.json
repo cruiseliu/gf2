@@ -1,0 +1,76 @@
+{
+	"data": [
+		{
+			"buffId": 101,
+			"o_IGEPKLCIBLI": "增加+1攻的buff，3回合",
+			"o_FMPMMJPEFDB": 1001,
+			"o_CNEIMNHOCPP": true,
+			"param2": 1,
+			"param1": 0
+		},
+		{
+			"buffId": 201,
+			"o_IGEPKLCIBLI": "增加-1攻的buff，3回合",
+			"o_FMPMMJPEFDB": 1001,
+			"o_CNEIMNHOCPP": true,
+			"param2": -1,
+			"param1": 0
+		},
+		{
+			"buffId": 301,
+			"o_IGEPKLCIBLI": "增加+1防的buff，3回合",
+			"o_FMPMMJPEFDB": 1001,
+			"o_CNEIMNHOCPP": true,
+			"param1": 1,
+			"param2": 1
+		},
+		{
+			"buffId": 401,
+			"o_IGEPKLCIBLI": "增加-1防的buff，3回合",
+			"o_FMPMMJPEFDB": 1001,
+			"o_CNEIMNHOCPP": true,
+			"param1": 1,
+			"param2": -1
+		},
+		{
+			"buffId": 501,
+			"o_IGEPKLCIBLI": "增加每回合开始时30%概率获得能量2点的buff",
+			"o_FMPMMJPEFDB": 1005,
+			"param1": 2,
+			"param2": 300,
+			"o_CNEIMNHOCPP": false
+		},
+		{
+			"buffId": 1001,
+			"o_IGEPKLCIBLI": "获得敌方单位控制权，直至单位死亡为止",
+			"o_FMPMMJPEFDB": 1010,
+			"param1": 1,
+			"o_CNEIMNHOCPP": false,
+			"param2": 0
+		},
+		{
+			"buffId": 2001,
+			"o_IGEPKLCIBLI": "陷阱-1防的buff",
+			"o_FMPMMJPEFDB": 1001,
+			"param1": 1,
+			"param2": -1,
+			"o_CNEIMNHOCPP": false
+		},
+		{
+			"buffId": 2002,
+			"o_IGEPKLCIBLI": "陷阱+1防的buff",
+			"o_FMPMMJPEFDB": 1001,
+			"param1": 1,
+			"param2": 1,
+			"o_CNEIMNHOCPP": false
+		},
+		{
+			"buffId": 9999,
+			"o_IGEPKLCIBLI": "被偷属性，程序用勿动",
+			"o_FMPMMJPEFDB": 1008,
+			"o_CNEIMNHOCPP": false,
+			"param1": 0,
+			"param2": 0
+		}
+	]
+}

@@ -1,6 +1,85 @@
 {
 	"data": [
 		{
+			"id": 2015,
+			"camp": 1,
+			"enemyCamp": 1099,
+			"duty": 2,
+			"skillNormalAttack": 10150101,
+			"skillActive": 10150501,
+			"skillTalent": 10150801,
+			"skillActiveExtra": [
+				10150701,
+				10150401
+			],
+			"skillTalentExtra": [
+				101507011
+			],
+			"rank": 1,
+			"propertyGroup": 90130,
+			"name": "维普蕾",
+			"joke": "要有新的演出了吗？维普蕾，超·级·期·待☆！",
+			"trapDescription": "",
+			"description": "活跃在“战场”这个特殊舞台上的偶像！每天都在为了下一场演出做着万全的准备——这样，就不会再轻易摔倒或者撞到其他人了吧。",
+			"textIndex": [
+				3
+			],
+			"characterPic": "VepleySSR",
+			"modelCode": 5015,
+			"moveCode": 27,
+			"occupySize": 1,
+			"maxAp": 400,
+			"aiOrderClass": 200,
+			"useFakeAttack": true,
+			"shieldType": 1,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100002,
+			"shieldBrokenEffectId": 200001,
+			"beSuppressedConfig": [
+				80000001,
+				1,
+				1000,
+				0,
+				32
+			],
+			"idleType": 1,
+			"displacement": 1,
+			"dzOpenBattle": 10150101,
+			"btPath": "BT/GunBT/1015/MainBT_1015.bt",
+			"weakTag": "5",
+			"suppressGroup": [
+				6,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "维普蕾",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"defaultClothId": 1101500,
+			"weakWeaponTag": 8,
+			"weaponTag": 32,
+			"addLevel": 0,
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
 			"id": 2016,
 			"camp": 1,
 			"enemyCamp": 1001,
@@ -73,7 +152,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2017,
@@ -146,7 +226,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2018,
@@ -220,7 +301,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2019,
@@ -295,7 +377,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2020,
@@ -368,7 +451,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2021,
@@ -441,7 +525,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2022,
@@ -516,7 +601,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2023,
@@ -589,7 +675,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2024,
@@ -677,7 +764,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2025,
@@ -753,7 +841,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2026,
@@ -830,7 +919,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2031,
@@ -910,7 +1000,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2032,
@@ -991,7 +1082,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2033,
@@ -1070,7 +1162,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2034,
@@ -1149,7 +1242,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2035,
@@ -1227,7 +1321,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2036,
@@ -1307,7 +1402,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2037,
@@ -1315,12 +1411,30 @@
 			"enemyCamp": 1099,
 			"duty": 3,
 			"skillNormalAttack": 10130101,
+			"skillActive": 10130501,
+			"skillTalent": 10130801,
+			"skillActiveExtra": [
+				10130701,
+				10130401
+			],
+			"skillTalentExtra": [
+				101305011,
+				101307011,
+				101304011
+			],
 			"rank": 1,
-			"propertyGroup": 80070,
+			"propertyGroup": 80180,
 			"name": "莱娜",
 			"joke": "",
 			"trapDescription": "",
-			"description": "此处临时填充。之后要同步角色表的相应内容。",
+			"description": "开朗而有亲和力的人形，倾尽全力守护着珍视的家人。日渐沉稳的她，会在对外沟通中展露完美的笑容，也会在见到家人时“强行”献上真诚的拥抱。",
+			"textIndex": [
+				3,
+				9,
+				21
+			],
+			"characterPic": "LennaSSR",
+			"modelCode": 5051,
 			"moveCode": 27,
 			"occupySize": 1,
 			"maxAp": 400,
@@ -1340,7 +1454,7 @@
 			"idleType": 1,
 			"displacement": 1,
 			"dzOpenBattle": 10130101,
-			"btPath": "BT/GunBT_skill1.bt",
+			"btPath": "BT/GunBT/1013/MainBT_1013.bt",
 			"weakTag": "3",
 			"suppressGroup": [
 				6,
@@ -1355,18 +1469,12 @@
 			"showPotential": true,
 			"guardRadius": 500,
 			"guardRadiusShow": 1,
-			"defaultClothId": 1102300,
+			"defaultClothId": 1101300,
 			"weakWeaponTag": 4,
+			"weaponTag": 2,
 			"addLevel": 0,
-			"skillActive": 0,
-			"skillTalent": 0,
-			"skillActiveExtra": [],
-			"skillTalentExtra": [],
 			"aiList": [],
 			"dzAiList": [],
-			"textIndex": [],
-			"characterPic": "",
-			"modelCode": 0,
 			"trap": false,
 			"useFakeAttack": false,
 			"shieldForDeploy": 0,
@@ -1376,9 +1484,9 @@
 			"shapeTerrain": 0,
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
-			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2039,
@@ -1457,7 +1565,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2040,
@@ -1539,7 +1648,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2041,
@@ -1617,7 +1727,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2042,
@@ -1697,7 +1808,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2043,
@@ -1777,7 +1889,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2044,
@@ -1800,6 +1913,11 @@
 			"joke": "",
 			"trapDescription": "",
 			"description": "恭谦却又坚守原则的招待人形。她会为善良的客人端上香气四溢的咖啡，也会将不堪的客人直接“请”出咖啡馆——这便是“方糖”无可取代的屏障。",
+			"textIndex": [
+				3,
+				8,
+				16
+			],
 			"characterPic": "CentaureissiSSR",
 			"modelCode": 5044,
 			"moveCode": 27,
@@ -1821,7 +1939,7 @@
 			"idleType": 1,
 			"displacement": 1,
 			"dzOpenBattle": 10280101,
-			"btPath": "BT/GunBT_skill1.bt",
+			"btPath": "BT/GunBT/1028/MainBT_1028.bt",
 			"weakTag": "5",
 			"suppressGroup": [
 				6,
@@ -1838,10 +1956,10 @@
 			"guardRadiusShow": 1,
 			"defaultClothId": 1102800,
 			"weakWeaponTag": 8,
+			"weaponTag": 4,
 			"addLevel": 0,
 			"aiList": [],
 			"dzAiList": [],
-			"textIndex": [],
 			"trap": false,
 			"useFakeAttack": false,
 			"shieldForDeploy": 0,
@@ -1851,9 +1969,9 @@
 			"shapeTerrain": 0,
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
-			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2045,
@@ -1931,7 +2049,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2046,
@@ -2011,7 +2130,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2047,
@@ -2046,8 +2166,8 @@
 			"idleType": 1,
 			"displacement": 1,
 			"dzOpenBattle": 10350101,
-			"btPath": "BT/GunBT_skill1.bt",
-			"weakTag": "1",
+			"btPath": "BT/GunBT/1035/MainBT_1035.bt",
+			"weakTag": "5",
 			"suppressGroup": [
 				6,
 				4,
@@ -2062,6 +2182,7 @@
 			"guardRadius": 500,
 			"guardRadiusShow": 1,
 			"defaultClothId": 1103500,
+			"weakWeaponTag": 8,
 			"weaponTag": 4,
 			"addLevel": 0,
 			"skillActive": 0,
@@ -2080,9 +2201,9 @@
 			"shapeTerrain": 0,
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
-			"weakWeaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2048,
@@ -2160,7 +2281,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2049,
@@ -2240,7 +2362,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2050,
@@ -2319,7 +2442,8 @@
 			"enemyType": 0,
 			"ignorePlayer1Skill": false,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2051,
@@ -2395,7 +2519,86 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 2052,
+			"camp": 1,
+			"enemyCamp": 1001,
+			"duty": 3,
+			"skillNormalAttack": 6111101,
+			"skillTalent": 61112200,
+			"skillTalentExtra": [
+				61113210,
+				69310188
+			],
+			"rank": 1,
+			"propertyGroup": 102003,
+			"name": "战斗者·狙击兵三型",
+			"joke": "你别说，还挺疼的——来自中弹队友的中肯评价。",
+			"trapDescription": "",
+			"description": "虽然武器不够高级，但他们却足够狡诈。路过阴影处的时候要小心，不要撞到正在瞄准的瓦良格狙击兵。",
+			"textIndex": [
+				2,
+				45
+			],
+			"characterPic": "Felaskju",
+			"modelCode": 6111,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 300,
+			"aiOrderClass": 650,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 2,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"displacement": 1,
+			"dzOpenBattle": 6111101,
+			"btPath": "BT/MainBT/MainBT_6111.bt",
+			"weakTag": "4",
+			"suppressGroup": [
+				5,
+				6,
+				0,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "狙击兵Ⅲ",
+			"guardRadius": 700,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 6,
+			"weakMap": 61113,
+			"addLevel": 0,
+			"skillActive": 0,
+			"skillActiveExtra": [],
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6141,
@@ -2478,7 +2681,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6143,
@@ -2557,7 +2761,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6144,
@@ -2642,7 +2847,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6145,
@@ -2725,7 +2931,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6151,
@@ -2810,7 +3017,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6152,
@@ -2887,7 +3095,86 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 6166,
+			"camp": 1,
+			"enemyCamp": 1001,
+			"duty": 3,
+			"skillNormalAttack": 6110101,
+			"skillTalent": 910000012,
+			"aiList": [
+				615101
+			],
+			"rank": 3,
+			"propertyGroup": 200101,
+			"name": "破甲者",
+			"joke": "致敬不足，抄袭有余。",
+			"trapDescription": "",
+			"description": "这种机甲是对掠夺者的拙劣模仿。虽然少了点部件，但笨拙的动作倒是非常相似。性能大差不差，火力稍显不足。",
+			"textIndex": [
+				7,
+				13,
+				14
+			],
+			"characterPic": "Tosk",
+			"modelCode": 6151,
+			"moveCode": 1,
+			"occupySize": 3,
+			"maxAp": 250,
+			"aiOrderClass": 50,
+			"shieldType": 1,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100002,
+			"shieldBrokenEffectId": 200001,
+			"beSuppressedConfig": [
+				910000007,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"enemyType": 1,
+			"dzOpenBattle": 6169101,
+			"btPath": "BT/BOSSBT/6151/BOSSBT_yudunzhe.bt",
+			"weakTag": "4,5",
+			"suppressGroup": [
+				5,
+				4,
+				4,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "破甲者",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 14,
+			"addLevel": 0,
+			"skillActive": 0,
+			"skillActiveExtra": [],
+			"skillTalentExtra": [],
+			"dzAiList": [],
+			"trap": false,
+			"useFakeAttack": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6169,
@@ -2976,7 +3263,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6171,
@@ -3064,7 +3352,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6172,
@@ -3159,7 +3448,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6173,
@@ -3253,7 +3543,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6241,
@@ -3334,7 +3625,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6242,
@@ -3414,7 +3706,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6243,
@@ -3497,7 +3790,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6244,
@@ -3575,7 +3869,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6246,
@@ -3659,7 +3954,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6247,
@@ -3737,7 +4033,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6248,
@@ -3819,7 +4116,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6249,
@@ -3901,7 +4199,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6269,
@@ -3989,35 +4288,40 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6279,
 			"camp": 1,
 			"enemyCamp": 1002,
 			"duty": 3,
-			"skillNormalAttack": 6246101,
-			"skillActive": 6246201,
+			"skillNormalAttack": 6279101,
+			"skillActive": 6279201,
+			"skillTalent": 6279100,
 			"skillActiveExtra": [
-				6246341,
-				6246501,
-				6246601
+				6279301
 			],
 			"skillTalentExtra": [
-				6246701,
-				6246801,
-				6246901,
-				6246531,
+				6279202,
+				6279302,
+				627941,
+				627942,
+				6279401,
+				6279501,
+				6279601,
 				910000012,
-				6151501,
-				910000015
+				6151501
+			],
+			"aiList": [
+				627901
 			],
 			"rank": 3,
-			"propertyGroup": 200403,
-			"name": "纽虫",
-			"joke": "这些部件是怎么缝合起来的？",
+			"propertyGroup": 200404,
+			"name": "纽虫·亚种",
+			"joke": "熟悉的噩梦，但恐惧感和压迫力更甚。",
 			"trapDescription": "",
-			"description": "伸缩的藤蔓、粘稠的汁液、庞大的身躯，一个超乎想象的“缝合体”。",
+			"description": "依旧是那个让人难以想象的“缝合体”，只是似乎有一些微妙的不同？",
 			"textIndex": [
 				13,
 				14
@@ -4034,7 +4338,7 @@
 			"shieldBrokenEffectId": 10003001,
 			"beSuppressedConfig": [
 				910000007,
-				2,
+				9999,
 				1000,
 				0,
 				8
@@ -4043,22 +4347,19 @@
 			"enemyType": 1,
 			"dzOpenBattle": 6248101,
 			"btPath": "BT/BOSSBT/6279/BOSSBT_Nemertea_lianzhan.bt",
-			"weakTag": "1,2",
 			"suppressGroup": [
-				4,
-				5,
-				4,
-				5,
+				6,
 				2,
-				4
+				2,
+				2,
+				2,
+				2
 			],
-			"nameOnBar": "纽虫",
+			"nameOnBar": "纽虫·亚种",
 			"guardRadius": 500,
 			"guardRadiusShow": 1,
-			"weakWeaponTag": 10,
+			"o_JCKOELGMDBJ": true,
 			"addLevel": 0,
-			"skillTalent": 0,
-			"aiList": [],
 			"dzAiList": [],
 			"trap": false,
 			"useFakeAttack": false,
@@ -4069,10 +4370,12 @@
 			"shapeIcon": "",
 			"shapeTerrain": 0,
 			"displacement": 0,
+			"weakTag": "",
 			"nonMultimove": false,
 			"showPotential": false,
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
+			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
 			"feature": 0
@@ -4155,7 +4458,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6341,
@@ -4228,7 +4532,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6342,
@@ -4310,7 +4615,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6344,
@@ -4391,7 +4697,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6345,
@@ -4477,7 +4784,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6346,
@@ -4553,7 +4861,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6347,
@@ -4569,8 +4878,8 @@
 				6347302,
 				6347401,
 				6347103,
-				6347303,
 				6347304,
+				6347303,
 				910000019
 			],
 			"rank": 2,
@@ -4638,7 +4947,281 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 6348,
+			"camp": 1,
+			"enemyCamp": 1099,
+			"duty": 1,
+			"skillNormalAttack": 63480101,
+			"skillActive": 63480201,
+			"skillTalent": 63480501,
+			"skillActiveExtra": [
+				63480301,
+				63480401,
+				63481101,
+				63480601,
+				63480602,
+				63480701,
+				63481201
+			],
+			"skillTalentExtra": [
+				63480203,
+				63480302,
+				63480403,
+				63481203,
+				6151501,
+				910000012,
+				910000015
+			],
+			"rank": 3,
+			"propertyGroup": 202901,
+			"name": "烈日魔犬",
+			"joke": "行走的大型烟花放射器。",
+			"trapDescription": "",
+			"description": "装饰着无数夸张彩绘的机械瑞兽，寄托着人们美好的祝愿，是祥瑞与丰收的象征——如果此刻肚子里没有塞满炸药的话。",
+			"textIndex": [
+				13,
+				7
+			],
+			"characterPic": "Eber",
+			"modelCode": 6348,
+			"moveCode": 1,
+			"occupySize": 3,
+			"maxAp": 300,
+			"aiOrderClass": 1000,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"enemyType": 1,
+			"dzOpenBattle": 63480101,
+			"btPath": "BT/MainBT/MainBT_0.bt",
+			"weakTag": "2,3",
+			"suppressGroup": [
+				6,
+				2,
+				6,
+				6,
+				6,
+				4
+			],
+			"nameOnBar": "烈日魔犬",
+			"guardRadius": 700,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 6,
+			"addLevel": 0,
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 6349,
+			"camp": 1,
+			"enemyCamp": 1099,
+			"duty": 1,
+			"skillNormalAttack": 63480101,
+			"skillActive": 63480201,
+			"skillTalent": 63480501,
+			"skillActiveExtra": [
+				63480301,
+				63480401,
+				63481101,
+				63480601,
+				63480602,
+				63480701,
+				63481201
+			],
+			"skillTalentExtra": [
+				63480203,
+				63480302,
+				63480403,
+				63481203,
+				6151501,
+				910000012,
+				910000015
+			],
+			"rank": 3,
+			"propertyGroup": 203001,
+			"name": "烈日魔犬",
+			"joke": "行走的大型烟花放射器。",
+			"trapDescription": "",
+			"description": "装饰着无数夸张彩绘的机械瑞兽，寄托着人们美好的祝愿，是祥瑞与丰收的象征——如果此刻肚子里没有塞满炸药的话。",
+			"textIndex": [
+				13,
+				7
+			],
+			"characterPic": "Eber",
+			"modelCode": 6348,
+			"moveCode": 1,
+			"occupySize": 3,
+			"maxAp": 300,
+			"aiOrderClass": 1000,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"enemyType": 1,
+			"dzOpenBattle": 63480101,
+			"btPath": "BT/MainBT/MainBT_0.bt",
+			"weakTag": "2,3",
+			"suppressGroup": [
+				6,
+				2,
+				6,
+				6,
+				6,
+				4
+			],
+			"nameOnBar": "烈日魔犬",
+			"guardRadius": 700,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 6,
+			"addLevel": 0,
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 6350,
+			"camp": 1,
+			"enemyCamp": 1099,
+			"duty": 1,
+			"skillNormalAttack": 63480101,
+			"skillActive": 63480201,
+			"skillTalent": 63480501,
+			"skillActiveExtra": [
+				63480301,
+				63480401,
+				63481101,
+				63480601,
+				63480602,
+				63480701,
+				63481201
+			],
+			"skillTalentExtra": [
+				63480203,
+				63480302,
+				63480403,
+				63481203,
+				6151501,
+				910000012,
+				910000015
+			],
+			"rank": 3,
+			"propertyGroup": 203101,
+			"name": "烈日魔犬",
+			"joke": "行走的大型烟花放射器。",
+			"trapDescription": "",
+			"description": "装饰着无数夸张彩绘的机械瑞兽，寄托着人们美好的祝愿，是祥瑞与丰收的象征——如果此刻肚子里没有塞满炸药的话。",
+			"textIndex": [
+				13,
+				7
+			],
+			"characterPic": "Eber",
+			"modelCode": 6348,
+			"moveCode": 1,
+			"occupySize": 3,
+			"maxAp": 300,
+			"aiOrderClass": 1000,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"enemyType": 1,
+			"dzOpenBattle": 63480101,
+			"btPath": "BT/MainBT/MainBT_0.bt",
+			"weakTag": "2,3",
+			"suppressGroup": [
+				6,
+				2,
+				6,
+				6,
+				6,
+				4
+			],
+			"nameOnBar": "烈日魔犬",
+			"guardRadius": 700,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 6,
+			"addLevel": 0,
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6441,
@@ -4719,7 +5302,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6442,
@@ -4802,7 +5386,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6443,
@@ -4860,7 +5445,7 @@
 			"btPath": "BT/MainBT/MainBT_6243.bt",
 			"weakTag": "5",
 			"suppressGroup": [
-				2,
+				3,
 				2,
 				2,
 				3,
@@ -4888,7 +5473,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6481,
@@ -4974,7 +5560,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6482,
@@ -5060,7 +5647,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6483,
@@ -5150,7 +5738,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6484,
@@ -5240,7 +5829,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6485,
@@ -5327,7 +5917,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6486,
@@ -5414,7 +6005,176 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 6541,
+			"camp": 1,
+			"enemyCamp": 1004,
+			"duty": 1,
+			"skillNormalAttack": 6442101,
+			"skillActive": 6442201,
+			"skillTalent": 6442301,
+			"skillTalentExtra": [
+				6442401,
+				6442402,
+				6442200,
+				910000019
+			],
+			"dzAiList": [
+				611002
+			],
+			"rank": 2,
+			"propertyGroup": 151301,
+			"name": "生产大师",
+			"joke": "在团队里，他毫无疑问属于人缘最差的那一种。",
+			"trapDescription": "",
+			"description": "对于他来说，只要能解决敌人，死亡也在所不惜。这让他具有极强的破坏性。",
+			"textIndex": [
+				3,
+				12,
+				6,
+				48
+			],
+			"characterPic": "UnitasIon",
+			"modelCode": 6442,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 400,
+			"aiOrderClass": 180,
+			"useFakeAttack": true,
+			"shieldType": 1,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100002,
+			"shieldBrokenEffectId": 200001,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"displacement": 1,
+			"dzOpenBattle": 6442101,
+			"btPath": "BT/MainBT/MainBT_6442.bt",
+			"weakTag": "4",
+			"suppressGroup": [
+				4,
+				3,
+				2,
+				3,
+				0,
+				0
+			],
+			"nameOnBar": "生产大师",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 4,
+			"addLevel": 0,
+			"skillActiveExtra": [],
+			"aiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 6641,
+			"camp": 1,
+			"enemyCamp": 1004,
+			"duty": 1,
+			"skillNormalAttack": 6442101,
+			"skillActive": 6442201,
+			"skillTalent": 6442301,
+			"skillTalentExtra": [
+				6442401,
+				6442402,
+				6442200,
+				910000019
+			],
+			"dzAiList": [
+				611002
+			],
+			"rank": 2,
+			"propertyGroup": 151301,
+			"name": "遗数残像SWAP",
+			"joke": "在团队里，他毫无疑问属于人缘最差的那一种。",
+			"trapDescription": "",
+			"description": "对于他来说，只要能解决敌人，死亡也在所不惜。这让他具有极强的破坏性。",
+			"textIndex": [
+				3,
+				12,
+				6,
+				48
+			],
+			"characterPic": "UnitasIon",
+			"modelCode": 6442,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 400,
+			"aiOrderClass": 180,
+			"useFakeAttack": true,
+			"shieldType": 1,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100002,
+			"shieldBrokenEffectId": 200001,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"displacement": 1,
+			"dzOpenBattle": 6442101,
+			"btPath": "BT/MainBT/MainBT_6442.bt",
+			"weakTag": "4",
+			"suppressGroup": [
+				4,
+				3,
+				2,
+				3,
+				0,
+				0
+			],
+			"nameOnBar": "遗数残像SWAP",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 4,
+			"addLevel": 0,
+			"skillActiveExtra": [],
+			"aiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6851,
@@ -5503,7 +6263,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6852,
@@ -5596,7 +6357,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6853,
@@ -5681,7 +6443,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6854,
@@ -5759,7 +6522,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6855,
@@ -5851,7 +6615,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6856,
@@ -5944,7 +6709,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6857,
@@ -6039,7 +6805,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6858,
@@ -6123,7 +6890,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6859,
@@ -6210,7 +6978,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6861,
@@ -6296,7 +7065,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6862,
@@ -6386,7 +7156,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6871,
@@ -6473,7 +7244,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6872,
@@ -6561,7 +7333,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6873,
@@ -6650,7 +7423,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6874,
@@ -6705,7 +7479,7 @@
 			],
 			"idleType": 1,
 			"enemyType": 1,
-			"dzOpenBattle": 6874101,
+			"dzOpenBattle": 6874301,
 			"btPath": "BT/BOSSBT/6874/BOSSBT_Titan-Sword.bt",
 			"weakTag": "5,4",
 			"suppressGroup": [
@@ -6735,7 +7509,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6875,
@@ -6823,7 +7598,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6876,
@@ -6911,7 +7687,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6877,
@@ -7000,7 +7777,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6878,
@@ -7055,7 +7833,7 @@
 			],
 			"idleType": 1,
 			"enemyType": 1,
-			"dzOpenBattle": 6874101,
+			"dzOpenBattle": 6874301,
 			"btPath": "BT/BOSSBT/6878/BOSSBT_Titan-Sword_hard.bt",
 			"weakTag": "5,2",
 			"suppressGroup": [
@@ -7085,7 +7863,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6879,
@@ -7171,7 +7950,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6880,
@@ -7257,7 +8037,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6881,
@@ -7344,7 +8125,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6882,
@@ -7397,7 +8179,7 @@
 			],
 			"idleType": 1,
 			"enemyType": 1,
-			"dzOpenBattle": 6874101,
+			"dzOpenBattle": 6874301,
 			"btPath": "BT/BOSSBT/6882/BOSSBT_Titan-Sword_simply.bt",
 			"weakTag": "5,1",
 			"suppressGroup": [
@@ -7427,7 +8209,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6901,
@@ -7522,7 +8305,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6902,
@@ -7620,7 +8404,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6903,
@@ -7721,7 +8506,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6904,
@@ -7816,7 +8602,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6906,
@@ -7914,7 +8701,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6907,
@@ -8012,7 +8800,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6908,
@@ -8110,7 +8899,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6911,
@@ -8214,7 +9004,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6912,
@@ -8318,7 +9109,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6913,
@@ -8422,7 +9214,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6922,
@@ -8520,7 +9313,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6923,
@@ -8621,7 +9415,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6951,
@@ -8715,7 +9510,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6952,
@@ -8803,7 +9599,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6953,
@@ -8896,7 +9693,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6954,
@@ -8988,7 +9786,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6955,
@@ -9082,7 +9881,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6956,
@@ -9172,7 +9972,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6957,
@@ -9267,7 +10068,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6958,
@@ -9363,7 +10165,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6959,
@@ -9457,7 +10260,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6960,
@@ -9548,7 +10352,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6961,
@@ -9646,7 +10451,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 6962,
@@ -9743,7 +10549,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7001,
@@ -9822,7 +10629,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7002,
@@ -9834,7 +10642,8 @@
 				910000010,
 				910000013,
 				80000002,
-				70110701
+				70110701,
+				910000022
 			],
 			"rank": 1,
 			"propertyGroup": 300401,
@@ -9901,7 +10710,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7003,
@@ -9913,7 +10723,8 @@
 				910000010,
 				910000013,
 				80000002,
-				70110701
+				70110701,
+				910000022
 			],
 			"rank": 1,
 			"propertyGroup": 300501,
@@ -9980,7 +10791,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7004,
@@ -10060,7 +10872,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7005,
@@ -10140,7 +10953,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7006,
@@ -10220,7 +11034,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7011,
@@ -10232,7 +11047,8 @@
 				80000002,
 				910000011,
 				910000013,
-				910000010
+				910000010,
+				910000022
 			],
 			"rank": 1,
 			"propertyGroup": 300901,
@@ -10298,7 +11114,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7012,
@@ -10310,7 +11127,8 @@
 				80000002,
 				70110701,
 				910000013,
-				910000010
+				910000010,
+				910000022
 			],
 			"rank": 1,
 			"propertyGroup": 301001,
@@ -10376,7 +11194,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7013,
@@ -10454,7 +11273,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7014,
@@ -10528,7 +11348,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7021,
@@ -10608,7 +11429,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7022,
@@ -10688,7 +11510,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 7023,
@@ -10768,7 +11591,8 @@
 			"defaultClothId": 0,
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
-			"weakMap": 0
+			"weakMap": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61101,
@@ -10843,7 +11667,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61102,
@@ -10918,7 +11743,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61103,
@@ -10995,7 +11821,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61111,
@@ -11068,7 +11895,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61112,
@@ -11142,7 +11970,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61113,
@@ -11218,7 +12047,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61121,
@@ -11291,7 +12121,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61122,
@@ -11364,7 +12195,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61131,
@@ -11438,7 +12270,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61132,
@@ -11512,7 +12345,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61141,
@@ -11590,7 +12424,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61142,
@@ -11668,7 +12503,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61143,
@@ -11747,7 +12583,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61151,
@@ -11823,7 +12660,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61152,
@@ -11899,7 +12737,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61153,
@@ -11975,7 +12814,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61161,
@@ -12054,7 +12894,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61162,
@@ -12134,7 +12975,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61163,
@@ -12216,7 +13058,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61201,
@@ -12289,7 +13132,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61202,
@@ -12362,7 +13206,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61211,
@@ -12438,7 +13283,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61212,
@@ -12514,7 +13360,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61213,
@@ -12592,7 +13439,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61221,
@@ -12667,7 +13515,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61222,
@@ -12742,7 +13591,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61301,
@@ -12815,7 +13665,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61311,
@@ -12891,7 +13742,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61312,
@@ -12967,7 +13819,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 61313,
@@ -13045,7 +13898,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62011,
@@ -13118,7 +13972,8 @@
 			"showPotential": false,
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
-			"weaponTag": 0
+			"weaponTag": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62012,
@@ -13193,7 +14048,8 @@
 			"showPotential": false,
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
-			"weaponTag": 0
+			"weaponTag": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62013,
@@ -13269,7 +14125,8 @@
 			"showPotential": false,
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
-			"weaponTag": 0
+			"weaponTag": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62101,
@@ -13342,7 +14199,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62102,
@@ -13418,7 +14276,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62103,
@@ -13495,7 +14354,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62111,
@@ -13568,7 +14428,8 @@
 			"showPotential": false,
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
-			"weaponTag": 0
+			"weaponTag": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62112,
@@ -13642,7 +14503,8 @@
 			"showPotential": false,
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
-			"weaponTag": 0
+			"weaponTag": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62113,
@@ -13718,7 +14580,8 @@
 			"showPotential": false,
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
-			"weaponTag": 0
+			"weaponTag": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62131,
@@ -13791,7 +14654,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62132,
@@ -13865,7 +14729,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62141,
@@ -13940,7 +14805,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62142,
@@ -14015,7 +14881,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62151,
@@ -14093,7 +14960,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62152,
@@ -14169,7 +15037,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62161,
@@ -14244,7 +15113,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62162,
@@ -14320,7 +15190,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62163,
@@ -14396,7 +15267,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62171,
@@ -14472,7 +15344,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62172,
@@ -14550,7 +15423,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62173,
@@ -14629,7 +15503,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62201,
@@ -14703,7 +15578,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62202,
@@ -14777,7 +15653,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62203,
@@ -14785,11 +15662,8 @@
 			"enemyCamp": 1002,
 			"duty": 1,
 			"skillNormalAttack": 6220101,
-			"skillActive": 6220201,
+			"skillActive": 62203201,
 			"skillTalent": 62203301,
-			"skillActiveExtra": [
-				62203201
-			],
 			"skillTalentExtra": [
 				62203202
 			],
@@ -14839,6 +15713,7 @@
 			"weakWeaponTag": 24,
 			"weakMap": 62203,
 			"addLevel": 0,
+			"skillActiveExtra": [],
 			"aiList": [],
 			"dzAiList": [],
 			"trap": false,
@@ -14855,7 +15730,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62241,
@@ -14930,7 +15806,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62242,
@@ -15005,7 +15882,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62341,
@@ -15080,7 +15958,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62342,
@@ -15155,7 +16034,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 62452,
@@ -15228,7 +16108,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63111,
@@ -15302,7 +16183,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63112,
@@ -15376,7 +16258,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63113,
@@ -15452,7 +16335,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63121,
@@ -15529,7 +16413,8 @@
 			"showPotential": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63122,
@@ -15606,7 +16491,8 @@
 			"showPotential": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63131,
@@ -15680,7 +16566,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63132,
@@ -15754,7 +16641,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63141,
@@ -15832,7 +16720,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63142,
@@ -15910,7 +16799,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63143,
@@ -15988,7 +16878,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63151,
@@ -16063,7 +16954,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63152,
@@ -16138,7 +17030,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63153,
@@ -16213,7 +17106,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63161,
@@ -16288,7 +17182,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63162,
@@ -16366,7 +17261,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63163,
@@ -16441,7 +17337,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63171,
@@ -16514,7 +17411,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63172,
@@ -16589,7 +17487,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63173,
@@ -16664,7 +17563,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63211,
@@ -16740,7 +17640,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63212,
@@ -16816,7 +17717,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63213,
@@ -16894,7 +17796,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63221,
@@ -16972,7 +17875,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63321,
@@ -17048,7 +17952,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63341,
@@ -17122,7 +18027,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63342,
@@ -17196,7 +18102,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63343,
@@ -17270,7 +18177,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 63471,
@@ -17345,7 +18253,239 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 63511,
+			"camp": 1,
+			"enemyCamp": 1001,
+			"duty": 1,
+			"skillNormalAttack": 63510101,
+			"skillTalent": 63510301,
+			"skillTalentExtra": [
+				63510201,
+				63480402
+			],
+			"rank": 1,
+			"propertyGroup": 101201,
+			"name": "改造前锋·燃烧一型",
+			"joke": "只要开枪次数够多，总有命中的时候。",
+			"trapDescription": "",
+			"description": "究竟是什么，能让他们从人类变成只会在战场上横冲直撞的大猩猩？",
+			"textIndex": [
+				3
+			],
+			"characterPic": "Felade",
+			"modelCode": 6351,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 400,
+			"aiOrderClass": 600,
+			"useFakeAttack": true,
+			"shieldType": 1,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100002,
+			"shieldBrokenEffectId": 200001,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"displacement": 1,
+			"dzOpenBattle": 63510101,
+			"btPath": "BT/MainBT/MainBT_0.bt",
+			"weakTag": "5,1",
+			"suppressGroup": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "改造前锋·燃烧一型",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 14,
+			"weakMap": 61101,
+			"addLevel": 0,
+			"skillActive": 0,
+			"skillActiveExtra": [],
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 63521,
+			"camp": 1,
+			"enemyCamp": 1001,
+			"duty": 1,
+			"skillNormalAttack": 63520101,
+			"skillTalent": 63510301,
+			"skillTalentExtra": [
+				63520201,
+				63480402
+			],
+			"rank": 1,
+			"propertyGroup": 101201,
+			"name": "改造前锋·浊刻一型",
+			"joke": "只要开枪次数够多，总有命中的时候。",
+			"trapDescription": "",
+			"description": "究竟是什么，能让他们从人类变成只会在战场上横冲直撞的大猩猩？",
+			"textIndex": [
+				3
+			],
+			"characterPic": "Felade",
+			"modelCode": 6352,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 400,
+			"aiOrderClass": 600,
+			"useFakeAttack": true,
+			"shieldType": 1,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100002,
+			"shieldBrokenEffectId": 200001,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"displacement": 1,
+			"dzOpenBattle": 63520101,
+			"btPath": "BT/MainBT/MainBT_0.bt",
+			"weakTag": "5,1",
+			"suppressGroup": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "改造前锋·浊刻一型",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 14,
+			"weakMap": 61101,
+			"addLevel": 0,
+			"skillActive": 0,
+			"skillActiveExtra": [],
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 63531,
+			"camp": 1,
+			"enemyCamp": 1001,
+			"duty": 1,
+			"skillNormalAttack": 63530101,
+			"skillTalent": 63510301,
+			"skillTalentExtra": [
+				63530201,
+				63480402
+			],
+			"rank": 1,
+			"propertyGroup": 101201,
+			"name": "改造前锋·酸蚀一型",
+			"joke": "只要开枪次数够多，总有命中的时候。",
+			"trapDescription": "",
+			"description": "究竟是什么，能让他们从人类变成只会在战场上横冲直撞的大猩猩？",
+			"textIndex": [
+				3
+			],
+			"characterPic": "Felade",
+			"modelCode": 6353,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 400,
+			"aiOrderClass": 600,
+			"useFakeAttack": true,
+			"shieldType": 1,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100002,
+			"shieldBrokenEffectId": 200001,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 1,
+			"displacement": 1,
+			"dzOpenBattle": 63530101,
+			"btPath": "BT/MainBT/MainBT_0.bt",
+			"weakTag": "5,1",
+			"suppressGroup": [
+				5,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "改造前锋·酸蚀一型",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 14,
+			"weakMap": 61101,
+			"addLevel": 0,
+			"skillActive": 0,
+			"skillActiveExtra": [],
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64101,
@@ -17418,7 +18558,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64102,
@@ -17491,7 +18632,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64103,
@@ -17564,7 +18706,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64111,
@@ -17640,7 +18783,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64112,
@@ -17716,7 +18860,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64113,
@@ -17792,7 +18937,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64121,
@@ -17866,7 +19012,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64122,
@@ -17940,7 +19087,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64123,
@@ -18016,7 +19164,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64131,
@@ -18089,7 +19238,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64132,
@@ -18162,7 +19312,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64141,
@@ -18235,7 +19386,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64201,
@@ -18308,7 +19460,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64202,
@@ -18382,7 +19535,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64203,
@@ -18456,7 +19610,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64211,
@@ -18533,7 +19688,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64212,
@@ -18610,7 +19766,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64213,
@@ -18687,7 +19844,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64221,
@@ -18763,7 +19921,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64222,
@@ -18839,7 +19998,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64223,
@@ -18917,7 +20077,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64231,
@@ -18990,7 +20151,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64232,
@@ -19065,7 +20227,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64233,
@@ -19140,7 +20303,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64301,
@@ -19213,7 +20377,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64302,
@@ -19286,7 +20451,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64303,
@@ -19359,7 +20525,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64311,
@@ -19435,7 +20602,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64312,
@@ -19511,7 +20679,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64313,
@@ -19587,7 +20756,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64321,
@@ -19663,7 +20833,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64322,
@@ -19739,7 +20910,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64323,
@@ -19817,7 +20989,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64331,
@@ -19893,7 +21066,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64332,
@@ -19969,7 +21143,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 64333,
@@ -20045,7 +21220,91 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 65011,
+			"camp": 1,
+			"enemyCamp": 1003,
+			"duty": 1,
+			"skillNormalAttack": 6342101,
+			"skillTalent": 6342201,
+			"skillTalentExtra": [
+				6342211,
+				6342301,
+				910000019,
+				80000002
+			],
+			"rank": 1,
+			"propertyGroup": 151101,
+			"name": "培育学者",
+			"joke": "摇头晃脑，反复横跳，它似乎有自己的想法？",
+			"trapDescription": "",
+			"description": "基于铁血工造技术研发出的改进型号！相较原机型，输出效率更高，行动更灵活，是空中支援的好帮手。",
+			"textIndex": [
+				12,
+				16,
+				21,
+				28,
+				48
+			],
+			"characterPic": "ScoutElite",
+			"modelCode": 6342,
+			"moveCode": 4,
+			"occupySize": 1,
+			"maxAp": 700,
+			"aiOrderClass": 690,
+			"shieldForDeploy": 300,
+			"shieldType": 1,
+			"attackType": 2,
+			"element": 1,
+			"shieldEffectId": 100002,
+			"shieldBrokenEffectId": 200001,
+			"beSuppressedConfig": [
+				80000001,
+				9999,
+				0,
+				0,
+				8
+			],
+			"idleType": 2,
+			"displacement": 1,
+			"dzOpenBattle": 6501101,
+			"btPath": "BT/MainBT/MainBT_6342.bt",
+			"weakTag": "1",
+			"suppressGroup": [
+				4,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "培育学者",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 8,
+			"addLevel": 0,
+			"skillActive": 0,
+			"skillActiveExtra": [],
+			"aiList": [],
+			"dzAiList": [],
+			"trap": false,
+			"useFakeAttack": false,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 66011,
@@ -20122,7 +21381,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 66021,
@@ -20196,7 +21456,382 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 68512,
+			"camp": 1,
+			"enemyCamp": 1100,
+			"duty": 1,
+			"skillNormalAttack": 6851101,
+			"skillActive": 6851111,
+			"skillActiveExtra": [
+				6851301,
+				6851401
+			],
+			"skillTalentExtra": [
+				6851500,
+				6851600,
+				6851300,
+				6151501,
+				80000002,
+				910000015
+			],
+			"aiList": [
+				685101
+			],
+			"dzAiList": [
+				685101
+			],
+			"rank": 3,
+			"propertyGroup": 200901,
+			"name": "黑眼",
+			"joke": "舞会已开场，期待您的表现，阁下。",
+			"trapDescription": "",
+			"description": "完美的微笑是淑女的基本功，当然，优雅的舞步与灵活的战术也是。",
+			"textIndex": [
+				13,
+				32
+			],
+			"characterPic": "Darture_default",
+			"modelCode": 6851,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 300,
+			"aiOrderClass": 50,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"idleType": 1,
+			"dzOpenBattle": 6851101,
+			"btPath": "BT/BOSSBT/6851/BOSSBT_Darture.bt",
+			"weakTag": "4,2",
+			"suppressGroup": [
+				3,
+				5,
+				4,
+				7,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "黑眼",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 38,
+			"addLevel": 0,
+			"skillTalent": 0,
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 68522,
+			"camp": 1,
+			"enemyCamp": 1100,
+			"duty": 1,
+			"skillNormalAttack": 6852101,
+			"skillActive": 6852102,
+			"skillActiveExtra": [
+				6852201,
+				6852301,
+				6857401
+			],
+			"skillTalentExtra": [
+				6852400,
+				6852500,
+				6852600,
+				6151501,
+				910000012,
+				6852900,
+				910000015
+			],
+			"aiList": [
+				685201,
+				685202
+			],
+			"dzAiList": [
+				685201,
+				685202
+			],
+			"rank": 3,
+			"propertyGroup": 200902,
+			"name": "黑眼",
+			"joke": "惩罚才刚刚开始，阁下。",
+			"trapDescription": "",
+			"description": "淑女的伞尖跃动着足以致命的火花。当火焰燃起时，战场的风景将更加美丽。",
+			"textIndex": [
+				13,
+				19
+			],
+			"characterPic": "Darture_evo",
+			"modelCode": 6852,
+			"moveCode": 3,
+			"occupySize": 1,
+			"maxAp": 300,
+			"aiOrderClass": 50,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 2,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				910000006,
+				2,
+				1000,
+				0,
+				8
+			],
+			"idleType": 1,
+			"enemyType": 1,
+			"dzOpenBattle": 6852101,
+			"btPath": "BT/BOSSBT/6852/BOSSBT_DartureMKII.bt",
+			"weakTag": "4,5",
+			"suppressGroup": [
+				3,
+				5,
+				3,
+				7,
+				3,
+				0,
+				0
+			],
+			"nameOnBar": "黑眼",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 14,
+			"addLevel": 0,
+			"skillTalent": 0,
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 68562,
+			"camp": 1,
+			"enemyCamp": 1100,
+			"duty": 1,
+			"skillNormalAttack": 6851101,
+			"skillActive": 6851111,
+			"skillActiveExtra": [
+				6856201,
+				6856301,
+				6851401,
+				6856500
+			],
+			"skillTalentExtra": [
+				6851500,
+				6851600,
+				6856300,
+				6151501,
+				80000002,
+				910000015
+			],
+			"aiList": [
+				685602,
+				685603
+			],
+			"dzAiList": [
+				685602,
+				685603
+			],
+			"rank": 3,
+			"propertyGroup": 201101,
+			"name": "黑眼",
+			"joke": "舞会已开场，期待您的表现，阁下。",
+			"trapDescription": "",
+			"description": "完美的微笑是淑女的基本功，当然，优雅的舞步与灵活的战术也是。",
+			"textIndex": [
+				13,
+				32
+			],
+			"characterPic": "Darture_default",
+			"modelCode": 6851,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 300,
+			"aiOrderClass": 50,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"idleType": 1,
+			"dzOpenBattle": 6851101,
+			"btPath": "BT/BOSSBT/6856/BOSSBT_Darture_hard.bt",
+			"weakTag": "4,5",
+			"suppressGroup": [
+				3,
+				5,
+				4,
+				7,
+				3,
+				0,
+				0
+			],
+			"nameOnBar": "黑眼",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 12,
+			"addLevel": 0,
+			"skillTalent": 0,
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 68572,
+			"camp": 1,
+			"enemyCamp": 1100,
+			"duty": 1,
+			"skillNormalAttack": 6857101,
+			"skillActive": 6857102,
+			"skillActiveExtra": [
+				6852201,
+				6852301,
+				6857411,
+				6852511
+			],
+			"skillTalentExtra": [
+				6852400,
+				6857500,
+				6852600,
+				6151501,
+				910000012,
+				910000101,
+				6852900,
+				910000015
+			],
+			"aiList": [
+				685701,
+				685702
+			],
+			"dzAiList": [
+				685701,
+				685702
+			],
+			"rank": 3,
+			"propertyGroup": 201102,
+			"name": "黑眼",
+			"joke": "惩罚才刚刚开始，阁下。",
+			"trapDescription": "",
+			"description": "淑女的伞尖跃动着足以致命的火花。当火焰燃起时，战场的风景将更加美丽。",
+			"textIndex": [
+				13,
+				19
+			],
+			"characterPic": "Darture_evo",
+			"modelCode": 6852,
+			"moveCode": 3,
+			"occupySize": 1,
+			"maxAp": 300,
+			"aiOrderClass": 50,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 2,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				910000006,
+				2,
+				1000,
+				0,
+				8
+			],
+			"idleType": 1,
+			"enemyType": 1,
+			"dzOpenBattle": 6852101,
+			"btPath": "BT/BOSSBT/6857/BOSSBT_DartureMKII_hard.bt",
+			"weakTag": "4,5",
+			"suppressGroup": [
+				3,
+				5,
+				3,
+				7,
+				3,
+				0,
+				0
+			],
+			"nameOnBar": "黑眼",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 12,
+			"addLevel": 0,
+			"skillTalent": 0,
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 68582,
@@ -20280,7 +21915,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 68592,
@@ -20367,7 +22003,99 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
+		},
+		{
+			"id": 68622,
+			"camp": 1,
+			"enemyCamp": 1100,
+			"duty": 1,
+			"skillNormalAttack": 6851101,
+			"skillActive": 6851111,
+			"skillActiveExtra": [
+				6856201,
+				6856301,
+				6851401
+			],
+			"skillTalentExtra": [
+				6851500,
+				6851600,
+				6856300,
+				6151501,
+				80000002,
+				910000015
+			],
+			"aiList": [
+				686201
+			],
+			"dzAiList": [
+				686201
+			],
+			"rank": 3,
+			"propertyGroup": 201001,
+			"name": "黑眼",
+			"joke": "舞会已开场，期待您的表现，阁下。",
+			"trapDescription": "",
+			"description": "完美的微笑是淑女的基本功，当然，优雅的舞步与灵活的战术也是。",
+			"textIndex": [
+				13,
+				32
+			],
+			"characterPic": "Darture_default",
+			"modelCode": 6851,
+			"moveCode": 11,
+			"occupySize": 1,
+			"maxAp": 300,
+			"aiOrderClass": 50,
+			"useFakeAttack": true,
+			"shieldType": 2,
+			"attackType": 1,
+			"element": 1,
+			"shieldEffectId": 100003,
+			"shieldBrokenEffectId": 200002,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				8
+			],
+			"idleType": 1,
+			"dzOpenBattle": 6851101,
+			"btPath": "BT/BOSSBT/6862/BOSSBT_Darture.bt",
+			"weakTag": "4,1",
+			"suppressGroup": [
+				3,
+				5,
+				4,
+				7,
+				0,
+				0,
+				0
+			],
+			"nameOnBar": "黑眼",
+			"guardRadius": 500,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 6,
+			"addLevel": 0,
+			"skillTalent": 0,
+			"trap": false,
+			"shieldForDeploy": 0,
+			"shape": 0,
+			"shapeParam": "",
+			"shapeIcon": "",
+			"shapeTerrain": 0,
+			"displacement": 0,
+			"enemyType": 0,
+			"nonMultimove": false,
+			"showPotential": false,
+			"ignorePlayer1Skill": false,
+			"defaultClothId": 0,
+			"weaponTag": 0,
+			"weakMap": 0,
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 69021,
@@ -20438,7 +22166,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 69022,
@@ -20509,7 +22238,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 69023,
@@ -20580,7 +22310,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 69602,
@@ -20671,7 +22402,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206441,
@@ -20749,7 +22481,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206481,
@@ -20833,7 +22566,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206482,
@@ -20917,7 +22651,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206851,
@@ -21005,7 +22740,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206852,
@@ -21098,7 +22834,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206853,
@@ -21183,7 +22920,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206854,
@@ -21261,7 +22999,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206855,
@@ -21343,7 +23082,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206856,
@@ -21436,7 +23176,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206857,
@@ -21531,7 +23272,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206861,
@@ -21613,7 +23355,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 206862,
@@ -21703,7 +23446,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 611011,
@@ -21778,7 +23522,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 916141,
@@ -21851,7 +23596,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 916169,
@@ -21926,7 +23672,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 986110,
@@ -22005,7 +23752,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 996110,
@@ -22080,7 +23828,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 996111,
@@ -22153,7 +23902,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 996112,
@@ -22226,7 +23976,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 996143,
@@ -22299,7 +24050,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 996342,
@@ -22372,7 +24124,8 @@
 			"weakWeaponTag": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2006442,
@@ -22453,7 +24206,8 @@
 			"defaultClothId": 0,
 			"weaponTag": 0,
 			"weakMap": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064101,
@@ -22526,7 +24280,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064102,
@@ -22599,7 +24354,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064103,
@@ -22672,7 +24428,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064111,
@@ -22748,7 +24505,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064112,
@@ -22824,7 +24582,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064113,
@@ -22900,7 +24659,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064121,
@@ -22974,7 +24734,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064122,
@@ -23048,7 +24809,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064123,
@@ -23124,7 +24886,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064131,
@@ -23197,7 +24960,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064132,
@@ -23270,7 +25034,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064141,
@@ -23343,7 +25108,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064201,
@@ -23416,7 +25182,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064202,
@@ -23490,7 +25257,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064203,
@@ -23564,7 +25332,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064211,
@@ -23641,7 +25410,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064212,
@@ -23718,7 +25488,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064213,
@@ -23795,7 +25566,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064221,
@@ -23871,7 +25643,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064222,
@@ -23947,7 +25720,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064223,
@@ -24025,7 +25799,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064231,
@@ -24098,7 +25873,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064232,
@@ -24173,7 +25949,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064233,
@@ -24248,7 +26025,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064301,
@@ -24321,7 +26099,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064302,
@@ -24394,7 +26173,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064303,
@@ -24467,7 +26247,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064311,
@@ -24543,7 +26324,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064312,
@@ -24619,7 +26401,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064313,
@@ -24695,7 +26478,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064321,
@@ -24771,7 +26555,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064322,
@@ -24847,7 +26632,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064323,
@@ -24925,7 +26711,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064331,
@@ -25001,7 +26788,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064332,
@@ -25077,7 +26865,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		},
 		{
 			"id": 2064333,
@@ -25153,7 +26942,8 @@
 			"ignorePlayer1Skill": false,
 			"defaultClothId": 0,
 			"weaponTag": 0,
-			"feature": 0
+			"feature": 0,
+			"o_JCKOELGMDBJ": false
 		}
 	]
 }

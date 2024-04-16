@@ -519,6 +519,136 @@
 			"reward": {
 				"13": 725
 			}
+		},
+		{
+			"id": 91,
+			"level": 9,
+			"name": "一般",
+			"scoreSection": [
+				0,
+				39319
+			],
+			"rank": 1,
+			"reward": {
+				"13": 730
+			}
+		},
+		{
+			"id": 92,
+			"level": 9,
+			"name": "较好",
+			"scoreSection": [
+				39320,
+				98299
+			],
+			"rank": 2,
+			"reward": {
+				"13": 750
+			}
+		},
+		{
+			"id": 93,
+			"level": 9,
+			"name": "良好",
+			"scoreSection": [
+				98300,
+				157279
+			],
+			"rank": 3,
+			"reward": {
+				"13": 770
+			}
+		},
+		{
+			"id": 94,
+			"level": 9,
+			"name": "优秀",
+			"scoreSection": [
+				157280,
+				196599
+			],
+			"rank": 4,
+			"reward": {
+				"13": 790
+			}
+		},
+		{
+			"id": 95,
+			"level": 9,
+			"name": "极佳",
+			"scoreSection": [
+				196600,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 820
+			}
+		},
+		{
+			"id": 101,
+			"level": 10,
+			"name": "一般",
+			"scoreSection": [
+				0,
+				60999
+			],
+			"rank": 1,
+			"reward": {
+				"13": 730
+			}
+		},
+		{
+			"id": 102,
+			"level": 10,
+			"name": "较好",
+			"scoreSection": [
+				61000,
+				152499
+			],
+			"rank": 2,
+			"reward": {
+				"13": 750
+			}
+		},
+		{
+			"id": 103,
+			"level": 10,
+			"name": "良好",
+			"scoreSection": [
+				152500,
+				243999
+			],
+			"rank": 3,
+			"reward": {
+				"13": 770
+			}
+		},
+		{
+			"id": 104,
+			"level": 10,
+			"name": "优秀",
+			"scoreSection": [
+				244000,
+				304999
+			],
+			"rank": 4,
+			"reward": {
+				"13": 790
+			}
+		},
+		{
+			"id": 105,
+			"level": 10,
+			"name": "极佳",
+			"scoreSection": [
+				305000,
+				999999
+			],
+			"rank": 5,
+			"reward": {
+				"13": 820
+			}
 		}
 	]
 }

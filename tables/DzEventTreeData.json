@@ -1113,7 +1113,7 @@
 		},
 		{
 			"eventId": 111803,
-			"condition": "14:9&6:30&16:1118071-0",
+			"condition": "14:9&6:15&16:1118071-0",
 			"nextEvent": [
 				111804
 			],
@@ -1127,7 +1127,7 @@
 		},
 		{
 			"eventId": 111805,
-			"condition": "14:6&6:30&16:1118062-0",
+			"condition": "14:6&6:15&16:1118062-0",
 			"nextEvent": [
 				111806
 			],
@@ -1151,30 +1151,6 @@
 			"eventId": 111808,
 			"condition": "16:1118080-1",
 			"resultList": "14:1118080-1",
-			"nextEvent": []
-		},
-		{
-			"eventId": 111809,
-			"resultList": "13:1118038-0",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 111810,
-			"condition": "16:1118038-1",
-			"resultList": "14:1118038-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 111811,
-			"resultList": "13:1118039-0",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 111812,
-			"condition": "16:1118039-1",
-			"resultList": "14:1118039-0",
 			"nextEvent": []
 		},
 		{
@@ -1299,239 +1275,92 @@
 		},
 		{
 			"eventId": 112101,
-			"condition": "2:11219710",
-			"resultList": "9,12:11219710-0",
-			"nextEvent": []
+			"nextEvent": [
+				112102
+			],
+			"resultList": "13:1121009-0",
+			"condition": ""
 		},
 		{
 			"eventId": 112102,
+			"condition": "16:1121009-1",
 			"nextEvent": [
-				112103,
-				99919
+				112103
 			],
-			"resultList": "13:1121067-0",
-			"condition": ""
+			"resultList": "13:1121021-0,14:1121009-0"
 		},
 		{
 			"eventId": 112103,
-			"condition": "16:1121067-1",
+			"condition": "16:1121021-1",
 			"nextEvent": [
 				112104
 			],
-			"resultList": "14:1121067-0"
+			"resultList": "13:1121053-0,14:1121021-0"
 		},
 		{
 			"eventId": 112104,
+			"condition": "16:1121053-1",
 			"nextEvent": [
 				112105
 			],
-			"resultList": "13:1121064-0",
-			"condition": ""
+			"resultList": "13:1121082-0,14:1121053-0"
 		},
 		{
 			"eventId": 112105,
-			"condition": "16:1121064-1",
-			"resultList": "11:11219710-1,14:1121064-0",
+			"condition": "16:1121082-1",
+			"nextEvent": [
+				112106
+			],
+			"resultList": "13:1121022-0,14:1121082-0"
+		},
+		{
+			"eventId": 112106,
+			"condition": "16:1121022-1",
+			"nextEvent": [
+				112107
+			],
+			"resultList": "23:1121021-1,14:1121022-0"
+		},
+		{
+			"eventId": 112107,
+			"condition": "13:1121021",
+			"resultList": "9",
 			"nextEvent": []
 		},
 		{
 			"eventId": 112201,
-			"condition": "2:11220110&2:11220610",
-			"resultList": "9",
-			"nextEvent": []
-		},
-		{
-			"eventId": 112202,
 			"nextEvent": [
-				112203,
-				99911
+				112202
 			],
-			"resultList": "13:1122065-0",
+			"resultList": "13:1122070-0",
 			"condition": ""
 		},
 		{
+			"eventId": 112202,
+			"condition": "16:1122070-1",
+			"nextEvent": [
+				112203
+			],
+			"resultList": "14:1122070-0,11:11220110-0"
+		},
+		{
 			"eventId": 112203,
-			"condition": "16:1122065-1",
+			"condition": "2:11220110",
 			"nextEvent": [
 				112204
 			],
-			"resultList": "11:11220110-0,14:1122065-0"
+			"resultList": "12:11220110-0,13:1122007-1"
 		},
 		{
 			"eventId": 112204,
-			"condition": "2:11220110",
-			"nextEvent": [
-				112205,
-				112206
-			],
-			"resultList": "12:11220110-0,13:1122063-0"
-		},
-		{
-			"eventId": 112205,
-			"condition": "16:1122068-1",
-			"nextEvent": [
-				112207
-			],
-			"resultList": "14:1122063-0,13:1122061-0"
-		},
-		{
-			"eventId": 112206,
-			"condition": "16:1122063-1",
-			"nextEvent": [
-				112208
-			],
-			"resultList": "14:1122063-0,11:11220610-1"
-		},
-		{
-			"eventId": 112207,
-			"condition": "16:1122061-1",
-			"nextEvent": [
-				112208
-			],
-			"resultList": "14:1122061-0,11:11220610-1"
-		},
-		{
-			"eventId": 112208,
-			"condition": "2:11220610",
-			"resultList": "12:11220610-0",
+			"condition": "16:1122007-1",
+			"resultList": "14:1122007-1",
 			"nextEvent": []
 		},
 		{
 			"eventId": 112301,
-			"condition": "2:11230710",
-			"resultList": "9",
-			"nextEvent": []
-		},
-		{
-			"eventId": 112302,
-			"nextEvent": [
-				112303
-			],
-			"resultList": "13:1123089-0",
-			"condition": ""
-		},
-		{
-			"eventId": 112303,
-			"condition": "14:9",
-			"nextEvent": [
-				112304
-			],
-			"resultList": "14:1123089-0"
-		},
-		{
-			"eventId": 112304,
-			"nextEvent": [
-				112305
-			],
-			"resultList": "13:1123020-0",
-			"condition": ""
-		},
-		{
-			"eventId": 112305,
-			"condition": "16:1123020-1",
-			"nextEvent": [
-				112306
-			],
-			"resultList": "14:1123020-0"
-		},
-		{
-			"eventId": 112306,
-			"nextEvent": [
-				112307
-			],
-			"resultList": "13:1123052-0",
-			"condition": ""
-		},
-		{
-			"eventId": 112307,
-			"condition": "14:5",
-			"nextEvent": [
-				112308
-			],
-			"resultList": "14:1123052-0"
-		},
-		{
-			"eventId": 112308,
-			"nextEvent": [
-				112309
-			],
-			"resultList": "13:1123073-0",
-			"condition": ""
-		},
-		{
-			"eventId": 112309,
-			"condition": "16:1123073-1",
-			"nextEvent": [
-				112310
-			],
-			"resultList": "14:1123073-0"
-		},
-		{
-			"eventId": 112310,
-			"nextEvent": [
-				112311
-			],
-			"resultList": "11:11230710-1",
-			"condition": ""
-		},
-		{
-			"eventId": 112311,
-			"condition": "2:11230710",
-			"nextEvent": [
-				112312
-			],
-			"resultList": "12:11230710-1"
-		},
-		{
-			"eventId": 112312,
-			"nextEvent": [
-				112313
-			],
-			"resultList": "13:1123028-0",
-			"condition": ""
-		},
-		{
-			"eventId": 112313,
-			"condition": "16:1123028-1",
-			"nextEvent": [
-				112314
-			],
-			"resultList": "14:1123028-0"
-		},
-		{
-			"eventId": 112314,
-			"resultList": "13:1123075-0",
-			"condition": "",
-			"nextEvent": []
-		},
-		{
-			"eventId": 112350,
-			"nextEvent": [
-				99905
-			],
-			"condition": "",
-			"resultList": ""
-		},
-		{
-			"eventId": 112351,
-			"condition": "14:10",
-			"nextEvent": [
-				99911
-			],
-			"resultList": ""
-		},
-		{
-			"eventId": 112352,
-			"condition": "14:11",
-			"nextEvent": [
-				99811
-			],
-			"resultList": ""
-		},
-		{
-			"eventId": 112401,
-			"condition": "2:11249810",
-			"resultList": "9",
+			"condition": "13:1123019",
+			"resultList": "22:1123048-1",
 			"nextEvent": []
 		},
 		{
@@ -1539,82 +1368,46 @@
 			"nextEvent": [
 				112403
 			],
-			"resultList": "13:1124010-0",
+			"resultList": "13:1124008-0",
 			"condition": ""
 		},
 		{
 			"eventId": 112403,
-			"condition": "16:1124010-1",
-			"resultList": "14:1124010-0",
-			"nextEvent": []
+			"condition": "16:1124008-1",
+			"nextEvent": [
+				112404
+			],
+			"resultList": "14:1124008-0,13:1124052-0"
 		},
 		{
 			"eventId": 112404,
-			"resultList": "17:1002",
-			"condition": "",
-			"nextEvent": []
+			"condition": "16:1124052-1",
+			"nextEvent": [
+				112405,
+				112406
+			],
+			"resultList": "14:1124052-0,13:1124029-0"
 		},
 		{
 			"eventId": 112405,
-			"condition": "7:1124084-2",
-			"resultList": "17:1001",
-			"nextEvent": []
+			"condition": "16:1124029-1",
+			"nextEvent": [
+				112407
+			],
+			"resultList": "14:1124029-0,23:1124068-1,7:112406"
 		},
 		{
 			"eventId": 112406,
-			"condition": "16:1124010-1",
+			"condition": "15:10",
 			"nextEvent": [
-				112420,
-				112421
+				112407
 			],
-			"resultList": "13:1124084-0"
+			"resultList": "14:1124029-0,23:1124068-1,7:112405"
 		},
 		{
 			"eventId": 112407,
-			"condition": "6:5",
-			"resultList": "19:1124112",
-			"nextEvent": []
-		},
-		{
-			"eventId": 112408,
-			"condition": "7:1124080-2",
-			"nextEvent": [
-				112409,
-				112410
-			],
-			"resultList": "13:1124112-0"
-		},
-		{
-			"eventId": 112409,
-			"condition": "16:1124112-1",
-			"resultList": "14:1124112-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 112410,
-			"condition": "16:1124012-1",
-			"resultList": "14:1124112-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 112411,
-			"condition": "7:1124080-2",
-			"nextEvent": [
-				99913,
-				112407
-			],
-			"resultList": ""
-		},
-		{
-			"eventId": 112420,
-			"condition": "7:1124084-2",
-			"resultList": "14:1124084-0",
-			"nextEvent": []
-		},
-		{
-			"eventId": 112421,
-			"condition": "7:1124084-2",
-			"resultList": "23:1124057-1",
+			"condition": "13:1124068",
+			"resultList": "19:1124078,13:1124078-1,22:1124062-1,24:1124068-1,19:1124066,19:1124067,19:1124068,19:1124079",
 			"nextEvent": []
 		},
 		{
@@ -2625,6 +2418,12 @@
 			"eventId": 211128,
 			"condition": "16:2111006-1",
 			"resultList": "14:2111006-0",
+			"nextEvent": []
+		},
+		{
+			"eventId": 3010001,
+			"condition": "18",
+			"resultList": "31:3010055-1",
 			"nextEvent": []
 		}
 	]

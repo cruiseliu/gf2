@@ -4,6 +4,7 @@
 			"id": 1,
 			"cycleId": 1,
 			"level": 1,
+			"o_LBFPKIPPFLG": 2,
 			"showEnemyList": "62695:27;",
 			"showEnemyDescList": [
 				108140
@@ -20,12 +21,15 @@
 			"bBossEnName": "Deichgraf",
 			"bBossPic": "Icon_Weekly_Boss1",
 			"bBossLogo": "Icon_Weekly_Logo1",
-			"bBossName": "要塞伯爵"
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_IHOPEKEJEEC": false
 		},
 		{
 			"id": 2,
 			"cycleId": 1,
 			"level": 2,
+			"o_LBFPKIPPFLG": 3,
 			"showEnemyList": "62695:33;",
 			"showEnemyDescList": [
 				108140
@@ -42,12 +46,15 @@
 			"bBossEnName": "Deichgraf",
 			"bBossPic": "Icon_Weekly_Boss1",
 			"bBossLogo": "Icon_Weekly_Logo1",
-			"bBossName": "要塞伯爵"
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_IHOPEKEJEEC": false
 		},
 		{
 			"id": 3,
 			"cycleId": 1,
 			"level": 3,
+			"o_LBFPKIPPFLG": 4,
 			"showEnemyList": "68555:38;",
 			"showEnemyDescList": [
 				108140
@@ -64,12 +71,15 @@
 			"bBossEnName": "Deichgraf",
 			"bBossPic": "Icon_Weekly_Boss1",
 			"bBossLogo": "Icon_Weekly_Logo1",
-			"bBossName": "要塞伯爵"
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_IHOPEKEJEEC": false
 		},
 		{
 			"id": 4,
 			"cycleId": 1,
 			"level": 4,
+			"o_LBFPKIPPFLG": 5,
 			"showEnemyList": "68555:40;",
 			"showEnemyDescList": [
 				108140
@@ -86,12 +96,15 @@
 			"bBossEnName": "Deichgraf",
 			"bBossPic": "Icon_Weekly_Boss1",
 			"bBossLogo": "Icon_Weekly_Logo1",
-			"bBossName": "要塞伯爵"
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_IHOPEKEJEEC": false
 		},
 		{
 			"id": 5,
 			"cycleId": 1,
 			"level": 5,
+			"o_LBFPKIPPFLG": 6,
 			"showEnemyList": "68555:36,61695:38;",
 			"showEnemyDescList": [
 				108140,
@@ -109,12 +122,15 @@
 			"bBossEnName": "Deichgraf",
 			"bBossPic": "Icon_Weekly_Boss1",
 			"bBossLogo": "Icon_Weekly_Logo1",
-			"bBossName": "要塞伯爵"
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_IHOPEKEJEEC": false
 		},
 		{
 			"id": 6,
 			"cycleId": 1,
 			"level": 6,
+			"o_LBFPKIPPFLG": 7,
 			"showEnemyList": "68555:38,68575:41;",
 			"showEnemyDescList": [
 				108140,
@@ -133,12 +149,15 @@
 			"bBossEnName": "Deichgraf",
 			"bBossPic": "Icon_Weekly_Boss1",
 			"bBossLogo": "Icon_Weekly_Logo1",
-			"bBossName": "要塞伯爵"
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_IHOPEKEJEEC": false
 		},
 		{
 			"id": 7,
 			"cycleId": 1,
 			"level": 7,
+			"o_LBFPKIPPFLG": 8,
 			"showEnemyList": "68565:45,64835:50;",
 			"showEnemyDescList": [
 				108140,
@@ -157,7 +176,9 @@
 			"bBossEnName": "Deichgraf",
 			"bBossPic": "Icon_Weekly_Boss1",
 			"bBossLogo": "Icon_Weekly_Logo1",
-			"bBossName": "要塞伯爵"
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_IHOPEKEJEEC": false
 		},
 		{
 			"id": 8,
@@ -181,7 +202,66 @@
 			"bBossEnName": "Deichgraf",
 			"bBossPic": "Icon_Weekly_Boss1",
 			"bBossLogo": "Icon_Weekly_Logo1",
-			"bBossName": "要塞伯爵"
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_LBFPKIPPFLG": 0,
+			"o_IHOPEKEJEEC": false
+		},
+		{
+			"id": 9,
+			"cycleId": 1,
+			"level": 9,
+			"o_IHOPEKEJEEC": true,
+			"showEnemyList": "68565:45,64835:50;",
+			"showEnemyDescList": [
+				108140,
+				108141
+			],
+			"maxTeam": 3,
+			"bId": [
+				191,
+				192,
+				193
+			],
+			"bPptId": 1602,
+			"questChallengeType": 1009,
+			"name": "歧路挑战",
+			"des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于歧路挑战·要塞伯爵。",
+			"bBossId": "6923:55;6908:60;6911:60;",
+			"bBossEnName": "Deichgraf",
+			"bBossPic": "Icon_Weekly_Boss4",
+			"bBossLogo": "Icon_Weekly_Logo1",
+			"bBossName": "要塞伯爵",
+			"o_NFHMPIMBEFA": "Monster_Head_Tank",
+			"o_LBFPKIPPFLG": 0
+		},
+		{
+			"id": 10,
+			"cycleId": 1,
+			"level": 10,
+			"o_IHOPEKEJEEC": true,
+			"showEnemyList": "68565:45,64835:50;",
+			"showEnemyDescList": [
+				108140,
+				108141
+			],
+			"maxTeam": 3,
+			"bId": [
+				201,
+				202,
+				203
+			],
+			"bPptId": 1602,
+			"questChallengeType": 1010,
+			"name": "歧路挑战",
+			"des": "在本模块中，您将体验到类型各异的模拟作战环境。\n您当前处于歧路挑战·冰海舰骸。",
+			"bBossId": "69311:55;69361:60;69411:60;",
+			"bBossEnName": "Ledyanaya Mogila",
+			"bBossPic": "Icon_Weekly_Boss5",
+			"bBossLogo": "Icon_Weekly_Logo2",
+			"bBossName": "冰海舰骸",
+			"o_NFHMPIMBEFA": "Monster_Head_MogilaP1",
+			"o_LBFPKIPPFLG": 0
 		}
 	]
 }

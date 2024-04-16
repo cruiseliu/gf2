@@ -4,7 +4,7 @@
 			"id": 10001,
 			"spine": "Groza",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -12,7 +12,7 @@
 			"id": 10002,
 			"spine": "Charolic",
 			"eventId": {
-				"Fire": 580012,
+				"Attack": 580012,
 				"Sprint": 580006
 			}
 		},
@@ -20,7 +20,7 @@
 			"id": 10003,
 			"spine": "Colphne",
 			"eventId": {
-				"Fire": 580002,
+				"Attack": 580002,
 				"Sprint": 580006
 			}
 		},
@@ -28,7 +28,7 @@
 			"id": 10004,
 			"spine": "Nemesis",
 			"eventId": {
-				"Fire": 580003,
+				"Attack": 580003,
 				"Sprint": 580006
 			}
 		},
@@ -36,7 +36,7 @@
 			"id": 10005,
 			"spine": "Vepley",
 			"eventId": {
-				"Fire": 580003,
+				"Attack": 580003,
 				"Sprint": 580006
 			}
 		},
@@ -44,7 +44,7 @@
 			"id": 10006,
 			"spine": "Lenna",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -52,7 +52,7 @@
 			"id": 10007,
 			"spine": "Peritya",
 			"eventId": {
-				"Fire": 580001,
+				"Attack": 580001,
 				"Sprint": 580006
 			}
 		},
@@ -60,7 +60,7 @@
 			"id": 10008,
 			"spine": "Sharkry",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -68,7 +68,7 @@
 			"id": 10009,
 			"spine": "Dusevnyj",
 			"eventId": {
-				"Fire": 580003,
+				"Attack": 580003,
 				"Sprint": 580006
 			}
 		},
@@ -76,7 +76,7 @@
 			"id": 10010,
 			"spine": "Cheeta",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -84,7 +84,7 @@
 			"id": 10011,
 			"spine": "Tololo",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -92,7 +92,7 @@
 			"id": 10012,
 			"spine": "Sabrina",
 			"eventId": {
-				"Fire": 580003,
+				"Attack": 580003,
 				"Sprint": 580006
 			}
 		},
@@ -100,7 +100,7 @@
 			"id": 10013,
 			"spine": "Nagant",
 			"eventId": {
-				"Fire": 580002,
+				"Attack": 580002,
 				"Sprint": 580006
 			}
 		},
@@ -108,7 +108,7 @@
 			"id": 10014,
 			"spine": "Qiongjiu",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -116,7 +116,7 @@
 			"id": 10015,
 			"spine": "Centaureissi",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -124,7 +124,7 @@
 			"id": 10016,
 			"spine": "Daiyan",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -132,7 +132,7 @@
 			"id": 10017,
 			"spine": "Mosinnagant",
 			"eventId": {
-				"Fire": 580003,
+				"Attack": 580003,
 				"Sprint": 580006
 			}
 		},
@@ -140,7 +140,7 @@
 			"id": 10018,
 			"spine": "Macqiato",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -148,7 +148,7 @@
 			"id": 10019,
 			"spine": "Yinzhu",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -156,7 +156,7 @@
 			"id": 10020,
 			"spine": "Ksenia",
 			"eventId": {
-				"Fire": 580002,
+				"Attack": 580002,
 				"Sprint": 580006
 			}
 		},
@@ -164,7 +164,7 @@
 			"id": 10021,
 			"spine": "Littara",
 			"eventId": {
-				"Fire": 580001,
+				"Attack": 580001,
 				"Sprint": 580006
 			}
 		},
@@ -172,7 +172,7 @@
 			"id": 10022,
 			"spine": "Lenna",
 			"eventId": {
-				"Fire": 580004,
+				"Attack": 580004,
 				"Sprint": 580006
 			}
 		},
@@ -180,7 +180,7 @@
 			"id": 500001,
 			"spine": "Golyat",
 			"eventId": {
-				"Fire": 580010,
+				"Attack": 580010,
 				"Sprint": 580009
 			}
 		},
@@ -188,7 +188,7 @@
 			"id": 500002,
 			"spine": "Aegis",
 			"eventId": {
-				"Fire": 580003,
+				"Attack": 580003,
 				"Sprint": 580007
 			}
 		},
@@ -196,7 +196,7 @@
 			"id": 500003,
 			"spine": "Kuiper",
 			"eventId": {
-				"Fire": 580011,
+				"Attack": 580011,
 				"Sprint": 580008
 			}
 		},
@@ -204,7 +204,7 @@
 			"id": 500004,
 			"spine": "Urokrake",
 			"eventId": {
-				"Fire": 580019,
+				"Attack": 580019,
 				"Idle": 580021,
 				"Sprint": 580022
 			}
@@ -213,7 +213,7 @@
 			"id": 500005,
 			"spine": "Oljefat",
 			"eventId": {
-				"Fire": 580023,
+				"Attack": 580023,
 				"Sprint": 580013
 			}
 		},
@@ -221,7 +221,7 @@
 			"id": 500006,
 			"spine": "Scourge Moth",
 			"eventId": {
-				"Fire": 5624715,
+				"Attack": 5624715,
 				"Idle": 5624722,
 				"Sprint": 5624701
 			}
@@ -230,7 +230,7 @@
 			"id": 500007,
 			"spine": "Nemertea",
 			"eventId": {
-				"Fire": 580014,
+				"Attack": 580014,
 				"Idle": 580016,
 				"Sprint": 580015
 			}
@@ -239,7 +239,7 @@
 			"id": 500008,
 			"spine": "Aegis-Dominator_SWAP",
 			"eventId": {
-				"Fire": 580003,
+				"Attack": 580003,
 				"Sprint": 580007
 			}
 		},
@@ -247,7 +247,7 @@
 			"id": 500009,
 			"spine": "Obshare",
 			"eventId": {
-				"Fire": 580017,
+				"Attack": 580017,
 				"Sprint": 580018
 			}
 		}

@@ -12,9 +12,10 @@ def format_doll_skill_details(doll: str | int) -> str:
     for skill in skills:
         details.append(format_skill_detail(skill, constels, talents))
 
-    text = '===详细说明===\n\n' + '\n\n'.join(details) + '\n'
-    Path('wiki').mkdir(parents=True, exist_ok=True)
-    Path(f'wiki/{doll}-skill-detail.wiki').write_text(text)
+    #text = '===详细说明===\n\n' + '\n\n'.join(details) + '\n'
+    #Path('wiki').mkdir(parents=True, exist_ok=True)
+    #Path(f'wiki/{doll}-skill-detail.wiki').write_text(text)
+    text = '\n\n'.join(details) + '\n'
     return text
 
 def format_skill_detail(skill: dict, constels: list[dict], talents: list[dict]) -> str:

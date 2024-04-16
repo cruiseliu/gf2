@@ -1,0 +1,100 @@
+{
+	"data": [
+		{
+			"o_NHOAJGJEOBM": 201,
+			"name": "战术·范围伤害Ⅰ",
+			"des": "使用后可减少范围内的所有单位生命1点，立即生效.",
+			"level": 1,
+			"tag": "攻击",
+			"cost": 1,
+			"o_BEPNJOGNDOF": "伤害",
+			"o_GKJMCIOEENC": 1,
+			"o_AHIOJGMHJNJ": 1,
+			"o_DCNPPKPBEND": 1009
+		},
+		{
+			"o_NHOAJGJEOBM": 202,
+			"name": "战术·范围伤害Ⅱ",
+			"des": "使用后可减少范围内的所有单位生命3点，立即生效.",
+			"level": 2,
+			"tag": "攻击",
+			"cost": 3,
+			"o_BEPNJOGNDOF": "伤害",
+			"o_GKJMCIOEENC": 1,
+			"o_AHIOJGMHJNJ": 1,
+			"o_DCNPPKPBEND": 1009
+		},
+		{
+			"o_NHOAJGJEOBM": 203,
+			"name": "战术·范围攻击削弱Ⅰ",
+			"des": "使用后可减少范围内的所有敌方单位1点攻击，持续3回合",
+			"level": 1,
+			"tag": "攻击",
+			"cost": 1,
+			"o_BEPNJOGNDOF": "削弱",
+			"o_GKJMCIOEENC": 1,
+			"o_AHIOJGMHJNJ": 1,
+			"o_DCNPPKPBEND": 1011
+		},
+		{
+			"o_NHOAJGJEOBM": 204,
+			"name": "战术·范围攻击削弱Ⅱ",
+			"des": "使用后可减少范围内的所有敌方单位3点攻击，持续3回合",
+			"level": 2,
+			"tag": "攻击",
+			"cost": 3,
+			"o_BEPNJOGNDOF": "削弱",
+			"o_GKJMCIOEENC": 1,
+			"o_AHIOJGMHJNJ": 2,
+			"o_DCNPPKPBEND": 1011
+		},
+		{
+			"o_NHOAJGJEOBM": 205,
+			"name": "战术·范围防御削弱Ⅰ",
+			"des": "使用后可减少范围内的所有敌方单位1点防御，持续3回合",
+			"level": 1,
+			"tag": "攻击",
+			"cost": 1,
+			"o_BEPNJOGNDOF": "削弱",
+			"o_GKJMCIOEENC": 1,
+			"o_AHIOJGMHJNJ": 1,
+			"o_DCNPPKPBEND": 1012
+		},
+		{
+			"o_NHOAJGJEOBM": 206,
+			"name": "战术·范围防御削弱Ⅱ",
+			"des": "使用后可减少范围内的所有敌方单位3点防御，持续3回合",
+			"level": 2,
+			"tag": "攻击",
+			"cost": 3,
+			"o_BEPNJOGNDOF": "削弱",
+			"o_GKJMCIOEENC": 1,
+			"o_AHIOJGMHJNJ": 1,
+			"o_DCNPPKPBEND": 1012
+		},
+		{
+			"o_NHOAJGJEOBM": 207,
+			"name": "战术·任务干扰Ⅰ",
+			"des": "选择1张对方的任务卡，将其洗回牌库",
+			"level": 1,
+			"tag": "防御",
+			"cost": 1,
+			"o_BEPNJOGNDOF": "干扰",
+			"o_DCNPPKPBEND": 1008,
+			"o_GKJMCIOEENC": 0,
+			"o_AHIOJGMHJNJ": 0
+		},
+		{
+			"o_NHOAJGJEOBM": 208,
+			"name": "控制",
+			"des": "获得1个敌方单位的控制权，直至其死亡为止",
+			"level": 1,
+			"tag": "防御",
+			"cost": 4,
+			"o_BEPNJOGNDOF": "干扰",
+			"o_DCNPPKPBEND": 1010,
+			"o_GKJMCIOEENC": 0,
+			"o_AHIOJGMHJNJ": 0
+		}
+	]
+}

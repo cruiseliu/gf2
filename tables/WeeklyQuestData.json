@@ -488,6 +488,132 @@
 				"1": 220,
 				"9012": 1
 			}
+		},
+		{
+			"id": 19001,
+			"questType": 2,
+			"type": 1009,
+			"name": "挑战评级达到一般",
+			"description": "挑战评级达到一般",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 19002,
+			"questType": 2,
+			"type": 1009,
+			"name": "挑战评级达到较好",
+			"description": "挑战评级达到较好",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 160
+			}
+		},
+		{
+			"id": 19003,
+			"questType": 2,
+			"type": 1009,
+			"name": "挑战评级达到良好",
+			"description": "挑战评级达到良好",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 19004,
+			"questType": 2,
+			"type": 1009,
+			"name": "挑战评级达到优秀",
+			"description": "挑战评级达到优秀",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		},
+		{
+			"id": 19005,
+			"questType": 2,
+			"type": 1009,
+			"name": "挑战评级达到极佳",
+			"description": "挑战评级达到极佳",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 220,
+				"9012": 1
+			}
+		},
+		{
+			"id": 20001,
+			"questType": 2,
+			"type": 1010,
+			"name": "挑战评级达到一般",
+			"description": "挑战评级达到一般",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 140
+			}
+		},
+		{
+			"id": 20002,
+			"questType": 2,
+			"type": 1010,
+			"name": "挑战评级达到较好",
+			"description": "挑战评级达到较好",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 160
+			}
+		},
+		{
+			"id": 20003,
+			"questType": 2,
+			"type": 1010,
+			"name": "挑战评级达到良好",
+			"description": "挑战评级达到良好",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 180,
+				"9012": 1
+			}
+		},
+		{
+			"id": 20004,
+			"questType": 2,
+			"type": 1010,
+			"name": "挑战评级达到优秀",
+			"description": "挑战评级达到优秀",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 200,
+				"9012": 1
+			}
+		},
+		{
+			"id": 20005,
+			"questType": 2,
+			"type": 1010,
+			"name": "挑战评级达到极佳",
+			"description": "挑战评级达到极佳",
+			"conditionClass": 315,
+			"conditionNum": 1,
+			"reward": {
+				"1": 220,
+				"9012": 1
+			}
 		}
 	]
 }

@@ -10,7 +10,12 @@
 				99902,
 				99903
 			],
-			"priority": 1
+			"priority": 1,
+			"o_OACJBIFFBPB": 0,
+			"o_GJMKHLJJEKD": "",
+			"o_DBIIILHFKDF": "",
+			"o_FIPKOKJODBO": 0,
+			"o_HECAHBLCPEB": 0
 		},
 		{
 			"id": 2,
@@ -22,7 +27,12 @@
 				99905,
 				99906
 			],
-			"priority": 2
+			"priority": 2,
+			"o_OACJBIFFBPB": 0,
+			"o_GJMKHLJJEKD": "",
+			"o_DBIIILHFKDF": "",
+			"o_FIPKOKJODBO": 0,
+			"o_HECAHBLCPEB": 0
 		},
 		{
 			"id": 6,
@@ -34,7 +44,28 @@
 				312,
 				313
 			],
-			"priority": 3
+			"priority": 3,
+			"o_OACJBIFFBPB": 0,
+			"o_GJMKHLJJEKD": "",
+			"o_DBIIILHFKDF": "",
+			"o_FIPKOKJODBO": 0,
+			"o_HECAHBLCPEB": 0
+		},
+		{
+			"id": 4001,
+			"name": "循迹追演",
+			"unlockId": 29301,
+			"activityType": 1,
+			"activityEntrance": [
+				501,
+				502
+			],
+			"priority": 3,
+			"o_OACJBIFFBPB": 1,
+			"o_GJMKHLJJEKD": "Img_CommandCenter_Jiangyu",
+			"o_DBIIILHFKDF": "Jiangyu",
+			"o_FIPKOKJODBO": 501,
+			"o_HECAHBLCPEB": 501
 		}
 	]
 }

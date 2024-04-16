@@ -25,10 +25,15 @@ def main():
 
         doll_id = doll['id']
         talents = get_talents(doll_id)
-        text = format_talents(doll, *talents)
+        text = _format_talents(doll, *talents)
 
         Path('wiki').mkdir(parents=True, exist_ok=True)
         Path(f'wiki/{doll_name}-talents.wiki').write_text(text)
+
+def format_talents(doll):
+    doll_id = doll['id']
+    talents = get_talents(doll_id)
+    return _format_talents(doll, *talents)
 
 def build_talent(key_id: int | None = None, prop_id: int | None = None) -> dict:
     talent = {}
@@ -73,6 +78,8 @@ def get_talents(doll_id: int) -> tuple[list, list, dict]:
     skill_nodes = []
     for node in nodes:
         gene_id = int(node['traverseTalentEffectGeneGroup'][0])
+        if gene_id not in Tables.GroupTalentEffectGeneData:
+            continue
         gene = Tables.GroupTalentEffectGeneData[gene_id]
         if gene['itemId']:
             talent = build_talent(key_id=gene['itemId'])
@@ -85,7 +92,7 @@ def get_talents(doll_id: int) -> tuple[list, list, dict]:
 
     return stat_nodes, skill_nodes, final_node
 
-def format_talents(doll, stat_nodes, skill_nodes, final_node):
+def _format_talents(doll, stat_nodes, skill_nodes, final_node):
     lines = []
 
     doll_id = doll['id']
@@ -124,7 +131,8 @@ def format_talents(doll, stat_nodes, skill_nodes, final_node):
     line = f'|skill7={skill}'
     lines.append(line)
 
-    text = '==心智螺旋==\n{{talents\n' + '\n'.join(lines) + '\n}}\n'
+    #text = '==心智螺旋==\n{{talents\n' + '\n'.join(lines) + '\n}}\n'
+    text = '{{talents\n' + '\n'.join(lines) + '\n}}\n'
     return text
 
 def format_stat_value(k, v):

@@ -720,6 +720,48 @@
 			"nowSkillGroupId3": []
 		},
 		{
+			"id": 103504,
+			"beforeSkillGroupId1": [
+				10350401
+			],
+			"nowSkillGroupId1": [
+				10350411
+			],
+			"beforeSkillGroupId2": [
+				10350402
+			],
+			"nowSkillGroupId2": [
+				10350412
+			],
+			"beforeSkillGroupId3": [
+				10350403
+			],
+			"nowSkillGroupId3": [
+				10350413
+			]
+		},
+		{
+			"id": 103505,
+			"beforeSkillGroupId1": [
+				10350501,
+				103505011
+			],
+			"nowSkillGroupId1": [
+				10350511,
+				103505111
+			],
+			"beforeSkillGroupId2": [
+				10350502,
+				103505011
+			],
+			"nowSkillGroupId2": [
+				10350512,
+				103505111
+			],
+			"beforeSkillGroupId3": [],
+			"nowSkillGroupId3": []
+		},
+		{
 			"id": 103605,
 			"beforeSkillGroupId1": [
 				10360501

@@ -1,0 +1,55 @@
+{
+	"data": [
+		{
+			"id": 101,
+			"name": "名称1",
+			"des": "描述1",
+			"point": 1000,
+			"duration": 28800,
+			"reward": {
+				"1": 100
+			},
+			"o_NCIFNGEKIOE": {
+				"4": 100,
+				"5": 300
+			},
+			"o_APABEMHIBGF": 5,
+			"o_PNADAKIGFGL": 50,
+			"o_EKFICDHPEIC": 4
+		},
+		{
+			"id": 102,
+			"name": "名称2",
+			"des": "描述2",
+			"point": 1500,
+			"duration": 28800,
+			"reward": {
+				"1": 100
+			},
+			"o_NCIFNGEKIOE": {
+				"4": 100,
+				"5": 300
+			},
+			"o_APABEMHIBGF": 5,
+			"o_PNADAKIGFGL": 50,
+			"o_EKFICDHPEIC": 4
+		},
+		{
+			"id": 103,
+			"name": "名称3",
+			"des": "描述3",
+			"point": 2000,
+			"duration": 43200,
+			"reward": {
+				"1": 100
+			},
+			"o_NCIFNGEKIOE": {
+				"4": 100,
+				"5": 300
+			},
+			"o_APABEMHIBGF": 5,
+			"o_PNADAKIGFGL": 50,
+			"o_EKFICDHPEIC": 4
+		}
+	]
+}

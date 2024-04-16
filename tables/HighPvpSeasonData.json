@@ -7,7 +7,8 @@
 			"rewardGroup": 1003,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "有序纷争（旧）"
+			"seasonName": "有序纷争（旧）",
+			"o_PHLOAKDLGLO": 0
 		},
 		{
 			"id": 1002,
@@ -16,7 +17,8 @@
 			"rewardGroup": 1003,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "绝境突围（旧）"
+			"seasonName": "绝境突围（旧）",
+			"o_PHLOAKDLGLO": 0
 		},
 		{
 			"id": 1003,
@@ -25,196 +27,218 @@
 			"rewardGroup": 1003,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "有序纷争"
+			"seasonName": "有序纷争",
+			"o_PHLOAKDLGLO": 0
 		},
 		{
 			"id": 1004,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1004,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "绝境突围"
+			"seasonName": "绝境突围",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1005,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "锐意破袭"
+			"seasonName": "锐意破袭",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1006,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季4"
+			"seasonName": "高位竞技场·赛季4",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1007,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季5"
+			"seasonName": "高位竞技场·赛季5",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1008,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季6"
+			"seasonName": "高位竞技场·赛季6",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1009,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季7"
+			"seasonName": "高位竞技场·赛季7",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1010,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季8"
+			"seasonName": "高位竞技场·赛季8",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1011,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季9"
+			"seasonName": "高位竞技场·赛季9",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1012,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季10"
+			"seasonName": "高位竞技场·赛季10",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1013,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季11"
+			"seasonName": "高位竞技场·赛季11",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1014,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季12"
+			"seasonName": "高位竞技场·赛季12",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1015,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季13"
+			"seasonName": "高位竞技场·赛季13",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1016,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季14"
+			"seasonName": "高位竞技场·赛季14",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1017,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季15"
+			"seasonName": "高位竞技场·赛季15",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1018,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季16"
+			"seasonName": "高位竞技场·赛季16",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1019,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季17"
+			"seasonName": "高位竞技场·赛季17",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1020,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季18"
+			"seasonName": "高位竞技场·赛季18",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1021,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季19"
+			"seasonName": "高位竞技场·赛季19",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1022,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季20"
+			"seasonName": "高位竞技场·赛季20",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1023,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季21"
+			"seasonName": "高位竞技场·赛季21",
+			"o_PHLOAKDLGLO": 1004
 		},
 		{
 			"id": 1024,
 			"seasonMapGroup": 1001,
-			"pointPlan": 1001,
+			"pointPlan": 1002,
 			"rewardGroup": 1005,
 			"replenishRobotId": 100101,
 			"guaranteeRobotId": 100102,
-			"seasonName": "高位竞技场·赛季22"
+			"seasonName": "高位竞技场·赛季22",
+			"o_PHLOAKDLGLO": 1004
 		}
 	]
 }

@@ -5746,6 +5746,34 @@
 			"defValueEnemy": 0
 		},
 		{
+			"id": 627901,
+			"aiId": 6279,
+			"preiodId": 1,
+			"moveTactic": 1,
+			"maxDis": "800",
+			"minDis": "200",
+			"skill": [
+				6269101,
+				6269901,
+				6269401,
+				6269905
+			],
+			"skillCal": "(int)(2000*AIDecideTools.SkillEffectTargetCount(FuncArgs,2)-0.001*SkillTargetDistance-0.5*AIDecideTools.LinearDistance(FuncArgs));(int)(5000-0.1*SkillTargetDistance);(int)(20*AIDecideTools.CastToTargetDisScope(FuncArgs,FuncArgs.Maker.Grid.ID,300));9000",
+			"attackParam": 1000,
+			"defenceParam": 1000,
+			"moveParam": 1000,
+			"timelineId": 627901,
+			"actionParam": 5000,
+			"groundParam": 1000,
+			"farLimit": 9999,
+			"farmoveTactic": 1,
+			"condition": "",
+			"defValue": 0,
+			"enableSkilldamage": false,
+			"skillPriority": [],
+			"defValueEnemy": 0
+		},
+		{
 			"id": 631001,
 			"aiId": 6310,
 			"preiodId": 1,

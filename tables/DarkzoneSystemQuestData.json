@@ -826,7 +826,7 @@
 			"id": 10209,
 			"questName": "多维协同I",
 			"questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，把它们彻底变回废铁吧！",
-			"questStructSceneId": 1101,
+			"questStructSceneId": 1121,
 			"questLevel": 60,
 			"questRewardshow": 110202,
 			"questRewarddetailshow": {
@@ -845,8 +845,8 @@
 			"questTarget": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
 			"questPic": "Img_DarkzoneQuest_Pic_17",
 			"questMapmark": [
-				"840:554:18",
-				"162:726:17"
+				"334:622:18",
+				"860:490:17"
 			],
 			"dzMode": 1,
 			"battleOverRecovery": true,
@@ -865,7 +865,7 @@
 			"id": 10210,
 			"questName": "多维协同II",
 			"questDesc": "这些毫无秩序的匪徒在待勘测区里横冲直撞！希望你能让他们永远闭嘴。",
-			"questStructSceneId": 1101,
+			"questStructSceneId": 1122,
 			"questLevel": 60,
 			"questRewardshow": 110202,
 			"questRewarddetailshow": {
@@ -880,12 +880,13 @@
 				"25": 8000,
 				"8301": 11500
 			},
-			"questType": 101,
-			"questTarget": "找到指定敌方单位纵火者，将其消灭。",
+			"questType": 102,
+			"questTarget": "消灭敌方单位纵火者后，找到撤离信号站，完成撤离。",
 			"questPic": "Img_DarkzoneQuest_Pic_17",
 			"questMapmark": [
-				"502:586:18",
-				"844:462:17"
+				"300:768:18",
+				"768:536:17",
+				"728:680:15"
 			],
 			"dzMode": 1,
 			"battleOverRecovery": true,
@@ -904,7 +905,7 @@
 			"id": 10211,
 			"questName": "多维协同III",
 			"questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，把它们彻底变回废铁吧！",
-			"questStructSceneId": 1101,
+			"questStructSceneId": 1123,
 			"questLevel": 60,
 			"questRewardshow": 110202,
 			"questRewarddetailshow": {
@@ -919,13 +920,16 @@
 				"25": 8500,
 				"8301": 12000
 			},
-			"questType": 102,
-			"questTarget": "找到指定敌方单位黑眼，将其消灭。",
+			"questType": 103,
+			"questTarget": "找到撤离信号站，完成撤离。",
 			"questPic": "Img_DarkzoneQuest_Pic_17",
 			"questMapmark": [
-				"652:450:18",
-				"832:494:17",
-				"340:470:15"
+				"816:532:18",
+				"484:532:17",
+				"154:532:15",
+				"584:762:15",
+				"786:368:15",
+				"648:216:15"
 			],
 			"dzMode": 1,
 			"battleOverRecovery": true,
@@ -944,7 +948,7 @@
 			"id": 10212,
 			"questName": "多维协同IV",
 			"questDesc": "这些无人管束的铁块流窜到了它们不该去的地方，请前往该区域将其消灭。",
-			"questStructSceneId": 1101,
+			"questStructSceneId": 1124,
 			"questLevel": 60,
 			"questRewardshow": 110202,
 			"questRewarddetailshow": {
@@ -959,12 +963,12 @@
 				"25": 9000,
 				"8301": 12500
 			},
-			"questType": 101,
-			"questTarget": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
+			"questType": 103,
+			"questTarget": "消灭敌方单位震荡泰坦后，找到撤离信号站，完成撤离。",
 			"questPic": "Img_DarkzoneQuest_Pic_17",
 			"questMapmark": [
-				"56:708:18",
-				"844:462:17"
+				"300:512:18",
+				"138:188:17"
 			],
 			"dzMode": 1,
 			"battleOverRecovery": true,

@@ -1,0 +1,109 @@
+{
+	"data": [
+		{
+			"o_FMPMMJPEFDB": 1,
+			"o_CICGEKAAINA": "增加1点生命",
+			"effectType": 104,
+			"param1": 1,
+			"param2": 0
+		},
+		{
+			"o_FMPMMJPEFDB": 2,
+			"o_CICGEKAAINA": "击退目标2格",
+			"effectType": 201,
+			"param1": 2,
+			"param2": 0
+		},
+		{
+			"o_FMPMMJPEFDB": 3,
+			"o_CICGEKAAINA": "碰撞双方扣除6点生命",
+			"effectType": 202,
+			"param1": 6,
+			"param2": 0
+		},
+		{
+			"o_FMPMMJPEFDB": 4,
+			"o_CICGEKAAINA": "推离目标1-2格",
+			"effectType": 203,
+			"param1": 1,
+			"param2": 2
+		},
+		{
+			"o_FMPMMJPEFDB": 5,
+			"o_CICGEKAAINA": "回合开始时30%概率获得能量2点",
+			"effectType": 110,
+			"param1": 2,
+			"param2": 300
+		},
+		{
+			"o_FMPMMJPEFDB": 6,
+			"o_CICGEKAAINA": "把1张任务卡洗回去",
+			"effectType": 301,
+			"param1": 1,
+			"param2": 0
+		},
+		{
+			"o_FMPMMJPEFDB": 7,
+			"o_CICGEKAAINA": "扣除1点生命",
+			"effectType": 101,
+			"param1": 1,
+			"param2": 0
+		},
+		{
+			"o_FMPMMJPEFDB": 8,
+			"o_CICGEKAAINA": "获得敌方单位控制权",
+			"effectType": 501,
+			"param1": 1001,
+			"param2": 99
+		},
+		{
+			"o_FMPMMJPEFDB": 9,
+			"o_CICGEKAAINA": "增加+1攻的buff，3回合",
+			"effectType": 501,
+			"param1": 101,
+			"param2": 3
+		},
+		{
+			"o_FMPMMJPEFDB": 10,
+			"o_CICGEKAAINA": "增加-1攻的buff，3回合",
+			"effectType": 501,
+			"param1": 201,
+			"param2": 3
+		},
+		{
+			"o_FMPMMJPEFDB": 11,
+			"o_CICGEKAAINA": "增加+1防的buff，3回合",
+			"effectType": 501,
+			"param1": 301,
+			"param2": 3
+		},
+		{
+			"o_FMPMMJPEFDB": 12,
+			"o_CICGEKAAINA": "增加-1防的buff，3回合",
+			"effectType": 501,
+			"param1": 401,
+			"param2": 3
+		},
+		{
+			"o_FMPMMJPEFDB": 17,
+			"o_CICGEKAAINA": "增加每回合开始时30%概率获得能量2点的buff",
+			"effectType": 501,
+			"param1": 501,
+			"param2": 99
+		},
+		{
+			"o_FMPMMJPEFDB": 101,
+			"o_CICGEKAAINA": "陷阱-1防",
+			"effectType": 501,
+			"param1": 2001,
+			"param2": 99
+		},
+		{
+			"o_FMPMMJPEFDB": 102,
+			"o_CICGEKAAINA": "陷阱+1防",
+			"effectType": 501,
+			"param1": 2002,
+			"param2": 99
+		}
+	]
+}

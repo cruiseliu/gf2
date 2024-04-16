@@ -832,6 +832,40 @@
 			"ifDefaultLock": false,
 			"defaultLockRank": 0,
 			"use": 0
+		},
+		{
+			"id": 113,
+			"name": "卡牌预组",
+			"overflow": true,
+			"overflowName": "",
+			"relatedItem": 0,
+			"maxLimit": 0,
+			"rank": 0,
+			"pile": 0,
+			"jump": 0,
+			"stockShow": false,
+			"dzbagOccupy": false,
+			"canLock": false,
+			"ifDefaultLock": false,
+			"defaultLockRank": 0,
+			"use": 0
+		},
+		{
+			"id": 115,
+			"name": "可配置配件随机箱",
+			"maxLimit": 10000000,
+			"rank": 10,
+			"pile": 1,
+			"overflowName": "",
+			"stockShow": true,
+			"dzbagOccupy": true,
+			"use": 1,
+			"relatedItem": 0,
+			"overflow": false,
+			"jump": 0,
+			"canLock": false,
+			"ifDefaultLock": false,
+			"defaultLockRank": 0
 		}
 	]
 }

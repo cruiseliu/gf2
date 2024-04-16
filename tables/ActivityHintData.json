@@ -14377,6 +14377,27 @@
 			],
 			"textEnums": "270210",
 			"text": "我获得的"
+		},
+		{
+			"id": 135002,
+			"activityId": 4001,
+			"textType": 2,
+			"textTypeId": [
+				2002,
+				994007
+			],
+			"textEnums": "210007",
+			"text": "挑战模式仅在当前活动期间内开放"
+		},
+		{
+			"id": 135003,
+			"activityId": 4001,
+			"textType": 1,
+			"textTypeId": [
+				252
+			],
+			"textEnums": "271122",
+			"text": "{0}后开启"
 		}
 	]
 }

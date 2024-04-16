@@ -52,21 +52,21 @@
 		{
 			"id": 24026,
 			"icon": "Item_HeadFrame_HighPVP_Season1",
-			"unlockDes": "在兵棋推演赛季·有序纷争中获得前50%排名后解锁",
+			"unlockDes": "在兵棋推演赛季·有序纷争中获得前50%排名后解锁。",
 			"displayConfig": 1,
 			"sort": 26
 		},
 		{
 			"id": 24027,
 			"icon": "Item_HeadFrame_HighPVP_Season2",
-			"unlockDes": "在兵棋推演赛季·绝境突围中获得前50%排名后解锁",
+			"unlockDes": "在兵棋推演赛季·绝境突围中获得前50%排名后解锁。",
 			"displayConfig": 1,
 			"sort": 27
 		},
 		{
 			"id": 24028,
 			"icon": "Item_HeadFrame_HighPVP_Season3",
-			"unlockDes": "在兵棋推演赛季·锐意破袭中获得前50%排名后解锁",
+			"unlockDes": "在兵棋推演赛季·锐意破袭中获得前50%排名后解锁。",
 			"displayConfig": 1,
 			"sort": 28
 		},
@@ -76,6 +76,27 @@
 			"unlockDes": "刮开同行筹备所有图块后解锁",
 			"displayConfig": 1,
 			"sort": 29
+		},
+		{
+			"id": 24030,
+			"icon": "Item_HeadFrame_ActivityLenna",
+			"unlockDes": "通关交织突进挑战模式后解锁",
+			"displayConfig": 1,
+			"sort": 30
+		},
+		{
+			"id": 24031,
+			"icon": "Item_HeadFrame_BP_12",
+			"unlockDes": "购买当期远航巡录付费档位后解锁",
+			"displayConfig": 1,
+			"sort": 25
+		},
+		{
+			"id": 24032,
+			"icon": "Item_HeadFrame_ActivityJiangyu",
+			"unlockDes": "通关所有循迹追演挑战模式关卡以解锁",
+			"displayConfig": 1,
+			"sort": 31
 		}
 	]
 }

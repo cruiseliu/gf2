@@ -1108,6 +1108,96 @@
 			"serverId": 104
 		},
 		{
+			"id": 1080111,
+			"plotId": "M08001",
+			"plotIdCn": "CN_M08001",
+			"name": "",
+			"type": 10,
+			"stageId": 10801,
+			"serverId": 109
+		},
+		{
+			"id": 1080211,
+			"plotId": "M08002",
+			"plotIdCn": "CN_M08002",
+			"name": "",
+			"type": 10,
+			"stageId": 10802,
+			"serverId": 110
+		},
+		{
+			"id": 1080721,
+			"plotId": "M08014",
+			"plotIdCn": "CN_M08014",
+			"name": "",
+			"type": 10,
+			"stageId": 10807,
+			"serverId": 115
+		},
+		{
+			"id": 1080821,
+			"plotId": "M08015",
+			"plotIdCn": "CN_M08015",
+			"name": "",
+			"type": 10,
+			"stageId": 10808,
+			"serverId": 116
+		},
+		{
+			"id": 1081031,
+			"plotId": "M08020",
+			"plotIdCn": "CN_M08020",
+			"name": "",
+			"type": 10,
+			"stageId": 10810,
+			"serverId": 118
+		},
+		{
+			"id": 1088101,
+			"plotId": "M08003,M08004,MA08001,M08005",
+			"plotIdCn": "CN_M08003,CN_M08004,MA08001,CN_M08005",
+			"name": "",
+			"type": 10,
+			"stageId": 10881,
+			"serverId": 111
+		},
+		{
+			"id": 1088201,
+			"plotId": "M08006",
+			"plotIdCn": "CN_M08006",
+			"name": "",
+			"type": 10,
+			"stageId": 10882,
+			"serverId": 112
+		},
+		{
+			"id": 1088301,
+			"plotId": "M08007,M08008,M08009,M08010",
+			"plotIdCn": "CN_M08007,CN_M08008,CN_M08009,CN_M08010",
+			"name": "",
+			"type": 10,
+			"stageId": 10883,
+			"serverId": 113
+		},
+		{
+			"id": 1088401,
+			"plotId": "M08011,M08012,MA08002,M08013,MA08003",
+			"plotIdCn": "CN_M08011,CN_M08012,MA08002,CN_M08013,MA08003",
+			"name": "",
+			"type": 10,
+			"stageId": 10884,
+			"serverId": 114
+		},
+		{
+			"id": 1088501,
+			"plotId": "M08016,M08017,M08018,M08019",
+			"plotIdCn": "CN_M08016,CN_M08017,CN_M08018,CN_M08019",
+			"name": "",
+			"type": 10,
+			"stageId": 10885,
+			"serverId": 117
+		},
+		{
 			"id": 3030111,
 			"plotId": "AA01001,A01001,A01002",
 			"plotIdCn": "AA01001,A01001,A01002",
@@ -1321,6 +1411,42 @@
 			"name": "",
 			"type": 1,
 			"serverId": 333,
+			"stageId": 0
+		},
+		{
+			"id": 3070921,
+			"plotId": "A04005",
+			"plotIdCn": "A04005",
+			"name": "",
+			"type": 31,
+			"serverId": 348,
+			"stageId": 0
+		},
+		{
+			"id": 3078601,
+			"plotId": "A04001,A04002",
+			"plotIdCn": "A04001,A04002",
+			"name": "",
+			"type": 11,
+			"serverId": 345,
+			"stageId": 0
+		},
+		{
+			"id": 3078701,
+			"plotId": "A04003",
+			"plotIdCn": "A04003",
+			"name": "",
+			"type": 11,
+			"serverId": 346,
+			"stageId": 0
+		},
+		{
+			"id": 3078801,
+			"plotId": "A04004",
+			"plotIdCn": "A04004",
+			"name": "",
+			"type": 11,
+			"serverId": 347,
 			"stageId": 0
 		},
 		{
@@ -2815,6 +2941,105 @@
 			"name": "",
 			"type": 99,
 			"serverId": 213,
+			"stageId": 0
+		},
+		{
+			"id": 10350198,
+			"plotId": "F02901",
+			"plotIdCn": "F02901",
+			"name": "",
+			"type": 98,
+			"serverId": 334,
+			"stageId": 0
+		},
+		{
+			"id": 10350199,
+			"plotId": "P02901",
+			"plotIdCn": "P02901",
+			"name": "",
+			"type": 99,
+			"serverId": 339,
+			"stageId": 0
+		},
+		{
+			"id": 10350298,
+			"plotId": "F02902",
+			"plotIdCn": "F02902",
+			"name": "",
+			"type": 98,
+			"serverId": 335,
+			"stageId": 0
+		},
+		{
+			"id": 10350299,
+			"plotId": "P02902",
+			"plotIdCn": "P02902",
+			"name": "",
+			"type": 99,
+			"serverId": 340,
+			"stageId": 0
+		},
+		{
+			"id": 10350398,
+			"plotId": "F02903",
+			"plotIdCn": "F02903",
+			"name": "",
+			"type": 98,
+			"serverId": 336,
+			"stageId": 0
+		},
+		{
+			"id": 10350399,
+			"plotId": "P02903",
+			"plotIdCn": "P02903",
+			"name": "",
+			"type": 99,
+			"serverId": 341,
+			"stageId": 0
+		},
+		{
+			"id": 10350498,
+			"plotId": "F02904",
+			"plotIdCn": "F02904",
+			"name": "",
+			"type": 98,
+			"serverId": 337,
+			"stageId": 0
+		},
+		{
+			"id": 10350499,
+			"plotId": "P02904,P02905",
+			"plotIdCn": "P02904,P02905",
+			"name": "",
+			"type": 99,
+			"serverId": 342,
+			"stageId": 0
+		},
+		{
+			"id": 10350598,
+			"plotId": "F02905",
+			"plotIdCn": "F02905",
+			"name": "",
+			"type": 98,
+			"serverId": 338,
+			"stageId": 0
+		},
+		{
+			"id": 10350599,
+			"plotId": "P02906",
+			"plotIdCn": "P02906",
+			"name": "",
+			"type": 99,
+			"serverId": 343,
+			"stageId": 0
+		},
+		{
+			"id": 10350699,
+			"plotId": "P02907",
+			"plotIdCn": "P02907",
+			"name": "",
+			"type": 99,
+			"serverId": 344,
 			"stageId": 0
 		}
 	]

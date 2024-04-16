@@ -1777,25 +1777,180 @@
 			"link": ""
 		},
 		{
+			"id": 45101,
+			"taskGroup": 451,
+			"name": "每日登陆",
+			"des": "每日登陆",
+			"sequence": 1,
+			"actionParam": 1,
+			"conditionClass": 400,
+			"conditionNum": 1,
+			"rewardList": [
+				"170001:1"
+			],
+			"conditionArg0": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0,
+			"link": ""
+		},
+		{
+			"id": 45102,
+			"taskGroup": 451,
+			"name": "固定指标1",
+			"des": "累计消耗情报拼图20个",
+			"sequence": 1,
+			"conditionClass": 2,
+			"conditionNum": 20,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45103,
+			"taskGroup": 451,
+			"name": "固定指标2",
+			"des": "累计消耗情报拼图40个",
+			"sequence": 2,
+			"conditionClass": 2,
+			"conditionNum": 40,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45104,
+			"taskGroup": 451,
+			"name": "固定指标3",
+			"des": "累计消耗情报拼图60个",
+			"sequence": 3,
+			"conditionClass": 2,
+			"conditionNum": 60,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45105,
+			"taskGroup": 451,
+			"name": "固定指标4",
+			"des": "累计消耗情报拼图80个",
+			"sequence": 1,
+			"conditionClass": 2,
+			"conditionNum": 80,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45106,
+			"taskGroup": 451,
+			"name": "固定指标5",
+			"des": "累计消耗情报拼图100个",
+			"sequence": 2,
+			"conditionClass": 2,
+			"conditionNum": 100,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45107,
+			"taskGroup": 451,
+			"name": "固定指标6",
+			"des": "累计消耗情报拼图120个",
+			"sequence": 3,
+			"conditionClass": 2,
+			"conditionNum": 120,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45108,
+			"taskGroup": 451,
+			"name": "固定指标7",
+			"des": "累计消耗情报拼图140个",
+			"sequence": 2,
+			"conditionClass": 2,
+			"conditionNum": 140,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
+			"id": 45109,
+			"taskGroup": 451,
+			"name": "固定指标8",
+			"des": "累计消耗情报拼图160个",
+			"sequence": 3,
+			"conditionClass": 2,
+			"conditionNum": 160,
+			"conditionArg0": 101,
+			"rewardList": [
+				"170001:3"
+			],
+			"link": "1000",
+			"actionParam": 0,
+			"conditionArg1": 0,
+			"conditionArg2": 0
+		},
+		{
 			"id": 50101,
 			"taskGroup": 501,
-			"name": "开业筹备",
-			"des": "累计完成补给作战2次",
+			"name": "追演委托",
+			"des": "在补给作战中获胜2次",
 			"sequence": 1,
 			"actionParam": 1,
 			"conditionClass": 209,
 			"conditionNum": 2,
-			"conditionArg0": 3,
-			"conditionArg1": 0,
-			"conditionArg2": 0,
-			"rewardList": [],
-			"link": ""
+			"conditionArg0": 1,
+			"conditionArg1": -1,
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "1098",
+			"conditionArg2": 0
 		},
 		{
 			"id": 50102,
-			"taskGroup": 502,
-			"name": "启动资金",
-			"des": "累计完成标准同调2次",
+			"taskGroup": 501,
+			"name": "追演委托",
+			"des": "在标准同调中获胜2次",
 			"sequence": 2,
 			"actionParam": 1,
 			"conditionClass": 201,
@@ -1803,14 +1958,16 @@
 			"conditionArg0": 20,
 			"conditionArg1": 1,
 			"conditionArg2": -1,
-			"link": "3300",
-			"rewardList": []
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3300"
 		},
 		{
 			"id": 50103,
-			"taskGroup": 503,
-			"name": "装备收集",
-			"des": "累计完成定向精研2次",
+			"taskGroup": 501,
+			"name": "追演委托",
+			"des": "在定向精研中获胜2次",
 			"sequence": 3,
 			"actionParam": 1,
 			"conditionClass": 201,
@@ -1818,14 +1975,16 @@
 			"conditionArg0": 41,
 			"conditionArg1": 1,
 			"conditionArg2": -1,
-			"link": "3800",
-			"rewardList": []
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3800"
 		},
 		{
 			"id": 50104,
-			"taskGroup": 504,
-			"name": "素体调配",
-			"des": "累计完成决策构象2次",
+			"taskGroup": 501,
+			"name": "追演委托",
+			"des": "在决策构象中获胜2次",
 			"sequence": 4,
 			"actionParam": 1,
 			"conditionClass": 201,
@@ -1833,14 +1992,16 @@
 			"conditionArg0": 22,
 			"conditionArg1": 1,
 			"conditionArg2": -1,
-			"link": "3150",
-			"rewardList": []
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3150"
 		},
 		{
 			"id": 50105,
-			"taskGroup": 505,
-			"name": "经验累积",
-			"des": "累计完成深度搜索2次",
+			"taskGroup": 501,
+			"name": "追演委托",
+			"des": "在深度搜索中获胜2次",
 			"sequence": 5,
 			"actionParam": 1,
 			"conditionClass": 201,
@@ -1848,14 +2009,16 @@
 			"conditionArg0": 21,
 			"conditionArg1": 1,
 			"conditionArg2": -1,
-			"link": "3200",
-			"rewardList": []
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3200"
 		},
 		{
 			"id": 50106,
-			"taskGroup": 506,
-			"name": "物资存储",
-			"des": "累计完成军备解析2次",
+			"taskGroup": 501,
+			"name": "追演委托",
+			"des": "在军备解析中获胜2次",
 			"sequence": 6,
 			"actionParam": 1,
 			"conditionClass": 201,
@@ -1863,23 +2026,27 @@
 			"conditionArg0": 31,
 			"conditionArg1": 1,
 			"conditionArg2": -1,
-			"link": "3400",
-			"rewardList": []
+			"rewardList": [
+				"171004:10"
+			],
+			"link": "3400"
 		},
 		{
 			"id": 50107,
-			"taskGroup": 507,
-			"name": "模拟演练",
-			"des": "累计完成实兵演习1次",
+			"taskGroup": 501,
+			"name": "追演委托",
+			"des": "在实兵演习中获胜1次",
 			"sequence": 7,
 			"actionParam": 1,
 			"conditionClass": 301,
 			"conditionNum": 1,
 			"conditionArg0": -1,
+			"rewardList": [
+				"171004:10"
+			],
 			"link": "3014",
 			"conditionArg1": 0,
-			"conditionArg2": 0,
-			"rewardList": []
+			"conditionArg2": 0
 		}
 	]
 }

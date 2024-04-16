@@ -881,6 +881,60 @@
 			"condition": 410322,
 			"jumpType": 1,
 			"text": "黛烟升级至40解锁"
+		},
+		{
+			"id": 10350199,
+			"type": 99,
+			"gunId": 1035,
+			"name": "第一节",
+			"jumpType": 1,
+			"condition": 0,
+			"text": ""
+		},
+		{
+			"id": 10350299,
+			"type": 99,
+			"gunId": 1035,
+			"name": "第二节",
+			"condition": 410351,
+			"jumpType": 1,
+			"text": "绛雨升级至20解锁"
+		},
+		{
+			"id": 10350399,
+			"type": 99,
+			"gunId": 1035,
+			"name": "第三节",
+			"condition": 410351,
+			"jumpType": 1,
+			"text": "绛雨升级至20解锁"
+		},
+		{
+			"id": 10350499,
+			"type": 99,
+			"gunId": 1035,
+			"name": "第四节",
+			"condition": 410352,
+			"jumpType": 1,
+			"text": "绛雨升级至40解锁"
+		},
+		{
+			"id": 10350599,
+			"type": 99,
+			"gunId": 1035,
+			"name": "第五节",
+			"condition": 410352,
+			"jumpType": 1,
+			"text": "绛雨升级至40解锁"
+		},
+		{
+			"id": 10350699,
+			"type": 99,
+			"gunId": 1035,
+			"name": "第六节",
+			"condition": 410352,
+			"jumpType": 1,
+			"text": "绛雨升级至40解锁"
 		}
 	]
 }

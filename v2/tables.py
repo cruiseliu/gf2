@@ -98,7 +98,7 @@ def decode_table(path: Path, strings: dict[int, str] | None) -> dict | None:
         path = Path(output_dir, f'{table_name}.json')
         path.write_text(s)
 
-    print('    ' + table_name)
+    #print('    ' + table_name)
     return table_obj['data']
 
 if __name__ == '__main__':

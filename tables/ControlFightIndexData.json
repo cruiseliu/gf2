@@ -1,0 +1,138 @@
+{
+	"data": [
+		{
+			"id": 1100,
+			"name": "映射空间01",
+			"description": "在这场持续的战斗中，要注意保持耐心和谨慎。准备好突破重围，向前方深处迈进。",
+			"o_MJPHDAHBOCF": "3300089",
+			"o_KKDEOJLOJJF": "3300088",
+			"o_HHONMOLODNP": "Img_ControlFightChapter_Pic_3",
+			"o_BIDHPNBINPP": "Img_ControlFightChapter_Num_1",
+			"type": 1,
+			"o_HGIIMKABBOG": 1,
+			"o_NDHKHDAGNNH": 200,
+			"taskGroup": 1100,
+			"o_DEFLFDOFBHF": 1100,
+			"o_MJEJOBNMMCI": [
+				1101,
+				1102
+			],
+			"o_DCFMBNEDHBJ": 2,
+			"o_HMOAPENEIIF": 1,
+			"o_FFHIFOGMEIP": true,
+			"o_GCEJPOCGCNK": true,
+			"rank": 1,
+			"unlockDetail": {},
+			"o_GMHEBCBPOPB": 0
+		},
+		{
+			"id": 1200,
+			"name": "映射空间02",
+			"description": "在这场持续的战斗中，要注意保持耐心和谨慎。准备好突破重围，向前方深处迈进。",
+			"o_MJPHDAHBOCF": "3300089",
+			"o_KKDEOJLOJJF": "3300088",
+			"o_HHONMOLODNP": "Img_ControlFightChapter_Pic_4",
+			"o_BIDHPNBINPP": "Img_ControlFightChapter_Num_2",
+			"unlockDetail": {
+				"1100": 100
+			},
+			"type": 1,
+			"o_HGIIMKABBOG": 2,
+			"o_NDHKHDAGNNH": 500,
+			"taskGroup": 1200,
+			"o_DEFLFDOFBHF": 1200,
+			"o_MJEJOBNMMCI": [
+				1201,
+				1202
+			],
+			"o_DCFMBNEDHBJ": 2,
+			"o_HMOAPENEIIF": 1,
+			"o_FFHIFOGMEIP": true,
+			"o_GCEJPOCGCNK": true,
+			"rank": 2,
+			"o_GMHEBCBPOPB": 0
+		},
+		{
+			"id": 1300,
+			"name": "映射空间03",
+			"description": "在这场持续的战斗中，要注意保持耐心和谨慎。准备好突破重围，向前方深处迈进。",
+			"o_MJPHDAHBOCF": "3300089",
+			"o_KKDEOJLOJJF": "3300088",
+			"o_HHONMOLODNP": "Img_ControlFightChapter_Pic_5",
+			"o_BIDHPNBINPP": "Img_ControlFightChapter_Num_3",
+			"unlockDetail": {
+				"1200": 300
+			},
+			"type": 1,
+			"o_HGIIMKABBOG": 3,
+			"o_NDHKHDAGNNH": 700,
+			"taskGroup": 1300,
+			"o_DEFLFDOFBHF": 1300,
+			"o_MJEJOBNMMCI": [
+				1301,
+				1302,
+				1303
+			],
+			"o_DCFMBNEDHBJ": 2,
+			"o_HMOAPENEIIF": 1,
+			"o_FFHIFOGMEIP": true,
+			"o_GCEJPOCGCNK": true,
+			"rank": 3,
+			"o_GMHEBCBPOPB": 0
+		},
+		{
+			"id": 1400,
+			"name": "映射空间04",
+			"description": "在这场持续的战斗中，要注意保持耐心和谨慎。准备好突破重围，向前方深处迈进。",
+			"o_MJPHDAHBOCF": "3300089",
+			"o_KKDEOJLOJJF": "3300088",
+			"o_HHONMOLODNP": "Img_ControlFightChapter_Pic_6",
+			"o_BIDHPNBINPP": "Img_ControlFightChapter_Num_4",
+			"unlockDetail": {
+				"1300": 400
+			},
+			"type": 1,
+			"o_HGIIMKABBOG": 1,
+			"o_NDHKHDAGNNH": 900,
+			"taskGroup": 1400,
+			"o_DEFLFDOFBHF": 1400,
+			"o_MJEJOBNMMCI": [
+				1401,
+				1402,
+				1403
+			],
+			"o_DCFMBNEDHBJ": 2,
+			"o_HMOAPENEIIF": 1,
+			"o_FFHIFOGMEIP": true,
+			"o_GCEJPOCGCNK": true,
+			"rank": 4,
+			"o_GMHEBCBPOPB": 0
+		},
+		{
+			"id": 1500,
+			"name": "极端映射·纽虫",
+			"description": "在这场持续的战斗中，要注意保持耐心和谨慎。准备好突破重围，向前方深处迈进。",
+			"o_MJPHDAHBOCF": "3300089",
+			"o_KKDEOJLOJJF": "3300088",
+			"o_HHONMOLODNP": "Img_ControlFightChapter_Pic_Limit",
+			"o_BIDHPNBINPP": "Img_ControlFightChapter_Num_Limit",
+			"unlockDetail": {
+				"1400": 550
+			},
+			"type": 2,
+			"o_GMHEBCBPOPB": 1300,
+			"o_HGIIMKABBOG": 2,
+			"o_NDHKHDAGNNH": 900,
+			"taskGroup": 1500,
+			"o_DEFLFDOFBHF": 1500,
+			"o_MJEJOBNMMCI": [
+				1501
+			],
+			"o_DCFMBNEDHBJ": 2,
+			"o_HMOAPENEIIF": 1,
+			"rank": 8,
+			"o_FFHIFOGMEIP": false,
+			"o_GCEJPOCGCNK": false
+		}
+	]
+}

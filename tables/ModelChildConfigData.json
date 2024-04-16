@@ -1,81 +1,54 @@
 {
 	"data": [
 		{
-			"id": 691101,
-			"childModel": "Children/MISC_deepWarshipCannon_y08",
-			"hurtPerformType": 1,
-			"additionalDamageEffect": "",
-			"coverRendering": false
-		},
-		{
 			"id": 693101,
 			"childModel": "Children/Transform_child_01/MISC_deepWarshipCannon_y02",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		},
 		{
 			"id": 693102,
 			"childModel": "Children/Transform_child_02/MISC_deepWarshipCannon_y03",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		},
 		{
 			"id": 693103,
 			"childModel": "Children/Transform_child_03/MISC_deepWarshipCannon_y06",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		},
 		{
 			"id": 693601,
 			"childModel": "Children/Transform_child_01/MISC_deepWarshipCannon_y01",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		},
 		{
 			"id": 693602,
 			"childModel": "Children/Transform_child_02/MISC_deepWarshipCannon_y10",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		},
 		{
 			"id": 693603,
 			"childModel": "Children/Transform_child_03/MISC_deepWarshipCannon_y08",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		},
 		{
 			"id": 693604,
 			"childModel": "Children/Transform_child_04/MISC_deepWarshipCannon_y04",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		},
 		{
 			"id": 694101,
 			"childModel": "Children/Transform_child_01/MISC_deepWarshipCannon_y08",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		},
 		{
 			"id": 694102,
 			"childModel": "Children/Transform_child_02/MISC_deepWarshipCannon_y07",
-			"hurtPerformType": 1,
-			"additionalDamageEffect": "Skill/2019_LightHit_Gold",
 			"coverRendering": true
 		},
 		{
 			"id": 694103,
 			"childModel": "Children/Transform_child_03/MISC_deepWarshipCannon_y08_2",
-			"hurtPerformType": 1,
-			"coverRendering": true,
-			"additionalDamageEffect": ""
+			"coverRendering": true
 		}
 	]
 }

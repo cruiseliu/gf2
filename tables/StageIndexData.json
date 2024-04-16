@@ -13,15 +13,15 @@
 				4,
 				5,
 				6,
-				7
+				7,
+				8
 			],
 			"underId": [
 				26
 			],
 			"background": "Img_BattleIndexBg_Plot",
 			"globalTab": 21,
-			"unlock": 0,
-			"activityId": []
+			"unlock": 0
 		},
 		{
 			"id": 2,
@@ -35,14 +35,12 @@
 				30,
 				25,
 				50,
-				33,
 				35
 			],
 			"background": "Img_BattleIndexBg_Sim",
 			"unlock": 10999,
 			"globalTab": 24,
-			"underId": [],
-			"activityId": []
+			"underId": []
 		},
 		{
 			"id": 4,
@@ -60,8 +58,7 @@
 			"background": "Img_BattleIndexBg_Sim",
 			"unlock": 10998,
 			"globalTab": 23,
-			"underId": [],
-			"activityId": []
+			"underId": []
 		},
 		{
 			"id": 5,
@@ -69,15 +66,10 @@
 			"nameEn": "BRANCH STORY",
 			"rank": 2,
 			"type": 1,
-			"detailId": [
-				3003
-			],
 			"background": "Img_BattleIndexBg_Sim",
 			"unlock": 10997,
 			"globalTab": 22,
-			"activityId": [
-				6
-			],
+			"detailId": [],
 			"underId": []
 		}
 	]

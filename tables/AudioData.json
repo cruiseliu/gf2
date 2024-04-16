@@ -841,6 +841,16 @@
 			"audioName": "BGM_ev_Lenna_Main/BGM_ev_Lenna_Main"
 		},
 		{
+			"id": 30091,
+			"audioType": 3,
+			"audioName": "BGM_ev_Jiangyu_MiniGame_Jump/BGM_ev_Jiangyu_MiniGame_Jump"
+		},
+		{
+			"id": 30092,
+			"audioType": 3,
+			"audioName": "BGM_ev_JiangYu_Main/BGM_ev_JiangYu_Main"
+		},
+		{
 			"id": 40001,
 			"audioType": 4,
 			"audioName": "BGM_Satellite_Station/BGM_Satellite_Station"
@@ -1294,6 +1304,11 @@
 			"id": 51039,
 			"audioType": 5,
 			"audioName": "Buff_Temp/Icon_Lockon"
+		},
+		{
+			"id": 51040,
+			"audioType": 6,
+			"audioName": "Buff_Temp/Buff_StableHPRecover"
 		},
 		{
 			"id": 52001,
@@ -3006,6 +3021,61 @@
 			"audioName": "Event_SP_Lenna/SP_Lenna_WeakEffect"
 		},
 		{
+			"id": 590019,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Player/Event_SP_Jiangyu_Player_Dash"
+		},
+		{
+			"id": 590020,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Player/Event_SP_Jiangyu_Player_Die"
+		},
+		{
+			"id": 590021,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Player/Event_SP_Jiangyu_Player_ItemGet"
+		},
+		{
+			"id": 590022,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Player/Event_SP_Jiangyu_Player_Jump"
+		},
+		{
+			"id": 590023,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Player/Event_SP_Jiangyu_Player_Land"
+		},
+		{
+			"id": 590024,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Player/Event_SP_Jiangyu_Player_ReGravity"
+		},
+		{
+			"id": 590025,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Player/Event_SP_Jiangyu_Player_NormalGravity"
+		},
+		{
+			"id": 590026,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Boss/Event_SP_Jiangyu_Boss_IceShot"
+		},
+		{
+			"id": 590027,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Boss/Event_SP_Jiangyu_Boss_FireShot"
+		},
+		{
+			"id": 590028,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Boss/Event_SP_Jiangyu_Boss_FireShotting"
+		},
+		{
+			"id": 590029,
+			"audioType": 5,
+			"audioName": "Event_SP_Jiangyu_Boss/Event_SP_Jiangyu_Boss_Show"
+		},
+		{
 			"id": 900011,
 			"audioType": 9,
 			"audioName": "BGE_Battle_PurificationZone_AbandonedHospital/BGE_Battle_PurificationZone_AbandonedHospital"
@@ -3263,7 +3333,7 @@
 		{
 			"id": 1010037,
 			"audioType": 1,
-			"audioName": ""
+			"audioName": "UI_Battle/UI_Battle_Rollback"
 		},
 		{
 			"id": 1010038,
@@ -5614,6 +5684,71 @@
 			"id": 1020468,
 			"audioType": 1,
 			"audioName": "Event_SP_Daiyan/SP_Lenna_S_Updater"
+		},
+		{
+			"id": 1020469,
+			"audioType": 1,
+			"audioName": "Event_SP_Jiangyu/Event_SP_Jiangyu_S_DeFeat"
+		},
+		{
+			"id": 1020470,
+			"audioType": 1,
+			"audioName": "Event_SP_Jiangyu/Event_SP_Jiangyu_S_Enter"
+		},
+		{
+			"id": 1020471,
+			"audioType": 1,
+			"audioName": "Event_SP_Jiangyu/Event_SP_Jiangyu_S_MainScene"
+		},
+		{
+			"id": 1020472,
+			"audioType": 1,
+			"audioName": "Event_SP_Jiangyu/Event_SP_Jiangyu_S_Success"
+		},
+		{
+			"id": 1020473,
+			"audioType": 1,
+			"audioName": "Audio_Temp/UI_FightChapter_C_Enter"
+		},
+		{
+			"id": 1020474,
+			"audioType": 1,
+			"audioName": "Audio_Temp/UI_FightChapter_C_CommonClick"
+		},
+		{
+			"id": 1020475,
+			"audioType": 1,
+			"audioName": "Audio_Temp/UI_FightChapter_S_BossSceneOpen"
+		},
+		{
+			"id": 1020476,
+			"audioType": 1,
+			"audioName": "Audio_Temp/UI_FightChapter_S_CommonSceneClose"
+		},
+		{
+			"id": 1020477,
+			"audioType": 1,
+			"audioName": "Audio_Temp/UI_FightChapter_S_CommonSceneOpen"
+		},
+		{
+			"id": 1020478,
+			"audioType": 1,
+			"audioName": "Audio_Temp/UI_FightChapter_S_DetailSceneClose"
+		},
+		{
+			"id": 1020479,
+			"audioType": 1,
+			"audioName": "Audio_Temp/UI_FightChapter_S_DetailSceneOpen"
+		},
+		{
+			"id": 1020480,
+			"audioType": 1,
+			"audioName": "Audio_Temp/UI_FightChapter_S_MainSceneOpen"
+		},
+		{
+			"id": 1020481,
+			"audioType": 1,
+			"audioName": "UI_SP_Lenna/UIsp_Lenna_S_HintScene"
 		},
 		{
 			"id": 1030001,
@@ -8246,6 +8381,16 @@
 			"audioName": "BGE_AVG_Special_Somi/BGE_Kit_Drag_01"
 		},
 		{
+			"id": 2021018,
+			"audioType": 2,
+			"audioName": "BGE_AVG_Special_Somi/BGE_Carriage_Operate_02"
+		},
+		{
+			"id": 2021019,
+			"audioType": 2,
+			"audioName": "BGE_AVG_Special_Somi/BGE_Clink_Glasses_01"
+		},
+		{
 			"id": 2022001,
 			"audioType": 2,
 			"audioName": "BGE_AVG_Special_Daiyan/BGE_Rep_Green_City_Street_01"
@@ -8738,7 +8883,7 @@
 		{
 			"id": 2023032,
 			"audioType": 2,
-			"audioName": "BGE_AVG_Spcial_Macqiato/BGE_Footstep_Neutral_07"
+			"audioName": "BGE_AVG_Chapter08/BGE_Footstep_Neutral_07"
 		},
 		{
 			"id": 2023033,
@@ -12341,6 +12486,56 @@
 			"audioName": "C_SSR01_Mosinnagant/C_SSR01_Mosinnagant_UltraSkill_Hit"
 		},
 		{
+			"id": 5103501,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_Skill01_Shot"
+		},
+		{
+			"id": 5103502,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_Skill02_Cast"
+		},
+		{
+			"id": 5103503,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_Skill02_Bullet"
+		},
+		{
+			"id": 5103504,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_Skill02_Hit"
+		},
+		{
+			"id": 5103505,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_Skill02_WeapBack"
+		},
+		{
+			"id": 5103506,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_UltraSkill_Timeline"
+		},
+		{
+			"id": 5103507,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_UltraSkill_Skip"
+		},
+		{
+			"id": 5103508,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_UltraSkill_Shot"
+		},
+		{
+			"id": 5103509,
+			"audioType": 5,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_UltraSkill_Hit"
+		},
+		{
+			"id": 5103510,
+			"audioType": 6,
+			"audioName": "C_SSR01_Jiangyu/C_SSR01_Jiangyu_Buff"
+		},
+		{
 			"id": 5103601,
 			"audioType": 5,
 			"audioName": "C_SR01_Kesina/C_SR01_Kesnia_Skill01_Cast"
@@ -13859,6 +14054,86 @@
 			"id": 5625927,
 			"audioType": 5,
 			"audioName": "EN_ELID_Nemertea/EN_ELID_Nemertea_Body_Foley"
+		},
+		{
+			"id": 5625928,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Atk_Shot"
+		},
+		{
+			"id": 5625929,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Atk_Bullet"
+		},
+		{
+			"id": 5625930,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Atk_Hit"
+		},
+		{
+			"id": 5625931,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Skill01_Shot"
+		},
+		{
+			"id": 5625932,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Skill01_Bullet"
+		},
+		{
+			"id": 5625933,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Skill01_Hit"
+		},
+		{
+			"id": 5625934,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Skill01_Cast"
+		},
+		{
+			"id": 5625935,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Skill02_Shot"
+		},
+		{
+			"id": 5625936,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Skill02_Bullet"
+		},
+		{
+			"id": 5625937,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Skill02_Hit"
+		},
+		{
+			"id": 5625938,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Passive_Shot"
+		},
+		{
+			"id": 5625939,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Passive_Bullet"
+		},
+		{
+			"id": 5625940,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Passive_Hit"
+		},
+		{
+			"id": 5625941,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Core"
+		},
+		{
+			"id": 5625942,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_CoreBreak"
+		},
+		{
+			"id": 5625943,
+			"audioType": 5,
+			"audioName": "EN_ELID_Nemertea/EN_ELID_HigherCombat_Nemertea_Repair"
 		},
 		{
 			"id": 5631114,
@@ -15594,6 +15869,131 @@
 			"id": 5690334,
 			"audioType": 5,
 			"audioName": "EN_Tank/EN_Tank_Skill_hxml"
+		},
+		{
+			"id": 5693101,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_Foley"
+		},
+		{
+			"id": 5693102,
+			"audioType": 6,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_Cannon_UltraSkill"
+		},
+		{
+			"id": 5693103,
+			"audioType": 6,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_EntryAnimation1"
+		},
+		{
+			"id": 5693104,
+			"audioType": 6,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_EntryAnimation2"
+		},
+		{
+			"id": 5693105,
+			"audioType": 6,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_EntryAnimation3"
+		},
+		{
+			"id": 5693106,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_DLLSJQ_Shot"
+		},
+		{
+			"id": 5693107,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_DLLSJQ_Impact"
+		},
+		{
+			"id": 5693108,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_Foley"
+		},
+		{
+			"id": 5693109,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_Shot"
+		},
+		{
+			"id": 5693110,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_Bullet"
+		},
+		{
+			"id": 5693111,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_Explo"
+		},
+		{
+			"id": 5693112,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_QNSDPZ_Shot"
+		},
+		{
+			"id": 5693113,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_QNSDPZ_Bullet"
+		},
+		{
+			"id": 5693114,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_QNSDPZ_Explo"
+		},
+		{
+			"id": 5693115,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_Elec_Shot"
+		},
+		{
+			"id": 5693116,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_Elec_Bullet"
+		},
+		{
+			"id": 5693117,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_Elec_Hit"
+		},
+		{
+			"id": 5693118,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_Ice_Shot"
+		},
+		{
+			"id": 5693119,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_JDDDFSQ_lec_Bullet"
+		},
+		{
+			"id": 5693120,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_SLJQ_Shot"
+		},
+		{
+			"id": 5693121,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_SLJQ_Bullet"
+		},
+		{
+			"id": 5693122,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_YTFQWQ_Shot"
+		},
+		{
+			"id": 5693123,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_YTFQWQ_Bullet"
+		},
+		{
+			"id": 5693124,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_YTFQWQ_Hit"
+		},
+		{
+			"id": 5693125,
+			"audioType": 5,
+			"audioName": "EN_MISC_DeepWarship/EN_MISC_DeepWarship_QNSDPZ_Shot_Single"
 		},
 		{
 			"id": 5700201,
@@ -71906,6 +72306,4701 @@
 			"audioName": "VO_Special_Event_Macqiato/VO_Macqiato_01_1047"
 		},
 		{
+			"id": 8120001,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0001"
+		},
+		{
+			"id": 8120002,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0002"
+		},
+		{
+			"id": 8120003,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0003"
+		},
+		{
+			"id": 8120004,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0004"
+		},
+		{
+			"id": 8120005,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0005"
+		},
+		{
+			"id": 8120006,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0006"
+		},
+		{
+			"id": 8120007,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0007"
+		},
+		{
+			"id": 8120008,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0008"
+		},
+		{
+			"id": 8120009,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0009"
+		},
+		{
+			"id": 8120010,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0010"
+		},
+		{
+			"id": 8120011,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0011"
+		},
+		{
+			"id": 8120012,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0012"
+		},
+		{
+			"id": 8120013,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0013"
+		},
+		{
+			"id": 8120014,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0014"
+		},
+		{
+			"id": 8120015,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0015"
+		},
+		{
+			"id": 8120016,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0016"
+		},
+		{
+			"id": 8120017,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0017"
+		},
+		{
+			"id": 8120018,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0018"
+		},
+		{
+			"id": 8120019,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0019"
+		},
+		{
+			"id": 8120020,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0020"
+		},
+		{
+			"id": 8120021,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0021"
+		},
+		{
+			"id": 8120022,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0022"
+		},
+		{
+			"id": 8120023,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0023"
+		},
+		{
+			"id": 8120024,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0024"
+		},
+		{
+			"id": 8120025,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0025"
+		},
+		{
+			"id": 8120026,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0026"
+		},
+		{
+			"id": 8120027,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0027"
+		},
+		{
+			"id": 8120028,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0028"
+		},
+		{
+			"id": 8120029,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0029"
+		},
+		{
+			"id": 8120030,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0030"
+		},
+		{
+			"id": 8120031,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0031"
+		},
+		{
+			"id": 8120032,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0032"
+		},
+		{
+			"id": 8120033,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0033"
+		},
+		{
+			"id": 8120034,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0034"
+		},
+		{
+			"id": 8120035,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0035"
+		},
+		{
+			"id": 8120036,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0036"
+		},
+		{
+			"id": 8120037,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0037"
+		},
+		{
+			"id": 8120038,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0038"
+		},
+		{
+			"id": 8120039,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0039"
+		},
+		{
+			"id": 8120040,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0040"
+		},
+		{
+			"id": 8120041,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0041"
+		},
+		{
+			"id": 8120042,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0042"
+		},
+		{
+			"id": 8120043,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0043"
+		},
+		{
+			"id": 8120044,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0044"
+		},
+		{
+			"id": 8120045,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0045"
+		},
+		{
+			"id": 8120046,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0046"
+		},
+		{
+			"id": 8120047,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0047"
+		},
+		{
+			"id": 8120048,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0048"
+		},
+		{
+			"id": 8120049,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0049"
+		},
+		{
+			"id": 8120050,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0050"
+		},
+		{
+			"id": 8120051,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0051"
+		},
+		{
+			"id": 8120052,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0052"
+		},
+		{
+			"id": 8120053,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0053"
+		},
+		{
+			"id": 8120054,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0054"
+		},
+		{
+			"id": 8120055,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0055"
+		},
+		{
+			"id": 8120056,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0056"
+		},
+		{
+			"id": 8120057,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0057"
+		},
+		{
+			"id": 8120058,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0058"
+		},
+		{
+			"id": 8120059,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0059"
+		},
+		{
+			"id": 8120060,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0060"
+		},
+		{
+			"id": 8120061,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0061"
+		},
+		{
+			"id": 8120062,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0062"
+		},
+		{
+			"id": 8120063,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0063"
+		},
+		{
+			"id": 8120064,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0064"
+		},
+		{
+			"id": 8120065,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0065"
+		},
+		{
+			"id": 8120066,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0066"
+		},
+		{
+			"id": 8120067,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0067"
+		},
+		{
+			"id": 8120068,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0068"
+		},
+		{
+			"id": 8120069,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0069"
+		},
+		{
+			"id": 8120070,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0070"
+		},
+		{
+			"id": 8120071,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0071"
+		},
+		{
+			"id": 8120072,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0072"
+		},
+		{
+			"id": 8120073,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0073"
+		},
+		{
+			"id": 8120074,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0074"
+		},
+		{
+			"id": 8120075,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0075"
+		},
+		{
+			"id": 8120076,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0076"
+		},
+		{
+			"id": 8120077,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0077"
+		},
+		{
+			"id": 8120078,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0078"
+		},
+		{
+			"id": 8120079,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0079"
+		},
+		{
+			"id": 8120080,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0080"
+		},
+		{
+			"id": 8120081,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0081"
+		},
+		{
+			"id": 8120082,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0082"
+		},
+		{
+			"id": 8120083,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0083"
+		},
+		{
+			"id": 8120084,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0084"
+		},
+		{
+			"id": 8120085,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0085"
+		},
+		{
+			"id": 8120086,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0086"
+		},
+		{
+			"id": 8120087,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0087"
+		},
+		{
+			"id": 8120088,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0088"
+		},
+		{
+			"id": 8120089,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0089"
+		},
+		{
+			"id": 8120090,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0090"
+		},
+		{
+			"id": 8120091,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0091"
+		},
+		{
+			"id": 8120092,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0092"
+		},
+		{
+			"id": 8120093,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0093"
+		},
+		{
+			"id": 8120094,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0094"
+		},
+		{
+			"id": 8120095,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0095"
+		},
+		{
+			"id": 8120096,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0096"
+		},
+		{
+			"id": 8120097,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0097"
+		},
+		{
+			"id": 8120098,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0098"
+		},
+		{
+			"id": 8120099,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0099"
+		},
+		{
+			"id": 8120100,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0100"
+		},
+		{
+			"id": 8120101,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0101"
+		},
+		{
+			"id": 8120102,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0102"
+		},
+		{
+			"id": 8120103,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0103"
+		},
+		{
+			"id": 8120104,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0104"
+		},
+		{
+			"id": 8120105,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0105"
+		},
+		{
+			"id": 8120106,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0106"
+		},
+		{
+			"id": 8120107,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0107"
+		},
+		{
+			"id": 8120108,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0108"
+		},
+		{
+			"id": 8120109,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0109"
+		},
+		{
+			"id": 8120110,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0110"
+		},
+		{
+			"id": 8120111,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0111"
+		},
+		{
+			"id": 8120112,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0112"
+		},
+		{
+			"id": 8120113,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0113"
+		},
+		{
+			"id": 8120114,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0114"
+		},
+		{
+			"id": 8120115,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0115"
+		},
+		{
+			"id": 8120116,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0116"
+		},
+		{
+			"id": 8120117,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0117"
+		},
+		{
+			"id": 8120118,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0118"
+		},
+		{
+			"id": 8120119,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0119"
+		},
+		{
+			"id": 8120120,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0120"
+		},
+		{
+			"id": 8120121,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0121"
+		},
+		{
+			"id": 8120122,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0122"
+		},
+		{
+			"id": 8120123,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0123"
+		},
+		{
+			"id": 8120124,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0124"
+		},
+		{
+			"id": 8120125,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0125"
+		},
+		{
+			"id": 8120126,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0126"
+		},
+		{
+			"id": 8120127,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0127"
+		},
+		{
+			"id": 8120128,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0128"
+		},
+		{
+			"id": 8120129,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0129"
+		},
+		{
+			"id": 8120130,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0130"
+		},
+		{
+			"id": 8120131,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0131"
+		},
+		{
+			"id": 8120132,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0132"
+		},
+		{
+			"id": 8120133,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0133"
+		},
+		{
+			"id": 8120134,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0134"
+		},
+		{
+			"id": 8120135,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0135"
+		},
+		{
+			"id": 8120136,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0136"
+		},
+		{
+			"id": 8120137,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0137"
+		},
+		{
+			"id": 8120138,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0138"
+		},
+		{
+			"id": 8120139,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0139"
+		},
+		{
+			"id": 8120140,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0140"
+		},
+		{
+			"id": 8120141,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0141"
+		},
+		{
+			"id": 8120142,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0142"
+		},
+		{
+			"id": 8120143,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0143"
+		},
+		{
+			"id": 8120144,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0144"
+		},
+		{
+			"id": 8120145,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0145"
+		},
+		{
+			"id": 8120146,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0146"
+		},
+		{
+			"id": 8120147,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0147"
+		},
+		{
+			"id": 8120148,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0148"
+		},
+		{
+			"id": 8120149,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0149"
+		},
+		{
+			"id": 8120150,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0150"
+		},
+		{
+			"id": 8120151,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0151"
+		},
+		{
+			"id": 8120152,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0152"
+		},
+		{
+			"id": 8120153,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0153"
+		},
+		{
+			"id": 8120154,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0154"
+		},
+		{
+			"id": 8120155,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0155"
+		},
+		{
+			"id": 8120156,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0156"
+		},
+		{
+			"id": 8120157,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0157"
+		},
+		{
+			"id": 8120158,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0158"
+		},
+		{
+			"id": 8120159,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0159"
+		},
+		{
+			"id": 8120160,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0160"
+		},
+		{
+			"id": 8120161,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0161"
+		},
+		{
+			"id": 8120162,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0162"
+		},
+		{
+			"id": 8120163,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0163"
+		},
+		{
+			"id": 8120164,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0164"
+		},
+		{
+			"id": 8120165,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0165"
+		},
+		{
+			"id": 8120166,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0166"
+		},
+		{
+			"id": 8120167,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0167"
+		},
+		{
+			"id": 8120168,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0168"
+		},
+		{
+			"id": 8120169,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0169"
+		},
+		{
+			"id": 8120170,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0170"
+		},
+		{
+			"id": 8120171,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0171"
+		},
+		{
+			"id": 8120172,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0172"
+		},
+		{
+			"id": 8120173,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0173"
+		},
+		{
+			"id": 8120174,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0174"
+		},
+		{
+			"id": 8120175,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0175"
+		},
+		{
+			"id": 8120176,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0176"
+		},
+		{
+			"id": 8120177,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0177"
+		},
+		{
+			"id": 8120178,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0178"
+		},
+		{
+			"id": 8120179,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0179"
+		},
+		{
+			"id": 8120180,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0180"
+		},
+		{
+			"id": 8120181,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0181"
+		},
+		{
+			"id": 8120182,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0182"
+		},
+		{
+			"id": 8120183,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0183"
+		},
+		{
+			"id": 8120184,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0184"
+		},
+		{
+			"id": 8120185,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0185"
+		},
+		{
+			"id": 8120186,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0186"
+		},
+		{
+			"id": 8120187,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0187"
+		},
+		{
+			"id": 8120188,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0188"
+		},
+		{
+			"id": 8120189,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0189"
+		},
+		{
+			"id": 8120190,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0190"
+		},
+		{
+			"id": 8120191,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0191"
+		},
+		{
+			"id": 8120192,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0192"
+		},
+		{
+			"id": 8120193,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0193"
+		},
+		{
+			"id": 8120194,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0194"
+		},
+		{
+			"id": 8120195,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0195"
+		},
+		{
+			"id": 8120196,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0196"
+		},
+		{
+			"id": 8120197,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0197"
+		},
+		{
+			"id": 8120198,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0198"
+		},
+		{
+			"id": 8120199,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0199"
+		},
+		{
+			"id": 8120200,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0200"
+		},
+		{
+			"id": 8120201,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0201"
+		},
+		{
+			"id": 8120202,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0202"
+		},
+		{
+			"id": 8120203,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0203"
+		},
+		{
+			"id": 8120204,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0204"
+		},
+		{
+			"id": 8120205,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0205"
+		},
+		{
+			"id": 8120206,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0206"
+		},
+		{
+			"id": 8120207,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0207"
+		},
+		{
+			"id": 8120208,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0208"
+		},
+		{
+			"id": 8120209,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0209"
+		},
+		{
+			"id": 8120210,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0210"
+		},
+		{
+			"id": 8120211,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0211"
+		},
+		{
+			"id": 8120212,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0212"
+		},
+		{
+			"id": 8120213,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0213"
+		},
+		{
+			"id": 8120214,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0214"
+		},
+		{
+			"id": 8120215,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0215"
+		},
+		{
+			"id": 8120216,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0216"
+		},
+		{
+			"id": 8120217,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0217"
+		},
+		{
+			"id": 8120218,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0218"
+		},
+		{
+			"id": 8120219,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0219"
+		},
+		{
+			"id": 8120220,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0220"
+		},
+		{
+			"id": 8120221,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0221"
+		},
+		{
+			"id": 8120222,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0222"
+		},
+		{
+			"id": 8120223,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0223"
+		},
+		{
+			"id": 8120224,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0224"
+		},
+		{
+			"id": 8120225,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0225"
+		},
+		{
+			"id": 8120226,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0226"
+		},
+		{
+			"id": 8120227,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0227"
+		},
+		{
+			"id": 8120228,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0228"
+		},
+		{
+			"id": 8120229,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0229"
+		},
+		{
+			"id": 8120230,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0230"
+		},
+		{
+			"id": 8120231,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0231"
+		},
+		{
+			"id": 8120232,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0232"
+		},
+		{
+			"id": 8120233,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0233"
+		},
+		{
+			"id": 8120234,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0234"
+		},
+		{
+			"id": 8120235,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0235"
+		},
+		{
+			"id": 8120236,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0236"
+		},
+		{
+			"id": 8120237,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0237"
+		},
+		{
+			"id": 8120238,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0238"
+		},
+		{
+			"id": 8120239,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0239"
+		},
+		{
+			"id": 8120240,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0240"
+		},
+		{
+			"id": 8120241,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0241"
+		},
+		{
+			"id": 8120242,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0242"
+		},
+		{
+			"id": 8120243,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0243"
+		},
+		{
+			"id": 8120244,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0244"
+		},
+		{
+			"id": 8120245,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0245"
+		},
+		{
+			"id": 8120246,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0246"
+		},
+		{
+			"id": 8120247,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0247"
+		},
+		{
+			"id": 8120248,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0248"
+		},
+		{
+			"id": 8120249,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0249"
+		},
+		{
+			"id": 8120250,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0250"
+		},
+		{
+			"id": 8120251,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0251"
+		},
+		{
+			"id": 8120252,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0252"
+		},
+		{
+			"id": 8120253,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0253"
+		},
+		{
+			"id": 8120254,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0254"
+		},
+		{
+			"id": 8120255,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0255"
+		},
+		{
+			"id": 8120256,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0256"
+		},
+		{
+			"id": 8120257,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0257"
+		},
+		{
+			"id": 8120258,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0258"
+		},
+		{
+			"id": 8120259,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0259"
+		},
+		{
+			"id": 8120260,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0260"
+		},
+		{
+			"id": 8120261,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0261"
+		},
+		{
+			"id": 8120262,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0262"
+		},
+		{
+			"id": 8120263,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0263"
+		},
+		{
+			"id": 8120264,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0264"
+		},
+		{
+			"id": 8120265,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0265"
+		},
+		{
+			"id": 8120266,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0266"
+		},
+		{
+			"id": 8120267,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0267"
+		},
+		{
+			"id": 8120268,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0268"
+		},
+		{
+			"id": 8120269,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0269"
+		},
+		{
+			"id": 8120270,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0270"
+		},
+		{
+			"id": 8120271,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0271"
+		},
+		{
+			"id": 8120272,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0272"
+		},
+		{
+			"id": 8120273,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0273"
+		},
+		{
+			"id": 8120274,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0274"
+		},
+		{
+			"id": 8120275,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0275"
+		},
+		{
+			"id": 8120276,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0276"
+		},
+		{
+			"id": 8120277,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0277"
+		},
+		{
+			"id": 8120278,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0278"
+		},
+		{
+			"id": 8120279,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0279"
+		},
+		{
+			"id": 8120280,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0280"
+		},
+		{
+			"id": 8120281,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0281"
+		},
+		{
+			"id": 8120282,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0282"
+		},
+		{
+			"id": 8120283,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0283"
+		},
+		{
+			"id": 8120284,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0284"
+		},
+		{
+			"id": 8120285,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0285"
+		},
+		{
+			"id": 8120286,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0286"
+		},
+		{
+			"id": 8120287,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0287"
+		},
+		{
+			"id": 8120288,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0288"
+		},
+		{
+			"id": 8120289,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0289"
+		},
+		{
+			"id": 8120290,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0290"
+		},
+		{
+			"id": 8120291,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0291"
+		},
+		{
+			"id": 8120292,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0292"
+		},
+		{
+			"id": 8120293,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0293"
+		},
+		{
+			"id": 8120294,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0294"
+		},
+		{
+			"id": 8120295,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0295"
+		},
+		{
+			"id": 8120296,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0296"
+		},
+		{
+			"id": 8120297,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0297"
+		},
+		{
+			"id": 8120298,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0298"
+		},
+		{
+			"id": 8120299,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0299"
+		},
+		{
+			"id": 8120300,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0300"
+		},
+		{
+			"id": 8120301,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0301"
+		},
+		{
+			"id": 8120302,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0302"
+		},
+		{
+			"id": 8120303,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0303"
+		},
+		{
+			"id": 8120304,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0304"
+		},
+		{
+			"id": 8120305,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0305"
+		},
+		{
+			"id": 8120306,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0306"
+		},
+		{
+			"id": 8120307,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0307"
+		},
+		{
+			"id": 8120308,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0308"
+		},
+		{
+			"id": 8120309,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0309"
+		},
+		{
+			"id": 8120310,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0310"
+		},
+		{
+			"id": 8120311,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0311"
+		},
+		{
+			"id": 8120312,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0312"
+		},
+		{
+			"id": 8120313,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0313"
+		},
+		{
+			"id": 8120314,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0314"
+		},
+		{
+			"id": 8120315,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0315"
+		},
+		{
+			"id": 8120316,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0316"
+		},
+		{
+			"id": 8120317,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0317"
+		},
+		{
+			"id": 8120318,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0318"
+		},
+		{
+			"id": 8120319,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0319"
+		},
+		{
+			"id": 8120320,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0320"
+		},
+		{
+			"id": 8120321,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0321"
+		},
+		{
+			"id": 8120322,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0322"
+		},
+		{
+			"id": 8120323,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0323"
+		},
+		{
+			"id": 8120324,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0324"
+		},
+		{
+			"id": 8120325,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0325"
+		},
+		{
+			"id": 8120326,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0326"
+		},
+		{
+			"id": 8120327,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0327"
+		},
+		{
+			"id": 8120328,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0328"
+		},
+		{
+			"id": 8120329,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0329"
+		},
+		{
+			"id": 8120330,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0330"
+		},
+		{
+			"id": 8120331,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0331"
+		},
+		{
+			"id": 8120332,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0332"
+		},
+		{
+			"id": 8120333,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0333"
+		},
+		{
+			"id": 8120334,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0334"
+		},
+		{
+			"id": 8120335,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0335"
+		},
+		{
+			"id": 8120336,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0336"
+		},
+		{
+			"id": 8120337,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0337"
+		},
+		{
+			"id": 8120338,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0338"
+		},
+		{
+			"id": 8120339,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0339"
+		},
+		{
+			"id": 8120340,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0340"
+		},
+		{
+			"id": 8120341,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0341"
+		},
+		{
+			"id": 8120342,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0342"
+		},
+		{
+			"id": 8120343,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0343"
+		},
+		{
+			"id": 8120344,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0344"
+		},
+		{
+			"id": 8120345,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0345"
+		},
+		{
+			"id": 8120346,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0346"
+		},
+		{
+			"id": 8120347,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0347"
+		},
+		{
+			"id": 8120348,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0348"
+		},
+		{
+			"id": 8120349,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0349"
+		},
+		{
+			"id": 8120350,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0350"
+		},
+		{
+			"id": 8120351,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0351"
+		},
+		{
+			"id": 8120352,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0352"
+		},
+		{
+			"id": 8120353,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0353"
+		},
+		{
+			"id": 8120354,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0354"
+		},
+		{
+			"id": 8120355,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0355"
+		},
+		{
+			"id": 8120356,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0356"
+		},
+		{
+			"id": 8120357,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0357"
+		},
+		{
+			"id": 8120358,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0358"
+		},
+		{
+			"id": 8120359,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0359"
+		},
+		{
+			"id": 8120360,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0360"
+		},
+		{
+			"id": 8120361,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0361"
+		},
+		{
+			"id": 8120362,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0362"
+		},
+		{
+			"id": 8120363,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0363"
+		},
+		{
+			"id": 8120364,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0364"
+		},
+		{
+			"id": 8120365,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0365"
+		},
+		{
+			"id": 8120366,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0366"
+		},
+		{
+			"id": 8120367,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0367"
+		},
+		{
+			"id": 8120368,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0368"
+		},
+		{
+			"id": 8120369,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0369"
+		},
+		{
+			"id": 8120370,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0370"
+		},
+		{
+			"id": 8120371,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0371"
+		},
+		{
+			"id": 8120372,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0372"
+		},
+		{
+			"id": 8120373,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0373"
+		},
+		{
+			"id": 8120374,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0374"
+		},
+		{
+			"id": 8120375,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0375"
+		},
+		{
+			"id": 8120376,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0376"
+		},
+		{
+			"id": 8120377,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0377"
+		},
+		{
+			"id": 8120378,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0378"
+		},
+		{
+			"id": 8120379,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0379"
+		},
+		{
+			"id": 8120380,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0380"
+		},
+		{
+			"id": 8120381,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0381"
+		},
+		{
+			"id": 8120382,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0382"
+		},
+		{
+			"id": 8120383,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0383"
+		},
+		{
+			"id": 8120384,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0384"
+		},
+		{
+			"id": 8120385,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0385"
+		},
+		{
+			"id": 8120386,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0386"
+		},
+		{
+			"id": 8120387,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0387"
+		},
+		{
+			"id": 8120388,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0388"
+		},
+		{
+			"id": 8120389,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0389"
+		},
+		{
+			"id": 8120390,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0390"
+		},
+		{
+			"id": 8120391,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0391"
+		},
+		{
+			"id": 8120392,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0392"
+		},
+		{
+			"id": 8120393,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0393"
+		},
+		{
+			"id": 8120394,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0394"
+		},
+		{
+			"id": 8120395,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0395"
+		},
+		{
+			"id": 8120396,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0396"
+		},
+		{
+			"id": 8120397,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0397"
+		},
+		{
+			"id": 8120398,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0398"
+		},
+		{
+			"id": 8120399,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0399"
+		},
+		{
+			"id": 8120400,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0400"
+		},
+		{
+			"id": 8120401,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0401"
+		},
+		{
+			"id": 8120402,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0402"
+		},
+		{
+			"id": 8120403,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0403"
+		},
+		{
+			"id": 8120404,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0404"
+		},
+		{
+			"id": 8120405,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0405"
+		},
+		{
+			"id": 8120406,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0406"
+		},
+		{
+			"id": 8120407,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0407"
+		},
+		{
+			"id": 8120408,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0408"
+		},
+		{
+			"id": 8120409,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0409"
+		},
+		{
+			"id": 8120410,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0410"
+		},
+		{
+			"id": 8120411,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0411"
+		},
+		{
+			"id": 8120412,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0412"
+		},
+		{
+			"id": 8120413,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0413"
+		},
+		{
+			"id": 8120414,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0414"
+		},
+		{
+			"id": 8120415,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0415"
+		},
+		{
+			"id": 8120416,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0416"
+		},
+		{
+			"id": 8120417,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0417"
+		},
+		{
+			"id": 8120418,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0418"
+		},
+		{
+			"id": 8120419,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0419"
+		},
+		{
+			"id": 8120420,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0420"
+		},
+		{
+			"id": 8120421,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0421"
+		},
+		{
+			"id": 8120422,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0422"
+		},
+		{
+			"id": 8120423,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0423"
+		},
+		{
+			"id": 8120424,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0424"
+		},
+		{
+			"id": 8120425,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0425"
+		},
+		{
+			"id": 8120426,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0426"
+		},
+		{
+			"id": 8120427,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0427"
+		},
+		{
+			"id": 8120428,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0428"
+		},
+		{
+			"id": 8120429,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0429"
+		},
+		{
+			"id": 8120430,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0430"
+		},
+		{
+			"id": 8120431,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0431"
+		},
+		{
+			"id": 8120432,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0432"
+		},
+		{
+			"id": 8120433,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0433"
+		},
+		{
+			"id": 8120434,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0434"
+		},
+		{
+			"id": 8120435,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0435"
+		},
+		{
+			"id": 8120436,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0436"
+		},
+		{
+			"id": 8120437,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0437"
+		},
+		{
+			"id": 8120438,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0438"
+		},
+		{
+			"id": 8120439,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0439"
+		},
+		{
+			"id": 8120440,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0440"
+		},
+		{
+			"id": 8120441,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0441"
+		},
+		{
+			"id": 8120442,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0442"
+		},
+		{
+			"id": 8120443,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0443"
+		},
+		{
+			"id": 8120444,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0444"
+		},
+		{
+			"id": 8120445,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0445"
+		},
+		{
+			"id": 8120446,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0446"
+		},
+		{
+			"id": 8120447,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0447"
+		},
+		{
+			"id": 8120448,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0448"
+		},
+		{
+			"id": 8120449,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0449"
+		},
+		{
+			"id": 8120450,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0450"
+		},
+		{
+			"id": 8120451,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0451"
+		},
+		{
+			"id": 8120452,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0452"
+		},
+		{
+			"id": 8120453,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0453"
+		},
+		{
+			"id": 8120454,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0454"
+		},
+		{
+			"id": 8120455,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0455"
+		},
+		{
+			"id": 8120456,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0456"
+		},
+		{
+			"id": 8120457,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0457"
+		},
+		{
+			"id": 8120458,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0458"
+		},
+		{
+			"id": 8120459,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0459"
+		},
+		{
+			"id": 8120460,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0460"
+		},
+		{
+			"id": 8120461,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0461"
+		},
+		{
+			"id": 8120462,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0462"
+		},
+		{
+			"id": 8120463,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0463"
+		},
+		{
+			"id": 8120464,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0464"
+		},
+		{
+			"id": 8120465,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0465"
+		},
+		{
+			"id": 8120466,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0466"
+		},
+		{
+			"id": 8120467,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0467"
+		},
+		{
+			"id": 8120468,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0468"
+		},
+		{
+			"id": 8120469,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0469"
+		},
+		{
+			"id": 8120470,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0470"
+		},
+		{
+			"id": 8120471,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0471"
+		},
+		{
+			"id": 8120472,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0472"
+		},
+		{
+			"id": 8120473,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0473"
+		},
+		{
+			"id": 8120474,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0474"
+		},
+		{
+			"id": 8120475,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0475"
+		},
+		{
+			"id": 8120476,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0476"
+		},
+		{
+			"id": 8120477,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0477"
+		},
+		{
+			"id": 8120478,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0478"
+		},
+		{
+			"id": 8120479,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0479"
+		},
+		{
+			"id": 8120480,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0480"
+		},
+		{
+			"id": 8120481,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0481"
+		},
+		{
+			"id": 8120482,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0482"
+		},
+		{
+			"id": 8120483,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0483"
+		},
+		{
+			"id": 8120484,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0484"
+		},
+		{
+			"id": 8120485,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0485"
+		},
+		{
+			"id": 8120486,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0486"
+		},
+		{
+			"id": 8120487,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0487"
+		},
+		{
+			"id": 8120488,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0488"
+		},
+		{
+			"id": 8120489,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0489"
+		},
+		{
+			"id": 8120490,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0490"
+		},
+		{
+			"id": 8120491,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0491"
+		},
+		{
+			"id": 8120492,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0492"
+		},
+		{
+			"id": 8120493,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0493"
+		},
+		{
+			"id": 8120494,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0494"
+		},
+		{
+			"id": 8120495,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0495"
+		},
+		{
+			"id": 8120496,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0496"
+		},
+		{
+			"id": 8120497,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0497"
+		},
+		{
+			"id": 8120498,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0498"
+		},
+		{
+			"id": 8120499,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0499"
+		},
+		{
+			"id": 8120500,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0500"
+		},
+		{
+			"id": 8120501,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0501"
+		},
+		{
+			"id": 8120502,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0502"
+		},
+		{
+			"id": 8120503,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0503"
+		},
+		{
+			"id": 8120504,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0504"
+		},
+		{
+			"id": 8120505,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0505"
+		},
+		{
+			"id": 8120506,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0506"
+		},
+		{
+			"id": 8120507,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0507"
+		},
+		{
+			"id": 8120508,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0508"
+		},
+		{
+			"id": 8120509,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0509"
+		},
+		{
+			"id": 8120510,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0510"
+		},
+		{
+			"id": 8120511,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0511"
+		},
+		{
+			"id": 8120512,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0512"
+		},
+		{
+			"id": 8120513,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0513"
+		},
+		{
+			"id": 8120514,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0514"
+		},
+		{
+			"id": 8120515,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0515"
+		},
+		{
+			"id": 8120516,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0516"
+		},
+		{
+			"id": 8120517,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0517"
+		},
+		{
+			"id": 8120518,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0518"
+		},
+		{
+			"id": 8120519,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0519"
+		},
+		{
+			"id": 8120520,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0520"
+		},
+		{
+			"id": 8120521,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0521"
+		},
+		{
+			"id": 8120522,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0522"
+		},
+		{
+			"id": 8120523,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0523"
+		},
+		{
+			"id": 8120524,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0524"
+		},
+		{
+			"id": 8120525,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0525"
+		},
+		{
+			"id": 8120526,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0526"
+		},
+		{
+			"id": 8120527,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0527"
+		},
+		{
+			"id": 8120528,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0528"
+		},
+		{
+			"id": 8120529,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0529"
+		},
+		{
+			"id": 8120530,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0530"
+		},
+		{
+			"id": 8120531,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0531"
+		},
+		{
+			"id": 8120532,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0532"
+		},
+		{
+			"id": 8120533,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0533"
+		},
+		{
+			"id": 8120534,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0534"
+		},
+		{
+			"id": 8120535,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0535"
+		},
+		{
+			"id": 8120536,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0536"
+		},
+		{
+			"id": 8120537,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0537"
+		},
+		{
+			"id": 8120538,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0538"
+		},
+		{
+			"id": 8120539,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0539"
+		},
+		{
+			"id": 8120540,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0540"
+		},
+		{
+			"id": 8120541,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0541"
+		},
+		{
+			"id": 8120542,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0542"
+		},
+		{
+			"id": 8120543,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0543"
+		},
+		{
+			"id": 8120544,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0544"
+		},
+		{
+			"id": 8120545,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0545"
+		},
+		{
+			"id": 8120546,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0546"
+		},
+		{
+			"id": 8120547,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0547"
+		},
+		{
+			"id": 8120548,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0548"
+		},
+		{
+			"id": 8120549,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0549"
+		},
+		{
+			"id": 8120550,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0550"
+		},
+		{
+			"id": 8120551,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0551"
+		},
+		{
+			"id": 8120552,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0552"
+		},
+		{
+			"id": 8120553,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0553"
+		},
+		{
+			"id": 8120554,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0554"
+		},
+		{
+			"id": 8120555,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0555"
+		},
+		{
+			"id": 8120556,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0556"
+		},
+		{
+			"id": 8120557,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0557"
+		},
+		{
+			"id": 8120558,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0558"
+		},
+		{
+			"id": 8120559,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0559"
+		},
+		{
+			"id": 8120560,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0560"
+		},
+		{
+			"id": 8120561,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0561"
+		},
+		{
+			"id": 8120562,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0562"
+		},
+		{
+			"id": 8120563,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0563"
+		},
+		{
+			"id": 8120564,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0564"
+		},
+		{
+			"id": 8120565,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0565"
+		},
+		{
+			"id": 8120566,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0566"
+		},
+		{
+			"id": 8120567,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0567"
+		},
+		{
+			"id": 8120568,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0568"
+		},
+		{
+			"id": 8120569,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0569"
+		},
+		{
+			"id": 8120570,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0570"
+		},
+		{
+			"id": 8120571,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0571"
+		},
+		{
+			"id": 8120572,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0572"
+		},
+		{
+			"id": 8120573,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0573"
+		},
+		{
+			"id": 8120574,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0574"
+		},
+		{
+			"id": 8120575,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0575"
+		},
+		{
+			"id": 8120576,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0576"
+		},
+		{
+			"id": 8120577,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0577"
+		},
+		{
+			"id": 8120578,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0578"
+		},
+		{
+			"id": 8120579,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0579"
+		},
+		{
+			"id": 8120580,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0580"
+		},
+		{
+			"id": 8120581,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0581"
+		},
+		{
+			"id": 8120582,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0582"
+		},
+		{
+			"id": 8120583,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0583"
+		},
+		{
+			"id": 8120584,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0584"
+		},
+		{
+			"id": 8120585,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0585"
+		},
+		{
+			"id": 8120586,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0586"
+		},
+		{
+			"id": 8120587,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0587"
+		},
+		{
+			"id": 8120588,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0588"
+		},
+		{
+			"id": 8120589,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0589"
+		},
+		{
+			"id": 8120590,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0590"
+		},
+		{
+			"id": 8120591,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0591"
+		},
+		{
+			"id": 8120592,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0592"
+		},
+		{
+			"id": 8120593,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0593"
+		},
+		{
+			"id": 8120594,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0594"
+		},
+		{
+			"id": 8120595,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0595"
+		},
+		{
+			"id": 8120596,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0596"
+		},
+		{
+			"id": 8120597,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0597"
+		},
+		{
+			"id": 8120598,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0598"
+		},
+		{
+			"id": 8120599,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0599"
+		},
+		{
+			"id": 8120600,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0600"
+		},
+		{
+			"id": 8120601,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0601"
+		},
+		{
+			"id": 8120602,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0602"
+		},
+		{
+			"id": 8120603,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0603"
+		},
+		{
+			"id": 8120604,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0604"
+		},
+		{
+			"id": 8120605,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0605"
+		},
+		{
+			"id": 8120606,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0606"
+		},
+		{
+			"id": 8120607,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0607"
+		},
+		{
+			"id": 8120608,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0608"
+		},
+		{
+			"id": 8120609,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0609"
+		},
+		{
+			"id": 8120610,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0610"
+		},
+		{
+			"id": 8120611,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0611"
+		},
+		{
+			"id": 8120612,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0612"
+		},
+		{
+			"id": 8120613,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0613"
+		},
+		{
+			"id": 8120614,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0614"
+		},
+		{
+			"id": 8120615,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0615"
+		},
+		{
+			"id": 8120616,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0616"
+		},
+		{
+			"id": 8120617,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0617"
+		},
+		{
+			"id": 8120618,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0618"
+		},
+		{
+			"id": 8120619,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0619"
+		},
+		{
+			"id": 8120620,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0620"
+		},
+		{
+			"id": 8120621,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0621"
+		},
+		{
+			"id": 8120622,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0622"
+		},
+		{
+			"id": 8120623,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0623"
+		},
+		{
+			"id": 8120624,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0624"
+		},
+		{
+			"id": 8120625,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0625"
+		},
+		{
+			"id": 8120626,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0626"
+		},
+		{
+			"id": 8120627,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0627"
+		},
+		{
+			"id": 8120628,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0628"
+		},
+		{
+			"id": 8120629,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0629"
+		},
+		{
+			"id": 8120630,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0630"
+		},
+		{
+			"id": 8120631,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0631"
+		},
+		{
+			"id": 8120632,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0632"
+		},
+		{
+			"id": 8120633,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0633"
+		},
+		{
+			"id": 8120634,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0634"
+		},
+		{
+			"id": 8120635,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0635"
+		},
+		{
+			"id": 8120636,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0636"
+		},
+		{
+			"id": 8120637,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0637"
+		},
+		{
+			"id": 8120638,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0638"
+		},
+		{
+			"id": 8120639,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0639"
+		},
+		{
+			"id": 8120640,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0640"
+		},
+		{
+			"id": 8120641,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0641"
+		},
+		{
+			"id": 8120642,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0642"
+		},
+		{
+			"id": 8120643,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0643"
+		},
+		{
+			"id": 8120644,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0644"
+		},
+		{
+			"id": 8120645,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0645"
+		},
+		{
+			"id": 8120646,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0646"
+		},
+		{
+			"id": 8120647,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0647"
+		},
+		{
+			"id": 8120648,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0648"
+		},
+		{
+			"id": 8120649,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0649"
+		},
+		{
+			"id": 8120650,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0650"
+		},
+		{
+			"id": 8120651,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0651"
+		},
+		{
+			"id": 8120652,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0652"
+		},
+		{
+			"id": 8120653,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0653"
+		},
+		{
+			"id": 8120654,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0654"
+		},
+		{
+			"id": 8120655,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0655"
+		},
+		{
+			"id": 8120656,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0656"
+		},
+		{
+			"id": 8120657,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0657"
+		},
+		{
+			"id": 8120658,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0658"
+		},
+		{
+			"id": 8120659,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0659"
+		},
+		{
+			"id": 8120660,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0660"
+		},
+		{
+			"id": 8120661,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0661"
+		},
+		{
+			"id": 8120662,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0662"
+		},
+		{
+			"id": 8120663,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0663"
+		},
+		{
+			"id": 8120664,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0664"
+		},
+		{
+			"id": 8120665,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0665"
+		},
+		{
+			"id": 8120666,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0666"
+		},
+		{
+			"id": 8120667,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0667"
+		},
+		{
+			"id": 8120668,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0668"
+		},
+		{
+			"id": 8120669,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0669"
+		},
+		{
+			"id": 8120670,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0670"
+		},
+		{
+			"id": 8120671,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0671"
+		},
+		{
+			"id": 8120672,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0672"
+		},
+		{
+			"id": 8120673,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0673"
+		},
+		{
+			"id": 8120674,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0674"
+		},
+		{
+			"id": 8120675,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0675"
+		},
+		{
+			"id": 8120676,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0676"
+		},
+		{
+			"id": 8120677,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0677"
+		},
+		{
+			"id": 8120678,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0678"
+		},
+		{
+			"id": 8120679,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0679"
+		},
+		{
+			"id": 8120680,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0680"
+		},
+		{
+			"id": 8120681,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0681"
+		},
+		{
+			"id": 8120682,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0682"
+		},
+		{
+			"id": 8120683,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0683"
+		},
+		{
+			"id": 8120684,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0684"
+		},
+		{
+			"id": 8120685,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0685"
+		},
+		{
+			"id": 8120686,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0686"
+		},
+		{
+			"id": 8120687,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0687"
+		},
+		{
+			"id": 8120688,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0688"
+		},
+		{
+			"id": 8120689,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0689"
+		},
+		{
+			"id": 8120690,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0690"
+		},
+		{
+			"id": 8120691,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0691"
+		},
+		{
+			"id": 8120692,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0692"
+		},
+		{
+			"id": 8120693,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0693"
+		},
+		{
+			"id": 8120694,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0694"
+		},
+		{
+			"id": 8120695,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0695"
+		},
+		{
+			"id": 8120696,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0696"
+		},
+		{
+			"id": 8120697,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0697"
+		},
+		{
+			"id": 8120698,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0698"
+		},
+		{
+			"id": 8120699,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0699"
+		},
+		{
+			"id": 8120700,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0700"
+		},
+		{
+			"id": 8120701,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0701"
+		},
+		{
+			"id": 8120702,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0702"
+		},
+		{
+			"id": 8120703,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0703"
+		},
+		{
+			"id": 8120704,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0704"
+		},
+		{
+			"id": 8120705,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0705"
+		},
+		{
+			"id": 8120706,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0706"
+		},
+		{
+			"id": 8120707,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0707"
+		},
+		{
+			"id": 8120708,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0708"
+		},
+		{
+			"id": 8120709,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0709"
+		},
+		{
+			"id": 8120710,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0710"
+		},
+		{
+			"id": 8120711,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0711"
+		},
+		{
+			"id": 8120712,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0712"
+		},
+		{
+			"id": 8120713,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0713"
+		},
+		{
+			"id": 8120714,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0714"
+		},
+		{
+			"id": 8120715,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0715"
+		},
+		{
+			"id": 8120716,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0716"
+		},
+		{
+			"id": 8120717,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0717"
+		},
+		{
+			"id": 8120718,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0718"
+		},
+		{
+			"id": 8120719,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0719"
+		},
+		{
+			"id": 8120720,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0720"
+		},
+		{
+			"id": 8120721,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0721"
+		},
+		{
+			"id": 8120722,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0722"
+		},
+		{
+			"id": 8120723,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0723"
+		},
+		{
+			"id": 8120724,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0724"
+		},
+		{
+			"id": 8120725,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0725"
+		},
+		{
+			"id": 8120726,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0726"
+		},
+		{
+			"id": 8120727,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0727"
+		},
+		{
+			"id": 8120728,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0728"
+		},
+		{
+			"id": 8120729,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0729"
+		},
+		{
+			"id": 8120730,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0730"
+		},
+		{
+			"id": 8120731,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0731"
+		},
+		{
+			"id": 8120732,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0732"
+		},
+		{
+			"id": 8120733,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0733"
+		},
+		{
+			"id": 8120734,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0734"
+		},
+		{
+			"id": 8120735,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0735"
+		},
+		{
+			"id": 8120736,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0736"
+		},
+		{
+			"id": 8120737,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0737"
+		},
+		{
+			"id": 8120738,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0738"
+		},
+		{
+			"id": 8120739,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0739"
+		},
+		{
+			"id": 8120740,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0740"
+		},
+		{
+			"id": 8120741,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0741"
+		},
+		{
+			"id": 8120742,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0742"
+		},
+		{
+			"id": 8120743,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0743"
+		},
+		{
+			"id": 8120744,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0744"
+		},
+		{
+			"id": 8120745,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0745"
+		},
+		{
+			"id": 8120746,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0746"
+		},
+		{
+			"id": 8120747,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/VOI_Suomi_01_0747"
+		},
+		{
+			"id": 8121001,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0001"
+		},
+		{
+			"id": 8121005,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0005"
+		},
+		{
+			"id": 8121007,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0007"
+		},
+		{
+			"id": 8121009,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0009"
+		},
+		{
+			"id": 8121012,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0012"
+		},
+		{
+			"id": 8121014,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0014"
+		},
+		{
+			"id": 8121017,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0017"
+		},
+		{
+			"id": 8121019,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0019"
+		},
+		{
+			"id": 8121020,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0020"
+		},
+		{
+			"id": 8121021,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0021"
+		},
+		{
+			"id": 8121023,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0023"
+		},
+		{
+			"id": 8121026,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0026"
+		},
+		{
+			"id": 8121028,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0028"
+		},
+		{
+			"id": 8121031,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0031"
+		},
+		{
+			"id": 8121033,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0033"
+		},
+		{
+			"id": 8121035,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0035"
+		},
+		{
+			"id": 8121041,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0041"
+		},
+		{
+			"id": 8121043,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0043"
+		},
+		{
+			"id": 8121057,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0057"
+		},
+		{
+			"id": 8121058,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0058"
+		},
+		{
+			"id": 8121061,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0061"
+		},
+		{
+			"id": 8121063,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0063"
+		},
+		{
+			"id": 8121074,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0074"
+		},
+		{
+			"id": 8121076,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0076"
+		},
+		{
+			"id": 8121079,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0079"
+		},
+		{
+			"id": 8121081,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0081"
+		},
+		{
+			"id": 8121083,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0083"
+		},
+		{
+			"id": 8121084,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0084"
+		},
+		{
+			"id": 8121086,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0086"
+		},
+		{
+			"id": 8121091,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0091"
+		},
+		{
+			"id": 8121093,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0093"
+		},
+		{
+			"id": 8121095,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0095"
+		},
+		{
+			"id": 8121097,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0097"
+		},
+		{
+			"id": 8121099,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0099"
+		},
+		{
+			"id": 8121101,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0101"
+		},
+		{
+			"id": 8121105,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0105"
+		},
+		{
+			"id": 8121107,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0107"
+		},
+		{
+			"id": 8121111,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0111"
+		},
+		{
+			"id": 8121113,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0113"
+		},
+		{
+			"id": 8121116,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0116"
+		},
+		{
+			"id": 8121118,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0118"
+		},
+		{
+			"id": 8121120,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0120"
+		},
+		{
+			"id": 8121122,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0122"
+		},
+		{
+			"id": 8121124,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0124"
+		},
+		{
+			"id": 8121127,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0127"
+		},
+		{
+			"id": 8121130,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0130"
+		},
+		{
+			"id": 8121138,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0138"
+		},
+		{
+			"id": 8121144,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0144"
+		},
+		{
+			"id": 8121146,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0146"
+		},
+		{
+			"id": 8121148,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0148"
+		},
+		{
+			"id": 8121165,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0165"
+		},
+		{
+			"id": 8121175,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0175"
+		},
+		{
+			"id": 8121177,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0177"
+		},
+		{
+			"id": 8121180,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0180"
+		},
+		{
+			"id": 8121187,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0187"
+		},
+		{
+			"id": 8121189,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0189"
+		},
+		{
+			"id": 8121194,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0194"
+		},
+		{
+			"id": 8121199,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0199"
+		},
+		{
+			"id": 8121201,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0201"
+		},
+		{
+			"id": 8121209,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0209"
+		},
+		{
+			"id": 8121218,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0218"
+		},
+		{
+			"id": 8121224,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0224"
+		},
+		{
+			"id": 8121229,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0229"
+		},
+		{
+			"id": 8121234,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0234"
+		},
+		{
+			"id": 8121236,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0236"
+		},
+		{
+			"id": 8121239,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0239"
+		},
+		{
+			"id": 8121245,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0245"
+		},
+		{
+			"id": 8121247,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0247"
+		},
+		{
+			"id": 8121252,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0252"
+		},
+		{
+			"id": 8121254,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0254"
+		},
+		{
+			"id": 8121256,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0256"
+		},
+		{
+			"id": 8121259,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0259"
+		},
+		{
+			"id": 8121262,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0262"
+		},
+		{
+			"id": 8121266,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0266"
+		},
+		{
+			"id": 8121278,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0278"
+		},
+		{
+			"id": 8121282,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0282"
+		},
+		{
+			"id": 8121286,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0286"
+		},
+		{
+			"id": 8121288,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0288"
+		},
+		{
+			"id": 8121291,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0291"
+		},
+		{
+			"id": 8121294,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0294"
+		},
+		{
+			"id": 8121297,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0297"
+		},
+		{
+			"id": 8121299,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0299"
+		},
+		{
+			"id": 8121303,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0303"
+		},
+		{
+			"id": 8121310,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0310"
+		},
+		{
+			"id": 8121324,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0324"
+		},
+		{
+			"id": 8121328,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0328"
+		},
+		{
+			"id": 8121331,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0331"
+		},
+		{
+			"id": 8121334,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0334"
+		},
+		{
+			"id": 8121340,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0340"
+		},
+		{
+			"id": 8121342,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0342"
+		},
+		{
+			"id": 8121344,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0344"
+		},
+		{
+			"id": 8121346,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0346"
+		},
+		{
+			"id": 8121350,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0350"
+		},
+		{
+			"id": 8121353,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0353"
+		},
+		{
+			"id": 8121357,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0357"
+		},
+		{
+			"id": 8121364,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0364"
+		},
+		{
+			"id": 8121369,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0369"
+		},
+		{
+			"id": 8121372,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0372"
+		},
+		{
+			"id": 8121374,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0374"
+		},
+		{
+			"id": 8121378,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0378"
+		},
+		{
+			"id": 8121389,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0389"
+		},
+		{
+			"id": 8121393,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0393"
+		},
+		{
+			"id": 8121394,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0394"
+		},
+		{
+			"id": 8121396,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0396"
+		},
+		{
+			"id": 8121399,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0399"
+		},
+		{
+			"id": 8121401,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0401"
+		},
+		{
+			"id": 8121404,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0404"
+		},
+		{
+			"id": 8121405,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0405"
+		},
+		{
+			"id": 8121408,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0408"
+		},
+		{
+			"id": 8121410,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0410"
+		},
+		{
+			"id": 8121412,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0412"
+		},
+		{
+			"id": 8121414,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0414"
+		},
+		{
+			"id": 8121417,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0417"
+		},
+		{
+			"id": 8121420,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0420"
+		},
+		{
+			"id": 8121424,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0424"
+		},
+		{
+			"id": 8121426,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0426"
+		},
+		{
+			"id": 8121428,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0428"
+		},
+		{
+			"id": 8121432,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0432"
+		},
+		{
+			"id": 8121433,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0433"
+		},
+		{
+			"id": 8121436,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0436"
+		},
+		{
+			"id": 8121440,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0440"
+		},
+		{
+			"id": 8121442,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0442"
+		},
+		{
+			"id": 8121449,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0449"
+		},
+		{
+			"id": 8121453,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0453"
+		},
+		{
+			"id": 8121455,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0455"
+		},
+		{
+			"id": 8121456,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0456"
+		},
+		{
+			"id": 8121458,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0458"
+		},
+		{
+			"id": 8121460,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0460"
+		},
+		{
+			"id": 8121462,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0462"
+		},
+		{
+			"id": 8121464,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0464"
+		},
+		{
+			"id": 8121473,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0473"
+		},
+		{
+			"id": 8121479,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0479"
+		},
+		{
+			"id": 8121482,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0482"
+		},
+		{
+			"id": 8121530,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0530"
+		},
+		{
+			"id": 8121539,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0539"
+		},
+		{
+			"id": 8121541,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0541"
+		},
+		{
+			"id": 8121542,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0542"
+		},
+		{
+			"id": 8121544,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0544"
+		},
+		{
+			"id": 8121546,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0546"
+		},
+		{
+			"id": 8121550,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0550"
+		},
+		{
+			"id": 8121554,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0554"
+		},
+		{
+			"id": 8121560,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0560"
+		},
+		{
+			"id": 8121562,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0562"
+		},
+		{
+			"id": 8121564,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0564"
+		},
+		{
+			"id": 8121566,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0566"
+		},
+		{
+			"id": 8121568,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0568"
+		},
+		{
+			"id": 8121571,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0571"
+		},
+		{
+			"id": 8121573,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0573"
+		},
+		{
+			"id": 8121576,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0576"
+		},
+		{
+			"id": 8121578,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0578"
+		},
+		{
+			"id": 8121580,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0580"
+		},
+		{
+			"id": 8121581,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0581"
+		},
+		{
+			"id": 8121583,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0583"
+		},
+		{
+			"id": 8121585,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0585"
+		},
+		{
+			"id": 8121587,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0587"
+		},
+		{
+			"id": 8121589,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0589"
+		},
+		{
+			"id": 8121592,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0592"
+		},
+		{
+			"id": 8121594,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0594"
+		},
+		{
+			"id": 8121596,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0596"
+		},
+		{
+			"id": 8121598,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0598"
+		},
+		{
+			"id": 8121600,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0600"
+		},
+		{
+			"id": 8121602,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0602"
+		},
+		{
+			"id": 8121605,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0605"
+		},
+		{
+			"id": 8121607,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0607"
+		},
+		{
+			"id": 8121609,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0609"
+		},
+		{
+			"id": 8121611,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0611"
+		},
+		{
+			"id": 8121631,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0631"
+		},
+		{
+			"id": 8121633,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0633"
+		},
+		{
+			"id": 8121639,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0639"
+		},
+		{
+			"id": 8121649,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0649"
+		},
+		{
+			"id": 8121651,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0651"
+		},
+		{
+			"id": 8121653,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0653"
+		},
+		{
+			"id": 8121656,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0656"
+		},
+		{
+			"id": 8121675,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0675"
+		},
+		{
+			"id": 8121677,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0677"
+		},
+		{
+			"id": 8121678,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0678"
+		},
+		{
+			"id": 8121685,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0685"
+		},
+		{
+			"id": 8121687,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0687"
+		},
+		{
+			"id": 8121691,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0691"
+		},
+		{
+			"id": 8121693,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0693"
+		},
+		{
+			"id": 8121695,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0695"
+		},
+		{
+			"id": 8121703,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0703"
+		},
+		{
+			"id": 8121706,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0706"
+		},
+		{
+			"id": 8121708,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0708"
+		},
+		{
+			"id": 8121712,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0712"
+		},
+		{
+			"id": 8121719,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0719"
+		},
+		{
+			"id": 8121724,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0724"
+		},
+		{
+			"id": 8121726,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0726"
+		},
+		{
+			"id": 8121736,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0736"
+		},
+		{
+			"id": 8121740,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0740"
+		},
+		{
+			"id": 8121742,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0742"
+		},
+		{
+			"id": 8121746,
+			"audioType": 8,
+			"audioName": "VO_Special_Event_Suomi/female_VOI_Suomi_01_0746"
+		},
+		{
 			"id": 12100101,
 			"audioType": 10,
 			"audioName": "UI_System_CharAct/TL_Charolic_Camera_Aroud"
@@ -72569,6 +77664,76 @@
 			"id": 12103308,
 			"audioType": 10,
 			"audioName": "UI_System_CharAct/TL_Mosinnagant_Touch_Pocket"
+		},
+		{
+			"id": 12103501,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_BarrackEntrance_Normal"
+		},
+		{
+			"id": 12103502,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_Upgrade_JiangyuSSR"
+		},
+		{
+			"id": 12103503,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_Break_JiangyuSSR"
+		},
+		{
+			"id": 12103504,
+			"audioType": 10,
+			"audioName": "UI_System_Prepare_Up/TL_SPP_End_JiangyuSSR"
+		},
+		{
+			"id": 12103505,
+			"audioType": 10,
+			"audioName": "UI_GachaTL/TL_Gacha_JiangyuSSR"
+		},
+		{
+			"id": 12103506,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Behave_InspectExclusive"
+		},
+		{
+			"id": 12103507,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Behave_InspectNormal"
+		},
+		{
+			"id": 12103508,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Behave_Stretch"
+		},
+		{
+			"id": 12103509,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Camera_Aroud"
+		},
+		{
+			"id": 12103510,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Camera_Look"
+		},
+		{
+			"id": 12103511,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Touch_Gun"
+		},
+		{
+			"id": 12103512,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Touch_Head"
+		},
+		{
+			"id": 12103513,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Touch_Pocket"
+		},
+		{
+			"id": 12103514,
+			"audioType": 10,
+			"audioName": "UI_System_CharAct/TL_Jiangyu_Touch_Candy"
 		},
 		{
 			"id": 12103601,
@@ -73581,6 +78746,66 @@
 			"audioName": "UI_BedroomTL/c_DaiyanSSR0103_Bedroom_0401"
 		},
 		{
+			"id": 13103501,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Cloth_After"
+		},
+		{
+			"id": 13103502,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Cloth_Before"
+		},
+		{
+			"id": 13103503,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_01_Idle"
+		},
+		{
+			"id": 13103504,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_0101"
+		},
+		{
+			"id": 13103505,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_02_Idle"
+		},
+		{
+			"id": 13103506,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_0201"
+		},
+		{
+			"id": 13103507,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_03_Idle"
+		},
+		{
+			"id": 13103508,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_0301"
+		},
+		{
+			"id": 13103509,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_04_Idle"
+		},
+		{
+			"id": 13103510,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_0401"
+		},
+		{
+			"id": 13103511,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_05_Idle"
+		},
+		{
+			"id": 13103512,
+			"audioType": 10,
+			"audioName": "UI_BedroomTL/c_JiangyuDorm_Bedroom_0501"
+		},
+		{
 			"id": 55216101,
 			"audioType": 5,
 			"audioName": "EN_ELID_Bat/EN_ELID_Bat_Die"
@@ -74543,12 +79768,12 @@
 		{
 			"id": 71024109,
 			"audioType": 7,
-			"audioName": "VO_Bedroom_Cheeta/VO_Cheeta_Series_Die"
+			"audioName": "VO_Cheeta/VO_Cheeta_Series_Die"
 		},
 		{
 			"id": 71024110,
 			"audioType": 7,
-			"audioName": "VO_Bedroom_Cheeta/VO_Cheeta_Series_Lose"
+			"audioName": "VO_Cheeta/VO_Cheeta_Series_Lose"
 		},
 		{
 			"id": 71025100,
@@ -75169,6 +80394,436 @@
 			"id": 71033080,
 			"audioType": 7,
 			"audioName": "VO_Mosinnagant/VO_Cheeta_Series_Lose"
+		},
+		{
+			"id": 71035001,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_001"
+		},
+		{
+			"id": 71035002,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_002"
+		},
+		{
+			"id": 71035003,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_003"
+		},
+		{
+			"id": 71035004,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_004"
+		},
+		{
+			"id": 71035005,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_005"
+		},
+		{
+			"id": 71035006,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_006"
+		},
+		{
+			"id": 71035007,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_007"
+		},
+		{
+			"id": 71035008,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_008"
+		},
+		{
+			"id": 71035009,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_009"
+		},
+		{
+			"id": 71035010,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Daily_010"
+		},
+		{
+			"id": 71035011,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Up_001"
+		},
+		{
+			"id": 71035012,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Up_002"
+		},
+		{
+			"id": 71035013,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Up_003"
+		},
+		{
+			"id": 71035014,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Up_004"
+		},
+		{
+			"id": 71035015,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Up_005"
+		},
+		{
+			"id": 71035016,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Up_006"
+		},
+		{
+			"id": 71035017,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Up_007"
+		},
+		{
+			"id": 71035018,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Up_008"
+		},
+		{
+			"id": 71035019,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Title_001"
+		},
+		{
+			"id": 71035020,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Login_001"
+		},
+		{
+			"id": 71035021,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_001"
+		},
+		{
+			"id": 71035022,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_002"
+		},
+		{
+			"id": 71035023,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_003"
+		},
+		{
+			"id": 71035024,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_004"
+		},
+		{
+			"id": 71035025,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_005"
+		},
+		{
+			"id": 71035026,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_006"
+		},
+		{
+			"id": 71035027,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_007"
+		},
+		{
+			"id": 71035028,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_008"
+		},
+		{
+			"id": 71035029,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_009"
+		},
+		{
+			"id": 71035030,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_010"
+		},
+		{
+			"id": 71035031,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_011"
+		},
+		{
+			"id": 71035032,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_012"
+		},
+		{
+			"id": 71035033,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Friendliness_013"
+		},
+		{
+			"id": 71035034,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Birthday_R_001"
+		},
+		{
+			"id": 71035035,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Obtain_R_001"
+		},
+		{
+			"id": 71035036,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Acquire_R_001"
+		},
+		{
+			"id": 71035037,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Birthday_SR_001"
+		},
+		{
+			"id": 71035038,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Obtain_SR_001"
+		},
+		{
+			"id": 71035039,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Acquire_SR_001"
+		},
+		{
+			"id": 71035040,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Birthday_SSR_001"
+		},
+		{
+			"id": 71035041,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Obtain_SSR_001"
+		},
+		{
+			"id": 71035042,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Acquire_SSR_001"
+		},
+		{
+			"id": 71035043,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_001"
+		},
+		{
+			"id": 71035044,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_002"
+		},
+		{
+			"id": 71035045,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_003"
+		},
+		{
+			"id": 71035046,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_004"
+		},
+		{
+			"id": 71035047,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_005"
+		},
+		{
+			"id": 71035048,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_006"
+		},
+		{
+			"id": 71035049,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_007"
+		},
+		{
+			"id": 71035050,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_008"
+		},
+		{
+			"id": 71035051,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_009"
+		},
+		{
+			"id": 71035052,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Positive_010"
+		},
+		{
+			"id": 71035053,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Negative_001"
+		},
+		{
+			"id": 71035054,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Tone_Negative_002"
+		},
+		{
+			"id": 71035055,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Skill_001"
+		},
+		{
+			"id": 71035056,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Skill_002"
+		},
+		{
+			"id": 71035057,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Hit_001"
+		},
+		{
+			"id": 71035058,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Kill_001"
+		},
+		{
+			"id": 71035059,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Win_001"
+		},
+		{
+			"id": 71035060,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Lose_001"
+		},
+		{
+			"id": 71035061,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Ultimate_SSR_001"
+		},
+		{
+			"id": 71035062,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Ultimate_SR_001"
+		},
+		{
+			"id": 71035063,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Passive_SSR_001"
+		},
+		{
+			"id": 71035064,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Anniversary_001"
+		},
+		{
+			"id": 71035065,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_NewYear_001"
+		},
+		{
+			"id": 71035066,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_SpringFes_001"
+		},
+		{
+			"id": 71035067,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Valentine_001"
+		},
+		{
+			"id": 71035068,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_WhiteVale_001"
+		},
+		{
+			"id": 71035069,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Children_001"
+		},
+		{
+			"id": 71035070,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Duanwu_001"
+		},
+		{
+			"id": 71035071,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Obon_001"
+		},
+		{
+			"id": 71035072,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_MidAutumn_001"
+		},
+		{
+			"id": 71035073,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_ThanksGiving_001"
+		},
+		{
+			"id": 71035074,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Single_Christmas_001"
+		},
+		{
+			"id": 71035101,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Hitted"
+		},
+		{
+			"id": 71035102,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_HittedLast"
+		},
+		{
+			"id": 71035103,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Chosen"
+		},
+		{
+			"id": 71035104,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Chosen_Auto"
+		},
+		{
+			"id": 71035105,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Set_Click"
+		},
+		{
+			"id": 71035106,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Set_Fall"
+		},
+		{
+			"id": 71035107,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Cancel"
+		},
+		{
+			"id": 71035108,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Battle_Start"
+		},
+		{
+			"id": 71035109,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Move_Start"
+		},
+		{
+			"id": 71035110,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Shield_Broken"
+		},
+		{
+			"id": 71035111,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Die"
+		},
+		{
+			"id": 71035112,
+			"audioType": 7,
+			"audioName": "VO_Jiangyu/VO_Jiangyu_Series_Lose"
 		},
 		{
 			"id": 71036001,
@@ -77231,6 +82886,76 @@
 			"audioName": "VO_ServR_Mosinnagant/VO_Mosinnagant_Touch_Head"
 		},
 		{
+			"id": 71103501,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_BarrackEntrance_Normal"
+		},
+		{
+			"id": 71103502,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Upgrade"
+		},
+		{
+			"id": 71103503,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Break"
+		},
+		{
+			"id": 71103504,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_End"
+		},
+		{
+			"id": 71103505,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Gacha"
+		},
+		{
+			"id": 71103506,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Behave_InspectExclusive"
+		},
+		{
+			"id": 71103507,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Behave_InspectNormal"
+		},
+		{
+			"id": 71103508,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Behave_Stretch"
+		},
+		{
+			"id": 71103509,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Camera_Aroud"
+		},
+		{
+			"id": 71103510,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Camera_Look"
+		},
+		{
+			"id": 71103511,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Touch_Gun"
+		},
+		{
+			"id": 71103512,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Touch_Head"
+		},
+		{
+			"id": 71103513,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Touch_Pocket"
+		},
+		{
+			"id": 71103514,
+			"audioType": 7,
+			"audioName": "VO_ServR_Jiangyu/VO_Jiangyu_Touch_Candy"
+		},
+		{
 			"id": 71103601,
 			"audioType": 7,
 			"audioName": "VO_ServR_Kesnia/VO_Kesnia_Touch_Pocket"
@@ -78279,6 +84004,66 @@
 			"id": 72103214,
 			"audioType": 7,
 			"audioName": "VO_Bedroom_Daiyan/VO_c_DaiyanSSR0103_Bedroom_0601"
+		},
+		{
+			"id": 72103501,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Cloth_After"
+		},
+		{
+			"id": 72103502,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Cloth_Before"
+		},
+		{
+			"id": 72103503,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_01_Idle"
+		},
+		{
+			"id": 72103504,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_0101"
+		},
+		{
+			"id": 72103505,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_02_Idle"
+		},
+		{
+			"id": 72103506,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_0201"
+		},
+		{
+			"id": 72103507,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_03_Idle"
+		},
+		{
+			"id": 72103508,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_0301"
+		},
+		{
+			"id": 72103509,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_04_Idle"
+		},
+		{
+			"id": 72103510,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_0401"
+		},
+		{
+			"id": 72103511,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_05_Idle"
+		},
+		{
+			"id": 72103512,
+			"audioType": 7,
+			"audioName": "VO_Bedroom_Jiangyu/VO_c_JiangyuDorm_Bedroom_0501"
 		},
 		{
 			"id": 510170501,

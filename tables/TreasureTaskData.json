@@ -799,6 +799,96 @@
 			"conditionClass": 1011,
 			"conditionNum": 240,
 			"link": "4002"
+		},
+		{
+			"id": 1081,
+			"type": 3,
+			"name": "人形等级总和达成240级",
+			"des": "人形等级总和达成240级",
+			"rewardExp": 200,
+			"conditionClass": 1011,
+			"conditionNum": 240,
+			"link": "4002"
+		},
+		{
+			"id": 1082,
+			"type": 3,
+			"name": "在冰焰逐跃中挑战1次",
+			"des": "在冰焰逐跃中挑战1次",
+			"rewardExp": 200,
+			"conditionClass": 1200,
+			"conditionNum": 1,
+			"link": "16101"
+		},
+		{
+			"id": 1083,
+			"type": 3,
+			"name": "在冰焰逐跃中挑战2次",
+			"des": "在冰焰逐跃中挑战2次",
+			"rewardExp": 200,
+			"conditionClass": 1200,
+			"conditionNum": 2,
+			"link": "16101"
+		},
+		{
+			"id": 1084,
+			"type": 3,
+			"name": "在冰焰逐跃中累计收集1个蛋糕",
+			"des": "在冰焰逐跃中累计收集1个蛋糕",
+			"rewardExp": 200,
+			"conditionClass": 1203,
+			"conditionNum": 1,
+			"link": "16101"
+		},
+		{
+			"id": 1085,
+			"type": 3,
+			"name": "在冰焰逐跃中累计收集2个蛋糕",
+			"des": "在冰焰逐跃中累计收集2个蛋糕",
+			"rewardExp": 200,
+			"conditionClass": 1203,
+			"conditionNum": 2,
+			"link": "16101"
+		},
+		{
+			"id": 1086,
+			"type": 3,
+			"name": "在冰焰逐跃中不超过2分钟通过预演关卡",
+			"des": "在冰焰逐跃中不超过2分钟通过预演关卡",
+			"rewardExp": 200,
+			"conditionClass": 1204,
+			"conditionNum": 1,
+			"link": "16101"
+		},
+		{
+			"id": 1087,
+			"type": 3,
+			"name": "在冰焰逐跃中不超过3分钟通过预演关卡",
+			"des": "在冰焰逐跃中不超过3分钟通过预演关卡",
+			"rewardExp": 200,
+			"conditionClass": 1204,
+			"conditionNum": 1,
+			"link": "16101"
+		},
+		{
+			"id": 1088,
+			"type": 3,
+			"name": "在冰焰逐跃中不超过5分钟通过普通关卡",
+			"des": "在冰焰逐跃中不超过5分钟通过普通关卡",
+			"rewardExp": 200,
+			"conditionClass": 1204,
+			"conditionNum": 1,
+			"link": "16101"
+		},
+		{
+			"id": 1089,
+			"type": 3,
+			"name": "在冰焰逐跃中不超过10分钟通过困难关卡",
+			"des": "在冰焰逐跃中不超过10分钟通过困难关卡",
+			"rewardExp": 200,
+			"conditionClass": 1204,
+			"conditionNum": 1,
+			"link": "16101"
 		}
 	]
 }

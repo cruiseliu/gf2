@@ -5,7 +5,9 @@
 			"stageId": 72101,
 			"stageLevle": 1,
 			"injuryCoefficient": 1,
-			"bMainId": 72102006,
+			"bMainId": [
+				72102006
+			],
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []
@@ -15,7 +17,9 @@
 			"stageId": 72201,
 			"stageLevle": 1,
 			"injuryCoefficient": 1,
-			"bMainId": 72103006,
+			"bMainId": [
+				72103006
+			],
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []
@@ -25,7 +29,9 @@
 			"stageId": 72301,
 			"stageLevle": 1,
 			"injuryCoefficient": 1,
-			"bMainId": 72104006,
+			"bMainId": [
+				72104006
+			],
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []
@@ -35,7 +41,9 @@
 			"stageId": 72401,
 			"stageLevle": 1,
 			"injuryCoefficient": 1,
-			"bMainId": 72105006,
+			"bMainId": [
+				72105006
+			],
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []
@@ -45,7 +53,9 @@
 			"stageId": 72501,
 			"stageLevle": 1,
 			"injuryCoefficient": 1,
-			"bMainId": 72201006,
+			"bMainId": [
+				72201006
+			],
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []
@@ -55,7 +65,9 @@
 			"stageId": 72601,
 			"stageLevle": 1,
 			"injuryCoefficient": 1,
-			"bMainId": 72301006,
+			"bMainId": [
+				72301006
+			],
 			"recordBuffId": [
 				6901905,
 				6901302
@@ -74,7 +86,9 @@
 			"stageId": 72602,
 			"stageLevle": 2,
 			"injuryCoefficient": 1,
-			"bMainId": 72402007,
+			"bMainId": [
+				72402007
+			],
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []
@@ -84,7 +98,9 @@
 			"stageId": 72701,
 			"stageLevle": 1,
 			"injuryCoefficient": 1,
-			"bMainId": 72401006,
+			"bMainId": [
+				72401006
+			],
 			"recordBuffId": [
 				6901905,
 				6901302
@@ -103,7 +119,9 @@
 			"stageId": 72702,
 			"stageLevle": 2,
 			"injuryCoefficient": 1,
-			"bMainId": 72502007,
+			"bMainId": [
+				72502007
+			],
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []
@@ -113,7 +131,9 @@
 			"stageId": 72802,
 			"stageLevle": 1,
 			"injuryCoefficient": 1,
-			"bMainId": 72602007,
+			"bMainId": [
+				72602007
+			],
 			"recordBuffId": [
 				6902900,
 				6902501
@@ -132,7 +152,132 @@
 			"stageId": 72803,
 			"stageLevle": 2,
 			"injuryCoefficient": 1,
-			"bMainId": 72503002,
+			"bMainId": [
+				72503002
+			],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 191,
+			"stageId": 72901,
+			"stageLevle": 1,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72901006
+			],
+			"recordBuffId": [
+				6901905,
+				6901302
+			],
+			"recordBuffNumber": [
+				8,
+				12
+			],
+			"buffCamp": [
+				1,
+				2
+			]
+		},
+		{
+			"id": 192,
+			"stageId": 72902,
+			"stageLevle": 2,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72902007
+			],
+			"recordBuffId": [
+				6901905,
+				6901302,
+				6902900,
+				6902501
+			],
+			"recordBuffNumber": [
+				8,
+				12,
+				2,
+				8
+			],
+			"buffCamp": [
+				1,
+				2,
+				1,
+				2
+			]
+		},
+		{
+			"id": 193,
+			"stageId": 72903,
+			"stageLevle": 3,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72903002
+			],
+			"recordBuffId": [],
+			"recordBuffNumber": [],
+			"buffCamp": []
+		},
+		{
+			"id": 201,
+			"stageId": 72911,
+			"stageLevle": 1,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72911001
+			],
+			"recordBuffId": [
+				69310151,
+				69310156
+			],
+			"recordBuffNumber": [
+				3,
+				10
+			],
+			"buffCamp": [
+				1,
+				2
+			]
+		},
+		{
+			"id": 202,
+			"stageId": 72912,
+			"stageLevle": 2,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72912002,
+				72912003
+			],
+			"recordBuffId": [
+				69310151,
+				69310156,
+				69360251,
+				69360256
+			],
+			"recordBuffNumber": [
+				3,
+				10,
+				2,
+				10
+			],
+			"buffCamp": [
+				1,
+				2,
+				1,
+				2
+			]
+		},
+		{
+			"id": 203,
+			"stageId": 72913,
+			"stageLevle": 3,
+			"injuryCoefficient": 1,
+			"bMainId": [
+				72913002,
+				72913003,
+				72913004
+			],
 			"recordBuffId": [],
 			"recordBuffNumber": [],
 			"buffCamp": []

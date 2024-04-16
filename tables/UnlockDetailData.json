@@ -199,100 +199,748 @@
 			"conditionNum": 1
 		},
 		{
-			"id": 101,
-			"name": "",
-			"des": "通关连战关卡STAGE1",
-			"conditionNum": 1
-		},
-		{
-			"id": 102,
-			"name": "",
-			"des": "通关连战关卡STAGE2",
-			"conditionNum": 1
-		},
-		{
-			"id": 103,
-			"name": "",
-			"des": "通关连战关卡STAGE3",
-			"conditionNum": 1
-		},
-		{
-			"id": 104,
-			"name": "",
-			"des": "通关连战关卡STAGE4",
-			"conditionNum": 1
-		},
-		{
-			"id": 105,
-			"name": "",
-			"des": "通关连战关卡STAGE5",
-			"conditionNum": 1
-		},
-		{
-			"id": 106,
-			"name": "",
-			"des": "通关连战关卡STAGE6",
-			"conditionNum": 1
-		},
-		{
-			"id": 107,
-			"name": "",
-			"des": "通关连战关卡STAGE7",
-			"conditionNum": 1
-		},
-		{
-			"id": 131,
-			"name": "",
-			"des": "连战关卡SGATE3总积分达到4000",
-			"conditionNum": 4000
-		},
-		{
-			"id": 141,
-			"name": "",
-			"des": "连战关卡SGATE4总积分达到4000",
-			"conditionNum": 4000
-		},
-		{
-			"id": 151,
-			"name": "",
-			"des": "连战关卡SGATE5总积分达到4000",
-			"conditionNum": 4000
-		},
-		{
-			"id": 152,
-			"name": "",
-			"des": "连战关卡SGATE5总积分达到8000",
-			"conditionNum": 8000
-		},
-		{
-			"id": 161,
-			"name": "",
-			"des": "连战关卡SGATE6总积分达到4000",
-			"conditionNum": 4000
-		},
-		{
-			"id": 162,
-			"name": "",
-			"des": "连战关卡SGATE6总积分达到8000",
-			"conditionNum": 8000
-		},
-		{
-			"id": 171,
-			"name": "",
-			"des": "连战关卡SGATE7总积分达到5000",
-			"conditionNum": 5000
-		},
-		{
-			"id": 172,
-			"name": "",
-			"des": "连战关卡SGATE7总积分达到10000",
-			"conditionNum": 10000
-		},
-		{
 			"id": 9999,
 			"name": "指挥官等级达到30级",
 			"des": "测试用解锁条件",
 			"conditionNum": 28
+		},
+		{
+			"id": 29306,
+			"name": "主题活动模版-主界面入口解锁条件",
+			"des": "指挥官达到<color=#f26c1c>21级</color>",
+			"conditionNum": 21
+		},
+		{
+			"id": 34001,
+			"name": "连战塔解锁条件",
+			"des": "指挥官等级达到55级",
+			"conditionNum": 55
+		},
+		{
+			"id": 60000,
+			"name": "涂装·喧闹恶灵",
+			"des": "拥有<COLOR=#F26C1C>喧闹恶灵</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60001,
+			"name": "涂装·绝密手稿",
+			"des": "拥有<COLOR=#F26C1C>绝密手稿</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60002,
+			"name": "涂装·阿尔克纳",
+			"des": "拥有<COLOR=#F26C1C>阿尔克纳</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60003,
+			"name": "涂装·盖尔诺",
+			"des": "拥有<COLOR=#F26C1C>盖尔诺</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60004,
+			"name": "涂装·王冠鹿角兔",
+			"des": "拥有<COLOR=#F26C1C>王冠鹿角兔</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60005,
+			"name": "涂装·妙尔尼尔",
+			"des": "拥有<COLOR=#F26C1C>妙尔尼尔</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60006,
+			"name": "涂装·远行游鸽",
+			"des": "拥有<COLOR=#F26C1C>远行游鸽</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60007,
+			"name": "涂装·猎心者",
+			"des": "拥有<COLOR=#F26C1C>猎心者</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60008,
+			"name": "涂装·光学幻境",
+			"des": "拥有<COLOR=#F26C1C>光学幻境</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60010,
+			"name": "涂装·游星",
+			"des": "拥有<COLOR=#F26C1C>游星</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60011,
+			"name": "涂装·金石奏",
+			"des": "拥有<COLOR=#F26C1C>金石奏</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60012,
+			"name": "涂装·梅扎露娜",
+			"des": "拥有<COLOR=#F26C1C>梅扎露娜</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60014,
+			"name": "涂装·重弦",
+			"des": "拥有<COLOR=#F26C1C>重弦</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60015,
+			"name": "涂装·女仆准则",
+			"des": "拥有<COLOR=#F26C1C>女仆准则</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60016,
+			"name": "涂装·斯摩希克",
+			"des": "拥有<COLOR=#F26C1C>斯摩希克</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60017,
+			"name": "涂装·跃虎",
+			"des": "拥有<COLOR=#F26C1C>跃虎</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60018,
+			"name": "涂装·幼狮",
+			"des": "拥有<COLOR=#F26C1C>幼狮</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60019,
+			"name": "涂装·野兔",
+			"des": "拥有<COLOR=#F26C1C>野兔</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60020,
+			"name": "涂装·复仇女神",
+			"des": "拥有<COLOR=#F26C1C>复仇女神</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60021,
+			"name": "涂装·金牛座曲线",
+			"des": "拥有<COLOR=#F26C1C>金牛座曲线</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60022,
+			"name": "涂装·莫洛12",
+			"des": "拥有<COLOR=#F26C1C>莫洛12</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60023,
+			"name": "涂装·格洛利娅",
+			"des": "拥有<COLOR=#F26C1C>格洛利娅</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60024,
+			"name": "涂装·佩切涅",
+			"des": "拥有<COLOR=#F26C1C>佩切涅</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60025,
+			"name": "涂装·罗宾逊先进步枪",
+			"des": "拥有<COLOR=#F26C1C>罗宾逊先进步枪</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60026,
+			"name": "涂装·卡拉什-阿尔法",
+			"des": "拥有<COLOR=#F26C1C>卡拉什-阿尔法</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60027,
+			"name": "涂装·黑科赫7",
+			"des": "拥有<COLOR=#F26C1C>黑科赫7</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60028,
+			"name": "涂装·一九一式",
+			"des": "拥有<COLOR=#F26C1C>一九一式</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60029,
+			"name": "涂装·特殊用途自动型霰弹枪",
+			"des": "拥有<COLOR=#F26C1C>特殊用途自动型霰弹枪</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60030,
+			"name": "涂装·纳甘左轮",
+			"des": "拥有<COLOR=#F26C1C>纳甘左轮</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60031,
+			"name": "涂装·九五式",
+			"des": "拥有<COLOR=#F26C1C>九五式</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60032,
+			"name": "涂装·格威尔36",
+			"des": "拥有<COLOR=#F26C1C>格威尔36</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60033,
+			"name": "涂装·莫辛-纳甘",
+			"des": "拥有<COLOR=#F26C1C>莫辛-纳甘</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60034,
+			"name": "涂装·九七式",
+			"des": "拥有<COLOR=#F26C1C>九七式</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60035,
+			"name": "涂装·斯捷奇金",
+			"des": "拥有<COLOR=#F26C1C>斯捷奇金</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60036,
+			"name": "涂装·加利尔轻机枪",
+			"des": "拥有<COLOR=#F26C1C>加利尔轻机枪</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60037,
+			"name": "涂装·通用冲锋枪9",
+			"des": "拥有<COLOR=#F26C1C>通用冲锋枪9</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60038,
+			"name": "涂装·旧式金牛座曲线",
+			"des": "拥有<COLOR=#F26C1C>旧式金牛座曲线</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60039,
+			"name": "涂装·旧式复仇女神",
+			"des": "拥有<COLOR=#F26C1C>旧式复仇女神</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60040,
+			"name": "涂装·旧式格洛利娅",
+			"des": "拥有<COLOR=#F26C1C>旧式格洛利娅</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60041,
+			"name": "涂装·旧式莫洛12",
+			"des": "拥有<COLOR=#F26C1C>旧式莫洛12</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60042,
+			"name": "涂装·旧式野兔",
+			"des": "拥有<COLOR=#F26C1C>旧式野兔</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60043,
+			"name": "涂装·旧式佩切涅",
+			"des": "拥有<COLOR=#F26C1C>旧式佩切涅</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60044,
+			"name": "涂装·旧式罗宾逊先进步枪",
+			"des": "拥有<COLOR=#F26C1C>旧式罗宾逊先进步枪</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60045,
+			"name": "涂装·旧式卡拉什-阿尔法",
+			"des": "拥有<COLOR=#F26C1C>旧式卡拉什-阿尔法</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60046,
+			"name": "涂装·旧式黑科赫7",
+			"des": "拥有<COLOR=#F26C1C>旧式黑科赫7</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60047,
+			"name": "涂装·旧式一九一式",
+			"des": "拥有<COLOR=#F26C1C>旧式一九一式</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60048,
+			"name": "涂装·旧式特殊用途自动型霰弹枪",
+			"des": "拥有<COLOR=#F26C1C>旧式特殊用途自动型霰弹枪</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60049,
+			"name": "涂装·旧式纳甘左轮",
+			"des": "拥有<COLOR=#F26C1C>旧式纳甘左轮</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60050,
+			"name": "涂装·旧式九五式",
+			"des": "拥有<COLOR=#F26C1C>旧式九五式</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60051,
+			"name": "涂装·旧式格威尔36",
+			"des": "拥有<COLOR=#F26C1C>旧式格威尔36</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60052,
+			"name": "涂装·旧式莫辛-纳甘",
+			"des": "拥有<COLOR=#F26C1C>旧式莫辛-纳甘</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60053,
+			"name": "涂装·旧式九七式",
+			"des": "拥有<COLOR=#F26C1C>旧式九七式</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60054,
+			"name": "涂装·旧式斯捷奇金",
+			"des": "拥有<COLOR=#F26C1C>旧式斯捷奇金</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60055,
+			"name": "涂装·旧式加利尔轻机枪",
+			"des": "拥有<COLOR=#F26C1C>旧式加利尔轻机枪</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 60056,
+			"name": "涂装·旧式通用冲锋枪9",
+			"des": "拥有<COLOR=#F26C1C>旧式通用冲锋枪9</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61000,
+			"name": "涂装·高倍瞄具1型",
+			"des": "获得<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61001,
+			"name": "涂装·高倍瞄具2型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61002,
+			"name": "涂装·全息瞄具1型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61003,
+			"name": "涂装·全息瞄具2型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61004,
+			"name": "涂装·红点瞄具",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61005,
+			"name": "涂装·内瞄式红点",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61006,
+			"name": "涂装·覆盖式红点",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61007,
+			"name": "涂装·倍率红点瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61008,
+			"name": "涂装·光学瞄具",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61009,
+			"name": "涂装·精准瞄具",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61010,
+			"name": "涂装·高倍速瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61011,
+			"name": "涂装·近距速瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61012,
+			"name": "涂装·小型全息瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61013,
+			"name": "涂装·小型紧凑瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61014,
+			"name": "涂装·小型红点瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61015,
+			"name": "涂装·折叠红点瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61016,
+			"name": "涂装·微型红点瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61017,
+			"name": "涂装·圆形红点瞄",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61018,
+			"name": "涂装·基础消音器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61019,
+			"name": "涂装·基础消焰器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61020,
+			"name": "涂装·基础制退器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61021,
+			"name": "涂装·快拆消音",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61022,
+			"name": "涂装·消焰攻击头1型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61023,
+			"name": "涂装·消焰攻击头2型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61024,
+			"name": "涂装·小型消音器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61025,
+			"name": "涂装·重型消音器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61026,
+			"name": "涂装·重型消焰器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61027,
+			"name": "涂装·重型制退器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61028,
+			"name": "涂装·快拆制退器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61029,
+			"name": "涂装·快拆消焰器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61030,
+			"name": "涂装·轻量化制退",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61031,
+			"name": "涂装·鸭嘴收束器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61032,
+			"name": "涂装·专用制退器1型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61033,
+			"name": "涂装·专用制退器2型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61034,
+			"name": "涂装·专用消焰器1型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61035,
+			"name": "涂装·专用消焰器2型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61036,
+			"name": "涂装·专用消音器1型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61037,
+			"name": "涂装·专用消音器2型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61038,
+			"name": "涂装·延长枪口",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61039,
+			"name": "涂装·短程消音器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61040,
+			"name": "涂装·导轨消音器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61041,
+			"name": "涂装·枪口补偿器",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61042,
+			"name": "涂装·镭射插件",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61043,
+			"name": "涂装·射灯插件",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61044,
+			"name": "涂装·红点插件",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61045,
+			"name": "涂装·小型战术灯插件",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61046,
+			"name": "涂装·快拆战术手电",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61047,
+			"name": "涂装·激光测距仪插件",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61048,
+			"name": "涂装·热装刀刃",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61049,
+			"name": "涂装·高密度冷萃平刃",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61050,
+			"name": "涂装·电子刀刃",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61051,
+			"name": "涂装·风速旋转刃",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61052,
+			"name": "涂装·锯齿形刀刃",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61053,
+			"name": "涂装·反曲延长刃",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61054,
+			"name": "涂装·垂直握把1型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61055,
+			"name": "涂装·垂直握把2型",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61056,
+			"name": "涂装·轻量化握把",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61057,
+			"name": "涂装·三角握把",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61058,
+			"name": "涂装·战术握把",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61059,
+			"name": "涂装·战术阻手",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61060,
+			"name": "涂装·重型脚架",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61061,
+			"name": "涂装·调节圆盘脚架",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61062,
+			"name": "涂装·折叠脚架",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61063,
+			"name": "涂装·多用途脚架",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61064,
+			"name": "涂装·伸缩脚架",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
+		},
+		{
+			"id": 61065,
+			"name": "涂装·快速战术脚架",
+			"des": "获取<COLOR=#F26C1C>1个精密级对应外观配件</COLOR> 即可解锁涂装",
+			"conditionNum": 1
 		}
 	]
 }

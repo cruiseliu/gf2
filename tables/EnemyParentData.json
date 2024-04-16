@@ -8,8 +8,11 @@
 				693103
 			],
 			"name": "远北港哨",
+			"joke": "时至今日，它依然在履行自己的职责。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于极北之地废弃的军港哨站。远北港哨装载了多种重型武器，能对侵扰港哨的敌人造成强大的火力打击。",
 			"textIndex": [
-				3
+				13,
+				7
 			],
 			"rank": 3,
 			"enemyType": 1,
@@ -17,9 +20,9 @@
 			"parentOccupySize": 1,
 			"weakTag": [
 				2,
-				4
+				5
 			],
-			"propertyGroup": 102901,
+			"propertyGroup": 205601,
 			"suppressGroup": [
 				6,
 				4,
@@ -29,8 +32,7 @@
 				0
 			],
 			"camp": 1,
-			"enemyCamp": 1099,
-			"parentBreakdownType": 1,
+			"enemyCamp": 1003,
 			"beSuppressedConfig": [
 				80000001,
 				2,
@@ -38,16 +40,22 @@
 				0,
 				2
 			],
+			"characterPic": "MogilaP3",
 			"parentModelCode": 6931,
 			"idleType": 1,
-			"skillNormalAttack": 6911902,
+			"skillNormalAttack": 6931011,
 			"skillActive": [
-				6911903,
-				6911905,
-				6931011,
 				6931012,
 				6931013,
-				6931014
+				6931014,
+				69310152
+			],
+			"skillTalent": [
+				6931015,
+				6931016,
+				6931017,
+				6931018,
+				910000012
 			],
 			"aiOrderClass": 200,
 			"aiList": [
@@ -56,8 +64,8 @@
 			"btPath": "BT/BOSSBT/6931/BOSSBT_Haijian_P1_6931.bt",
 			"guardRadius": 700,
 			"guardRadiusShow": 1,
-			"parentCannotChosen": false,
-			"parentChildrenAlldie": false
+			"weakWeaponTag": 36,
+			"feature": 1
 		},
 		{
 			"id": 6932,
@@ -67,8 +75,11 @@
 				693203
 			],
 			"name": "远北港哨",
+			"joke": "时至今日，它依然在履行自己的职责。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于极北之地废弃的军港哨站。远北港哨装载了多种重型武器，能对侵扰港哨的敌人造成强大的火力打击。",
 			"textIndex": [
-				3
+				13,
+				7
 			],
 			"rank": 3,
 			"enemyType": 1,
@@ -76,9 +87,9 @@
 			"parentOccupySize": 1,
 			"weakTag": [
 				2,
-				4
+				5
 			],
-			"propertyGroup": 102901,
+			"propertyGroup": 205602,
 			"suppressGroup": [
 				6,
 				4,
@@ -88,8 +99,7 @@
 				0
 			],
 			"camp": 1,
-			"enemyCamp": 1099,
-			"parentBreakdownType": 1,
+			"enemyCamp": 1003,
 			"beSuppressedConfig": [
 				80000001,
 				2,
@@ -97,21 +107,27 @@
 				0,
 				2
 			],
+			"characterPic": "MogilaP3",
 			"parentModelCode": 6931,
 			"idleType": 1,
-			"skillNormalAttack": 6911902,
+			"skillNormalAttack": 6936011,
 			"skillActive": [
-				6911903,
-				6911905,
-				6936011,
-				6936012
+				6936012,
+				69360133
+			],
+			"skillTalent": [
+				6936013,
+				6936014,
+				6931017,
+				6936016,
+				910000012
 			],
 			"aiOrderClass": 200,
 			"btPath": "BT/BOSSBT/6936/BOSSBT_Haijian_P2_6931.bt",
 			"guardRadius": 700,
 			"guardRadiusShow": 1,
-			"parentCannotChosen": false,
-			"parentChildrenAlldie": false,
+			"weakWeaponTag": 36,
+			"feature": 1,
 			"aiList": []
 		},
 		{
@@ -122,8 +138,11 @@
 				693303
 			],
 			"name": "远北港哨",
+			"joke": "时至今日，它依然在履行自己的职责。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于极北之地废弃的军港哨站。远北港哨装载了多种重型武器，能对侵扰港哨的敌人造成强大的火力打击。",
 			"textIndex": [
-				3
+				13,
+				7
 			],
 			"rank": 3,
 			"enemyType": 1,
@@ -131,9 +150,9 @@
 			"parentOccupySize": 1,
 			"weakTag": [
 				2,
-				4
+				5
 			],
-			"propertyGroup": 102901,
+			"propertyGroup": 205603,
 			"suppressGroup": [
 				6,
 				4,
@@ -143,8 +162,7 @@
 				0
 			],
 			"camp": 1,
-			"enemyCamp": 1099,
-			"parentBreakdownType": 1,
+			"enemyCamp": 1003,
 			"beSuppressedConfig": [
 				80000001,
 				2,
@@ -152,21 +170,25 @@
 				0,
 				2
 			],
+			"characterPic": "MogilaP3",
 			"parentModelCode": 6931,
 			"idleType": 1,
-			"skillNormalAttack": 6911902,
+			"skillNormalAttack": 6941011,
 			"skillActive": [
-				6911903,
-				6911905,
-				6941011,
 				6941012
+			],
+			"skillTalent": [
+				6941013,
+				6931017,
+				6941015,
+				910000012
 			],
 			"aiOrderClass": 200,
 			"btPath": "BT/BOSSBT/6941/BOSSBT_Haijian_P3_6931.bt",
 			"guardRadius": 700,
 			"guardRadiusShow": 1,
-			"parentCannotChosen": false,
-			"parentChildrenAlldie": false,
+			"weakWeaponTag": 36,
+			"feature": 1,
 			"aiList": []
 		},
 		{
@@ -178,18 +200,21 @@
 				693604
 			],
 			"name": "极光女王号",
+			"joke": "虽然领地已经沉没，但它仍在释放着怒火。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于冰海中沉没的战舰——极光女王号。极光女王号装甲坚固、武装全面，强劲的火力足以覆盖整个战场，对敌人带来毁灭性的打击。",
 			"textIndex": [
-				3
+				13,
+				7
 			],
 			"rank": 3,
 			"enemyType": 1,
 			"nameOnBar": "极光女王号",
 			"parentOccupySize": 1,
 			"weakTag": [
-				2,
+				3,
 				4
 			],
-			"propertyGroup": 103001,
+			"propertyGroup": 205701,
 			"suppressGroup": [
 				6,
 				4,
@@ -199,34 +224,41 @@
 				0
 			],
 			"camp": 1,
-			"enemyCamp": 1099,
+			"enemyCamp": 1003,
 			"beSuppressedConfig": [
 				80000001,
 				2,
 				1000,
 				0,
-				8
+				2
 			],
+			"characterPic": "MogilaP3",
 			"parentModelCode": 6936,
 			"idleType": 1,
-			"skillNormalAttack": 6911902,
+			"skillNormalAttack": 6936023,
 			"skillActive": [
-				6911906,
 				6936021,
 				6936022,
-				6936023,
-				6936024
+				6936024,
+				69360133
 			],
-			"aiOrderClass": 200,
+			"skillTalent": [
+				6936013,
+				6936014,
+				6931017,
+				6936028,
+				6936029,
+				910000012
+			],
+			"aiOrderClass": 300,
 			"aiList": [
 				693601
 			],
 			"btPath": "BT/BOSSBT/6936/BOSSBT_Haijian_P2_6936.bt",
 			"guardRadius": 700,
 			"guardRadiusShow": 1,
-			"parentCannotChosen": false,
-			"parentBreakdownType": 0,
-			"parentChildrenAlldie": false
+			"weakWeaponTag": 10,
+			"feature": 1
 		},
 		{
 			"id": 6937,
@@ -237,18 +269,21 @@
 				693704
 			],
 			"name": "极光女王号",
+			"joke": "虽然领地已经沉没，但它仍在释放着怒火。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于冰海中沉没的战舰——极光女王号。极光女王号装甲坚固、武装全面，强劲的火力足以覆盖整个战场，对敌人带来毁灭性的打击。",
 			"textIndex": [
-				3
+				13,
+				7
 			],
 			"rank": 3,
 			"enemyType": 1,
 			"nameOnBar": "极光女王号",
 			"parentOccupySize": 1,
 			"weakTag": [
-				2,
+				3,
 				4
 			],
-			"propertyGroup": 103001,
+			"propertyGroup": 205702,
 			"suppressGroup": [
 				6,
 				4,
@@ -258,29 +293,34 @@
 				0
 			],
 			"camp": 1,
-			"enemyCamp": 1099,
+			"enemyCamp": 1003,
 			"beSuppressedConfig": [
 				80000001,
 				2,
 				1000,
 				0,
-				8
+				2
 			],
+			"characterPic": "MogilaP3",
 			"parentModelCode": 6936,
 			"idleType": 1,
-			"skillNormalAttack": 6911902,
+			"skillNormalAttack": 6941022,
 			"skillActive": [
-				6911906,
-				6941021,
-				6941022
+				6941021
 			],
-			"aiOrderClass": 200,
+			"skillTalent": [
+				6941013,
+				6931017,
+				6941025,
+				6941026,
+				910000012
+			],
+			"aiOrderClass": 300,
 			"btPath": "BT/BOSSBT/6941/BOSSBT_Haijian_P3_6936.bt",
 			"guardRadius": 700,
 			"guardRadiusShow": 1,
-			"parentCannotChosen": false,
-			"parentBreakdownType": 0,
-			"parentChildrenAlldie": false,
+			"weakWeaponTag": 10,
+			"feature": 1,
 			"aiList": []
 		},
 		{
@@ -291,18 +331,21 @@
 				694103
 			],
 			"name": "苔原玫瑰号",
+			"joke": "苔原上的玫瑰不仅冰冷，而且危险。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于冰海中沉没的战舰——苔原玫瑰号。苔原玫瑰号装载着多种功能导弹，在高效打击战场全域的同时，还能改变作战环境，对敌方行动造成干扰。",
 			"textIndex": [
-				3
+				13,
+				7
 			],
 			"rank": 3,
 			"enemyType": 1,
 			"nameOnBar": "苔原玫瑰号",
 			"parentOccupySize": 1,
 			"weakTag": [
-				2,
-				4
+				1,
+				3
 			],
-			"propertyGroup": 103101,
+			"propertyGroup": 205801,
 			"suppressGroup": [
 				6,
 				4,
@@ -312,32 +355,246 @@
 				0
 			],
 			"camp": 1,
-			"enemyCamp": 1099,
-			"parentCannotChosen": true,
+			"enemyCamp": 1003,
 			"beSuppressedConfig": [
 				80000001,
 				2,
 				1000,
 				0,
-				8
+				2
 			],
-			"parentChildrenAlldie": true,
+			"characterPic": "MogilaP3",
 			"parentModelCode": 6941,
 			"idleType": 1,
-			"skillNormalAttack": 6911902,
+			"skillNormalAttack": 6941031,
 			"skillActive": [
-				6941031,
 				6941032,
 				6941033
 			],
-			"aiOrderClass": 200,
+			"skillTalent": [
+				6941013,
+				6931017,
+				6941036,
+				910000012
+			],
+			"aiOrderClass": 400,
 			"aiList": [
 				694101
 			],
 			"btPath": "BT/BOSSBT/6941/BOSSBT_Haijian_P3_6941.bt",
 			"guardRadius": 700,
 			"guardRadiusShow": 1,
-			"parentBreakdownType": 0
+			"weakWeaponTag": 20,
+			"feature": 1
+		},
+		{
+			"id": 69311,
+			"childId": [
+				693101,
+				693102,
+				693103
+			],
+			"name": "冰海舰骸",
+			"joke": "虽然已经沉没，脾气依然很大。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于两艘于冰海中相撞的战舰。该模组包含远北港哨、极光女王号与苔原玫瑰号三片区域，各区域互相配合，形成了极为复杂的攻击模式。",
+			"textIndex": [
+				13,
+				7
+			],
+			"rank": 3,
+			"enemyType": 1,
+			"nameOnBar": "冰海舰骸",
+			"parentOccupySize": 1,
+			"weakTag": [
+				2,
+				5
+			],
+			"propertyGroup": 205601,
+			"suppressGroup": [
+				6,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"camp": 1,
+			"enemyCamp": 1003,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				2
+			],
+			"characterPic": "MogilaP1",
+			"parentModelCode": 6931,
+			"idleType": 1,
+			"skillNormalAttack": 6931011,
+			"skillActive": [
+				6931012,
+				6931013,
+				6931014,
+				69310152
+			],
+			"skillTalent": [
+				6931015,
+				6931016,
+				6931017,
+				6931018
+			],
+			"aiOrderClass": 200,
+			"aiList": [
+				693101
+			],
+			"btPath": "BT/BOSSBT/6931/BOSSBT_Haijian_P1_6931.bt",
+			"guardRadius": 700,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 36,
+			"feature": 1
+		},
+		{
+			"id": 69361,
+			"childId": [
+				693601,
+				693602,
+				693603,
+				693604
+			],
+			"name": "冰海舰骸",
+			"joke": "虽然已经沉没，脾气依然很大。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于两艘于冰海中相撞的战舰。该模组包含远北港哨、极光女王号与苔原玫瑰号三片区域，各区域互相配合，形成了极为复杂的攻击模式。",
+			"textIndex": [
+				13,
+				7
+			],
+			"rank": 3,
+			"enemyType": 1,
+			"nameOnBar": "冰海舰骸",
+			"parentOccupySize": 1,
+			"weakTag": [
+				2,
+				5,
+				3,
+				4
+			],
+			"propertyGroup": 205701,
+			"suppressGroup": [
+				6,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"camp": 1,
+			"enemyCamp": 1003,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				2
+			],
+			"characterPic": "MogilaP1",
+			"parentModelCode": 6936,
+			"idleType": 1,
+			"skillNormalAttack": 6936011,
+			"skillActive": [
+				6936012,
+				69360133,
+				6936023,
+				6936021,
+				6936022,
+				6936024
+			],
+			"skillTalent": [
+				6936013,
+				6936014,
+				6931017,
+				6936016,
+				6936029
+			],
+			"aiOrderClass": 300,
+			"aiList": [
+				693601
+			],
+			"btPath": "BT/BOSSBT/6936/BOSSBT_Haijian_P2_6936.bt",
+			"guardRadius": 700,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 46,
+			"feature": 1
+		},
+		{
+			"id": 69411,
+			"childId": [
+				694101,
+				694102,
+				694103
+			],
+			"name": "冰海舰骸",
+			"joke": "虽然已经沉没，脾气依然很大。",
+			"description": "由B.R.I.E.F.定制的高难度战斗数据模组，外形来自于两艘于冰海中相撞的战舰。该模组包含远北港哨、极光女王号与苔原玫瑰号三片区域，各区域互相配合，形成了极为复杂的攻击模式。",
+			"textIndex": [
+				13,
+				7
+			],
+			"rank": 3,
+			"enemyType": 1,
+			"nameOnBar": "冰海舰骸",
+			"parentOccupySize": 1,
+			"weakTag": [
+				2,
+				5,
+				3,
+				4,
+				1
+			],
+			"propertyGroup": 205801,
+			"suppressGroup": [
+				6,
+				4,
+				0,
+				0,
+				0,
+				0
+			],
+			"camp": 1,
+			"enemyCamp": 1003,
+			"beSuppressedConfig": [
+				80000001,
+				2,
+				1000,
+				0,
+				2
+			],
+			"characterPic": "MogilaP1",
+			"parentModelCode": 6941,
+			"idleType": 1,
+			"skillNormalAttack": 6941011,
+			"skillActive": [
+				6941012,
+				6941022,
+				6941021,
+				6941031,
+				6941032,
+				6941033
+			],
+			"skillTalent": [
+				6941013,
+				6931017,
+				6941015,
+				6941026
+			],
+			"aiOrderClass": 400,
+			"aiList": [
+				694101
+			],
+			"btPath": "BT/BOSSBT/6941/BOSSBT_Haijian_P3_6941.bt",
+			"guardRadius": 700,
+			"guardRadiusShow": 1,
+			"weakWeaponTag": 62,
+			"feature": 1
 		}
 	]
 }

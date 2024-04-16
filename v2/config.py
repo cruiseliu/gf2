@@ -21,9 +21,10 @@ _personal = (getpass.getuser() == 'lz')
 
 if _personal:
     if sys.platform == 'linux':
-        game_data_dir = Path('/mnt/d/Program Files/GF2Exilium/GF2 Game/GF2_Exilium_Data/LocalCache/Data')
+        game_data_dir = Path('/mnt/c/_prog/gf2/GF2 Game/GF2_Exilium_Data/LocalCache/Data')
         gf2_output_dir = Path('/mnt/c/_re/gf2')
     else:
+        game_data_dir = Path('C:/_prog/gf2/GF2 Game/GF2_Exilium_Data/LocalCache/Data')
         gf2_output_dir = Path('C:/_re/gf2')
 
     game_version = datetime.now().strftime('%y%m%d')

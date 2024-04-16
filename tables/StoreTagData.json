@@ -560,6 +560,19 @@
 			"refreshPrice": ""
 		},
 		{
+			"id": 701,
+			"name": "幕后补给",
+			"hintname": "resource",
+			"icon": "Store_taginfo_Icon_tag3",
+			"tradeItemList": "171001",
+			"type": 2,
+			"showtype": 0,
+			"unlock": 0,
+			"playerRefresh": false,
+			"refreshCurrency": 0,
+			"refreshPrice": ""
+		},
+		{
 			"id": 999,
 			"name": "不可见页签",
 			"hintname": "",

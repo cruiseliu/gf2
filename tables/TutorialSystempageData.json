@@ -1607,6 +1607,28 @@
 			"unlockId": 0
 		},
 		{
+			"id": 120605,
+			"groupId": 1206,
+			"text": "该模式下，可预览并更换武器和配件的涂装。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_WeaponSkin_1.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 120606,
+			"groupId": 1206,
+			"text": "获得、培养人形和武器，以及参与各类活动，都能够获取新的涂装。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_WeaponSkin_2.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
 			"id": 120701,
 			"groupId": 1207,
 			"text": "1.<color=#ff8236>强化配件</color>：提供基础属性加成\n2.<color=#ff8236>组合配件</color>：3个相同效果的组合配件将激活额外的套装技能\n3.<color=#ff8236>专项配件</color>：拥有最多的属性加成，除了基本属性，还将提供额外的专精属性",
@@ -1838,6 +1860,17 @@
 			"unlockId": 0
 		},
 		{
+			"id": 150104,
+			"groupId": 1501,
+			"text": "第七阶群为特殊阶群，作战关卡会定期轮换。重新挑战轮换后的关卡，可再次获得通关奖励。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Mythic_4.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
 			"id": 160101,
 			"groupId": 1601,
 			"text": "1、首领挑战根据作战难度划分为多个层级。每个层级中设有一个模拟强敌，赏金猎人可通过挑战模拟强敌获得奖励。每次挑战需要消耗1张挑战权限，挑战权限数量每周会重置到3张。",
@@ -1853,6 +1886,17 @@
 			"groupId": 1601,
 			"text": "1. 每个层级的首领挑战都会设置多个挑战目标，完成全部挑战目标后，即可解锁下一层级。\n2. 到达新的层级后，将会重置最高挑战点数的记录。",
 			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_4.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 160103,
+			"groupId": 1601,
+			"text": "1. 通关首领挑战·八后，将开启歧路挑战。\n2. 在此模式下，可选择挑战不同的头目。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_8.png",
 			"pptNumber": "",
 			"pptName": "",
 			"type": 1,
@@ -2434,8 +2478,85 @@
 		{
 			"id": 320103,
 			"groupId": 3201,
-			"text": "1. 赛季结束时，系统会依据指挥官的积分排名结算奖励。\n2. 当推演积分相同时，将会按照最后一次到达该分数的时间进行降序排名。",
+			"text": "1. 赛季结束时，系统会依据当前所获积分进行排名并结算奖励。\n2. 当推演积分相同时，将会按照最后一次获得该分数的时间进行降序排名。\n3. 除排名奖励外，赛季内累计参与兵棋推演达到一定场次，也可获得奖励。",
 			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_HighPVP_3.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 330101,
+			"groupId": 3301,
+			"text": "1. 无尽映射中存在多个映射空间，完成映射空间中的战斗，可获取其对应的映射积分，以领取奖励。\n2. 满足当前映射空间的映射积分要求后，将解锁下一映射空间；当全部映射空间的映射积分满足要求时，将开启极端映射。\n3. 挑战极端映射时，需部署更多人形，以应对其间存在的强力头目。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_1.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 330103,
+			"groupId": 3301,
+			"text": "1. 人形在参与映射空间的战斗时，需要消耗特定的能量。此外，在同一映射空间的多场战斗中，人形的作战状态将会继承。结算或重置作战进度后，人形状态和能量将会重置。\n2. 当人形损毁或能量低于要求时，将无法参与战斗。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_3.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 330104,
+			"groupId": 3301,
+			"text": "1. 在参与映射空间的战斗时，完成特定任务，即可领取奖励，并获取任务得分。\n2. 结算作战进度时，也将同步结算任务得分。任务得分将增加至映射积分中。\n3. 任务得分存在上限。达到上限后，再次完成特定任务，则仅可领取奖励，无法获取任务得分。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_4.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 330105,
+			"groupId": 3301,
+			"text": "1. 在挑战极端映射中的头目单位时，完成特定的战术动作，即可获取战术得分。\n2. 结算作战进度时，也将同步结算战术得分。战术得分将增加至映射积分中。\n3. 战术得分存在上限。达到上限后，将无法继续获取。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_5.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 330106,
+			"groupId": 3301,
+			"text": "1. 映射积分为战术得分与任务得分的总和。\n2. 每个映射空间及极端映射的映射积分均独立计算。可根据获得的映射积分，领取对应奖励。\n3. 活动结束后，所有映射积分及奖励进度均会被重置。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_6.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 340101,
+			"groupId": 3401,
+			"text": "1. 在冰焰逐跃中，控制机械·九章的前进方向，并使用跳跃、冲刺和重力翻转，以跨越障碍、收集道具，最终抵达终点。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_MNgame_hocold_1.png",
+			"pptNumber": "",
+			"pptName": "",
+			"type": 1,
+			"unlockSheet": 0,
+			"unlockId": 0
+		},
+		{
+			"id": 340102,
+			"groupId": 3401,
+			"text": "1. 关卡中存在各种特殊地形，请控制九章灵活应对。\n2. 在关卡中摔落后，将自动回到最近的存档点；退出并重新进入关卡，则需要从起点开始挑战。",
+			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_MNgame_hocold_2.png",
 			"pptNumber": "",
 			"pptName": "",
 			"type": 1,
@@ -2856,17 +2977,6 @@
 			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_19_a.png",
 			"pptNumber": "13",
 			"pptName": "地形VIII",
-			"type": 1,
-			"unlockSheet": 0,
-			"unlockId": 0
-		},
-		{
-			"id": 900201,
-			"groupId": 9002,
-			"text": "<color=#ff8236>失败损失</color>：在单次行动中，若我方队内人形全部损毁，则本次<color=#ff8236>行动失败</color>，损失当次行动的全部所得物资。",
-			"media": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_r.png",
-			"pptNumber": "",
-			"pptName": "",
 			"type": 1,
 			"unlockSheet": 0,
 			"unlockId": 0

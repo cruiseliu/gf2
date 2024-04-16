@@ -1,0 +1,384 @@
+{
+	"data": [
+		{
+			"id": 10101,
+			"group": 101,
+			"stageType": 1,
+			"level": 26,
+			"name": "关卡1",
+			"des": "描述1",
+			"icon": "icon1",
+			"o_AIEACIFJGOB": 1,
+			"o_IKFLHKLNEIJ": "scene1",
+			"mapId": 101,
+			"o_EADIKJDEINF": 1,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_ODHPHNIGCLA": {
+				"101": 1,
+				"102": 2
+			},
+			"o_ACHJFPAGGDO": 1,
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_JPFIKFPICAP": {
+				"2": 5000
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_LBFPKIPPFLG": 0
+		},
+		{
+			"id": 10102,
+			"group": 101,
+			"stageType": 2,
+			"level": 30,
+			"name": "关卡2",
+			"des": "描述2",
+			"icon": "icon2",
+			"o_LBFPKIPPFLG": 10101,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene2",
+			"mapId": 101,
+			"o_MOFGBIEMPDO": 2,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_ACHJFPAGGDO": 1,
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_JPFIKFPICAP": {
+				"2": 5000
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_EADIKJDEINF": 0,
+			"o_ODHPHNIGCLA": {}
+		},
+		{
+			"id": 10103,
+			"group": 101,
+			"stageType": 2,
+			"level": 35,
+			"name": "关卡3",
+			"des": "描述3",
+			"icon": "icon3",
+			"o_LBFPKIPPFLG": 10102,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene3",
+			"mapId": 101,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_ACHJFPAGGDO": 1,
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_JPFIKFPICAP": {
+				"2": 5000
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_EADIKJDEINF": 0,
+			"o_ODHPHNIGCLA": {}
+		},
+		{
+			"id": 10104,
+			"group": 101,
+			"stageType": 2,
+			"level": 40,
+			"name": "关卡4",
+			"des": "描述4",
+			"icon": "icon4",
+			"o_LBFPKIPPFLG": 10103,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene4",
+			"mapId": 101,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_ACHJFPAGGDO": 1,
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_JPFIKFPICAP": {
+				"2": 5000
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_EADIKJDEINF": 0,
+			"o_ODHPHNIGCLA": {}
+		},
+		{
+			"id": 10105,
+			"group": 101,
+			"stageType": 3,
+			"o_LLKGDDMIOAL": 27101,
+			"o_LBFPKIPPFLG": 10104,
+			"level": 0,
+			"name": "",
+			"des": "",
+			"icon": "",
+			"o_AIEACIFJGOB": 0,
+			"o_IKFLHKLNEIJ": "",
+			"mapId": 0,
+			"o_EADIKJDEINF": 0,
+			"o_MOFGBIEMPDO": 0,
+			"o_GOMBAEBNCIG": 0,
+			"o_GLPDGEKNMCJ": 0,
+			"o_MLJMOMPBEPL": {},
+			"o_NFPFCICFPIM": {},
+			"o_ODHPHNIGCLA": {},
+			"o_ACHJFPAGGDO": 0,
+			"o_EDIMLDHLDMO": {},
+			"o_JPFIKFPICAP": {}
+		},
+		{
+			"id": 100101,
+			"group": 1001,
+			"stageType": 1,
+			"level": 26,
+			"name": "关卡1",
+			"des": "描述1",
+			"icon": "icon1",
+			"o_AIEACIFJGOB": 1,
+			"o_IKFLHKLNEIJ": "scene1",
+			"mapId": 101,
+			"o_EADIKJDEINF": 1,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_ODHPHNIGCLA": {
+				"101": 1,
+				"102": 2
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_LBFPKIPPFLG": 0,
+			"o_ACHJFPAGGDO": 0,
+			"o_EDIMLDHLDMO": {},
+			"o_JPFIKFPICAP": {}
+		},
+		{
+			"id": 100102,
+			"group": 1001,
+			"stageType": 1,
+			"level": 30,
+			"name": "关卡2",
+			"des": "描述2",
+			"icon": "icon2",
+			"o_LBFPKIPPFLG": 100101,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene2",
+			"mapId": 101,
+			"o_EADIKJDEINF": 1,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_ODHPHNIGCLA": {
+				"101": 1,
+				"102": 2,
+				"201": 2,
+				"202": 2,
+				"301": 1,
+				"302": 1
+			},
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_ACHJFPAGGDO": 0,
+			"o_JPFIKFPICAP": {}
+		},
+		{
+			"id": 100103,
+			"group": 1001,
+			"stageType": 1,
+			"level": 35,
+			"name": "关卡3",
+			"des": "描述3",
+			"icon": "icon3",
+			"o_LBFPKIPPFLG": 100102,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene3",
+			"mapId": 101,
+			"o_EADIKJDEINF": 1,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_ODHPHNIGCLA": {
+				"103": 1,
+				"104": 2,
+				"203": 2,
+				"204": 2,
+				"303": 1,
+				"304": 1
+			},
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_ACHJFPAGGDO": 0,
+			"o_JPFIKFPICAP": {}
+		},
+		{
+			"id": 100104,
+			"group": 1001,
+			"stageType": 1,
+			"level": 40,
+			"name": "关卡4",
+			"des": "描述4",
+			"icon": "icon4",
+			"o_LBFPKIPPFLG": 100103,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene4",
+			"mapId": 101,
+			"o_EADIKJDEINF": 1,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_ODHPHNIGCLA": {},
+			"o_ACHJFPAGGDO": 0,
+			"o_JPFIKFPICAP": {}
+		},
+		{
+			"id": 100105,
+			"group": 1001,
+			"stageType": 1,
+			"level": 40,
+			"name": "关卡5",
+			"des": "描述5",
+			"icon": "icon5",
+			"o_LBFPKIPPFLG": 100104,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene2",
+			"mapId": 101,
+			"o_EADIKJDEINF": 1,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_ODHPHNIGCLA": {},
+			"o_ACHJFPAGGDO": 0,
+			"o_JPFIKFPICAP": {}
+		},
+		{
+			"id": 100106,
+			"group": 1001,
+			"stageType": 1,
+			"level": 40,
+			"name": "关卡6",
+			"des": "描述6",
+			"icon": "icon6",
+			"o_LBFPKIPPFLG": 100105,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene3",
+			"mapId": 101,
+			"o_EADIKJDEINF": 1,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_ODHPHNIGCLA": {},
+			"o_ACHJFPAGGDO": 0,
+			"o_JPFIKFPICAP": {}
+		},
+		{
+			"id": 100107,
+			"group": 1001,
+			"stageType": 2,
+			"level": 40,
+			"name": "关卡7",
+			"des": "描述7",
+			"icon": "icon7",
+			"o_LBFPKIPPFLG": 100106,
+			"o_AIEACIFJGOB": 2,
+			"o_IKFLHKLNEIJ": "scene4",
+			"mapId": 101,
+			"o_MOFGBIEMPDO": 9,
+			"o_GOMBAEBNCIG": 30,
+			"o_GLPDGEKNMCJ": 10101,
+			"o_MLJMOMPBEPL": {
+				"101": 12
+			},
+			"o_NFPFCICFPIM": {
+				"1": 10
+			},
+			"o_EDIMLDHLDMO": {
+				"101": 24
+			},
+			"o_LLKGDDMIOAL": 0,
+			"o_EADIKJDEINF": 0,
+			"o_ODHPHNIGCLA": {},
+			"o_ACHJFPAGGDO": 0,
+			"o_JPFIKFPICAP": {}
+		}
+	]
+}

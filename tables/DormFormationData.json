@@ -1387,15 +1387,15 @@
 			"unlockType": 0
 		},
 		{
-			"id": 103301,
+			"id": 103501,
 			"type": 2,
-			"modleId": 1033,
-			"name": "#N/A",
+			"modleId": 1035,
+			"name": "熟睡",
 			"zone": 1,
 			"isBack": true,
 			"isBreak": true,
 			"clip": "c_{0}_Bedroom_01_Idle",
-			"uiicon": "Mosinnagant01",
+			"uiicon": "Jiangyu01",
 			"loopTime": [
 				3,
 				3
@@ -1405,15 +1405,15 @@
 			"clothesId": 0
 		},
 		{
-			"id": 103302,
+			"id": 103502,
 			"type": 2,
-			"modleId": 1033,
-			"name": "#N/A",
+			"modleId": 1035,
+			"name": "训练",
 			"zone": 1,
 			"isBack": true,
 			"isBreak": true,
 			"clip": "c_{0}_Bedroom_02_Idle",
-			"uiicon": "Mosinnagant02",
+			"uiicon": "Jiangyu02",
 			"loopTime": [
 				3,
 				3
@@ -1423,237 +1423,57 @@
 			"clothesId": 0
 		},
 		{
-			"id": 103303,
+			"id": 103503,
 			"type": 2,
-			"modleId": 1033,
-			"name": "#N/A",
+			"modleId": 1035,
+			"name": "观察",
 			"zone": 1,
 			"isBack": true,
 			"isBreak": true,
 			"clip": "c_{0}_Bedroom_03_Idle",
-			"uiicon": "Mosinnagant03",
+			"uiicon": "Jiangyu03",
 			"loopTime": [
 				3,
 				3
 			],
 			"unlock": 1,
-			"unlockType": 410331,
+			"unlockType": 410351,
 			"clothesId": 0
 		},
 		{
-			"id": 103304,
+			"id": 103504,
 			"type": 2,
-			"modleId": 1033,
-			"name": "#N/A",
+			"modleId": 1035,
+			"name": "阅读",
 			"zone": 1,
 			"isBack": true,
 			"isBreak": true,
 			"clip": "c_{0}_Bedroom_04_Idle",
-			"uiicon": "Mosinnagant04",
+			"uiicon": "Jiangyu04",
 			"loopTime": [
 				3,
 				3
 			],
 			"unlock": 1,
-			"unlockType": 410331,
+			"unlockType": 410351,
 			"clothesId": 0
 		},
 		{
-			"id": 103305,
+			"id": 103505,
 			"type": 2,
-			"modleId": 1033,
-			"name": "#N/A",
+			"modleId": 1035,
+			"name": "专注",
 			"zone": 1,
 			"isBack": true,
 			"isBreak": true,
 			"clip": "c_{0}_Bedroom_05_Idle",
-			"uiicon": "Mosinnagant05",
+			"uiicon": "Jiangyu05",
 			"loopTime": [
 				3,
 				3
 			],
 			"unlock": 1,
-			"unlockType": 410332,
-			"clothesId": 0
-		},
-		{
-			"id": 103601,
-			"type": 2,
-			"modleId": 1036,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_01_Idle",
-			"uiicon": "Ksenia01",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 0,
-			"clothesId": 0
-		},
-		{
-			"id": 103602,
-			"type": 2,
-			"modleId": 1036,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_02_Idle",
-			"uiicon": "Ksenia02",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 0,
-			"clothesId": 0
-		},
-		{
-			"id": 103603,
-			"type": 2,
-			"modleId": 1036,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_03_Idle",
-			"uiicon": "Ksenia03",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 410361,
-			"clothesId": 0
-		},
-		{
-			"id": 103604,
-			"type": 2,
-			"modleId": 1036,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_04_Idle",
-			"uiicon": "Ksenia04",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 410361,
-			"clothesId": 0
-		},
-		{
-			"id": 103605,
-			"type": 2,
-			"modleId": 1036,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_05_Idle",
-			"uiicon": "Ksenia05",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 410362,
-			"clothesId": 0
-		},
-		{
-			"id": 103801,
-			"type": 2,
-			"modleId": 1038,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_01_Idle",
-			"uiicon": "Littara01",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 0,
-			"clothesId": 0
-		},
-		{
-			"id": 103802,
-			"type": 2,
-			"modleId": 1038,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_02_Idle",
-			"uiicon": "Littara02",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 0,
-			"clothesId": 0
-		},
-		{
-			"id": 103803,
-			"type": 2,
-			"modleId": 1038,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_03_Idle",
-			"uiicon": "Littara03",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 410381,
-			"clothesId": 0
-		},
-		{
-			"id": 103804,
-			"type": 2,
-			"modleId": 1038,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_04_Idle",
-			"uiicon": "Littara04",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 410381,
-			"clothesId": 0
-		},
-		{
-			"id": 103805,
-			"type": 2,
-			"modleId": 1038,
-			"name": "#N/A",
-			"zone": 1,
-			"isBack": true,
-			"isBreak": true,
-			"clip": "c_{0}_Bedroom_05_Idle",
-			"uiicon": "Littara05",
-			"loopTime": [
-				3,
-				3
-			],
-			"unlock": 1,
-			"unlockType": 410382,
+			"unlockType": 410352,
 			"clothesId": 0
 		}
 	]

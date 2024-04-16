@@ -11188,6 +11188,24 @@
 			"minigameCreate": []
 		},
 		{
+			"uid": 1118105,
+			"id": 2105,
+			"position": "3772,0,4230",
+			"rotation": 90,
+			"param": "0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1118106,
+			"id": 2105,
+			"position": "3772,0,4410",
+			"rotation": 90,
+			"param": "0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
 			"uid": 1118107,
 			"id": 99901,
 			"position": "3510,0,3330",
@@ -11309,7 +11327,7 @@
 			"id": 2117,
 			"position": "1710,0,5490",
 			"rotation": 90,
-			"param": "1;1119013,3,1;1119012,1,3;1119012;0",
+			"param": "1;1119013,3,1;1119012,1,3;1119007;0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
@@ -12430,15 +12448,6 @@
 			"minigameCreate": []
 		},
 		{
-			"uid": 1119135,
-			"id": 99902,
-			"position": "5040,0,2610",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
 			"uid": 1119137,
 			"id": 2105,
 			"position": "7650,0,3412",
@@ -13430,900 +13439,945 @@
 		},
 		{
 			"uid": 1121001,
-			"id": 99901,
-			"position": "450,0,4590",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 242,
+			"position": "1890,0,6390",
+			"rotation": 180,
+			"param": "20017;0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121002,
-			"id": 99901,
-			"position": "810,0,4770",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 901,
+			"position": "3600,0,5040",
+			"rotation": 180,
+			"param": "1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121003,
-			"id": 99901,
-			"position": "630,0,4230",
-			"param": "1;1",
+			"id": 917,
+			"position": "5400,0,4680",
+			"param": "1",
+			"minigameCreate": [
+				2,
+				3
+			],
 			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
+			"dynamicCoverDirectPb": ""
 		},
 		{
 			"uid": 1121004,
-			"id": 99901,
-			"position": "630,0,3870",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 914,
+			"position": "1080,0,6300",
+			"rotation": 90,
+			"param": "1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121005,
-			"id": 99901,
-			"position": "1350,0,4950",
-			"param": "1;1",
+			"id": 917,
+			"position": "3600,0,1440",
+			"param": "1",
+			"minigameCreate": [
+				1,
+				3
+			],
 			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
+			"dynamicCoverDirectPb": ""
 		},
 		{
 			"uid": 1121006,
-			"id": 99901,
-			"position": "1170,0,4590",
-			"param": "1;1",
+			"id": 913,
+			"position": "1800,0,3780",
+			"param": "1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121007,
-			"id": 99901,
-			"position": "1170,0,4230",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 911,
+			"position": "4680,0,2160",
+			"rotation": 270,
+			"param": "1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121008,
-			"id": 99901,
-			"position": "1530,0,4050",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 911,
+			"position": "2880,0,4500",
+			"rotation": 90,
+			"param": "1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121009,
-			"id": 99902,
-			"position": "2160,0,4050",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 912,
+			"position": "2520,0,6840",
+			"rotation": 90,
+			"param": "1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121010,
-			"id": 1401,
-			"position": "6750,0,3420",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCPK1RBAC",
-			"rotation": 0,
+			"id": 99902,
+			"position": "2070,0,7020",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121011,
-			"id": 99901,
-			"position": "2430,0,4230",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 242,
+			"position": "5670,0,3150",
+			"rotation": 180,
+			"param": "20017;0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121012,
-			"id": 99901,
-			"position": "2070,0,4410",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 202,
+			"position": "4230,300,2430",
+			"rotation": 270,
+			"param": "112125",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121013,
-			"id": 99908,
-			"position": "8730,0,3150",
-			"param": "1;1",
+			"id": 202,
+			"position": "5310,0,630",
+			"param": "112123",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121014,
-			"id": 99901,
-			"position": "8190,0,2790",
-			"param": "1;1",
+			"id": 203,
+			"position": "1890,0,3330",
+			"param": "112131",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121015,
-			"id": 99901,
-			"position": "7830,0,2790",
-			"param": "1;1",
+			"id": 203,
+			"position": "3510,0,990",
+			"param": "112133",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121016,
-			"id": 99901,
-			"position": "7830,0,2610",
-			"param": "1;1",
+			"id": 202,
+			"position": "3690,0,990",
+			"param": "112125",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121017,
-			"id": 99901,
-			"position": "8190,0,2610",
-			"param": "1;1",
+			"id": 917,
+			"position": "5400,0,1080",
+			"param": "1",
+			"minigameCreate": [
+				2,
+				3
+			],
 			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
+			"dynamicCoverDirectPb": ""
 		},
 		{
 			"uid": 1121018,
-			"id": 99901,
-			"position": "8550,0,2790",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 201,
+			"position": "5130,0,5310",
+			"rotation": 180,
+			"param": "112111",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121019,
-			"id": 99901,
-			"position": "9270,0,2790",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 201,
+			"position": "5490,0,5310",
+			"rotation": 180,
+			"param": "112111",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121020,
-			"id": 99902,
-			"position": "9000,0,2610",
-			"param": "1;1",
-			"rotation": 0,
+			"id": 203,
+			"position": "5310,0,5130",
+			"rotation": 180,
+			"param": "112134",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121021,
-			"id": 99904,
-			"position": "9540,0,3420",
+			"id": 1601,
+			"position": "2700,18,4500",
 			"rotation": 270,
-			"param": "1;1",
+			"param": "0;4950,0,2070;30001",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121022,
-			"id": 601,
-			"position": "8910,0,3150",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 1601,
+			"position": "7200,18,2790",
+			"rotation": 180,
+			"param": "0;8790,0,3210;30001",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121023,
-			"id": 601,
-			"position": "8910,0,3330",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 912,
+			"position": "7200,0,2340",
+			"param": "1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121024,
-			"id": 601,
-			"position": "8010,0,3150",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 912,
+			"position": "3600,0,2880",
+			"param": "1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121025,
-			"id": 601,
-			"position": "6750,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 912,
+			"position": "5400,0,3240",
+			"param": "1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121026,
-			"id": 601,
-			"position": "6570,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2129,
+			"position": "6120,0,1620",
+			"rotation": 90,
+			"param": "1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121027,
-			"id": 601,
-			"position": "6750,0,3330",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 203,
+			"position": "630,0,6390",
+			"rotation": 90,
+			"param": "112132",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121028,
-			"id": 601,
-			"position": "6750,0,3150",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 202,
+			"position": "6210,300,4230",
+			"rotation": 270,
+			"param": "112121",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121029,
-			"id": 601,
-			"position": "5670,0,4230",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 202,
+			"position": "1710,0,3330",
+			"param": "112124",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121030,
-			"id": 601,
-			"position": "5490,0,4230",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121031,
-			"id": 601,
-			"position": "4590,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121032,
-			"id": 601,
-			"position": "4410,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121033,
-			"id": 601,
-			"position": "5310,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121034,
-			"id": 601,
-			"position": "5310,0,3510",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121035,
-			"id": 601,
-			"position": "5490,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121036,
-			"id": 601,
-			"position": "5670,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121037,
-			"id": 601,
-			"position": "3510,0,4950",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121038,
-			"id": 601,
-			"position": "3510,0,4770",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121039,
-			"id": 601,
-			"position": "3150,0,5130",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121040,
-			"id": 601,
-			"position": "2970,0,5130",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121041,
-			"id": 601,
-			"position": "1350,0,6750",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121042,
-			"id": 601,
-			"position": "1170,0,6750",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121043,
-			"id": 601,
-			"position": "810,0,6210",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121044,
-			"id": 601,
-			"position": "810,0,6030",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121045,
-			"id": 601,
-			"position": "1530,0,5490",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121046,
-			"id": 601,
-			"position": "1710,0,5490",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121047,
-			"id": 601,
-			"position": "2070,0,5670",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121048,
-			"id": 601,
-			"position": "2070,0,5490",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121049,
-			"id": 601,
-			"position": "2070,0,6390",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121050,
-			"id": 601,
-			"position": "2070,0,6570",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121051,
-			"id": 202,
-			"position": "2070,0,3870",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121052,
-			"id": 203,
-			"position": "450,0,3870",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121053,
-			"id": 1101,
-			"position": "810,0,4590",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121054,
-			"id": 1101,
-			"position": "1170,0,4050",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121055,
-			"id": 202,
-			"position": "9270,0,3510",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121056,
-			"id": 202,
-			"position": "8190,0,3870",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121057,
-			"id": 202,
-			"position": "8370,0,3330",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121058,
-			"id": 1101,
-			"position": "7919,0,3005",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121059,
-			"id": 1101,
-			"position": "9391,0,2920",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121060,
-			"id": 1411,
-			"position": "8370,0,3690",
-			"param": "1;2;1;1",
-			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCKS2RBAB",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121061,
-			"id": 1401,
-			"position": "8280,0,3870",
-			"rotation": 90,
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyICCAsqCCIGCKW2RBAC",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121062,
-			"id": 203,
-			"position": "5490,300,3510",
-			"rotation": 180,
-			"param": "620",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121063,
-			"id": 905,
-			"position": "1440,0,5040",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121064,
-			"id": 906,
-			"position": "2520,0,4320",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121065,
-			"id": 905,
-			"position": "3960,0,3780",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121066,
-			"id": 905,
-			"position": "6120,0,3780",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121067,
-			"id": 906,
-			"position": "7560,0,3240",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121068,
-			"id": 1301,
-			"position": "1603,0,5130",
-			"rotation": 270,
-			"param": "1003;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121069,
-			"id": 605,
-			"position": "8010,0,3870",
-			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121070,
-			"id": 99915,
-			"position": "8016,0,3507",
+			"id": 99902,
+			"position": "3420,0,7470",
 			"param": "1;1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1121071,
+			"uid": 1121031,
+			"id": 99905,
+			"position": "3690,0,7290",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121032,
+			"id": 202,
+			"position": "2970,300,6210",
+			"rotation": 270,
+			"param": "112123",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121033,
+			"id": 99902,
+			"position": "1350,0,6300",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121034,
+			"id": 99902,
+			"position": "1890,0,5580",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121035,
+			"id": 202,
+			"position": "1170,0,4950",
+			"param": "112125",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121036,
+			"id": 1101,
+			"position": "1350,0,4950",
+			"param": "10;10;10;15",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121037,
+			"id": 99902,
+			"position": "1080,0,4590",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121038,
+			"id": 99902,
+			"position": "2340,0,3870",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121039,
+			"id": 99902,
+			"position": "1890,0,4140",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121040,
+			"id": 99902,
+			"position": "1980,0,5130",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121041,
+			"id": 99902,
+			"position": "2250,0,4860",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121042,
+			"id": 99901,
+			"position": "3870,0,7470",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121043,
+			"id": 202,
+			"position": "6030,0,3330",
+			"param": "112121",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121044,
+			"id": 202,
+			"position": "3150,0,3510",
+			"rotation": 180,
+			"param": "112124",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121045,
+			"id": 242,
+			"position": "3510,0,6930",
+			"rotation": 180,
+			"param": "20017;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121046,
+			"id": 1101,
+			"position": "4230,300,7110",
+			"param": "10;10;10;15",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121047,
 			"id": 605,
-			"position": "1530,0,3870",
+			"position": "3150,0,5850",
 			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1121072,
+			"uid": 1121048,
 			"id": 605,
-			"position": "1530,0,3690",
+			"position": "2970,0,5850",
 			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121049,
+			"id": 605,
+			"position": "2790,0,5850",
+			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121050,
+			"id": 2109,
+			"position": "3870,0,5490",
+			"rotation": 180,
+			"param": "1;0,1000;0,1000",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121051,
+			"id": 202,
+			"position": "4050,0,3330",
+			"rotation": 180,
+			"param": "112123",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121052,
+			"id": 99903,
+			"position": "4230,0,3870",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121053,
+			"id": 912,
+			"position": "4320,0,3960",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121054,
+			"id": 242,
+			"position": "4050,300,4590",
+			"rotation": 180,
+			"param": "20017;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121055,
+			"id": 202,
+			"position": "3150,300,1710",
+			"rotation": 270,
+			"param": "112122",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121056,
+			"id": 1101,
+			"position": "2970,300,1890",
+			"param": "10;10;10;15",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121057,
+			"id": 99901,
+			"position": "4770,0,2430",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121058,
+			"id": 99902,
+			"position": "4860,0,1530",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121059,
+			"id": 99902,
+			"position": "5670,0,3780",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121060,
+			"id": 2109,
+			"position": "4770,0,2250",
+			"rotation": 90,
+			"param": "1;0,1000;0,1000",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121061,
+			"id": 99902,
+			"position": "5580,0,4230",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121062,
+			"id": 99901,
+			"position": "4950,0,4230",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121063,
+			"id": 912,
+			"position": "1800,0,5220",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121064,
+			"id": 99901,
+			"position": "990,0,4950",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121065,
+			"id": 202,
+			"position": "1710,0,6390",
+			"rotation": 180,
+			"param": "112123",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121066,
+			"id": 203,
+			"position": "5310,0,3870",
+			"rotation": 180,
+			"param": "112131",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121067,
+			"id": 99904,
+			"position": "3060,0,2160",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121068,
+			"id": 202,
+			"position": "7830,0,1890",
+			"rotation": 180,
+			"param": "112125",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121069,
+			"id": 99902,
+			"position": "6840,0,2070",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121070,
+			"id": 202,
+			"position": "6570,0,990",
+			"rotation": 270,
+			"param": "112122",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121071,
+			"id": 2109,
+			"position": "7470,0,2790",
+			"rotation": 270,
+			"param": "1;0,1000;0,1000",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121072,
+			"id": 202,
+			"position": "5490,0,630",
+			"param": "112124",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121073,
-			"id": 601,
-			"position": "7830,0,3150",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 99902,
+			"position": "3690,0,2340",
+			"rotation": 90,
+			"param": "1;1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121074,
-			"id": 909,
-			"position": "8640,0,2520",
+			"id": 2105,
+			"position": "1710,0,6683",
 			"rotation": 180,
-			"param": "1",
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121075,
-			"id": 605,
-			"position": "450,0,4050",
-			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
+			"id": 2105,
+			"position": "1890,0,5917",
+			"param": "0",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121076,
-			"id": 601,
-			"position": "1350,0,4230",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2105,
+			"position": "1890,0,6683",
+			"rotation": 180,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121077,
-			"id": 601,
-			"position": "990,0,4590",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 2105,
+			"position": "2070,0,5917",
+			"param": "0",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121078,
-			"id": 601,
-			"position": "1170,0,4950",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2105,
+			"position": "2152,0,5850",
+			"rotation": 90,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121079,
-			"id": 601,
-			"position": "1890,0,4950",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2104,
+			"position": "5490,0,4148",
+			"rotation": 180,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121080,
-			"id": 99802,
-			"position": "7634,0,3408",
-			"rotation": 180,
-			"param": "1004;1",
+			"id": 2104,
+			"position": "6030,0,4132",
+			"param": "0",
+			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121081,
-			"id": 99802,
-			"position": "4036,0,3624",
+			"id": 202,
+			"position": "4410,300,7290",
 			"rotation": 180,
-			"param": "1004;1",
+			"param": "112123",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121082,
-			"id": 99802,
-			"position": "1625,0,5006",
-			"rotation": 180,
-			"param": "1004;1",
+			"id": 2118,
+			"position": "4410,0,2070",
+			"rotation": 270,
+			"param": "1;1121026,3,1;0,0,0;1121026;0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121083,
-			"id": 605,
-			"position": "7830,0,3870",
-			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
+			"id": 201,
+			"position": "4590,0,3690",
+			"param": "112111",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121084,
-			"id": 2103,
-			"position": "8203,72,2966",
-			"rotation": 283,
-			"param": "1004;1",
+			"id": 202,
+			"position": "630,0,6210",
+			"rotation": 90,
+			"param": "112121",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121085,
-			"id": 2103,
-			"position": "7110,102,3510",
-			"rotation": 284,
-			"param": "1004;1",
+			"id": 2105,
+			"position": "5197,300,2790",
+			"rotation": 90,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121086,
-			"id": 2103,
-			"position": "5467,100,4069",
-			"rotation": 261,
-			"param": "1004;1",
+			"id": 99901,
+			"position": "5850,0,3150",
+			"param": "1;1",
+			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121087,
-			"id": 2103,
-			"position": "2995,100,4625",
-			"rotation": 270,
-			"param": "1004;1",
+			"id": 604,
+			"position": "8550,0,3330",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121088,
-			"id": 2103,
-			"position": "1725,83,4380",
-			"rotation": 270,
-			"param": "1004;1",
+			"id": 604,
+			"position": "8550,0,3510",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121089,
-			"id": 2103,
-			"position": "827,45,4225",
-			"rotation": 29,
-			"param": "1004;1",
+			"id": 604,
+			"position": "8730,0,3510",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121090,
+			"id": 2105,
+			"position": "5017,0,1890",
+			"rotation": 90,
+			"param": "0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121091,
+			"id": 2105,
+			"position": "5017,0,2070",
+			"rotation": 90,
+			"param": "0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121092,
+			"id": 2105,
+			"position": "8370,0,3052",
+			"param": "0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121093,
+			"id": 2105,
+			"position": "8730,0,3232",
+			"param": "0",
+			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121094,
-			"id": 1401,
-			"position": "4585,0,4144",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaACICCAsqCCIGCMa2RBAC",
-			"rotation": 0,
+			"id": 2104,
+			"position": "8812,0,3150",
+			"rotation": 90,
+			"param": "0",
+			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121095,
-			"id": 1401,
-			"position": "1890,0,5760",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCMe2RBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121096,
-			"id": 1401,
-			"position": "1710,0,5760",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCMi2RBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121097,
-			"id": 1401,
-			"position": "1350,0,5580",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCMm2RBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121098,
-			"id": 1401,
-			"position": "1170,0,5580",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCMq2RBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121099,
-			"id": 1401,
-			"position": "1170,0,6300",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCMu2RBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121100,
-			"id": 1401,
-			"position": "1080,0,6210",
-			"rotation": 90,
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyICCAsqCCIGCMy2RBAC",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1121101,
 			"id": 2105,
-			"position": "1530,0,5371",
+			"position": "5490,0,3757",
 			"param": "0",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1121102,
-			"id": 2105,
-			"position": "3086,0,4770",
+			"uid": 1121096,
+			"id": 2109,
+			"position": "5670,0,810",
 			"rotation": 270,
-			"param": "0",
+			"param": "1;0,1000;0,1000",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121097,
+			"id": 99902,
+			"position": "3870,0,1260",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121098,
+			"id": 99902,
+			"position": "7470,0,2520",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121099,
+			"id": 99902,
+			"position": "3600,0,5130",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121100,
+			"id": 99902,
+			"position": "1980,0,3510",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121101,
+			"id": 1401,
+			"position": "6030,300,4140",
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyIGCIuAgIBAKggiBgjNtkQQAg==",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1121102,
+			"id": 99902,
+			"position": "7560,0,1710",
+			"param": "1;1",
+			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121103,
 			"id": 2105,
-			"position": "3626,0,4410",
-			"rotation": 270,
+			"position": "2790,0,1957",
 			"param": "0",
+			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121104,
 			"id": 2104,
-			"position": "4770,0,4142",
-			"rotation": 180,
+			"position": "2872,0,1890",
+			"rotation": 90,
 			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
@@ -14331,7 +14385,7 @@
 		{
 			"uid": 1121105,
 			"id": 2105,
-			"position": "4694,0,4230",
+			"position": "2708,0,1890",
 			"rotation": 270,
 			"param": "0",
 			"dynamicCoverDirectPb": "",
@@ -14340,2318 +14394,140 @@
 		{
 			"uid": 1121106,
 			"id": 2105,
-			"position": "5490,0,3953",
+			"position": "9157,300,3150",
+			"rotation": 90,
 			"param": "0",
-			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121107,
-			"id": 2105,
-			"position": "7110,0,3412",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
+			"id": 1401,
+			"position": "5940,300,4410",
+			"rotation": 90,
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyIHCIuAgICAASoIIgYI07ZEEAI=",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121108,
 			"id": 2105,
-			"position": "7290,0,3412",
+			"position": "6030,300,4164",
+			"rotation": 180,
 			"param": "0",
-			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1121109,
-			"id": 203,
-			"position": "4950,0,4410",
-			"rotation": 180,
-			"param": "620",
+			"id": 2105,
+			"position": "5964,300,4410",
+			"rotation": 270,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1122001,
-			"id": 605,
-			"position": "1170,300,4950",
-			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
+			"id": 201,
+			"position": "2970,0,4950",
+			"param": "112211",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1122002,
-			"id": 605,
-			"position": "990,300,4770",
-			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
+			"id": 202,
+			"position": "2790,0,5490",
+			"param": "112223",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1122003,
-			"id": 601,
-			"position": "990,0,3870",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 202,
+			"position": "3510,300,4590",
+			"param": "112221",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1122004,
-			"id": 601,
-			"position": "1530,0,4050",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 99902,
+			"position": "3510,0,5400",
+			"rotation": 90,
+			"param": "1;1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1122005,
-			"id": 601,
-			"position": "1710,300,4410",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 99902,
+			"position": "1980,0,4770",
+			"param": "1;1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1122006,
-			"id": 601,
-			"position": "1890,300,4590",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 99901,
+			"position": "2790,0,4950",
+			"param": "1;1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1122007,
-			"id": 601,
-			"position": "2970,0,4230",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122008,
-			"id": 601,
-			"position": "2970,0,4050",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122009,
-			"id": 601,
-			"position": "3510,0,3870",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122010,
-			"id": 601,
-			"position": "3510,0,4230",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122011,
-			"id": 601,
-			"position": "3510,0,4590",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122012,
-			"id": 601,
-			"position": "3870,0,4410",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122013,
-			"id": 601,
-			"position": "4950,0,4230",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122014,
-			"id": 601,
-			"position": "4950,0,4050",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122015,
-			"id": 601,
-			"position": "9270,300,810",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122016,
-			"id": 601,
-			"position": "9450,0,2430",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122017,
-			"id": 1411,
-			"position": "8010,0,1350",
-			"param": "1;2;1;1",
-			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCOG9RBAB",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122018,
-			"id": 99904,
-			"position": "5940,0,3600",
-			"rotation": 180,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122019,
-			"id": 603,
-			"position": "2610,300,4050",
-			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122020,
-			"id": 603,
-			"position": "2430,300,4230",
-			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122021,
-			"id": 601,
-			"position": "5130,0,2610",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122022,
-			"id": 601,
-			"position": "5310,0,2610",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122023,
-			"id": 601,
-			"position": "5310,0,1530",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122024,
-			"id": 601,
-			"position": "5490,0,1530",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122025,
-			"id": 601,
-			"position": "1530,0,6570",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122026,
-			"id": 601,
-			"position": "1350,0,6570",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122027,
-			"id": 601,
-			"position": "2070,0,5490",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122028,
-			"id": 601,
-			"position": "2070,0,5670",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122029,
-			"id": 601,
-			"position": "3870,0,7290",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122030,
-			"id": 601,
-			"position": "3870,0,7470",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122031,
-			"id": 601,
-			"position": "3690,0,6030",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122032,
-			"id": 601,
-			"position": "3330,0,6750",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122033,
-			"id": 601,
-			"position": "3330,0,6930",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122034,
-			"id": 601,
-			"position": "3510,0,6030",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122035,
-			"id": 601,
-			"position": "3690,0,2610",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122036,
-			"id": 601,
-			"position": "3870,0,2610",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122037,
-			"id": 601,
-			"position": "2790,0,2250",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122038,
-			"id": 601,
-			"position": "2970,0,2250",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122039,
-			"id": 601,
-			"position": "7470,0,1350",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122040,
-			"id": 601,
-			"position": "7290,0,1530",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122041,
-			"id": 601,
-			"position": "6750,0,1530",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122042,
-			"id": 601,
-			"position": "6930,0,1350",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122043,
-			"id": 601,
-			"position": "6930,0,1530",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122044,
-			"id": 601,
-			"position": "8910,0,3330",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122045,
-			"id": 601,
-			"position": "8730,0,3330",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122046,
-			"id": 601,
-			"position": "8190,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122047,
-			"id": 601,
-			"position": "8370,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122048,
-			"id": 601,
-			"position": "9810,0,3870",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122049,
-			"id": 601,
-			"position": "9630,0,4050",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122050,
-			"id": 202,
-			"position": "2610,300,4230",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122051,
-			"id": 202,
-			"position": "1710,300,4590",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122052,
-			"id": 202,
-			"position": "990,300,4950",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122053,
-			"id": 202,
-			"position": "3150,0,2970",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122054,
-			"id": 202,
-			"position": "3870,0,3510",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122055,
-			"id": 202,
-			"position": "4590,0,3510",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122056,
-			"id": 202,
-			"position": "5130,0,4050",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122057,
-			"id": 202,
-			"position": "6210,0,3510",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122058,
-			"id": 202,
-			"position": "9090,300,810",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122059,
-			"id": 203,
-			"position": "8910,0,1530",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122060,
-			"id": 1101,
-			"position": "8730,300,2070",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122061,
-			"id": 1601,
-			"position": "1800,0,3420",
-			"param": "0;7290,0,2610;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122062,
-			"id": 1601,
-			"position": "7200,0,2700",
-			"param": "0;1890,0,3330;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122063,
-			"id": 1601,
-			"position": "3600,0,1080",
-			"param": "0;10170,0,990;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122064,
-			"id": 1601,
-			"position": "10080,0,1080",
-			"param": "0;3510,0,990;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122065,
-			"id": 1601,
-			"position": "5400,0,720",
-			"param": "0;630,0,6210;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122066,
-			"id": 1601,
-			"position": "720,0,6300",
-			"param": "0;5310,0,630;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122067,
-			"id": 909,
-			"position": "1800,0,5220",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122068,
-			"id": 901,
-			"position": "2880,0,4500",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122069,
-			"id": 909,
-			"position": "4320,0,3960",
-			"rotation": 270,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122070,
-			"id": 905,
-			"position": "2520,0,6840",
-			"rotation": 270,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122071,
-			"id": 901,
-			"position": "3600,0,5760",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122072,
-			"id": 905,
-			"position": "9000,0,2700",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122073,
-			"id": 99901,
-			"position": "5490,0,4410",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122074,
-			"id": 901,
-			"position": "8280,0,1620",
-			"rotation": 270,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122075,
-			"id": 905,
-			"position": "5400,0,3240",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122076,
-			"id": 905,
-			"position": "3600,0,2880",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122077,
-			"id": 1101,
-			"position": "3150,0,4898",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122078,
-			"id": 99901,
-			"position": "1530,0,4590",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122079,
-			"id": 99901,
-			"position": "1710,0,4230",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122080,
-			"id": 99901,
-			"position": "2070,0,4410",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122081,
-			"id": 99901,
-			"position": "1890,0,4770",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122082,
-			"id": 99901,
-			"position": "3510,0,4050",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122083,
-			"id": 99901,
-			"position": "3690,0,4230",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122084,
-			"id": 99901,
-			"position": "3690,0,3870",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122085,
-			"id": 99901,
-			"position": "3870,0,4050",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122086,
-			"id": 99902,
-			"position": "1170,0,4500",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122087,
-			"id": 99902,
-			"position": "2160,0,4050",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122088,
-			"id": 99902,
-			"position": "3960,0,3330",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122089,
-			"id": 99902,
-			"position": "4410,0,3600",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122090,
-			"id": 99902,
-			"position": "3330,0,3600",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122091,
-			"id": 1101,
-			"position": "4590,0,4050",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122092,
-			"id": 99902,
-			"position": "9360,0,630",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122093,
-			"id": 99902,
-			"position": "9180,0,1890",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122094,
-			"id": 99902,
-			"position": "8370,0,1080",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122095,
-			"id": 99903,
-			"position": "8550,0,1530",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122096,
-			"id": 99902,
-			"position": "6390,0,4320",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122097,
-			"id": 99902,
-			"position": "9000,0,2610",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122098,
-			"id": 601,
-			"position": "4230,0,6570",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122099,
-			"id": 1301,
-			"position": "9630,300,2070",
-			"rotation": 270,
-			"param": "1003;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122100,
-			"id": 905,
-			"position": "5400,0,1080",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122101,
-			"id": 1401,
-			"position": "3780,0,3330",
-			"rotation": 90,
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyICCAsqCCIGCLW+RBAC",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122102,
-			"id": 1101,
-			"position": "2430,0,7236",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122103,
-			"id": 909,
-			"position": "4680,0,2160",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122105,
-			"id": 909,
-			"position": "6120,0,1620",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122106,
-			"id": 202,
-			"position": "1710,0,6750",
-			"rotation": 180,
-			"param": "620",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122107,
-			"id": 203,
-			"position": "1350,0,5670",
-			"rotation": 90,
-			"param": "620",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122108,
-			"id": 601,
-			"position": "1890,0,6030",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122109,
-			"id": 601,
-			"position": "2070,0,6030",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122110,
-			"id": 601,
-			"position": "2250,0,6210",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122111,
-			"id": 601,
-			"position": "2250,0,6030",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122112,
-			"id": 1801,
-			"position": "2430,0,4590",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122113,
-			"id": 1801,
-			"position": "1350,0,4950",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122114,
-			"id": 1801,
-			"position": "4230,0,4950",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122115,
-			"id": 1801,
-			"position": "3330,0,3330",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122116,
-			"id": 1801,
-			"position": "4590,0,4590",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122117,
-			"id": 2103,
-			"position": "4058,86,4233",
-			"rotation": 199,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122118,
-			"id": 1801,
-			"position": "5670,0,3690",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122119,
-			"id": 203,
-			"position": "5670,0,990",
-			"rotation": 270,
-			"param": "620",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122121,
-			"id": 2103,
-			"position": "1890,100,6930",
-			"rotation": 90,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122122,
-			"id": 1301,
-			"position": "3690,0,5490",
-			"rotation": 180,
-			"param": "1003;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122123,
-			"id": 601,
-			"position": "4410,0,6570",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122124,
-			"id": 601,
-			"position": "4410,0,6390",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122125,
-			"id": 2103,
-			"position": "2430,92,4770",
-			"rotation": 207,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122126,
-			"id": 2103,
-			"position": "3484,69,2223",
-			"rotation": 180,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122127,
-			"id": 2103,
-			"position": "4931,77,1895",
-			"rotation": 155,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122128,
-			"id": 2103,
-			"position": "7259,93,1382",
-			"rotation": 76,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122129,
-			"id": 2103,
-			"position": "9090,89,1710",
-			"param": "1004;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122130,
-			"id": 99902,
-			"position": "4590,0,4320",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122131,
-			"id": 2103,
-			"position": "5319,49,4231",
-			"rotation": 176,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122132,
-			"id": 1401,
-			"position": "5130,0,1980",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCNS+RBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122133,
-			"id": 1401,
-			"position": "2970,300,1800",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCNW+RBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122134,
-			"id": 1401,
-			"position": "3150,0,1980",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCNa+RBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122135,
-			"id": 1401,
-			"position": "3240,0,2070",
-			"rotation": 90,
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyICCAsqCCIGCNe+RBAC",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122136,
-			"id": 601,
-			"position": "3690,0,1890",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122137,
-			"id": 601,
-			"position": "3510,0,1890",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122138,
-			"id": 2105,
-			"position": "2857,0,6570",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122139,
-			"id": 2105,
-			"position": "2790,0,6488",
-			"rotation": 180,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122140,
-			"id": 2105,
-			"position": "3037,0,7110",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122141,
-			"id": 2105,
-			"position": "1792,0,6930",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122142,
-			"id": 2105,
-			"position": "1808,0,5850",
-			"rotation": 270,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122143,
-			"id": 2105,
-			"position": "990,0,3937",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122144,
-			"id": 2105,
-			"position": "1448,0,4050",
-			"rotation": 270,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122145,
-			"id": 2105,
-			"position": "3232,0,4590",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122146,
-			"id": 2105,
-			"position": "4050,0,3757",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122147,
-			"id": 2105,
-			"position": "3248,0,2790",
-			"rotation": 270,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122148,
-			"id": 2105,
-			"position": "3510,0,2528",
-			"rotation": 180,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122149,
-			"id": 2105,
-			"position": "3690,0,2528",
-			"rotation": 180,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122150,
-			"id": 2105,
-			"position": "4657,0,3690",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122151,
-			"id": 2105,
-			"position": "4883,0,4230",
-			"rotation": 270,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122153,
-			"id": 2105,
-			"position": "5228,0,2790",
-			"rotation": 270,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122154,
-			"id": 2105,
-			"position": "5572,0,2610",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122155,
-			"id": 2105,
-			"position": "5490,0,2528",
-			"rotation": 180,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122156,
-			"id": 2105,
-			"position": "7110,0,1988",
-			"rotation": 180,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122157,
-			"id": 2105,
-			"position": "9090,0,1612",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122158,
-			"id": 2105,
-			"position": "8632,0,3150",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122159,
-			"id": 2105,
-			"position": "8910,0,3757",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1122160,
-			"id": 906,
-			"position": "1800,0,3780",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123001,
-			"id": 1411,
-			"position": "5310,0,3690",
-			"param": "1;2;1;1",
-			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCLnFRBAB",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123002,
-			"id": 1411,
-			"position": "5310,0,3510",
-			"param": "1;2;1;1",
-			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCLrFRBAB",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123003,
-			"id": 1401,
-			"position": "5040,300,3330",
-			"rotation": 90,
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyICCAsqCCIGCLvFRBAC",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123004,
-			"id": 1401,
-			"position": "5040,300,3150",
-			"rotation": 90,
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyICCAsqCCIGCLzFRBAC",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123005,
-			"id": 604,
-			"position": "4410,0,990",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123006,
-			"id": 1411,
-			"position": "4410,0,2610",
-			"param": "1;2;1;1",
-			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCL7FRBAB",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123007,
-			"id": 604,
-			"position": "4410,0,810",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123008,
-			"id": 99903,
-			"position": "4410,0,1350",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123009,
-			"id": 99902,
-			"position": "4590,0,900",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123010,
-			"id": 604,
-			"position": "4950,0,1170",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123011,
-			"id": 604,
-			"position": "5130,0,1170",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123012,
-			"id": 604,
-			"position": "5130,0,990",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123013,
-			"id": 604,
-			"position": "4950,0,990",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123014,
-			"id": 604,
-			"position": "4770,0,990",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123015,
-			"id": 604,
-			"position": "4770,0,1170",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123016,
-			"id": 99901,
-			"position": "4950,0,450",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123017,
-			"id": 604,
-			"position": "4590,0,2070",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123018,
-			"id": 604,
-			"position": "4950,0,2070",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123019,
-			"id": 1101,
-			"position": "8550,300,5310",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123020,
-			"id": 1601,
-			"position": "6210,0,2430",
-			"param": "0;9100,0,5504;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123021,
-			"id": 1301,
-			"position": "6660,0,2160",
-			"rotation": 180,
-			"param": "1003;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123022,
-			"id": 99804,
-			"position": "5762,130,1676",
-			"rotation": 270,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123023,
-			"id": 603,
-			"position": "6030,0,1530",
-			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123024,
-			"id": 603,
-			"position": "6930,0,1530",
-			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123025,
-			"id": 603,
-			"position": "6390,0,1350",
-			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123026,
-			"id": 603,
-			"position": "6570,0,1350",
-			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123027,
-			"id": 202,
-			"position": "5850,0,2790",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123028,
-			"id": 1601,
-			"position": "8190,0,1530",
-			"param": "0;3313,0,4203;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123029,
-			"id": 99901,
-			"position": "7650,0,5670",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123030,
-			"id": 601,
-			"position": "8190,0,3330",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123031,
-			"id": 601,
-			"position": "8010,0,3330",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123032,
-			"id": 601,
-			"position": "8010,0,3150",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123033,
-			"id": 601,
-			"position": "8190,0,3150",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123034,
-			"id": 601,
-			"position": "8190,0,2970",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123035,
-			"id": 99901,
-			"position": "8010,0,5670",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123036,
-			"id": 99901,
-			"position": "8370,0,5670",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123037,
-			"id": 202,
-			"position": "7290,0,5850",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123038,
-			"id": 99903,
-			"position": "7650,0,6210",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123039,
-			"id": 2103,
-			"position": "8370,0,5850",
-			"param": "1004;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123040,
-			"id": 99803,
-			"position": "7413,0,5766",
-			"rotation": 180,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123041,
-			"id": 601,
-			"position": "8190,0,5310",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123042,
-			"id": 601,
-			"position": "8910,0,5310",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123043,
-			"id": 202,
-			"position": "4230,0,2790",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123044,
-			"id": 99803,
-			"position": "5310,0,2610",
-			"rotation": 270,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123045,
-			"id": 203,
-			"position": "9090,0,5850",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123046,
-			"id": 601,
-			"position": "8730,0,6210",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123047,
-			"id": 1301,
-			"position": "8250,0,1895",
-			"rotation": 270,
-			"param": "1003;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123048,
-			"id": 603,
-			"position": "7830,0,5670",
-			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123049,
-			"id": 603,
-			"position": "8190,0,5670",
-			"param": "37;51050;4;0;1;10019;1000;1110;999;-1;20008-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123050,
-			"id": 601,
-			"position": "8550,0,5850",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123051,
-			"id": 905,
-			"position": "5040,0,3960",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123052,
-			"id": 905,
-			"position": "5760,0,5040",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123053,
-			"id": 905,
-			"position": "8280,0,2700",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123054,
-			"id": 1101,
-			"position": "5850,0,6030",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123055,
-			"id": 1101,
-			"position": "6750,0,6480",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123056,
-			"id": 99901,
-			"position": "6570,0,6390",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123057,
-			"id": 99901,
-			"position": "6570,0,5850",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123058,
-			"id": 99901,
-			"position": "7110,0,6030",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123059,
-			"id": 99901,
-			"position": "7110,0,6390",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123060,
-			"id": 1801,
-			"position": "6390,0,5310",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123061,
-			"id": 1801,
-			"position": "6570,0,5130",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123062,
-			"id": 1801,
-			"position": "6030,0,4590",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123063,
-			"id": 99802,
-			"position": "5850,0,4889",
-			"param": "1004;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123064,
-			"id": 2103,
-			"position": "6207,0,5366",
-			"rotation": 270,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123065,
-			"id": 1101,
-			"position": "6210,0,5310",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123066,
-			"id": 99902,
-			"position": "6750,0,5400",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123067,
-			"id": 601,
-			"position": "4770,0,5490",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123068,
-			"id": 601,
-			"position": "5490,0,5490",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123069,
-			"id": 601,
-			"position": "5490,0,4950",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123070,
-			"id": 601,
-			"position": "4950,0,4230",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123071,
-			"id": 1301,
-			"position": "5490,0,5130",
-			"rotation": 180,
-			"param": "1003;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123072,
-			"id": 99901,
-			"position": "5490,0,4410",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123073,
-			"id": 1601,
-			"position": "4272,0,3197",
-			"param": "0;9011,0,2933;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123074,
-			"id": 99903,
-			"position": "3330,0,3690",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123075,
 			"id": 1701,
-			"position": "2970,0,3330",
+			"position": "7830,0,6030",
 			"rotation": 0,
 			"param": "",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1123076,
-			"id": 1801,
-			"position": "3690,0,2970",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123077,
-			"id": 604,
-			"position": "3690,0,3510",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123078,
-			"id": 604,
-			"position": "3510,0,3330",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123079,
-			"id": 604,
-			"position": "3690,0,3150",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123080,
-			"id": 604,
-			"position": "3870,0,3330",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123081,
-			"id": 604,
-			"position": "3510,0,2970",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123082,
-			"id": 604,
-			"position": "3870,0,2970",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123083,
-			"id": 604,
-			"position": "3690,0,2790",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123084,
-			"id": 99901,
-			"position": "3330,0,2610",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123085,
-			"id": 1101,
-			"position": "5220,0,2790",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123086,
-			"id": 1101,
-			"position": "3870,0,3150",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123087,
-			"id": 909,
-			"position": "8280,0,4860",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123088,
-			"id": 909,
-			"position": "7200,0,1980",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123089,
-			"id": 905,
-			"position": "5760,0,1440",
-			"rotation": 270,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123090,
-			"id": 99903,
-			"position": "5850,0,2790",
+			"uid": 1122008,
+			"id": 99917,
+			"position": "8910,0,5670",
 			"rotation": 90,
 			"param": "1;1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1123091,
-			"id": 2103,
-			"position": "5269,95,5273",
-			"rotation": 180,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123092,
-			"id": 1101,
-			"position": "5893,0,1026",
-			"param": "10;10;10;100",
+			"uid": 1122009,
+			"id": 99902,
+			"position": "8100,0,5490",
+			"param": "1;1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1123093,
-			"id": 909,
-			"position": "3960,0,3240",
+			"uid": 1122010,
+			"id": 1401,
+			"position": "7470,0,3600",
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCNq9RBAC",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122011,
+			"id": 99902,
+			"position": "6570,0,720",
 			"rotation": 90,
-			"param": "1",
+			"param": "1;1",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1123094,
-			"id": 909,
-			"position": "2520,0,2700",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123095,
-			"id": 909,
-			"position": "3240,0,2160",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123096,
-			"id": 909,
-			"position": "3240,0,4320",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123097,
+			"uid": 1122012,
 			"id": 99901,
 			"position": "8730,0,5310",
 			"param": "1;1",
@@ -16660,1123 +14536,1684 @@
 			"minigameCreate": []
 		},
 		{
-			"uid": 1123098,
-			"id": 601,
-			"position": "5670,0,3870",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"uid": 1122013,
+			"id": 2104,
+			"position": "2872,0,3150",
+			"rotation": 90,
+			"param": "0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122014,
+			"id": 202,
+			"position": "9270,0,6210",
+			"param": "112224",
 			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122015,
+			"id": 202,
+			"position": "8910,0,5130",
+			"param": "112221",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122016,
+			"id": 202,
+			"position": "8190,0,5490",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122017,
+			"id": 203,
+			"position": "7830,0,4410",
+			"param": "112232",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122018,
+			"id": 202,
+			"position": "8550,0,4410",
+			"param": "112222",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122019,
+			"id": 202,
+			"position": "8910,0,3690",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122020,
+			"id": 202,
+			"position": "6570,300,1350",
+			"param": "112224",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122021,
+			"id": 202,
+			"position": "6390,0,450",
+			"param": "112221",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122022,
+			"id": 202,
+			"position": "5850,0,630",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122023,
+			"id": 202,
+			"position": "4950,0,990",
+			"param": "112224",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122024,
+			"id": 202,
+			"position": "5490,0,2430",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122025,
+			"id": 203,
+			"position": "4950,0,1890",
+			"param": "112233",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122026,
+			"id": 201,
+			"position": "4770,0,1530",
+			"param": "112211",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122027,
+			"id": 99901,
+			"position": "9270,0,6030",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122028,
+			"id": 99902,
+			"position": "6840,0,990",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122029,
+			"id": 99902,
+			"position": "8640,0,2610",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122030,
+			"id": 2109,
+			"position": "8370,0,4590",
+			"param": "1;0,1000;0,1000",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122031,
+			"id": 604,
+			"position": "6030,0,2250",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122032,
+			"id": 604,
+			"position": "6210,0,2250",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122033,
+			"id": 604,
+			"position": "6390,0,2250",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122034,
+			"id": 604,
+			"position": "6030,0,1710",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122035,
+			"id": 604,
+			"position": "6210,0,1710",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122036,
+			"id": 1801,
+			"position": "6390,0,2070",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122037,
+			"id": 99904,
+			"position": "5760,0,3420",
+			"rotation": 270,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122038,
+			"id": 99902,
+			"position": "5850,0,2880",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122039,
+			"id": 99902,
+			"position": "4590,0,2160",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122040,
+			"id": 202,
+			"position": "4050,0,3870",
+			"param": "112222",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122041,
+			"id": 202,
+			"position": "6030,0,2610",
+			"param": "112221",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122042,
+			"id": 202,
+			"position": "4770,0,2970",
+			"param": "112224",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122043,
+			"id": 604,
+			"position": "810,0,2790",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122044,
+			"id": 604,
+			"position": "810,0,2610",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122045,
+			"id": 99901,
+			"position": "450,0,3150",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122046,
+			"id": 99901,
+			"position": "810,0,2970",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122047,
+			"id": 99904,
+			"position": "1080,0,2520",
+			"rotation": 180,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122051,
+			"id": 1801,
+			"position": "990,0,3150",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122052,
+			"id": 1801,
+			"position": "1170,0,2430",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122053,
+			"id": 202,
+			"position": "450,0,2970",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122054,
+			"id": 202,
+			"position": "630,0,2430",
+			"param": "112221",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122055,
+			"id": 202,
+			"position": "1890,300,3150",
+			"rotation": 90,
+			"param": "112222",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122056,
+			"id": 202,
+			"position": "2430,0,2430",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122057,
+			"id": 2105,
+			"position": "2872,0,2970",
+			"rotation": 90,
+			"param": "0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122058,
+			"id": 99902,
+			"position": "1980,0,4230",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122059,
+			"id": 99902,
+			"position": "540,0,5490",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122060,
+			"id": 202,
+			"position": "1350,0,4770",
+			"param": "112224",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122061,
+			"id": 99901,
+			"position": "810,0,4410",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122062,
+			"id": 1101,
+			"position": "1350,0,4770",
+			"param": "10;10;10;15",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122063,
+			"id": 99914,
+			"position": "1170,0,4590",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122064,
+			"id": 99904,
+			"position": "1800,0,2520",
+			"rotation": 180,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122065,
+			"id": 201,
+			"position": "1710,0,5490",
+			"param": "112211",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122066,
+			"id": 202,
+			"position": "2070,0,4410",
+			"param": "112221",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122067,
+			"id": 202,
+			"position": "450,0,5310",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122068,
+			"id": 99904,
+			"position": "4860,0,1080",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122069,
+			"id": 1,
+			"position": "3240,0,4320",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122070,
+			"id": 906,
+			"position": "2520,0,2700",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122071,
+			"id": 906,
+			"position": "3960,0,3240",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122072,
+			"id": 912,
+			"position": "8280,0,2700",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122073,
+			"id": 906,
+			"position": "8280,0,4860",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122074,
+			"id": 99901,
+			"position": "5310,0,2070",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122075,
+			"id": 99902,
+			"position": "4590,0,1080",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122082,
+			"id": 1801,
+			"position": "7650,0,1890",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122083,
+			"id": 604,
+			"position": "8190,0,1350",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122084,
+			"id": 604,
+			"position": "8010,0,1350",
+			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122085,
+			"id": 202,
+			"position": "8550,0,1350",
+			"param": "112224",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122086,
+			"id": 202,
+			"position": "9090,0,1710",
+			"param": "112222",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122087,
+			"id": 202,
+			"position": "8910,0,2610",
+			"param": "112224",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122090,
+			"id": 99901,
+			"position": "9090,0,1890",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122091,
+			"id": 202,
+			"position": "3690,0,6390",
+			"param": "112224",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122093,
+			"id": 203,
+			"position": "1350,0,3870",
+			"param": "112231",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122094,
+			"id": 202,
+			"position": "3870,0,4050",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122095,
+			"id": 202,
+			"position": "3870,0,2790",
+			"param": "112223",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122096,
+			"id": 202,
+			"position": "3150,0,3150",
+			"param": "112222",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122105,
+			"id": 99901,
+			"position": "4950,0,2790",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122106,
+			"id": 2103,
+			"position": "450,0,4950",
+			"rotation": 180,
+			"param": "1004;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122107,
+			"id": 1101,
+			"position": "4950,0,990",
+			"param": "10;10;10;15",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122108,
+			"id": 1101,
+			"position": "8190,0,5490",
+			"param": "10;10;10;15",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122109,
+			"id": 2109,
+			"position": "3690,0,3690",
+			"param": "1;0,1000;0,1000",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122112,
+			"id": 99901,
+			"position": "9090,0,5130",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122113,
+			"id": 2105,
+			"position": "8010,0,3397",
+			"param": "0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122114,
+			"id": 2105,
+			"position": "8550,0,3397",
+			"param": "0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1122116,
+			"id": 2109,
+			"position": "7830,0,2970",
+			"param": "1;0,1000;0,1000",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123001,
+			"id": 99907,
+			"position": "5940,0,5220",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123002,
+			"id": 99907,
+			"position": "7020,0,5220",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123003,
+			"id": 99901,
+			"position": "6210,0,6570",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123004,
+			"id": 99902,
+			"position": "5940,0,6390",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123005,
+			"id": 5002,
+			"position": "5850,0,6210",
+			"rotation": 180,
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCL3FRBAB",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123006,
+			"id": 241,
+			"position": "5850,0,5310",
+			"rotation": 90,
+			"param": "20016;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123007,
+			"id": 202,
+			"position": "7110,0,5130",
+			"param": "112321",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123008,
+			"id": 202,
+			"position": "6030,0,6390",
+			"param": "112323",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123009,
+			"id": 203,
+			"position": "6030,0,6030",
+			"rotation": 180,
+			"param": "112331",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123010,
+			"id": 201,
+			"position": "6210,0,6570",
+			"rotation": 90,
+			"param": "112311",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123011,
+			"id": 201,
+			"position": "5850,0,7110",
+			"rotation": 180,
+			"param": "112311",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123012,
+			"id": 1701,
+			"position": "5490,0,7020",
+			"rotation": 0,
+			"param": "",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123013,
+			"id": 2109,
+			"position": "5490,0,6570",
+			"param": "1;0,1000;0,1000",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123014,
+			"id": 2118,
+			"position": "6210,0,4770",
+			"rotation": 90,
+			"param": "1;1123051,3,1;0,0,0;1123051;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123015,
+			"id": 911,
+			"position": "4500,0,5940",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123016,
+			"id": 99907,
+			"position": "3780,0,5580",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123017,
+			"id": 99901,
+			"position": "4050,0,6210",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123018,
+			"id": 99902,
+			"position": "3780,0,7470",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123019,
+			"id": 1401,
+			"position": "4320,0,7290",
+			"rotation": 90,
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyICCAsqCCIGCMvFRBAC",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123020,
+			"id": 919,
+			"position": "3870,0,6120",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123021,
+			"id": 2130,
+			"position": "4770,0,6300",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123022,
+			"id": 2117,
+			"position": "4230,0,5670",
+			"rotation": 180,
+			"param": "1;1123020,3,1;1123021,1,3;1123107;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123023,
+			"id": 99901,
+			"position": "3870,0,6390",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123024,
+			"id": 201,
+			"position": "3870,0,7470",
+			"rotation": 270,
+			"param": "112311",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123025,
+			"id": 202,
+			"position": "4050,0,6210",
+			"param": "112323",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123026,
+			"id": 202,
+			"position": "4590,300,6570",
+			"rotation": 270,
+			"param": "112324",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123027,
+			"id": 202,
+			"position": "4770,0,5490",
+			"rotation": 90,
+			"param": "112322",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123028,
+			"id": 99901,
+			"position": "4770,0,5490",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123029,
+			"id": 1101,
+			"position": "4950,0,6930",
+			"param": "10;10;10;15",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123030,
+			"id": 1801,
+			"position": "4950,0,7110",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123031,
+			"id": 1801,
+			"position": "4590,0,5670",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123032,
+			"id": 1401,
+			"position": "6210,0,5760",
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCNjFRBAC",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123033,
+			"id": 2132,
+			"position": "6030,0,5760",
+			"rotation": 180,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123034,
+			"id": 2117,
+			"position": "6390,0,5850",
+			"rotation": 180,
+			"param": "1;1123054,3,1;0,0,0;1123054;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123035,
+			"id": 99902,
+			"position": "6480,0,5850",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123036,
+			"id": 1401,
+			"position": "6390,0,5940",
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCNzFRBAC",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123037,
+			"id": 1401,
+			"position": "6570,0,5940",
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCN3FRBAC",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123038,
+			"id": 99901,
+			"position": "6930,0,5850",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123039,
+			"id": 99901,
+			"position": "7470,0,4590",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123040,
+			"id": 99903,
+			"position": "6930,0,4950",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123041,
+			"id": 1,
+			"position": "6660,0,4680",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123042,
+			"id": 202,
+			"position": "6570,0,4950",
+			"rotation": 270,
+			"param": "112324",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123043,
+			"id": 99804,
+			"position": "6258,27,3588",
+			"rotation": 180,
+			"param": "1004;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123044,
+			"id": 202,
+			"position": "7110,0,4950",
+			"rotation": 270,
+			"param": "112323",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123045,
+			"id": 2109,
+			"position": "6210,0,4050",
+			"rotation": 180,
+			"param": "1;0,1000;0,1000",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123046,
+			"id": 911,
+			"position": "6120,0,4500",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123047,
+			"id": 99904,
+			"position": "7380,0,3780",
+			"rotation": 180,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123048,
+			"id": 916,
+			"position": "3240,0,4320",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123049,
+			"id": 2118,
+			"position": "7290,0,3870",
+			"rotation": 90,
+			"param": "1;1123050,3,1;0,0,0;1123050;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123050,
+			"id": 2129,
+			"position": "6480,0,3600",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123051,
+			"id": 2129,
+			"position": "6660,0,3960",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123052,
+			"id": 911,
+			"position": "4320,0,5400",
+			"rotation": 180,
+			"param": "1",
+			"minigameCreate": [
+				2,
+				3
+			],
+			"dynamicCoverDirectPb": ""
+		},
+		{
+			"uid": 1123053,
+			"id": 203,
+			"position": "5490,0,3690",
+			"param": "112332",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123054,
+			"id": 2129,
+			"position": "6480,0,5040",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123055,
+			"id": 201,
+			"position": "2610,0,4770",
+			"param": "112311",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123056,
+			"id": 201,
+			"position": "1350,0,3870",
+			"param": "112311",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123057,
+			"id": 202,
+			"position": "1710,0,4410",
+			"rotation": 90,
+			"param": "112324",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123058,
+			"id": 203,
+			"position": "2970,0,3690",
+			"param": "112331",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123059,
+			"id": 1701,
+			"position": "720,0,4320",
+			"rotation": 0,
+			"param": "",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123060,
+			"id": 1701,
+			"position": "6120,0,900",
+			"rotation": 0,
+			"param": "",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123061,
+			"id": 1701,
+			"position": "7560,0,2520",
+			"rotation": 0,
+			"param": "",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123062,
+			"id": 1,
+			"position": "5760,0,1980",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123063,
+			"id": 202,
+			"position": "6210,0,2610",
+			"param": "112322",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123064,
+			"id": 203,
+			"position": "6390,0,2070",
+			"param": "112333",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123065,
+			"id": 202,
+			"position": "6930,0,3150",
+			"param": "112324",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123066,
+			"id": 1801,
+			"position": "4050,0,990",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123067,
+			"id": 1801,
+			"position": "3150,0,1890",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123068,
+			"id": 1801,
+			"position": "4050,0,2250",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123069,
+			"id": 201,
+			"position": "3150,0,810",
+			"rotation": 180,
+			"param": "112311",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123070,
+			"id": 201,
+			"position": "4050,0,1530",
+			"rotation": 180,
+			"param": "112311",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123071,
+			"id": 202,
+			"position": "3330,0,2070",
+			"rotation": 90,
+			"param": "112322",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123072,
+			"id": 99901,
+			"position": "2250,0,2250",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123073,
+			"id": 203,
+			"position": "1710,0,1890",
+			"rotation": 180,
+			"param": "112332",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123074,
+			"id": 203,
+			"position": "2430,0,3150",
+			"rotation": 90,
+			"param": "112331",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123075,
+			"id": 203,
+			"position": "1530,0,3330",
+			"param": "112334",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123076,
+			"id": 5,
+			"position": "5760,0,3690",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123077,
+			"id": 902,
+			"position": "2160,0,3600",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123078,
+			"id": 99901,
+			"position": "1710,0,4590",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123079,
+			"id": 99901,
+			"position": "2790,0,4770",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123080,
+			"id": 99901,
+			"position": "2970,0,4050",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123081,
+			"id": 99901,
+			"position": "2430,0,4230",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123082,
+			"id": 99901,
+			"position": "2070,0,4230",
+			"rotation": 270,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123083,
+			"id": 99901,
+			"position": "1170,0,3690",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123084,
+			"id": 99901,
+			"position": "1170,0,4950",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123085,
+			"id": 243,
+			"position": "1170,0,3690",
+			"param": "20018;0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123086,
+			"id": 243,
+			"position": "2790,0,4770",
+			"param": "20018;0",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123087,
+			"id": 243,
+			"position": "1710,0,4590",
+			"rotation": 90,
+			"param": "20018;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123088,
+			"id": 243,
+			"position": "2070,0,4230",
+			"rotation": 270,
+			"param": "20018;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123089,
+			"id": 201,
+			"position": "1170,0,4950",
+			"rotation": 90,
+			"param": "112311",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123090,
+			"id": 99901,
+			"position": "1530,0,4590",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123091,
+			"id": 99902,
+			"position": "4860,0,990",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123092,
+			"id": 201,
+			"position": "4770,0,990",
+			"rotation": 90,
+			"param": "112311",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123093,
+			"id": 201,
+			"position": "4950,0,1350",
+			"rotation": 90,
+			"param": "112311",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123094,
+			"id": 1801,
+			"position": "4590,0,1170",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123095,
+			"id": 1801,
+			"position": "5130,0,450",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123096,
+			"id": 5002,
+			"position": "4950,0,6390",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCJjGRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123097,
+			"id": 99902,
+			"position": "4500,0,1890",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1123098,
+			"id": 2105,
+			"position": "6112,0,3150",
+			"rotation": 90,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1123099,
-			"id": 601,
-			"position": "5490,0,3870",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2105,
+			"position": "6210,0,3248",
+			"rotation": 180,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1123100,
-			"id": 601,
-			"position": "5490,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2105,
+			"position": "6390,0,3248",
+			"rotation": 180,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1123101,
-			"id": 601,
-			"position": "5670,0,3690",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2105,
+			"position": "1710,0,2348",
+			"rotation": 180,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1123102,
-			"id": 601,
-			"position": "4770,0,2970",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
+			"id": 2105,
+			"position": "1710,0,3052",
+			"param": "0",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1123103,
-			"id": 601,
-			"position": "4590,0,2970",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2105,
+			"position": "2332,0,2970",
+			"rotation": 90,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1123104,
-			"id": 601,
-			"position": "4770,0,3150",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2105,
+			"position": "2250,0,2888",
+			"rotation": 180,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1123105,
-			"id": 601,
-			"position": "4590,0,3150",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
+			"id": 2105,
+			"position": "5048,0,3870",
+			"rotation": 270,
+			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
 			"uid": 1123106,
-			"id": 604,
-			"position": "5130,300,3330",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123107,
-			"id": 604,
-			"position": "4950,300,3150",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123108,
-			"id": 2103,
-			"position": "4944,87,814",
-			"rotation": 54,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123109,
-			"id": 202,
-			"position": "4230,0,3690",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123110,
-			"id": 2103,
-			"position": "5545,0,3100",
-			"rotation": 180,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123111,
-			"id": 99901,
-			"position": "5310,0,630",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123112,
-			"id": 2103,
-			"position": "8190,95,2250",
-			"rotation": 180,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123113,
-			"id": 2103,
-			"position": "4410,81,3510",
-			"rotation": 212,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123114,
-			"id": 2103,
-			"position": "3330,87,3151",
-			"rotation": 270,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123115,
-			"id": 1401,
-			"position": "8370,0,3960",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCKvGRBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123116,
-			"id": 1401,
-			"position": "8550,0,3960",
-			"param": "13;2;2;1;0",
-			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCKzGRBAC",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123117,
-			"id": 1411,
-			"position": "8010,0,3870",
-			"param": "1;2;1;1",
-			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCK3GRBAB",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123118,
-			"id": 203,
-			"position": "4770,0,3690",
-			"rotation": 90,
-			"param": "620",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123134,
-			"id": 2105,
-			"position": "5490,0,5377",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123135,
-			"id": 2105,
-			"position": "5932,0,810",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123136,
-			"id": 2105,
-			"position": "8992,0,5130",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123137,
-			"id": 2105,
-			"position": "8370,0,2857",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123138,
-			"id": 2105,
-			"position": "9090,0,3397",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1123139,
-			"id": 2105,
-			"position": "8190,0,2348",
-			"rotation": 180,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124001,
-			"id": 202,
-			"position": "1170,0,7110",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124002,
-			"id": 202,
-			"position": "1350,0,5850",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124003,
-			"id": 202,
-			"position": "2430,0,6030",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124004,
-			"id": 202,
-			"position": "3330,0,5130",
-			"rotation": 90,
-			"param": "620",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124005,
-			"id": 202,
-			"position": "4950,0,4230",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124006,
-			"id": 202,
-			"position": "6930,0,1350",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124007,
-			"id": 203,
-			"position": "3690,0,2610",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124008,
-			"id": 203,
-			"position": "4050,0,3150",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124009,
-			"id": 202,
-			"position": "6930,0,2250",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124010,
-			"id": 1601,
-			"position": "5310,0,5130",
-			"param": "0;3510,0,990;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124011,
-			"id": 1601,
-			"position": "3690,0,990",
-			"param": "0;5476,0,5130;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124012,
-			"id": 1601,
-			"position": "3690,0,5490",
-			"param": "0;5490,0,2250;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124013,
-			"id": 1601,
-			"position": "5490,0,2250",
-			"param": "0;3510,0,5490;30001",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124014,
-			"id": 601,
-			"position": "1350,0,5490",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124015,
-			"id": 601,
-			"position": "1710,0,6750",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124016,
-			"id": 601,
-			"position": "1890,0,6750",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124017,
-			"id": 601,
-			"position": "1710,0,6570",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124018,
-			"id": 601,
-			"position": "1170,0,7290",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124019,
-			"id": 601,
-			"position": "2070,0,6930",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124020,
-			"id": 601,
-			"position": "3150,0,4950",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124021,
-			"id": 601,
-			"position": "3150,0,4770",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124022,
-			"id": 99804,
-			"position": "8282,180,2029",
-			"rotation": 270,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124023,
-			"id": 99902,
-			"position": "8010,0,1980",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124024,
-			"id": 203,
-			"position": "8910,0,990",
-			"param": "620",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124025,
-			"id": 601,
-			"position": "4770,0,4050",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124026,
-			"id": 601,
-			"position": "6210,0,1710",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124027,
-			"id": 601,
-			"position": "6210,0,1530",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124028,
-			"id": 601,
-			"position": "6390,0,1710",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124031,
-			"id": 601,
-			"position": "3330,0,2250",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124032,
-			"id": 601,
-			"position": "3330,0,2070",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124033,
-			"id": 601,
-			"position": "5310,0,2070",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124034,
-			"id": 601,
-			"position": "5310,0,1890",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124035,
-			"id": 601,
-			"position": "5490,0,1890",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124036,
-			"id": 601,
-			"position": "5490,0,2070",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124037,
-			"id": 601,
-			"position": "8730,0,2070",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124038,
-			"id": 601,
-			"position": "8730,0,1890",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124039,
-			"id": 601,
-			"position": "8730,0,1710",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124040,
-			"id": 601,
-			"position": "8910,0,1710",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124041,
-			"id": 601,
-			"position": "8910,0,1890",
-			"param": "37;51010;4;0;99;10017;1000;1108;999;-1;20000-99",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124044,
-			"id": 605,
-			"position": "6390,0,4590",
-			"param": "37;51070;4;0;0;10021;1000;1112;999;-1;20003-0,20013-1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124045,
-			"id": 604,
-			"position": "5490,300,4050",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124046,
-			"id": 604,
-			"position": "5670,300,4050",
-			"param": "37;51040;4;0;1;10020;1000;1111;999;-1;20002-1,20015-0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124047,
-			"id": 99907,
-			"position": "1800,0,5760",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124048,
-			"id": 99902,
-			"position": "2430,0,6300",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124049,
-			"id": 99902,
-			"position": "1980,0,6390",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124050,
-			"id": 2103,
-			"position": "8910,90,1530",
-			"param": "1004;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124051,
-			"id": 99901,
-			"position": "3870,0,4950",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124052,
-			"id": 1411,
-			"position": "4050,0,4050",
-			"param": "1;2;1;1",
-			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCNTNRBAB",
-			"rotation": 0,
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124053,
-			"id": 99901,
-			"position": "4230,0,3150",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124054,
-			"id": 99901,
-			"position": "3690,0,3330",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124055,
-			"id": 1801,
-			"position": "4050,0,4950",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124056,
-			"id": 99902,
-			"position": "3150,0,3240",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124057,
-			"id": 99904,
-			"position": "3600,0,3600",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124058,
-			"id": 99904,
-			"position": "3600,0,3060",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124059,
-			"id": 99904,
-			"position": "5220,0,3420",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124060,
-			"id": 99904,
-			"position": "5580,0,3780",
-			"rotation": 180,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124061,
-			"id": 99802,
-			"position": "9180,0,2520",
-			"rotation": 180,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124062,
-			"id": 99805,
-			"position": "4291,151,4155",
-			"rotation": 270,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124063,
-			"id": 99901,
-			"position": "6210,0,1170",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124064,
-			"id": 99901,
-			"position": "4410,0,3330",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124065,
-			"id": 99901,
-			"position": "4770,0,3690",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124066,
-			"id": 99901,
-			"position": "5130,0,4590",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124067,
-			"id": 99902,
-			"position": "4680,0,4590",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124068,
-			"id": 99902,
-			"position": "6390,0,3780",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124069,
-			"id": 99901,
-			"position": "6390,0,4410",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124070,
-			"id": 99903,
-			"position": "5850,0,4590",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124071,
-			"id": 99901,
-			"position": "7110,0,2250",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124072,
-			"id": 99901,
-			"position": "3870,0,2430",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124073,
-			"id": 99901,
-			"position": "7650,0,1890",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124074,
-			"id": 99901,
-			"position": "7650,0,1530",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124076,
-			"id": 99901,
-			"position": "8010,0,1170",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124077,
-			"id": 99902,
-			"position": "7200,0,1170",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124079,
-			"id": 99904,
-			"position": "6480,0,1440",
-			"rotation": 90,
-			"param": "1;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124080,
-			"id": 901,
-			"position": "3600,0,5040",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124081,
-			"id": 905,
-			"position": "2880,0,4500",
-			"rotation": 270,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124082,
-			"id": 905,
-			"position": "1800,0,5220",
-			"param": "1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124083,
-			"id": 905,
-			"position": "4680,0,2160",
-			"rotation": 270,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124084,
-			"id": 901,
-			"position": "6120,0,1620",
-			"rotation": 270,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124085,
-			"id": 905,
-			"position": "8280,0,1620",
-			"rotation": 270,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124086,
-			"id": 905,
-			"position": "9000,0,2700",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124087,
-			"id": 909,
-			"position": "2520,0,6840",
-			"rotation": 90,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124088,
-			"id": 909,
-			"position": "3600,0,2880",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124089,
-			"id": 909,
-			"position": "5400,0,3240",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124090,
-			"id": 909,
-			"position": "5400,0,1080",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124091,
-			"id": 99802,
-			"position": "2160,0,5400",
-			"rotation": 270,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124092,
-			"id": 99802,
-			"position": "4592,0,1991",
-			"rotation": 270,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124094,
-			"id": 99803,
-			"position": "2790,0,4658",
-			"rotation": 180,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124095,
-			"id": 2103,
-			"position": "3674,92,1879",
-			"rotation": 64,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124096,
-			"id": 2103,
-			"position": "5292,102,3682",
-			"rotation": 90,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124097,
-			"id": 2103,
-			"position": "3331,100,4051",
-			"rotation": 90,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124098,
-			"id": 901,
-			"position": "3600,0,1440",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124099,
-			"id": 99901,
-			"position": "2430,0,7110",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124100,
-			"id": 99901,
-			"position": "1710,0,7290",
-			"param": "1;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124101,
-			"id": 1301,
-			"position": "5487,0,4853",
-			"rotation": 180,
-			"param": "1003;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124102,
-			"id": 1801,
-			"position": "5490,0,4590",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124103,
-			"id": 1801,
-			"position": "3690,0,6480",
-			"param": "20006;450;1",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124104,
-			"id": 909,
-			"position": "3600,0,5760",
-			"rotation": 180,
-			"param": "1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124105,
 			"id": 99901,
 			"position": "3150,0,3690",
 			"param": "1;1",
@@ -17785,208 +16222,811 @@
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124106,
+			"uid": 1123107,
 			"id": 99901,
-			"position": "5130,0,3870",
+			"position": "4410,0,6030",
 			"param": "1;1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124107,
-			"id": 2103,
-			"position": "5715,0,1890",
+			"uid": 1124001,
+			"id": 5006,
+			"position": "3150,0,7470",
 			"rotation": 90,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCKHNRBAB",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124108,
-			"id": 2103,
-			"position": "7161,102,1293",
-			"rotation": 90,
-			"param": "1004;1",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124109,
-			"id": 2103,
-			"position": "6225,97,3720",
-			"param": "1004;1",
+			"uid": 1124002,
+			"id": 5102,
+			"position": "3330,0,7470",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCKLNRBAB",
 			"rotation": 0,
-			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124110,
-			"id": 1101,
-			"position": "3870,0,3330",
-			"param": "10;10;10;100",
+			"uid": 1124003,
+			"id": 5102,
+			"position": "3330,0,7290",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCKPNRBAB",
 			"rotation": 0,
-			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124111,
-			"id": 1101,
-			"position": "3690,0,3510",
-			"param": "10;10;10;100",
+			"uid": 1124004,
+			"id": 5102,
+			"position": "3150,0,7290",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCKTNRBAB",
 			"rotation": 0,
-			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124112,
-			"id": 1321,
-			"position": "4050,0,4770",
-			"param": "10030;1",
+			"uid": 1124005,
+			"id": 5102,
+			"position": "3150,0,7110",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCKXNRBAB",
 			"rotation": 0,
-			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124113,
-			"id": 99901,
-			"position": "2250,0,5670",
-			"param": "1;1",
+			"uid": 1124006,
+			"id": 5102,
+			"position": "3330,0,7110",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCKbNRBAB",
 			"rotation": 0,
-			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124114,
-			"id": 1101,
-			"position": "3870,0,1890",
-			"param": "10;10;10;100",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124116,
-			"id": 2105,
-			"position": "1432,0,5670",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124117,
-			"id": 2105,
-			"position": "1430,0,7110",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124118,
-			"id": 2105,
-			"position": "1072,0,4410",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124119,
-			"id": 2105,
-			"position": "1242,0,4590",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124120,
-			"id": 2105,
-			"position": "3968,0,4770",
-			"rotation": 270,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124121,
-			"id": 2105,
-			"position": "3510,0,2332",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124122,
-			"id": 2105,
-			"position": "3870,0,1953",
-			"param": "0",
-			"rotation": 0,
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124123,
-			"id": 2105,
-			"position": "4050,0,2528",
+			"uid": 1124007,
+			"id": 202,
+			"position": "3510,0,7290",
 			"rotation": 180,
-			"param": "0",
+			"param": "112422",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124124,
-			"id": 2105,
-			"position": "5022,0,2430",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124125,
-			"id": 2105,
-			"position": "5008,0,2790",
-			"rotation": 90,
-			"param": "0",
-			"dynamicCoverDirectPb": "",
-			"minigameCreate": []
-		},
-		{
-			"uid": 1124126,
-			"id": 2105,
-			"position": "6750,0,1417",
-			"param": "0",
+			"uid": 1124008,
+			"id": 911,
+			"position": "5040,0,6480",
+			"param": "1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124127,
-			"id": 2105,
-			"position": "6668,0,1350",
+			"uid": 1124009,
+			"id": 202,
+			"position": "2790,300,8010",
+			"rotation": 90,
+			"param": "112423",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124010,
+			"id": 201,
+			"position": "2790,0,7290",
 			"rotation": 270,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124011,
+			"id": 99902,
+			"position": "3510,0,7200",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124012,
+			"id": 1101,
+			"position": "3510,0,7200",
+			"param": "10;10;10;15",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124013,
+			"id": 202,
+			"position": "2970,0,7290",
+			"param": "112421",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124014,
+			"id": 99907,
+			"position": "4140,0,6840",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124015,
+			"id": 202,
+			"position": "4590,300,6570",
+			"param": "112423",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124016,
+			"id": 201,
+			"position": "4410,0,7830",
+			"rotation": 270,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124017,
+			"id": 201,
+			"position": "5670,0,7110",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124018,
+			"id": 99902,
+			"position": "6120,0,4410",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124019,
+			"id": 5006,
+			"position": "6750,0,7110",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCLPNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124020,
+			"id": 5102,
+			"position": "6750,0,7290",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCLTNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124021,
+			"id": 5102,
+			"position": "6930,0,7290",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCLXNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124022,
+			"id": 5102,
+			"position": "6930,0,7110",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCLbNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124023,
+			"id": 5102,
+			"position": "7110,0,7110",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCLfNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124024,
+			"id": 5102,
+			"position": "7110,0,7290",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCLjNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124025,
+			"id": 202,
+			"position": "6750,0,7470",
+			"rotation": 90,
+			"param": "112422",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124026,
+			"id": 202,
+			"position": "5310,0,4410",
+			"rotation": 90,
+			"param": "112421",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124027,
+			"id": 201,
+			"position": "7110,0,8190",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124028,
+			"id": 201,
+			"position": "6750,0,6930",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124029,
+			"id": 1601,
+			"position": "5040,15,3420",
+			"param": "0;1440,0,3600;30001",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124030,
+			"id": 2109,
+			"position": "1710,0,3510",
+			"rotation": 270,
+			"param": "1;0,1000;0,1000",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124031,
+			"id": 909,
+			"position": "6840,0,6120",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124032,
+			"id": 5005,
+			"position": "6570,0,4230",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMDNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124033,
+			"id": 5102,
+			"position": "6570,0,4410",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMHNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124034,
+			"id": 5102,
+			"position": "6750,0,4410",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMLNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124035,
+			"id": 5102,
+			"position": "6750,0,4230",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMPNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124036,
+			"id": 1401,
+			"position": "1080,0,2250",
+			"rotation": 90,
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsI////////////ARIAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAGgAaABoAGgAaABoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaAggLGgIICxoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaABoAGgAaABoAIgIICyICCAsqCCIGCMTNRBAC",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124037,
+			"id": 202,
+			"position": "5310,0,6210",
+			"rotation": 270,
+			"param": "112423",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124038,
+			"id": 201,
+			"position": "5130,0,4050",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124039,
+			"id": 201,
+			"position": "4950,0,4050",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124040,
+			"id": 5006,
+			"position": "4410,0,3690",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMjNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124041,
+			"id": 5102,
+			"position": "4410,0,3870",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMnNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124042,
+			"id": 5102,
+			"position": "4590,0,3870",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMrNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124043,
+			"id": 5102,
+			"position": "4590,0,3690",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMvNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124044,
+			"id": 5102,
+			"position": "4770,0,3690",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCMzNRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124045,
+			"id": 5102,
+			"position": "4770,0,3870",
+			"param": "1;2;1;1",
+			"dynamicCoverDirectPb": "CgASABoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICyICCAsqCCIGCM3NRBAB",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124046,
+			"id": 203,
+			"position": "4950,0,3870",
+			"rotation": 90,
+			"param": "112433",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124047,
+			"id": 913,
+			"position": "5400,0,3780",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124048,
+			"id": 1,
+			"position": "5040,0,3600",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124049,
+			"id": 1,
+			"position": "7920,0,4680",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124050,
+			"id": 99907,
+			"position": "1080,0,1980",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124051,
+			"id": 241,
+			"position": "6750,0,5850",
+			"rotation": 180,
+			"param": "20016;0",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124052,
+			"id": 911,
+			"position": "3240,0,3960",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124053,
+			"id": 2109,
+			"position": "6930,0,5850",
+			"rotation": 180,
+			"param": "1;0,1000;0,1000",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124054,
+			"id": 1801,
+			"position": "7830,0,4950",
+			"param": "20006;450;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124055,
+			"id": 99905,
+			"position": "5490,0,6570",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124056,
+			"id": 202,
+			"position": "3510,0,3690",
+			"rotation": 270,
+			"param": "112422",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124057,
+			"id": 202,
+			"position": "3330,300,4770",
+			"rotation": 180,
+			"param": "112424",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124058,
+			"id": 202,
+			"position": "6930,300,4590",
+			"rotation": 270,
+			"param": "112422",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124059,
+			"id": 203,
+			"position": "7650,300,4230",
+			"rotation": 270,
+			"param": "112431",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124060,
+			"id": 201,
+			"position": "5670,0,5490",
+			"param": "112411",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124061,
+			"id": 202,
+			"position": "2430,0,5310",
+			"rotation": 180,
+			"param": "112421",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124062,
+			"id": 916,
+			"position": "3240,0,5400",
+			"param": "1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124063,
+			"id": 909,
+			"position": "6840,0,3960",
+			"rotation": 90,
+			"param": "1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124064,
+			"id": 201,
+			"position": "6930,0,4230",
+			"rotation": 90,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124065,
+			"id": 202,
+			"position": "6030,300,5130",
+			"rotation": 180,
+			"param": "112424",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124066,
+			"id": 2103,
+			"position": "990,0,2430",
+			"rotation": 90,
+			"param": "1004;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124067,
+			"id": 2103,
+			"position": "990,0,1710",
+			"rotation": 90,
+			"param": "1004;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124068,
+			"id": 2103,
+			"position": "1890,0,2250",
+			"rotation": 90,
+			"param": "1004;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124069,
+			"id": 201,
+			"position": "2790,0,4410",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124070,
+			"id": 201,
+			"position": "4050,0,5130",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124071,
+			"id": 203,
+			"position": "5130,0,2250",
+			"param": "112432",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124072,
+			"id": 202,
+			"position": "5130,0,2070",
+			"rotation": 180,
+			"param": "112422",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124073,
+			"id": 201,
+			"position": "3330,0,7650",
+			"rotation": 90,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124074,
+			"id": 99901,
+			"position": "5490,0,7290",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124075,
+			"id": 201,
+			"position": "2790,0,6390",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124076,
+			"id": 202,
+			"position": "7830,0,7290",
+			"rotation": 270,
+			"param": "112423",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124077,
+			"id": 201,
+			"position": "7290,0,6930",
+			"rotation": 180,
+			"param": "112411",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124078,
+			"id": 1701,
+			"position": "3240,0,5760",
+			"rotation": 0,
+			"param": "",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124079,
+			"id": 2103,
+			"position": "1890,0,1890",
+			"rotation": 90,
+			"param": "1004;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124080,
+			"id": 2109,
+			"position": "3510,0,3510",
+			"rotation": 270,
+			"param": "1;0,1000;0,1000",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124081,
+			"id": 202,
+			"position": "4950,0,2250",
+			"param": "112422",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124082,
+			"id": 1401,
+			"position": "1350,0,2700",
+			"param": "13;2;2;1;0",
+			"dynamicCoverDirectPb": "CgsQ////////////ARIAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgIICxoCCAsaAggLGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAGgAaABoAIgIICyICCAsqCCIGCPLNRBAC",
+			"rotation": 0,
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124083,
+			"id": 2105,
+			"position": "532,0,2790",
+			"rotation": 90,
 			"param": "0",
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124128,
+			"uid": 1124084,
 			"id": 2105,
-			"position": "8550,0,1777",
+			"position": "630,0,2692",
 			"param": "0",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []
 		},
 		{
-			"uid": 1124129,
-			"id": 2105,
-			"position": "9090,0,3225",
-			"param": "0",
+			"uid": 1124085,
+			"id": 99907,
+			"position": "6480,0,7200",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124087,
+			"id": 99902,
+			"position": "5670,0,4320",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124088,
+			"id": 99901,
+			"position": "5490,0,4770",
+			"param": "1;1",
+			"rotation": 0,
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124089,
+			"id": 99902,
+			"position": "4950,0,5040",
+			"rotation": 90,
+			"param": "1;1",
+			"dynamicCoverDirectPb": "",
+			"minigameCreate": []
+		},
+		{
+			"uid": 1124090,
+			"id": 99905,
+			"position": "3870,0,2610",
+			"param": "1;1",
 			"rotation": 0,
 			"dynamicCoverDirectPb": "",
 			"minigameCreate": []

@@ -207,14 +207,14 @@
 		{
 			"Id": 1035,
 			"typeCode": 1,
-			"model": "YinzhuSSR01",
+			"model": "JiangyuSSR01",
+			"clothId": 204,
+			"shoesId": 2,
+			"audioVoice": 119,
 			"cuesheetUsed": [
 				"C_SSR01_Jiangyu",
 				"Gun_AR"
-			],
-			"clothId": 0,
-			"shoesId": 0,
-			"audioVoice": 0
+			]
 		},
 		{
 			"Id": 1036,
@@ -352,7 +352,7 @@
 			"Id": 100101,
 			"typeCode": 1,
 			"model": "CharolicSR0101",
-			"clothId": 201,
+			"clothId": 206,
 			"shoesId": 2,
 			"audioVoice": 114,
 			"cuesheetUsed": [
@@ -363,7 +363,7 @@
 			"Id": 100103,
 			"typeCode": 1,
 			"model": "CharolicSR0103",
-			"clothId": 201,
+			"clothId": 206,
 			"shoesId": 2,
 			"audioVoice": 114,
 			"cuesheetUsed": [

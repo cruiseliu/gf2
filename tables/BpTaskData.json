@@ -11,10 +11,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30001,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1002,
@@ -43,10 +43,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30001,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1004,
@@ -75,10 +75,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30001,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1006,
@@ -91,10 +91,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30001,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1007,
@@ -108,9 +108,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30001,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1008,
@@ -124,9 +124,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30001,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1009,
@@ -140,9 +140,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30001,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1010,
@@ -156,9 +156,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30001,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1011,
@@ -172,9 +172,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30001,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1012,
@@ -188,9 +188,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30001,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1013,
@@ -204,9 +204,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30001,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1014,
@@ -236,9 +236,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30001,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 1016,
@@ -324,7 +324,7 @@
 			"id": 1021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -348,9 +348,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30001,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 1023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30001,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 2001,
@@ -363,10 +379,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30002,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2002,
@@ -395,10 +411,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30002,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2004,
@@ -427,10 +443,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30002,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2006,
@@ -443,10 +459,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30002,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2007,
@@ -460,9 +476,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30002,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2008,
@@ -476,9 +492,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30002,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2009,
@@ -492,9 +508,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30002,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2010,
@@ -508,9 +524,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30002,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2011,
@@ -524,9 +540,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30002,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2012,
@@ -540,9 +556,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30002,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2013,
@@ -556,9 +572,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30002,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2014,
@@ -588,9 +604,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30002,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 2016,
@@ -676,7 +692,7 @@
 			"id": 2021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -700,9 +716,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30002,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 2023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30002,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 3001,
@@ -715,10 +747,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30003,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3002,
@@ -747,10 +779,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30003,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3004,
@@ -779,10 +811,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30003,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3006,
@@ -795,10 +827,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30003,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3007,
@@ -812,9 +844,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30003,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3008,
@@ -828,9 +860,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30003,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3009,
@@ -844,9 +876,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30003,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3010,
@@ -860,9 +892,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30003,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3011,
@@ -876,9 +908,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30003,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3012,
@@ -892,9 +924,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30003,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3013,
@@ -908,9 +940,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30003,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3014,
@@ -940,9 +972,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30003,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 3016,
@@ -1028,7 +1060,7 @@
 			"id": 3021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -1052,9 +1084,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30003,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 3023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30003,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 4001,
@@ -1067,10 +1115,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30004,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4002,
@@ -1099,10 +1147,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30004,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4004,
@@ -1131,10 +1179,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30004,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4006,
@@ -1147,10 +1195,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30004,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4007,
@@ -1164,9 +1212,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30004,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4008,
@@ -1180,9 +1228,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30004,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4009,
@@ -1196,9 +1244,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30004,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4010,
@@ -1212,9 +1260,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30004,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4011,
@@ -1228,9 +1276,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30004,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4012,
@@ -1244,9 +1292,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30004,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4013,
@@ -1260,9 +1308,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30004,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4014,
@@ -1292,9 +1340,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30004,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 4016,
@@ -1380,7 +1428,7 @@
 			"id": 4021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -1404,9 +1452,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30004,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 4023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30004,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 5001,
@@ -1419,10 +1483,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30005,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5002,
@@ -1451,10 +1515,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30005,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5004,
@@ -1483,10 +1547,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30005,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5006,
@@ -1499,10 +1563,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30005,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5007,
@@ -1516,9 +1580,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30005,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5008,
@@ -1532,9 +1596,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30005,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5009,
@@ -1548,9 +1612,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30005,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5010,
@@ -1564,9 +1628,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30005,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5011,
@@ -1580,9 +1644,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30005,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5012,
@@ -1596,9 +1660,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30005,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5013,
@@ -1612,9 +1676,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30005,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5014,
@@ -1644,9 +1708,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30005,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 5016,
@@ -1732,7 +1796,7 @@
 			"id": 5021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -1756,9 +1820,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30005,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 5023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30005,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 6001,
@@ -1771,10 +1851,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30006,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6002,
@@ -1803,10 +1883,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30006,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6004,
@@ -1835,10 +1915,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30006,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6006,
@@ -1851,10 +1931,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30006,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6007,
@@ -1868,9 +1948,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30006,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6008,
@@ -1884,9 +1964,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30006,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6009,
@@ -1900,9 +1980,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30006,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6010,
@@ -1916,9 +1996,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30006,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6011,
@@ -1932,9 +2012,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30006,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6012,
@@ -1948,9 +2028,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30006,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6013,
@@ -1964,9 +2044,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30006,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6014,
@@ -1996,9 +2076,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30006,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 6016,
@@ -2084,7 +2164,7 @@
 			"id": 6021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -2108,9 +2188,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30006,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 6023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30006,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 7001,
@@ -2123,10 +2219,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30007,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7002,
@@ -2155,10 +2251,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30007,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7004,
@@ -2187,10 +2283,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30007,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7006,
@@ -2203,10 +2299,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30007,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7007,
@@ -2220,9 +2316,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30007,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7008,
@@ -2236,9 +2332,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30007,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7009,
@@ -2252,9 +2348,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30007,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7010,
@@ -2268,9 +2364,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30007,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7011,
@@ -2284,9 +2380,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30007,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7012,
@@ -2300,9 +2396,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30007,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7013,
@@ -2316,9 +2412,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30007,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7014,
@@ -2348,9 +2444,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30007,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 7016,
@@ -2436,7 +2532,7 @@
 			"id": 7021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -2460,9 +2556,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30007,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 7023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30007,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 8001,
@@ -2475,10 +2587,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30008,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8002,
@@ -2507,10 +2619,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30008,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8004,
@@ -2539,10 +2651,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30008,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8006,
@@ -2555,10 +2667,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30008,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8007,
@@ -2572,9 +2684,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30008,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8008,
@@ -2588,9 +2700,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30008,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8009,
@@ -2604,9 +2716,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30008,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8010,
@@ -2620,9 +2732,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30008,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8011,
@@ -2636,9 +2748,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30008,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8012,
@@ -2652,9 +2764,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30008,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8013,
@@ -2668,9 +2780,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30008,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8014,
@@ -2700,9 +2812,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30008,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 8016,
@@ -2788,7 +2900,7 @@
 			"id": 8021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -2812,9 +2924,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30008,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 8023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30008,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 9001,
@@ -2827,10 +2955,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30009,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9002,
@@ -2859,10 +2987,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30009,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9004,
@@ -2891,10 +3019,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30009,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9006,
@@ -2907,10 +3035,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30009,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9007,
@@ -2924,9 +3052,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30009,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9008,
@@ -2940,9 +3068,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30009,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9009,
@@ -2956,9 +3084,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30009,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9010,
@@ -2972,9 +3100,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30009,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9011,
@@ -2988,9 +3116,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30009,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9012,
@@ -3004,9 +3132,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30009,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9013,
@@ -3020,9 +3148,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30009,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9014,
@@ -3052,9 +3180,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30009,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 9016,
@@ -3140,7 +3268,7 @@
 			"id": 9021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -3164,9 +3292,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30009,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 9023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30009,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 10001,
@@ -3179,10 +3323,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30010,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10002,
@@ -3211,10 +3355,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30010,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10004,
@@ -3243,10 +3387,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30010,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10006,
@@ -3259,10 +3403,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30010,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10007,
@@ -3276,9 +3420,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30010,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10008,
@@ -3292,9 +3436,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30010,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10009,
@@ -3308,9 +3452,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30010,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10010,
@@ -3324,9 +3468,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30010,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10011,
@@ -3340,9 +3484,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30010,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10012,
@@ -3356,9 +3500,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30010,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10013,
@@ -3372,9 +3516,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30010,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10014,
@@ -3404,9 +3548,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30010,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 10016,
@@ -3492,7 +3636,7 @@
 			"id": 10021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -3516,9 +3660,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30010,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 10023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30010,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 11001,
@@ -3531,10 +3691,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30011,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11002,
@@ -3563,10 +3723,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30011,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11004,
@@ -3595,10 +3755,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30011,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11006,
@@ -3611,10 +3771,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30011,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11007,
@@ -3628,9 +3788,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30011,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11008,
@@ -3644,9 +3804,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30011,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11009,
@@ -3660,9 +3820,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30011,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11010,
@@ -3676,9 +3836,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30011,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11011,
@@ -3692,9 +3852,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30011,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11012,
@@ -3708,9 +3868,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30011,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11013,
@@ -3724,9 +3884,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30011,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11014,
@@ -3756,9 +3916,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30011,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 11016,
@@ -3844,7 +4004,7 @@
 			"id": 11021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -3868,9 +4028,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30011,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 11023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30011,
+			"openCondition": 0,
+			"closeCondition": 0
 		},
 		{
 			"id": 12001,
@@ -3883,10 +4059,10 @@
 				"601": 75
 			},
 			"link": "7001",
-			"weight": 1000,
 			"seasonId": 30012,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12002,
@@ -3915,10 +4091,10 @@
 				"601": 75
 			},
 			"link": "1098",
-			"weight": 1000,
 			"seasonId": 30012,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12004,
@@ -3947,10 +4123,10 @@
 				"601": 75
 			},
 			"link": "3008",
-			"weight": 1000,
 			"seasonId": 30012,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12006,
@@ -3963,10 +4139,10 @@
 				"601": 75
 			},
 			"link": "3002",
-			"weight": 1000,
 			"seasonId": 30012,
 			"openCondition": 0,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12007,
@@ -3980,9 +4156,9 @@
 			},
 			"link": "3018",
 			"openCondition": 11005,
-			"weight": 1000,
 			"seasonId": 30012,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12008,
@@ -3996,9 +4172,9 @@
 			},
 			"link": "2000",
 			"openCondition": 11002,
-			"weight": 1000,
 			"seasonId": 30012,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12009,
@@ -4012,9 +4188,9 @@
 			},
 			"link": "3003",
 			"openCondition": 11004,
-			"weight": 1000,
 			"seasonId": 30012,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12010,
@@ -4028,9 +4204,9 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30012,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12011,
@@ -4044,9 +4220,9 @@
 			},
 			"link": "3809",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30012,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12012,
@@ -4060,9 +4236,9 @@
 			},
 			"link": "3817",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30012,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12013,
@@ -4076,9 +4252,9 @@
 			},
 			"link": "3825",
 			"openCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30012,
-			"closeCondition": 0
+			"closeCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12014,
@@ -4108,9 +4284,9 @@
 			},
 			"link": "4015",
 			"closeCondition": 11012,
-			"weight": 1000,
 			"seasonId": 30012,
-			"openCondition": 0
+			"openCondition": 0,
+			"weight": 0
 		},
 		{
 			"id": 12016,
@@ -4196,7 +4372,7 @@
 			"id": 12021,
 			"type": 2,
 			"name": "里程纪念：敌方集群",
-			"des": "战斗中累计击杀20个敌方单位（实兵演习除外）",
+			"des": "在战斗中累计击杀20个敌方单位（实兵演习、兵棋推演除外）",
 			"conditionClass": 1102,
 			"conditionNum": 20,
 			"rewardList": {
@@ -4220,9 +4396,25 @@
 			},
 			"link": "3801",
 			"openCondition": 11012,
+			"weight": 1000,
 			"seasonId": 30012,
-			"closeCondition": 0,
-			"weight": 0
+			"closeCondition": 0
+		},
+		{
+			"id": 12023,
+			"type": 1,
+			"name": "线路绘制：补给作战",
+			"des": "在补给作战中获胜2次",
+			"conditionClass": 209,
+			"conditionNum": 2,
+			"rewardList": {
+				"601": 75
+			},
+			"link": "1098",
+			"weight": 1000,
+			"seasonId": 30012,
+			"openCondition": 0,
+			"closeCondition": 0
 		}
 	]
 }

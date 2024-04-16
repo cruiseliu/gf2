@@ -490,6 +490,17 @@
 			"isTpsShootCamera": 0
 		},
 		{
+			"id": 46,
+			"name": "OnEnemyAttackAffectTarget_Self",
+			"type": 20,
+			"prefab": [
+				"OnEnemyAttackAffectTarget_Self"
+			],
+			"tacticReplace": 46,
+			"batchTypeId": 0,
+			"isTpsShootCamera": 0
+		},
+		{
 			"id": 98,
 			"name": "OnAttackReverse",
 			"type": 20,
@@ -750,6 +761,17 @@
 				"SkillTimeline/MosinnagantSR01/MosinnagantSR01_UltraSkill"
 			],
 			"tacticReplace": 1033,
+			"batchTypeId": 0,
+			"isTpsShootCamera": 0
+		},
+		{
+			"id": 1035,
+			"name": "JiangyuSSR01_UltraSkill",
+			"type": 21,
+			"prefab": [
+				"SkillTimeline/JiangyuSSR01/JiangyuSSR01_UltraSkill"
+			],
+			"tacticReplace": 1035,
 			"batchTypeId": 0,
 			"isTpsShootCamera": 0
 		},
